@@ -1,0 +1,13 @@
+Steadfast daily backup 2026-10-01
+Built: 2026-10-01T08:47:58-05:00
+Source: /workspace/biblical-manhood
+Files: 2487  Size: 922MB  Skipped: 30
+Lean pack: 2026-10-01-md-only.tgz (1720 files, 5.8MB, 10 redactions)
+Changed since previous: 1720  Removed: 0
+Origin: aaron-maberry/tmp-1571ddf978c2e3c0 (private)  GitHub: aaronmaberry/steadfast-canon-backup (private)  Drive folder: 1IO1LcXoeTK3PuuuGGOK4LgM560U9qMpM
+Skipped: class tape (training/source), audio/video, asr raw, api-probes, secrets/keys/tokens, LOGINS mirrors,
+  mercury/stripe signup dirs, login/password-wall/2FA shots, export builds, files >100MB. Home address redacted.
+Quarantined by secret scan (0): 
+Public aaronmaberry/steadfast is NOT the book. No spend. No publish.
+
+GitHub seed (2026-10-01): core canon docs only. Full lean tree is on Origin and in the Drive tgz.
