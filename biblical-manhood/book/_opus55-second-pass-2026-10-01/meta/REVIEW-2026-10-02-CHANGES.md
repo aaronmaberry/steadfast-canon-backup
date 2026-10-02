@@ -45,3 +45,30 @@ Result: no real errors found, so no fixes were made beyond the approved text.
 - niv_verify: 158 blocks (132 EXACT, 17 EXACT-EDGE-DROP, 9 EXCERPT-OK), 0 mismatches.
 - `build_local_print.py --strict`: 238 pages, 0 FAIL, 0 WARN; locked front cover sha check passed.
 - PDF: `Steadfast Men - Review Print - 2026-10-02.pdf`, sha256 `871fb7d0…eeb7f`.
+
+## Opus 5.5 proofread, ch1 and ch2 (applied 2026-10-02, approved by Aaron)
+
+Source: cloud-agent-artifacts/bc-54962b95.../opus-check-ch1-ch2.md. Backup: /workspace/backups/pre-opus-proof-2026-10-02/.
+
+Chapter 1 (01-a-quiet-tuesday.md)
+- E1: "ten thousand Tuesdays" became "every Tuesday until she leaves home".
+- S1: "each one under two minutes" became "each choice over in a few seconds".
+- S2: "He tells a story about two houses, too." became "Jesus tells a story about two houses, too."
+- S3: "whether he made that call, kept that drawer shut, told that small truth" became "whether a man made the call, kept the drawer shut, told the small truth".
+- S4: "Pick up when he calls." became "Pick up the call you'd usually let ring out."
+- S5: "Never in a meeting, never out loud." became "He never decided it in a meeting, never out loud."
+
+Chapter 2 (02-you-are-not-crazy.md)
+- E1: Chapter 3 opener (03-the-four-marks.md) now spreads the maps on the table, with no hood or parking lot.
+- S1: the push line now reads "I was told the push inside me to build and lead was a threat ... and then I was told sitting on it was why home felt like a cold room."
+- S2: "Once you see which ones were never real maps, you can stop following them."
+- S3: "and never admitted it had talked them out of all three."
+- S4: "If you don't have a good answer, write the one you've actually been living, even if it's a poor one."
+- O2: "a man on a tailgate".
+- O3: "the bruises of each".
+
+Introduction (00-introduction.md)
+- "twenty-four-week training" became "twenty-four-session training", and "a short map of those weeks" became "a short map of those sessions".
+
+Checks: sweep 5 hits (copyright L28 only), no dashes or banned words, NIV 158 blocks (132 EXACT, 17 EXACT-EDGE-DROP, 9 EXCERPT-OK, 0 mismatches), strict build 238 pages, FAIL 0, WARN 0, cover locked.
+PDF: sha256 `9159460217164fe3…60a51cf`, uploaded to Drive as id 1B85xvTqAWncp6abviJUSHy7OLtPYWdAP (private). The old file 1tiarb4FMBpS6d8ddjz84ZdQdkTCxZrvL was trashed.
