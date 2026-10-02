@@ -14,11 +14,11 @@ I told him across that table what I just told you. He wasn't crazy. Neither are 
 
 ## What it does to a man
 
-I knew every word Garrett said, because I've carried my own pile. Be strong. Wait, be gentle. Take the lead. Wait, step back. That push inside me was a threat, right up until the day I sat on it, and then sitting on it was the reason home felt like a cold room. I knew the pile by heart. It never got me through one ordinary Wednesday.
+I knew every word Garrett said, because I've carried my own pile. Be strong. Wait, be gentle. Take the lead. Wait, step back. I was told the push inside me to build and lead was a threat, right up until the day I sat on it, and then I was told sitting on it was why home felt like a cold room. I knew the pile by heart. It never got me through one ordinary Wednesday.
 
-Crossed instructions do a few things to a man, and I've got the marks of each.
+Crossed instructions do a few things to a man, and I've got the bruises of each.
 
-They lock him up. When somebody has condemned every direction, holding still feels like the only safe move. A lot of what we call passivity in men is exactly this freeze. I've been the man on the tailgate with the tools still zipped in the bag, telling myself a man that unsure had no business touching anything. It sounded humble. The bag never got unzipped.
+They lock him up. When somebody has condemned every direction, holding still feels like the only safe move. A lot of what we call passivity in men is exactly this freeze. I've been a man on a tailgate with the tools still zipped in the bag, telling myself a man that unsure had no business touching anything. It sounded humble. The bag never got unzipped.
 
 They make him a performer. I know the costume changes. One face on Sunday, one at the job, one for the guys after work, one when he walks in his own door. Whoever woke up that morning keeps getting replaced by whoever the room seems to want. Nobody can do that all week and stay full. Under the costumes is a man who never got a picture solid enough to keep, so he borrows one from whoever's nearest.
 
@@ -26,11 +26,11 @@ And they leave him ashamed, and shame shuts a man's mouth. Hand him orders he ca
 
 ## Six maps
 
-So where did all those instructions come from? Spread them out where you can see them. If something never was a map, you can stop paying for it.
+So where did all those instructions come from? Spread them out where you can see them. Once you see which ones were never real maps, you can stop following them.
 
 The first came from home, from whoever sat at the head of the table. He taught you what a man is before you could read, and most of us got that lesson in fragments. Maybe he was there and silent. Maybe he'd already gone. Maybe he blew through the door like a storm front. Even faithful fathers left gaps. We'll walk into that room properly in **The Empty Chair**. For now, notice that you left home with a torn piece of map and went looking for the rest.
 
-The culture was glad to supply it. That second map looked at the itch to build, compete, protect, and take charge, and called it outdated wiring. Then in the same breath it mocked guys who never grew up or committed or took on anything hard, and never admitted it had told them to.
+The culture was glad to supply it. That second map looked at the itch to build, compete, protect, and take charge, and called it outdated wiring. Then in the same breath it mocked guys who never grew up or committed or took on anything hard, and never admitted it had talked them out of all three.
 
 The third map glowed on a screen. Be the sitcom dad lost in his own kitchen, or the brute some boys were taught to admire, or the loner hero of the movie every kid runs in his head. That hero has no worn-out wife, no father who phones twice a year, no teenager who stopped talking, no church, no friends, no sink full of dishes. His life has no street address. We were trained to want it while living in a real house with a real mortgage.
 
@@ -96,7 +96,7 @@ _______________________________________________
 
 **Do this week**
 
-Because six crowds have been talking for you long enough. Write one line: the work you think a man is here to do. If the honest line is a bad one, write the one you've actually been living. Keep that paper. Next chapter you'll set another line beside it.
+Because six crowds have been talking for you long enough. Write one line: the work you think a man is here to do. If you don't have a good answer, write the one you've actually been living, even if it's a poor one. Keep that paper. Next chapter you'll set another line beside it.
 
 :::notes
 _______________________________________________

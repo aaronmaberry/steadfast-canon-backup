@@ -1,6 +1,6 @@
 # 3. The Four Marks
 
-Last chapter we spread the maps out on the hood and watched them argue with each other. That leaves you standing in the lot with a sharper question than the one you drove in with. All right, then. What is a man?
+Last chapter we spread the maps out on the table and watched them argue with each other. That leaves you with a sharper question than the one you sat down with. All right, then. What is a man?
 
 I want to hand you the answer as one sentence that fits in a shirt pocket. We'll open it up afterward, a piece at a time, at the size of an ordinary week. But a picture first, because a sentence without one goes right back on the shelf.
 
