@@ -1,0 +1,446 @@
+# SECTION: Good To Have You
+[warmly] Hey, men. Welcome in.|0.55
+Grab a coffee if you want one. I'd say it's better than last session,|0.25
+but, uh, I'd be lying in a church building.|ROOM_CHUCKLE
+Find a seat, and let's get going.|0.6
+If you sat in the back row last session, I noticed. I'm not saying anything. I noticed.|1.2
+So, last session we talked about plain days.|0.6
+How the days that shape a man aren't the photo-album ones.|0.55
+They're the unremarkable ones.|0.55
+The first words in the kitchen. The guy eating lunch alone. The five minutes after dinner.|0.6
+We said God's mercy shows up fresh every morning,|0.35
+so even a bad Tuesday doesn't have to set the tone for the next one.|0.7
+And you left here with one small move to make,|0.3
+and one man to text about it.|0.65
+I heard some of you actually did that.|0.7
+One guy told me he and his buddy have been texting each other|0.35
+every Tuesday since, and now his buddy's wife thinks they're planning a surprise party.|0.65
+Which is, honestly, a better story than the truth.|0.7
+That's a good problem to have, isn't it?|1.05
+Today I want to talk about something|0.3
+I think a lot of men in this room have felt,|0.3
+but maybe never said out loud.|0.6
+It's the feeling that you're supposed to know how to be a man,|0.25
+and somehow you missed the class.|0.6
+Everybody else seems to have gotten the instructions.|0.8
+You got a whole box of instructions,|0.35
+and they argue with each other.|0.7
+So you've been guessing.|0.4
+For years, maybe.|0.5
+And somewhere along the way, you started to wonder|0.3
+if the problem was you.|0.6
+If you're just not wired right.|0.65
+Here's what I want you to hear before anything else today.|0.7
+You're not crazy.|0.55
+What you've been feeling is real.|0.6
+And most of it got handed to you.|1.35
+
+# SECTION: The Drawer Of Cords
+Let me ask you about a drawer.|0.7
+Most houses have one.|0.4
+It's in the kitchen, or maybe the office,|0.3
+and it's full of cords.|0.6
+Chargers, cables, adapters.|0.5
+A big tangle of them.|0.75
+And you've kept every one, because you might need it someday.|0.75
+You'd never throw one out. That feels wasteful.|0.65
+Who's got a drawer like that at home?|ROOM_HANDS
+Yeah. That's everybody.|0.45
+Some of you have two. One of you has, uh, a whole closet.|1.0
+And here's the funny thing about that drawer.|0.65
+When your phone's dying, and you go to that drawer,|0.3
+not one of those cords fits your phone.|0.8
+There's one for a phone you had six years ago.|0.65
+There's one for a camera nobody in the house remembers buying.|0.6
+There's one that, as far as anybody can tell,|0.35
+doesn't connect to anything on this planet.|ROOM_CHUCKLE
+That drawer is what a lot of us got handed about being a man.|0.75
+A big tangle of instructions.|0.75
+Your dad gave you some, whether he meant to or not.|0.65
+A few of the loudest ones, he never said out loud.|0.7
+Then the culture added a few.|0.6
+Movies added a few.|0.4
+Your coaches. Your buddies. Your first boss.|0.6
+Your phone added about a thousand.|0.8
+And church added some too, and honestly,|0.3
+not all of the church ones agreed with each other.|0.55
+One preacher said, be gentle. The fella after him said, be dangerous.|0.75
+And neither one of them was around at suppertime to show you how.|1.15
+You kept them all.|0.4
+You figured you might need them.|0.8
+And then one day, your life needed power.|0.7
+Your marriage, or your kid, or your own heart.|0.65
+Something real needed a charge, right then.|0.6
+And you reached in that drawer,|0.3
+and nothing in there fit.|1.3
+
+# SECTION: Not Your Fault, Still Your Life
+So let me say it again, slowly, because I think some of you need it.|0.7
+You're not crazy.|0.4
+The instructions really do contradict each other.|0.75
+Never back down from a fight. But don't you dare make a scene.|0.75
+Be the one who fixes things. But quit trying to fix everything, just listen.|0.7
+Be ambitious. But money isn't everything.|0.8
+Be your own man. But do it exactly the way your father did.|0.55
+That's not a set of instructions.|0.65
+That's a tug-of-war, and you're the rope.|0.6
+And the rope doesn't win a tug-of-war. The rope just gets, um, frayed.|1.05
+And when a man tries to obey all of those at once,|0.3
+that's exactly what happens to him.|0.55
+He frays, a thread at a time, in places nobody can see.|0.6
+It's like playing a game where the rules change every quarter,|0.25
+and nobody tells you, and the refs still throw the flag on you.|0.8
+And after enough years of that,|0.25
+a lot of men decide the problem must be them.|0.75
+Everybody else seems to have figured it out.|0.8
+What's wrong with me?|1.0
+Here's the thing.|0.55
+Nothing's wrong with you that isn't wrong with all of us.|0.7
+The knot didn't start in you.|0.7
+It was handed to you already tied.|0.8
+You inherited a drawer full of cords|0.3
+that were never made for your life.|1.2
+Now, hear me right on this.|0.65
+None of that means you're off the hook.|0.7
+You're still a grown man, and you still answer for how you live.|0.65
+The confusion explains a lot.|0.7
+It doesn't excuse everything.|0.45
+But there's a big difference between a man who thinks,|0.3
+I'm broken and that's why I can't figure this out,|0.25
+and a man who thinks,|0.4
+I was handed bad instructions, and now I get to go find good ones.|0.6
+The first man gives up.|0.75
+The second man goes looking.|0.6
+I want you to be the second man.|1.3
+
+# SECTION: Jerome's Homework
+Jerome is a friend of mine, the kind of guy who backs a boat trailer down the ramp on the first try.|0.8
+He runs a big team. Makes good money. Has a really nice truck he doesn't let anybody eat in.|0.65
+Sharp, funny, respected.|0.5
+And a couple of years ago, his fifteen-year-old son|0.3
+came to him with a school assignment.|0.75
+It was for an English class, I think.|0.7
+The kids had to interview a parent about one question.|0.7
+And the question was, what does it mean to be a man?|1.1
+Jerome said he laughed at first. Right out loud.|0.65
+He thought, easy. I've got this.|0.8
+And he started talking.|0.5
+Well, a man works hard. A man provides.|0.6
+A man doesn't let people walk on him.|0.65
+But a man's also gotta be sensitive, you know, these days.|0.55
+A man leads his family.|0.7
+But he also, you know, lets his wife make the big calls, because she's smarter.|0.75
+A man's tough. But he cries sometimes. That's fine.|0.6
+Except, uh, not in front of people.|1.25
+And his son is writing all this down, very carefully,|0.3
+and finally the kid looks up and says,|0.45
+Dad, that's like five different guys. Which one am I writing down?|1.2
+Jerome told me he just sat there.|0.6
+Because the kid was right.|0.7
+He'd been carrying around five different guys his whole life,|0.35
+and trying to be all of them,|0.3
+depending on which room he was in.|0.6
+And he'd never once noticed,|0.3
+until a fifteen-year-old with a pencil pointed it out.|0.75
+That's a rough way to find out, isn't it?|0.7
+He said, I can walk sixty people through a plant shutdown,|0.3
+and I got stumped by tenth-grade English homework.|0.55
+That's when I knew I had a problem.|1.3
+
+# SECTION: What The Tangle Does
+So what does all that tangle actually do to a man?|0.65
+It's not harmless. It leaves marks.|0.6
+I think it does three things,|0.35
+and I've got the marks of all three.|1.0
+The first thing it does is stall him.|0.7
+You ever see a truck get the gas and the brake at the same time?|0.55
+It doesn't go anywhere. It just shudders and, uh, smells bad.|0.6
+That's a man with crossed instructions.|0.6
+Step up. Don't make waves. Fix it. Don't make it about you.|0.75
+So he sits there, shuddering.|0.6
+To his family, it looks like he just doesn't care.|0.7
+Inside, he's got a foot on both pedals.|1.1
+The second thing it does is turn him into a mirror.|0.75
+He becomes whoever the room wants.|0.65
+Put him with the hunting guys, and all of a sudden he's a hunter.|0.75
+Put him with his boss, and he loves golf.|0.6
+He hates golf.|0.4
+I've done this.|0.4
+My wife can tell who I'm on the phone with|0.25
+just by how my voice changes.|0.6
+She says I have a customer service voice.|0.55
+I do. It's very pleasant.|ROOM_CHUCKLE
+But a man who's always reflecting the room|0.25
+never finds out what his own face looks like.|1.2
+And the third thing is shame.|0.6
+It's like a pebble in your boot.|0.8
+Nothing big. You can still walk on it.|0.8
+So you never stop and take the boot off.|0.6
+You just learn to step a little crooked, all day, for years.|0.8
+When you've been handed rules you can't keep,|0.3
+rules that fight each other,|0.25
+you're gonna break some of them every single day.|0.55
+And every time, a little voice says, see? You're failing.|0.55
+I'd bet half the chairs in here are walking a little crooked right now.|0.75
+And hear this. That voice isn't God talking.|0.75
+It's what's left over in a man who's been graded by too many teachers.|0.75
+And the quickest way to get that pebble out|0.3
+is to sit down next to a brother and pull the boot off.|1.3
+
+# SECTION: Wonderfully Made
+So if the instructions are tangled, what's actually true?|0.55
+Let's start with the first verse I want to give you.|0.8
+Psalm one thirty-nine, verse fourteen.|0.6
+I praise you because I am fearfully and wonderfully made;|0.25
+your works are wonderful,|0.45
+I know that full well.|1.5
+David wrote that.|0.45
+A shepherd who became a soldier who became a king.|0.65
+Not a soft man. Not a man who didn't know what he was.|0.6
+A man who knew exactly what a man's heart can do,|0.35
+the good and the very bad.|0.7
+And he looks at himself and says, I was made, and it was wonderful work.|1.05
+Here's why that matters for us.|0.6
+A lot of men have been told, one way or another,|0.25
+that the stuff inside them is a problem.|0.55
+The part of you that goes down the stairs first when there's a noise in the house.|0.75
+The part that can't watch a man change a tire wrong without getting out of the truck.|0.7
+The part that wants to win the church cornhole tournament a little too badly.|0.6
+The part that would stand between his kids and anything.|0.7
+Some people treat that like something you ought to grow out of.|0.6
+Some act like it's a loaded gun.|0.75
+Some just roll their eyes at it.|0.55
+And after a while, a man starts to feel embarrassed about how he's built.|1.05
+And sure, every one of those can be twisted.|0.55
+The man who'd stand between his kids and anything can become a man nobody gets past.|0.65
+The competitor can turn family game night into a war.|0.7
+But the wiring itself isn't the sin.|0.7
+God put it there.|0.4
+You were fearfully and wonderfully made,|0.25
+and that includes being made a man.|0.7
+That's not an accident, and it's not a defect.|0.8
+It's His design.|0.4
+So, you don't have to apologize for being a man.|0.8
+You just have to learn what a man is actually for.|0.55
+And the One who designed it|0.3
+is the best person to ask.|0.75
+You wouldn't ask the neighbor how your truck's supposed to run.|0.75
+You'd, uh, check the manual from the guy who built it.|1.3
+
+# SECTION: Every Chair Has A Knot
+Okay, the knot looks a little different depending on which chair you're in.|0.6
+But I don't think there's a chair in this room without one.|1.3
+Maybe you're twenty, and you work at a tire shop.|0.75
+The guys on your crew razz you for calling your mom on your lunch break.|0.8
+And your mom wants to know why you never call.|0.75
+Two people who both want good things for you,|0.35
+pulling in opposite directions,|0.25
+and there you are between them, twenty years old, holding a lug wrench.|1.25
+Maybe you've been married a few years.|0.65
+Your father-in-law thinks a man handles the money.|0.6
+And your wife has handled the money since the day you met,|0.35
+because, honestly, she's better at it.|0.6
+So every Thanksgiving you feel like you're flunking a test|0.25
+that nobody at the table will say out loud.|1.0
+Maybe you're deep into your working years.|0.8
+Your company has sent you to three different leadership seminars,|0.3
+in three different hotel ballrooms with the same bad coffee,|0.3
+and every one of them said the last one was wrong.|0.6
+You've still got all three binders out in the garage,|0.35
+and they can't agree on anything either.|1.2
+And maybe you're older.|0.4
+Your wife passed a couple of years ago,|0.25
+and at your age you're learning how to cook,|0.25
+and learning how to ask for help,|0.35
+and nobody ever told you a man was allowed to do either one.|0.65
+So there you are, seventy-four, in the produce aisle,|0.25
+on the phone with your daughter, asking her what a shallot is.|ROOM_CHUCKLE
+Different chair, same knot.|0.4
+And every one of those men figures it's just him,|0.3
+that everybody else in the building got it figured out.|0.6
+It's not him. It's the drawer.|1.3
+
+# SECTION: A Voice Behind You
+Here's the second verse.|0.5
+Isaiah thirty, verse twenty-one.|0.65
+Whether you turn to the right or to the left,|0.35
+your ears will hear a voice behind you, saying,|0.35
+"This is the way; walk in it."|1.5
+Now, listen to the setting.|0.6
+God's people are surrounded by voices.|0.55
+Advisors. Allies. Other nations telling them who to trust.|0.65
+Sound familiar?|0.65
+Every voice pointing a different way.|0.65
+And God says, there's one voice that matters.|0.75
+And you'll hear it.|1.0
+I love that it says behind you.|0.65
+Not in front, waving a flag. Behind you, close enough to hear.|0.7
+Like a dad walking behind his kid on a trail.|0.7
+The kid's out front, a little unsure.|0.75
+And every time he drifts toward the edge,|0.3
+there's a voice behind him.|0.7
+Stay left, buddy. That's the way.|1.25
+How does that voice actually reach a man today?|0.55
+Mostly through Scripture.|0.4
+That's the main one.|0.5
+Through older men who've walked the road ahead of you.|0.55
+Through a conscience that's been trained by God's word.|0.55
+Through your wife, sometimes, if you'll let her. Actually, a lot of the time.|0.6
+Through brothers at a table who'll tell you the truth.|0.7
+It's not usually a booming voice from the sky.|0.8
+It's usually a lot quieter than the phone.|0.8
+It doesn't buzz. It doesn't, uh, send you a notification.|0.55
+That's why you have to turn some of the other voices down to hear it.|1.0
+And look at what it says.|0.7
+This is the way. Walk in it.|0.8
+Not, this is the way, think about it.|0.7
+Not, this is the way, have a feeling about it.|0.65
+Walk in it.|0.5
+The answer to a tangled drawer isn't a better theory.|0.7
+It's a road, and you walk it,|0.3
+one plain day at a time.|1.3
+
+# SECTION: Jerome Finds A Table
+Let me finish Jerome's story.|0.6
+After his son said, that's like five different guys,|0.3
+Jerome did something hard for a man like him.|0.8
+He admitted he didn't know.|0.55
+He told his son, you're right.|0.75
+I don't have a straight answer.|0.7
+But I'm gonna go find one, and when I do, I'll tell you.|1.05
+And then he did something even harder.|0.55
+He asked an older man at his church to breakfast.|0.65
+Which, for a guy who runs a team of sixty, felt about like asking his wife to drive.|0.65
+A retired guy, about seventy, named Ike.|0.75
+Jerome, uh, barely knew him. They'd nodded at each other in the lobby for years.|0.55
+He just knew Ike had been married forty-some years,|0.25
+and his grown kids still called him every Sunday without being asked.|0.8
+So Jerome stood in Ike's garage, next to a lawnmower in about forty pieces, and said,|0.4
+I'm embarrassed to ask this. What's a man supposed to be?|1.15
+And Ike didn't laugh.|0.4
+He said, I asked a man the same thing when I was about your age.|0.55
+And then he opened a Bible on the table,|0.3
+and they started meeting, every other Saturday.|0.7
+They read about Jesus, mostly. Ike kept steering them back there.|0.75
+How He lived. How He treated people. What He carried. Where He went first.|1.3
+About eight months later, Jerome sat down with his son.|0.8
+He said, I owe you an answer.|0.65
+And he gave the kid one sentence.|0.7
+Not five guys. One.|0.4
+His son didn't say much.|0.6
+He was sixteen by then, so he said, cool.|0.55
+Which in sixteen-year-old is basically a standing ovation.|0.7
+But Jerome said that night, the kid came downstairs|0.35
+and asked if he could come to breakfast with Ike sometime.|0.75
+That's when Jerome knew the answer had landed.|1.3
+
+# SECTION: The Same Yesterday
+Here's the third verse, and it's short.|0.65
+Hebrews thirteen, verse eight.|0.6
+Jesus Christ is the same yesterday and today and forever.|1.5
+Think about how much the picture of a man has changed,|0.25
+just in our lifetimes.|0.45
+What a man was supposed to be in nineteen fifty|0.3
+is not what he was supposed to be in nineteen ninety,|0.3
+and it's definitely not what your phone says today.|0.55
+Every ten years or so, somebody redraws the picture.|0.65
+The magazines in the dentist's office could tell you that.|0.65
+And if you build your manhood on whatever's current,|0.3
+you'll be out of date before you're finished building.|1.3
+But Jesus is the same.|0.6
+Yesterday, today, forever.|0.4
+He doesn't change with the trends. He doesn't need an update.|0.8
+And that's good news for a man with a drawer full of cords.|0.75
+Because it means there's one fixed point.|0.8
+One picture of a man who was strong and gentle,|0.3
+who led and served,|0.25
+who could flip tables in the temple|0.3
+and hold children on His lap in the same stretch of days.|0.6
+He's not five different guys.|0.7
+He's one Man, all the way through.|0.6
+And He doesn't shift depending on which room He walks into.|1.0
+So when you're trying to figure out what a man is,|0.25
+don't start with what's trending.|0.7
+Start with Him. Not with a podcast about Him. With Him.|0.7
+Look at how He lived on an ordinary day.|0.55
+How He treated the people closest to Him.|0.75
+How He handled pressure and praise and pain.|0.65
+That's the picture.|0.4
+It's the only one that's never gone out of date,|0.3
+and it's the only one that'll still be standing|0.3
+when every cord in that drawer is in a landfill.|1.3
+
+# SECTION: Hank's Scrap
+I'm not gonna stand up here and hand you another tangle.|0.55
+The last thing you need is one more cord that, um, doesn't fit.|0.75
+So here's something that sounds small.|0.55
+Sort your drawer.|0.4
+Pull the instructions out one at a time.|0.75
+Where did each one come from? Is it true?|0.55
+Some were good. Keep those, and thank God for them.|0.8
+You just quit expecting the whole tangle to charge anything.|1.2
+Hank's a buddy of mine who drives a propane truck.|0.65
+Big hands, not a lot of words.|0.65
+He showed me once what he keeps in his wallet, tucked behind his license.|0.8
+A little scrap of paper, folded so many times it's gone soft.|0.8
+Two lines on it, in pencil. Two orders.|0.6
+The top line says, a man keeps his troubles to himself.|0.75
+That one's his dad's.|0.45
+The bottom line says, tell me when something's wrong.|0.7
+That one's his wife's, from their first year married.|0.7
+He wrote them both down because he meant to keep both.|0.8
+But read them side by side.|0.75
+Those two lines were never going to shake hands.|0.6
+For about fifteen years, he tried to obey both anyway.|0.55
+Whichever one he kept, he'd broken the other one,|0.25
+and he figured the problem was him.|1.2
+Then he started reading the Gospels on his lunch breaks,|0.35
+and he noticed Jesus didn't hide His grief from His friends.|0.65
+So he sorted it.|0.55
+The bottom line came from a woman who loves him and needs the truth.|0.65
+The top line came from a dad who was scared of looking weak.|0.55
+Neither line was a mistake. Both were real orders, pulling opposite ways.|0.7
+And that fight wasn't a flaw in Hank. It got handed to him.|0.8
+He still carries the scrap.|0.6
+But now there's a pencil line straight through the top one.|0.75
+He says that one pencil line took him longer than any job he's ever had.|1.3
+
+# SECTION: Lay It On The Table
+Alright. Let me wrap this up.|0.6
+Here's the big idea from today.|0.65
+You're not crazy.|0.4
+The instructions you were handed really do argue with each other,|0.3
+and most of that tangle came from outside you.|0.7
+But you're not stuck with it.|0.75
+You were wonderfully made, on purpose, by a God who knew what He was doing.|0.8
+He still speaks, and His voice says, this is the way, walk in it.|0.55
+And there's one Man who's the same yesterday and today and forever,|0.3
+and He's the picture worth building on.|1.05
+What I want you walking out with is some relief.|0.7
+And then a little bit of resolve.|0.6
+Not a big vow. Just a decision to start.|0.6
+Relief that it's not just you.|0.65
+Resolve to stop guessing and start sorting.|0.7
+Because you don't have to stay tangled.|0.7
+The Father who made you hasn't gone quiet,|0.3
+and He's, uh, not embarrassed by the man He made.|1.05
+Four for your table.|0.4
+First.|0.55
+Make your own version of Hank's scrap.|0.75
+If you wrote two lines on a scrap of paper,|0.25
+two orders about being a man that won't shake hands, what would they say?|0.6
+Where did each one come from?|0.6
+Second.|0.55
+Of the three things the tangle does to a man, which fits you best right now?|0.6
+Stalled out, being a mirror, or that pebble of shame you keep walking on?|0.55
+Be honest. Nobody's grading, and nobody's going to repeat it outside this room.|0.65
+Third.|0.4
+What's one thing you were handed that's worth keeping, and who handed it to you?|0.7
+Fourth.|0.5
+Write the line you actually believe about what a man is for,|0.3
+short enough to fit behind your license.|0.75
+Read it to the guys at your table,|0.3
+and listen to theirs before you explain yours.|1.2
+Okay. Go find your tables, and sit with men who'll be honest with you.|0.55
+Pull out the cords.|0.5
+And lay them out where everybody can see.|1.3

@@ -1,0 +1,383 @@
+# SECTION: Somebody Sat By The New Guy
+Hey, men. Good to see you.|0.8
+I noticed something when you walked in today.|0.65
+A couple of you sat down next to somebody you didn't know.|0.75
+On purpose. Without being asked.|0.8
+I almost stopped the whole thing to take a picture.|ROOM_CHUCKLE
+Grab your coffee and settle in.|1.25
+Last time, we talked about the phone in your pocket.|0.55
+How a man can carry hundreds of names around in there,|0.3
+and still not have one he could dial at two in the morning and say, I'm scared.|0.55
+We said buddies are good, but a buddy isn't a brother.|0.55
+A brother has permission. To ask, to push, to show up.|0.7
+And nobody hands you one. You go and ask for him.|0.8
+Just one man, and twenty minutes, on a day you both keep.|0.7
+The homework was a blank you had to say out loud.|0.55
+If the bottom fell out, the man I'd call is... and then a name, or nothing.|0.8
+And then pick a man, and say the sentence to him.|0.6
+Some of you did. A couple of you...|0.7
+called it the most awkward|0.3
+thirty seconds you've had since your wedding toast.|0.55
+Good. It's supposed to be awkward, right?|0.65
+If it felt easy, I'd wonder whether you really said it.|1.3
+So, today we keep going, but we turn and face a different way.|0.65
+A brother walks beside you.|0.8
+He's wading the same river you are, so he knows how cold the water is.|0.7
+But there's another man you need, and he's not beside you.|0.6
+He's out ahead of you. A couple of decades farther along.|0.75
+He's already made it across the part that scares you,|0.3
+and he can tell you what's on the far side of it.|0.6
+Today's about him.|0.45
+And here's the rub. He's almost never going to come looking for you.|0.6
+You have to ask the man.|1.3
+
+# SECTION: Over The Potato Salad
+Lamar's a guy I've watched grow up. When this happened, his first baby was on the way.|0.55
+He was twenty-nine. Married three years.|0.65
+Good job, good wife, and absolutely terrified.|0.6
+Not of the baby. Of himself.|0.6
+His own dad had checked out about the time Lamar learned to ride a bike,|0.3
+and Lamar had no idea what a man does with a newborn and a marriage at the same time.|0.75
+He'd read the books. He'd watched the videos.|0.8
+He said the videos mostly taught him how to fold a...|0.7
+swaddle blanket.|1.15
+At his church there was a man everybody called Mr. Luther.|0.75
+Seventy-something. Married forty-eight years. Raised five kids.|0.6
+And his wife still lit up when he walked in a room,|0.25
+which Lamar had noticed, the way you notice a thing you've never seen up close.|0.8
+They'd nodded at each other for years. That was about it.|0.55
+Then there was a funeral at church, and a lunch after, in the fellowship hall.|0.65
+And Lamar ended up next to Luther at the end of the food line.|0.65
+Ham rolls, deviled eggs, three kinds of green bean casserole.|0.7
+And with a paper plate in one hand and potato salad on it,|0.3
+Lamar heard himself say, Mr. Luther, how did you do the baby years|0.3
+without losing your marriage?|1.2
+Luther quit chewing.|0.4
+He looked at Lamar long enough that Lamar started to apologize.|0.65
+Then he said, come by the house Tuesday, about seven.|0.65
+And bring that question with you.|0.75
+Lamar said he almost didn't go.|0.65
+He sat in the driveway for ten minutes, convinced the old man had just been polite.|0.8
+I'll tell you what happened inside.|0.55
+But notice what Lamar did first.|0.6
+He asked. Out loud. Holding potato salad.|1.3
+
+# SECTION: Two Trucks At A Stop Sign
+Here's why that almost never happens.|0.75
+The young man's got his reasons for keeping his mouth shut.|0.65
+He doesn't want to look like his life is coming apart at the seams.|0.6
+He figures his question is too small to bother a busy man with.|0.65
+Or he assumes the old guy wouldn't get it anyway.|0.7
+Different world. Different prices. Different everything.|1.1
+And the older man has his reasons too.|0.75
+He doesn't want to be the old guy who butts in where he's not wanted.|0.65
+He figures young men get every answer they need off their phones now.|0.7
+And nobody asked him a thing when he was thirty, so it never crosses his mind that he's got something on offer.|0.7
+So he keeps his head down, and, see, he figures if anybody wanted to know, they'd ask.|0.55
+Look, I understand both sides of that.|1.2
+You know what that looks like?|0.7
+Two trucks at a four-way stop.|0.75
+Both guys waving the other one through.|0.75
+You go. No, you go. No, really, you go.|0.65
+And they'll sit there all afternoon being polite,|0.35
+till somebody behind them leans on the horn.|ROOM_CHUCKLE
+It's all very polite, isn't it?|1.0
+That's a lot of churches.|0.65
+That's a lot of families.|0.65
+Boys turn into husbands and fathers|0.35
+without one man up the road calling back to warn them what's around the bend.|0.7
+Not because the older men don't care.|0.8
+Because everybody's waving everybody else on.|1.3
+So let me settle it for you.|0.75
+Nobody's going to come tap you on the shoulder.|0.65
+If you're the younger man, the first move is yours.|0.8
+Well, mostly yours. The older men, I'll get to you in a bit.|0.7
+But if you're sitting there waiting to be picked, stop waiting.|0.75
+Pull out into the intersection.|0.75
+Ask the man.|1.3
+
+# SECTION: Walk With The Wise
+There's a verse that says why this matters,|0.3
+and it's about one breath long.|0.55
+Proverbs thirteen, verse twenty.|0.55
+Walk with the wise and become wise,|0.25
+for a companion of fools suffers harm.|1.5
+Look at the verb in there.|0.8
+It doesn't say read about the wise.|0.6
+It doesn't say, I mean, it doesn't say nod along with the wise.|0.55
+It says walk with them.|0.65
+Wisdom isn't mainly something you download.|0.75
+It's something that rubs off on you, mile after mile,|0.3
+from being next to a man who's got it.|0.65
+You notice how he speaks to his wife at the end of a long day.|0.7
+How he handles a bad report from the doctor.|0.7
+How he decides what to say no to.|0.75
+He might never give you a speech about any of it.|0.8
+You just walk with him long enough, and you start to walk like him.|0.55
+Nobody ever learned to back up a trailer from a pamphlet.|0.55
+Somebody stood behind you and hollered.|1.05
+And the back half of that verse cuts the other way.|0.55
+A companion of fools suffers harm.|0.8
+You're going to walk with somebody.|0.65
+Every man does.|0.45
+The only question is whether it's a man who's farther down the right road,|0.3
+or a bunch of guys who are just as lost as you are, with louder opinions.|0.7
+A lot of young men get all their wisdom about marriage from other young men.|0.6
+That's like learning to swim from a guy who's also drowning.|1.2
+So when I say ask the man, this is what I'm after.|0.55
+Not a mentor program. Not a certificate.|0.7
+A wise man you get to walk next to for a while.|0.7
+And you'll come out the other end a little wiser than you went in.|0.75
+It won't happen fast. It'll happen.|0.7
+That's not my promise. It's the verse's.|1.3
+
+# SECTION: Ask Something Small
+Okay, so how do you ask?|0.65
+First thing. Leave the word mentor at home.|0.8
+I know it's a, well, it's a perfectly good word.|0.6
+But say it to a sixty-five-year-old man and he hears paperwork.|0.65
+He pictures a sign-up sheet, and a binder, and a meeting every Thursday till he dies.|0.65
+So he either backs away, or he says yes and you never hear from him again.|1.0
+Instead, bring one small, specific question.|0.8
+How did you two learn to fight fair?|0.7
+What did you do when your boy quit talking to you at fifteen?|0.65
+How did you handle money in the lean years?|0.65
+When your folks got old, how did you and your brothers split the load?|0.65
+Would you show me how you plan out a month?|0.6
+That's it. One question is a whole ask.|0.6
+Think of it like borrowing a tool.|0.55
+You don't ask a man for his whole garage. You ask for the post-hole digger.|0.8
+If it goes well, you'll get to come back for the next one.|1.1
+And ask about what's coming at you, not what's behind you.|0.7
+If your oldest gets a learner's permit in the spring, ask that one now.|0.6
+If you just got promoted over the guys you used to eat lunch with,|0.3
+go find a man who's been the boss for thirty years.|0.65
+And if you're divorced, shame says a man like you gave up any right to ask.|0.7
+That's a lie. A man who's been through a split needs somebody up the road more, not less.|1.2
+And if you'd like some fences around it, give it a shape.|0.6
+Could I buy you breakfast the first Saturday of the month, just through the summer?|0.7
+You can see over a hill I'm still climbing.|0.7
+Most older men will say yes to that.|0.55
+Because you just asked for something he can actually give.|1.3
+
+# SECTION: His Kids Still Come Home
+Now, who do you ask?|0.6
+You want a man a good ways down the road from you|0.25
+who's actually living the stuff we talk about in here.|0.8
+Not shiny. Living it.|0.5
+And don't automatically go for the biggest name in the building.|0.75
+Big names are busy, and honestly, you're not shopping for a name.|0.55
+You want somebody who's been down a road a lot like yours and made it through.|0.7
+Limping, maybe. But through.|1.05
+A couple of ways to tell.|0.65
+Watch what his grown kids do. Do they come home because they have to, or because they want to?|0.7
+Listen to how he talks about his wife when she's out of the room.|0.75
+After all those years, does he still sound a little bit glad she picked him?|0.55
+Notice whether the young couples at church drift toward him and his wife at a potluck.|0.6
+People can smell the real thing, even when they couldn't tell you why.|0.6
+Then ask him what he'd do over.|0.65
+If he can't come up with a single thing, keep walking.|0.8
+That's not a man you learn from. That's a man you clap for.|0.65
+You're not there to admire a trophy case. You came for the scars.|1.2
+Pick somebody you can actually get to.|0.6
+Drawing a blank? Lower your sights, from the platform down to the folding chairs.|0.8
+Well, a few of you already have a face in mind. Good. Hang on to it.|0.7
+Maybe it's the usher who's worked the same door since before you were born.|0.8
+Maybe it's the neighbor who's out in his driveway every Saturday, waxing a car that's already clean.|0.8
+I've always figured he's hoping somebody wanders over.|0.8
+He's not out there for the, let's say, wax.|ROOM_CHUCKLE
+And if your own father never taught you any of this,|0.3
+that's no reason to sit it out.|0.6
+That's the very reason the chair's open.|1.3
+
+# SECTION: Bring A Real Question
+Let's say he says yes. What then?|0.6
+Bring something every time.|0.5
+An older man can tell inside of two minutes whether you came to visit or came to learn.|0.6
+Visiting's nice. He's got grandkids for visiting.|0.75
+But walk in with a real question, written on the back of a receipt if you have to,|0.3
+and watch him lean forward in his chair.|0.6
+A real question tells him, the years you lived count for something with me.|1.0
+Then comes the part most young men skip.|0.65
+A friend of mine named Lenny got some advice from an older man about his temper.|0.55
+Good advice. Simple. When you feel it climbing, leave the room and walk around the house once.|0.6
+Lenny nodded, said that's great, thank you.|0.55
+A month later the old man asked him, did you try the walk?|0.6
+Not yet. Another month. Still not yet.|0.8
+Lenny said the third time, the old man just didn't ask.|0.55
+And Lenny realized he'd been, look, he'd been nodding a good man right out of his life.|0.6
+So he did the walk. Around the house, in his socks, in the rain.|0.75
+Then he called the old man and told him how it went.|0.55
+The old man talked for an hour.|0.7
+So that's the deal.|0.45
+Do what he says at least once, then circle back and report.|0.7
+Keep doing that, and he'll empty the whole toolbox for you.|1.15
+A couple more things.|0.55
+He's a man up the road, not a replacement father.|0.6
+Hang your whole childhood on one man, and the hook's going to pull out of the wall.|0.55
+And thank him. Out loud, and specific.|0.75
+That thing you said about apologizing first? I did it Thursday, and she actually laughed.|0.6
+A man his age can go a long time without hearing anything like that.|1.3
+
+# SECTION: Fifteen Minutes At The Table
+So, Lamar finally got out of his truck that Tuesday.|0.7
+Luther opened the door, and walked him straight to the kitchen.|0.7
+His wife was at the table with a crossword and two cups of decaf.|0.7
+Luther sat down across from her, and pointed Lamar to the third chair.|0.55
+And then, for about fifteen minutes, Lamar just watched.|0.65
+They did the crossword together.|0.75
+She read the clues, he guessed wrong, she laughed at him.|0.6
+They talked about a grandkid's ear infection and a leak under the sink.|0.8
+Nothing deep. Nothing staged.|1.3
+Then Luther looked over and said,|0.3
+that's your answer, son.|0.55
+Every night for forty-eight years, after supper, we sit here fifteen minutes.|0.6
+When the kids were little, we did it with babies on our laps.|0.6
+Some nights we fought at this table.|0.55
+Some nights we were too tired to talk, so we just sat.|0.7
+But we never skipped it, and the kids learned not to interrupt.|0.55
+Everything else we did, we did out of this.|1.3
+Lamar said he drove home and didn't know whether to laugh or cry.|0.8
+He'd come for a secret, and the secret was... a kitchen table.|0.8
+But he started doing it that same month.|0.8
+Well, actually, he started that same night.|0.7
+He and his wife, fifteen minutes, no phones.|0.6
+When the baby came, the baby came to the table too.|1.25
+And Lamar kept going back to Luther's.|0.65
+Not every Tuesday. Whenever he had a real question.|0.6
+How do I apologize when I'm only half wrong?|0.7
+What do I do when she's crying and I can't fix it?|0.6
+Every time, he brought the question.|0.8
+Every time, Luther gave him something to try.|0.6
+And every time, Lamar came back and told him how it went.|1.3
+
+# SECTION: You're The Man Ahead
+Now, I'd guess a good chunk of this room is the older man.|0.55
+And I want to talk straight to you for a minute.|0.65
+There's a young man somewhere near you with nobody up the road.|0.8
+He needs you.|0.55
+Stay with me, older guys.|0.55
+And if you're in your, what, forties or fifties,|0.35
+you're probably the middle of the sandwich.|0.7
+There's a man ahead of you you've never asked about burying your parents,|0.3
+and a guy behind you who just bought a house he can't afford, and won't say so.|1.1
+Here's what Paul told a young pastor named Titus about men like that.|0.6
+Titus two, starting at verse six.|0.65
+Similarly, encourage the young men to be self-controlled.|0.8
+In everything set them an example by doing what is good.|1.5
+Look at what Paul doesn't say.|0.8
+He doesn't say build them a twelve-part program.|0.8
+He doesn't say wait till you've got your own life cleaned up.|0.6
+He says encourage them, and be the example.|0.65
+Mostly the example. The talking is the small part.|1.25
+And you might be thinking, I'm still a mess myself.|0.6
+Good. Join the club. It's got everybody in it.|0.65
+You don't have to be finished to be useful.|0.7
+That young man coming up behind you isn't looking for a spotless man.|0.55
+He's looking for an honest one.|0.75
+He wants to hear what you got wrong,|0.3
+and the dull little habits that kept your family standing in spite of it.|1.25
+That's what Luther gave Lamar.|0.6
+Not a lecture. A kitchen table, and fifteen minutes.|0.8
+A life, lived where somebody could see it, on a plain Tuesday night.|0.8
+You've got something like that in your life.|0.6
+Some habit that kept you, when nothing else did.|0.7
+Somebody younger needs to see it.|1.3
+
+# SECTION: Hold The Flashlight
+But here's the catch.|0.45
+He probably won't come knocking.|0.55
+You look busy, and frankly, you scare him a little.|0.7
+So make it easy to say yes.|0.8
+Jed figured this out in his mid-sixties.|0.65
+He'd been watching a young guy at church for about a year.|0.75
+Nice kid, brand-new husband, always looked a little lost.|0.75
+And Jed walked up to him one Sunday and said,|0.3
+I'm doing the brakes on my truck Saturday morning.|0.8
+Could use somebody to hold the flashlight.|0.8
+That was the whole invitation.|0.65
+He'd been praying about that kid for months before he worked up the nerve.|0.6
+And the kid said yes before Jed got to the end of it.|1.15
+Once he got there, Jed didn't preach at him.|0.75
+He asked exactly one question.|0.7
+What's surprised you most about being married?|0.6
+Then he went quiet and went back to the caliper.|0.75
+A young man will say things lying on cold concrete|0.25
+that he'd never say looking you in the eye.|1.05
+And then Jed did the thing that opened it all the way.|0.55
+He told the kid about his own first years of marriage.|0.65
+How he took his mother's side in every argument, till his wife nearly went home to her folks.|0.65
+His fault, he said. Not his mother's. His.|0.65
+The kid laughed. Then he got real quiet.|0.8
+Then he said, my mom calls every night at supper, and I put her on speaker.|0.55
+What you got wrong is the most useful thing you own, older man.|0.75
+Don't bury it. Hand it over.|1.3
+Keep it small. One Saturday a month. A phone call on your drive home.|0.6
+Hands busy, mouths open. Men talk easier shoulder to shoulder.|0.65
+And it won't be a one-way street.|0.8
+Jed says that kid fixed more in him than he ever fixed on that truck.|1.3
+
+# SECTION: Runners Paul Never Met
+Near the end of his life, Paul wrote a letter to his young friend Timothy.|0.55
+And he's thinking past Timothy. Way past him.|0.7
+Second Timothy two, verse two.|0.65
+And the things you have heard me say in the presence of many witnesses|0.35
+entrust to reliable people who will also be qualified to teach others.|1.5
+Look at the handoff in that sentence.|0.6
+Paul hands it to Timothy. Timothy hands it to reliable people.|0.75
+And they hand it on to others.|0.55
+It's a relay, and Paul is cheering for runners he'll never meet.|0.75
+He's not thinking about one young man.|0.65
+He's thinking about the race that keeps going after he's off the track.|1.2
+And in plenty of churches, and plenty of homes, somebody dropped the baton.|0.65
+The old men on one side of the lobby. The young men on the other.|0.55
+Everybody looking at their phones.|0.8
+Nobody handing anything to anybody.|0.65
+Here's the thing.|0.4
+The young men can't fix that alone, and neither can the old ones.|0.8
+And waiting won't fix it. A baton lying on the track doesn't pick itself up.|0.65
+Somebody has to reach.|1.25
+You need both kinds of men, by the way.|0.65
+Your brother is wading the same river you are. He knows how cold it is.|0.8
+The man ahead is already on the far bank, and he can tell you where the rocks are.|0.65
+One can't do the other one's job.|1.3
+Let me finish Lamar.|0.5
+Luther passed,|0.7
+a couple of years ago now.|0.75
+Lamar's boy is six now, and he still sits at the kitchen table every night with his parents.|0.6
+Fifteen minutes. He knows not to interrupt.|0.65
+And last spring, a young guy at Lamar's church, baby on the way, scared to death,|0.25
+walked up to Lamar and asked him how he did the baby years.|0.55
+Lamar said, come by Tuesday, about seven.|0.6
+Bring the question.|1.3
+
+# SECTION: One Name And One Question
+Alright. Let me bring this in.|0.6
+Here's the big thing from today.|0.6
+There's a man a couple of decades down your road who's already been where you're headed.|0.6
+He's not as far away as you think.|0.65
+And somebody has to go first, and that somebody is you.|0.7
+If you're younger, you ask him.|0.8
+If you're older, you make it easy for a young man to ask.|1.0
+When you push your chair back today, I want you holding one name and one question.|0.65
+That's all. Not a program.|0.7
+And I hope you'll remember, nobody's too far behind to ask,|0.3
+and nobody's too broken to be asked.|0.6
+[warmly] The Father hasn't quit putting men together. He's doing it in this room.|1.25
+Four things to hash out once you sit down.|0.6
+First, name it.|0.45
+Which older man have you known for years and never once asked anything that mattered?|0.6
+Older men, which young guy keeps catching your eye, though you've never said boo to him?|0.7
+Second, the move.|0.5
+What's your one question, and what day are you going to ask it?|0.6
+Older men, what easy yes can you hold out to somebody?|0.55
+A morning on the lake, a project in your garage, or, honestly, just a plate of barbecue.|0.7
+Third, bring your brother in.|0.6
+Tell the man beside you what you're going to ask, and later what you heard.|0.7
+Then let him hold your feet to the fire,|0.25
+that you really did what the old man said, and circled back to tell him.|0.8
+And fourth, carry this.|0.4
+There's a man up the road who's been waiting a long time for somebody to ask.|0.8
+Be the one who asks. And when he says come on over, go.|1.3
+Okay. Take your question to the table.|0.75
+And don't stand up from it until there's a name on the page.|1.3

@@ -1,0 +1,417 @@
+# SECTION: Somebody Took My Chair
+Good to see you, men. Grab whatever chair is open.|0.8
+Somebody's in the one I like, but I'm a grown man.|0.75
+I'll get over it. Eventually.|ROOM_CHUCKLE
+If you're new, welcome. Sit by somebody who looks like he's been here before.|0.7
+He'll point you to the coffee and...|0.7
+probably tell you which cup is his.|1.25
+When we were together last, everything came down to one word.|0.65
+Know.|0.55
+A husband studies his wife for as long as they're both breathing.|0.6
+Not the girl he met. Not whatever he figured out in the first year or two.|0.7
+The woman who's actually living in his house right now.|0.55
+The Shepherd knows His sheep down to the bottom, and He doesn't back away.|0.55
+And Peter ties the way you live with her to the way your prayers go up.|0.6
+Then I sent you home with one job.|0.75
+Pick the corner of her life you knew the least about,|0.35
+her past, the worries, her faith, her ordinary Thursday,|0.3
+and ask her one honest question out of it.|0.55
+Then let her finish. No fixing. No defending.|0.7
+A few of you came back and told me it turned into a longer talk than you planned.|0.7
+Good. That's usually how you know it was the right question.|0.55
+One of you said she wanted to know what you'd done with her real husband.|0.6
+That's fine too. It just means you'd been quiet a while.|1.3
+Today costs more than that.|0.7
+Today is called Lay It Down.|0.7
+Knowing her is where it starts.|0.65
+Giving yourself up for her is where it goes.|0.6
+Saying I do takes about four seconds at the front of a church.|0.55
+Doing it takes every ordinary evening after that.|0.75
+And here's what nobody tells you while you're up there with your knees locked.|0.7
+Most of the dying doesn't happen in some big moment.|0.65
+It happens on a regular night, when nobody's watching but her.|1.3
+
+# SECTION: Tadeo Needed His Sleep
+There's a guy I've known a long time named Tadeo.|0.75
+Good man. Steady, funny, works hard, loves his family.|0.8
+A few years back, he and his wife had twins.|0.8
+Two at once. If you've never seen that up close, it's a lot.|0.55
+It's like a...|0.7
+small hurricane that needs to be burped.|1.25
+And Tadeo had a job with long hours and an early start.|0.7
+He was on the highway by six most mornings.|0.55
+So the two of them sat down and made a plan,|0.3
+or really, he made the plan and she nodded.|0.55
+He'd sleep in the guest room with earplugs.|0.7
+She'd take the nights.|0.55
+And Tadeo had a good reason. He told me so.|0.7
+Somebody in this house has to be rested,|0.35
+and I'm the one driving an hour on the interstate.|0.7
+And you know what? He wasn't wrong.|0.55
+He did need his sleep. That part was true.|0.6
+She'd hand him a coffee every morning on his way out. Smiling. Gray in the face.|1.05
+That went on for about four months.|0.65
+She did every feeding. Every fever. Every one of those dark hours.|0.6
+And she never complained. Well, not to him.|0.6
+Then one night, about twenty to four,|0.45
+Tadeo got up for a glass of water.|0.65
+And he noticed the light on in the nursery.|0.6
+He looked in.|0.55
+Both babies were finally asleep.|0.6
+And his wife was on the floor, sitting up against the crib,|0.3
+sound asleep, with a bottle still in her hand.|0.55
+Tadeo told me he stood in that doorway a long time.|0.6
+He said he'd been protecting himself|0.3
+and calling it being responsible.|0.65
+He'd been right about the sleep.|0.75
+And he'd been wrong about the marriage.|0.55
+Look, I'm not making fun of Tadeo.|0.7
+Plenty of us have built a whole plan around our own comfort and called it wisdom.|0.7
+Hang on to him. I'll finish his story in a bit.|1.3
+
+# SECTION: The Other Half Of The Chapter
+Men have a favorite verse in Ephesians five.|0.7
+You know the one. It's the verse about wives submitting.|0.55
+And it's really there. Paul wrote it on purpose.|0.75
+I'm not gonna sand it down for you.|0.65
+But Paul doesn't stop writing.|0.7
+He spends more ink on husbands than he does on wives,|0.25
+and what he puts on us is heavier.|0.55
+Funny how many men can quote verse twenty-two from memory|0.3
+and get a little...|0.7
+hazy around twenty-five.|ROOM_CHUCKLE
+So let's not get hazy.|1.3
+Ephesians five, verse twenty-five.|0.65
+Husbands, love your wives,|0.3
+just as Christ loved the church and gave himself up for her.|1.45
+Just as.|0.4
+That's the measuring stick.|0.5
+Not as much as she deserves. Not as much as you feel like today.|0.65
+Just as Christ.|0.4
+Paul could've said, love your wives as much as you can manage.|0.55
+He didn't.|0.4
+Every word in that verse costs the husband something.|0.6
+And how did He love the church?|0.6
+He didn't wait for His people to get their act together.|0.65
+He loved men who doubted Him, denied Him,|0.3
+and ran off into the dark the night He was arrested.|0.8
+And He didn't quit at the hard part. He went all the way to the cross.|0.7
+That's the bar Paul sets for a husband.|0.6
+Not a nice guy. A man who gives himself up.|1.1
+So here's the thing.|0.4
+A lot of us want the corner office without the cross.|0.8
+You don't get one without the other.|0.7
+In the Bible, headship is a cross.|0.75
+Think about the point man on a patrol.|0.7
+He's out front so he takes the hit first,|0.35
+not so he gets the best view.|0.65
+If what you're calling leadership leaves you comfortable and untouched,|0.35
+it's probably not His kind.|0.7
+His kind always costs the leader first.|1.3
+
+# SECTION: He Didn't Pull Rank
+Paul shows us what that looks like in another letter.|0.7
+He's talking about Jesus here.|0.8
+Philippians two, starting at verse six.|0.55
+Who, being in very nature God,|0.3
+did not consider equality with God something to be used to his own advantage;|0.3
+rather, he made himself nothing|0.3
+by taking the very nature of a servant,|0.3
+being made in human likeness.|1.45
+Paul's describing the one Person who ever had every right to pull rank.|0.65
+He had every right to every chair in the room.|0.6
+And He didn't grab His rank and cling to it.|0.55
+He came down, on purpose, all the way down.|0.55
+Made Himself nothing. Took the servant's spot.|0.75
+He didn't stop being who He was. He just quit using it for Himself.|0.6
+That's what a husband's authority is for. Not for him. For her.|0.7
+Nobody pushed Him down. He walked down.|1.3
+And Paul doesn't put that in the letter so we can admire it from a distance.|0.6
+He puts it there so we'll think like that.|0.6
+In your marriage. In your kitchen.|0.75
+Stay with me here. This part comes home with you.|0.8
+Picture it for a second.|0.75
+Not in a stained-glass window.|0.7
+In your house, on a regular evening,|0.35
+with your best comeback loaded and ready,|0.3
+and you know for a fact you're right.|0.75
+She's got the date wrong, and you've got the text message to prove it.|0.8
+And you're the one who decides not to fire it.|0.8
+That's the same move. Just smaller.|0.8
+A man with every right to win|0.3
+decides being close beats being correct.|0.55
+Most men never think of that as strength.|0.7
+It's,|0.7
+the strongest thing in the room.|0.6
+Anybody can pull rank.|0.45
+It takes a man to set it down.|1.3
+
+# SECTION: Your Call, Hon
+Now, before we go further, we've got to clear out a fake.|0.6
+Because there's a counterfeit version of this,|0.25
+and it's done about as much damage in homes as the tyrant has.|1.25
+A buddy of mine named Lorenzo is about the most agreeable man you'll ever meet.|0.6
+Where do you want to eat? Your call, hon.|0.75
+What should we do about the kids' school? Your call.|0.55
+Should we take the job in the other city? I'm good either way.|0.7
+Lorenzo honestly thought he was serving his wife.|0.6
+He figured that's what giving himself up meant.|0.65
+Never push. Never decide. Never make the hard call.|1.1
+And one evening his wife said to him,|0.35
+I feel like I'm running this whole house by myself,|0.25
+with a really nice roommate.|0.75
+That landed hard. And it should have.|0.75
+Lorenzo told me he didn't start the engine for half an hour, keys in his lap.|1.1
+Listen, here's what Lorenzo missed.|0.6
+Jesus gave Himself away,|0.25
+and He never once quit leading.|0.65
+He knelt and washed their feet,|0.25
+and then He told them exactly where things were headed.|0.8
+He never shrugged and said, your call.|0.7
+What Lorenzo had was the opposite of Stop Waiting,|0.25
+dressed up to look holy.|0.55
+He'd become a man who waits forever and calls it humble.|0.65
+Real love will give up its own comfort for her good.|0.55
+The fake gives up her good for its own comfort.|0.75
+And she can feel how alone she is in it,|0.35
+even on the nights she gets her pick of restaurant.|0.75
+Lorenzo's learning. He made a call last month on the school, a real one.|0.65
+His wife said it was the most attractive thing he'd done in years.|ROOM_CHUCKLE
+She may have been exaggerating. A little.|1.3
+
+# SECTION: Keep Your Backbone
+There's a cousin of that fake. The man who never says anything hard.|0.6
+Jesus told the people He loved things that made them squirm.|0.7
+If you never once tell your wife something she'd rather not hear,|0.3
+you haven't given yourself up. You've just ducked.|0.8
+But love does it the right way.|0.8
+It lets her finish first. It waits till the kids are in bed.|0.55
+It sits down next to her instead of standing over her.|0.8
+It starts with what it's grateful for.|0.6
+And then it tells the truth.|0.8
+That's not being harsh. Harsh is easy.|0.7
+That's being honest and kind in the same breath.|1.2
+And then there's the man who turns himself into wallpaper.|0.8
+No opinions. No direction. Nothing to bump into.|0.8
+And he thinks that's what godliness looks like.|0.55
+But she married a man with a backbone and somewhere he was headed.|0.65
+If you vanish, she hasn't gained a servant.|0.6
+She's lost a husband.|0.5
+That's a hard sentence to hear. My wife could tell you I've, see, I've needed it too.|0.55
+Give up your rights. Give up your comfort. Give up your pride.|0.8
+Keep your backbone.|0.5
+She didn't marry an empty suit.|0.8
+She'd like the man she married to stay in the room.|1.0
+So, how do you tell the difference?|0.6
+Here's a test for any sacrifice you make.|0.75
+Give it a little while, and then look at her.|0.7
+Is she laughing more?|0.6
+Sleeping better? Talking to you more, or less?|0.65
+Or is she now carrying the stuff you quit carrying?|0.6
+If her life got lighter, that was the real thing.|0.7
+If her life got heavier and you've been calling it humility,|0.3
+that was the counterfeit.|0.4
+And you don't need a counselor to tell you which one it was.|0.75
+Well, sometimes you do. But mostly you just need to watch her.|0.75
+She'll show you.|1.3
+
+# SECTION: A Thousand Small Ones
+When you hear gave himself up, you picture something big.|0.65
+Running into a burning building. Stepping in front of a truck.|0.75
+And sure, if that day ever comes, you'd better do it.|0.65
+But in a marriage it mostly comes a little at a time.|0.7
+A thousand small ones, on regular days nobody's taking pictures of.|1.1
+Start with the last word.|0.6
+You're gonna be right a lot. On the facts, even.|0.65
+You won't need to look it up. You,|0.7
+remember exactly what she said, and when.|0.55
+And most of those wins cost her more than they're worth to you.|0.7
+Nobody's asking you to pretend you were wrong.|0.6
+You just decide she matters more than the point.|0.75
+Here's the thing about winning at home.|0.7
+The trophy is a quieter wife, and not the good kind of quiet.|1.0
+Then the first apology.|0.45
+One of you has to open your mouth before the other one does.|0.75
+Don't wait for her to start so you can be gracious about it.|0.55
+Even when you figure it's about sixty-forty her way.|0.8
+Go first anyway. Say it plain, with no but on the end of it.|0.8
+I'm sorry, but, isn't an apology. It's a rebuttal with manners.|1.25
+Then the credit.|0.4
+The idea that was yours, that she tells the neighbors about like it was hers.|0.55
+Let her have it.|0.45
+Better yet, tell it that way yourself, with her standing right there.|0.6
+A man who needs his name on everything at home|0.3
+is still trying to impress a room that doesn't exist.|0.7
+And I'm not pointing from a safe distance.|0.55
+My wife has,|0.7
+heard me retell a few family decisions|0.3
+with me looking a whole lot wiser than I was.|0.8
+She lets it slide. She shouldn't have to.|1.3
+
+# SECTION: The Thermostat
+Then there's the small stuff that isn't small to her.|0.55
+A guy I know named Royce kept his house at sixty-six degrees.|0.75
+Every season. Year-round. That number was his.|0.55
+His wife wore his hunting jacket inside the house from October to April.|0.7
+She'd sit on the couch in camo, holding her coffee with both hands.|0.7
+Their kids thought that was just what moms looked like.|ROOM_CHUCKLE
+Royce called it saving money. He wasn't wrong about the bill.|0.65
+But one night his daughter asked him, Daddy, why is Mama always cold?|0.7
+And he didn't have an answer he liked.|0.6
+So he walked over to the hallway and turned it up.|0.75
+Didn't make a speech about it. Just turned it up.|0.8
+A few mornings later his wife came downstairs in a T-shirt.|0.75
+Royce said he knew right then it was the best money he'd spent all year.|1.2
+And it's not just the thermostat.|0.55
+It's the radio station in the car.|0.8
+It's which side of the bed. It's the good pillow. It's the last piece of pie.|0.55
+It's the fantasy draft you,|0.7
+scheduled on her birthday weekend.|0.75
+It's the league night you could skip when she's had a rough one.|0.6
+It's deer season, when home needs you more than the stand does.|0.7
+None of those are sins.|0.7
+But when she needs you, they lose.|0.55
+And they lose without a sigh, and without you bringing it up later.|0.7
+Listen, a sacrifice you keep mentioning isn't finished yet.|0.55
+You're still holding on to the receipt.|1.25
+And when the day's gone bad, don't carry it in the door.|0.75
+Sit in the driveway for two minutes.|0.55
+Hand it to God before you hand it to her.|0.8
+She shouldn't have to pay for your Tuesday.|1.3
+
+# SECTION: Tadeo And The Saturdays
+Which brings me back to Tadeo, standing in that nursery door.|0.7
+He didn't wake her up. He didn't make a speech.|0.8
+He took the bottle out of her hand,|0.35
+helped her into their bed,|0.35
+and sat up with the twins the rest of that night.|0.75
+The next evening he moved out of the guest room.|0.65
+He took every other night after that.|0.8
+And then he just started taking the worst stretch of the night, every time.|0.55
+He was tired at work for a good while. He'll tell you that.|0.8
+He ran on fumes and gas station coffee for a while there.|0.55
+His wife told a friend of hers, years later,|0.3
+that was the night she got her husband back.|0.8
+Nobody at Tadeo's job ever knew. Nobody clapped. That's sort of the point.|1.0
+Sometimes the thing you're holding is a shift.|0.7
+Sherman's a friend of mine who works at a plant out by the river.|0.6
+For a couple of years he took every Saturday overtime they offered.|0.75
+He told his wife it was for the money.|0.6
+It was partly the money.|0.75
+Mostly, the plant was quieter than a house with four kids under ten.|0.7
+He told me that himself, a little ashamed.|0.8
+Then one Saturday he turned the overtime down.|0.7
+He loaded all four kids in the van and took them to the hardware store,|0.3
+then the park, then the drive-thru,|0.3
+so she could sleep till ten for the first time in, oh... years.|0.6
+His wife cried the first time. Nothing big.|0.7
+She just stood at the kitchen window with a hot cup of coffee and a quiet house.|0.65
+He still does it most Saturdays.|0.55
+He says the kids think the hardware store is Disneyland.|0.65
+He hasn't had the heart to tell them otherwise.|1.3
+
+# SECTION: Lose It To Find It
+Jesus put the whole thing in one line|0.35
+that sounds like a loss, and turns out to be a promise.|0.8
+Matthew sixteen, verse twenty-five.|0.65
+For whoever wants to save their life will lose it,|0.25
+but whoever loses their life for me will find it.|1.45
+So, read that as a husband.|0.8
+Give up the last word,|0.3
+and you'll find a wife who'll tell you what she really thinks.|0.65
+Give up the credit,|0.25
+and she starts to believe you're on her team.|0.7
+Give up the Saturday overtime,|0.35
+and your kids grow up knowing your face, not just your truck.|0.6
+Ask Sherman's kids about that one.|1.1
+The man who clutches his life,|0.25
+his rights, his evenings, his last word,|0.25
+ends up with a house full of stuff and a wife who's guarded around him.|0.75
+The man who opens his hands finds out there was more on the other side.|0.65
+That's not a trick. That's just,|0.7
+how God built it.|0.75
+Sounds backwards, right?|0.65
+It's the most forward thing there is.|0.8
+You lose a little of your life,|0.25
+and you find a marriage you didn't know you could have.|1.05
+And not one of those small ones gets lost.|0.6
+Nobody else may ever see the apology you went first on,|0.3
+or the thermostat you turned up, or the shift you turned down.|0.55
+Your Father sees it.|0.45
+Your wife may never mention them. He won't forget a single one.|0.6
+Now, none of this gets you into the family.|0.8
+If you're in Christ, you're His son already, by grace,|0.3
+before you've set a single thing down.|0.75
+What's ahead is a Father who's glad in His son.|0.65
+And Jesus, who held nothing back,|0.3
+will see a little of Himself in a man|0.25
+who's learning to hold back less than he used to.|1.3
+
+# SECTION: Wherever You're Standing
+Okay. Where you're standing changes what this looks like.|0.8
+If your marriage ended,|0.3
+some of what you're looking back at is what you held on to.|0.65
+Let that hurt. Be honest with God about your part.|0.8
+Then do the next good thing in front of you.|0.55
+Quit competing with your kids' mom.|0.6
+Say something good about her where the kids can hear it.|0.55
+Let the holiday schedule go her way once without being asked twice.|0.55
+And quit telling the story so you come out clean.|0.8
+Leave the rest of it with God.|1.15
+If you're single, now's when you practice.|0.6
+You won't learn to give yourself up at an altar|0.35
+if you've never done it at a drive-thru.|0.65
+Give your buddy the front seat. Let your sister pick the movie.|0.6
+Drive your grandmother to her appointment on your day off.|0.75
+Take the worse shift so the guy with kids gets home for supper.|0.65
+Little ones, chosen on purpose, on plain days.|0.6
+That's the training for the big ones.|1.15
+If there's a newborn at home,|0.3
+take the baby the minute you walk in, before your boots are off.|0.55
+Let her shower first, and let it be a long one.|0.7
+Cancel the fishing trip without a speech.|0.8
+Ask Tadeo.|0.55
+Be patient with her body and her timing.|0.8
+Love the worn-out woman in your house.|0.75
+Your Father notices what you do in those dark hours too.|1.05
+And if you're decades in,|0.35
+let her set the pace on the evening walk.|0.8
+Let her doctor's appointments come before your tee times.|0.7
+And when sickness comes, and for some of you it will,|0.3
+giving yourself up stops being something you heard in a sermon.|0.55
+It's the rest of your life, one ordinary day at a time.|1.3
+
+# SECTION: Set It Down
+[warmly] Alright. Let's land this.|0.55
+Here's the one big idea today.|0.6
+Headship is a cross.|0.55
+Christ loved the church and gave Himself up for her,|0.25
+and the man at the head of a home is called to love like that.|0.6
+Not the fake that disappears, and not the tyrant that grips.|0.65
+A man who stays in there, and gives himself away a little at a time.|0.65
+Jesus loved like that first. Now it's your turn at home.|1.3
+My hope for you is, well, pretty plain.|0.75
+I hope that sometime soon, you're gonna be dead right at home.|0.55
+Facts on your side, comeback loaded.|0.8
+And I hope you discover you'll live just fine without saying it. Fair?|0.7
+You'll know the moment when it comes. Your mouth will be halfway open.|1.0
+Carry these over to your table.|0.55
+To start.|0.4
+What are you holding on to hardest?|0.65
+Put it in one whole sentence, out loud.|0.8
+The last word, the credit, the thermostat, your Saturdays,|0.3
+your league night, your temper, or the overtime.|0.65
+Next.|0.45
+What's the sentence you're scared she'd say|0.3
+if you asked her what you hold too tight?|0.7
+After that.|0.4
+What's the one thing you'll put down every single day,|0.25
+quietly, without announcing it, and without keeping score?|0.7
+Single men, hand one small preference a day to somebody already near you.|0.75
+Divorced, let go of beating your kids' mother when you trade off the kids again.|0.7
+And last.|0.4
+Pick a brother.|0.5
+Tell him what you're putting down, and how it's going.|0.6
+Then have him tell you what he can see you still holding.|0.6
+You can be correct and still not be much of a husband.|1.0
+Get to your tables. Somebody there can see your grip better than you can.|1.3

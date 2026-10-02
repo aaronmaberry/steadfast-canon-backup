@@ -1,0 +1,419 @@
+# SECTION: Check The Fire Lane
+Men, welcome in. Find a seat wherever there's one left.|0.6
+And if you parked in the fire lane out front,|0.3
+I'm not saying it's your truck they're about to tow.|0.75
+I'm just saying I'd...|0.7
+go check.|ROOM_CHUCKLE
+Okay. Everybody who's staying, sit down.|1.1
+Last session left us holding a hard word.|0.8
+Lay it down.|0.5
+We said headship in a home is a cross before it's ever a title.|0.75
+We said Jesus held nothing back for His bride,|0.3
+and a husband's called to that same kind of giving.|0.65
+Not the fake who disappears and calls it humble.|0.6
+Not the man who grips everything and calls it leading.|0.7
+A man who stays present and spends himself in small pieces,|0.3
+on ordinary nights nobody else will ever hear about.|0.6
+And you went home with one thing to name.|0.65
+Whatever you hold on to the hardest.|0.7
+The thermostat, the last word, your Saturdays, the credit.|0.75
+And the ask was to set that one thing down every day,|0.35
+quietly, with no announcement and no scoreboard.|0.75
+Some of you said it held for about two days.|0.75
+Two days is two more than you had. Keep going.|0.7
+Day three is where it starts to become you.|1.2
+Listen, if you're single, stay right where you are.|0.55
+This one's for the man you're becoming too.|0.7
+Today we finish what we started in the marriage chapters.|0.55
+Today is called What She Actually Needs.|0.75
+And I'm gonna give you the ending first, so you're not sitting there waiting on it.|0.6
+She needs you.|0.55
+Not more from you. You.|0.8
+There's a spot in your house only you can stand in, and no raise ever filled it.|0.65
+Everything else today is just walking around that one idea.|0.75
+And some of you are gonna find out|0.3
+you've been hard at work answering a question she never asked.|1.3
+
+# SECTION: Booker Found Out At Nine
+A friend of mine named Booker runs a crew that builds decks and fences.|0.75
+Hard worker. The hardest, honestly.|0.55
+Booker's not a talker. Well, he talks to lumber yards.|0.55
+He's the kind of man who'll drive back to a job site at night because a post looked crooked.|0.55
+He's out the door before it's light, and he's usually home after it's dark.|0.55
+He'll tell you he does it for his family, and he means it.|0.6
+His wife has never had to worry about a bill.|0.55
+His kids have braces and ball fees and a decent truck to learn to drive in.|1.05
+One evening a while back, Booker came in around nine.|0.75
+Kitchen light on. Plate in the microwave, like most nights.|0.75
+And his daughter, who was fifteen, was sitting at the counter,|0.25
+and she said, how's Grandpa?|0.7
+Booker said, what do you mean?|0.55
+And she said, Dad. Grandpa had a stroke. Mom was at the hospital all afternoon.|0.55
+Booker went down the hall and found his wife sitting on the edge of their bed,|0.25
+still in her jacket.|0.55
+Her father was going to be okay. Thank God. He was.|0.6
+But she'd sat in that waiting room for six hours by herself.|0.65
+And Booker said, why didn't you call me?|0.55
+And she said, very gently, which he says was the worst part,|0.3
+you were working.|0.45
+I quit calling you a while ago, Booker.|0.6
+It's just easier if I handle things.|1.05
+He told me he stood there with his keys still in his hand.|0.6
+He'd built that woman a good life.|0.6
+And somewhere in the building of it,|0.35
+she'd decided she was on her own inside it.|0.8
+She wasn't angry. That's what got him.|0.8
+She'd just...|0.7
+stopped expecting him.|0.75
+Hang on to Booker. We'll get back to him.|1.3
+
+# SECTION: You Can Count A Paycheck
+Here's why good men get mixed up on this.|0.6
+You can count a paycheck.|0.55
+You can't count an evening.|0.75
+You can't put a number on an hour on the couch with her.|0.65
+So it starts to feel like it doesn't count. It counts.|0.8
+You can look at the bank account and know exactly how you're doing.|0.65
+There's no app on your phone that tells you how present you were this month.|0.75
+And honestly...|0.7
+I'm not sure I'd want that app.|0.75
+So we pour ourselves into the thing we can measure,|0.35
+and we tell ourselves the rest is covered.|1.25
+Now, let me be fair here.|0.55
+The Bible thinks well of hard work. So do I.|0.65
+A man who provides for his family is doing something good,|0.3
+and nobody in this room should feel guilty for a hard day's work.|0.8
+But spend everything you've got on what shows up in a bank statement,|0.3
+and you can end up with a beautiful kitchen nobody sits in together.|1.05
+So watch for the warning lights.|0.7
+She's quit saving her stories for you.|0.8
+The kids take everything to her, even the stuff that used to be yours.|0.7
+You find out about the school play from a picture on her phone.|0.75
+She makes weekend plans without checking with you anymore.|0.65
+You've started calling it her calendar.|0.75
+Sounds familiar, doesn't it?|0.65
+And you've told yourself she's fine with all this.|0.55
+Has she ever said that?|0.55
+Or did you just never ask?|0.65
+That's the part that hurts.|0.7
+Not that you worked hard.|0.65
+That you never asked.|1.05
+And if you're the guy with the big title,|0.25
+the one other people's paychecks depend on,|0.25
+hear this one plainly.|0.45
+The people at work can replace you in about a month.|0.7
+The woman at home can't.|1.3
+
+# SECTION: One Question At The Table
+So, back to Booker.|0.5
+The next evening, he came home at six.|0.65
+Pulled out the chair across from his wife at the kitchen table,|0.35
+and asked her straight out.|0.7
+What do you need from me right now that you've been going without?|0.55
+And then, which was the hard part, he shut up.|0.8
+He said it took him,|0.7
+about four seconds to want to explain himself.|0.55
+He didn't.|0.45
+She didn't even have to think about it.|0.8
+She said, I need to be able to call you.|0.8
+And I need you to pick up.|1.2
+Here's the thing about that question.|0.75
+It only works if you're ready to hear the answer.|1.0
+Booker kept the business.|0.55
+He didn't sell the trucks or move the family out to a farm.|0.55
+The changes were smaller than that, and a whole lot harder.|0.7
+He gave her number its own ringtone, the only one loud enough to cut through a saw.|0.55
+And he told his crew, when that one goes off, I'm coming down the ladder.|0.75
+The first time it rang on a roof, the whole crew froze like it was a fire alarm.|0.75
+He quit bidding Saturday jobs. It cost him a couple of contracts. He says that was cheap.|0.75
+He started calling her on his lunch break, not to ask for anything,|0.25
+just to hear about her morning.|0.75
+And on the drive home, he stops at the end of their road,|0.25
+turns the radio off, and prays for her by name before he pulls in.|1.25
+He quit living for the pat on the back at work, too.|0.7
+His crew thinks he's a legend.|0.8
+His wife, see, his wife thinks he forgets the trash.|0.65
+Both of those are true.|ROOM_CHUCKLE
+But the One he wanted to please was the Father who sees what goes on in a kitchen,|0.3
+not just on a job site.|0.6
+That's a different boss, and a much better one.|1.3
+
+# SECTION: Bring Your Head In
+You can be in the recliner six feet from her|0.25
+and be about three counties away.|0.7
+And she'll feel lonely in that room and not be able to tell you why.|0.65
+She just is.|0.5
+And she'll probably blame herself for it, which is the worst part.|1.25
+So bring your head in with your boots.|0.8
+And I'll own this one.|0.8
+I've walked in my own front door and left my whole head out in the driveway.|0.7
+My wife notices.|0.5
+She,|0.7
+notices with her back to me.|0.6
+Your kids can tell too, by the way.|1.1
+This next part is really simple, and hardly any of us do it.|0.6
+Put the phone on the charger in the laundry room the minute you get home.|0.8
+Not face down on the counter. In another room.|0.8
+When she starts telling you something, turn your whole body toward her.|0.55
+Then stay for the whole answer, and ask one more thing about it.|0.75
+Not the first half. The whole thing.|0.8
+Most of us are listening for the place where we can jump in.|0.65
+Quit listening for your opening. Listen for her.|0.65
+That's what being home actually means.|0.75
+Not your truck in the driveway. You, in the room.|0.75
+That's a small thing to give, and it's huge to her.|1.3
+And if there's a newborn in your house,|0.25
+being present might mean you're the one who knows where every pacifier is.|0.8
+It might mean taking the baby on a long drive after supper,|0.25
+so the house goes quiet for her for the first time all day.|0.8
+You don't have to be good at any of it. You just have to be there.|0.75
+Some of you know your fantasy roster better than your kid's feeding schedule.|0.55
+Switch those two around for a season.|0.7
+The roster will,|0.7
+survive.|1.3
+
+# SECTION: Say It Where They Can Hear
+She needs to hear it from you.|0.75
+Out loud. Specific.|0.55
+And sometimes, with the kids standing right there.|0.6
+Proverbs has a husband who does exactly that.|0.6
+Proverbs thirty-one, starting at verse twenty-eight.|0.65
+Her children arise and call her blessed;|0.3
+her husband also, and he praises her:|0.35
+Many women do noble things,|0.3
+but you surpass them all.|1.45
+No birthday card says that.|0.55
+That's a husband looking at his kids and saying, nobody beats your mother.|0.8
+Look at the order, too.|0.7
+The kids call her blessed, and their dad is right there with them.|0.65
+Where do you think they learned it?|1.2
+A friend of mine named Ferris has been married a long time.|0.8
+Ferris isn't a sappy guy. Well, he wasn't.|0.7
+And at every family supper, before anybody picks up a fork,|0.35
+he says one specific thing about his wife, out loud.|0.8
+Not, you're great, honey.|0.4
+Something real.|0.45
+The way you handled that phone call with your sister today.|0.6
+How you stayed up with our grandson when he was sick.|0.55
+His kids used to roll their eyes at it.|0.65
+Now they're grown, and they do it at their own tables.|0.65
+His granddaughter did it last Christmas, about her mom.|0.7
+Nobody told her to. She'd just heard it her whole life.|0.55
+That's how a blessing gets handed down. Somebody says it out loud first.|1.1
+So come up with your own version, and say it in the next day or two.|0.55
+And if your marriage ended, this still applies.|0.7
+Your kids should hear you speak well of their mother.|0.55
+Steady. Civil. Every time.|0.5
+Run her down from your place,|0.35
+and your kids carry it back to her house in their backpacks.|1.3
+
+# SECTION: Not A Volunteer
+Here's one that'll sting a little.|0.55
+Let's take one word out of your mouth.|0.6
+Help.|0.45
+The grocery list is yours.|0.7
+So are the kids' haircuts, and the birthday present for your own mother,|0.3
+and the permission slip that's due tomorrow.|0.6
+A husband who talks about helping around the house|0.25
+has basically said the house is hers,|0.35
+and he's a guest who does a few chores.|0.75
+And guests get thanked. Owners just do the work.|1.05
+A buddy of mine named Cornell once told the guys he couldn't golf on Saturday|0.35
+because he was babysitting.|0.5
+His wife heard about it.|0.7
+She reminded him they were his kids.|0.6
+And then she asked what he charges.|ROOM_CHUCKLE
+Cornell doesn't babysit anymore. He just, well, parents.|0.65
+Okay, so maybe don't say babysitting at your table either.|0.7
+The kids aren't a favor you're doing her.|0.65
+You do it because they're your kids and it's your house. That's fair, right?|1.3
+That mark we called Pick Up the Weight doesn't stop at your front door.|0.7
+You carry your end without being asked to.|0.7
+And yes, I know Eve was called a helper.|0.55
+In the Bible that's a strong word, not a small one.|0.65
+And Christ Himself came to serve.|0.55
+Neither one of those means a man gets to put his feet up|0.35
+while she keeps the whole place running around him.|1.0
+And while we're on it, she needs you to touch her|0.35
+with nothing riding on it.|0.8
+Hold her hand walking across the grocery store parking lot.|0.7
+Sit close on the couch when there's nothing on.|0.55
+Brush the hair out of her face.|0.8
+When she's crying, put your arms around her and don't say one word of advice.|0.6
+She can tell a hug from a hint.|0.7
+Give her the hug.|1.3
+
+# SECTION: Nothing To Brace For
+She needs a husband she's not afraid of.|0.55
+And I don't mainly mean your fists.|0.65
+I'd hope nobody in this room needs that sentence.|0.65
+I mean the cabinet door that shuts a little too hard.|0.7
+The jaw that goes tight at the table.|0.6
+The sigh from the next room.|0.75
+The word fine, with a blade on it.|0.6
+The way the whole house gets careful when your truck pulls in.|0.65
+A wife who's tiptoeing in her own house isn't resting there.|1.0
+A guy I know named Desi has a voice that goes flat and low when he's mad.|0.8
+He never yells. He'd tell you that proudly.|0.8
+Then one afternoon he was picking his daughter up from school,|0.35
+and he heard her on the phone with her mom before she got in the car.|0.7
+Is Dad in a mood?|0.55
+She was eight.|0.5
+Desi said that one sentence did more to him than any sermon he'd ever heard.|0.75
+Desi's no monster. Just a decent man whose voice runs cold.|1.1
+Proverbs fifteen, verse one.|0.55
+A gentle answer turns away wrath,|0.35
+but a harsh word stirs up anger.|1.45
+Gentle doesn't mean weak.|0.5
+Any man can let it rip.|0.75
+It takes a strong man to keep his hand on the volume|0.35
+when everything in him wants to turn it up.|0.55
+So, when you feel the volume climbing, lower it on purpose.|0.75
+Slow down. Ask a question instead of making a point.|0.8
+Desi's working on it. He takes a walk around the block now before he answers.|0.65
+His daughter calls them Dad's laps.|1.0
+And here's the gift in it.|0.75
+Once she's sure your temper is never gonna come down on her,|0.35
+she can quit walking on eggshells.|0.55
+She stops reading your face before she talks. She just talks to you.|0.75
+Isn't that what you wanted in the first place?|1.3
+
+# SECTION: No Back Door
+She needs to be sure you're not going anywhere.|0.75
+Some men keep a suitcase half packed in the back of their mind.|0.6
+Never said a word about it.|0.75
+She can feel it anyway.|0.55
+And nobody really rests in a house that's got a back door propped open.|1.15
+Malachi two, verse fifteen.|0.6
+Has not the one God made you?|0.65
+You belong to him in body and spirit.|0.7
+And what does the one God seek? Godly offspring.|0.8
+So be on your guard,|0.3
+and do not be unfaithful to the wife of your youth.|1.45
+Listen to that question at the start.|0.65
+Has not the one God made you?|0.55
+He made the two of you one. That's His work, not yours.|0.55
+Be on your guard.|0.45
+That's Malachi telling men to watch the gate,|0.35
+because faithfulness gets lost a little at a time,|0.3
+long before anything ever happens.|0.75
+And look at the reason he gives.|0.8
+You belong to Him. Body and spirit.|0.65
+Your marriage isn't just a deal between you and her.|0.75
+It's something God made, and He's watching over it,|0.3
+and He's got your kids in mind when He does.|1.15
+So unpack the suitcase. Shut the back door and lock it.|0.6
+Then say it out loud to her, and say it again on a regular afternoon.|0.6
+I'm not going anywhere. Whatever comes, we'll take it together.|0.65
+Then live like it, especially in the stretches when it's hard.|0.75
+Some of you watched a father keep one foot out the door.|0.6
+She can feel whether you learned that or unlearned it.|1.2
+And not going anywhere includes your health.|0.75
+Take the blood pressure pills. Let somebody look at that knee.|0.8
+I know... you'd rather wrestle a bear.|0.7
+But one fear she may never say out loud|0.3
+is raising those kids without you.|0.75
+Go get looked at. It's a love letter with a co-pay.|1.3
+
+# SECTION: Still Chasing, Still Leading
+The man who won her shouldn't quit trying to win her.|0.75
+If you only pursued her until she said yes,|0.3
+she knows exactly when it stopped.|0.55
+So leave a note on the seat of her car.|0.75
+Call her from work with nothing to report.|0.65
+Take her back to the diner where you had your first date. Yes, you,|0.7
+remember which one.|0.75
+Look, it doesn't have to be fancy. A long drive counts.|0.55
+She wants to be more to you than the person who knows where the ketchup is.|1.15
+She also wants somebody else in the house looking down the road.|0.65
+So sit down with her once in a while and talk about the next five years.|0.75
+Make the call on the roof, the school, the move,|0.3
+and if it goes sideways, say, that one's on me.|0.65
+If she has to be the only adult in the house, she'll do it.|0.7
+Worn out, and doubting herself the whole time.|0.75
+She doesn't need you to run her life.|0.55
+She needs you to quit making her run yours.|0.7
+And some night, put your hand on her shoulder,|0.3
+and pray for her out loud, by name, with her right there.|0.55
+That does something in a woman that's hard to describe.|1.2
+And let her watch you grow.|0.75
+Nobody wants to be married to a statue.|0.65
+Let her see you reading something that's stretching you.|0.75
+Let her see you asking forgiveness faster than you used to.|0.75
+A man who's still being changed, slowly, with some failures behind him,|0.3
+is somebody she'd want to keep walking with.|0.65
+Single men, that's the man you're building today.|0.7
+And if your marriage ended, hold all this up against what happened.|0.55
+Not to beat on yourself.|0.55
+So the next chapter of you reads different.|1.3
+
+# SECTION: He Did It First
+Now, look back over everything we've said today.|0.6
+Show up. Speak up. Carry your end. Be gentle. Stay. Keep pursuing.|0.6
+None of that is new. None of it started with us.|0.55
+Every bit of it, He already does for His bride.|0.6
+He stopped in a crowd for one woman nobody else noticed.|0.7
+He put His hands on people nobody else would touch.|0.7
+He stood between a frightened woman and a crowd holding rocks.|0.55
+He came back for the friend who'd denied Him, and cooked him breakfast.|0.6
+And He's never once walked out on His people.|0.55
+What your wife's hoping for is a man who looks a little like Him,|0.35
+in her own kitchen, on a regular weeknight.|0.65
+So when you lift your eyes, or lower your voice, or pick up the phone,|0.35
+you're not running some technique.|0.6
+You're doing what He does.|0.55
+It costs you. That's exactly why it means so much to her.|1.1
+And let me finish Booker's story.|0.65
+A few months after that night, he was up on a deck frame in the middle of the afternoon.|0.65
+His phone rang. Her ringtone.|0.75
+He climbed down, wiped his hands, and answered.|0.8
+And she said, oh. Hi.|0.8
+I didn't really need anything.|0.8
+I just wanted to see if you'd pick up.|0.55
+Booker said he stood in the sawdust and,|0.7
+came close to crying in front of his whole crew.|0.75
+His crew still gives him grief about it.|0.8
+He doesn't care.|0.55
+His daughter told him not long ago,|0.3
+Mom calls you first now. Have you noticed?|0.7
+He had.|0.5
+He's still busy. The jobs still run late sometimes.|0.8
+But she doesn't handle everything alone anymore.|0.8
+That's what she was after the whole time.|0.6
+Not a bigger deck. Not a nicer truck.|0.55
+Him.|1.3
+
+# SECTION: Go Home And Pick Up
+[warmly] Alright, men. Let me bring this all the way in.|0.6
+Here's the big idea one more time.|0.55
+What you bring home was never the main thing.|0.7
+You are.|0.5
+Your eyes up. Your words out loud. Your hands on the load.|0.7
+Your voice gentle. Your feet staying. Your heart still chasing her.|1.1
+My hope is that you leave holding one plain question,|0.25
+and the nerve to, I mean, to actually ask it.|0.55
+Then enough patience to hear the whole answer.|1.15
+At your table, here's the work.|0.75
+Start with this.|0.55
+Picture her best friend asking her over lunch what kind of husband you are.|0.75
+Write down the polite, true answer you'd least want to hear through a door.|0.55
+No wife right now? Write what she would've said, or would say someday.|0.55
+Then this.|0.45
+Sit down with her and ask it. What do you need from me right now that you've been going without?|0.7
+Don't defend. Don't explain.|0.55
+And do the first thing she names, within a few days.|0.6
+Single men, phone your mother or a sister in Christ, and keep the whole call about her,|0.25
+or quietly take some weight off a married couple you serve with.|0.7
+Divorced? Put a smaller version of that question to your kids, and do what they tell you.|0.7
+And then this.|0.4
+Tell a brother what she said.|0.65
+Find out whether he's ever put that question to his own wife.|0.75
+And own up, both of you, to where you've drifted toward whatever claps the loudest.|1.25
+We've walked a long road together in this room.|0.6
+From a quiet Tuesday all the way to your kitchen table.|0.7
+This is where this stretch of road ends.|0.65
+It's not where you end.|0.75
+The men at your table aren't going anywhere,|0.25
+and neither is the Father who's been watching you the whole way.|1.3
+So go on to your tables, one more time.|0.8
+Then go home, and when she calls, pick up.|1.3

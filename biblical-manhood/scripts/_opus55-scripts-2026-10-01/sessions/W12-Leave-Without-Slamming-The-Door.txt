@@ -1,0 +1,426 @@
+# SECTION: Grab The Good Chairs
+Hey, men. Come on in, grab a chair.|0.6
+Not that one. That one wobbles.|0.65
+We've been meaning to fix that chair for about three years,|0.25
+which tells you everything you need to know about this group.|ROOM_CHUCKLE
+Okay, settle in. I'm glad you're here.|1.0
+Last session opened on a question a lot of you didn't love.|0.65
+When, exactly, did you cross over into being a man?|0.65
+And for most of us, the honest answer was, I'm not sure anybody ever said.|0.6
+We crossed some line nobody bothered to paint on the road,|0.3
+and kept half-wondering if we'd ever been let in.|0.55
+We talked about the stuff men grab when nobody walks them across.|0.8
+The gym mirror. A title on a door. A crowd that cheers for the dumbest dare.|0.65
+Or the slow holding pattern over Dad's house, waiting to be cleared to land.|0.8
+And we said the hard truth.|0.55
+Nobody hands himself off.|0.5
+God has already named you His son in Christ,|0.3
+and He puts older men near you to say so out loud.|1.05
+So the homework had two ends to it.|0.55
+Younger men, you were supposed to track down somebody older,|0.3
+and ask him if he sees a grown man when he looks at you.|0.6
+Older men, you were supposed to find a young guy|0.3
+and name one real thing you've...|0.7
+watched him do.|0.7
+And everybody was supposed to put a date in ink in the front of his Bible.|0.75
+I saw at least one of you writing it in pen right there at the table.|0.6
+I liked that. No pencil. No eraser.|0.6
+That's a man who's decided something.|1.05
+Today we take the other side of that.|0.65
+Once a man's been counted in, he has to actually go.|0.7
+And how he goes matters.|0.7
+Because there's a right way to leave your father's house,|0.3
+and a couple of very common wrong ones.|1.3
+
+# SECTION: Stakes And Roots
+I've got a buddy named Fred who plants trees for the county.|0.65
+Medians, parks, along the new roads.|0.6
+Thousands of them.|0.55
+And he told me once that the stakes are where most people...|0.7
+mess up.|0.55
+Not the digging. Not the watering. The stakes.|0.75
+When you plant a young tree, you stake it.|0.75
+A couple of posts, a couple of soft straps,|0.35
+so the wind doesn't knock it flat before the roots grab hold.|0.6
+That's good. That's love, really.|0.6
+But Fred says, if you leave those stakes on too long,|0.25
+the trunk never gets strong.|0.6
+It never has to. Something else is always holding it up.|0.6
+Then one day the stakes come off, and the first good storm snaps it.|1.0
+And the other mistake, he said, is just as bad.|0.7
+Somebody decides the tree's in the wrong spot,|0.3
+and they yank it out of the ground to move it.|0.7
+Roots torn, dirt flying.|0.5
+And that tree spends the next ten years in shock,|0.3
+if it lives at all.|1.0
+So Fred's rule is pretty simple.|0.75
+Take the stakes off at the right time.|0.55
+Leave the roots alone.|0.55
+Let it stand on its own in the ground it came from.|0.65
+He said a tree that stood through its first storm alone|0.35
+will stand through about a hundred more.|1.0
+Here's the thing.|0.4
+That's about the best picture of leaving home I've ever heard.|0.75
+Some of us never got the stakes off.|0.6
+We've got gray in our beards, and something back at the old house is still holding us up.|0.6
+And some of us ripped ourselves out by the roots,|0.35
+and we've been in shock ever since and calling it freedom.|0.65
+If you think about it, both of those men are still standing in the doorway.|0.75
+One's still got his hand on the knob. The other slammed it so hard he still hears it.|0.7
+God's after something better than either.|1.3
+
+# SECTION: Honor The Seat
+There are two halves to doing this right.|0.65
+And the first half, God carved into rock with His own finger,|0.35
+and sent it down a mountain with Moses.|0.7
+Exodus twenty, verse twelve.|0.65
+Honor your father and your mother,|0.25
+so that you may live long in the land the LORD your God is giving you.|1.45
+Notice what that verse doesn't say.|0.55
+It doesn't say honor your father if he was a good one.|0.65
+It doesn't say honor him once he apologizes.|0.6
+You honor the seat he sits in. You're not handing him a performance review.|0.75
+He's your father. That's the seat.|0.6
+Nobody voted him into it, and you can't vote him out.|0.55
+And Scripture never once asks you to pretend a bad dad was a good one.|0.65
+Honor doesn't need you to tell a single lie.|1.05
+So, what does honor look like with a hard father?|0.55
+It comes down to ordinary stuff.|0.6
+You don't run him down at your own supper table where your kids can hear.|0.8
+You still mail the birthday card, even if he never once mailed you one.|0.7
+And you pray for him.|0.6
+Even if the whole prayer is his name and a long sigh.|0.55
+God knows what that sigh means.|1.2
+A friend of mine named Emmett had to give his father's eulogy.|0.65
+And his dad was, well, not an easy man.|0.6
+Emmett told me he sat up two nights trying to figure out what to say|0.25
+that wouldn't be a lie, and wouldn't be a knife.|0.75
+And here's what he stood up and said.|0.7
+My dad was a hard man.|0.75
+He worked every day of his life, and he never missed a mortgage payment.|0.55
+He didn't know how to say he loved us.|0.7
+I believe he did anyway, and I'm going to spend my life saying it for him.|0.65
+Nobody in that room thought he was lying.|0.8
+And nobody thought he was settling a score either.|0.55
+That's honor, with the truth left in.|1.3
+
+# SECTION: The Going Comes First
+Now, the second half of this goes back even further.|0.8
+Clear back to the garden.|0.6
+Back before anybody on earth had an in-law.|ROOM_CHUCKLE
+And Paul picks it up and quotes it to a church full of married couples.|0.7
+Ephesians five, verse thirty-one.|0.65
+"For this reason a man will leave his father and mother|0.25
+and be united to his wife, and the two will become one flesh."|1.45
+Look at the order.|0.55
+Leave comes first.|0.4
+Before the wedding. Before the one flesh.|0.65
+God built the leaving into the plan from the very start.|0.6
+He put it in there before there was a...|0.7
+single family to leave.|0.75
+It's not rebellion. It's design.|1.0
+And single guys, you're not off the hook here.|0.8
+Nowhere does it say, wait till you're engaged.|0.65
+The leaving is on your list whether there's a ring in the picture or not.|0.55
+A man who never leaves his father's house|0.25
+isn't ready to build one of his own,|0.25
+married or not.|1.3
+So put these two verses next to each other,|0.3
+and they turn into a single move.|0.8
+You honor them, and you go, and you do both at the same time.|0.8
+Go without the honor, and you've slammed it.|0.8
+Honor without the going, and you're still holding the knob at fifty.|0.75
+God's not asking you to pick one. He wants the whole move.|1.1
+Here's the picture I'd like you to walk out with.|0.75
+Your knuckles on your folks' front door.|0.75
+Not your key in the lock like you never moved out.|0.55
+And not you idling at the curb, deciding whether to go in at all.|0.55
+A knock.|0.55
+It's about the smallest thing a man can do with his hand,|0.35
+and it says two true things at once.|0.8
+I've got my own place now.|0.6
+And I came because I wanted to.|1.3
+
+# SECTION: The Man Who Never Fished
+Let's start with the man who slammed it.|0.7
+And I want to be careful,|0.3
+because some of you grew up in places that should've had a social worker at the door.|0.55
+I will never send you back into danger.|0.65
+I'll never tell you to sit down at a table that isn't safe.|0.8
+Some distance is just wisdom.|1.15
+But I have watched what a long slam can do to a man.|0.8
+Take Hector. I've known him for years.|0.65
+His dad drank, and when he drank he got mean,|0.3
+and the summer Hector turned twenty-three,|0.25
+there was a fight in the driveway that ended with Hector driving off,|0.3
+and not coming back.|0.5
+That was eighteen years ago.|0.6
+They haven't spoken since. Not a card, not a call.|0.65
+Hector's sister carries the news back and forth, when there is any.|1.1
+And here's the part that gets me.|0.75
+Hector's dad loved to fish.|0.55
+Lived for it. Every Saturday, out on the lake, before the sun came up.|0.7
+And Hector has never owned a fishing rod.|0.6
+Not one. Forty-one years old.|0.8
+His boys have begged him to take them out on the water a dozen times.|0.65
+He just says, I'm not a fishing guy.|0.8
+He doesn't drink. Not even a beer at a ballgame.|0.8
+Not even the champagne at his own wedding.|0.75
+He won't raise his voice, even when he probably should.|0.7
+He drives a different brand of truck than his dad drove,|0.35
+and he'll,|0.7
+tell you exactly why if you ask him.|ROOM_CHUCKLE
+He thinks he got free of that man.|0.75
+But think about it for a second.|0.75
+Every choice Hector makes is the opposite of one his dad made.|0.55
+Which means his dad is still the one making them.|0.7
+He still decides what Hector does on a Saturday morning.|0.55
+He just does it by being the thing Hector won't do.|1.3
+
+# SECTION: Rage Pays Attention
+That's what a slammed door does.|0.6
+It doesn't actually stay shut behind you.|0.8
+Being furious at a man is still a way of staring at him.|0.8
+You'd think cutting him off would shrink him down in your life,|0.3
+and it does the opposite.|0.75
+It's like a song you can't stand that gets stuck in your head.|0.65
+The harder you try not to hear it, the louder it plays.|0.7
+You can end up spending more hours on that man|0.3
+than the sister who drives over to check on him every month.|0.6
+And you never notice, because the anger feels like distance.|1.25
+And there's somebody else watching all this.|0.6
+Somebody shorter.|0.5
+Your kids have a front-row seat to how you treat your dad.|0.75
+And kids don't pick up manners from a speech. They pick them up from a demonstration.|0.8
+Every eye-roll when Grandpa's name comes up, they file it away.|0.75
+Twenty-five years from now, they'll pull that file back out.|0.65
+And you'll be the old man on the other end of it.|0.6
+That's,|0.7
+sobering, isn't it?|0.6
+But it works the other way too.|0.65
+When they watch you treat a hard father with dignity,|0.25
+they learn something you could never fit into a talk.|0.8
+They'll remember how you talked about Grandpa|0.3
+long after they forget most of what you said about anything else.|1.0
+Listen, I'm not saying it's easy.|0.6
+Some of you are carrying things your father did|0.3
+that I wouldn't wish on anybody.|0.8
+I'm not asking you to pretend they didn't happen.|0.55
+And I'm not asking you to hand him your trust back.|0.65
+But there's a difference between keeping a safe distance|0.3
+and keeping a fire going.|0.7
+Distance can be wise.|0.45
+A grudge with twenty years on it isn't wisdom.|0.65
+It's just old.|0.55
+Like milk somebody forgot in the back of the fridge.|0.8
+And it's burning up a lot more of you than it is of him.|1.3
+
+# SECTION: Close The File
+Well, where does forgiveness fit in all this?|0.65
+Right in the middle of it.|0.65
+What he did was real.|0.75
+God saw every bit of it. He was there.|0.55
+Forgiving him doesn't mean saying it didn't matter.|0.55
+And it doesn't mean you have to trust him.|0.8
+Those are two separate calls.|0.7
+You can forgive a man completely|0.3
+and still only ever meet him at the diner, in daylight, with your own keys in your pocket.|0.55
+Some men aren't safe, and forgiving them doesn't change that.|1.05
+Forgiving means you close the file.|0.75
+You take everything he owes you,|0.25
+and you hand it over to God.|0.75
+He's the judge. You're not, and you never were.|0.7
+You quit waiting on an apology before you're allowed any peace.|0.8
+That's not weakness. It's setting down a duffel bag you've hauled through three airports.|0.8
+Settling the score was never your assignment.|0.8
+And honestly, most of us are,|0.7
+pretty terrible at it anyway.|0.65
+We keep that file open for thirty years, and he never even knows it's there.|1.15
+Joseph is the clearest picture of this I know.|0.65
+His own brothers dropped him down a dry well,|0.35
+then hauled him back up and sold him to traders headed for Egypt.|0.75
+Years went by. Slavery. Prison. Being forgotten.|0.55
+And then everything flipped,|0.35
+and Joseph ended up second only to Pharaoh,|0.25
+with the men who sold him on their knees, and their lives in his hands.|0.65
+He could've done anything he wanted to them.|0.7
+And here's what he said.|0.8
+Genesis fifty, verse twenty.|0.65
+You intended to harm me, but God intended it for good|0.35
+to accomplish what is now being done, the saving of many lives.|1.45
+Joseph named it, right to their faces. You meant to hurt me.|0.65
+No sugar on it.|0.5
+And in the same breath, he pointed at God, at work the whole time underneath it.|0.75
+Then he fed their families for years, and never sent them a bill.|1.3
+
+# SECTION: Stakes Still On
+Now let's talk to the other guy.|0.6
+The one who's sitting there thinking, well, this is all for somebody louder.|0.8
+I never slammed anything.|0.5
+I call my mom every day.|0.65
+That's a good thing, right?|0.55
+Sure it is. Mostly.|1.0
+Okay. Let me ask you a few things.|0.55
+If your wife finds out about your own plans from your mother,|0.3
+the stakes are still on.|0.7
+If you hear your dad's truck in the driveway and your shoulders go up around your ears,|0.25
+the stakes are still on.|0.6
+If you turned down a job three states away mostly because your folks would be hurt,|0.35
+and you never even talked it through with your wife,|0.3
+same thing.|0.4
+And distance doesn't fix it.|0.8
+You can live clear across the country and still be gripping the knob.|1.2
+A buddy of mine named Elmer.|0.55
+Thirty-eight, married, three kids.|0.5
+And every single holiday, for eleven years,|0.3
+Elmer's mom decided where everybody would be, and when.|0.7
+Christmas Eve at her house. Christmas morning at her house.|0.7
+Christmas dinner, believe it or not, her house.|0.6
+His wife never said much about it.|0.7
+Then one year, driving home on Christmas night,|0.3
+she cried the whole drive, and wouldn't tell him why.|0.75
+She didn't have to.|0.5
+Their kids had never once woken up on Christmas morning in their own house.|1.1
+So Elmer did something he'd never done.|0.7
+He decided first, and told his mom second.|0.6
+He called her and said, Mom, we love you,|0.35
+and this year we're doing Christmas morning at our place.|0.75
+We'd love to have you for dinner.|0.55
+There was a long, long pause on the line.|0.8
+And then she said, well... I'll bring the rolls.|ROOM_CHUCKLE
+Elmer said it was the best Christmas they've had.|1.3
+
+# SECTION: Decide, Then Tell
+Now, that doesn't mean you stop listening to your parents.|0.65
+Ask for their advice as long as they're around to give it.|0.6
+A wise man does.|0.45
+But if every decision in your house has to clear your folks first,|0.3
+you never really get a house of your own.|0.55
+And your kids need a dad who can point the way himself,|0.35
+not one who's waiting on a call back from Grandma.|1.05
+This doesn't take a blowup.|0.8
+Make the call at home, and then let them know.|0.6
+If you ask first, you've just handed it back.|0.8
+Say it kindly. We love you, and here's what we've decided.|0.75
+Then stop talking. Don't argue your case like you're in front of a judge.|0.65
+And then let them have their feelings about it.|0.65
+You can be kind and still be clear.|0.75
+Clear is kind, actually. Foggy is where the hurt feelings grow.|1.05
+And notice the verse says father and mother.|0.55
+Both of them. Even the mom who did it all by herself and did it well.|0.65
+Under your roof, your wife comes ahead of both of your parents now.|0.75
+So when your dad starts telling your wife how she ought to be raising the kids,|0.25
+you're the one who speaks up. Not her.|0.6
+Even if he's got a point.|0.6
+You can tell him later, in private, that he had a point.|1.15
+And when your folks offer to help with the down payment,|0.35
+and it turns out the help comes with opinions about the paint, the yard and the church you pick,|0.3
+you might have to leave all over again.|0.55
+Thank them. And then say it plainly, with your wife standing right there.|0.8
+We'll take it from here.|0.75
+Calm voice. No apology in it.|0.8
+And,|0.7
+maybe skip the speech you rehearsed in the car.|1.3
+
+# SECTION: One Sentence In The Dayroom
+Stay with me, because I want to finish Hector's story.|0.55
+About a year ago, his sister called.|0.55
+Their dad had a stroke.|0.55
+He was in a rehab place about two hours away,|0.3
+and he wasn't doing great.|0.6
+Hector sat on that for about a month.|0.65
+He said he,|0.7
+picked up the phone to call his sister back about ten times.|0.6
+Then one Saturday he got in the truck and drove.|1.15
+His dad was sober now. Had been for a while, his sister said.|0.7
+Hector found him in the dayroom, in a wheelchair, one side of his face not quite working.|0.8
+He pulled a chair up close and said the sentence he'd been carrying for eighteen years.|0.7
+Dad, you made our house a scary place, and I've been angry my whole life.|0.7
+That was it. No list. No closing argument.|0.8
+His dad's eyes went to the floor, and he didn't say a word.|0.55
+Maybe he couldn't. Maybe he wouldn't. Hector will never know which.|0.55
+And Hector told me that was alright.|0.55
+He hadn't gone out there to get something. He went to set something down.|1.05
+The next month he showed up with his two boys, and three new fishing rods still in the plastic.|0.6
+There's a little pond out behind that rehab place.|0.55
+He wheeled his dad down to the edge of it,|0.35
+and that old man, out of the good side of his mouth,|0.3
+told those boys exactly where the bluegill like to sit.|0.7
+Hector says his own line spent most of the afternoon in a tree.|0.6
+But for the first time in eighteen years, his dad wasn't deciding Hector's Saturday.|0.65
+Hector was.|1.25
+Here's why one sentence works.|0.75
+A short sentence gives a man nothing to grab and argue with.|0.7
+A speech hands him handles.|0.65
+And Hector didn't walk in demanding a sorry as the price of the visit.|0.6
+Whatever his dad did with it was between his dad and God.|0.75
+And if your father's already gone, or he's too dangerous to go near,|0.35
+say the sentence anyway. Say it to God. Say it to a brother at your table.|0.8
+It's sat in you a long time. Let it out, even if he never hears it.|1.3
+
+# SECTION: The Weight On The Front Step
+Both of these men have something to pick up.|0.8
+The man holding the knob keeps telling himself he'll let go once it feels right.|0.55
+I'll save you some time. It's never going to feel right.|0.6
+You just open your fingers anyway.|0.55
+And the man who slammed it walked off without the honor he owed.|0.7
+Yes, his dad failed him in a hundred ways. Nobody's arguing that.|0.75
+But the honor was never his dad's to carry. It was always the son's.|0.7
+That's Pick Up the Weight, and it's sitting right there on your folks' doorstep.|0.6
+Don't wait on your parents to make the first move. They may never.|0.75
+And quit telling yourself you'll finally be okay once he says sorry.|0.6
+Whatever your dad couldn't give you, your Father in heaven already has.|0.75
+He adopted you, and He doesn't take it back.|1.1
+Look, some of you are on the other side of the door.|0.6
+You're the dad inside.|0.5
+And your boy stormed off, or he just sort of faded out.|0.55
+I know a man named Duane in that spot.|0.8
+His son hasn't really talked to him in six years.|0.6
+It started with a fight over the son's divorce.|0.75
+And for a long time Duane just sat on his hands and stewed.|0.6
+Then he planted a garden.|0.8
+Every July he drives across town and leaves a sack of tomatoes at his son's door.|0.8
+No knock. Just the sack, and a short note.|0.6
+And one summer, the note said the hard part.|0.75
+Son, I was wrong in how I treated you, and I'm sorry.|0.65
+He's never written it again. He doesn't need to.|0.65
+And Duane's already told his wife,|0.3
+if that boy ever walks in, nobody brings up the past. We just set another plate.|1.2
+So go gently. Shut it like there's a baby asleep on the other side.|0.6
+Then, when you come back, knock.|0.65
+And let your own kids watch how you do it, because their turn's coming.|1.3
+
+# SECTION: Knock When You Come Back
+[warmly] So, let me land this thing.|0.55
+Here's the single idea I'd put in your pocket.|0.8
+You can leave your father's house without slamming the door.|0.6
+Honor him without lying about him.|0.65
+Hand God what he owes you, and close the file.|0.55
+And when you go back, knock.|1.25
+What I want for you is pretty plain.|0.75
+I want you to figure out where you've been standing, gripping or slammed.|0.55
+And I want you to do one thing about it before you lose your nerve.|0.7
+Not a big thing. One decision. One prayer. One date on the calendar.|0.55
+And I want you to remember you're not doing this as an orphan.|0.65
+Your Father in heaven isn't going anywhere, whatever your dad did.|0.55
+That's what makes it possible to go gently.|1.3
+When your group circles up, here's what to wrestle with.|0.65
+First.|0.4
+Are you a slammer or a gripper? Be honest about which.|0.7
+And then tell them what it's cost you. At home, in your marriage, with your kids.|0.6
+The guys at your table can probably already tell.|0.7
+Second.|0.55
+If you never really left, pick one decision|0.35
+you and your wife will make without checking with your folks first.|0.7
+Then let them know, gently, once it's made.|0.65
+If you slammed it, bring your dad's name to God every single day.|0.7
+And if he's alive and you can be safe around him, put a day on the calendar to go see him.|0.55
+Third.|0.55
+Tell one brother the truth about your dad,|0.35
+and which of the two ways you've been getting this wrong.|0.55
+And if a visit's coming, tell him when.|0.65
+Let him ask you about it after. And when he does, tell him how it went.|0.65
+The whole thing, even the parts that didn't go well.|1.3
+Go on, now.|0.5
+Close this door gently on your way out,|0.3
+and go sit down with the men at your table.|1.3

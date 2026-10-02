@@ -1,0 +1,449 @@
+# SECTION: Pull The Chairs In
+Come on in, men. Scoot those chairs toward the middle.|0.6
+There's a gap in the middle of this room you could land a plane in.|0.65
+Nobody up here is contagious.|ROOM_CHUCKLE
+Okay. That's better. Thank you.|0.7
+If you came in late and you're still hovering by the coffee, you're fine.|0.8
+Fill your cup and grab a seat. The coffee will keep.|0.7
+A few of you look like you came, well, straight off a job site.|0.75
+That's alright. Dust is welcome here.|1.25
+Last session took us clear back to the first pages.|0.7
+Before anybody hid. Before anybody pointed a finger.|0.75
+We looked at the man God built on purpose,|0.25
+in the days when nothing in the world had gone wrong yet.|0.8
+He shaped that man by hand, out of the dirt,|0.3
+and then He leaned in close and breathed.|0.7
+He blessed him before the man had done a single thing.|0.7
+He gave him ground to work, a fence to keep, and a day to stop.|0.75
+And He looked at him alone and said, that part's not good.|0.65
+And we said the dents in you are real, but they aren't the blueprint.|0.8
+The original still fits.|0.4
+And I asked you to sit down some ordinary morning|0.3
+and read the opening two chapters out loud, start to finish,|0.3
+name the piece of that design|0.35
+that feels most bent in you right now,|0.3
+and then tend one thing He's put in your keeping.|0.65
+A few of you told me that question stung a little. Good. It was supposed to.|0.55
+A couple of you read it to your kids over cereal.|0.6
+One little girl wanted to know...|0.7
+what Adam named the mosquito.|ROOM_CHUCKLE
+Well, today the garden breaks.|0.75
+And then, a long way down the road, there's another garden.|0.8
+Two men. Two gardens. Two ways a man can walk.|0.7
+That's the whole session, really.|0.75
+And before you leave this room,|0.45
+I want you to know which one of those two you're standing in.|1.3
+
+# SECTION: Two Nights
+If you zoom way out on the Bible, the whole thing turns on two gardens.|0.6
+Each one has a man in it,|0.35
+and each man gets a night where the rest of us are riding on what he does.|0.55
+You can't really understand either night without the other one.|0.6
+They're bookends.|1.05
+The first man started out with everything.|0.55
+Good ground. Real work. A wife he wrote poetry about.|0.55
+God Himself walking with him in the cool of the evening.|0.75
+And he threw it away before supper.|0.65
+Not with some big rebellion.|0.65
+Mostly by standing there and saying nothing.|1.0
+The second Man came into His garden stripped nearly bare.|0.75
+His friends kept nodding off on Him.|0.75
+One of them was already out selling Him for silver.|0.8
+And with His face pressed into the dirt, He made a choice,|0.35
+and that choice put the world back on its feet.|1.25
+Now, some of you are sitting there thinking,|0.4
+Wes, that's a mighty big story.|0.55
+I've got a dishwasher that won't drain.|ROOM_CHUCKLE
+Fair enough. It is a big story.|0.8
+But it's got your street address written in it.|0.6
+I've sat with men a long time,|0.25
+and here's what I keep seeing.|0.7
+Those two gardens don't stay in the Bible.|0.7
+They follow you home.|0.45
+They show up in a kitchen, in a pickup, in the bleachers,|0.3
+in a...|0.7
+parking lot after a ballgame.|0.65
+There's a moment, usually a small one, and it's got two ways out of it.|0.6
+One way is Adam's. The other way is Christ's.|0.75
+And most of us take the first one|0.35
+without ever noticing there was a fork in the road.|1.3
+Listen, I'm not trying to make you feel bad about that.|0.55
+I want you to start seeing the fork.|0.8
+So today we walk both gardens slow.|0.65
+And then we get to the biggest question this whole course asks.|0.7
+Not, which way are you walking.|0.75
+Whose are you.|1.3
+
+# SECTION: Who Was With Her
+Start in Eden.|0.45
+The serpent shows up, and watch who he picks.|0.7
+Not the man. He walks right around him to the woman.|0.8
+And the first thing he goes to work on is God's word.|0.55
+Wait, is that really what He said?|0.65
+He just tilts the words a few degrees,|0.3
+and lets her wonder whether God is being stingy with her.|0.7
+And then this.|0.45
+Genesis three, verse six.|0.65
+When the woman saw that the fruit of the tree was good for food|0.25
+and pleasing to the eye,|0.3
+and also desirable for gaining wisdom,|0.3
+she took some and ate it.|0.8
+She also gave some to her husband, who was with her,|0.3
+and he ate it.|1.5
+Who was with her.|0.4
+Men, let that phrase sit on you for a second.|0.8
+He wasn't off in the back field. He wasn't at work.|0.55
+He was standing right there for the whole conversation.|0.55
+Close enough to hear every word.|1.15
+And it gets worse when you think about the order.|0.8
+God gave that command to Adam himself,|0.3
+back before Eve was even formed.|0.6
+So looking after that ground was his assignment from day one.|0.65
+Guarding it. Walking the fence line.|0.8
+And now there's a snake standing in his yard,|0.25
+sweet-talking his wife and rewriting what God told him,|0.3
+and he says... nothing.|0.45
+Then he takes a bite.|0.55
+The first sin on record,|0.35
+and the husband is standing in the middle of it, quiet as a fence post.|1.15
+I've stood in that kind of quiet in my own living room.|0.7
+One of my kids gets mouthy with their mother,|0.25
+and I'm right there on the couch,|0.3
+and it's easier to keep watching the game than to set the remote down.|0.55
+I tell myself she's got it handled.|0.8
+I'm...|0.7
+mostly keeping myself comfortable.|0.55
+You've done that one too, haven't you?|0.65
+That's Eden. And it fits just fine between a couch and a TV.|1.3
+
+# SECTION: Silas At The Carving Board
+A friend of mine named Silas married into a big family.|0.6
+Loud, loving, lots of food.|0.8
+The kind of Thanksgiving with three pies and a card table for the overflow.|0.55
+And his father-in-law is a decent man with one bad habit.|0.7
+He runs his daughter down.|0.7
+Not cruel, exactly. Just little shots, with a grin on them.|0.8
+She never could finish anything.|0.65
+She gets that from her mother.|0.75
+Remember the piano? Two years and one song.|0.55
+And everybody chuckles a little, and somebody passes the rolls.|0.7
+Silas had been hearing it for eleven years.|0.65
+He'd gotten real good at not hearing it.|0.65
+His wife would just smile, and start clearing plates a little early.|1.2
+So this one Thanksgiving, Silas is at the carving board.|0.65
+Knife in one hand, big fork in the other.|0.7
+And his father-in-law starts in.|0.8
+Something about how she started nursing school and quit.|0.75
+Which, for the record, she quit because she was pregnant with their first,|0.3
+and she'd been sick every morning for four months straight.|0.7
+Silas knew that. He was there.|0.6
+He held her hair.|0.5
+And he kept carving.|0.45
+He told me he never sliced a bird that carefully in his life.|0.8
+Every piece the same thickness. You could've,|0.7
+sold tickets.|0.6
+He didn't look up once.|0.6
+His wife didn't look at him either.|0.6
+She just got real busy with the gravy.|1.3
+And on the drive home, kids asleep in the back,|0.25
+she said one sentence.|0.45
+You were right there.|0.55
+That was it. That's all she said.|0.75
+And Silas told me it took him about forty miles of dark highway to realize|0.35
+she'd just quoted Genesis at him,|0.3
+and she didn't even know she'd done it.|1.3
+
+# SECTION: Behind The Bushes
+Back to the garden.|0.45
+After they eat, God comes walking in the evening,|0.3
+and the two of them duck behind the trees.|0.8
+First they're scared. Then they're hiding.|0.55
+The man who should've answered first|0.3
+is squatting behind a bush, holding a leaf.|0.55
+That's the,|0.7
+whole wardrobe at this point.|0.65
+A leaf and a guilty look.|0.75
+So God asks him straight out,|0.25
+and Adam's answer is a small masterpiece.|0.65
+He manages to blame two people at once.|0.7
+The woman. And You, God, for putting her here in the first place.|0.75
+Two fingers pointing out.|0.4
+Not one pointing back at his own chest.|1.25
+Look, I've done this one.|0.7
+Not in a garden. In my own kitchen.|0.65
+My wife asks about something I said I'd handle,|0.3
+and before I've even thought about it,|0.25
+the first words out of my mouth are, well, you didn't remind me.|0.65
+There's that finger again.|0.45
+Pointed every direction but mine.|0.6
+She hardly ever has to say a word.|0.55
+She just waits, and about two seconds later I hear myself.|0.7
+Some nights it takes me a good deal longer than two seconds.|1.2
+And underneath the hiding and the blaming, there's the grab.|0.75
+The snake promised they'd be like God.|0.55
+Adam reached for God's spot,|0.3
+and let go of God's hand to do it.|0.65
+You didn't have to take a class on that one.|0.6
+It came factory installed,|0.7
+like the lighter in an old truck.|1.3
+But even here, God doesn't leave them bare.|0.8
+He sews them real clothes out of hides|0.25
+before He ever walks them to the gate.|0.65
+And He tells the snake its time is running out.|0.75
+A son is coming from that woman,|0.35
+and that son will take a wound and still crush the serpent's head.|0.55
+Where Adam froze, this one is going to fight.|0.7
+So the gate's barely shut,|0.35
+and God's already pointing down the road at the second Man.|1.3
+
+# SECTION: Face Down Among The Olives
+Now jump forward a few thousand years.|0.75
+Night. An olive grove on a hill outside Jerusalem.|0.6
+A spot Jesus has prayed in plenty of times before.|0.6
+His friends come with Him, and He keeps three of them nearby.|0.55
+And then He walks a few steps farther, alone.|0.55
+Matthew twenty-six, verse thirty-nine.|0.65
+Going a little farther, he fell with his face to the ground and prayed,|0.35
+"My Father, if it is possible, may this cup be taken from me.|0.75
+Yet not as I will, but as you will."|1.5
+Lay those two nights next to each other.|0.7
+In Eden, a man reached up for a crown that wasn't his.|0.65
+Here, God's own Son is being handed a cross He doesn't deserve,|0.25
+the kind they saved for the worst men alive.|0.8
+And all of Him wants out of it.|0.75
+He doesn't fake it, either.|0.7
+He asks the Father to take it away. Honestly asks.|0.55
+You're allowed to pray like that.|0.7
+God's not offended by an honest man on his face.|1.05
+But then He says what Adam never said.|0.75
+Not My will. Yours.|0.55
+Adam said, my will, and walked his whole family out of the garden.|0.6
+Jesus said, Your will,|0.35
+and walked straight toward a cross to bring them home.|0.8
+There wasn't one sin of His own in that cup.|0.75
+Every drop of it was ours, and He took it anyway.|0.65
+Here's the thing.|0.4
+Nobody on that hill would've blamed Him for walking away.|0.8
+Nobody but us even knew what was at stake.|1.0
+He prays it three times.|0.75
+Three times He comes back and finds His friends asleep.|0.8
+I'd love to tell you I'd have stayed up with Him.|0.55
+I'd have been out cold before the second prayer.|ROOM_CHUCKLE
+And then the torches start coming up the path.|1.3
+
+# SECTION: Warren In The Driveway
+Warren is a friend of mine. Big, quiet guy. Hands like oven mitts.|0.55
+A few years back his wife got a diagnosis. Multiple sclerosis.|0.75
+The kind of news where the doctor starts talking a little slower than usual.|0.6
+And Warren told me that for about two months,|0.3
+he'd go out to his truck every night after the kids were in bed,|0.3
+sit in the driveway with the engine off,|0.3
+and pray one prayer.|0.5
+Take it away. Take it away from her.|0.6
+He said he meant it with everything in him.|0.6
+And God didn't take it away.|0.7
+She still has it. She'll most likely always have it.|0.7
+Some days are good. Some days she can't get the lid off a jar.|1.3
+And Warren said one night, deep into that second month,|0.3
+the prayer turned on him.|0.7
+He was saying take it away, same as always,|0.35
+and then out came a sentence he hadn't planned.|0.65
+But if You won't, then show me how to carry her.|0.6
+He sat there a while.|0.55
+Then he got out of the truck, and went inside,|0.25
+and asked his wife to teach him how to do her injections.|0.55
+And Warren is,|0.7
+not a needle guy. Never has been.|0.6
+He passed out once at a blood drive. Before they'd even started.|0.75
+He learned anyway.|0.55
+He drives her to every infusion now.|0.65
+He knows the nurses on that floor by their first names,|0.35
+and which one sneaks his wife the good crackers.|1.05
+He's not some hero about it. He'd hate hearing me call him one.|0.8
+He'd tell you he,|0.7
+mostly just keeps showing up.|0.7
+But that's Gethsemane in a driveway.|0.7
+You can ask God to take the cup.|0.6
+Jesus did.|0.55
+And when the answer is no, you stand up.|0.8
+You get out of the truck.|0.75
+You go inside.|1.3
+
+# SECTION: He Went Out To Them
+So watch what Jesus does when the soldiers show up.|0.7
+He doesn't run.|0.55
+He doesn't duck behind the olive trees.|0.65
+That's the whole difference right there, isn't it?|0.55
+Adam hid in the bushes.|0.7
+Jesus stepped into the torchlight.|0.7
+He'd just prayed through the hardest night a man has ever had,|0.35
+and now He walks right up to a mob carrying swords|0.3
+and asks them who they came for.|0.55
+They didn't have to hunt Him down. He saved them the trouble.|1.3
+And He wasn't worried about Himself.|0.55
+He was worried about the eleven men behind Him.|0.7
+He stepped out in front of them,|0.3
+and made sure He'd be the only one led away that night.|0.75
+They're about to tie His hands,|0.35
+and He's still looking out for His boys.|1.25
+If you're divorced, park on that picture for a minute.|0.7
+Adam's move is to aim.|0.65
+At her. At her mother. At the judge who split up Christmas.|0.55
+At God, for ever letting you meet her.|0.75
+Christ's move is to step in front of the people who'd get hurt.|0.65
+Your kids aren't your messengers, and they aren't your jury.|0.6
+Keep the fight off their backs.|0.65
+Name the wrong you did, plain, and don't hang an excuse on the end.|0.8
+Then hand what she did over to God. He's better with it than you'd be.|1.1
+Then comes the cross.|0.4
+And His last words there aren't a plea for help.|0.6
+They're the words of a man setting down finished work.|0.6
+The first man left his garden with an excuse in his mouth.|0.8
+The second Man left this world with the whole job complete.|0.7
+The folks walking home from that hill thought they'd watched a good man lose.|0.75
+Come Sunday morning, the Father raised Him, and that was the end of that opinion.|1.3
+
+# SECTION: Tyrone On The Lawn
+Let me give you a small version of walking out.|0.7
+A buddy of mine, Tyrone, has a teenage son,|0.3
+and a whole pack of his son's friends who basically live at his house.|0.75
+He says he buys groceries like he's feeding a fire crew.|0.65
+One summer evening the boys are in the backyard with a bucket of baseballs,|0.3
+hitting them toward the trees.|0.6
+One of them doesn't make the trees.|0.55
+Straight through the neighbor's back window.|0.55
+And about ninety seconds later, here comes the neighbor,|0.35
+marching across the yard in his house shoes,|0.3
+and he is,|0.7
+not there to borrow sugar.|1.25
+Five teenage boys freeze like deer.|0.8
+Tyrone's watching from the kitchen.|0.55
+And he told me his first thought was, which one of you did that?|0.65
+His second thought was to stay inside|0.3
+and let the boys work it out with the man.|0.65
+Let them face the music. Well, let them face it without him in the yard.|0.8
+But he went out.|0.45
+He met the neighbor halfway across the grass,|0.35
+before he ever got to the boys.|0.55
+And he said, these boys are at my house. That makes this mine.|0.8
+Talk to me.|1.3
+The neighbor kind of deflated.|0.65
+It's hard to stay furious at a man who walks toward you.|0.7
+Tyrone paid for the glass out of his own pocket.|0.7
+Then the boys spent a Saturday doing yard work for the neighbor,|0.3
+and Tyrone was out there raking right next to them,|0.3
+in the heat, with his own rake.|0.65
+And this is my favorite bit.|0.65
+The kid who actually swung the bat|0.3
+came and found Tyrone later and told him it was him.|0.65
+Nobody made him.|0.55
+Nobody even asked.|0.5
+He'd just watched a grown man go out the door first.|1.3
+
+# SECTION: Whose You Are
+Okay. Stay with me, because this is the turn.|0.7
+If the Bible just said, be more like Jesus, and left it there,|0.3
+we'd all be sunk by lunch.|0.8
+It goes further. It says every man is already living inside one of those two.|0.65
+First Corinthians fifteen, verse twenty-two.|0.55
+For as in Adam all die,|0.3
+so in Christ all will be made alive.|1.5
+In Adam. In Christ.|0.45
+Paul talks about those two men like they're addresses,|0.25
+and you were born at the first one.|0.7
+That's why going silent feels so natural,|0.3
+and why blame sits right on the tip of your tongue.|0.75
+It came down to you the way a grandson gets his granddad's nose.|1.05
+So the fix isn't, try harder.|0.65
+Nobody ever white-knuckled his way out of Adam.|0.6
+When a man trusts Christ, God lifts him out of the first man|0.25
+and sets him down in the second.|0.55
+Jesus' obedience gets written where that man's failures used to be,|0.25
+and the work Jesus finished is the last word over him, for good.|0.65
+That's the gospel. There's no side door.|0.75
+Then the Spirit who raised Jesus comes to live in him.|0.75
+That's what gets a man on his feet. Not willpower. Life.|1.15
+Some of you have never asked.|0.7
+You know the songs. You know where the coffee is.|0.8
+Don't wait to get cleaned up first.|0.6
+Tell God you've walked Adam's road since the day you were born,|0.3
+and you're done with it. Ask Him to bring you into Christ.|0.7
+He already opened the way. Find me after if you want a man to pray with you.|0.55
+[warmly] When I came up out of the water at my baptism,|0.4
+I didn't feel like a new man yet. I felt like a wet one.|0.75
+But the address had changed.|1.1
+And if you've already crossed over, hear this.|0.55
+The marks we keep talking about aren't an entrance exam.|0.8
+You don't pass them to get in. You're already His.|0.6
+They're more like the way a boy starts walking like his dad|0.25
+without anybody teaching him,|0.3
+showing up a little more every year on a son who's already home.|1.3
+
+# SECTION: Silas At Easter
+Let me finish Silas's story.|0.65
+Forty miles of quiet, and then a long winter of thinking about it.|0.65
+He told me he did two things.|0.75
+First, he apologized to his wife.|0.55
+No speech. Just, I should've said something. I'm sorry.|0.65
+Second, he told two guys at his table what happened,|0.3
+and asked them to pray he wouldn't freeze up again.|1.3
+So, Easter dinner. Ham this time instead of turkey.|0.55
+Same table. Same father-in-law.|0.5
+And sure enough, here comes a shot.|0.6
+Something about her starting things she never finishes.|0.55
+And Silas set down his fork.|0.8
+He said his heart was going like a paint shaker.|0.75
+And he said, real calm,|0.4
+Sir, she's finished plenty.|0.55
+She's finished raising three kids with me,|0.25
+and she's the only reason this family gets anywhere on time.|1.1
+Nobody passed anything for a second.|0.75
+His father-in-law looked at him, kind of surprised.|0.55
+And then he said, well, that's fair.|0.7
+And went back to his ham.|0.6
+That was the whole fight. It wasn't one.|0.55
+But under the table, Silas's wife reached over and squeezed his knee.|0.55
+He said he'll take that squeeze over any plaque he's ever been handed.|1.3
+Notice what the second way usually sounds like.|0.7
+Not a speech. Not a blowup.|0.6
+A few plain words, from a man standing where he was supposed to be standing.|0.75
+Eden didn't hinge on a war. It hinged on a snack.|0.8
+Most of your gardens will be about that size.|0.75
+A group chat where somebody's trashing a man who isn't there to answer.|0.6
+A dented fender, and the urge to blame whoever planted that pole.|0.6
+And single men, don't file this under husbands only.|0.8
+The second Man never had a wedding,|0.3
+and nobody's ever stood in a garden better than He did.|1.3
+
+# SECTION: Not The Quiet Man
+[amused] Alright. Let's set this plane down.|0.65
+Two gardens. Two men. Two ways.|0.55
+Adam stood there quiet, then hid, then pointed, then grabbed.|0.7
+Jesus prayed, not My will, then walked out to meet the torches,|0.35
+stood between His friends and the soldiers,|0.3
+and finished every bit of the work.|0.75
+And you're not just choosing a role model today.|0.55
+You started life in the first man.|0.65
+Through faith in Christ, God moves you into the second.|1.1
+Here's what I'm hoping you walk out of here with.|0.75
+That you know whose you are. Not guess. Know.|0.65
+And that when the next small garden opens up in front of you,|0.35
+at the table, in the truck, on the lawn,|0.25
+you'll recognize it while you're still standing in it.|1.2
+So here's what to chew on at your table.|0.7
+First. Pick the latest moment when both ways were sitting right in front of you.|0.55
+Where were you, and honestly, which man's way did you take?|0.55
+Second. Which words from that olive grove fit the moment you're most likely to hit tomorrow?|0.55
+Not as I will. Or getting up and walking out to meet it.|0.7
+Say it out loud each morning, before your boots hit the driveway.|0.8
+Third. Whose are you? Give your table an honest answer.|0.75
+If you've never put your trust in Christ to move you out of Adam,|0.3
+say that out loud, and let a brother walk you through it.|0.7
+And last. If you have, tell one man about a recent moment|0.25
+when you took the second Man's road instead of the first man's.|0.6
+Even a small one. Especially a small one.|1.2
+Carry this out with you.|0.65
+Adam's garden is where you started.|0.65
+In Christ, it isn't where you finish. His finished work gets the final say over you.|0.7
+Get to your tables now.|0.7
+And don't be the quiet man at yours.|1.3

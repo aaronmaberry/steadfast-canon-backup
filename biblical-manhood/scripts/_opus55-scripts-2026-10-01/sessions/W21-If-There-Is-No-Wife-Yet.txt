@@ -1,0 +1,414 @@
+# SECTION: Room For Everybody
+Alright, men. Find a chair. Any chair.|0.7
+Some new faces today. Welcome. Really.|0.6
+If somebody dragged you in today, that's fine.|0.75
+Most of us got dragged in the first time.|0.65
+By a wife, usually. Sometimes by a buddy who promised there'd be breakfast.|0.65
+Some of us are still, let's say, being dragged.|ROOM_CHUCKLE
+Last session we took a big word and brought it down to the ground.|0.75
+Destiny.|0.5
+We said it isn't a suitcase sitting by the door,|0.3
+waiting on some better life down the road.|0.55
+It's an assignment.|0.5
+Doing what God hands you, in your own slice of history,|0.35
+right where He set you down, with the faces already around you,|0.3
+till it's done.|0.4
+We named three lies that keep a man waiting.|0.65
+Every one of them sounded wise. Not one of them was.|0.75
+Wait till it feels right.|0.6
+Make it something huge.|0.4
+Go find it in some other town.|0.55
+And I sent you home with a card.|0.7
+Where you live, who's around you, what's in your hands, and the years you've got.|0.55
+One line under each, and one thing done from that card.|0.8
+A couple of you showed me yours before we started.|0.65
+One guy's card just said, under hands...|0.7
+fix the dryer.|0.6
+Honestly? That's a pretty good card.|1.25
+Today I'm going to talk right at some men|0.35
+who get talked past in church a lot.|0.65
+The single men.|0.4
+The guys with no wife yet.|0.6
+And some of you married men are already reaching for your phones.|0.65
+Hang on to me a minute.|0.55
+You've got sons, nephews, younger guys at work, men in your pew.|0.7
+You're going to need this too, if only to say it to them.|0.55
+Single guys, I know how this usually goes.|0.6
+The preacher says, husbands, and you check your phone.|0.7
+Not today. Today you're who I'm talking to.|1.3
+
+# SECTION: Three Seats
+When we say single, we're talking about at least three different men.|0.8
+And their lives look nothing alike.|1.2
+The first one has never had a wife.|0.65
+Maybe he'd marry tomorrow if somebody said yes.|0.7
+Maybe he's not sure he wants to. Maybe he gave up on it a while back.|0.6
+Maybe he's never had a serious girlfriend, and he's embarrassed about it. Don't be.|0.65
+If that's you, and you're on the young side, listen.|0.7
+This stretch isn't a warm-up.|0.6
+Learn to cook five things without setting off the alarm.|0.55
+Learn to fix a leaky faucet. Learn to say sorry first.|0.75
+Learn to keep a promise when it costs you something.|0.8
+A husband is going to need every one of those.|0.7
+So start now.|0.55
+Nobody hands you those at the wedding reception, right?|1.2
+The second man had a marriage, and it's over.|0.55
+Maybe she left. Maybe you did. Maybe you both just quit.|0.55
+Maybe you're still angry. Maybe you're mostly just tired.|0.7
+You've got a toothbrush at one address and your kids' drawings at another,|0.25
+and on Sunday morning you're not sure which pew a man like you is supposed to sit in.|0.7
+All of what I tell that first guy today goes for you as well.|1.05
+The third man has buried his wife.|0.75
+For years there were two coffee cups by the sink. Now there's one.|0.55
+The house is too quiet now. Even the clock sounds loud.|0.65
+Folks get awkward around a widower. They mean well.|0.6
+They just...|0.7
+don't know where to put their eyes.|0.75
+So hear it from me. You belong in this room. Keep coming.|1.2
+So, whichever seat is yours, here's the thing I most want you to hear.|0.8
+Your life isn't parked out front with the engine running|0.35
+until a woman climbs in.|0.7
+It's already going.|1.3
+
+# SECTION: Not Half A Man
+A church can love its single men and still aim every sermon over their heads.|0.7
+The flyer for the men's breakfast has a couple on it.|0.55
+The retreat is called Husbands and Fathers.|0.55
+And the guy who sat by himself in the back|0.35
+starts to believe you pick up your manhood at the altar,|0.3
+like a rental tux.|ROOM_CHUCKLE
+Scripture won't sign off on that.|0.8
+Jesus never had a wife.|0.8
+And not one day of His life was half of anything.|0.7
+Here's the thing.|0.5
+If a wedding is what makes the man, Jesus would be the least of us.|0.75
+And He's the best of us.|0.75
+God told Jeremiah not to marry at all,|0.25
+and Jeremiah spent his whole life doing exactly what God sent him to do.|1.25
+And go back to the garden we walked through a couple of sessions ago.|0.8
+Adam was already on the job before Eve ever showed up.|0.55
+He had his orders. He had ground to work.|0.55
+He was out there putting a name on every animal that came past.|0.55
+God did say it wasn't good for him to be alone, and He meant it.|0.75
+But when He brought him a wife, she came into work that was already underway.|0.75
+She was a gift to a man with dirt on his hands, not the thing that made him a man.|1.2
+[amused] I can tell you from my own wedding,|0.3
+nobody became a man at that altar.|0.75
+I was mostly concentrating on not locking my knees.|ROOM_CHUCKLE
+The vows were real. The covenant was real.|0.8
+But whatever kind of man I was,|0.45
+I carried him up there with me.|1.15
+So if there's no wife yet,|0.3
+you're not half of something waiting for the other half.|0.55
+You're not on a bonus level, either.|0.55
+You're a whole man with ground to work.|0.65
+If God brings you a wife someday, let her find you already busy.|1.3
+
+# SECTION: Zeke In The Parking Lot
+Zeke is thirty-one. He's a guy I've gotten to know pretty well.|0.6
+Good job. Pays his rent. Loves the Lord, mostly on Sundays.|0.7
+Sharp guy, too. That's what got me.|0.7
+And for about five years, Zeke went to church the way you'd test-drive trucks.|0.7
+A few months here. A few months there.|0.65
+He told me he'd been to...|0.7
+every church in the county with a decent coffee bar.|0.8
+He never joined one. Never got in a group.|0.7
+Never let anybody get far enough to learn his last name.|0.75
+He'd park in the back row so he could be first out,|0.3
+and he'd slip out during the closing prayer to beat the traffic.|1.05
+And when anybody asked about it, Zeke had a line.|0.8
+When I get married, my wife and I will pick a church together.|0.55
+That was the plan.|0.4
+Life starts when she shows up.|1.1
+Meanwhile, the dating side was going about the same.|0.65
+He'd met a woman at a friend's cookout that he really liked.|0.8
+Smart. Loves Jesus. Laughed at his jokes, which is rare.|0.8
+And for most of a year, Zeke was getting to know her.|0.55
+Which meant he liked her pictures,|0.3
+and he started going to a Wednesday study he didn't care about, because she went.|0.8
+He never once asked her anywhere.|1.15
+Then one Friday, a little after midnight, his truck got towed|0.3
+from right outside his own apartment.|0.75
+And standing on that curb, he scrolled through his whole phone|0.35
+and couldn't find one man he felt like he could call.|0.7
+He took a rideshare out to the impound lot by himself, and paid the fee alone.|0.7
+He wasn't miserable, exactly. He was more like... paused.|0.55
+Keep Zeke in your head. We're coming back to that curb.|1.3
+
+# SECTION: Finds Is A Moving Word
+Most single men in this room want to be married.|0.7
+And that's a good thing to want.|0.7
+God says so.|0.45
+Proverbs eighteen, verse twenty-two.|0.55
+He who finds a wife finds what is good|0.3
+and receives favor from the LORD.|1.5
+Notice the verb.|0.45
+Finds.|0.4
+That's not a word for a man on his couch.|0.6
+Nobody ever found his lost keys by sitting still and hoping.|0.6
+You get up. You check the coat pockets. You look under the truck seat.|0.65
+And finding isn't just swiping. Well, not only swiping, anyway.|0.7
+It means you go where godly women actually are,|0.3
+and you open your mouth.|0.65
+Church. A Bible study. Serving on a team.|0.65
+The, well, the cookout where the hostess keeps saying you have to meet her cousin.|1.0
+But go looking for what?|0.7
+Now, attraction counts.|0.45
+Nobody's telling you to marry a woman you can't stand to look at.|0.8
+Just put it at the bottom of the list instead of the top.|0.65
+Up top goes her walk with God.|0.75
+Does she pray when life is easy?|0.6
+Does she keep her word when it's inconvenient?|0.65
+How does she treat the busboy and the guy at the tire shop,|0.25
+the folks she'll never need a favor from?|1.1
+And when you're interested, say so. Clearly.|0.65
+Would you have dinner with me Friday? I'd like to get to know you.|0.8
+That's it. That's the whole speech.|0.6
+She shouldn't need a decoder ring to figure you out.|0.7
+Liking her photos isn't pursuit.|0.55
+Showing up wherever she'll be isn't pursuit, either.|0.75
+Listen, a woman can spot a man drifting around the edges of her life from a mile off.|0.7
+She's seen plenty of them, and she's not impressed by a single one.|0.8
+Be the one who actually walks up and asks.|1.3
+
+# SECTION: When You Can Carry It
+Then, at some point, decide.|0.65
+A month in is too soon to promise a woman your whole life.|0.55
+But years with no answer burns up her good years right along with yours.|0.75
+If you've seen how she lives, how she prays, how she handles a bad day,|0.25
+and you're still just shuffling your feet,|0.25
+that's not caution anymore. That's stalling.|0.65
+And stalling is exactly what Stop Waiting was built for.|0.6
+It covers dating the same as it covers anything else.|0.8
+Either walk toward a vow, or step back and free her up, kindly.|0.8
+That's a fair thing to ask of a man, isn't it?|0.6
+She's not a parking spot you save for later.|1.1
+Take her to supper with an older couple you trust,|0.3
+and afterward ask them what they saw.|0.75
+Watch how she handles a flat tire, a long line,|0.3
+a waiter who gets the order wrong.|0.7
+Those little moments are a preview, and a preview is a gift.|0.7
+Well, it's a gift if you're paying attention.|0.6
+A lot of guys get the preview and just keep scrolling.|1.05
+Keep your hands to yourself.|0.55
+I'll come back to that, but here's the short of it.|0.8
+Going to bed together before the wedding scrambles your judgment|0.25
+right when you need it most,|0.35
+and it teaches you both that a promise is just a suggestion.|1.1
+And marry when you're able to carry it.|0.6
+Feeling ready won't tell you much.|0.55
+Look at what's actually holding weight in your life.|0.75
+Can you keep a job through a bad boss?|0.65
+When the car dies, do you have a plan or just a panic?|0.6
+Is there a man who'd tell you to slow down, and would you listen?|0.55
+Do you pray on the good days, or only the,|0.7
+bad ones?|0.6
+When those are holding up, and she loves God,|0.3
+and the older men who know you both say go,|0.3
+then go.|0.55
+Okay, so, once you're sure, don't sit on it.|1.3
+
+# SECTION: Hours Nobody Else Has
+Now let me talk to the man who isn't dating anybody right now,|0.3
+and maybe won't be for a while.|0.6
+Paul has a word for you, and it's not a consolation prize.|0.8
+First Corinthians seven, verse thirty-five.|0.65
+I am saying this for your own good, not to restrict you,|0.3
+but that you may live in a right way|0.25
+in undivided devotion to the Lord.|1.5
+Undivided.|0.45
+Paul's saying the single season has something in it the married season doesn't.|0.65
+Time and attention that can go straight to the Lord.|1.3
+Think about the guy in your group with four kids.|0.55
+His evenings are gone before he even pulls into the driveway.|0.6
+Bath, books, somebody threw up, start over.|0.65
+You've got your Tuesday night.|0.8
+You've got Saturday morning.|0.45
+You can say yes to things a married man can't touch.|0.55
+A mission trip. A night shift at the shelter. A,|0.7
+last-minute call from a friend in trouble.|0.6
+If you burn those hours just waiting,|0.35
+you've handed back the best thing about this stretch of your life.|1.1
+So use them.|0.4
+Make your place a place. Hang something on the wall.|0.55
+Buy a second set of sheets.|0.6
+Learn three meals you could make for six people without a fire truck showing up.|0.65
+Then have people over.|0.4
+The new guy from work. The widow two doors down.|0.55
+A couple of college kids who haven't had a home-cooked meal since August.|1.05
+And get brothers now.|0.4
+A single man can go dark for a month,|0.3
+and the only one who'd notice is his houseplant.|0.75
+So find a couple of men who'll notice first.|0.65
+And find one older man who's a few miles ahead of you,|0.3
+and give him the right to poke at the stuff you'd rather skip.|1.3
+
+# SECTION: Uncle Sal
+Here's a picture of what that can look like.|0.75
+There's a man named Sal at a church I know of. He's sixty-three.|0.55
+Never married.|0.4
+Not by some grand plan, either. He'll tell you he wanted to, and it just never came together.|0.7
+He's made his peace with it. Mostly. Some evenings less than others.|1.3
+And Sal is, without question,|0.3
+the most fathering man in that whole congregation.|0.55
+For about thirty years he's had boys around him.|0.75
+Boys whose dads left. Boys whose dads are around but checked out.|0.55
+He teaches them to change their own oil in his driveway.|0.8
+He takes them fishing and makes them bait their own hooks.|0.7
+He keeps spare line in his truck for the boys who always lose theirs.|0.75
+He sits in the bleachers at their games, alone, with a seat cushion,|0.35
+and he yells louder than any parent there.|0.8
+The boys all call him Uncle Sal.|0.65
+A lot of those boys are grown men now with kids of their own,|0.25
+and some of them call their kids' uncle,|0.7
+Uncle Sal too.|1.15
+You don't need a son by blood to do a father's work.|0.8
+Sal's the proof.|0.5
+Nobody handed him a family. He went and found the boys who needed one.|1.0
+Single guys, somewhere in your church there's a boy with nobody in his corner.|0.65
+And you've got free Saturdays.|0.8
+Take him to the hardware store and let him carry the bag.|0.55
+Teach him to shake a man's hand and look him in the eye.|0.65
+Sit through his band concert. Even the clarinet part.|0.6
+You don't have to wait for a son of your own to be a father to somebody.|0.55
+And Sal would tell you, with a grin,|0.35
+that he's got more kids than any married man in his church.|0.55
+He's just never, well, had to pay for their braces.|1.3
+
+# SECTION: Sisters And Brothers
+There's one more thing I want to put in front of the single man,|0.25
+and I'm not going to tiptoe.|0.7
+Stay clean.|0.45
+First Timothy five, starting at verse one.|0.65
+Do not rebuke an older man harshly,|0.3
+but exhort him as if he were your father.|0.7
+Treat younger men as brothers, older women as mothers,|0.35
+and younger women as sisters, with absolute purity.|1.5
+Look at how Paul does it.|0.55
+He hands you a family.|0.7
+Older men are fathers. Younger men are brothers.|0.55
+Older women are mothers. Younger women are sisters.|0.8
+And then he puts two words on it.|0.7
+Absolute purity.|0.4
+And purity isn't just a list of don'ts.|0.8
+It's a way of honoring somebody God loves.|1.15
+Now, notice how wide that net goes.|0.75
+The coworker. The girl from church.|0.65
+The woman on the screen at midnight, too.|0.8
+And yes, the one you're praying might be your wife someday.|0.65
+Right now, she's your sister in Christ, and she belongs to God before she ever belongs to you.|0.55
+You'd want a man to treat your own sister that way.|0.55
+I've,|0.7
+got a pretty good idea what you'd do to the one who didn't.|1.3
+A marriage bed gets protected, or robbed,|0.25
+long before anybody walks down an aisle.|0.6
+Every choice you make with your eyes and hands right now|0.3
+is either building her something or tearing it down.|0.65
+And if you've already blown it, hear me.|0.6
+There's mercy for that, and it's real.|0.55
+Confess it. Tell a brother. Start clean from here.|0.65
+God isn't out to shame you.|0.7
+He's raising a son.|0.45
+Stay with me. This part matters more than most.|0.8
+A man who can't treat a woman like a sister|0.35
+is not ready to treat her like a wife.|1.3
+
+# SECTION: Woody And Stan
+If you're divorced, everything we've said today is yours too.|0.55
+You just get the added job of fathering across two driveways.|0.75
+A guy I know named Woody, about four months after his divorce,|0.25
+told his small group he was ready to start dating again.|0.65
+And an older man in that group asked him one question.|0.7
+Have you cried yet?|0.7
+Woody said, what's that got to do with anything?|0.55
+And the older man said, everything.|0.7
+You lost a marriage, son. If you skip the grieving,|0.3
+it'll come out sideways in whatever you build next.|1.15
+Woody didn't date that year.|0.8
+He grieved. He sat with a counselor.|0.8
+He learned to tell the story of his marriage without making himself the hero of it.|0.7
+And he put his kids first, every other weekend and every phone call.|0.75
+He told me later that if he'd rushed into somebody new that year,|0.3
+he'd have dragged the whole mess right into her house.|1.15
+And if you're widowed,|0.25
+you know better than any young man in here what God meant|0.35
+when He said alone isn't good.|0.7
+You've lived both sides of that sentence.|0.75
+A friend of mine named Stan buried his wife two winters ago.|0.55
+Forty-one years together.|0.45
+For a while he just sat. Recliner, TV, a lot of cereal for supper.|0.65
+He called it resting. His daughter called it what it was.|0.55
+Then his pastor asked if he'd drive a couple of the older ladies to church,|0.35
+since they can't drive anymore.|0.75
+Now there's a van full of folks who ride with Stan every Sunday.|0.55
+He says he's the youngest one in it, and the worst singer.|0.75
+So let yourself grieve, for real, and don't put a clock on it.|0.75
+Keep your people close. Keep coming on Sundays.|0.7
+And if marrying again ever comes up, don't settle it alone.|0.8
+Bring God into it, and your grown kids, and take your time.|0.65
+You buried her. You didn't bury yourself.|1.3
+
+# SECTION: Zeke Gets A Vest
+Let me finish Zeke's story.|0.6
+A few Sundays after that night on the curb, he's slipping out early like always,|0.25
+and a gray-haired fella in an orange vest flags him down in the parking lot.|0.6
+He says, you've been here six Sundays. Want a vest?|0.65
+Zeke laughs and says, I'm not really a member.|0.7
+And the old man says, neither is the parking lot. Grab a vest.|0.7
+Shortest sermon Zeke ever heard. Also the best.|1.0
+So Zeke put the vest on.|0.55
+Every Sunday, seven-thirty, waving minivans into spots.|0.6
+He joined that church. He got in a group with two of the parking guys.|0.8
+After the late service, the whole crew goes to a diner down the road,|0.3
+and Zeke made himself the guy who picks up the new man's breakfast.|0.75
+Those men have his number now, and he's got theirs.|0.75
+If his truck ever gets towed again, he's got about six men he could call at midnight.|1.15
+And then there was that woman from the cookout.|0.75
+So he did what we talked about.|0.55
+He walked up and named the evening.|0.8
+Would you have dinner with me Saturday? I'd like to know you better.|0.8
+And she said no.|0.55
+Kindly. She was seeing somebody. But no.|1.0
+Zeke told me the old version of him would've vanished for a month.|0.75
+Instead, Sunday came, and he was out there at seven-thirty in his vest,|0.35
+waving in minivans. Including, I mean, hers.|0.8
+He still wants a wife. He prays about it most nights.|0.7
+But he quit waiting on her to tell him where to stand.|0.8
+Not yet is a truthful answer. There's no shame in saying it.|0.55
+Wanting a wife and building a life aren't rivals.|0.55
+A man can do both on the same Tuesday.|1.3
+
+# SECTION: Build The House
+[warmly] Okay, men. Let's wrap it up.|0.6
+If there's no wife yet, your life isn't on hold.|0.8
+It's already happening.|0.4
+Jesus never married, and He's the whole measure of a man.|0.75
+Adam had his work before he had his bride.|0.6
+So, whatever seat you're in,|0.3
+there's ground to work, and it's ready for you now.|1.05
+Here's what I'm hoping for you.|0.7
+That you'd walk out of here and quit living like a guest in your own life.|0.65
+Set up the table. Feed somebody. Find your brothers.|0.8
+Pursue a woman out loud, or don't, but stop hovering.|0.6
+And keep your eyes and hands clean while you wait.|1.15
+At your table, take these on.|0.75
+First. Which of the three seats are you sitting in?|0.7
+Never married. Divorced. Widowed.|0.5
+And be honest, how long have you been talking like the real thing is still coming?|0.65
+Second. Pick one thing to build before Sunday.|0.55
+Make your place fit to live in. Feed somebody. Phone a brother.|0.6
+Spend an afternoon with a kid whose dad isn't around. Or ask her, plainly.|0.75
+If you're single again, add one more.|0.8
+Be honest with God about two things. What got taken from you, and what you did.|0.55
+Third. Tell one man here your seat and your pick.|0.55
+And if you're divorced and the dating itch is starting,|0.3
+ask him straight whether he thinks you're ready.|0.75
+Then take his answer seriously.|0.6
+And married men, you've got one too.|0.55
+Who's the single guy in your life you've been preaching right past?|0.7
+Have him over.|1.25
+Carry this out the door.|0.7
+No wife yet? You're still a whole man.|0.75
+There's ground to work, and your Father already calls you son.|0.8
+Up you get, men. Tables first.|0.75
+Then go find somebody a vest.|1.3

@@ -1,0 +1,409 @@
+# SECTION: Strong Enough To Strip Paint
+Hey. Come on in. The pot's on in the back.|0.7
+It's coffee. Well, mostly.|0.45
+Somebody made it strong enough to strip paint.|ROOM_CHUCKLE
+Grab a chair. Any chair. They all wobble about the same.|0.75
+If you're new, welcome. You don't have to say a word today.|0.75
+You just have to stay awake, and that coffee should...|0.7
+take care of that part.|1.2
+So, catching up. Last session's mark was Go First.|0.75
+We talked about that moment in a room|0.3
+when everybody can see what has to happen,|0.3
+and everybody's waiting on somebody else to move.|0.55
+And I said the somebody is you.|0.6
+Not because you're the boss.|0.6
+Because you're willing to step out first and stand in the gap for a few seconds.|0.8
+Your homework was one room, one opening sentence,|0.3
+and a man at your table who'd heard your words ahead of time.|0.65
+I heard from some of you about those gaps. Long ones.|0.6
+You stood in them anyway. Good. I'm proud of you.|1.05
+Today is the fourth mark. It's called Work for God's Pay.|0.6
+And here's what that means.|0.7
+Whatever's in front of you, you do it for the Lord,|0.25
+and you let Him be the One whose pay you're after.|0.8
+Not the room's. Not the crowd at work.|0.65
+Not even the voice in your own head that keeps track of who noticed.|0.55
+And I want to say right up front what that pay is,|0.3
+because good men tip over on this one, and they tip both ways.|0.55
+God's pay isn't a wage.|0.65
+You don't put in your hours and get let into His family.|0.7
+It's an inheritance.|0.4
+It comes to a son because of whose son he is.|0.8
+And in Christ, you were made His son as a free gift, back when you had nothing to bring.|0.75
+So you're not working to get in the door.|0.65
+You're already in the house, and you work the way family works.|1.3
+
+# SECTION: Everybody's Getting Paid
+Here's the thing nobody likes to admit.|0.8
+You're already working for pay.|0.7
+All of us are, every man sitting here.|0.55
+And I don't just mean the check on Friday.|0.8
+I mean the thing under the check. The thing that makes a day feel worth it.|0.6
+For some of you, it's the boss's nod.|0.6
+He leans in your doorway, says, good stuff,|0.25
+and you replay it in the shower for two days.|0.6
+For some of you, the pay is a bigger number.|0.55
+And it doesn't much matter which number.|0.65
+The bank app. The sales board. The miles on your bike app.|0.75
+For some of you, it's winning.|0.7
+The cornhole game at the reunion. The fantasy league. The thermostat.|0.65
+And some of you just want to be wanted. That's a quiet one. It runs deep.|0.6
+A text back. A seat saved for you.|0.8
+Somebody's face lighting up when you walk in the door.|1.05
+None of those are evil.|0.55
+A nod from a good boss is a fine thing to get.|0.65
+And wanting to be wanted is about as human as it gets.|0.6
+But every one of them has the same problem.|0.8
+They wear off.|0.4
+The nod's worn off by the time you've reheated your lunch.|0.55
+You win the thermostat argument,|0.3
+and you're, look, you're sleeping on the cold side of the bed.|ROOM_CHUCKLE
+The number goes up, and a month later it's just the number.|0.55
+So you get up the next morning and go hunting for more.|1.05
+I've caught myself doing it, with my own family.|0.75
+Doing a decent thing, and then telling the story of it at supper,|0.3
+in case anybody missed it.|0.7
+Nobody missed it. Trust me, I made sure.|0.65
+So the question today isn't, are you working for pay.|0.75
+You are. The question is whose.|0.65
+And Work for God's Pay says there's a Father whose pay doesn't wear off by supper.|1.3
+
+# SECTION: Whatever You Do
+Colossians three, starting at verse twenty-three.|0.6
+Whatever you do, work at it with all your heart,|0.3
+as working for the Lord, not for human masters,|0.3
+since you know that you will receive an inheritance from the Lord as a reward.|0.6
+It is the Lord Christ you are serving.|1.45
+Now, Paul wrote that to slaves.|0.6
+Sit with that for a second.|0.7
+Men with no raise coming. No promotion. No say in what job they got.|0.75
+He's talking to the guy with the worst job on the whole place.|0.65
+And Paul tells them, your work still counts,|0.3
+because of who you're really doing it for.|0.55
+If it's true for them, it's true for you on your worst Monday.|1.05
+Look at the first three words. Whatever you do.|0.6
+Not whatever you do at church. Whatever.|0.55
+The oil change in your driveway. The report nobody reads.|0.55
+Grading papers at the kitchen table.|0.55
+Running a forklift. Running a meeting. Running the vacuum before company shows up.|0.75
+All of it.|0.45
+If you do it for the Lord, it belongs to Him.|1.3
+And then look at the pay. An inheritance, from the Lord.|0.55
+That's a family word.|0.45
+Nobody gets an inheritance because he showed up for his shift.|0.8
+He gets it because of whose name he carries.|0.65
+So Work for God's Pay isn't a man grinding away, hoping to get noticed upstairs.|0.65
+It's a son doing his work with his whole heart,|0.3
+because his Father is watching, and his Father is glad.|1.15
+And that last line.|0.5
+It is the Lord Christ you are serving.|0.75
+Not your boss. Not your father-in-law. Not the guys on the job site.|0.8
+They might sign the check, and that's fine.|0.6
+But the One you're actually serving is Christ.|0.7
+That changes how a man sweeps a floor, doesn't it?|1.3
+
+# SECTION: Rent-Free
+Ephesians two, verses eight and nine.|0.55
+For it is by grace you have been saved, through faith,|0.25
+and this is not from yourselves, it is the gift of God,|0.3
+not by works, so that no one can boast.|1.45
+Okay, I need you to really hear this one,|0.35
+because a lot of good, hard-working men get it backwards.|0.65
+They hear work for God's pay,|0.35
+and what they think it means is, work hard enough and maybe God lets you in.|0.8
+That's not it. That's the opposite of it.|0.65
+And other men hear it and figure, if it's all grace, why bother working at all?|0.6
+That's not it either.|0.55
+Paul says it's grace. It's a gift. Not by works.|0.7
+Nobody gets to stand up later and brag about how he got himself in the door.|0.8
+Heaven isn't a job you interviewed well for.|1.25
+Think about my kids for a minute.|0.7
+They have never once paid rent at my house.|0.6
+Not a dime. And they eat like a, I mean, like a road crew.|ROOM_CHUCKLE
+They're still my kids.|0.5
+And whatever I've got when I'm gone, it goes to them.|0.6
+Not because they worked for it. Because they're mine.|0.75
+That's what an inheritance is.|1.2
+So where does the work fit?|0.6
+Behind the grace. Never out in front of it.|0.6
+You're His, and then you live like it.|0.55
+And a son who knows he's in the family doesn't work scared.|0.75
+He works glad.|0.5
+He's not trying to get through the front door.|0.6
+He's already at the table,|0.35
+and he picks up a dish towel because it's his house too.|0.8
+That's the order. Grace first, then the work.|0.55
+Get the order wrong, and you'll either quit, or you'll grind yourself down to nothing.|0.6
+Get it right, and the work stops being a test.|0.55
+It's a son helping his Father.|1.3
+
+# SECTION: Barry's Sheet Cake
+A guy I know named Barry retired last spring.|0.7
+Thirty-four years at the same company.|0.7
+Started out on the loading dock, ended up running the whole warehouse.|0.8
+Never called in sick that anybody can remember.|0.7
+He was the guy who came in on Christmas Eve when the big freezer quit.|0.75
+He plowed the lot himself the winter the snow contractor went under.|0.75
+He knew every driver by name, and most of their kids.|0.75
+And Barry will tell you he worked for that place like his life depended on it.|0.65
+Because, honestly, he figured it kind of did.|1.2
+So on his last day, they throw him a party in the break room.|0.65
+Folding table. Paper plates. Punch in a plastic bowl.|0.7
+And a sheet cake.|0.4
+And on that cake, in blue frosting, it says, Happy Retirement, Berry.|0.6
+With an e.|0.45
+Thirty-four years, and they spelled him like a fruit.|0.6
+He laughed about it. Everybody did.|0.65
+Then a couple months later he drives past the place,|0.35
+and there's somebody else's truck in his spot.|0.75
+New name on the door of his old office.|0.55
+And not one phone call. Not from anybody.|0.7
+Not even, hey Barry, where'd you put the keys to the forklift.|0.6
+Nothing.|1.0
+Barry told me he sat in his truck across the street|0.35
+for...|0.7
+maybe twenty minutes.|0.6
+And he said, I gave them the best years I had,|0.35
+and what I got for it was a cake with my name wrong.|0.75
+Now, in fairness to that company,|0.25
+they paid him. They paid him well, actually.|0.55
+That wasn't the problem.|0.4
+The problem was, he'd been working for something no company can hand a man.|0.6
+He wanted to matter.|0.5
+And he'd given that job to a break room.|0.65
+I'll tell you how Barry's story turns out a little later.|1.3
+
+# SECTION: Left Hand, Right Hand
+Matthew six, starting at verse three.|0.6
+But when you give to the needy,|0.3
+do not let your left hand know what your right hand is doing,|0.25
+so that your giving may be in secret.|0.7
+Then your Father, who sees what is done in secret, will reward you.|1.45
+Your left hand doesn't even get to know.|0.55
+That's how hidden He's talking about.|0.7
+Most of us can do a good thing just fine.|0.65
+What we can't do is keep quiet about it afterward.|0.65
+Let me ask you. Show of hands.|0.6
+Who's ever done something kind and then found a...|0.7
+real natural way to bring it up?|ROOM_HANDS
+Yeah. Thought so. That's most of the room.|0.7
+And the few who kept their hands down are,|0.7
+probably the worst at it.|ROOM_CHUCKLE
+I see a couple of you looking at the ceiling.|1.15
+Listen to what Jesus is doing there.|0.75
+He doesn't scold anybody for wanting to be rewarded.|0.7
+He just points at the only One whose reward is worth having.|0.7
+Your Father. The One who sees in secret.|0.55
+The room's pay only works if somebody's in the seats.|0.7
+This kind works fine with the house lights off.|0.6
+Nobody in the seats at all.|0.7
+Just your Father, and He sees every bit of it.|1.0
+So the ten bucks you tuck under the wiper of a single mom's car.|0.55
+Well, twenty, if you're feeling bold.|0.65
+The flat you change for a stranger on the shoulder, gone before she gets your name.|0.6
+The big tip for the waitress who had a rough shift and didn't hide it.|0.55
+The hospital visit to a man who won't remember you came.|0.75
+The prayer you pray for your boss, who, let's be honest, is not that likable.|0.65
+Nobody claps for any of that. Not a single one.|0.55
+And that's the whole point.|0.7
+Your Father saw it. That's plenty of witnesses.|1.3
+
+# SECTION: The Glance
+Now, here's how you'll know the room's pay has a hook in you.|0.8
+It's the glance.|0.55
+You hold a door for somebody, and you check to see if your wife saw it.|0.55
+You stay late at work,|0.25
+and you make sure the email goes out at eleven-forty at night,|0.25
+so the time stamp can do your bragging for you.|0.8
+That little look around the room. That's the tell.|0.7
+Everybody's got one. Some of us have two or three.|0.65
+And I'm not saying it so you'll feel rotten.|0.75
+I'm saying it so you'll catch it.|0.55
+Because once you catch it, you can turn it right there.|0.65
+You say, in your head, Father, this one's Yours.|0.8
+And you quit looking.|1.3
+A young guy I know, Clint, figured this out on himself.|0.6
+Twenty-six, single, lives with two roommates.|0.55
+He noticed he'd sign up for whatever job at church had the biggest crowd.|0.65
+Greeting at the front door? Sure.|0.6
+Stacking chairs after everybody's gone? Not so much.|0.8
+So he gave himself a rule, for a few months.|0.8
+Only the jobs nobody sees.|0.6
+Folding programs on a Thursday. Scrubbing the toys in the nursery.|0.75
+He said the first month about drove him nuts.|0.55
+Nobody thanked him. Not once. Nobody even knew it was him.|0.6
+And he said the nursery toys were,|0.7
+a lot stickier than anybody had warned him.|0.55
+His roommates thought he'd lost his mind.|0.65
+And somewhere in the second month, it shifted.|0.55
+He said, I stopped looking around.|0.75
+I was just... doing it for the Lord. And it was quiet. And it was good.|1.15
+And if you're the man who gets cheered all day at work,|0.3
+this one's harder for you, not easier.|0.7
+The room pays you so well, you forget there's anybody else to work for.|1.3
+
+# SECTION: What It Won't Promise
+I've got to say this part plainly, because there's a counterfeit out there.|0.7
+God's pay doesn't mean the transmission holds out till payday.|0.75
+It doesn't mean the scan comes back clean,|0.35
+or the job offer comes through, or the boss finally sees what you did.|0.65
+There are slick preachers out there selling that deal, with very nice teeth,|0.3
+and they've left a lot of hurt people behind them.|0.8
+Tell the truth at work, and nobody's promising you'll get promoted for it.|0.7
+Give through a lean year, and there's no promise the next one's fatter.|0.55
+Some of you are living inside one of those right now.|0.6
+You've done the right thing for a long time, and nothing on the outside has changed.|0.65
+I'm not going to stand up here and tell you it will.|1.05
+A buddy of mine, Dino, works in purchasing.|0.7
+A couple of years back, his manager asked him to backdate some paperwork.|0.7
+Small thing, the manager said. Everybody does it.|0.65
+Dino wouldn't.|0.45
+He said it nice, but he said no.|0.65
+Six months later, a promotion opened up.|0.65
+The guy who did backdate the paperwork got it.|0.65
+And Dino's still at the same desk, with the same manager,|0.25
+who's been a little cool to him ever since.|0.75
+Nobody ever said a word about it. Nobody's going to.|1.3
+Dino told me for a while that ate at him.|0.8
+He said, I did the right thing. Where's my,|0.7
+where's my part of this?|0.6
+And then one day it hit him.|0.65
+I didn't say no so I'd get promoted.|0.75
+I said no because of whose I am.|0.8
+If nobody at that company ever finds out, my Father saw it.|0.8
+That's what this mark does inside a man.|0.7
+He can do the right thing and not need the room to make it worth his while.|1.3
+
+# SECTION: Not The Room's
+So why did this one come fourth?|0.6
+Because the other three are standing on it.|0.75
+Quitting the stall costs you something today.|0.75
+So does getting under a load that isn't fair.|0.75
+So does walking out in front while everybody watches.|0.8
+What keeps a man paying that, day after day, when nobody's handing him anything?|0.55
+If the room is all there is, he quits. Maybe not this month. But he quits.|0.6
+A man can start all of that for the room.|0.7
+He can't keep it up for the room.|0.7
+The room gets bored. The room goes home.|0.6
+The room throws you a party, and then it hires your replacement.|0.6
+Ask Barry about the break room.|0.65
+What keeps a man moving early, shouldering his load, and stepping out front|0.25
+is knowing there's a Father who sees it, and who's glad.|1.3
+Put it all together, and you get the sentence we've been walking toward.|0.8
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.|1.6
+Hear those last three words again.|0.55
+Not the room's.|0.5
+That's what I want rattling around in your head whenever you catch yourself looking around.|0.8
+The room's pay is real. It's just small, and it doesn't keep.|0.7
+Your Father's pay is the inheritance.|0.55
+It doesn't spoil.|0.5
+It doesn't fade on a shelf, and nobody can vote you out of it.|0.65
+And it doesn't care how old you get.|0.65
+It doesn't get handed to the next guy in your parking spot.|0.8
+It doesn't get spelled wrong.|0.65
+And the best part of it isn't a thing at all.|0.6
+It's Him.|0.45
+It's a Father out on the porch before you've even parked.|0.75
+That's the welcome every one of us actually wants.|0.7
+We just keep looking for it in the wrong rooms.|1.3
+
+# SECTION: Barry's Early Mornings
+So, Barry.|0.4
+After those twenty minutes in his truck, he went home pretty low.|0.7
+His wife says he watched every episode of a fishing show.|0.7
+[dry] Barry doesn't fish.|0.4
+Then an older man from his church, a widower in his eighties,|0.3
+had his eyes go bad and lost his license.|0.8
+And he needed dialysis. Monday, Wednesday and Friday, six in the morning.|0.75
+His only daughter lives two states away.|0.6
+Barry heard about it in the church lobby, and he just said, I'll take him.|1.05
+That started thirteen months ago.|0.55
+He hasn't missed one.|0.55
+Forty minutes there, forty minutes back,|0.35
+and three hours in a waiting room with bad coffee|0.25
+and a TV nobody can find the remote for.|0.75
+Nobody's thrown Barry a party for it.|0.55
+Nobody's going to.|0.4
+The old man can't hear half of what Barry says to him in the car.|0.8
+He loves a crossword, but his eyes are too far gone to read the clues.|0.7
+So Barry reads them out loud, and the old man fills them in from memory.|0.7
+Barry is,|0.7
+terrible at crosswords.|0.65
+He says the old man beats him every single morning, and he's legally blind.|0.55
+They've done about a hundred and fifty of those puzzles now.|1.25
+And Barry told me,|0.4
+I worked thirty-four years for a sheet cake.|0.7
+This is the first job I've ever had where I knew exactly Who I was doing it for.|0.8
+Now, catch this part.|0.45
+Barry isn't driving that man around to get in good with God.|0.8
+He's already in. He's been in for a long time. Grace did that.|0.7
+He's driving because he finally figured out whose son he is.|0.7
+And once he knew that,|0.25
+he didn't need anything from the break room anymore.|1.3
+
+# SECTION: Tell Him First
+So what does this look like on an ordinary Tuesday?|0.55
+Let me hand you three things.|1.25
+First, do one hidden thing. Just one.|0.7
+Something good no living soul will ever hear about.|0.8
+Your wife doesn't hear it. Your roommate doesn't. Neither does this table.|0.55
+And if you hear yourself starting to tell it, well, that one's spent.|0.8
+Go find another.|1.0
+Second, catch the glance.|0.55
+The instant your eyes go hunting for a witness, stop right there.|0.65
+Say it in your head. Father, this one's Yours.|0.65
+It'll feel a little silly the first dozen times.|0.7
+That's alright. You're retraining a habit you've had since grade school.|0.65
+You learned to look for the teacher's face before you could tie your shoes.|0.75
+It's going to take more than one try to unlearn it, and that's fine.|1.0
+Third, tell Him first.|0.5
+At night, when the house is finally dark, before you pick up your phone,|0.25
+tell your Father about your day.|0.55
+The parts that went right. The parts nobody saw.|0.7
+And then let yourself picture Him glad.|0.8
+Not grading it. Glad. The way I'm glad when one of my kids comes running up the driveway.|1.2
+And it looks different in every season, right?|0.6
+A new dad, it's scrubbing the bottles at midnight so she wakes up to a clean sink.|0.6
+A single guy, it's showing up to set chairs at the funeral of a man you barely knew.|0.65
+An older man, it's sitting with the new guy at church nobody's talked to yet,|0.3
+and never once mentioning it to the pastor.|0.65
+Look, none of those make the news.|0.55
+They're not supposed to.|0.45
+Your Father keeps every one of them, and He keeps them for His sons.|1.3
+
+# SECTION: Go On And Work
+[warmly] Alright. Let me land it.|0.65
+The mark today is Work for God's Pay.|0.65
+Every one of us is out chasing some kind of pay already.|0.8
+The room's pay is real, but it's thin, and it's gone by supper.|0.7
+God's pay is an inheritance, handed to sons,|0.35
+and the only way anybody becomes a son is grace.|0.6
+Not wages. Not a deal.|0.75
+So you do your work for the Lord, with your whole heart,|0.3
+and you let Him be the One you're watching for.|0.55
+You're not working your way into the family.|0.75
+You're already in it. So you work like it.|1.15
+My hope for you is pretty simple.|0.65
+One small pay you're willing to name.|0.8
+One hidden kindness that stays hidden.|0.75
+And a little more freedom from the glance.|0.65
+I'd love for every one of you to drive home today|0.25
+and catch yourself not needing anybody to notice.|0.7
+That's a good drive home.|1.3
+At your tables, work through these together.|0.6
+First, which small pay has been steering you lately,|0.35
+and where's it been taking you?|0.55
+Being wanted, winning, a bigger number, the boss's nod. Be specific.|0.8
+Second, where have you been performing,|0.25
+so somebody would think well of you?|0.7
+That one takes some honesty. Give it a minute.|0.7
+Third, what's one good thing you're going to do that nobody will ever find out about?|0.6
+Don't tell the table what it is.|0.65
+Just tell them you picked one.|0.65
+And fourth, pick one man at your table.|0.7
+Tell him which small pay has its hooks in you,|0.3
+and what it's already cost you.|0.65
+Fair?|1.2
+Alright, go on to your tables.|0.55
+Do honest work there, the kind you'd do if nobody was keeping track.|0.65
+And try not to look around to see who noticed.|1.3

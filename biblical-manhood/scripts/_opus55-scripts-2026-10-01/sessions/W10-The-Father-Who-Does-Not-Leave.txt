@@ -1,0 +1,434 @@
+# SECTION: He's Still Parking
+[warmly] Alright, men. Come on in.|0.8
+If you're holding that door for one more guy, go ahead and let it go.|0.75
+He's still out there parking.|ROOM_CHUCKLE
+Grab a seat wherever there's one open.|0.8
+The coffee in the back is hot, and that's about all I'll promise you.|0.65
+If you're new, welcome. Nobody's going to make you say anything today.|1.1
+Last time we were together, we talked about where a man's pain goes.|0.65
+And the short answer was, it doesn't stay put.|0.75
+It's like water in a basement. It'll find its own way out.|0.55
+Some men throw it outward, and we call that a temper.|0.7
+Some men push it down, into a screen or a bottle,|0.3
+or a late-night online order they didn't need.|0.65
+And some men just, well, they just sort of drift off.|0.65
+Their truck's in the driveway, but they're not really home.|0.8
+Three exits, and every one of them walks a man out of his own house.|1.3
+And I asked you to finish one honest sentence.|0.8
+When things get heavy, I...|0.6
+and then fill in the blank with the exit you actually use.|0.8
+Some of you wrote it down.|0.6
+A few of you wrote it down and folded the paper real small.|0.75
+That's fine. Folded still counts.|0.55
+And I asked you to tell one brother which exit is yours,|0.35
+without letting either of you hide behind the word fine.|1.15
+Here's where we landed, and it's where we pick up today.|0.8
+Under every one of those exits is a man looking for a Father.|0.75
+He just kept knocking on the wrong doors.|0.8
+So today we're talking about the right one.|0.6
+The Father who doesn't leave.|0.65
+And I'll warn you, for some of you this will be the easiest session you've sat through in here.|0.8
+For others, it'll be the heaviest.|1.3
+
+# SECTION: The Picture You Carry In
+Here's something every man in this room does without meaning to.|0.6
+Somebody says, God is your Father,|0.25
+and before the sentence is even finished,|0.3
+your mind runs off and pulls up a picture.|0.75
+And it's not a picture of God.|0.75
+It's the man who sat at the head of your table growing up.|0.65
+Or the man who didn't.|1.15
+If that chair was empty, father means a man you wait up for who never pulls in.|0.8
+So you pray the way you'd leave the porch light on. Just in case.|0.75
+If the chair held a silent man,|0.25
+father means somebody right there in the room, and still out of reach.|0.6
+Prayer starts to feel like talking to the back of a newspaper.|0.75
+You can see the hands holding it. That's about all you get.|0.8
+If the chair was dangerous,|0.25
+father means somebody you have to manage.|0.65
+So you treat God like a boss with a short fuse.|0.8
+Pray carefully. Keep your head down.|0.55
+And every bad day must be Him letting you know what you did.|1.0
+And some of you had a good one.|0.8
+You got a head start most of the guys in here never had.|0.75
+But even the good ones run out of gas. They miss stuff.|0.75
+A buddy of mine named Herb had a great father.|0.75
+Coached his teams, came to everything, never raised a hand to him.|0.65
+But that man worked long, hard days,|0.3
+and every evening he'd ask Herb how school went,|0.3
+and he'd be asleep in the recliner before Herb got to the good part.|ROOM_CHUCKLE
+Herb's in his forties now.|0.55
+And he told me he prays in about three sentences.|0.8
+Short. Tidy. Straight to the point.|0.75
+Because somewhere down deep he figures God's worn out too.|0.75
+That's a sneaky one, isn't it?|0.55
+I've...|0.7
+never heard Herb pray longer than a red light.|1.3
+
+# SECTION: The Fortieth Copy
+Now, here's the trouble with every one of those pictures.|0.65
+They run in the wrong direction.|0.55
+We start with our dad, blow him up to the size of the sky,|0.3
+and call that God.|0.5
+Scripture starts on the other end.|0.7
+God is the original.|0.4
+Every dad who ever lived is a copy of Him, and yours was too.|0.7
+And copies come out all kinds of ways.|0.8
+Some pretty sharp. Some pretty rough.|0.8
+And a few of you got a copy with whole pages missing.|1.2
+You ever see a sign-up sheet at church|0.3
+that's been run through the copier so many times|0.3
+the letters go fuzzy around the edges?|0.65
+Somebody copied the copy, and then somebody copied that.|0.65
+By the fortieth time through,|0.3
+you can't tell if the potluck is at six or at eight.|0.65
+A lot of us are trying to read God off the...|0.7
+fortieth copy.|0.75
+And then we wonder why we keep showing up at the wrong time.|1.2
+So where does a man go to see the original?|0.7
+Near the end, one of the disciples, a man named Philip,|0.25
+asked Jesus to just show them the Father.|0.55
+That's all. Just let us see Him once, and we'll be satisfied.|0.6
+And here's what he got back.|0.55
+John fourteen, verse nine.|0.55
+Jesus answered: "Don't you know me, Philip,|0.3
+even after I have been among you such a long time?|0.55
+Anyone who has seen me has seen the Father.|0.8
+How can you say, 'Show us the Father'?"|1.45
+Anyone who has seen me.|0.75
+That's the whole answer, right there.|0.7
+Philip had been looking at the Father for three years|0.3
+and didn't know it.|0.55
+So what's the Father actually like?|0.7
+Quit squinting at the copy. Look at Jesus.|0.75
+You don't have to throw your dad's picture away.|0.8
+You just have to quit using it as your map.|1.3
+
+# SECTION: What The Original Looks Like
+So look at Him for a minute.|0.55
+Watch what Jesus does with His hands and His time.|0.7
+A man covered in sores walks up,|0.3
+the kind of man everybody crossed the street to avoid,|0.35
+and Jesus touches him.|0.55
+Not a wave from a safe distance. He puts His hand on him.|0.65
+Some mothers bring their little kids,|0.35
+and the grown men try to shoo them off like pigeons,|0.25
+and Jesus waves the men off instead, and He picks the kids up.|0.8
+He stands at the grave of a friend and He weeps.|0.55
+He doesn't hurry it. He doesn't fix it first and feel it later.|0.55
+And after one of His closest men swears three times he never knew Him,|0.35
+Jesus is the one on the beach in the morning,|0.3
+with a fire going and fish already cooking,|0.3
+waiting on him.|0.45
+He doesn't make Peter crawl first. He feeds him.|0.6
+And He keeps sitting down to supper with men nobody else would eat with.|1.2
+Look, that's the Father.|0.55
+That's not some softer, younger version of Him.|0.75
+That's what He's actually like.|0.7
+He's not the empty chair.|0.75
+He's not the man behind the newspaper.|0.7
+He's not too tired to hear the end of your story.|0.8
+And He's not sitting in the driveway deciding what kind of mood He's in.|1.25
+Be honest with yourself here.|0.8
+Plenty of us have been praying to the copy and never once caught it.|0.65
+We go to God like He's a man we have to catch on a good day.|0.8
+Keep it short. Keep our heads down. Ask for the small stuff.|0.55
+And the whole time, the original was standing right there in the Gospels,|0.25
+cooking breakfast for a guy who'd let Him down.|0.55
+If that's what the Father's like,|0.3
+then plenty of us have spent years bracing for a slap from a hand that was reaching out.|1.3
+
+# SECTION: Listening For The Truck Door
+A friend of mine named Floyd grew up listening for a truck door.|0.6
+His dad worked nights at a rail yard, and came home around six.|0.7
+The truck would roll up the gravel,|0.25
+and the whole house would go real still,|0.3
+waiting to hear how that door shut.|0.7
+If it clicked, supper was fine.|0.55
+If it slammed, everybody found somewhere else to be.|0.7
+His mom would turn the radio down without even looking at it.|0.75
+Floyd could read a truck door by the time he was seven.|0.8
+He could tell you a man's whole evening from forty feet and a wall.|0.55
+His dad never laid a hand on him, as far as I know.|0.65
+He didn't have to. The door did the work.|1.2
+Floyd's in his fifties now.|0.65
+Good man. Loves Jesus. Married, three daughters.|0.55
+He's the guy at church who stays to stack chairs.|0.65
+A while back, over lunch, Floyd said something that's stuck with me ever since.|0.8
+He said, I pray like I'm listening for the truck door.|0.6
+Every morning, before he says a word,|0.25
+he's checking.|0.45
+How's God today? Did I do something? Is this gonna be a slam?|0.7
+He wasn't angry at God.|0.8
+Well, he was scared of Him, which is a different thing,|0.3
+and in some ways it's worse.|0.65
+Angry men at least talk.|0.6
+Scared men just go quiet and wait.|1.15
+He told me, I believe all the right things.|0.8
+I could pass any test you put in front of me.|0.55
+I just can't shake this,|0.7
+feeling|0.35
+that He's sitting out in the driveway, deciding.|0.6
+And that's what a dangerous father does to the word.|0.65
+It doesn't wreck a man's theology.|0.55
+He can still sing every hymn and quote every verse.|0.65
+It wrecks his mornings.|0.45
+Hang on to Floyd for me. I'm coming back to him.|1.3
+
+# SECTION: Not As Orphans
+Here's the thing.|0.45
+The Father you actually have doesn't sit in the driveway.|0.7
+And He doesn't pull out of it either.|0.65
+The night before He died,|0.4
+Jesus was at supper with His friends,|0.35
+and in a few hours they'd watch soldiers haul Him off.|0.7
+Every one of them was about to feel completely alone.|0.7
+And here's what He told them.|0.8
+John fourteen, verse eighteen.|0.55
+I will not leave you as orphans; I will come to you.|1.45
+Think about that word.|0.45
+Orphans. He chose it with care.|0.7
+He knew exactly how they were about to feel.|0.55
+And some of you have carried that feeling since you were small enough for a booster seat.|0.7
+And look at what He offers orphans.|0.75
+Not a program. Not a pamphlet with a phone number on the back.|0.8
+Himself. I will come to you.|0.75
+Not a check in the mail. Not a card on your birthday, two days late.|0.55
+He shows up.|1.3
+Now, some of you hear that and think,|0.25
+okay, but He corrects me. Things get hard.|0.65
+Doesn't that mean He's,|0.7
+backing away?|0.7
+No. A dad who corrects you is a dad who's still in the house.|0.65
+The ones who leave don't bother correcting anybody.|0.6
+They just stop showing up, and the house gets quiet.|0.65
+Correction and rage aren't even cousins.|0.65
+Rage says, get out of my sight.|0.75
+Correction says, come here.|1.15
+And if your marriage ended, hear this one slowly.|0.65
+Your marriage ending didn't send your Father packing.|0.6
+The court split up the furniture.|0.8
+It didn't split up your Father.|0.55
+Listen, some of you quit walking into church after the divorce,|0.3
+because walking in alone felt like wearing a sign.|0.7
+He never asked you to wear one. He's kept your seat warm the whole time.|1.3
+
+# SECTION: Leaning Feels Like Falling
+This sounds like the easy session, doesn't it?|0.65
+God loves you, pass the donuts.|0.55
+For a lot of men, it turns out to be the hardest one we do.|0.6
+Because if nobody ever looked after you,|0.35
+you never learned how to let anybody.|0.6
+You can sign every line of the statement of faith|0.25
+and still go stiff the second somebody reaches for one end of your load.|0.7
+When you've been your own crutch that long, being held up feels like going down.|1.25
+I know a little bit about that one.|0.8
+I'll carry nine grocery bags up the stairs in one trip|0.3
+before I'll go back down for a second one.|0.55
+I'd honestly rather lose a finger.|ROOM_CHUCKLE
+That's not strength.|0.5
+That's a man who doesn't know how to be helped.|0.7
+My wife has offered to take a bag. I always say I've got it.|0.55
+And the Father isn't impressed by how many bags I can carry.|0.75
+He'd just like me to hand Him a couple.|1.0
+Then there's Gene.|0.55
+Gene is seventy-one.|0.55
+For about fifty years, every prayer Gene prayed started with Dear God.|0.65
+Like he was writing a letter to the county about his water bill.|0.7
+Polite. Respectful. A little stiff.|0.65
+Nobody ever told him he could talk any other way.|0.65
+He prayed out in the garden mostly, between the tomato rows,|0.3
+where nobody could hear him get it wrong.|0.8
+His own dad was a hard man who didn't talk at all,|0.3
+so Gene never once heard the word father said warm.|0.55
+And somebody in his group finally asked him,|0.35
+Gene, have you ever just called Him Father?|0.55
+And Gene said no. Not once. Not in seventy-one years.|0.6
+So he started, right then, at seventy-one.|0.55
+He said,|0.7
+the first month it felt like wearing another man's boots.|0.7
+Then one morning they fit.|1.3
+
+# SECTION: Practice Being A Son
+So how does a grown man learn to be a son?|0.7
+Not by trying harder to feel something.|0.75
+By practicing a few small things, over and over, while they still feel awkward.|1.0
+The first one is, use the name.|0.8
+Once a day, somewhere private, say Father out loud.|0.65
+Not just God. Not just Lord.|0.65
+Father, on purpose. Nobody else needs to hear you do it.|0.65
+The New Testament holds on to an old word for it.|0.65
+Abba.|0.4
+It's the word a toddler uses when he's got both arms up to be lifted.|0.7
+It's not formal. It's not careful.|0.8
+It's not sir. It's a lot closer to Daddy.|0.8
+And you've been given permission to use it.|0.55
+It'll feel strange at first.|0.6
+Fine. Feel strange, and keep saying it.|0.8
+Strange wears off. Most things do if you keep at them.|0.7
+Say it in the truck if you have to. The truck won't tell anybody.|1.2
+The second one is, take Him your exit.|0.65
+Whichever one it is.|0.45
+Remember that sentence from last time?|0.65
+Hand it to Him before you hand it to anybody else.|0.75
+And hand it to Him unvarnished.|0.55
+Father, my jaw's tight and my son just walked in.|0.65
+Father, it's eleven o'clock and I'm reaching for that app again.|0.7
+Father, I've been on this couch for three hours and I can't tell you why.|0.55
+He's not shocked by any of that.|0.8
+He's been waiting on you a lot longer than you've been,|0.7
+talking.|1.25
+The third one is, let Him tell you who you are.|0.65
+Every morning, find one thing the Bible calls the people who belong to Him,|0.25
+and tell Him, alright, I'll take that.|0.65
+Because it's yours.|0.5
+If nobody ever told you who you are, once won't cover it.|0.8
+Okay, a thousand times might cover it.|0.6
+And He doesn't run out of patience saying it.|1.3
+
+# SECTION: Let Somebody Get Under It
+The next one's harder for most of us.|0.65
+Let somebody carry you.|0.55
+At some point, something's gonna land on you that's heavier than you are.|0.6
+A diagnosis. A kid in trouble. A layoff.|0.75
+And every reflex you've got will say, grind it out. Alone.|0.8
+So pray against the grain, out loud.|0.65
+Father, I can't lift this. You take it, and You take me with it.|0.8
+And then let a brother get under one end of it.|0.55
+Let him pray over you, right there, out loud,|0.3
+and don't wave him off halfway through.|0.55
+Tougher to do than to say, isn't it?|1.3
+My kids never once asked me if it was a good time to need me.|0.75
+They just hollered Dad from the other room,|0.25
+usually in the last two minutes of a close game.|ROOM_CHUCKLE
+And here's what I noticed, years later.|0.7
+I never wished they'd needed me less.|0.7
+Not once.|0.55
+Not even during the game.|0.7
+If that's true of me, on my best day,|0.25
+think about what's true of Him.|1.15
+The last one is just, keep showing up where He shows up.|0.55
+Open the Bible. That's His voice on paper.|0.8
+Get to church, because that's where your brothers are.|0.8
+Pray, because there's Somebody on the other end.|0.8
+A man who only calls home when there's a crisis|0.3
+ends up hearing his Father's voice like a stranger's.|0.8
+You don't get to know a father by phoning him from the ER once a year.|0.7
+Ask any kid whose dad only called on his birthday.|1.05
+And for you guys whose careers are going great,|0.3
+whose names are on doors and whose phones don't stop,|0.3
+listen carefully.|0.5
+Your business card can't father you.|0.8
+Neither can a bonus, or a board that likes you, or your name in the trade magazine.|0.75
+Those things will clap for you on Friday,|0.3
+and forget you,|0.7
+the Monday you slip.|1.3
+
+# SECTION: Your Dad, Seen Again
+Now, something shifts once God actually starts being a Father to you.|0.6
+You look back at your own dad, the one who raised you or the one who didn't,|0.25
+and he comes into focus.|0.8
+Not always kinder. Sometimes just clearer.|0.75
+You quit trying to turn him into a man he never was.|0.55
+You quit waiting on him to finally hand over what he never had.|0.8
+And honestly, that can be a relief for both of you.|0.55
+He was never built to be your God.|0.6
+No man is.|1.05
+That doesn't mean you pretend.|0.8
+You can thank him for the good, and there's usually something.|0.7
+You can be honest about the bad, without dressing it up.|0.55
+And you can set down the grudge you've been hauling around for him.|0.55
+It's a lot easier to forgive a man|0.3
+once he doesn't owe you anything you're still trying to collect.|0.6
+Maybe someday you even go see him.|0.55
+A phone call. A porch. A hospital room.|0.8
+That's its own road, and we'll walk it before long.|1.2
+But none of that opens up|0.3
+while you're still trying to squeeze your dad for something|0.35
+only your Father in heaven can give.|0.75
+No dad who ever lived was big enough|0.35
+to fill the empty spot in you.|0.7
+Even if a good man sat in it.|0.65
+Even if he tried his hardest.|0.7
+And some of you will find out your dad had a dad who never showed up either.|0.7
+That doesn't excuse it. It does explain some of it.|1.3
+Young guys, let me talk to you for a second.|0.8
+You might be sitting there thinking,|0.35
+I'm fine, I don't need another father.|0.65
+Every man in this room has been,|0.7
+dead sure of something that turned out wrong.|0.55
+Learn this one now, while it's cheap.|0.7
+Or you'll spend your thirties|0.35
+looking for it in a boss, or a coach, or a girlfriend's dad.|1.3
+
+# SECTION: A Long Way Off
+There's a story Jesus told about a younger son who cashed out early,|0.35
+burned through every dime, and limped home with a speech he'd practiced the whole way.|0.6
+Watch the father in that story.|0.75
+Luke fifteen, verse twenty.|0.65
+So he got up and went to his father.|0.65
+But while he was still a long way off,|0.3
+his father saw him and was filled with compassion for him;|0.35
+he ran to his son, threw his arms around him and kissed him.|1.45
+Look at the distance in that verse.|0.55
+Nobody spots his boy that far down the road by luck.|0.8
+That father had been standing out front, looking.|0.55
+Every day, probably. Maybe a few times a day.|0.8
+And a man with gray in his beard didn't sprint in that culture. It was beneath him.|0.7
+This one hitched up his robe and took off.|0.75
+The boy didn't even get his speech out.|0.75
+He never had to cover that last stretch by himself.|0.6
+You don't have to get yourself presentable first.|0.6
+He's already running.|1.25
+Stay with me, because I owe you the end of Floyd's story.|0.65
+Floyd started saying Father on his morning walk with the dog.|0.6
+One sentence. That's it.|0.5
+He said the dog kept looking back at him like... well, like he'd lost his mind.|0.6
+He kept going anyway.|0.4
+Then his youngest daughter left for basic training.|0.8
+He hugged her in the driveway, watched the car turn at the corner,|0.35
+and he just sat down on his tailgate.|0.8
+And out loud he said, Father, I'm scared for her,|0.3
+and I don't know how to let her go.|0.8
+He told me it was,|0.7
+a good minute before he noticed.|0.55
+He hadn't checked first.|0.55
+He hadn't listened for anything.|0.65
+For the first time in fifty years,|0.35
+he walked up to that house without listening for the door.|0.75
+It was already open.|1.3
+
+# SECTION: Say It Clumsy
+So, let me tie this off.|0.75
+Here's the one thing to hold on to.|0.7
+Every one of us first heard the word father through a copy.|0.65
+Some of you got a good copy, and some of you got a torn one.|0.55
+But God is the original, and if you want to see Him, you look at Jesus.|0.55
+And the original doesn't leave.|0.8
+He's not reading your mood from the driveway.|0.55
+He's been watching that road for you the whole time, and He runs.|1.2
+My hope for you, leaving this room, is small and specific.|0.8
+One word, said out loud, before you're good at it.|0.7
+Father.|0.4
+Say it clumsy. Say it again the next morning.|0.65
+He's patient with slow learners, and He's not in a hurry with you.|0.6
+And when the next heavy load lands on you, I hope you let it shift a little.|1.0
+Sit down with your group and dig into these, one at a time.|0.7
+First.|0.5
+Which picture have you been holding up to heaven?|0.7
+The dad who never came, the quiet one, the scary one,|0.3
+or the good one who ran out of gas?|0.55
+And then name one thing you see in Jesus|0.25
+that tells you your picture had the Father wrong.|0.65
+Second.|0.55
+Seven mornings in a row, before you're out of bed,|0.25
+can you call Him Father, out loud, and tell Him one thing about your day?|0.55
+Without waiting to feel it first?|0.65
+Third.|0.4
+Pick one man there and tell him which wrong picture you've been praying to.|0.65
+And then let him pray for you, right there, out loud.|0.8
+Don't wave him off. Don't fix his grammar.|0.6
+That's practice at being carried, and most of us need the reps.|1.15
+[dry] That's it. That's the session.|0.75
+Head on over to your table,|0.25
+and let somebody else get under one end for once.|1.3

@@ -1,0 +1,441 @@
+# SECTION: Pull The Chairs In
+Hey, men. Come on in.|0.65
+Scoot those chairs in some, would you?|0.6
+You're spread out like you're waiting on your number at the DMV.|ROOM_CHUCKLE
+That's better. Nobody's getting called up today.|0.8
+And if you're new, welcome. Sit anywhere you like.|1.05
+Last time, we gave the whole session to a man|0.3
+a lot of churches walk right past.|0.75
+The man with no wife yet.|0.7
+Three different seats, really.|0.5
+Never married. Married once, and it ended in a courtroom. Or a graveside.|0.65
+And the big thing we said was that his life isn't on hold.|0.75
+He doesn't have to live like he's only visiting his own apartment,|0.3
+waiting for a woman to show up so he can finally start being a man.|0.65
+He's got ground to work right now, under a Father who calls him son.|0.75
+And the ask was simple.|0.65
+Name your seat, and then build one real thing on that ground.|0.65
+Get your place livable. Cook for somebody. Call a brother you've let slide.|0.55
+Spend a Saturday with a kid who's missing his father.|0.75
+Or, if you've been circling a good woman for a year, ask her plainly.|0.65
+I heard from a few of you. Some of you did the thing.|0.6
+And some of you, let's say, thought about it real hard, which I'll take for now.|1.2
+Today we walk into the marriage chapters.|0.7
+And single men, I'm looking right at you. Stay in your seat.|0.75
+Everything we talk about today is something you can practice now.|0.65
+Today is called Know Her.|0.75
+Coming up, we'll talk about giving yourself up for her,|0.3
+and about what she really needs from you.|0.7
+Neither one works without this one.|0.75
+A husband has to know the woman he married.|0.8
+Not her schedule. Not her routine.|0.7
+Her.|1.3
+
+# SECTION: Dwight Knows Brisket
+A friend of mine named Dwight can cook a brisket like nobody you've ever met.|0.6
+People drive across the county for it.|0.6
+Dwight's not much of a talker. Well, not unless you ask about smoke.|0.8
+He can tell you the temperature of that smoker by the color coming out of the stack.|0.55
+He knows which wood burns sweet and which wood burns bitter.|0.65
+He can tell how a brisket's doing by...|0.7
+pressing on it with one finger.|0.55
+His smoker has a name.|0.75
+I'm not gonna tell you the name. He'd be embarrassed, and he should be.|0.6
+Dwight's been married nineteen years.|0.8
+Good marriage. Nobody would've said otherwise. Dwight least of all.|1.0
+A while back, Dwight and his wife were at another couple's house for dinner.|0.8
+Long table, kids eating in the other room, the whole thing.|0.8
+And the hostess, just making conversation,|0.25
+turned to Dwight's wife and asked,|0.3
+if you could do anything at all, what would you do?|0.65
+And his wife set her glass down and said,|0.35
+I've always wanted to go back to school and be a nurse.|0.65
+Since I was sixteen.|0.55
+Then she told the whole table why.|0.65
+Her grandmother. A hospital room. A nurse who stayed past her shift.|0.65
+Dwight told me he sat there with his fork in the air.|0.6
+Nineteen years.|0.5
+He'd never heard one word of it.|0.7
+And everybody at that table assumed he had, because he's her husband.|0.8
+So they all kept smiling at him.|0.55
+And he smiled back, like a man who knew.|0.65
+He said no smile ever sat longer on his face.|0.7
+The drive home was quiet.|0.7
+Not angry quiet. Just quiet.|0.65
+Because it finally hit him.|0.55
+He'd studied that brisket harder than he'd ever studied her.|1.3
+
+# SECTION: A Shepherd Who Knows
+Now, I'm not telling you that to pile on Dwight.|0.6
+He'd tell you the story himself. He has, to a lot of men.|0.75
+I'm telling it because this room is full of Dwights.|0.75
+We could do our hobby in the dark,|0.35
+and we'd come up blank if somebody asked what's weighing on our wife lately.|1.15
+So let's start where the pattern starts.|0.6
+John ten, verse fourteen.|0.65
+I am the good shepherd;|0.45
+I know my sheep and my sheep know me.|1.45
+Look at the order there.|0.7
+I know my sheep.|0.55
+Jesus doesn't know His people the way a coach knows a roster.|0.55
+He knows the stuff you'd leave off a résumé.|0.6
+The night you'd rather forget.|0.8
+The sentence you've rehearsed telling somebody for years and never have.|0.6
+And here's the part that ought to stop you.|0.8
+Knowing all of that, He doesn't back away.|0.55
+He moves closer.|0.4
+My sheep know me.|0.45
+It runs both directions.|0.5
+The longer He keeps hold of His people, the more they come to know Him.|0.7
+Think about what that means for you.|0.65
+There's nothing in your life He hasn't already seen.|0.75
+And He hasn't left.|0.4
+That's not knowing that keeps a list for the next argument.|0.75
+That's the bar. It's high. It's supposed to be.|1.1
+So that's the target for a husband.|0.8
+Not a dossier on her. Not a spreadsheet of what she likes.|0.75
+Well, knowing how she takes her coffee won't hurt. Keep that.|0.65
+But what we're after is the Shepherd's kind of attention.|0.8
+The kind that keeps coming back after the honeymoon's over and the bills show up.|0.75
+And I'll own this one.|0.55
+My wife can tell from across the house when I'm only half listening.|0.55
+I don't know how she does it.|0.6
+I think the house...|0.7
+tells on me.|1.3
+
+# SECTION: According To Knowledge
+Peter wrote one sentence aimed right at husbands.|0.65
+First Peter three, verse seven.|0.65
+Husbands, in the same way be considerate as you live with your wives,|0.3
+and treat them with respect as the weaker partner|0.3
+and as heirs with you of the gracious gift of life,|0.25
+so that nothing will hinder your prayers.|1.45
+Be considerate.|0.5
+In English that sounds soft, like holding a door.|0.6
+But the older Bibles put it closer to the way Peter wrote it.|0.55
+According to knowledge.|0.55
+In other words, you're supposed to be a student of the woman under your roof,|0.3
+and that class never lets out.|0.55
+Not a man who figured her out once and moved on to other things.|0.7
+Learning her is part of the job, and the job doesn't come with a finish line.|1.25
+And notice what Peter calls her.|0.6
+Heirs with you.|0.55
+She's not your project.|0.55
+She's standing next to you in the same inheritance, under the same grace.|0.65
+You're not her supervisor. You're her fellow heir.|0.55
+So you don't study her the way a foreman sizes up a new hire.|0.55
+You study her the way a man learns the one|0.25
+he's gonna stand next to for the rest of his life.|1.25
+Stay with me here, because most of us skim right past the last line.|0.55
+So that nothing will hinder your prayers.|0.7
+Peter hangs your prayer life on how you treat her.|0.7
+If you can't be bothered to understand the woman down the hall,|0.3
+that's not only a marriage problem.|0.8
+Something gets in the way between you and God.|0.65
+That's sobering, isn't it?|0.6
+You don't get to be careless with her at the table|0.35
+and then expect it to feel close when you, I mean, when you bow your head.|1.3
+
+# SECTION: Running On Old Notes
+Here's what I see in a lot of good men.|0.7
+We'll study the things we love for decades.|0.65
+Deer stands. Fantasy lineups. Torque specs. Brisket, apparently.|0.65
+There's a guy at your table right now|0.25
+who knows the batting average of a backup catcher from nineteen eighty-seven.|0.55
+I'm not naming anybody.|ROOM_CHUCKLE
+But plenty of us did our homework on her right up until the wedding.|0.65
+Then we closed the textbook.|0.65
+And we've been taking every test since on what we crammed back then.|1.2
+The trouble is, she's been updating.|0.55
+We haven't.|0.5
+It's like driving around with a road map from the year you got married.|0.6
+Half those roads got moved.|0.7
+There's a highway out there now that isn't on your map,|0.25
+and you keep wondering why you can't get anywhere with her.|0.7
+Look, the early notes weren't wrong.|0.6
+They're just old.|0.5
+And she's been living new chapters the whole time.|1.2
+A buddy of mine named Ignacio|0.3
+brings his wife the same candy bar every Valentine's Day.|0.8
+Same brand. The one she loved when they were dating.|0.55
+She hasn't eaten one in, oh... about twelve years.|0.75
+She's just been too kind to tell him.|0.8
+He found out from his daughter.|0.6
+Ignacio's a good husband. He just stopped asking somewhere along the road.|1.05
+You can split a bathroom sink with a woman|0.3
+and have no idea what she's been praying about since Easter.|0.8
+Living in the same house doesn't do the learning for you.|0.75
+And if that's landing on you, there's a mark for this.|0.7
+Stop Waiting.|0.45
+In a marriage, stopping waiting looks like homework.|0.55
+You don't wait for her to hand you the new map. You go ask for it.|1.3
+
+# SECTION: Ask, Then Let It Sit
+So, how do you actually learn her?|0.65
+Here are a few handles to grab.|1.25
+First, ask, and then let the quiet sit there.|0.65
+Most of us are writing our reply|0.3
+while she's still clearing her throat.|0.65
+We're not listening. We're reloading.|0.55
+You can see it on a man's face. He's just waiting for his turn to talk.|0.7
+So try this.|0.55
+When she stops, take a slow drink of your coffee before you say anything.|0.6
+Then take another one.|0.45
+That's a long time in a kitchen.|0.55
+You'll want to fill it with something helpful. Don't.|0.65
+Odds are the real thing comes out somewhere around the second sip.|1.05
+Second, leave the toolbox in the truck.|0.6
+Everything in you is gonna want to solve it.|0.8
+Let her finish the whole story first.|1.3
+A guy I know named Rashad is a fixer.|0.65
+Hand him a problem and he'll have it solved before you finish describing it.|0.8
+His wife came home one evening upset about a woman at her job.|0.65
+And Rashad had, what, three solutions ready before she got her coat off.|0.7
+He was especially proud of the third one, which had a diagram.|0.7
+She looked at him and said, I didn't ask you for a plan.|0.8
+I asked you to be on my side.|0.6
+Rashad told me that one stung for a good while.|0.8
+He's not a man who likes being wrong. Well, nobody is. He just likes it less.|0.7
+But he figured it out.|0.75
+Now when she's telling him something hard, he keeps two words ready.|0.7
+Then what?|0.65
+And he says she tells him three times what she used to.|1.15
+Here's why that works.|0.55
+Every time you patch up what she just said, she learns to say less.|0.6
+Every time you just stay with her in it, she opens another door.|1.3
+
+# SECTION: Watch, Remember, Ask
+Third, watch her.|0.5
+What does she reach for first on a slow Saturday morning?|0.7
+Which song does she turn up in the car when she thinks nobody's paying attention?|0.7
+What does she do with her hands when she's nervous?|0.7
+Who does she call first when something good happens?|0.55
+If it's not you, that's worth knowing too.|0.7
+You can learn more on one quiet Saturday than from any book on the shelf.|1.05
+Fourth, remember the small stuff, and keep it somewhere.|0.75
+I know. Some of you just leaned back in your chairs.|0.55
+Listen, it works.|0.45
+The name of the dog she had when she was a girl.|0.55
+The restaurant she's brought up three times this year.|0.55
+The song they played at her grandmother's funeral.|0.75
+Which of her cousins she actually likes.|0.7
+Then one day, out of nowhere, you bring one of those back up.|0.6
+Watch her face when you do.|1.2
+Let me ask you something, and be honest.|0.75
+How many of you know what your wife wanted to be when she was ten?|0.6
+Go ahead. Get 'em up.|ROOM_HANDS
+Okay. Keep your hand up if you'd bet money on it.|0.55
+[dry] Yeah. That's what I figured.|0.55
+Don't worry. Nobody here is gonna check. Your wife might.|1.05
+Fifth, pull out the old pictures.|0.55
+The shoebox. The album in the hall closet.|0.6
+Ask her who's in them, and what that summer was like.|0.7
+People will tell you things about a photograph they'd never say across a table.|1.2
+And last, turn the radio off on a long drive,|0.25
+and ask her one thing you honestly can't answer for her.|0.8
+What's been the best part of this month for you?|0.55
+What are you dreading?|0.6
+And then you go too.|0.7
+Otherwise it's not a talk. It's a...|0.7
+deposition.|1.3
+
+# SECTION: Deep Waters
+Proverbs twenty, verse five.|0.65
+The purposes of a person's heart are deep waters,|0.3
+but one who has insight draws them out.|1.45
+Deep waters.|0.4
+That's your wife.|0.55
+That's every person, honestly, but she's the one you vowed to know.|0.75
+What's down there doesn't come up just because you're standing close.|0.55
+Notice the word, though. Draws.|0.65
+Insight doesn't drag. It draws.|0.8
+Think about coaxing a scared dog out from under a porch.|0.75
+You don't grab. You get low, you stay put, and you're patient.|0.6
+That takes time, and time means deciding she's worth it.|1.3
+So let's get specific about what might be down there.|0.6
+Where she came from.|0.5
+What supper sounded like at her house when she was a girl.|0.75
+Loud? Silent? Who she was scared of letting down.|0.55
+Ask her to drive you past the house she grew up in,|0.35
+and tell you what happened in every room.|0.8
+One day you'll understand why a slammed cabinet makes her jump.|0.7
+Some of what she carries got handed to her long before you showed up.|1.05
+What keeps her up.|0.5
+Ask her what she lies awake about these days, and then hush.|0.65
+Maybe it's her sister's marriage.|0.8
+Maybe it's the boss who talks over her in meetings.|0.6
+Maybe it's a lump she hasn't told anybody about yet.|0.8
+Maybe it's whether she's any good at this, at being a mom.|0.75
+Whatever you'd have guessed, it's probably not that.|1.1
+What she'd do with a free Saturday if nobody needed a thing from her.|0.65
+The garden? A bookstore? Her sister's porch? A nap?|0.65
+If you can't answer that, you've probably been handing her your idea of a good day,|0.3
+and wondering why she doesn't, well, why she doesn't light up.|1.3
+
+# SECTION: What Feels Like Love
+What actually feels like love to her right now.|0.65
+Most of us give the kind of love we'd want back.|0.6
+We fix the thing. We handle it. We provide.|0.75
+Some wives feel that, and that's good.|0.65
+But for a lot of them it's something smaller.|0.65
+You filled up her car so she didn't have to stop on the way to work.|0.65
+You texted at lunch to ask how the dentist went.|0.75
+You took the kids to the park so she could hear herself think.|0.75
+Don't guess. Ask. Guessing is how you end up with the candy bar.|1.25
+How she's doing in her own body. And I'll keep this plain and decent.|0.8
+What's been aching.|0.4
+How she's been sleeping.|0.5
+What she's quietly worried the doctor's gonna say.|0.65
+She's living in that body all day long. You can at least ask about it.|1.1
+Where she is with God.|0.8
+What she's been asking Him for lately.|0.6
+Whether she feels like He's answering.|0.55
+Then when you pray for her, you'll have her actual words to bring Him,|0.3
+instead of a vague, Lord, be with her.|1.3
+Here's the thing. Nobody learns all of this in one sitting.|0.6
+You pick one, and you start there.|1.05
+Her regular day.|0.55
+The drive in. The phone call she dreads making.|0.65
+The part of the afternoon that drags.|0.8
+If you don't know what her Thursday looks like,|0.35
+you'll say something like, must be nice,|0.35
+and then wonder why the room just got cold.|1.1
+Who she misses.|0.55
+The friend she drifted from. The one she'd call if the house caught fire.|0.8
+And the things she set down.|0.65
+The dream she quit bringing up because nobody, look, nobody ever asked.|0.65
+A nursing degree, say.|0.5
+Find one of those, and help her dust it off.|1.3
+
+# SECTION: When There's A New Baby
+Now, the season you're in shapes how you go about this.|0.8
+When there's a newborn in the house,|0.25
+her whole life gets chopped into pieces about two hours long.|0.7
+So don't ask her how she's really doing. She doesn't know.|0.8
+Ask her what you can take off her plate before lunch.|0.7
+Know when she last ate a hot meal sitting down.|0.6
+Know when she last walked outside by herself.|0.7
+None of that is romantic. All of it is love.|0.8
+And if she doesn't want to be touched,|0.3
+don't take it personally.|0.55
+She's had somebody on her all day long.|0.8
+And if she snaps at you about the dishwasher at midnight,|0.25
+it's probably not about the dishwasher.|0.6
+Let it go by, and go load it.|1.1
+And watch for something darker than tired.|0.75
+A friend of mine named Kofi saw it first.|0.8
+After their second baby, his wife just wasn't herself.|0.6
+Not for a day. For a long stretch.|0.6
+She quit answering her sister's texts.|0.65
+She cried in the shower and told him it was nothing.|0.65
+One night she said she felt like she was watching her own life through a window.|0.7
+And people kept telling Kofi, oh, that's normal, give it time.|0.7
+Kofi didn't give it time.|0.55
+He called the doctor that afternoon and drove her there himself.|0.6
+And when she was too worn out to explain it, he helped her say it.|0.55
+She's doing well now. She'll tell you that appointment was the turn.|0.7
+Doctors know how to help with this.|0.75
+And a husband is usually close enough to see it before anybody else.|0.8
+So don't sit on it.|0.75
+Knowing her is part of how you protect her.|0.75
+In those months she doesn't need a mechanic.|0.75
+She needs a,|0.7
+witness.|1.3
+
+# SECTION: Every Other Season
+If you're in the middle stretch,|0.3
+kids headed three directions and a calendar on the fridge in four colors,|0.3
+you probably know her schedule better than you know her.|0.8
+No shame in that. It's how the middle goes, right?|0.65
+And if you're the guy running a big team,|0.3
+you might be the man in the building who's asked his wife the fewest.|0.7
+So ask her what she's dreading this month.|0.6
+Then ask what she's looking forward to.|1.15
+If you've been married a long time,|0.3
+there's probably a wedding picture on a wall you walk past every day.|0.65
+She hasn't been that girl in a long time.|0.55
+She's buried people. Raised people. Changed her mind.|0.55
+Ask her what she'd still like to try while you've both got the knees for it.|0.8
+Don't be shocked if it's nothing you'd have guessed.|1.2
+If it's over, and looking back you can tell you never really knew her,|0.3
+put that on your side of the table when you own your part.|0.6
+And you're not finished learning her.|0.7
+If you're raising kids together, you need to know their mother.|0.8
+Which kid she's losing sleep over.|0.75
+Her rules at bedtime, so you're not undoing them every other weekend.|0.6
+What she needs to hear from you at a handoff to stay calm.|0.75
+That's not getting back together. That's being a good dad. Fair?|1.25
+And single men.|0.4
+Practice now, with the women God's already put around you, as sisters.|0.6
+Ask your grandmother how she met your grandfather, and let her tell all of it.|0.55
+Ask your sister what the hardest year of her life was.|0.55
+Don't steer it. Don't fix it. Don't charm it. Just listen.|0.75
+The ears you train on your sister are the ears you'll bring to a wife.|1.3
+
+# SECTION: Dwight Goes Back To Class
+So, let me finish Dwight's story.|0.55
+He didn't say a word on the drive home that night.|0.7
+He told me he was too embarrassed to.|0.55
+But the next evening, after the kids were down,|0.35
+he sat across from her and said,|0.45
+I didn't know about nursing.|0.6
+Tell me about your grandmother.|0.75
+She laughed. Then she saw he meant it, and she got quiet.|0.65
+And then she talked for about two hours.|0.65
+The hospital. The nursing school she'd looked at when she was nineteen.|0.55
+Things about her mother he'd have bet his truck he already knew.|0.55
+Dwight said he mostly kept his mouth shut,|0.3
+which he'll tell you is not his gift.|0.55
+Ask anybody who's ever stood next to him at a smoker.|0.8
+He said a couple of times he caught himself about to fix something.|0.7
+And he just said, then what? And she kept going.|0.7
+He said it was, see, it was the best two hours he's ever spent at that table.|1.3
+A few days later he drove her to an open house at the community college.|0.8
+He carried the folder, and he asked the questions she was too nervous to ask out loud.|0.75
+This next bit is my favorite.|0.6
+She started classes this past spring.|0.7
+On her school nights, Dwight does the dishes and the homework.|0.65
+And some nights, after the kids are asleep,|0.3
+he quizzes her with flash cards on the bones of the hand.|0.75
+He's terrible at it. He can't pronounce half of those bones.|0.6
+She's very patient with him.|0.55
+He says nineteen years in, it feels like they're dating again.|0.7
+He studied brisket for nineteen years.|0.7
+Now he's studying her.|0.55
+And he admits the brisket has slipped a little.|ROOM_CHUCKLE
+She doesn't seem to mind.|1.3
+
+# SECTION: Ask Her One More
+[warmly] Okay, men. Last stretch.|0.5
+Strip all of it down and you get this.|0.8
+A husband has to know the woman he married.|0.7
+Not who she was the day of the wedding. Who she is now.|0.55
+Jesus knows His sheep all the way down, and He stays.|0.6
+And Peter says how you live with her reaches all the way to your prayers.|1.25
+What I hope goes home with you is simple.|0.7
+Quit running on old notes.|0.6
+That you'd ask one honest question, and then let her get to the end of it.|0.6
+And if you feel behind on all this, welcome.|0.55
+So is just about every married man I know.|0.6
+Behind isn't the same as finished.|1.05
+At your table, take these one at a time.|0.6
+Start here.|0.45
+How much of what you'd say about your wife is left over from those first few years?|0.65
+Then circle the spot where you know the least.|0.7
+Where she came from, what keeps her up, her body, her faith, her regular day,|0.3
+or the dreams she quit bringing up.|0.6
+Single, write what you'd want to understand about a woman before you propose.|0.75
+Divorced, write where you were most in the dark about her.|0.6
+Second.|0.5
+What's one question from that spot you'll ask her,|0.3
+and can you hold still while she answers, no fixing, no defending?|0.55
+Then write down what she says.|0.6
+If it's over, put one question about the kids to their mother, and hear her out.|0.7
+Third.|0.55
+Who at your table hears what surprised you?|0.7
+And ask him how long it's been since he really asked his own wife something new.|0.55
+Don't settle for, we're fine.|0.8
+And last, carry this home.|0.55
+She didn't stop changing when you stopped paying attention.|0.8
+So ask her one more thing.|1.3
+Take your chairs to your tables, and leave the old notes on the floor.|1.3

@@ -1,0 +1,391 @@
+# SECTION: Easy On That Door
+[warmly] Hey. Come on in.|0.55
+Last one through, would you get that door for us?|0.7
+Easy, now. Don't slam it.|0.55
+We just gave that a whole session.|ROOM_CHUCKLE
+Grab a chair. There's coffee in the back, and it's, let's say, mostly hot.|1.0
+Last session, we were standing on the front step of the house you grew up in.|0.8
+And we said there are two ways a grown son can get that door wrong.|0.7
+Some men slam it on the way out.|0.7
+They got out, and they're still mad, and the anger keeps them tied to the place.|0.65
+Other men are still hanging on to the knob.|0.7
+They moved out years ago, and their folks still get the deciding vote.|0.65
+God asks a son to do two things with one motion.|0.7
+Leave, and honor them while you're leaving.|0.65
+Pull it closed quietly. Then come back and knock.|0.55
+And I asked you to figure out which man you are.|0.55
+The slammer or the gripper.|0.75
+Then do one real thing about it.|0.8
+Make one decision at home without checking with your folks, and let them know after, gently.|0.55
+Or, if you slammed it, start praying for your father by name. Daily.|0.8
+One of you told me he tried the first one, and his mom handled it better than he did.|0.6
+I suspect a couple of you have a date circled on the calendar right now|0.3
+that makes your stomach turn a little.|1.05
+So, today we stay with men, but we turn in a different direction.|0.75
+Not the man behind you. The man beside you.|0.6
+Today is about a man with no brothers.|0.8
+And I'm not asking how many boys your mother had.|0.65
+I'm asking whether there's one man alive who actually knows you.|0.65
+I'll warn you up front.|0.65
+Every man in here is about to think of some guy this would be perfect for.|0.6
+Hang on to that thought, because the guy is probably you.|1.3
+
+# SECTION: Six Hundred Names
+A buddy of mine named Irving got a phone call on a Wednesday afternoon.|0.65
+His doctor's office.|0.5
+Some bloodwork had come back, and they wanted him to come in.|0.7
+Not an emergency. Just, come in, the doctor would like to talk with you.|0.55
+Now, if you're past fifty, you know that sentence|0.3
+does something to your stomach that most sentences don't.|0.65
+He was sitting in the parking lot of a hardware store when the call came.|0.55
+He'd stopped for...|0.7
+furnace filters.|0.75
+And he hung up, and he just sat there with the engine running.|1.2
+Irving told me the first thing he wanted was to tell somebody.|0.55
+Not his wife, not yet. He didn't want to scare her over what might be nothing.|0.55
+Just a man. Somebody he could say, hey, I'm a little rattled, to.|0.65
+So he pulled up his recent calls.|0.6
+His wife. The pharmacy. A pizza place.|0.65
+Some robot calling about the warranty on a car he sold four years ago.|0.75
+Then he started scrolling the whole list.|0.7
+Six hundred names, give or take.|0.6
+He knew every one of them. He liked most of them.|0.65
+He'd been to half their kids' weddings.|0.75
+He went through the whole list, top to bottom... twice.|0.6
+And there wasn't one name in there he trusted with the words, I'm scared.|1.05
+So you know what he did?|0.65
+He went inside and bought furnace filters.|0.6
+A lot of furnace filters. Way more than one house needs.|0.8
+I think he just needed something to do with his hands.|0.7
+That man has got filters for about the next nine years.|ROOM_CHUCKLE
+Then he drove home and kept the whole thing to himself.|0.7
+Including his wife, for two more days.|0.8
+I'll come back to Irving. But hang on to that picture.|0.55
+A grown man in a parking lot with six hundred names, and nobody to call.|1.3
+
+# SECTION: Buddies Are Not Brothers
+Here's what I think was going on in that truck.|0.6
+Irving had plenty of buddies. What he didn't have was a brother.|0.75
+And those are two different jobs.|0.7
+A buddy is a man you do things with.|0.8
+The softball league. The fantasy draft. Pouring a slab in somebody's backyard.|0.75
+The poker game that's been running since before anybody had kids.|0.8
+And thank God for buddies. I'm not knocking them.|0.7
+Look, a man needs somebody to throw a ball with.|0.75
+But you can stand in a dugout next to a man for fifteen summers|0.3
+and never once find out what keeps him up at night.|0.8
+You'll know his batting average. You'll know his truck.|0.8
+You'll know exactly how he takes his coffee,|0.3
+and his opinion on every quarterback in the league.|0.55
+You just won't know him.|1.2
+Quick question, and I won't write anything down.|0.55
+How many of you are in a group text with some guys,|0.3
+where the deepest thing anybody's ever typed is a ballgame score?|ROOM_HANDS
+Yeah. That's most of the room, isn't it?|0.7
+My wife says our family thread is mostly scores too. Well, scores and pictures of the dog.|1.1
+A brother is a...|0.7
+different animal.|0.8
+A brother is a man you've given permission.|0.65
+He gets to ask the second question, the one after, how you doing?|0.55
+He gets to look at you and say, I think you're wrong about this one.|0.65
+And he knows the stuff you'd never bring up at a cookout.|0.6
+What the credit card bill really looks like. Which night of the year is hard for you.|0.65
+What you're afraid might be true about you.|1.2
+A lot of married men hand that whole job to their wife.|0.75
+She's the only one on earth who really knows him.|0.6
+And she should know him. Keep her close.|0.65
+But that's a lot of man for one woman to hold all by herself.|0.55
+Keep that in mind. We'll get to Homer shortly.|1.3
+
+# SECTION: Somebody At The Bottom
+None of this was the plan.|0.7
+From the first pages of the Bible, God never meant a man to go it alone.|0.55
+His answer to that was a wife, and marriage is still where He starts.|0.75
+But all the way through the story, you see men walking with other men.|0.75
+Moses had two men holding his arms up when he couldn't.|0.55
+Elijah had Elisha following him down the road.|0.55
+Paul had Silas singing next to him in a jail cell at midnight.|0.75
+And there's a man in the Old Testament, the Teacher, who just says it flat out.|0.65
+Ecclesiastes four, starting at verse nine.|0.6
+Two are better than one,|0.3
+because they have a good return for their labor:|0.35
+If either of them falls down,|0.3
+one can help the other up.|0.75
+But pity anyone who falls|0.35
+and has no one to help them up.|1.5
+It says if.|0.5
+But every man in this room over forty knows it means when.|1.2
+Think about a ladder.|0.4
+Any guy who's ever cleaned out gutters will,|0.7
+tell you.|0.65
+The ladder's not really the dangerous part.|0.65
+The dangerous part is the ladder with nobody standing at the bottom of it.|0.8
+One man with his boot on the foot of that ladder, and you'll climb a lot higher.|0.6
+Nobody down there, and every rung is a gamble.|0.7
+And when you come down hard, the question isn't how tough you are.|0.8
+The question is who's standing there when you land.|1.05
+Okay, go back to that last line one more time.|0.55
+Pity anyone who falls and has no one.|0.8
+That's Irving in the hardware store parking lot.|0.6
+He didn't fall far. It was one phone call.|0.75
+But he hit the ground, and he looked up, and there was nobody there.|0.8
+And the Teacher says, pity that man.|0.75
+Not, admire his independence. Pity him.|0.7
+God looks at a man alone and He doesn't see strength.|0.75
+He sees somebody who's gonna have a hard time getting back up.|1.3
+
+# SECTION: Even He Wanted Three
+If you still think needing a brother means something's wrong with you,|0.4
+I want you to look at Jesus.|0.8
+It's His last night before the cross.|0.6
+He goes out to a garden to pray, and He takes His friends along.|0.65
+Then He takes three of them farther in with Him.|0.75
+Peter, James and John.|0.4
+Two of them about to doze off, and one about to deny he ever knew Him.|0.75
+And this is what He says to them.|0.6
+Mark fourteen, verse thirty-four.|0.65
+"My soul is overwhelmed with sorrow to the point of death," he said to them.|0.55
+"Stay here and keep watch."|1.5
+Stay with me here, because it's easy to read right past it.|0.65
+This is the Son of God.|0.65
+He spoke, and the wind quit.|0.55
+He fed a hillside full of people off one boy's lunch.|0.6
+And on the darkest night He was ever going to face,|0.4
+He let three ordinary men see how heavy it was.|0.75
+Overwhelmed. To the point of death.|0.6
+That is not a man holding it together for the sake of the guys.|0.8
+And then He asked them for something.|0.8
+Stay here. Keep watch.|0.4
+Be awake, and be close, while I go through this.|0.6
+Here's the thing.|0.55
+He knew exactly who those three were. He knew how that night would go for them.|0.55
+And He still wanted them there. He,|0.7
+still asked.|1.0
+He didn't go into that night alone.|0.55
+And that tells me something about you and me.|0.6
+If the strongest Man who ever walked this earth wanted friends close by in the dark,|0.3
+then you're not too tough to need them.|0.8
+There's no special pass for the strong, silent type.|0.8
+So the question isn't whether you need a brother.|0.55
+You do. That's settled.|0.45
+The question is who you'd ask.|1.3
+
+# SECTION: Every Reason In The Book
+So why does that spot stay empty for so many of us?|0.65
+I've heard a lot of reasons from a lot of men.|0.6
+And my wife could tell you a couple of them have been heard at our kitchen table.|1.3
+The first one is, I'm not a talker.|0.75
+That's alright. He doesn't need a talker. He needs somebody honest.|0.75
+Three true sentences in twenty minutes might be the best phone call he gets all month long.|1.1
+The second one is, I'll do it once life calms down a little.|0.8
+Things are not going to settle down. You've noticed that, right?|0.55
+And the season that's too crazy for a brother is usually the one where you need him most.|0.75
+Hang on, because this gets smaller than you think.|1.2
+Here's a third. I've got God. Why would I need a guy?|0.7
+And I love the heart behind that one.|0.75
+But we just watched the Son of God ask three men to stay up with Him.|0.55
+Leaning on your Father and leaning on a brother were never in competition.|0.75
+Jesus did both, in the same garden, on the same night.|1.05
+The fourth one is, the guys I know would think it's weird.|0.8
+A few might. Give it a day.|0.6
+And then one of them is gonna catch you in the lobby and say, I've wanted that for years.|1.3
+The fifth one is, I wouldn't even know who.|0.65
+Fair enough. We'll get to that in a minute. It's usually somebody closer than you'd guess.|1.15
+And the last one is, my wife's my best friend.|0.7
+Good. Keep it that way.|0.75
+But she married a husband. She didn't sign up to be your whole support staff.|0.8
+Ask her sometime who you'd call if she was the one in the hospital bed.|0.75
+And,|0.7
+clear your calendar for the answer.|1.15
+
+# SECTION: Out To Horesh
+So, what does a brother actually do?|0.65
+Look at David.|0.5
+Before he ever wore a crown, there was a long stretch where he was a hunted man.|0.55
+King Saul wanted him dead, and sent soldiers out after him.|0.8
+David's sleeping in caves, hiding out in the wilderness, worn down to nothing.|0.6
+And somebody comes looking for him.|0.75
+First Samuel twenty-three, verse sixteen.|0.55
+And Saul's son Jonathan went to David at Horesh|0.25
+and helped him find strength in God.|1.5
+Think about what that walk cost Jonathan.|0.8
+It's his own dad sending the soldiers.|0.6
+Every step toward David is a step away from his father's favor, and maybe his own crown.|0.55
+And there's not one thing about the situation Jonathan can change.|0.65
+So what does he do?|0.65
+He goes. He walks out into the wilderness to find his friend.|0.65
+And he points him back to God.|0.6
+That's the job, right there.|0.7
+A brother isn't there to fix your life.|0.55
+Most of the time he can't even fix your,|0.7
+Tuesday.|0.75
+But he'll hike out to wherever you're hiding,|0.25
+and turn your face back toward the One who's got it in His hands.|1.15
+And a brother does a few other things too.|0.7
+He remembers what you told him last time, and he brings it up before you do.|0.8
+Hey, did you ever call your dad?|0.65
+He notices when you've gone quiet for a few days, and he doesn't let it slide.|0.55
+He'll walk into the rooms you'd rather keep shut.|0.75
+Your temper with the kids. The drinking you call unwinding.|0.75
+The thing you swore you'd quit back in January.|0.55
+And when he's got something hard to say,|0.25
+he says it one time, gently, and then trusts you with it.|0.65
+And when the bottom falls out of your life,|0.3
+he's not the guy who texts you a thumbs-up.|0.6
+He's the guy who gets in his car.|1.3
+
+# SECTION: The Weather Channel
+Homer's a man in his late seventies I've known for years.|0.65
+Married forty-four years. Well, forty-four and most of a summer.|0.75
+Good marriage. Loud, happy kitchen.|0.75
+And his wife was the one he told everything.|0.75
+Every worry, every doctor visit, every dumb thing he said at the hardware counter.|0.75
+He had plenty of folks he was friendly with.|0.7
+He had exactly one person who knew him.|0.8
+And for forty-four years, that seemed like plenty.|1.1
+Then she died.|0.45
+And for about a month, the casseroles kept showing up on the porch.|0.55
+And then they... stopped.|0.4
+Nobody was being cruel. Folks just drift back to their own lives, the way folks do.|0.65
+And Homer figured something out, sitting alone in that kitchen.|0.65
+He'd been married to the only person who knew him, and now she was gone.|0.55
+He told me he'd leave the TV on all day, just to hear somebody talking.|0.65
+He said, I'd watch the weather channel for three hours straight.|0.8
+I don't even like weather.|ROOM_CHUCKLE
+Most Sunday afternoons he'd drive out to her grave.|0.7
+And most Sundays there was another old man two rows over,|0.3
+standing at his own wife's stone.|0.8
+They'd nod at each other. That was it, for about a year.|0.75
+Then one gray Sunday, Homer,|0.7
+walked on over there.|0.75
+He said, I don't think I've got anybody. Would you want to talk sometime? Really talk?|0.7
+And the other man's eyes filled right up.|0.8
+He said, Homer, I thought it was just me.|0.75
+They meet Monday mornings now, at a doughnut place by the highway.|0.75
+Twenty minutes, most days. Sometimes an hour.|0.7
+And Homer says the TV's been off a lot more lately.|1.3
+
+# SECTION: The Bottom Rung
+Now, I can hear some of you already.|0.55
+That's great for a retired guy. I've got three kids and a job.|0.7
+Fair enough. Here's what a lot of men get wrong.|0.75
+Nearly every man I talk to wants this.|0.65
+He just can't find a version that fits the life he's actually got.|0.65
+Everything he gets offered is too big.|0.75
+A men's conference three hours away. A Saturday workday at the church.|0.65
+A thirty-day devotional with a journal and a wristband.|0.7
+A guy working doubles to keep the lights on looks at all that,|0.3
+figures there's no way, and so he does nothing.|0.65
+So make it small.|0.5
+One man. Twenty minutes. Same day, same hour, every time.|0.65
+The same-ness matters more than you'd think.|0.7
+Move a standing call around enough times, and one day it just quietly dies.|1.2
+And give it some shape, or it turns into fishing reports pretty quick.|0.55
+First, catch each other up. The real version, not the Christmas-card version.|0.75
+Then the heavy part. What's weighing on you, and what's under that.|0.75
+Whoever's listening, just listen. Nobody's there to fix it.|0.7
+Before the call ends, you each name one thing you'll do before the next one.|0.8
+And on the next call, that's the first thing you ask about.|0.65
+Then pray for each other, out loud, even if it comes out clumsy.|0.8
+Some days one of you will be coming apart, and the hard stuff takes up the whole twenty.|0.75
+That's fine. Twenty minutes is the bottom rung, not the top of the ladder.|1.2
+Mack works twelve-hour shifts as a nurse.|0.8
+He makes his call from the hospital parking garage, before he clocks in.|0.8
+The other guy's driving to a job site.|0.65
+Mack says the garage has terrible signal and great acoustics.|0.7
+He's pretty sure the security guard has started praying along.|1.25
+
+# SECTION: Who To Ask And How
+So who do you ask?|0.55
+Look for a man who's mostly living what we've been talking about in this room.|0.6
+Not perfect. Just honest, and headed the right direction.|0.8
+Odds are you already know him.|0.7
+You've stood next to him at the coffee pot for years and talked about nothing but the weather.|0.65
+He doesn't need to be your age. He sure doesn't need to be a Bible scholar.|0.7
+He needs to be able to keep his mouth shut.|1.1
+And a few men to skip.|0.8
+Skip the guy you're trying to impress. You'll spend the whole twenty minutes performing for him.|0.75
+Skip the guy who always knows everybody's business.|0.55
+If he tells you theirs, he'll tell them yours.|0.65
+And skip anybody who's got something riding on what you tell him.|0.55
+You want a man you can say anything to, with nothing at stake but the friendship itself.|1.25
+Then ask him. Plain words. Something like this.|0.65
+I've noticed there isn't one man in my life who really knows what's going on with me.|0.55
+Would you be up for twenty minutes on the phone, same day every time, for the next three months?|0.55
+If it's a bust, we quit, no hard feelings.|0.8
+Putting an end date on it makes it easy for him to say yes.|0.75
+And it gives you both a clean way out if it flops.|0.75
+It hardly ever flops.|0.45
+By the time those three months are up, nobody's looking for the exit.|1.15
+It'll be awkward at first. Then it won't.|0.75
+Listen, most men are lonelier than they'll ever let on,|0.3
+and nearly all of them are sitting around hoping the other guy goes first.|0.65
+So you go first.|0.45
+That's Go First, and all it takes is your thumb on the call button.|1.3
+
+# SECTION: On It, Brother
+Let me finish Irving's story.|0.8
+Two days after that parking lot, he finally told his wife.|0.65
+And she listened, and held his hand, and then she asked him something he didn't expect.|0.55
+She said, who else have you told?|0.55
+He said, nobody.|0.5
+And she said, Irving, that's the part that scares me.|1.0
+So, he chewed on it for a few days.|0.55
+And there was a man he'd coached Little League with, years back.|0.7
+They'd lost touch, mostly. Still waved at each other at the gas station.|0.6
+Irving had always thought, now there's a guy who doesn't fake it.|0.8
+So he called him. Sitting in that same truck, actually.|0.75
+He said, this is gonna sound strange.|0.7
+And the guy said, it doesn't sound strange. It sounds overdue.|0.8
+They talked forty minutes that first time.|0.55
+Mostly about nothing. Then, toward the end, about everything.|1.0
+The follow-up appointment came around about ten days later.|0.65
+And sitting in that waiting room, before he texted anybody else,|0.45
+Irving texted that man. I'm here. Pray.|0.7
+The answer came back before he'd even set the phone down on his knee.|0.55
+On it, brother.|0.4
+It turned out to be, well, nothing serious. A change in his medicine.|0.75
+But Irving says that's not the part he remembers.|0.8
+He remembers how fast those three words came back.|0.55
+For the first time in his life, somebody besides his wife knew where he was and why,|0.25
+and was praying about it while he sat under a TV nobody was watching.|0.55
+They talk every Tuesday now, half past six, Irving in his driveway.|0.75
+Twenty minutes. Some days forty.|0.55
+And Irving says he hasn't had to buy a furnace filter since.|0.55
+He's still working through the pile.|1.3
+
+# SECTION: Pull Up A Chair
+Okay. Let me pull it all together.|0.7
+If you keep one thing from today, keep this.|0.65
+A man can walk around with a phone full of names and still have nobody.|0.7
+God never built you to go it alone,|0.3
+and even Jesus asked His friends to stay close in the dark.|0.75
+A buddy's good. But what you need is a brother. One. Maybe two.|0.75
+And the way you get one is, you ask.|1.05
+I'd love for every man in here to leave with a name.|0.8
+And a little nerve to go with it.|0.65
+Not a whole men's ministry. Not a new personality.|0.55
+One man, and one sentence.|0.55
+That's not much to ask of a grown man. Fair?|0.55
+Because I've watched too many good men find out they were alone at the worst possible moment.|0.6
+And I hope you remember the Father who made you|0.3
+never meant for you to be the guy alone in the parking lot.|1.2
+Here's what your table gets to chew on.|0.55
+First.|0.4
+Say this out loud, and fill in the blank.|0.7
+If it all fell apart at two in the morning, the man I'd call is blank.|0.55
+And if nothing comes, or the only name that comes is your wife's, just say that. That's honest.|0.8
+Second.|0.55
+Who's the man? Put a name on him, and tell the guys why him.|0.55
+Third.|0.4
+What's your sentence?|0.55
+Say the actual words you'd use to ask him, right there at the table.|0.7
+Twenty minutes, for three months. Pick the day and the hour you'd want, before you leave.|0.75
+And fourth.|0.55
+If you've already got a brother, how do you start the twenty minutes with him?|0.7
+If you don't, then asking is your whole assignment.|0.55
+You could make that call from the parking lot before you even drive home.|0.75
+And if your palms sweat a little saying it, good. That means it's a real ask.|1.05
+Alright, head on over.|0.4
+And if you see a man sitting by himself,|0.3
+go pull up a chair beside him.|1.3

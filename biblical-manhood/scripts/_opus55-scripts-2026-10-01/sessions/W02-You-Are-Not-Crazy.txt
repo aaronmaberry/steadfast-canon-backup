@@ -1,0 +1,427 @@
+# SECTION: Good To See You
+[warmly] Well, you came back.|0.55
+That's already better than most gym memberships.|ROOM_CHUCKLE
+Grab a seat, settle in.|0.6
+If you're new today, you didn't miss a password.|0.55
+Just find a chair next to somebody you don't know yet.|0.55
+He's probably as nervous as you are.|0.7
+Maybe more. He came early. Fair?|1.2
+Last session we spent our whole time on one ordinary day.|0.75
+The plain one. The one nobody throws a party for.|0.55
+We said a man doesn't get built on the big days as much as we think.|0.65
+He gets built on the days nobody's watching,|0.3
+one small choice at a time.|0.8
+And I asked you to catch one of those choices and do something with it.|0.75
+Some of you did.|0.4
+I talked to a guy after who said he hauled the trash cans up the driveway before anybody asked,|0.3
+and his wife looked at him like he'd been abducted.|0.55
+That's a good start.|0.4
+Some of you meant to, and the day ate you alive.|0.75
+That's alright too.|0.45
+Start again on the next one.|0.55
+Nobody in here is keeping a scorecard on you.|0.6
+The point was never a perfect day.|0.6
+The point was to actually see one.|1.1
+Today I want to deal with something that gets in the way of all that.|0.7
+Because you can want to be a good man on an ordinary day,|0.3
+and still not have a clue what a good man is supposed to do.|0.8
+That's a real problem.|0.5
+And a lot of men carry it around in silence,|0.3
+because they figure everybody else got the memo and they didn't.|0.75
+So let me say the main thing right up front,|0.35
+and then we'll spend the rest of our time earning it.|0.8
+You are not crazy.|0.45
+The confusion you feel about being a man is real.|0.6
+And a lot of it didn't start with you.|1.4
+
+# SECTION: Two Stations
+You ever drive at night between two towns,|0.35
+out where the radio gets thin?|0.55
+You're listening to one station,|0.35
+and then slowly another one starts bleeding in on the same spot on the dial.|0.6
+So now you've got half a ballgame and half a preacher.|0.75
+A guy's yelling about a double play,|0.3
+and somebody else is talking about the book of Romans,|0.3
+and every few seconds a commercial for a truck dealership cuts across both of them.|0.75
+You can't really follow any of it.|0.55
+And after a few miles, you turn it off,|0.3
+because the noise is worse than silence.|0.75
+Or you just pick the loudest one, I mean, whatever's loudest, and hope it's headed your direction.|1.2
+That's what a lot of men have going on in their heads about manhood.|0.75
+Not one clear voice.|0.55
+A whole pile of stations stacked on each other.|0.75
+One says never let them see you cry.|0.65
+One says why won't you ever open up to me.|0.6
+One says a man fixes things.|0.6
+One says quit trying to fix it and just listen.|0.75
+And all of them are coming in on the same frequency,|0.3
+so you can't tell where one stops and the next one starts.|0.8
+Now, here's what a man usually does with that.|0.65
+He doesn't say, huh, the signal's crossed.|0.7
+He says, I must be the problem.|0.7
+He figures there's a clear station somewhere,|0.35
+and everybody else found it, and he's just bad with the dial.|0.55
+That's the lie I want to take apart today.|0.7
+The signal really is crossed.|0.55
+You're not bad with the dial.|0.6
+You've been trying to follow a stack of broadcasts at once,|0.3
+and nobody can do that.|0.7
+Not you. Not me. Not the guy who looks like he's got it all figured out.|0.7
+I promise you, he's got a little static too.|1.3
+
+# SECTION: Who's On Your Dock
+A buddy of mine, Fitz, borrowed his brother-in-law's boat last summer.|0.7
+First time in his life backing a trailer down a ramp.|0.75
+And there were three guys on the dock, all trying to help.|0.65
+One yelled, cut it left.|0.6
+One yelled, no, your other left.|0.8
+And one just kept hollering, straighten out, straighten out.|0.6
+Fitz turned the wheel toward whoever hollered last.|0.65
+He ended up with that trailer jackknifed sideways across the ramp,|0.35
+and six trucks lined up behind him, all of them...|0.7
+very patient.|ROOM_CHUCKLE
+And Fitz told me the worst part wasn't the line of trucks.|0.7
+It was that he kept obeying whichever voice spoke last.|1.15
+That's funny at a boat ramp.|0.8
+It's not funny when it's your life.|0.75
+So who's standing on your dock?|0.55
+Maybe a grandpa who said boys don't cry,|0.25
+and then cried at every ballgame he ever went to.|0.65
+A coach who said leave it all on the field,|0.25
+and a boss who talks about balance and then emails you at midnight.|0.55
+The guy in the beer commercial who's never once been tired.|0.55
+Some podcast host shouting at a microphone about what women really want.|0.65
+And some of it, honestly, came from church.|0.55
+One retreat speaker told you to be bold,|0.3
+the next one told you to be meek,|0.3
+and neither of them ever came by your house.|0.6
+Let me get a quick read on the room.|0.8
+Raise your hand if you've ever gotten advice about being a man|0.3
+from somebody who has never once met your wife or your kids.|ROOM_HANDS
+Yeah.|0.45
+That's just about all of us.|0.8
+Put them down.|0.4
+We've all taken directions from people who've never seen the water we're backing into.|0.55
+And when the directions don't agree,|0.3
+we don't blame the directions.|0.7
+We blame ourselves.|1.25
+
+# SECTION: Ask Him
+James one, verse five.|0.65
+If any of you lacks wisdom, you should ask God,|0.3
+who gives generously to all without finding fault,|0.3
+and it will be given to you.|1.4
+Look at what James assumes.|0.55
+He assumes you're gonna lack wisdom.|0.7
+Not if. When.|0.45
+He doesn't say, if you're the kind of loser who doesn't know what to do.|0.7
+He just says, any of you.|0.6
+That's everybody in this room, and the guy talking.|0.6
+And then look at how God responds.|0.65
+He gives generously.|0.55
+Not grudgingly. Not with a sigh.|0.75
+And here's the part I need you to hear.|0.7
+Without finding fault.|0.4
+God doesn't roll His eyes when you come to Him confused.|0.6
+He doesn't say, you should know this by now.|0.75
+He's not the dad in the garage who gets mad|0.3
+because you handed him the wrong wrench.|1.25
+Some of you grew up with that dad.|0.55
+You asked a question, and you got a lecture about why you didn't already know.|0.65
+So you quit asking.|0.45
+You learned it was safer to guess and look sure|0.35
+than to ask and look dumb.|0.65
+And you've been guessing...|0.7
+ever since.|0.65
+James says that's not how your Father works.|0.6
+You can come to Him with, I don't know what a man does here,|0.35
+and He's not disappointed in you for asking.|0.7
+He's glad you came.|0.5
+That's the first thing I want you to hear clearly today.|0.7
+Being confused isn't a sin.|0.7
+Lacking wisdom isn't a moral failure.|0.8
+It's just a reason to ask.|0.65
+And notice the end of the verse.|0.55
+It will be given to you.|0.6
+That's a promise, not a maybe.|0.65
+It probably won't come as a voice out of the sky.|0.55
+Most of the time it comes through His Word,|0.25
+through an older man who's walked the road,|0.35
+or through one clear next step you can actually see.|0.75
+But it comes.|0.55
+He gives to the man who asks.|1.3
+
+# SECTION: The Freeze
+Here's what crossed signals actually do to a man.|0.8
+I've watched three things happen,|0.3
+in other men, and if I'm honest, in the mirror.|0.6
+The first one is the freeze.|0.65
+When every move you could make has already been booed by somebody,|0.35
+the only move nobody's booed yet is no move at all.|0.75
+If I lead, I'm controlling.|0.55
+If I step back, I'm checked out.|0.7
+If I say what I think, I'm too much.|0.6
+If I don't, I'm not enough.|0.75
+So I just... don't.|0.5
+And here's the sneaky part.|0.7
+From across the room, the freeze passes for a good quality.|0.7
+People call him low-maintenance.|0.4
+Easy to be around. Never makes waves.|0.55
+Nobody guesses he's standing there with four answers in his mouth,|0.35
+too scared to pick one.|1.1
+I've done this.|0.45
+I've had my wife right across the counter from me, with something true I needed to say,|0.35
+and I ran through every voice I'd ever heard about how a husband should say it,|0.25
+and by the time I got through them all, the moment was gone.|0.65
+She'd already moved on to something else.|0.75
+And I told myself I was being careful.|0.55
+I was being respectful.|0.4
+I was...|0.7
+choosing my moment.|0.65
+That's a nice word for it.|0.8
+The real word is stuck.|0.65
+And stuck doesn't stay small.|0.75
+A man who freezes on the little things|0.3
+will freeze on the big ones too,|0.3
+because he's never practiced moving when the signals disagree.|0.55
+And they're gonna disagree.|0.4
+Probably for the rest of your life.|0.7
+So if you're waiting for the voices to line up before you move,|0.25
+you're gonna be waiting at the funeral.|0.7
+Yours, I mean.|0.5
+Look, the freeze feels safe.|0.6
+It's not safe. It just doesn't make noise.|1.3
+
+# SECTION: The Thermometer
+The second thing is, he turns into a thermometer.|0.8
+If nobody ever handed you one clear picture of a man,|0.3
+you start reading every room you walk into,|0.3
+and turning into whatever number it says.|0.8
+Around your father-in-law, you're suddenly real interested in diesel engines.|0.65
+In the group text, you cuss like a sailor.|0.55
+Visiting your grandma, you sound like a deacon.|0.75
+At your wife's sister's house, you've got, let's say, opinions about candles.|0.6
+You're not lying, exactly.|0.5
+You're just reading the temperature.|0.65
+And you get good at it.|0.8
+Some of the most impressive men I know are world class at it.|0.6
+They can walk into any room and be exactly who that room wants.|0.75
+The trouble is, nobody in their house knows which one is real.|0.55
+And if I'm honest, some days they don't either.|1.3
+But a man who changes his reading every hour|0.3
+can't feel much like himself by bedtime.|0.55
+He gets thin.|0.4
+He gets tired in a way sleep doesn't fix.|0.7
+Because underneath all that reading, there's a guy nobody ever handed a picture,|0.25
+so he lets every room give him one.|0.75
+The third thing is shame.|0.65
+Give a man rules that cancel each other out,|0.25
+and he's guaranteed to break some of them by lunch.|0.8
+He can't not.|0.4
+And most men don't blame the rules.|0.55
+They blame themselves.|0.5
+It's like a check-engine light that comes on and never goes off.|0.65
+It never tells you which part.|0.55
+It just glows there on the dash every time you start the truck.|0.55
+And you don't bring it up,|0.3
+because you're afraid if you say it out loud, somebody'll agree.|0.8
+If that light's on for you, hear two things.|0.6
+It's on in a lot of trucks in this parking lot.|0.8
+And it's not the voice of God.|0.65
+God convicts a man about something specific, so he can fix it.|0.6
+That light just tells him something's wrong with him,|0.3
+and never says what.|1.3
+
+# SECTION: Calvin's Library
+There's a guy named Calvin. That's not his real name, but he'd hate me using his real one.|0.8
+Calvin's forty-one, managed projects for a big company,|0.3
+the kind of guy who keeps a spare phone charger for everybody.|0.6
+His dad raised him on one rule. Never let them see you sweat.|0.8
+At work, the rule was, never admit a mistake to a client.|0.8
+At a men's retreat once, he heard, real men are vulnerable.|0.7
+And his wife had been telling him for years, just tell me what's going on.|0.6
+Four voices. All of them,|0.7
+real sure of themselves.|0.65
+None of them talking to the others.|0.55
+He'd been carrying all four for years,|0.3
+and mostly it worked, because mostly nothing went wrong.|0.7
+Then something went wrong.|1.05
+One Monday, Calvin's company cut his whole department.|0.7
+He got a box, a letter, and a handshake.|0.65
+And he went home and didn't say a word.|0.7
+The next morning he got up, put on his work clothes,|0.3
+kissed his wife, and drove to the public library.|0.55
+He sat in the parking lot with his laptop and applied for jobs all day.|0.55
+Then he drove home at five-thirty and asked what was for dinner.|0.6
+He did that for eleven days.|0.75
+Eleven.|0.4
+I asked him later what was going on in his head.|0.55
+And he said, Wes, I was trying to figure out which rule I was supposed to keep.|0.7
+If I tell her, I'm sweating.|0.7
+If I don't, I'm lying.|0.8
+If I cry about it, I'm vulnerable, but I'm also, you know, a guy who cried in the library.|0.65
+He said he could hear all four voices at once.|0.65
+And the loudest one in the car every morning|0.3
+was the one telling him he was the only man alive who couldn't figure this out.|1.3
+
+# SECTION: Day Eleven
+On the eleventh day, he was sitting in that same parking lot,|0.25
+and he said he just stopped.|0.75
+Laptop closed.|0.45
+Hands on the wheel.|0.45
+And he prayed the most honest prayer he'd ever prayed.|0.75
+He said, God, I don't even know what a man does right now.|0.75
+That's it. That was the whole prayer.|0.6
+He said he didn't hear a voice.|0.6
+Nothing dramatic happened.|0.5
+But about ten minutes later, he knew one thing.|0.55
+He knew which voice actually lived in his house.|0.6
+So he drove home.|0.4
+Ten in the morning on a Tuesday.|0.8
+He told me the drive felt about four hours long.|0.65
+His wife was home that day, and she heard the truck,|0.25
+and she came to the door looking scared.|0.6
+He sat her down at the kitchen table and told her everything.|0.8
+The box. The letter. The library.|0.65
+And she sat there a while.|0.6
+A long while. Long enough that he thought he'd lost her.|0.75
+And then she said, I knew something was wrong.|0.8
+I thought you were sick.|0.65
+She said, I don't care about the job.|0.55
+I care that you went somewhere I couldn't follow you.|1.1
+Here's the thing I want you to see.|0.7
+Calvin wasn't a coward.|0.55
+He'd been obeying four different rulebooks,|0.25
+and not one of them had ever met his wife.|0.55
+That's what crossed signals do to a decent man.|0.55
+They don't make him evil.|0.75
+They make him lonely,|0.35
+right in the middle of his own house.|0.6
+He found work about two months later, by the way.|0.8
+He told me the job wasn't the thing that changed.|0.65
+He said the real change was smaller than that.|0.65
+He quit renting his rules from people who'd never sat at his table.|0.6
+And he started asking God, and one or two men who knew him,|0.35
+before he asked the radio.|1.3
+
+# SECTION: His Idea
+Genesis one, verse twenty-seven.|0.65
+So God created mankind in his own image,|0.25
+in the image of God he created them;|0.3
+male and female he created them.|1.4
+Okay. Here's the other half of today.|0.65
+I don't want you walking out of here thinking|0.3
+manhood is just a big confusing mess and nobody knows anything.|0.7
+That's not true either.|0.5
+That's just a different kind of static.|0.65
+Some voices out there will tell you that being a man doesn't,|0.7
+really mean anything.|0.75
+It's a costume. A role. Pick one if you want.|0.75
+Genesis says otherwise.|0.6
+God made male and female on purpose.|0.7
+It was His idea.|0.5
+He wasn't guessing, and He wasn't embarrassed of what He made.|0.65
+Both bear His image, right?|0.7
+Not one more than the other.|0.55
+So that sense you've got deep down,|0.25
+that being a man is a real thing, and it's supposed to mean something,|0.3
+you're not crazy about that either.|0.6
+You're right.|0.4
+The world can argue about it all it wants.|0.75
+The Book settled it on the first page.|1.25
+When each of my kids was born,|0.35
+somebody in scrubs handed me a little bundle that had never done one useful thing.|0.65
+Couldn't even hold its own head up.|0.65
+And I'd have walked through a wall for it.|0.55
+Nothing that baby did made it mine.|0.55
+Well, that's you, on the first page.|0.75
+You carried His image from your first breath, with nothing to show for yourself yet.|0.6
+That matters for the guy with the light on his dash.|0.65
+Your worth as a man didn't start with your paycheck,|0.3
+or your marriage, or how you stack up to the guy next door.|0.75
+It started with God's hand.|0.75
+Being a man was His idea first.|0.7
+So it's His to define.|0.75
+Not the radio. Not the screen. Not the loudest guy at the cookout.|0.55
+And as we go on together, we're gonna let Him define it,|0.3
+in words short enough you could say them in a parked truck.|1.3
+
+# SECTION: He Remembers
+Psalm one hundred three, verse fourteen.|0.55
+for he knows how we are formed,|0.35
+he remembers that we are dust.|1.4
+I love that this one starts in the middle of a sentence.|0.8
+It's David talking about how God treats us,|0.35
+and he lands right here.|0.75
+He knows how we are formed.|0.6
+He remembers that we are dust.|0.55
+Listen, the God who made you knows exactly what you're made of.|0.75
+He's not surprised you're confused.|0.6
+He's not shocked that the crossed signals got to you.|0.65
+He made you out of dirt and breath,|0.3
+and He's never once forgotten it.|0.55
+There's a tenderness in that verse a lot of men have never heard.|0.6
+The God who made the stars|0.3
+is not standing over you with a clipboard.|0.65
+He's a Father who remembers, see, who remembers His kids are small.|1.3
+So let that light on the dash go dim for a minute.|0.8
+Some of you have been prosecuting yourself for years|0.3
+for a contradiction somebody else handed you.|0.6
+Maybe you just got made foreman over men twice your age,|0.35
+and every one of them has a different idea of what a boss is.|0.55
+Maybe your kids just moved out,|0.3
+and it hit you that nobody ever explained what a man's for once the noise is gone.|0.8
+Maybe the divorce papers came,|0.3
+and three buddies gave you three different speeches in one weekend.|0.55
+God remembers you're dust, every one of you.|0.65
+And He's not done with you. Not even close.|0.6
+Now, I want to be fair.|0.8
+Not all of the confusion came from outside.|0.8
+Some of it is ours.|0.8
+We'll own our part as we go.|0.6
+But today, quit hauling the part somebody else handed you.|0.75
+Leave it right here on the floor.|0.6
+We'll stack the chairs on top of it after.|1.3
+
+# SECTION: Your Sentence
+[warmly] Let me bring this home.|0.6
+Here's the one big idea.|0.75
+The confusion is real, it came at you from a lot of directions,|0.3
+and you're not crazy for feeling it.|0.55
+But manhood isn't a mess with no meaning.|0.7
+God thought it up, He knows how He made you,|0.35
+and He hands wisdom to any man who asks Him.|0.65
+Here's what I'd love for you to carry out of here. Relief.|0.7
+Not the kind that lets you off the hook.|0.75
+The kind that lets you finally pick up the,|0.7
+right thing.|0.7
+You've been trying to build a life out of three different instruction sheets|0.3
+from three different boxes.|0.45
+No wonder the shelf wobbles.|0.7
+And soon we're gonna hand you something short and true|0.3
+that can actually hold your weight.|0.55
+So here's what your table's gonna wrestle with.|0.65
+First.|0.45
+What are two things you've been told about being a man|0.3
+that can't both be true?|0.6
+And who told you each one?|0.65
+Second.|0.45
+When those collide, what do you usually do?|0.6
+Freeze, read the room, or drive around under that light?|0.7
+Say the real one.|0.45
+Third.|0.5
+Finish this in your own words. A man is here to what?|0.6
+Write down whatever comes out, rough and all.|0.8
+Don't polish it for the room.|0.65
+If the true answer is an ugly one, put down the ugly one.|0.65
+Hang on to that paper.|0.75
+Soon you'll hold it up against a sentence I'm gonna give you.|0.7
+And fourth.|0.55
+Read yours to one man at your table, and ask to hear his.|0.6
+Don't explain yours first.|0.4
+Just read it and let it sit there.|0.8
+And if a man at your table reads something that sounds a lot like yours,|0.3
+tell him.|0.55
+That light gets a lot dimmer once you find out it's on in his truck too.|0.55
+So, take that paper to your table,|0.25
+and bring your sentence, even if it's ugly.|1.3

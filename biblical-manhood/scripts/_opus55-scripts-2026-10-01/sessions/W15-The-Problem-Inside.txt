@@ -1,0 +1,410 @@
+# SECTION: Somebody Found The Thermostat
+Hey, guys. Come on in.|0.7
+Somebody got to the thermostat before I did.|0.75
+It's about meat-locker cold in here.|0.55
+Keep your jackets on. We'll warm it up by talking about sin.|ROOM_CHUCKLE
+Find a seat, any seat you like. The front row's got the best view of the shivering.|1.1
+Our last session circled the older man up the road.|0.6
+I said there's a man two decades farther along than you are,|0.3
+and he's already seen the part of the road you're scared of.|0.65
+And odds are, he'll never knock on your door.|0.75
+So you go knock on his, with one narrow question.|0.75
+Not, will you be my mentor. Just one honest thing you need to know.|0.75
+Then you go do what he told you, and you report back.|0.6
+And to the older men, I said, make yes easy.|0.55
+Hand a young man a flashlight. Let him see your scars.|0.55
+Your brother walks beside you. The man ahead has already crossed the river.|0.65
+You need both.|0.55
+I asked you to put a name to that man, ask him your question,|0.25
+and tell your brother so he could check on you.|0.7
+One of you told me the old man talked for two hours straight,|0.3
+and he had to text his wife that he hadn't been...|0.7
+kidnapped.|1.3
+So, today's a little different.|0.55
+Today the road bends.|0.4
+For a good while now, we've been looking at what got handed to you.|0.8
+What your dad did, or didn't do.|0.75
+Whether anybody ever stood next to you.|0.65
+Whether anybody up the road ever called back to you.|0.7
+All of that's real, and all of it shaped you.|0.7
+But today we're going to look at something nobody handed you.|0.65
+It was already in you.|0.65
+And I'm going to need you to stay in your seat for this one.|1.3
+
+# SECTION: The Smell In The Wall
+A friend of mine named Jasper had a smell in his house.|0.8
+It showed up one October, in the hallway outside the kids' bathroom.|0.75
+Faint at first. Kind of sweet. Kind of, well, not sweet at all.|0.7
+His wife noticed it first, of course. They always do, right?|0.6
+And Jasper said, it's probably the drain.|0.55
+So he poured some stuff down the drain.|0.8
+Smell's still there.|0.55
+So he bought one of those plug-in air fresheners.|0.75
+And for about a day, the hallway smelled like a cinnamon roll.|0.55
+Then it smelled like a cinnamon roll with... a problem.|1.15
+So he bought two more plug-ins.|0.75
+Then a candle. Then a spray. Then a...|0.7
+second candle, a bigger one.|0.55
+His wife set a little bowl of potpourri on the hall table.|0.75
+By Thanksgiving, Jasper said, the house smelled like a dead mouse|0.3
+wearing a pumpkin spice cologne.|ROOM_CHUCKLE
+Company came over, and everybody was polite about it.|0.55
+Nobody said a thing. They just walked through that hallway a little faster.|0.55
+His mother-in-law held her breath from the front door to the den.|1.3
+And here's the part Jasper told me that stuck.|0.75
+He said, I spent about sixty dollars on smells that winter.|0.7
+Every one of them was aimed at the hallway.|0.55
+Not one of them was aimed at the wall.|0.65
+Because he knew. Down deep, he knew.|0.8
+Something had crawled in behind that drywall and died,|0.35
+and no amount of cinnamon was going to get it out.|0.55
+But opening the wall meant a saw, and a mess,|0.3
+and admitting the problem was inside the house, not floating around in the air.|0.7
+So he kept buying candles.|0.65
+Hang on to Jasper. We'll come back to that hallway.|1.3
+
+# SECTION: The Turn In The Road
+Here's why I tell you that.|0.75
+We've been working on a lot of real things in this room.|0.8
+Leaving home well. Getting a brother. Asking the older man.|0.75
+Those matter. Every one of them matters.|0.55
+But I know men who've checked every one of those boxes.|0.75
+They made peace with their dad. They found a brother.|0.8
+They sat at an old man's kitchen table and actually took notes.|0.55
+And a month later they blew up their own living room anyway.|0.75
+Not every time. But often enough to scare them.|0.55
+More than one of them has looked at me and said, I thought I was past this.|1.2
+They yelled at the kids again.|0.7
+They lied to their wife again.|0.7
+They went back to the same website, the one they swore off.|0.6
+And they sat there afterward thinking, what is wrong with me?|0.55
+I did everything right. I dealt with my stuff.|0.7
+I went to the counselor. I read the books. I forgave my old man.|0.6
+If all we did in here was talk about your father,|0.35
+I'd be sending you home with a plug-in air freshener and a firm handshake.|0.55
+And you'd smell nice for about a day.|1.1
+The trouble isn't only around you.|0.8
+It's in you.|0.45
+It's in me, too. I want to be really clear about that.|0.65
+I'm not up here as the guy who's got it all solved.|0.7
+I've,|0.7
+lost my temper in my own kitchen over things that didn't matter one bit.|0.55
+I've said things to people I love that I'd give a lot to take back.|0.8
+The Bible has a short, plain word for what's going on inside a man.|0.65
+It uses that word all the way through, and it doesn't blush.|0.8
+And until a man is willing to say it about himself,|0.25
+he's going to keep buying candles.|0.75
+Okay, here it comes.|0.55
+The word is sin.|1.3
+
+# SECTION: Say The Word
+Look, men have two favorite ways of not saying that word.|0.6
+The first dodge is to swap it out for something softer.|0.8
+I've got a struggle.|0.5
+I've hit a rough patch.|0.7
+It's just a weakness of mine.|0.8
+And those sound humble, don't they?|0.6
+But listen to what they actually do.|0.8
+A struggle sounds like something that happened to you. Like a pulled hamstring.|0.55
+Sin is something you did.|0.7
+A hamstring, you ice it and give it time.|0.8
+Something you did, you repent of.|0.65
+As long as it's a struggle, you're the victim of it.|0.7
+When it's sin, it's yours, and that's exactly where the hope starts.|0.65
+Because God doesn't forgive a pulled muscle. He forgives sin.|0.65
+Swap out the word, and you've swapped away the cure.|1.2
+The second way belongs to a different kind of man altogether.|0.7
+Some of you had that word thrown at you as a boy, till it felt like your name.|0.8
+A preacher, or a parent, swinging it to make you small.|0.55
+I'm sorry that happened to you. Truly, I am.|0.65
+But that man didn't own the word.|0.8
+The word is God's.|0.55
+And when God says it, He's not out to make you small.|0.7
+He's like a good surgeon looking you in the eye before an operation,|0.25
+telling you exactly what's wrong because he fully intends for you to live.|0.6
+A surgeon who won't name the tumor isn't being kind.|0.55
+He's just letting you die politely, with a nice bedside manner.|1.2
+Here's what sin does to a man, left alone.|0.75
+It turns him in on himself.|0.8
+Little by little, everything starts to bend back toward him.|0.6
+His comfort. His mood. His way. His,|0.7
+remote control.|0.75
+He ends up hunched over his own life like a kid guarding his lunch tray,|0.3
+and he calls it being tired.|1.3
+
+# SECTION: Out Of The Heart
+Jesus had a run-in once with some very religious men.|0.8
+They were upset because His friends hadn't washed their hands the right way before they ate.|0.65
+Not dirty hands, exactly. Hands that hadn't gone through the proper ritual.|0.8
+These men had rules for the outside of everything.|0.75
+Cups, pots, hands, all of it.|0.75
+And Jesus turns the whole thing inside out.|0.8
+He points them away from their hands, and straight at their hearts.|0.7
+And He finishes like this.|0.65
+Mark seven, verse twenty-three.|0.65
+All these evils come from inside and defile a person.|1.5
+From inside.|0.55
+Not from your neighborhood. Not from your phone, first.|0.7
+Not even from your father, first.|0.8
+From inside.|1.15
+That's a hard sentence for a man who's spent years blaming the hallway.|0.8
+Because most of us are experts on the outside.|0.65
+We know how to look fine.|0.65
+We know which shirt to wear to church, and how to answer, doing good, brother.|0.65
+Some of you have a whole system for looking fine.|0.6
+I'm not being hard on you. Most of us built one.|0.6
+Most of them come with a,|0.7
+very convincing smile.|0.6
+But Jesus doesn't look at the shirt.|0.8
+He looks behind the drywall.|0.6
+And He says the trouble you keep tripping over didn't wander in from outside.|0.6
+It's been living in there.|1.0
+And here's what that means.|0.65
+You can't fix it from the outside either.|0.7
+No amount of new rules will reach it.|0.55
+No new habit, by itself, is going to clean out a heart.|0.7
+You can rearrange the furniture all you want.|0.7
+The smell is still in the wall.|0.75
+It takes Somebody who can get in behind the wall.|0.7
+That takes a different kind of help.|1.3
+
+# SECTION: Even With A Great Dad
+Try this for a second.|0.6
+Dream up the best father you can imagine.|0.75
+He never once raised his voice at your mother.|0.8
+He took you fishing, and let you think you caught the big one.|0.65
+He told you he was proud of you so often it got embarrassing.|0.65
+He sat you down with your first paycheck and showed you where it all should go.|0.6
+Would you be steadier? Sure. Probably a lot steadier.|0.7
+But you'd still shade the truth when it made you look better.|0.7
+You'd still want what the next guy's got.|0.65
+You'd still sulk when you didn't get your way,|0.3
+and you'd still be pretty sure you're the reasonable one in every fight.|1.0
+I know a man named Mario who had a dad like that. Close, anyway.|0.7
+His father was the finest man in their town.|0.8
+Coached every team. Never missed a game. Prayed with his kids every night.|0.8
+And Mario told me, at forty, he got caught padding his expense reports.|0.75
+For three years. Little amounts. Gas he didn't buy. Dinners nobody ate.|0.75
+He said, I had the best father a boy could ask for.|0.55
+I can't hang this one on him.|0.8
+This was, I mean, this was me. All me.|0.75
+And he's right. His dad never taught him that.|1.15
+Well, it goes back a lot further than your dad.|0.8
+The very first man had no father to blame at all,|0.3
+and he still reached for the one thing he was told to leave alone.|0.8
+What's broken in us didn't start with your dad.|0.8
+It came down through him, and through his, all the way back to that garden.|0.8
+No family on earth is a fine enough screen to catch it.|0.55
+Your upbringing may have left a window cracked.|0.75
+It didn't make the thing that climbed in.|1.3
+
+# SECTION: Why That Is Good News
+Now, I know how that lands. It sounds like bad news.|0.6
+Stay with me, because it's actually mercy.|0.65
+Think about it.|0.55
+If every bit of what's wrong with you got done to you,|0.3
+then you're stuck. Nobody gets to trade in his father.|0.7
+You can't go back and grow up again.|0.75
+And worse, you'd have a permission slip that never expires.|0.8
+Here's the trouble with your dad's sin.|0.65
+You can forgive it. You can't confess it for him.|0.65
+All you can do is chew on it.|0.7
+You can rehearse it. You can resent it.|0.8
+You can sit in it for forty years and say, well, look what he did to me.|1.3
+But the moment you say, this part is mine,|0.4
+God has something to work with.|0.8
+There's something to forgive now, and something to build new.|0.65
+He's not offering you a kinder version of your childhood story.|0.7
+He's offering you a new heart.|0.7
+A better story about your past leaves you the same man. A new heart doesn't.|1.1
+Pressure works the same way, by the way.|0.8
+Put a man in a minivan, two hours late, with a GPS that keeps rerouting,|0.3
+and his wife reading the turns off her phone about a second too late.|0.55
+All of a sudden he's snapping at the woman he loves.|0.55
+The traffic didn't put that in him.|0.7
+The traffic just,|0.7
+took the lid off.|0.8
+It was already in there.|1.3
+And if you're divorced, I want to say this carefully.|0.7
+I won't put all of it on you.|0.6
+There were two people in that marriage, and God saw both of them.|0.65
+But some of it was yours.|0.6
+And things start to heal the day you can own your part|0.25
+and put a period right there, with no but hanging off the end.|0.65
+That might be the first free sentence you've said in years.|0.6
+Free, because it's finally true.|1.3
+
+# SECTION: While We Were Still
+So what does God do with a man like that?|0.7
+With a man who's finally admitted the smell's coming from inside the wall?|0.6
+Here's what He does about it.|0.7
+Romans five, verse eight.|0.65
+But God demonstrates his own love for us in this:|0.3
+While we were still sinners, Christ died for us.|1.5
+Look at that word still.|0.7
+While we were still sinners.|0.6
+Not after we cleaned up our act.|0.75
+Not once we'd sorted out our temper, and our marriage, and our browser history.|0.55
+Still.|0.5
+Smack in the thick of it.|0.75
+God looked at exactly what was behind the drywall,|0.25
+all of it, the stuff you've never told anybody,|0.3
+and that's when Jesus went to the cross for you.|0.55
+Not for the cleaned-up version of you. For the real one.|1.15
+That's the difference between the gospel and self-improvement.|0.75
+Self-improvement says, get better, and then maybe you'll be loved.|0.65
+The gospel says, you're loved now, mess and all,|0.35
+and that love is what's going to make you new.|0.7
+He didn't wait for you to be worth dying for.|0.65
+He died for you, and that's what makes you His.|0.65
+It's a gift. All you can do is open your hands and take it.|1.2
+So you don't have to be afraid of the word anymore.|0.6
+Sin is not the end of the sentence. Not for a son of His.|0.6
+For a man who belongs to Christ, saying the word is where the healing starts.|0.6
+You name it, and you find out it's already been carried.|0.65
+He took it to the cross before you ever worked up the nerve to say it.|0.6
+Listen, that's why you can quit pretending.|0.6
+He's already seen every inch behind that wall,|0.3
+and He's still standing right there with you.|1.3
+
+# SECTION: Manny Says It Out Loud
+Here's how that played out for somebody I know.|0.65
+A buddy of mine named Manny was riding home from a ballgame with his friend Ira.|0.55
+Ira was driving. Manny's phone was hooked up to the truck's screen, playing music.|0.6
+And halfway through a song, a banner lit up across the whole dashboard.|0.8
+Your bet has settled.|0.55
+Ira saw it. Didn't say a word.|0.8
+Manny had a line ready. Just a little fun, man.|0.55
+He didn't say it.|0.45
+They rode about a mile in total quiet.|1.3
+Then Manny said, that's not a hobby, Ira.|0.55
+I've been hiding money from my wife for a year.|0.6
+Moving it between accounts so she wouldn't see.|0.65
+For a year he'd called it fun. Well, he'd called it that to himself.|0.75
+Riding in that truck, he finally called it what it was.|0.8
+Sin. A lie, and a,|0.7
+whole string of them.|1.25
+Ira pulled into a gas station and shut the engine off.|0.6
+No lecture.|0.45
+He said, okay. Who else knows?|0.7
+Nobody.|0.5
+Well, now two of us do.|0.75
+Then he asked, when are you telling her?|0.65
+Manny said Saturday. Ira said, I'll call you Saturday night.|0.75
+Then he prayed for him, right there by the pumps. And on Saturday night, he called.|0.65
+Manny said it felt like setting down a cooler full of ice he'd hauled around for a year.|0.6
+Telling his wife was a hard conversation. But he didn't walk into it alone.|1.2
+Here's the thing.|0.45
+Guilt and shame aren't the same animal.|0.65
+Guilt says, you did a bad thing.|0.75
+Shame says, you are a bad thing.|0.6
+Guilt is a smoke alarm. Loud, useful, and once you deal with the fire, it goes quiet.|0.75
+Shame is a radio somebody left on in the back room, playing all night.|0.75
+And it pushes a man right back to the bottle, the screen, the app,|0.3
+whatever he uses to drown it out.|1.3
+
+# SECTION: Not Another Program
+So, what actually holds?|0.7
+Most men, when they finally see the problem, go straight to a plan.|0.55
+New rules. New app. New resolution.|0.8
+I'll just grit my teeth harder.|0.65
+And gritting harder is just one more candle with a fancier smell.|0.65
+A man can run his whole life on skill and grit for a long time.|0.65
+Some of you are really good at it.|0.7
+You run a company. You run a crew. People trust you with a lot of money.|0.6
+And a man can be great at his job and rotten at home, and good at hiding which is which.|1.25
+Here's what holds, and it's plainer than you'd think.|0.6
+First, tell God. Out loud. Specifically.|0.75
+Not, Lord, I haven't been my best lately.|0.65
+Lord, I cussed at my son over a lawnmower.|0.75
+Lord, I let my wife take the blame in front of her sister.|0.6
+Mumbling along with a crowd when the words are up on a screen is fine.|0.65
+It's not the same as saying your own sin, by yourself, at the kitchen sink after everybody's in bed.|1.1
+Then, turn around.|0.45
+A man can feel lousy about a thing for twenty years and never take one step away from it.|0.6
+Repenting means your feet move.|0.55
+You tell it. You make right what you can make right.|0.55
+You block the road you keep driving down.|0.65
+Delete the app. Hand your brother the password. Leave the room before you blow.|0.75
+Then you go back to your work, and if tomorrow needs it, you do it all again.|0.65
+And the day after that, if it, well, if it comes to that.|1.05
+That might sound like a lot of failing.|0.6
+It's actually what following Jesus looks like from the inside.|0.6
+A boy who keeps wandering off at the county fair,|0.25
+and a Father who never leaves the gate, and is glad every time he sees him coming.|0.75
+He doesn't make the boy explain himself first.|0.55
+That's not a program. That's a family.|1.3
+
+# SECTION: A New Wall
+And then there's one more thing a man needs.|0.6
+David knew this one better than anybody.|0.55
+After the worst thing he ever did, he wrote a prayer.|0.55
+He'd taken another man's wife, and then arranged for that man to die.|0.65
+And when he finally came clean, he didn't ask God to make the mess go away.|0.6
+He asked for something much bigger.|0.65
+Psalm fifty-one, verse ten.|0.6
+Create in me a pure heart, O God,|0.3
+and renew a steadfast spirit within me.|1.5
+Create.|0.5
+That's a word only God gets to do.|0.65
+David's not asking for a little touch-up.|0.6
+He's asking for brand new.|0.75
+A new heart. A steady spirit. From the inside out.|0.6
+And that's exactly what God does for a man who comes to Him honest.|0.8
+At twenty, or at seventy. No man's too far gone for it.|1.1
+Which brings me back to Jasper.|0.55
+Right after New Year's, he finally got the saw out.|0.65
+Cut a square in the hallway drywall, right at the smell.|0.55
+And there it was.|0.5
+I'll spare you the details. Let's just say a mouse had made some... poor choices.|0.55
+He cleaned it all out, sprayed the cavity, and put up a new piece of board.|0.65
+Patched it, sanded it, painted it.|0.65
+The smell was gone by that afternoon.|0.8
+Jasper said he stood there with the saw in his hand, feeling about as smart as a fence post.|0.65
+Three months of candles.|0.55
+And at the same time, he could breathe again. In his own house.|0.55
+Because the thing was out. It was named, and it was gone.|0.75
+His wife threw every candle in the house into a trash bag,|0.35
+and the,|0.7
+potpourri went with them.|1.15
+That's what it's like when a man stops blaming the hallway|0.35
+and finally lets God open the wall.|0.65
+You'll feel silly for about a minute. And free for a long time after.|1.3
+
+# SECTION: Put The Candles Away
+Okay. Let me land this.|0.8
+Here's the big idea.|0.45
+Not everything that's wrong with you got done to you.|0.6
+Some of it grew in you, and the Bible calls it sin.|0.65
+And as long as you only call it a struggle, you can't get anywhere with it.|0.75
+But that's not bad news for long.|0.6
+Christ died for you while you were still in the middle of it,|0.3
+and He makes a heart new from the inside.|0.55
+Once it's named, it can be forgiven. In Christ, it already is.|1.25
+My hope for you is simple. One honest sentence.|0.75
+Not a whole new system. Not a plan to try harder.|0.55
+Just the word, said about yourself, to God, out loud.|0.65
+Nobody at your table is going to gasp.|0.7
+Every man sitting there has a wall of his own.|0.6
+And I hope you leave lighter than you came in.|0.8
+[warmly] Because the Father you're confessing to isn't surprised, and He isn't leaving.|1.2
+Take these to your table.|0.6
+First.|0.45
+Tell God one plain sentence, out loud if you can.|0.55
+I sinned. I, and then the actual thing.|0.8
+Don't let the word struggle sneak in there.|0.55
+Second.|0.4
+What soft word have you been hiding behind?|0.7
+A rough patch, a weakness, my temper, just how I'm wired.|0.75
+Name the candle you've been lighting.|0.7
+Third.|0.4
+Every night for a while, before your head hits the pillow,|0.3
+give God a couple of minutes, and retrace the day with Him.|0.7
+Own each thing by name. Then thank Him, because in Christ it's already covered.|0.8
+And watch for the moment shame tries to grab the wheel.|0.6
+And fourth.|0.45
+Which brother could hear one of those sentences, face to face or over the phone?|0.55
+Tell him what you plan to do about it, and have him pray with you before the call ends.|1.25
+Alright, men. Go sit down with your brothers.|0.8
+Blow out the candles.|0.4
+And go open the wall.|1.3

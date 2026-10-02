@@ -1,0 +1,437 @@
+# SECTION: Back To The First Morning
+Hey, fellas. Come on in out of the parking lot.|0.8
+Find a seat. The ones in the middle are the comfortable ones.|0.65
+I'm not saying which middle. That's part of the, let's say, adventure.|ROOM_CHUCKLE
+Glad you're here. Let's get after it.|1.0
+Last time was about the thing every man steers by.|0.6
+We said nobody drives without a north.|0.6
+The trouble is, most of what we pick keeps moving.|0.65
+Your dad, whatever he was.|0.7
+The guys around you, all set off each other like a roomful of slow clocks.|0.75
+The culture, which changes its mind every few years.|0.55
+Your feelings, which swing around like a weather vane.|0.65
+And success, which reads one gauge and calls the whole truck healthy.|0.6
+Then we found the one thing that never wanders.|0.55
+God's Word, the string on the wall.|0.55
+Your wall can lean all it wants. The string won't, and the string wins.|0.7
+And it's a lamp for your feet, not a floodlight for the whole map.|0.8
+The ask was to say out loud what you've really been measuring yourself by,|0.25
+then open Mark every morning, read a section out loud,|0.3
+and write down one line about what it wanted from you.|0.6
+Then pick one verse, read it to a brother, and tell him the price of obeying it.|0.65
+One of you showed me his notebook before we started.|0.7
+Three mornings running, his line said, be quiet and listen.|0.7
+Well, I'd say Mark's working on him.|1.2
+So, today we rewind the whole thing to the opening pages.|0.55
+Before the drawer and the throne.|0.7
+Before anybody ducked behind a tree.|0.75
+Back to the man God made before a single thing went wrong,|0.3
+and we're gonna look at him hard.|0.75
+Because you can't fix a thing you've never once seen working.|0.6
+And most of us have never looked.|1.3
+
+# SECTION: The Build Sheet
+A friend of mine named Odell bought an old pickup at an estate sale a few years ago.|0.65
+Good price. Well, a good price for a truck nobody else wanted.|0.7
+Ran rough, pulled...|0.7
+weak, but it ran.|0.6
+He figured that's just what it was.|0.7
+An old truck that was tired.|0.75
+And for about two years he drove it like that.|0.75
+Babied it up hills. Never hauled more than half a load.|0.65
+Told people, she's a good truck, she's just not much of a worker.|1.15
+Then one Saturday he pulled the bench seat out to fix a spring.|0.55
+And taped underneath, yellow and brittle,|0.35
+was the original build sheet from the factory.|0.75
+The paper that tells you exactly how that truck rolled off the line.|0.75
+And Odell sat down on his garage floor and read it.|0.75
+Turns out it left the factory with a bigger engine than the one in it.|0.8
+Heavy-duty springs. A towing package.|0.6
+That truck was built to work.|0.6
+Somewhere along the way, somebody swapped parts out,|0.35
+patched things, took the cheap fix every time.|0.7
+And by the time Odell got it, it had been running wrong so long|0.3
+everybody figured that's just how it was made.|1.3
+Odell said, two years I'd been driving that thing.|0.65
+Turns out I never knew the truck. Just what had happened to it.|1.1
+Look, plenty of men drive themselves exactly the way Odell drove that truck.|0.7
+Babying the hills. Hauling half a load.|0.65
+And saying, that's just how I'm built.|0.55
+I've always had a temper.|0.65
+I'm not a words guy.|0.7
+Nobody in my family's ever been a hugger.|0.65
+Maybe so.|0.55
+Or maybe somebody swapped some parts out a long time ago,|0.3
+and you've never seen the paperwork.|1.3
+
+# SECTION: Dust And Breath
+Okay, let's lift that seat and read the thing.|0.55
+And we start with dirt.|0.55
+Genesis two, verse seven.|0.55
+Then the LORD God formed a man from the dust of the ground|0.25
+and breathed into his nostrils the breath of life,|0.3
+and the man became a living being.|1.45
+Look at the two things in that verse.|0.7
+First, God forms him.|0.4
+That word has hands in it.|0.65
+It's the word for, see, for a potter working wet clay.|0.6
+God didn't order a man out of a catalog.|0.75
+He shaped him, up close, the way you'd work something you cared about.|0.75
+Thumbs in the clay. Turning it. Taking His time.|1.2
+And then He breathes into him.|0.55
+Breath is a close-up thing.|0.6
+You can't do it by remote control.|0.8
+That's close, isn't it?|0.65
+Some of you have stood in a delivery room|0.25
+in that long second before the baby takes its first breath.|0.75
+I have.|0.4
+The whole room goes still, everybody waiting on one small sound.|0.8
+And then it comes, and you start breathing again too.|0.7
+That's the picture here.|0.45
+The very first breath any man ever took,|0.3
+God was near enough to give it.|0.8
+Not across the room. Right there.|1.1
+Here's why that matters on a Tuesday.|0.75
+A lot of men walk around feeling like a part number.|0.7
+Replaceable. Useful as long as they're useful.|0.6
+The plant would run fine without them by Thursday.|0.65
+And this verse says, no.|0.8
+You were handled. You were breathed into.|0.7
+Before you ever did a thing, God got close to you.|0.65
+And the breath in your chest right now, the one you're using to sit there,|0.3
+started with Him.|0.5
+That's the very first fact on your build sheet.|0.55
+Not what you do.|0.4
+Who bent down over you.|1.3
+
+# SECTION: Image Before Anything
+And right beside it is the Bible's first word on what you are.|0.55
+You were made in God's image.|0.65
+Both men and women, made to look like Him, to show Him off in the world.|0.7
+Sinner is true. We spent a whole session on it.|0.55
+But sinner shows up in chapter three.|0.7
+Image is chapter one.|0.55
+Before you'd scored a point or made a mess of anything,|0.3
+you already looked like your Maker.|1.25
+Now, hear what that does and doesn't mean.|0.55
+It's a lot like your last name.|0.65
+You didn't do anything to get it,|0.3
+and you can't flunk out of it.|0.75
+The worst man you know still carries it, bent as it is.|0.6
+That's why the way you talk to a guy who's down matters.|0.65
+You're talking to somebody God made to look like Him.|0.55
+Same goes for the guy who cut you off this morning.|1.0
+And listen, men, this one's important.|0.75
+Your wife carries that image as much as you do.|0.6
+So does your daughter. So does your mother.|0.7
+Think of it like your two hands.|0.6
+Neither one's in charge of the other,|0.3
+and you can't pick up much of anything with only one.|0.75
+Male and female, two ways of showing one and the same God,|0.25
+and He's the one who thought up both.|0.75
+If that's not how you've been running your home,|0.3
+the build sheet's a good place to start over.|1.1
+Think about what you call yourself in your own head.|0.8
+When you blow it, what's the word?|0.55
+Idiot? Failure? Loser?|0.6
+A lot of us have a word like that we've been saying since we were boys.|0.8
+My wife's caught me muttering mine at the kitchen sink.|0.7
+But the first word God put on you, long before any of mine,|0.35
+is image.|0.5
+His.|0.5
+That doesn't make the sin small.|0.55
+It makes it a, well, a scratch on something valuable,|0.25
+instead of proof the thing was junk all along.|0.55
+You don't throw out a good table because somebody set a hot pan on it.|1.3
+
+# SECTION: Blessed Before The Work
+Here's something else on the build sheet that men skip right over.|0.65
+The very first thing God says to the people He made|0.3
+isn't an instruction. It's a blessing.|0.6
+He tells them whose they are before He tells them what to do.|0.8
+Don't skip past the order.|1.1
+Rudy and his wife, friends of mine, fostered a boy for about two years,|0.3
+and last spring the adoption went through.|0.75
+They stood in front of a judge, signed the papers,|0.25
+and the judge said, he's yours.|0.55
+Driving home from the courthouse, the boy, he's about, what, ten,|0.35
+asked Rudy, so what do I have to do now?|0.55
+Like there was a list. Like he still had to try out for the family.|0.8
+And Rudy said, nothing, buddy. You're ours. That's done.|0.55
+And then the next morning Rudy woke him up at seven|0.35
+and said, come on, the dogs need feeding.|0.8
+Which, I mean, is still a job.|0.6
+But it's a son's job now.|0.7
+He's not feeding the dogs to stay in the house.|0.55
+He's feeding the dogs because it's his house.|1.3
+Here's the thing.|0.5
+That's the order God built in from the start.|0.6
+You're His first.|0.4
+Then He hands you work.|0.7
+And the work God gave that first man was big.|0.55
+Fill the earth. Rule over it.|0.6
+And that word rule has gotten twisted, so let me straighten it.|0.65
+Think about the best foreman you ever worked under.|0.65
+Under him, guys got better.|0.55
+Green kids turned into journeymen. Nobody was scared to ask a question.|0.75
+And the work got done better, not worse.|0.55
+That's what ruling looks like when God's the one doing it.|0.8
+Things grow under it.|0.55
+The bully version came in with the fall.|0.6
+It was never on the original paperwork.|1.3
+
+# SECTION: A Place And A Job
+Then God gives the man an address, and work to do there.|0.65
+Genesis two, verse fifteen.|0.6
+The LORD God took the man and put him in the Garden of Eden|0.3
+to work it and take care of it.|1.45
+Notice the verbs. Took him. Put him.|0.65
+God didn't drop Adam on the planet and say, good luck, go find yourself.|0.75
+He set him somewhere.|0.45
+A real spot, with rivers running through it, and a name on the map.|1.25
+You've got a spot too.|0.7
+And a lot of men live in theirs like it's a hotel.|0.8
+Never unpack. Never hang a picture.|0.75
+Never plant anything that takes longer than a summer to come up.|0.65
+Never learn the name of the man next door,|0.25
+because this isn't really home, and real life starts somewhere else.|0.75
+I'm telling you, the ground you're standing on is yours for now. God put you on it.|0.8
+Maybe He moves you later. He might.|0.65
+But a man who's always looking down the highway for his real life|0.3
+never gets around to the yard he's got.|0.65
+The fence he's got goes unmended while he dreams about a better fence.|1.05
+And look at what that ground was from day one.|0.65
+A job site.|0.4
+Read the order.|0.5
+The work shows up in chapter two.|0.8
+The thorns don't show up till chapter three.|0.7
+The job was there before anything went wrong,|0.3
+and it came as part of the gift.|1.25
+Ever notice what a man does right after he's done something right?|0.6
+Tile set level. The boat motor finally turns over.|0.7
+His girl rides to the end of the driveway without his hand on the seat.|0.65
+He steps back, and he just stands there.|0.55
+Hands on his hips. Doesn't say a word.|0.65
+That stance is older than the fall.|0.7
+That's not the curse talking. That's the garden.|1.3
+
+# SECTION: Work It And Keep It
+Rufus sold his roofing company at sixty-two.|0.65
+The plan was to fish every day God gave him.|0.7
+And he did, for about a month.|0.75
+By month three, his wife came home and found him re-alphabetizing her spice rack.|0.8
+By month four, he was teaching her how to load the dishwasher.|ROOM_CHUCKLE
+She told him he reminded her of the neighbor's border collie.|0.65
+Sweet dog. Bred to work sheep. Lives in a townhouse.|0.7
+That dog has eaten two couches.|0.8
+Not because it's a bad dog. Because it's got nothing to herd.|1.0
+Then a lady from their church asked if he knew anybody who could build a ramp,|0.35
+so her husband could get his wheelchair in the front door.|0.75
+He showed up the next morning with a...|0.7
+truckload of treated lumber and his old tool belt.|0.75
+He built it in two days.|0.55
+The man cried the first time he rolled up it on his own.|0.65
+Somebody else heard about it. Then somebody else.|0.65
+He's built eleven of them since, with a couple of retired guys from his old crew.|0.65
+He told me, I quit working for money.|0.6
+I didn't know I was allowed to keep working.|1.2
+Well, there's a second phrase in that verse we tend to skip.|0.55
+Take care of it.|0.5
+That one has a watchman in it.|0.7
+A man walking the fence line after dark, making sure what's his stays safe.|0.8
+And one of the things Adam was keeping was a command.|0.7
+God had told Adam where the line was,|0.25
+and He told him personally, back when it was just the two of them.|0.6
+So tending that garden meant holding on to what God had said,|0.25
+and standing between his home and anybody who came around|0.3
+trying to talk them out of it.|0.7
+That's still your job.|0.4
+Work your ground. And guard your gate.|1.3
+
+# SECTION: A Day To Stop
+Here's a part of the build sheet most of us would rather not read.|0.6
+God rested.|0.5
+On the seventh day He stopped, and He blessed that day, and He called it holy.|0.75
+And He wasn't worn out.|0.55
+The God who hung the stars doesn't need a nap.|0.55
+So why stop?|0.7
+Because stopping is part of doing the work right.|0.8
+It's the step back to look at what got built, and enjoy it.|0.8
+And think about this.|0.4
+Adam was made on the sixth day.|0.8
+So the first whole day he ever lived was the day off.|1.1
+Some of us hear the word rest and think lazy.|0.75
+It's not.|0.4
+The guy who never takes a day isn't holier than the rest of us.|0.55
+He's just quit feeling anything.|0.8
+Plenty of men check messages in a church parking lot,|0.3
+like the world might come apart if they sat through one song without a phone.|0.75
+It won't. It never has.|1.15
+If you own a business, try this.|0.75
+Could your phone sit in a drawer from Saturday supper to Sunday supper,|0.3
+and the doors still open Monday?|0.6
+If not, you didn't build a business. You hired a, I mean, a very demanding boss.|0.7
+And if you're the kind of man who's proud of never taking a day,|0.3
+I'd gently say that's not on God's build sheet.|0.7
+That's an aftermarket part.|0.4
+It'll run for a while. It won't run forever.|1.05
+Six days of honest work, and one day you put the tools down. Fair?|0.55
+Not because the work doesn't matter.|0.75
+Because you're a creature, not a power plant.|0.7
+You're a man God breathed into,|0.25
+and He meant for you to stop sometimes and look at what got done,|0.3
+and say, that's good,|0.35
+the way He did.|0.5
+Go to church, sure. But also sit on the porch.|0.7
+Take your kids to the creek.|0.6
+Take a nap without apologizing to anybody for it.|0.55
+If you're a single guy with three jobs, I know that one's hard.|0.6
+Start with an afternoon. Guard it like it matters, because it does.|1.3
+
+# SECTION: Not Good To Be Alone
+Then, with all that good on the table, God says something that ought to stop us cold.|0.8
+Genesis two, verse eighteen.|0.65
+The LORD God said, "It is not good for the man to be alone.|0.55
+I will make a helper suitable for him."|1.45
+Six times in chapter one, God looks at what He's made and calls it good.|0.8
+Then He calls the whole thing very good.|0.8
+And the first time anything at all gets called not good,|0.3
+there's no sin anywhere in the world yet.|0.7
+There's just a man by himself, and God looks at him and says... not good.|1.15
+Stay with me on why that's such a big deal.|0.8
+That man had a perfect garden, honest work,|0.35
+and God Himself for company in the evening.|0.6
+And God still said, he needs somebody.|0.8
+So when you need people, that's not a defect.|0.75
+That's factory spec.|0.5
+It was on the build sheet from day one.|0.65
+The man who says, I don't really need anybody,|0.35
+isn't strong. He's working off a bad copy of the build sheet.|1.2
+Now, that verse is bigger than a wedding.|0.75
+Yes, it's about a wife, and we'll get to her.|0.55
+But it's also the buddy who picks up when you call at eleven at night.|0.55
+The man twenty years older who's already survived raising teenagers.|0.55
+A church where somebody notices your truck wasn't in the lot.|1.1
+If you're single, here's something worth noticing.|0.75
+The breath, the blessing, the garden, the job, the command,|0.3
+every bit of it landed on Adam before there was any Eve.|0.6
+You're not a man on layaway until somebody says I do.|0.65
+And for the divorced men here, not good to be alone can land like a punch.|0.55
+Hear it right.|0.55
+It's not God scolding you, and it's not a dating assignment.|0.8
+It's God saying, I made you to have people.|0.8
+So let a few of them in.|1.3
+
+# SECTION: First Words
+Here's another thing on the build sheet. Words.|0.75
+God brought the animals to Adam to see what he'd call them.|0.75
+And whatever Adam called each one, that was its name.|0.8
+Think about that.|0.45
+God handed a man the label maker, and then He used the labels.|1.05
+Your words land like that too.|0.75
+Most of you can still hear something a coach said to you at twelve.|0.6
+Good or bad, you can hear his voice.|0.55
+Some of you have been living up to it, or down to it, ever since.|0.75
+Your kids are keeping a list like that right now,|0.3
+and you're the one writing on it.|0.8
+Same with your wife.|0.45
+What you say about her at the cookout, she carries home in the truck.|1.2
+And then, when God brings him the woman,|0.3
+Adam finally talks in the Bible,|0.3
+and what comes out isn't a grunt, or a...|0.7
+list of chores.|0.55
+It's a song.|0.4
+He looks at her and says she's made out of his own bones.|0.55
+And the whole song is about her.|0.7
+I love that.|0.4
+Now think about the last few things you said to your wife.|0.6
+Be honest. Not the anniversary card. Last Tuesday.|0.75
+Who's picking up who. What's for supper. Did you pay the water bill.|0.6
+That's not a marriage. That's a dispatch office.|ROOM_CHUCKLE
+Here's the design.|0.4
+A man so struck by his bride he can't keep it to himself.|0.75
+Not fancy words. True ones.|0.75
+If you can remember standing up front at your wedding,|0.3
+watching her walk in, and not being able to say anything at all,|0.25
+that's the same thing, from the other side.|0.65
+I remember mine.|0.5
+So, say something to her today that isn't about the schedule.|0.8
+It'll feel strange. That's how you know it's been too long.|1.3
+
+# SECTION: Nothing To Hide
+Then, right before everything breaks, one more thing.|0.8
+The two of them had nothing on, and nothing to be ashamed of.|0.8
+Every inch known, and nobody reaching for a towel.|0.8
+That's the man before anything went wrong.|0.75
+Nothing hidden from God, and nothing hidden from her.|1.3
+Anybody with little kids has seen this.|0.6
+Bath's over, and some three-year-old comes tearing down the hallway,|0.25
+wet, laughing, no towel, straight through the living room,|0.25
+right past your,|0.7
+in-laws.|ROOM_CHUCKLE
+Not one ounce of shame in him.|0.7
+That's not a bad kid. That's a kid who hasn't learned to hide yet.|1.0
+Look, every one of us did learn.|0.7
+And I'll tell you what I think sits underneath all our hiding.|0.75
+The man with the locked drawer,|0.3
+the man behind the fortress walls,|0.3
+the man up on the podium,|0.25
+every one of them still wants that hallway back.|0.8
+He just doesn't know the road.|0.7
+That's what the hiding is really after.|0.8
+Not getting away with something. Getting back to something.|1.0
+Let me finish Odell's truck.|0.75
+After he found that build sheet, he didn't throw the truck away.|0.75
+He didn't decide it was junk.|0.8
+He just started putting it back, one part at a time.|0.75
+Springs first. Then the engine, a couple years later.|0.65
+It's not done. It may never be all the way done.|0.6
+But last fall he pulled a trailer full of firewood up his brother's hill,|0.3
+and he said that truck didn't even breathe hard.|0.75
+He told me, I kept wanting to apologize to it|0.3
+for all those years I thought that's just how it was.|1.25
+That's what God's doing with you.|0.75
+He's not looking at your bent places and calling you junk.|0.55
+He's got the build sheet.|0.8
+He wrote it.|0.5
+And He's putting you back toward it, one part at a time.|1.3
+
+# SECTION: It Still Fits
+[warmly] Alright. Let's bring it in.|0.8
+The big thing today is this.|0.8
+Before anything broke, God made a man on purpose.|0.8
+With His own hands, out of dirt, and His own breath in him.|0.6
+He blessed him first and put him to work second.|0.75
+He handed him ground to work, a gate to guard, and a day to set the tools down.|0.6
+People he needed. A voice that mattered.|0.6
+And nothing he had to hide.|0.75
+That's the build sheet.|0.4
+And the bent places in you are real,|0.3
+but they're not the design.|1.1
+My hope is you walk out holding one piece of that.|0.55
+The single part that's most out of true in you.|0.65
+And a small move back toward the original, something you could do before supper.|0.8
+Not the whole restoration. One part.|0.7
+Because the original was cut for you, and it still fits.|0.55
+It was made by a Father who hasn't lost the paperwork.|0.55
+He's not embarrassed by the truck. He's glad to get it back.|1.05
+So, at your tables, take these on.|0.75
+First.|0.45
+What piece of God's original design feels the most bent in you these days?|0.55
+Being made and wanted by God. Where He's put you. Your work. Your rest.|0.7
+The people you need. What you say. Or having nothing to hide.|0.6
+Put it in a whole sentence, out loud.|0.65
+Second.|0.45
+Pick a normal morning and read Genesis one and two aloud,|0.35
+start to finish, in one sitting.|0.55
+Then write a single sentence about what God made a man for.|0.55
+And go take care of one thing you've been handed, as a gift and not a chore.|0.6
+Third.|0.5
+Tell a brother the part you named,|0.3
+and what it would take to start moving back toward it this month.|0.55
+And fourth.|0.55
+Ask him where he sees the bend in you.|0.75
+Then let him answer. All the way, without a rebuttal.|0.7
+And when he's done, thank him, even if it stung.|1.0
+Okay. The seats come out at your tables.|0.75
+Go read what you were built for.|1.3

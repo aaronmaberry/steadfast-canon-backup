@@ -1,0 +1,25 @@
+script	words	sections	uh_um	tags	ROOM_HANDS	ROOM_CHUCKLE	focus_mark_mentions	creed_uses	ellipses	check_py
+W01-A-Quiet-Tuesday	3366	11	0	[warmly]x2	1	4	n/a	0	4	PASS
+W02-You-Are-Not-Crazy	3367	11	0	[warmly]x2	1	2	n/a	0	4	PASS
+W03-The-Four-Marks	3648	12	0	[warmly]x2	1	3	n/a	2	4	PASS
+W04-Stop-Waiting	3614	12	0	[warmly]x1	0	4	stop waiting: 3 sections [1, 11, 12]	0	4	PASS
+W05-Pick-Up-The-Weight	3584	12	0	[warmly]x1	0	4	pick up the weight: 4 sections [1, 7, 10, 12]	0	4	PASS
+W06-Go-First	3612	12	0	[warmly]x1	1	3	go first: 8 sections [1, 3, 5, 8, 9, 10, 11, 12]	0	4	PASS
+W07-Work-For-Gods-Pay	3584	12	0	[dry]x1 [warmly]x1	1	4	work for god's pay: 5 sections [1, 2, 3, 4, 12]	1	4	PASS
+W08-The-Empty-Chair	3705	12	0	[warmly]x1	0	4	n/a	0	4	PASS
+W09-Anger-The-Itch-And-The-Drift	3792	13	0	[dry]x1 [warmly]x1	0	4	n/a	0	4	PASS
+W10-The-Father-Who-Does-Not-Leave	3653	12	0	[dry]x1 [warmly]x1	0	4	n/a	0	4	PASS
+W11-When-Home-Never-Handed-You-Off	3788	12	0	[warmly]x1	0	3	n/a	0	4	PASS
+W12-Leave-Without-Slamming-The-Door	3781	12	0	[warmly]x1	0	4	n/a	0	4	PASS
+W13-A-Man-With-No-Brothers	3674	12	0	[warmly]x1	1	3	n/a	0	4	PASS
+W14-Ask-The-Man	3595	12	0	[warmly]x1	0	3	n/a	0	4	PASS
+W15-The-Problem-Inside	3647	12	0	[warmly]x1	0	2	n/a	0	4	PASS
+W16-How-That-Looks-On-A-Man	3771	12	0	[dry]x1 [warmly]x1	1	4	n/a	0	4	PASS
+W17-No-Fixed-Star	3607	12	0	[warmly]x1	1	4	n/a	0	4	PASS
+W18-Before-The-Fall	3695	12	0	[warmly]x1	0	4	n/a	0	4	PASS
+W19-Two-Men-Two-Ways	3683	12	0	[amused]x1 [warmly]x1	0	4	n/a	0	4	PASS
+W20-Destiny-Is-Not-A-Vibe	3653	12	0	[dry]x1 [warmly]x1	1	4	n/a	0	4	PASS
+W21-If-There-Is-No-Wife-Yet	3603	12	0	[amused]x1 [warmly]x1	0	3	n/a	0	4	PASS
+W22-Know-Her	3782	13	0	[dry]x1 [warmly]x1	1	3	n/a	0	4	PASS
+W23-Lay-It-Down	3535	12	0	[warmly]x1	0	4	n/a	0	4	PASS
+W24-What-She-Actually-Needs	3580	12	0	[warmly]x1	0	3	n/a	0	4	PASS

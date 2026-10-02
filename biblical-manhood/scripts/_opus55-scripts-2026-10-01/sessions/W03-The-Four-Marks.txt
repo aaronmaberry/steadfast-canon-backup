@@ -1,0 +1,480 @@
+# SECTION: Pull Up A Chair
+[warmly] Come on in, find your spot.|0.6
+I notice most of you sat in the exact same chair as last session.|0.8
+Nobody told you to.|0.45
+Men are like that. We pick a chair once and we...|0.7
+homestead it.|ROOM_CHUCKLE
+If you're here for the first time, take any seat that isn't claimed.|0.65
+You'll know a claimed one. There's a guy glaring at you.|1.25
+Last session was all about the noise.|0.75
+All the voices that tell a man what he's supposed to be,|0.3
+coming in at once, like two radio stations fighting over one frequency.|0.65
+And the main thing I wanted you to hear was this.|0.55
+You're not crazy.|0.45
+The signal really is crossed.|0.6
+And God isn't standing over you, annoyed that you're confused.|0.75
+He gives wisdom to the man who asks.|0.6
+I also asked you to write down one plain sentence.|0.8
+What you believe a man is for.|0.7
+Some of you wrote something good.|0.6
+Some of you wrote something honest that wasn't good,|0.3
+and honestly, that's the braver paper.|0.65
+Hang on to it.|0.5
+Because today I'm handing you mine,|0.25
+and you can hold the two of them up side by side.|1.05
+Here's the plan.|0.45
+I'm gonna hand you one line.|0.55
+It's short enough to write on the back of your hand,|0.25
+and deep enough to keep a man busy till they bury him.|0.7
+We'll walk through it one piece at a time.|0.8
+And then I'm gonna ask you to do something a little unusual.|0.7
+I'm gonna ask you to pick just one piece of it,|0.3
+the piece that's weakest in you,|0.25
+and leave the rest alone for a while.|0.7
+That's gonna feel backwards to some of you.|0.55
+We like to fix everything at once, on a Monday, with a spreadsheet.|0.75
+But before any of that, I need one word.|0.75
+Because the whole thing hangs on it.|0.55
+The word is mark.|1.35
+
+# SECTION: The Dirt Path
+Picture one of those paths that gets worn across the grass|0.25
+at the edge of a parking lot.|0.7
+There's a perfectly good sidewalk.|0.6
+Some architect drew it on purpose, nice clean right angles.|0.6
+And then, right next to it, there's a dirt line cut straight across the lawn|0.35
+from the cars to the front door.|0.55
+Nobody poured that path.|0.4
+Nobody voted on it.|0.55
+It's just where people actually walk,|0.25
+a few hundred times a day, cutting the corner.|0.55
+And after enough feet, the grass gives up and tells the truth.|1.2
+That's a mark.|0.45
+It's not where you meant to walk.|0.7
+It's where you did walk, over and over, until it showed.|0.6
+Every man's got paths like that.|0.65
+And the people who live with you can see them better than you can.|0.6
+Your wife knows the path you take when you're stressed.|0.7
+Your kids know the path you take when they disappoint you.|0.7
+Your buddies know the path you take when the conversation gets real.|0.75
+You might not see it.|0.75
+You walk it every day, so it just feels like ground.|0.6
+But they see the dirt line.|1.3
+So, when I say a man has marks, I don't mean a tattoo.|0.7
+I don't mean the speech you'd give about yourself in a job interview.|0.65
+And I don't mean what your mama says about you.|0.6
+A mark is what's left on a man|0.35
+by what he does a few thousand times.|0.7
+Good or bad.|0.5
+That's the encouraging part and the scary part at the same time, isn't it?|0.7
+Because if marks come from repetition,|0.3
+then you're making one today whether you mean to or not.|0.7
+Every time you pick up the phone or don't.|0.7
+Every time you...|0.7
+let the hard thing slide one more day.|0.55
+And if you don't like the path,|0.25
+the only way to change it is to start walking a different one,|0.25
+and keep walking it until the grass gives up.|1.3
+
+# SECTION: Do What It Says
+James one, verse twenty-two.|0.65
+Do not merely listen to the word,|0.25
+and so deceive yourselves.|0.5
+Do what it says.|1.45
+Now, that's a blunt verse.|0.7
+James doesn't have a lot of patience for men who nod.|0.75
+And I say that as a professional nodder.|0.55
+I can nod through a whole sermon and feel great about it.|0.75
+I can underline things in my Bible|0.25
+like the underlining was the obedience.|0.6
+James says, careful.|0.45
+You can listen your way into a lie about yourself.|0.65
+Do not merely listen, and so deceive yourselves.|1.15
+Here's how the deceiving works.|0.75
+When you hear something true, you feel something.|0.65
+And the feeling is real.|0.7
+I'm not knocking it.|0.5
+But it's very easy to mistake the feeling for the change.|0.65
+You walk out of a room like this one,|0.3
+and your chest is a little warm,|0.25
+and you think, I'm different now.|0.65
+Then you get to the car, and somebody cuts you off on the ramp,|0.35
+and you find out exactly how different you are.|0.8
+The grass doesn't care how warm your chest was.|0.6
+The path only moves when your feet move.|1.05
+Look, everything I'm about to hand you today|0.3
+is something you do.|0.55
+Not something you agree with.|0.55
+Not something you feel on a Sunday.|0.6
+Something you could watch a man do from across the street.|0.8
+If you can't picture it with your eyes,|0.25
+it's not a mark yet.|0.6
+It's just a nice idea.|0.8
+And we've all got a garage full of nice ideas, right?|0.55
+I'd like to...|0.7
+help you haul a few of those out.|0.8
+Do what it says.|0.5
+That's the whole bar.|0.45
+It's not complicated.|0.5
+It's just hard, plain and simple.|0.55
+And hard is fine. Men are built for hard, as long as it's clear.|1.3
+
+# SECTION: One Sentence
+Okay. Here's the sentence.|0.5
+I'll say it slow, then we'll take it apart.|0.75
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.|1.6
+Four marks.|0.55
+And look at what kind of sentence it is.|0.75
+Every piece of it is a verb.|0.65
+Not one of them is a mood you wait on.|0.75
+Not one of them is a personality type.|0.6
+A shy man can do all four.|0.55
+A loud man can fail all four.|0.6
+And none of these are new.|0.75
+Every bit of it has been sitting in the Bible the whole time.|0.75
+All anybody's done is boil it down so it survives a long shift.|0.65
+Words you could remember at a red light.|1.0
+Here's where it all starts.|0.55
+Philippians two, verse five.|0.6
+In your relationships with one another,|0.35
+have the same mindset as Christ Jesus:|1.4
+In your relationships.|0.5
+That's where Paul puts it.|0.75
+Not in your quiet time.|0.6
+Not on a mountain retreat with a nice view and a fleece vest.|0.75
+In your relationships.|0.45
+With your wife. With your roommate. With the guy at work who chews too loud.|0.55
+Have the same mindset as Christ Jesus.|1.15
+Stay with me here, because this is the hinge.|0.55
+These four marks are what the mind of Christ looks like|0.3
+with work boots on and a lunch in the cooler.|0.7
+At the gas pump. At the in-laws' for Thanksgiving. In a group text.|0.7
+Jesus didn't wait.|0.4
+He picked up a load that wasn't His fault.|0.75
+He went ahead of His people, all the way to a cross.|0.7
+And He did it for His Father's well done,|0.25
+not the crowd's cheering.|0.55
+These aren't four rules somebody made up.|0.6
+They're four angles on one Man.|0.75
+And we're learning, slowly, to, well, to look like Him.|1.3
+
+# SECTION: The Four-Way Stop
+The first mark is Stop Waiting.|0.65
+There's a guy in every town at a four-way stop|0.25
+who will not take his turn.|0.65
+You've seen him.|0.45
+He waves the next car through.|0.65
+And then the next one.|0.55
+He's being polite.|0.4
+He's being a gentleman.|0.45
+He's been sitting at that stop sign since about nineteen ninety-six.|ROOM_CHUCKLE
+That's a picture of a lot of men's lives.|0.7
+Not lazy, exactly.|0.5
+Just always waving the moment through to somebody else.|0.7
+After the holidays.|0.4
+Once things settle down at work.|0.6
+She's got a lot on her plate right now.|0.75
+Let me pray about it, which, if we're honest, sometimes means let me not.|0.55
+And meanwhile, the will he keeps meaning to write,|0.3
+the buddy from church he's been dodging since the funeral,|0.3
+the thing the doctor told him to do,|0.35
+it all just sits at the intersection with its blinker on.|1.25
+Well, Stop Waiting isn't about leaning on the horn.|0.55
+It isn't about cutting anybody off,|0.35
+or running the sign because you're in a hurry.|0.7
+It means when it's your turn, you pull out.|0.65
+You don't sit there till you feel like a good driver.|0.7
+You go, and the mood can catch up.|0.6
+Because the feeling is usually the last thing to show up, not the first.|0.55
+It's like the motivation is a passenger, not the driver.|0.7
+It'll climb in eventually, once the car's already moving.|1.05
+Here's how you know if this one is weak on you.|0.8
+Count the things you've been meaning to get to.|0.6
+Not the gutters. The big ones.|0.65
+If the list is long, and the dates on it are old,|0.25
+you might be the guy at the four-way stop.|0.55
+Most of us have been him, more than once.|0.55
+We call waiting...|0.7
+wisdom when it's really just comfort.|0.6
+And the people behind us can see the difference.|1.3
+
+# SECTION: The Soaking Pan
+The second mark is Pick Up the Weight.|0.7
+Every house I've ever been in has a pan that's soaking.|0.6
+You know the pan.|0.55
+Somebody made eggs on Saturday,|0.3
+and now there's a skillet in the sink with water in it,|0.35
+and everybody walks past it and says the same thing.|0.6
+That's soaking.|0.5
+By Tuesday, it's not soaking anymore.|0.6
+It's a resident.|ROOM_CHUCKLE
+And here's the thing about that pan.|0.6
+Everybody knows whose fault it is.|0.65
+Everybody's got an opinion about it.|0.65
+And everybody's waiting for that guy to deal with it.|0.65
+Meanwhile, the pan's getting its mail delivered there.|0.65
+Pick Up the Weight is the man who walks over,|0.35
+rolls up his sleeves, and washes it,|0.25
+without giving a speech about who used it.|0.7
+I've got it.|0.4
+Not because I dirtied it.|0.8
+Because it's in my sink, and I'm the one standing here.|1.1
+Listen, I'm gonna be careful,|0.25
+because there's a difference between picking up your own load|0.3
+and trying to carry everybody's.|0.6
+We'll spend a whole session on that difference.|0.65
+But here's the core of it.|0.6
+A boy treats every load like a group project.|0.75
+First he wants to know who else is on it, and whether they're pulling their share.|0.55
+A man looks at what's landed in his lane and says, I've got it.|0.75
+The squeak in his daughter's brakes.|0.6
+The buddy who's been drinking more since his divorce.|0.6
+The sharp thing he said at breakfast that's still sitting in the kitchen.|0.8
+He gets his hands on it without holding a trial first.|0.6
+And if you're single, this is not a married guys' thing.|0.55
+Your own life is a load.|0.7
+Your rent, your sleep, your promises, your grandma's phone calls.|0.8
+Nobody's coming to carry those for you.|0.8
+That's not bad news.|0.4
+Nobody ever got shoulders by watching somebody else lift.|1.3
+
+# SECTION: The First Plate
+The third mark is Go First.|0.55
+You ever been to a cookout where the food's ready,|0.3
+and nobody will go first?|0.65
+Forty grown adults standing around a table of hot food,|0.35
+looking at each other.|0.4
+Somebody says, go ahead.|0.4
+No, you go ahead.|0.5
+Somebody's grandma is about to faint.|0.8
+And then one guy picks up a paper plate,|0.3
+and boom, there's a line.|0.65
+Took about four seconds.|0.5
+Nobody minded. They were starving. They were just waiting for somebody's permission.|1.15
+Nobody pinned a badge on that guy.|0.75
+There wasn't a vote.|0.55
+He just grabbed a plate, and the whole yard found out where the line starts.|0.65
+That's leadership, a lot more often than we think.|0.7
+Not a speech. A plate.|0.7
+Families and job sites and churches sit there idling|0.3
+until somebody pulls out.|0.45
+Somebody has to be the first one to walk up to the widow at the funeral home,|0.3
+while everybody else hangs back by the guest book.|0.75
+Somebody has to be the first one to walk across the yard to the neighbor|0.3
+after the argument about the fence.|0.55
+Somebody has to sit down by the new guy in the break room.|0.6
+Go First means you're out in front of your people,|0.35
+even with your knees knocking.|0.8
+You can be scared and still be first.|0.6
+Scared just doesn't get to pick when you move.|1.2
+So, Go First isn't about being the boss.|0.7
+Jesus calls Himself a shepherd who goes on ahead of His sheep.|0.65
+He doesn't drive them from behind with a stick.|0.75
+He walks out in front, where the danger is,|0.3
+and they follow because they know His voice.|0.65
+That's the kind of first we're talking about.|0.75
+Not first in line for the good stuff.|0.55
+Not first to the,|0.7
+front pew so people see you.|0.55
+First into the hard thing,|0.3
+so the people you love don't have to go in alone.|1.3
+
+# SECTION: Working His Father's Land
+And the fourth mark is Work for God's Pay.|0.6
+I saved it for last, because it's the easiest one to nod at and skip.|0.8
+Think about a young man working his father's land.|0.75
+He's out there at sunup, fixing fence, hauling hay,|0.35
+same as any hired hand.|0.65
+But he's not a hired hand.|0.7
+He's a son.|0.5
+He doesn't work that land to get adopted into the family.|0.7
+He already is family.|0.55
+He works it like a son, because it's his father's,|0.3
+and someday his father's gonna hand it to him.|0.55
+That's what this mark means.|0.65
+You work at whatever you do with all your heart,|0.3
+as working for the Lord.|0.65
+And the pay isn't a wage.|0.8
+It's an inheritance.|0.45
+An inheritance comes to you because of whose kid you are.|0.65
+And in Christ, God made you His kid as a gift,|0.3
+while your hands were still empty.|0.65
+The work doesn't buy the land. The work is what a son does on it.|1.1
+So hear me clearly on this one.|0.8
+Work for God's Pay doesn't mean work hard enough and God will let you in.|0.6
+Heaven doesn't take job applications.|0.8
+Jesus already did the work that saves you.|0.65
+This mark is about what you're working for once you're in.|0.65
+Because every man works for some kind of pay.|0.7
+If it's not the Father's well done,|0.3
+you'll go looking for it somewhere else.|0.75
+A raise. Your name read out at the banquet.|0.7
+Likes on a picture of the deck you built.|0.6
+The neighbor admitting your lawn looks better than his.|0.7
+And those all run out.|0.7
+The raise gets eaten by groceries. The banquet's over by nine.|0.65
+The likes stall out by Tuesday. And the neighbor reseeds.|0.65
+The Father's well done doesn't run out.|0.7
+This is the mark that keeps a man faithful at things nobody will ever post about,|0.25
+year after year,|0.3
+because his Father is watching the parts nobody else can see,|0.3
+and He's glad.|1.3
+
+# SECTION: Let Them See It
+First Timothy four, verse fifteen.|0.6
+Be diligent in these matters;|0.25
+give yourself wholly to them,|0.25
+so that everyone may see your progress.|1.4
+Paul's writing to a young pastor,|0.3
+but listen to that last line.|0.75
+So that everyone may see your progress.|0.6
+Progress.|0.55
+Not perfection. Progress.|0.5
+And not hidden progress, either.|0.7
+The kind people can see.|0.55
+That's the dirt path again.|0.7
+Paul's not telling Timothy to show off.|0.75
+He's saying real change leaves tracks, and people will notice the tracks.|1.0
+And there's a reason these four come in this order.|0.8
+Each one stands on the one before it.|0.7
+Nothing gets lifted till a man quits stalling and gets up,|0.3
+so the stalling has to break first.|0.65
+And a man who's ducking his own load can't take anybody anywhere.|0.65
+Folks don't line up behind a guy pointing at somebody else's mess.|0.65
+Then going out front gets expensive,|0.3
+and most days nobody even notices you did it.|0.7
+A man won't keep paying that, year in and year out,|0.3
+unless he knows his Father sees it, and has an inheritance waiting with his name on it.|0.75
+Pull the fourth one out, and the other three turn into a self-help list.|0.55
+A disciplined atheist could run it for a while.|0.8
+The fourth one is what ties the whole thing to Jesus.|1.15
+Now, here's what Paul's line means for you today.|0.7
+Don't grab all four on your way out the door.|0.65
+You'll be worn flat by Thursday.|0.75
+Be diligent in these matters,|0.3
+but pick one.|0.5
+The one that's weakest on you right now.|0.75
+The one where, if your wife or your roommate or your boss|0.25
+saw this sentence, they'd smile a little and look at the floor.|0.55
+Quick show of hands, no names.|0.7
+Who already knows which one it is?|ROOM_HANDS
+Yeah. Me too.|0.4
+That's your mark.|0.4
+Give yourself to that one for a good long while.|1.3
+
+# SECTION: Darnell's Clipboard
+Darnell's a man I've known a long time. That's what I'll call him, anyway.|0.7
+Darnell drove a truck for thirty years.|0.7
+Long haul, then regional, then local when his back started talking.|0.75
+He is flat out the most dependable man I've ever met.|0.7
+If Darnell says he'll be somewhere at six, he's there at five-forty.|0.7
+He provided for that family like it was a sacred duty,|0.3
+because to him it was.|0.6
+But at home, Darnell had a phrase.|0.65
+That's her department.|0.55
+The kids' school stuff, her department.|0.55
+Doctors and prescriptions, her department.|0.6
+The bills, the insurance, the birthday presents,|0.35
+when the dog needed shots.|0.65
+Her department.|0.45
+He carried the truck. She carried the house.|0.75
+And he honestly thought that was a fair split.|0.6
+He wasn't lazy. Nobody would ever call Darnell lazy.|0.65
+He'd just drawn a line down the middle of the marriage,|0.3
+and he never once walked over to look at her side of it.|1.1
+Then his wife had surgery on her back,|0.3
+and she was laid up flat for most of a summer.|0.6
+And Darnell found out, on day one,|0.35
+that he didn't know the name of their pharmacy.|0.65
+He didn't know the password to anything.|0.55
+He didn't know their youngest was failing chemistry.|0.6
+He stood in his own kitchen,|0.3
+fifty-four years old,|0.35
+staring at the calendar on the fridge, all in her handwriting,|0.35
+and he couldn't read half of it.|0.65
+He said he felt like a substitute teacher in his own house.|0.55
+He told me, Wes, I've backed a fifty-three foot trailer into a dock in the rain at night.|0.7
+That calendar scared me a whole lot worse.|0.8
+And I believe him.|0.55
+I've seen that calendar. It's color-coded, in a code,|0.7
+only she knows.|1.3
+
+# SECTION: Her Side Of The Line
+Here's what he did.|0.55
+He pulled a chair up next to her bed with a legal pad.|0.7
+And for two hours he asked her questions,|0.25
+and wrote down every answer in that blocky trucker handwriting.|0.8
+Pharmacy. Logins. Teachers. Which night the trash goes out.|0.65
+She told me later she cried through half of it.|0.6
+Not because she was hurting.|0.7
+Because he'd never asked before.|0.65
+And when she was back on her feet,|0.25
+he didn't hand it all back to her.|0.6
+He kept the pharmacy runs.|0.6
+He kept the chemistry teacher's number in his phone.|0.55
+He started taking the dog in for its shots,|0.25
+which the dog has opinions about.|0.65
+He still has the legal pad.|0.8
+It's in the kitchen drawer with the takeout menus,|0.35
+and the first page is,|0.7
+pretty beat up by now.|1.2
+For Darnell, the weak one turned out to be Pick Up the Weight.|0.65
+Which sounds crazy for a man who worked like that.|0.65
+But he'd been carrying a load he picked,|0.35
+and leaving the one that had landed in his own house.|0.7
+He told me, I thought I was carrying my share.|0.6
+Turns out I was only carrying the part I liked.|1.25
+And here's the part that matters for today.|0.75
+It didn't become a mark on him in one afternoon at her bedside.|0.75
+That was the start.|0.4
+The mark came from driving to that pharmacy every month for the next three years.|0.55
+Boring. Repeated. Seen.|0.5
+His daughter told him at Christmas,|0.4
+Dad, you're different.|0.55
+He asked her how.|0.4
+She said, you know where stuff is now.|0.75
+He laughed about that.|0.55
+But he, see, he kept that one. You could tell.|0.8
+That's not a small compliment.|0.7
+That's progress somebody can see.|0.7
+That's a dirt path across the grass.|1.3
+
+# SECTION: Pick One
+[warmly] Alright. Let me bring it in.|0.8
+Here's the big idea.|0.45
+Repeat a thing long enough and it gets worn into you,|0.3
+plain enough for your family to read.|0.55
+And there are four that are worth getting worn into you.|0.8
+Let me say the whole thing once more, slow.|0.8
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.|1.5
+If you take one thing out that door, make it one mark.|0.8
+Not four. One.|0.5
+The weakest one, the one you'd rather not admit.|0.8
+And I hope you hold it loosely enough to let your brothers check your work.|0.7
+Because you're not the best judge of your own dirt path.|0.55
+None of us are.|0.55
+That's why you don't do this alone in your truck.|0.8
+You do it at a table, with men who'll be straight with you,|0.25
+and who'll ask you how it went when you come back.|1.05
+Your table's got four questions to chew on.|0.8
+First.|0.45
+Which of the four is weakest on you, and why?|0.55
+Say it in a whole sentence.|0.75
+Not the humble-sounding answer. The true one.|0.75
+Second.|0.4
+Where would this have to show up on an actual person,|0.35
+somebody with a name and a face,|0.3
+or it's just a hobby?|0.6
+Third.|0.45
+If the man next to you looked at your life|0.25
+and named a different weak spot, would you be willing to look again?|0.55
+Let him finish before you answer.|0.55
+I know. That's the,|0.7
+hard part.|0.65
+And fourth.|0.55
+What's one small thing you'll do for your weak mark before the next plain Tuesday?|0.65
+Small enough you could do it tired.|0.75
+Not a vow. Not a resolution. A thing you could actually check off.|0.7
+Write it down. Tell one man.|0.6
+Then go pull up to your table,|0.3
+and pick your weak one.|1.3

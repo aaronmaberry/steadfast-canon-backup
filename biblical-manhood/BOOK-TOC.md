@@ -5,7 +5,7 @@
 Decided TOC 2026-08-27. Original titles. Four marks renamed 2026-10-01 (Stop Waiting / Pick Up the Weight / Go First / Work for God's Pay; see CANON.md). Do not reprint course labels, Hawks, or Lewis. Internal until Aaron says publish.
 
 ## Front matter
-Dedication (for Evan)
+Dedication
 Contents
 Introduction
 
@@ -16,7 +16,7 @@ Introduction
 4. Stop waiting
 5. Pick up the weight
 6. Go first
-7. Live for a reward that lasts
+7. Work for God's Pay
 
 ## Part 2. What you inherited, and what is yours
 8. The empty chair

@@ -1,0 +1,424 @@
+# SECTION: Which Way Is North
+Morning, men. Pull a chair in.|0.75
+If you sat in the same seat as last time, I see you.|0.7
+Men will sit in the same chair for twenty years and call it...|0.7
+a coincidence.|ROOM_CHUCKLE
+That's fine. Today's actually about things that don't move.|1.0
+So, a quick look back first.|0.55
+Last time we put sin on a man and looked at how it dresses.|0.75
+We said it hardly ever looks like a wreck.|0.8
+On a capable guy it looks like a good quarter at work and a quiet house.|0.7
+We walked through the shapes it takes.|0.65
+The locked drawer. The fortress nobody gets into, not even to help.|0.75
+The scoreboard. The podium, where you're holy for an audience.|0.75
+The throne, and the recliner.|0.7
+And we watched a king keep a whole country humming for most of a year|0.35
+with a dead man buried under his calm.|0.8
+Then a prophet pointed, and David said one sentence and stopped.|0.55
+And the pardon came before Nathan was out the door.|0.8
+The ask was to name your shape,|0.35
+go to your wife or a brother and ask where you hide and where you're harsh,|0.3
+sit through the answer without defending yourself,|0.25
+and give one man permission to point at you.|0.6
+Some of you did that, and I'd guess it was the longest few minutes of your month.|0.65
+If you haven't yet, the offer's still open. Nobody closed it.|1.15
+Here's where today picks up.|0.6
+Once you've seen your shape, the next question is,|0.3
+what was I measuring myself against that let it get that bad?|0.55
+Because every man steers by something.|0.55
+He may not know what it is.|0.6
+He may never have said it out loud.|0.65
+But he's got a north, and he's following it.|0.75
+And most of the norths men pick have one big problem.|0.6
+They move.|1.3
+
+# SECTION: The Light That Kept Moving
+A buddy of mine named Percy took his boy night fishing on a lake a while back.|0.55
+His boy's eleven. Little aluminum boat, a trolling motor, a cooler full of sandwiches.|0.7
+They stayed out way past dark, because the fish finally started biting|0.35
+right about the time they were supposed to head in.|0.55
+That's how fish work. They have a sense of humor.|1.25
+So it's black out there. No moon. Well, a sliver of moon, behind the clouds.|0.65
+And Percy looks across the water and picks out a light on the far shore.|0.6
+He's sure that's the boat ramp.|0.8
+He points the bow right at it and opens up the motor,|0.35
+which on that boat is about the speed of a brisk walk.|0.7
+And he steers right at that light for twenty minutes,|0.3
+and it just... kept being far away.|0.55
+Matter of fact, it seemed to be drifting left.|0.8
+Percy kept correcting. A little left. A little more left.|0.6
+The boy's eating the last sandwich, watching the shore go by.|0.55
+And after a while he says, Dad, are we going in a circle?|0.7
+They were.|0.5
+Because that light wasn't the boat ramp.|0.7
+It was a pontoon boat.|0.7
+Also heading home.|ROOM_CHUCKLE
+Now, Percy wasn't stupid, and he wasn't careless.|0.7
+He picked the best light he could see.|0.8
+It was bright, it was close, and it...|0.7
+felt sure.|0.7
+His problem was just that it moved.|0.75
+And every time it moved, he moved with it,|0.35
+and not once did it feel like turning.|0.75
+That's how drift works.|0.55
+Strange, isn't it?|0.7
+From inside the boat it doesn't feel like being lost.|0.7
+It feels like steering.|0.4
+You've got both hands on the wheel the whole time, and you're still going in a circle.|0.65
+I'll tell you how they got home in a little while.|1.3
+
+# SECTION: As They Saw Fit
+There's a line at the very end of the book of Judges.|0.55
+It's one of the saddest sentences in the Bible, and it's short.|0.7
+Judges twenty-one, verse twenty-five.|0.6
+In those days Israel had no king;|0.3
+everyone did as they saw fit.|1.45
+Look at what's sad about that.|0.75
+It doesn't say everybody was a monster.|0.6
+Some of them were. A lot of them weren't.|0.6
+The sad part is the measuring stick.|0.75
+Every man did what looked right to him.|0.65
+It's like steering by a light bolted to the front of your own boat.|0.55
+Wherever you turn, it's dead ahead.|0.75
+You can never be off course, because the course is you.|0.65
+And the real King, the LORD, was right there the whole time,|0.35
+with nobody listening to Him.|1.1
+And that's not some ancient problem, is it?|0.55
+I know men with a GPS on the dash, another one in their phone,|0.3
+and a third one on their wrist,|0.35
+and no earthly idea where their life is headed.|0.7
+Not because they're bad men.|0.6
+Because nobody ever handed them a fixed point,|0.35
+so they grabbed whatever light was,|0.7
+closest.|1.0
+Everyone did as they saw fit.|0.65
+You could print that on a lot of bumper stickers today|0.35
+and people would think it was good advice.|0.55
+Follow your heart. Live your truth. You do you.|0.65
+It sounds like freedom.|0.5
+But follow it out, and what you get is a whole country|0.35
+where every man is his own king,|0.3
+and nobody can tell anybody he's off,|0.25
+because there's nothing left to be off from.|0.6
+You can't be lost if there's no such thing as home.|0.55
+Judges isn't a story about freedom.|0.65
+It's a story about a people going in circles in the dark,|0.35
+each one sure he's steering straight.|1.3
+
+# SECTION: Not Him
+So let's name some of the lights men steer by.|0.8
+The first one is usually Dad.|0.65
+The first measuring stick most of us ever had was six feet tall and called us son.|0.6
+For some of you, that's a gift.|0.75
+For some of you, it's a weight you've been carrying since you were nine.|1.25
+A guy I know named Quentin had a dad who drank.|0.75
+Not a happy drinker, either.|0.65
+The kind where the whole house went still when the screen door banged.|0.75
+And Quentin swore when he was about fourteen he'd never be that man.|0.65
+And he wasn't.|0.4
+He's never had a drop. Not at his wedding. Not at his brother's funeral.|0.55
+He's proud of that, and honestly, he should be.|1.05
+But here's what happened.|0.4
+Quentin built his whole life on two words.|0.8
+Not him.|0.5
+Not him, so I'll never drink.|0.55
+Not him, so I'll never yell.|0.65
+Not him, so I'll work,|0.7
+every hour they'll give me|0.3
+and make sure my kids never go without.|0.75
+Then one evening his wife handed him a sentence he hasn't shaken.|0.75
+She said, you're not him, Quentin.|0.7
+You're also not here.|0.4
+He told me he sat out in the garage for an hour after that,|0.3
+because she was right, and he'd never once seen it.|1.1
+Here's the thing about not him.|0.6
+It's a direction away. It's not a direction toward.|0.8
+It'll tell you what to run from.|0.8
+It can't tell you where to go.|0.75
+And if your dad was a good man, thank God for him.|0.75
+But a good man is still a man. He's a lantern, not a star.|0.8
+And if your dad wasn't around at all,|0.3
+you didn't get a wrong light. You got a dark lake.|0.75
+Either way, take everything he can teach you, the good and the bad.|0.55
+Just don't hand him the wheel.|1.3
+
+# SECTION: A Room Full Of Clocks
+The next light is the men around you.|0.65
+At least I'm not on my second marriage like my cousin.|0.65
+My kids are in church, which is more than the neighbors can say.|0.7
+I only cuss at work.|0.8
+Picture a room full of clocks that all got set off each other.|0.75
+They agree perfectly. Every one of them says ten after.|0.55
+And every one of them is twenty minutes slow.|0.8
+You can be the most punctual clock in that room and still miss your flight.|1.3
+If you're nineteen, twenty, this is the big one.|0.6
+Watch how fast the rules change.|0.8
+A couple of years ago being a man meant one thing on your feed.|0.75
+This year it's cold showers, a five a.m. alarm,|0.35
+and some guy yelling into his phone from the front seat of a rented sports car.|ROOM_CHUCKLE
+Next year it'll be something else.|0.6
+You'll spend your whole twenties chasing a target that moves every spring.|1.25
+If you're divorced, there's a version of this that'll eat you alive.|0.65
+You'll grade yourself against the new guy in your kids' house.|0.55
+At least I'd never let them stay up that late.|0.55
+At least I make them do their homework.|0.8
+Maybe that's all true.|0.5
+But his rules being loose doesn't make yours right.|0.7
+Okay, quit checking your clock against his.|1.1
+Then there's the culture.|0.55
+It's the biggest light on the lake, and it moves the fastest.|0.75
+Pull up a beer commercial from forty years ago and one from this year,|0.3
+and look at what each one says a man is.|0.7
+Two completely different norths.|0.4
+Every generation's got its blind spots, including whatever ours turns out to be.|0.7
+Some things it gets right. Some things,|0.7
+badly wrong.|0.6
+And the culture can't sort out which is which,|0.3
+because it's drifting too.|1.3
+
+# SECTION: Feelings And Numbers
+Then there's feelings.|0.4
+A friend of mine named Reggie used to measure his walk with God|0.25
+by how Sunday felt.|0.45
+Good band, good sermon, chills on the last song, and he figured he was close.|0.6
+And then his mom got sick, and he spent most of a year at her bedside,|0.3
+and Sunday went... flat.|0.5
+No chills. Nothing.|0.45
+And Reggie decided God must have moved.|0.75
+He quit going for a while. Well, for most of that year.|0.65
+Not out of anger. He just figured the signal was gone.|0.8
+Turns out God hadn't gone anywhere.|0.6
+Reggie was just tired, and grieving, and running on,|0.7
+gas station coffee.|1.0
+Listen, feelings are real. I'm not telling you to ignore them.|0.55
+But a feeling is a weather vane.|0.7
+It'll tell you which way the wind's blowing this afternoon.|0.7
+It'll never once tell you which way is home.|1.15
+And then there's the most convincing light of all.|0.75
+Success.|0.5
+The bank approved the bigger house, so I must be doing alright.|0.55
+My boy made the travel team, so I guess I did that part right.|0.8
+Nobody's complained at home, so home must be fine.|0.7
+A guy I know named Rocco used to say, the numbers don't lie.|0.65
+And he was right. His numbers didn't lie.|0.75
+They just didn't say very much.|0.65
+They said his company was healthy.|0.65
+They didn't say a word about his blood pressure,|0.3
+or the fact that he hadn't had a real friend over to the house in six years.|0.65
+Rocco's not a bad man. He's a man who read one gauge|0.3
+and figured it was telling him about the whole truck.|1.3
+A good reading on the oil pressure just means the oil's fine.|0.8
+It's not a clean bill of health on the brakes.|0.7
+And plenty of men find that out on a downhill.|1.3
+
+# SECTION: The String On The Wall
+So is there anything that doesn't move?|0.7
+There is. And a prophet named Amos got to see it.|0.8
+Amos seven, starting at verse seven.|0.6
+This is what he showed me:|0.4
+The Lord was standing by a wall that had been built true to plumb,|0.3
+with a plumb line in his hand.|0.8
+And the LORD asked me, "What do you see, Amos?"|0.35
+"A plumb line," I replied.|0.55
+Then the Lord said, "Look, I am setting a plumb line among my people Israel;|0.35
+I will spare them no longer."|1.45
+Some of you have never used a plumb line, so here's all it is.|0.65
+A weight on a string.|0.7
+Hang it beside a wall, give it a second to quit wobbling,|0.25
+and it'll show you straight down. Not mostly down. Down.|0.55
+It reads the same for the apprentice as for the man who's laid brick forty years.|0.8
+And it doesn't care whose name is painted on the truck.|1.2
+Notice something about that wall, too.|0.75
+It had been built true.|0.8
+It started out straight. Somebody laid it right.|0.6
+Israel didn't start crooked. They drifted.|0.8
+One brick at a time, one season at a time,|0.35
+until the whole thing was leaning and nobody inside could feel it.|1.3
+Now, look at what God does in that vision.|0.65
+He doesn't measure Israel against Egypt.|0.8
+He doesn't grade them on the curve we just talked about.|0.8
+He carries that line right into His own people's streets and kitchens|0.25
+and holds it up beside the way they're really living.|0.75
+That's a hard verse.|0.45
+It's a warning, and God meant it as one.|0.75
+But it's a mercy too, right?|0.55
+Because a man who sees the lean now|0.3
+can still do something about it,|0.3
+before the wall comes down on his family.|1.3
+
+# SECTION: The String Wins
+Here's what God's Word is for a man.|0.75
+It's the string.|0.4
+Yes, it tells you what to do, and that matters.|0.55
+But the bigger gift is that it stays put.|0.7
+It doesn't change with the mood of the country.|0.6
+It doesn't shift when you're tired.|0.55
+It's not grading you against your cousin.|0.7
+Everything else on the lake is drifting, and this isn't.|1.2
+Hold your life up next to it, and it'll show you the lean.|0.75
+Not in general. Specifically.|0.5
+The way you talk about your ex in front of the kids.|0.7
+Where your money went last month.|0.55
+What your Saturday mornings are really for.|0.65
+And if you keep coming back, morning after morning,|0.25
+your hands start getting steadier on the trowel.|1.15
+Stay with me on this one, because it's where men get stuck.|0.65
+When the Bible says something your life doesn't match,|0.35
+you don't get to hold a meeting about whether the string is wrong.|0.55
+I've held that meeting at my own kitchen table,|0.3
+my wife right there, my coffee going cold,|0.25
+explaining to God why a verse didn't really apply to my situation.|0.75
+It's a very long meeting. And the string wins every time.|1.1
+So let me finish Percy.|0.55
+Going in circles out there, his boy finally points behind them.|0.6
+There's a radio tower up on the hill above the boat ramp,|0.35
+with a red light blinking at the top.|0.7
+Percy's driven past it a thousand times. Never thought about it.|0.6
+And his boy says, that one doesn't go anywhere, Dad.|0.6
+Percy put the bow on the tower, and twenty minutes later they were at the ramp.|0.6
+He told me, I spent half an hour chasing a pontoon boat,|0.3
+and the light I needed was blinking at me the whole time.|1.3
+
+# SECTION: Enough Light For The Next Step
+Here's the other thing a fixed point does.|0.55
+It doesn't just show you where you're off.|0.6
+It shows you where to put your foot down next.|0.55
+Psalm one nineteen, verse one oh five.|0.6
+Your word is a lamp for my feet,|0.35
+a light on my path.|1.45
+Think about what a lamp was back then.|0.8
+Not a stadium light. Not a pair of high beams.|0.7
+A little clay dish with oil and a wick.|0.8
+You held it low, and it lit up about three feet of the trail in front of you.|0.75
+That's it.|0.4
+It didn't light up the valley.|0.7
+It showed you where the next rock was.|1.25
+And honestly, that's what most of us need.|0.7
+We want God to show us the whole map.|0.75
+Where the career's going. Who the kids will turn into.|0.8
+How the next twenty years of marriage will go.|0.65
+And God says, here's light for your feet.|0.75
+Here's enough for the next hour.|0.7
+Take this step, and I'll light the next one when you get there.|0.7
+That's not God holding out on you.|0.55
+That's a Father who knows exactly how much you can carry.|1.25
+A lot of men won't open the Bible|0.35
+because they think it's supposed to answer every question at once.|0.65
+It's not.|0.45
+It's a lamp, not a floodlight.|0.6
+You read a little, you find one thing it's asking of you,|0.3
+and you go do that one thing before the sun goes down.|0.75
+Maybe it's, look, maybe it's being slow to answer your wife.|0.8
+Maybe it's paying back the twenty bucks you borrowed in March.|0.65
+Then you come back tomorrow and get a little more light.|0.55
+Well, that sounds too small to matter.|0.8
+It's how every man I've ever respected learned to walk.|0.55
+Three feet at a time,|0.3
+on a trail he couldn't see the end of,|0.3
+with a light that never once went out on him.|1.3
+
+# SECTION: Why It Stays On The Shelf
+So why do so many of us leave it on the shelf?|0.6
+Most men have started reading the Bible more times than they've started a diet.|0.8
+Let me just ask.|0.5
+How many of you own more than three Bibles?|ROOM_HANDS
+Yeah. Look at that.|0.55
+Now keep your hand up if every one of them still has a stiff spine.|0.75
+Most of us own more Bibles than we've ever finished.|0.65
+That's not because you don't care.|0.55
+Nobody ever sat down next to you and said, here, start here, read this much, ask this.|1.15
+Some guys tell me it's like being back in tenth grade English.|0.7
+So quit reading it like a textbook and read it like a letter.|0.75
+A man overseas doesn't skim a letter from home.|0.75
+He reads it three times, slow, and keeps it in his shirt pocket.|0.8
+Read it out loud at the kitchen table before anybody else is up.|0.7
+Nobody's grading you.|1.1
+Some guys tell me they're just too busy.|0.65
+Brother, you've sat through a whole halftime show and the commercials around it.|0.8
+That's plenty.|0.55
+Hand that same stretch to the one thing that holds still.|1.05
+Some guys say they don't understand it.|0.65
+Fair enough. Parts of it are hard.|0.8
+So start with the parts you do understand,|0.3
+and do those, and you'll be busy for years.|1.2
+And some guys say, I read it and I don't feel anything.|0.8
+Neither does a man on his third day of push-ups.|0.8
+He's not doing them for the feeling.|0.8
+He's doing them so his arms hold when it counts.|0.65
+Nobody ever hung a string on a wall and got,|0.7
+emotional about it.|0.8
+It just tells you the truth about the wall.|0.8
+And a man who knows the truth about his wall|0.25
+can build something his grandkids will lean on.|1.3
+
+# SECTION: Where To Start
+Here's how I'd start, if you've never really done this.|0.7
+Start in Mark.|0.55
+It's short, and it moves fast.|0.8
+Read a section a day. Or, really, whatever chunk your Bible puts a heading on.|0.8
+And go in with one question.|0.75
+What does this ask a man to do?|0.6
+Then write down one line. Just one.|0.55
+Not a journal. Not an essay. One line.|0.65
+And then go do it before supper.|0.75
+Stick with it, and before long you'll know how Jesus treated a leper,|0.3
+and a tax man, and a storm, and a crowd that wouldn't let Him eat.|0.65
+You'll know what He did when He was tired.|1.05
+When you finish Mark, try Proverbs.|0.6
+It works out to about a chapter for every date on the calendar.|0.55
+Read it with a pen, and underline every line about your mouth.|0.65
+You'll run out of, well, ink.|ROOM_CHUCKLE
+And on the days you've got nothing to say to God,|0.35
+let the Psalms say it for you.|0.55
+Men have been praying them for three thousand years.|0.6
+They're broken in, like a good pair of boots.|1.0
+If you can, do this alongside a brother.|0.8
+Each of you bring one verse from your mornings, the one that's been poking you.|0.65
+Then each of you say what doing it would cost you.|0.8
+One man alone can talk himself out of almost any verse.|0.6
+It's a lot harder when another man heard you read it.|1.05
+And one more thing.|0.5
+You ever walk into a movie with twenty minutes left?|0.55
+You get the whole thing wrong. Who the bad guy is. Why everybody's crying.|0.8
+Your life's like that if all you read is your own scene.|0.6
+The shapes we talked about last time are real.|0.8
+But God's story starts out in a garden, with a man who's been handed a job,|0.3
+and it ends with Jesus putting right everything that man broke.|0.8
+And that garden is right where we're headed when we're back together.|1.3
+
+# SECTION: The Light That Holds
+[warmly] Alright. Time to square it up.|0.7
+Here it is in one breath.|0.65
+Every man steers by something,|0.3
+and most of what we measure by drifts.|0.65
+Dad. The men around you. The culture. How you feel. How you're doing.|0.6
+They feel like north until you find out they're drifting too.|0.6
+God's Word is the one thing that holds still,|0.3
+and when your life and the string disagree, the string wins.|1.3
+My hope for you leaving here doesn't take long to say.|0.75
+I hope you can say out loud what you've actually been measuring yourself by.|0.75
+And I hope you open Mark tomorrow morning,|0.25
+read one section, and write one line.|0.75
+That's it. Not a life plan. A lamp, and one step.|0.8
+And I hope you remember who's holding the string.|0.55
+It's not a foreman with a clipboard.|0.55
+It's your Father, and He's not tapping His foot while you learn.|1.25
+So, here's what to work on at your table.|0.6
+First.|0.4
+What's actually been your yardstick this year?|0.6
+Was it your dad, the guys you compare yourself to, the culture, your moods, or how well things are going?|0.55
+Use a full sentence, not a shrug.|0.75
+Second.|0.55
+Where has that moving light pulled you lately?|0.65
+A decision, a fight, a habit. Something real.|0.8
+Third.|0.5
+Will you read a stretch of Mark every day for the next few days,|0.25
+out loud if you can,|0.3
+and jot down one line each time on what it's asking of you as a man?|0.6
+And fourth.|0.55
+Tell one brother which light you've been steering by.|0.75
+Then read him a verse from what you read,|0.3
+say what it would cost to obey it,|0.35
+and tell him straight whether you did.|1.2
+Alright, men. The tables are right there.|0.8
+Go find the light that doesn't go anywhere.|1.3

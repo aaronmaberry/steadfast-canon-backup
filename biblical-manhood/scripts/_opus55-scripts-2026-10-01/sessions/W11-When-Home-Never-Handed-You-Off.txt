@@ -1,0 +1,424 @@
+# SECTION: Silver Pickup
+Hey, good to see you. Have a seat.|0.8
+Somebody left their headlights on out in the lot.|0.55
+Silver pickup.|0.5
+So that narrows it down to, let's say, about half of you.|ROOM_CHUCKLE
+Go ahead, I'll wait. Nobody wants to push a truck today.|0.55
+Especially not uphill, in the rain, in front of everybody.|1.0
+Alright. Last go-round, we camped on a single word.|0.7
+Father.|0.4
+Every man walks in carrying his own picture of that word,|0.35
+and most of us got it from whoever sat at the end of our table.|0.7
+Some of those pictures were empty, some were quiet,|0.35
+some were scary, and some were good but tired.|0.75
+And we said God isn't a better version of your dad.|0.8
+Your dad was the copy. God's the original.|0.55
+To find out what the original is like, you watch Jesus.|0.8
+And He's the kind who stays.|0.7
+He's out at the end of the road watching for you, and He runs.|1.05
+Then I gave you a homework assignment a lot of you thought was strange.|0.6
+Every morning, before you got out of bed,|0.25
+talk to Him by that name, out loud, one sentence.|0.7
+I heard from a couple of guys who made it all seven days.|0.75
+I heard from more guys who made it to about Thursday.|0.8
+That's alright. You start again.|0.75
+He's not grading your attendance.|0.75
+And I wanted you to tell a brother which wrong picture you'd been praying at,|0.3
+and let him pray over you on the spot, no interrupting.|0.75
+More than one of you said that part was the one that got you.|0.6
+Good. That means you actually did it.|0.6
+Today we take the next step.|0.65
+Because knowing God's your Father is one thing.|0.55
+Knowing you're a man, counted in, handed off, is another.|1.3
+
+# SECTION: The Time Zone
+Let me ask you a question, and you don't have to answer it out loud.|0.75
+What day did you become a man?|0.55
+Not your birthday. Not the day you could vote.|0.65
+The day somebody looked at you and said, you're one of us now.|0.6
+Most guys in here go quiet on that one, and then they start doing math.|0.8
+Look, I'm not trying to embarrass anybody.|0.8
+I'm just telling you what usually happens when you ask it.|1.25
+Most of us crossed over the way you cross a time zone on a long drive.|0.75
+Nothing changes outside the window. No ribbon. Nobody waving.|0.7
+Your phone just quietly decides it's an hour later, and you never felt a thing.|0.8
+Then one day you're the one co-signing on your little brother's car.|0.6
+Then your name's on a jury summons,|0.3
+and you're the guy the neighbors call when the power goes out.|0.65
+Somewhere under all of it, a small voice keeps asking|0.35
+whether anybody ever actually counted you in.|0.55
+You're paying the bills. You're coaching T-ball.|0.75
+And you're still not sure you were ever let in the door.|1.25
+That's what today is about.|0.8
+The handoff.|0.5
+For most of human history, growing up wasn't something a boy figured out alone.|0.6
+The men around him told him, out loud, in front of people,|0.25
+and from then on everybody, him included, knew which side he was on.|0.55
+A lot of us never got that.|0.55
+We got older. We got bigger. We got...|0.7
+bills.|0.65
+But nobody ever handed us across.|1.15
+And here's why it matters, and it's not just about feelings.|0.7
+A guy who's not sure he's a grown man|0.35
+tends to leave the grown-man jobs sitting there.|0.55
+Part of him is still waiting to be told they belong to him.|0.55
+Well, he's not waiting out loud.|0.65
+He'd never say it that way.|0.7
+But it's in how he hangs back, and how he checks,|0.25
+and how he waits on permission he never names.|1.3
+
+# SECTION: Shopping For It
+When nobody walks a boy across, that hunger doesn't just pack up and leave.|0.8
+He goes looking for it anywhere he can find it.|0.65
+And there's plenty out there that looks like the real deal from a distance.|1.1
+Some guys try the gym.|0.65
+If my arms get big enough, nobody can call me a kid.|0.65
+And the mirror's happy to agree with him, for about an hour.|0.65
+Some guys chase a title.|0.8
+Assistant manager. Then manager. Then a name plate on a door.|0.75
+Then a new boss shows up and moves him to a cubicle,|0.35
+and he finds out the whole thing was rented.|0.75
+Some guys go looking for a crowd.|0.55
+He's the one who'll take any dare at the party,|0.3
+and the louder the guys cheer, the more grown he feels.|0.75
+For about one night.|0.5
+And then there's the big gesture.|0.8
+Something loud and expensive, so nobody can miss it.|1.05
+Listen, a buddy of mine named Ernie went the big-gesture route.|0.65
+Nineteen years old, no money,|0.3
+and he bought a motorcycle he couldn't begin to afford.|0.8
+Black, loud, financed at a rate I won't say out loud in here.|0.65
+And he rode it straight over to his dad's place.|0.8
+He told me later he honestly thought his dad would come out on the porch,|0.3
+look at that bike, look at him,|0.3
+and something would just, you know, click into place.|0.55
+His dad came to the door, looked at the bike,|0.35
+and asked him what the payment was.|ROOM_CHUCKLE
+That was it.|0.4
+Ernie sold the bike about four months later.|0.6
+He said he got, what, about half of what he paid.|0.55
+The hole in him was still right where he left it.|1.25
+That's the thing about every counterfeit.|0.75
+You can't sign your own permission slip.|0.8
+You can forge it as neat as you want.|0.6
+It's still your handwriting on the line.|1.3
+
+# SECTION: The Annual Report
+Then there's the quieter counterfeit.|0.7
+I call it the orbit.|0.8
+The man who never left loud.|0.8
+He's like a plane stacked up over the airport he took off from,|0.3
+burning fuel in slow circles, waiting on a tower that never clears him to land.|1.1
+There's a friend of mine named Garrett.|0.8
+Forty-four, married, two boys, a good job he's very good at.|0.75
+And every December, for about twenty years,|0.4
+Garrett wrote his father a Christmas letter.|0.7
+Not a card. A letter.|0.65
+Two pages, typed, sometimes three.|0.7
+What the boys were doing in school.|0.6
+The promotion. The new roof. The trip they took.|0.6
+He'd print it, sign it in blue ink,|0.3
+and mail it right after Thanksgiving so it'd get there early.|0.55
+His wife started calling it the annual report.|0.75
+And you don't want the annual report showing up late.|ROOM_CHUCKLE
+And his dad never wrote back.|0.7
+Not once.|0.55
+Maybe a phone call sometime in February. Got your letter. Roof looks good.|0.7
+That was the whole review.|1.1
+And Garrett would tell you, if you asked him,|0.3
+oh, I just like to keep him in the loop.|0.6
+But he told me the truth one night, sitting on his back steps.|0.6
+He said, see, he said every one of those letters was really a question.|0.55
+Is this enough yet?|0.6
+Am I one of you yet?|0.7
+And every February, the answer was the same.|0.55
+Got your letter.|1.3
+Here's the thing the orbit costs a man.|0.75
+His company made him a vice president.|0.75
+His boys think he hung the moon.|0.6
+And a two-minute phone call from a man two states away|0.35
+still decides whether his whole year counted.|0.6
+That's a lot of power to leave in somebody's mailbox, isn't it?|0.6
+I'll come back to Garrett in a bit.|1.3
+
+# SECTION: She Held It Together
+Now, home isn't only about a father.|0.55
+For a lot of men in here, the house that never sent you out|0.35
+was run by a mother.|0.65
+She learned to throw a spiral in the backyard because nobody else was going to.|0.55
+She worked the late shift and still checked the math homework at the kitchen table.|0.7
+She knew every coach you ever had, and exactly which ones she didn't trust.|0.7
+Maybe she did all of it alone.|0.65
+Honor that. Thank her out loud while you can.|1.0
+So let me be really clear.|0.7
+She's not the bad guy here. Not even close.|0.65
+Plenty of mothers held on tight to a boy|0.25
+because he was the one thing in that house that hadn't left.|0.8
+And because no grown man ever came along to finish what she started.|0.6
+That's a hole in the family, not a sin on her part.|0.55
+She could get him as far as the dock.|0.55
+Putting him on the boat was never supposed to be her job by herself.|1.25
+But here's the hard part.|0.7
+You can't sit around waiting for her to shove you out the door either.|0.7
+If you're a grown man with a mortgage and you can't pick a paint color till she's weighed in,|0.25
+or you run every hard thing in your marriage past her before your wife hears it,|0.3
+that one's yours now.|0.45
+That's not her fault anymore. It's your move.|0.75
+Love her. Take her to lunch on her birthday.|0.75
+Mow her yard if she needs it mowed.|0.55
+And quit waiting on somebody to give you the nod.|1.2
+Single guys, I see you nodding like this one's for the married men.|0.55
+It's not.|0.4
+You can have your own apartment clear across the county|0.3
+and still not make a move until she's said it's alright.|0.8
+Asking her advice is wisdom. Asking her permission is just the orbit again.|0.6
+Sunday dinner is a gift. It's not a hiding place.|0.6
+Just don't move your whole life back in with the casserole.|1.3
+
+# SECTION: Jacob Hangs On
+So, if you want the Bible's clearest picture of a man chasing a counterfeit, it's Jacob.|0.55
+He wanted his father's blessing so bad|0.3
+he put on his brother's clothes,|0.3
+fooled his blind old dad with goat skins and a hot meal,|0.3
+and took off with the words like he'd robbed a store.|0.65
+And for about twenty years after that, he schemed.|0.75
+Worked angles on everybody.|0.4
+His uncle, his wives, his own family.|0.65
+And all that stolen blessing ever got him was a life on the run.|0.65
+He had the words. He never had the thing the words were for.|1.15
+Then one night, alone by a river on the way home,|0.25
+a Man grabs hold of him in the dark, and they wrestle.|0.6
+All night long.|0.45
+And somewhere in there Jacob runs out of tricks,|0.35
+and he just hangs on.|0.7
+Genesis thirty-two, verse twenty-six.|0.6
+Then the man said, "Let me go, for it is daybreak."|0.35
+But Jacob replied, "I will not let you go unless you bless me."|1.45
+Look at what changed.|0.5
+For twenty years, Jacob took things.|0.8
+That night he begged for one.|0.55
+Same man, same hunger, totally different hands.|1.2
+And he got it.|0.4
+A new name. And a limp he carried the rest of his days.|0.6
+Every step he took after that reminded him of the night he quit grabbing.|0.6
+Honestly, I think that limp was part of the blessing.|0.7
+In the morning he limped out to meet the brother he'd cheated,|0.35
+and for once he met him as a man, not a con.|0.75
+God put in his hands, flat on his back in the mud,|0.35
+the very thing he'd spent twenty years...|0.7
+trying to steal.|0.75
+And Jacob had gray in his beard by then.|0.6
+So if you're older than you'd like to be and you're still waiting,|0.35
+this isn't over for you.|0.6
+Some of the best handoffs happen right before the sun comes up.|1.3
+
+# SECTION: A King On His Way Out
+Jacob got it late, and he got it straight from God.|0.8
+But it was supposed to come earlier,|0.3
+and it was supposed to come through men.|0.7
+Watch an old king do it.|0.55
+David is dying.|0.5
+He knows it. Everybody in the palace knows it.|0.8
+And he calls his son Solomon to his bed.|0.65
+First Kings two, starting at verse two.|0.6
+"I am about to go the way of all the earth," he said.|0.6
+"So be strong, act like a man,|0.25
+and observe what the LORD your God requires:|0.45
+Walk in obedience to him,|0.25
+and keep his decrees and commands, his laws and regulations,|0.35
+as written in the Law of Moses.|0.65
+Do this so that you may prosper in all you do|0.25
+and wherever you go.|1.45
+Now, look at what's in that.|0.65
+He doesn't give the boy a pep talk.|0.65
+He gives him an order, be strong, and then the whole country to run.|0.65
+And he sets the LORD's commands down in the middle of it, like the keel of a boat.|0.75
+That old king isn't trying to make his son feel good.|0.75
+He hands him a load, and he tells him who to carry it for.|0.8
+Solomon would remember that bedside the rest of his life.|0.55
+Every hard morning on that throne, he knew what his father put in his hands.|1.25
+And Solomon was young, and he was scared.|0.8
+And not long after, he admitted as much to God.|0.75
+He felt like a boy holding a job built for a grown man.|0.8
+And what had his father told him? Act like a man.|0.7
+Not feel like one first. Act.|0.55
+Doing it is how you grow into it.|0.55
+Most of us think we have to feel ready, and then we'll step up.|0.55
+It almost always works the other way.|0.6
+You step up first, and somewhere down the road|0.3
+your feelings come wandering in behind you, well, out of breath.|1.3
+
+# SECTION: Hands On His Head
+Paul did the same thing for a young man named Timothy.|0.8
+Paul wasn't his dad.|0.55
+Scripture barely says a word about Timothy's father.|0.7
+So Paul stood in that gap, and he didn't make a big show of it.|0.7
+But he was the closest thing Timothy had to one in the faith.|0.6
+And years later, when Timothy was tired and outnumbered and second-guessing everything,|0.35
+Paul wrote him a letter,|0.3
+and sent him right back to a particular day.|0.6
+Second Timothy one, verse six.|0.55
+For this reason I remind you to fan into flame the gift of God,|0.25
+which is in you through the laying on of my hands.|1.45
+Through the laying on of my hands.|0.65
+Paul put his hands on that young man's head.|0.6
+In a room, in front of people.|0.8
+Everybody there knew what it meant without a word of explanation.|0.55
+This one belongs to us now. He's got a job to do.|0.65
+And years later, when it got hard,|0.4
+Timothy could go back and stand in that memory.|0.55
+He knew the day. He knew whose hands.|0.7
+And a fire that's been lit once can be stirred back up.|1.15
+Look, a lot of us never got anything like that.|0.75
+Some of you got the work without the words.|0.7
+You were running the register at the family store at twelve,|0.3
+or splitting the winter's firewood by yourself,|0.25
+and nobody ever once called it a man's job.|0.65
+Some of you got the words without the weight.|0.65
+A buddy of mine, Grady,|0.35
+his dad stood up at his graduation party, raised a glass, and said, my boy's a man now.|0.75
+Everybody cheered.|0.45
+And the next morning his dad still wouldn't let him take the truck to work.|0.65
+Picked his classes for him. Picked his summer job.|0.55
+Grady said...|0.7
+it took him till he was thirty|0.3
+to figure out that toast wasn't a handoff.|0.8
+It was a speech, with nothing put in his hands to back it up.|1.3
+
+# SECTION: Getting It Now
+So what does a grown man do, if nobody ever did it?|0.7
+First thing.|0.4
+The Father goes first.|0.55
+If you're in Christ, He's already settled who you are.|0.75
+Not after you got your act together. Before.|0.55
+You're His son. He loves you. He's glad you're His.|0.7
+The sentence your dad never got around to saying, God said first, and louder.|0.65
+Stand on anything else and sooner or later it gives under you.|1.05
+And if a layoff took your title and your parking spot,|0.3
+and it feels like your manhood went out in the cardboard box with your stapler,|0.3
+hear me on this.|0.55
+An HR department doesn't get the last word on who you are. Your Father does.|0.55
+The load you're carrying at home is still a man's load.|1.0
+Second thing.|0.45
+Find an older man who's actually living what we talk about in here,|0.25
+and say the sentence that'll feel clumsy coming out.|0.6
+Nobody ever told me I'd grown up. Would you be willing to?|0.55
+Or, if that's too much, just ask him straight.|0.6
+Do you see a grown man when you look at me?|0.7
+It'll feel like the most, I mean, the most embarrassing thing you've ever asked anybody.|0.55
+Ask anyway.|0.5
+If he says not yet, take that too, and ask him what he'd need to see.|1.05
+Stay with me, because Grady did exactly that, years later.|0.55
+He caught an older guy from his small group out by the mailboxes after church.|0.7
+The man didn't laugh, and he didn't brush it off.|0.7
+He thought about it for a second, and then he told Grady|0.25
+three things he'd watched him do that only a man does.|0.8
+Grady said he wrote them down in his truck before he forgot a word.|0.6
+He still has the paper.|0.7
+And here's what I've noticed.|0.8
+There are men in their seventies who've been faithful for fifty years,|0.35
+and the only thing anybody ever asks them for is a ride to the airport.|0.55
+You might be doing him a favor too, right?|1.3
+
+# SECTION: A Date In The Front Cover
+Third thing.|0.4
+Let some brothers call you theirs.|0.6
+A man needs more than one voice.|0.75
+If no group of men has ever called you one of theirs,|0.3
+go find one that will.|0.55
+You're sitting in a pretty decent place to start, actually.|0.55
+Men at a table who'll ask how it's going, and then wait for the real answer.|0.65
+That's not a club. That's a family showing up for you.|1.2
+Fourth thing, and this one's straight out of Stop Waiting.|0.7
+Shoulder a grown man's load before you feel up to it.|0.7
+Point that mark right at your own manhood.|0.65
+Lead the prayer at your table even though your voice shakes.|0.75
+Make the call to the bank. Have the talk with your son.|0.65
+Sign up to serve somewhere that needs a grown man.|0.6
+Most men wait to feel like a man before they act like one.|0.8
+The feeling almost always shows up late.|0.6
+It rides in the back seat for a while before it ever asks to drive.|0.7
+Okay, sometimes it shows up very late. But it shows up.|1.1
+And here's the last one.|0.6
+Write down a date.|0.55
+Whatever day it was for you.|0.6
+Maybe it's the day you were baptized.|0.65
+Maybe it's the day an older man finally said it to your face.|0.65
+Or the day you,|0.7
+finally pulled the truck over on some back road|0.3
+and asked God for it yourself, because you didn't know who else to ask.|0.6
+Write it on the first blank page in the front of your Bible.|0.7
+Jacob walked with a hitch from then on, and he never forgot why.|0.65
+You can have a date in ink.|0.6
+So you never again have to wonder if you made it across.|1.3
+I know the date of my baptism.|0.75
+I couldn't tell you what I had for lunch that day.|0.65
+I couldn't tell you what the weather was.|0.75
+But I know that date. And I know whose I was by the end of it.|1.3
+
+# SECTION: When Dad Won't
+Now, some of you are thinking,|0.25
+that's great, Wes, but my dad's never gonna say it.|0.8
+Some fathers never will.|0.55
+And I want you to hear me. That's not a verdict on you.|0.8
+It may be that nobody ever walked him across either.|0.8
+Or it may be that as long as you stay the kid, he gets to stay the big man.|0.8
+You can honor that man and quit orbiting him at the same time.|0.75
+We'll spend real time on the honor part soon enough.|0.6
+You still go see him.|0.65
+But you quit driving over there hoping to finally hear the words.|1.25
+So let me finish Garrett's story.|0.75
+Two winters back, Garrett's pulling out of the church lot in the sleet,|0.35
+and an older man named Harvey is standing by a car that won't turn over.|0.7
+Garrett pulled his truck around and jumped it.|0.8
+And when they were done, Harvey's coiling up the cables,|0.35
+water dripping off his hat,|0.35
+and without even looking up, he says,|0.4
+Garrett, I've watched how you raise those boys.|0.75
+Those two are being raised by a man. I hope somebody's told you that.|0.6
+Garrett said he tried to answer him... and nothing came out.|0.65
+He just nodded and got back in his truck,|0.35
+and sat there with the wipers going for a good ten minutes.|1.15
+That December, the letter to his dad was one line long.|0.55
+Merry Christmas, Dad. I love you.|0.8
+That's it. No report.|0.45
+He wasn't asking anymore. He'd been answered.|1.3
+And older men, this part's for you.|0.65
+You've seen it in some younger guy, and you've kept your mouth shut.|0.75
+Say it. You don't need a stage.|0.7
+Tell him one thing you've, look, you've actually seen him do. Be specific.|0.55
+Specific is what a young man remembers twenty years later.|0.55
+You can say it holding a set of jumper cables.|1.3
+
+# SECTION: Nobody Hands Himself Off
+[warmly] So, here's where all of that lands.|0.65
+If you remember one sentence from today, make it this one.|0.55
+Nobody hands himself off.|0.4
+Not with a title, not with a crowd, not with a motorcycle.|0.55
+In Christ, your Father has already settled the question.|0.65
+And He still puts men near you who'll say it to your face.|0.75
+So go find one. And then be one.|0.65
+And if you've got a son, he's the first one to tell.|0.7
+Nobody walked you across? You can still walk your own boy across.|0.7
+And somehow saying it to him mends a place in you that hearing it never reached.|1.0
+My hope is you leave with two things in your pocket.|0.65
+The name of the man you're going to ask, or the man you're going to tell.|0.75
+And a date written in the front of your Bible.|0.6
+And if you're older, and nobody ever said it to you, hear this.|0.6
+It is not too late to be told. Gray hair doesn't disqualify you.|1.2
+Your group's going to work through three of these.|0.75
+One.|0.5
+Has anybody ever counted you in? Who, and when?|0.55
+And if the honest answer is nobody, say so.|0.7
+Then tell them how you handled that.|0.7
+Did you leave loud, start circling, or never really leave Mom's kitchen?|0.6
+Two.|0.45
+If you're the younger man, who's the older man you're going to ask,|0.35
+do you see a grown man when you look at me?|0.55
+And if you're the older man, which younger guy are you going to tell,|0.35
+and what's one thing you've watched him do that tells you he's grown?|0.55
+Three.|0.55
+Tell a brother whether anybody ever counted you in.|0.6
+Show him where the date's going in your Bible, and tell him why that day.|1.0
+Go on back to your tables now.|0.7
+Somebody at yours has been waiting years to be told.|1.3
