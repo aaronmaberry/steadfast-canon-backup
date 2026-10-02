@@ -2,7 +2,7 @@
 
 Roy's alarm goes off at 5:30. He's seventy-two. For thirty-one years that alarm meant a pressed uniform and a state trooper's badge, and now there's nothing to pin on and nowhere he has to be. If he rolled over and slept till nine, not one person in the county would notice. So the question sitting in the dark with him is bigger than it looks: will these last years be a slow walk to the exit, or the most useful stretch of his whole life? He gets up. He makes the coffee. Hang on to that. It'll matter later.
 
-Walt is fifty-five. He built his company from one truck to eleven. Every evening around 6:15 there's a fork in the road. Lock up and go cook supper, or give it one more hour because the shop is quieter than the house. For twenty years he took the hour. Never in a meeting, never out loud. An hour here, an hour there, and the staying made the decision for him.
+Walt is fifty-five. He built his company from one truck to eleven. Every evening around 6:15 there's a fork in the road. Lock up and go cook supper, or give it one more hour because the shop is quieter than the house. For twenty years he took the hour. He never decided it in a meeting, never out loud. An hour here, an hour there, and the staying made the decision for him.
 
 Tomás is twenty-nine, with a baby who won't sleep. At two in the morning the crying starts, then he feels the mattress shift as his wife begins to get up, and every tired cell in him votes for lying still. That two o'clock is his marriage, more than any trip they're saving for.
 
@@ -24,7 +24,7 @@ I've quit expecting the big days to do the building. A big day is a mile marker.
 
 Plenty of us have driven home from a men's conference ready to change the world and been back in the recliner within two weeks. I know that chair well. We stopped to admire the marker and never drove the miles.
 
-Big days have one more problem. Everyone's watching. Weddings and baptisms and gravesides come with a script, and most of us can hit our marks with an audience. The truer test is the empty room, where nobody would ever find out whether he made that call, kept that drawer shut, told that small truth. Tuesday has no audience. That's precisely why it counts.
+Big days have one more problem. Everyone's watching. Weddings and baptisms and gravesides come with a script, and most of us can hit our marks with an audience. The truer test is the empty room, where nobody would ever find out whether a man made the call, kept the drawer shut, told the small truth. Tuesday has no audience. That's precisely why it counts.
 
 ## Anthony, 8:40 p.m.
 
@@ -53,7 +53,7 @@ Whoever can be trusted with very little can also be trusted with much, and whoev
 
 "Very little" sounds a lot like Tuesday. A voicemail. A recliner. A kiss aimed at the side of a head. Jesus says that's where trust gets built or lost, long before anything big is on the line. The quiet stuff is the workbench. The man who'll hold steady in some hard room ten years from now is getting made there, or he isn't.
 
-He tells a story about two houses, too. Notice what made the difference.
+Jesus tells a story about two houses, too. Notice what made the difference.
 
 :::margin
 **Matthew 7:24 NIV**
@@ -74,7 +74,7 @@ The noon part was on the shelf, because he'd ordered it the afternoon before. An
 
 That night he caught himself stalling in the doorway and kept walking. Phone face down on the counter. He looked at her when he kissed her. After bedtime they took their ten minutes about the money, and when he felt the urge to win, he let it go. Dishes. A short, clumsy prayer, his palm resting between her shoulder blades. Sleep.
 
-There's a seven-year-old in that house, and she watches her dad's face whenever her mom comes into the room. She couldn't name what changed. Something did, in maybe six places, each one under two minutes. Multiply that by ten thousand Tuesdays and she grows up with a different picture of what a husband looks like when his wife walks in.
+There's a seven-year-old in that house, and she watches her dad's face whenever her mom comes into the room. She couldn't name what changed. Something did, in maybe six places, each choice over in a few seconds. Multiply that by every Tuesday until she leaves home and she grows up with a different picture of what a husband looks like when his wife walks in.
 
 That's really all this book is after. Find out what a man does on an ordinary day, and then do it again.
 
@@ -103,7 +103,7 @@ _______________________________________________
 
 **Do this week**
 
-Because small things done again are what shape a man. Take one of those two spots and handle it differently next Tuesday. Pick up when he calls. Leave the phone face down through supper. Sit at the counter for the ten minutes.
+Because small things done again are what shape a man. Take one of those two spots and handle it differently next Tuesday. Pick up the call you'd usually let ring out. Leave the phone face down through supper. Sit at the counter for the ten minutes.
 
 :::notes
 _______________________________________________

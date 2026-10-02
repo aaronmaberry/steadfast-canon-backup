@@ -58,6 +58,6 @@ This book can stand by itself. Read it, do one thing a week, and find one other 
 
 If there's no other man yet, don't wait for him to start. Write it down. Tell God. Your brother can catch up when he shows up.
 
-We also built a twenty-four-week training on the same backbone: videos, printable guides, and a class that a church, a small group, or one man on his own can run. There's a short map of those weeks in the back of this book, and the full guide is at walksteadfast.com. The book is the book and the training is the training. Use either. Use both. Just don't binge four chapters on a Saturday and call it done.
+We also built a twenty-four-session training on the same backbone: videos, printable guides, and a class that a church, a small group, or one man on his own can run. There's a short map of those sessions in the back of this book, and the full guide is at walksteadfast.com. The book is the book and the training is the training. Use either. Use both. Just don't binge four chapters on a Saturday and call it done.
 
 Get your coffee and pull up a chair. Let me tell you about a Tuesday.
