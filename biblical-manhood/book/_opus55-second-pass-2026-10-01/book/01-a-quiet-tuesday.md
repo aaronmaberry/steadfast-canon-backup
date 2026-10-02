@@ -18,11 +18,11 @@ They didn't build me, though. What built me was the long gray stretch between th
 
 So here's the claim this book stands on. A man's life is decided on Tuesdays. Not Sunday, when he knows where to stand and what to sing. Not the Saturday he takes his kid fishing and gets to feel like a dad all afternoon. Tuesday. Nothing on the calendar. Nobody keeping notes. He gets home spent, the house is already loud, and somewhere before bed there's a sentence he'll say or swallow, a call he'll return or let go cold, a dead porch bulb he'll swap tonight or leave for next week. That's the stuff.
 
-## A flare isn't a frame
+## Markers aren't miles
 
-I've quit expecting the big days to do the building. A big day is a flare. It gathers up everything you feel and hope and holds it up in front of people who love you. God made us to need those, and before this book is done I'll ask you to give your son one. But nobody lives inside a flare. What actually marks a man is the thing he does a few thousand times, the way a callus comes from mornings nobody photographed.
+I've quit expecting the big days to do the building. A big day is a mile marker. You see it coming, you might pull over and take a picture, and it tells you how far you've come. God made us to need those, and before this book is done I'll ask you to give your son one. But a marker never moved a truck one foot. The miles did that, and nobody takes a picture of a mile. What actually marks a man is the thing he does a few thousand times, the way a callus comes from mornings nobody photographed.
 
-Plenty of us have driven home from a men's conference ready to change the world and been back in the recliner within two weeks. I know that chair well. We burned the flare and never framed a thing.
+Plenty of us have driven home from a men's conference ready to change the world and been back in the recliner within two weeks. I know that chair well. We stopped to admire the marker and never drove the miles.
 
 Big days have one more problem. Everyone's watching. Weddings and baptisms and gravesides come with a script, and most of us can hit our marks with an audience. The truer test is the empty room, where nobody would ever find out whether he made that call, kept that drawer shut, told that small truth. Tuesday has no audience. That's precisely why it counts.
 

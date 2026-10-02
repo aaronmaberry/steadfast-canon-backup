@@ -1,22 +1,28 @@
 # 2. You Are Not Crazy
 
-He pushed his plate to the side of the diner table and barely touched it after that. Somewhere in the middle of his working years, good at his job, the kind of man people call when a project's on fire. We'd been talking a few minutes when he started counting on his fingers. Six different sets of instructions for being a man, gathered over a lifetime, and every one of them canceled the other five. He'd been trying to obey all six at once, as if they added up to one plan.
+Most men I know can't get a clear look at what a man is supposed to be, and it isn't because they're slow or don't care. Three things stand in the way. They've been handed too many instructions, and the instructions fight each other. Almost nobody older ever sat them down and drew them one clear picture. And somewhere along the way they decided the confusion was their own fault, so they quit asking out loud.
+
+That's why so many good men feel lost inside a life that looks fine from the street. So here's what I want you to hear first. You're not crazy. The confusion is real, and much of it comes from outside you. The gap you feel is an actual gap.
+
+## Counting on his fingers
+
+A man I'll call Garrett laid the whole thing out for me over breakfast at a diner. He's somewhere in the middle of his working years, good at his job, the kind of man people call when a project's on fire. A few minutes in, he pushed his plate to the side and barely touched it after that. Then he started counting on his fingers. Six different sets of instructions for being a man, gathered over a lifetime, and every one of them canceled the other five. He'd been trying to obey all six at once, as if they added up to one plan.
 
 He wasn't angry. He was tired, the kind of tired that comes from chasing a target somebody keeps moving while somebody else keeps score. One voice had told him manhood was a costume he could take off. Another said it was the deepest thing in him. A third said he got to decide what it meant. A fourth said it had been decided long ago and he was flunking. Church had handled him as a problem to manage, the locker room as an appetite to feed. After enough years of that he'd started to wonder if the fog was out in the world or if he'd brought it in himself, folded up in his coat pocket.
 
-What I told him across that table is what I want you to hear first. You're not crazy. The confusion is real, and much of it comes from outside you. The gap you feel is an actual gap.
+I told him across that table what I just told you. He wasn't crazy. Neither are you.
 
 ## What it does to a man
 
-I knew every word he said, because I'd been living off my own pile for years. Be strong. Wait, be gentle. Take the lead. Wait, step back. That push inside me was a threat, right up until the day I sat on it, and then sitting on it was the reason home felt like a cold room. I knew the pile by heart. It never got me through one ordinary Wednesday.
+I knew every word Garrett said, because I've carried my own pile. Be strong. Wait, be gentle. Take the lead. Wait, step back. That push inside me was a threat, right up until the day I sat on it, and then sitting on it was the reason home felt like a cold room. I knew the pile by heart. It never got me through one ordinary Wednesday.
 
 Crossed instructions do a few things to a man, and I've got the marks of each.
 
 They lock him up. When somebody has condemned every direction, holding still feels like the only safe move. A lot of what we call passivity in men is exactly this freeze. I've been the man on the tailgate with the tools still zipped in the bag, telling myself a man that unsure had no business touching anything. It sounded humble. The bag never got unzipped.
 
-They make him a performer. I learned the costume changes young. One face on Sunday, one at the job, one for the guys after work, one when I walked in my own door. Whoever woke up that morning kept getting replaced by whoever the room seemed to want. Nobody can do that all week and stay full. Under the costumes is a man who never got a picture solid enough to keep, so he borrows one from whoever's nearest.
+They make him a performer. I know the costume changes. One face on Sunday, one at the job, one for the guys after work, one when he walks in his own door. Whoever woke up that morning keeps getting replaced by whoever the room seems to want. Nobody can do that all week and stay full. Under the costumes is a man who never got a picture solid enough to keep, so he borrows one from whoever's nearest.
 
-And they leave him ashamed, and shame shuts a man's mouth. Hand him orders he can't keep, orders at war with each other, and he'll convict himself every time. A low hum starts up under everything. He won't mention it, sure that once it's said out loud the verdict is final. The man in that booth had the hum. So did I. Most of the men I know have it. It's the noise a decent man makes while trying to please six maps before the weekend.
+And they leave him ashamed, and shame shuts a man's mouth. Hand him orders he can't keep, orders at war with each other, and he'll convict himself every time. A low hum starts up under everything. He won't mention it, sure that once it's said out loud the verdict is final. Garrett had the hum. So did I. Most of the men I know have it. It's the noise a decent man makes while trying to please six maps before the weekend.
 
 ## Six maps
 
