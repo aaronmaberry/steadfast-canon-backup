@@ -5,6 +5,7 @@ Script lives in book/tools/ and is never deleted by the build.
 from __future__ import annotations
 
 import json
+import os
 import re
 import shutil
 import uuid
@@ -49,6 +50,28 @@ BOTTOM = 0.68 * inch
 BODY_SIZE = 10.5
 BODY_LEADING = 14.4
 TITLE_SIZE = 20
+
+# In-chapter section heads (2026-10-02, Aaron: smaller, lighter, tighter). Color unchanged (NAVY).
+# Was Libre-Bold 11.5/16 (h2) and 10.5/14 (h3), 10 pt above / 6 pt below.
+HEAD_FONT = "Libre-Medium"
+HEAD_SIZE = {2: 11.0, 3: 10.5}
+HEAD_LEADING = {2: 14.0, 3: 13.0}
+HEAD_ABOVE = {2: 7.0, 3: 5.0}
+HEAD_BELOW = {2: 3.0, 3: 2.0}
+
+# Opener placement (2026-10-02 review). Default = current house style: every opener on a recto.
+# STEADFAST_OPEN_ANY=chapters -> chapters/intro/back-matter sections open on the next page;
+#                               part pages stay recto with a blank back.
+# STEADFAST_OPEN_ANY=all      -> part pages too.
+_OPEN_ANY = os.environ.get("STEADFAST_OPEN_ANY", "").strip().lower()
+
+
+def _force_recto(kind: str) -> bool:
+    if _OPEN_ANY == "all":
+        return False
+    if _OPEN_ANY == "chapters":
+        return kind == "part"
+    return True
 MARGIN_SIZE = 8.5
 MARGIN_LEADING = 11.0
 
@@ -636,17 +659,17 @@ class Ebook:
         clean = clean_inline_md(text)
         if not clean:
             return
-        size = 11.5 if level <= 2 else 10.5
-        leading = 16 if level <= 2 else 14
-        self.y -= 10 if level <= 2 else 7
-        self.ensure(leading + 6)
+        lv = 2 if level <= 2 else 3
+        size, leading = HEAD_SIZE[lv], HEAD_LEADING[lv]
+        self.y -= HEAD_ABOVE[lv]
+        self.ensure(leading + 6 + 2 * BODY_LEADING)  # keep the head with at least two body lines
         self.c.setFillColorRGB(*NAVY)
-        self.c.setFont("Libre-Bold", size)
-        for ln in self.wrap(no_em(clean), "Libre-Bold", size, self.measure):
+        self.c.setFont(HEAD_FONT, size)
+        for ln in self.wrap(no_em(clean), HEAD_FONT, size, self.measure):
             self.ensure(leading)
             self.c.drawString(self.left, self.y - size, ln)
             self.y -= leading
-        self.y -= 6 if level <= 2 else 4
+        self.y -= HEAD_BELOW[lv]
 
     def image(self, path: Path, max_w: float | None = None, max_h: float | None = None) -> None:
         if not path.exists():
@@ -957,8 +980,8 @@ class Ebook:
     def page_intro(self) -> None:
         title, num, blocks = parse_md(BOOK / "00-introduction.md")
         self.running = "Introduction"
-        self.advance(blank_if_verso=True)
-        if not self.on_recto:
+        self.advance(blank_if_verso=_force_recto("intro"))
+        if not self.on_recto and _force_recto("intro"):
             self.advance()
         self.page_map["Introduction"] = self.folio
         self.tracked("INTRODUCTION", self.left, self.y - 8, "Libre-Bold", 8, ACCENT, 2.4)
@@ -987,8 +1010,8 @@ class Ebook:
         """Back-matter section (About / Condensed) — intro-style opener, no CHAPTER N."""
         title, _num, blocks = parse_md(BOOK / filename)
         self.running = title
-        self.advance(blank_if_verso=True)
-        if not self.on_recto:
+        self.advance(blank_if_verso=_force_recto("section"))
+        if not self.on_recto and _force_recto("section"):
             self.advance()
         self.page_map[title] = self.folio
         self.tracked(label.upper(), self.left, self.y - 8, "Libre-Bold", 8, ACCENT, 2.4)
@@ -1022,9 +1045,10 @@ class Ebook:
 
     def part_page(self, label: str, subtitle: str) -> None:
         self.running = label
-        self.advance(blank_if_verso=True)
-        if not self.on_recto:
+        self.advance(blank_if_verso=_force_recto("part"))
+        if not self.on_recto and _force_recto("part"):
             self.advance()
+        self._after_part = _force_recto("part")  # part page keeps a blank back; next chapter opens recto
         cx = (self.left + self.right) / 2
         self.y = PAGE_H / 2 + 36
         self.c.setFillColorRGB(*ACCENT)
@@ -1042,8 +1066,10 @@ class Ebook:
 
     def chapter_open(self, num: int, title: str) -> None:
         self.running = title
-        self.advance(blank_if_verso=True)
-        if not self.on_recto:
+        recto = _force_recto("chapter") or getattr(self, "_after_part", False)
+        self._after_part = False
+        self.advance(blank_if_verso=recto)
+        if not self.on_recto and recto:
             self.advance()
         self.page_map[f"{num}. {title}"] = self.folio
         self.page_map[str(num)] = self.folio
