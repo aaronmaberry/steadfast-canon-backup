@@ -1,0 +1,3049 @@
+[
+ {
+  "n": 1,
+  "spk": "JONATHON",
+  "text": "For two years I took 1604 home at six-fifteen, on purpose, to miss bath time.",
+  "tts": "For two years I took sixteen-oh-four home at six-fifteen, on purpose, to miss bath time.",
+  "chapter": "Cold open",
+  "pre": 1.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": [
+   "action",
+   "chapter"
+  ]
+ },
+ {
+  "n": 2,
+  "spk": "WES",
+  "text": "1604 at six-fifteen is a parking lot.",
+  "tts": "sixteen-oh-four at six-fifteen is a parking lot.",
+  "pre": 0.0,
+  "lead": 0.6,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 3,
+  "spk": "JONATHON",
+  "text": "I picked the parking lot. Then one night my wife goes, \"Since when do you like 1604?\"",
+  "tts": "I picked the parking lot. Then one night my wife goes, \"Since when do you like sixteen-oh-four?\"",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 4,
+  "spk": "WES",
+  "text": "This is Walk Steadfast. I'm Wes Hart. I've sat at tables with men for twenty-some years.",
+  "tts": "This is Walk Steadfast. I'm Wes Hart. I've sat at tables with men for twenty-some years.",
+  "chapter": "Intro",
+  "pre": 1.2,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": [
+   "action",
+   "sting",
+   "chapter",
+   "action"
+  ]
+ },
+ {
+  "n": 5,
+  "spk": "JONATHON",
+  "text": "I'm Jonathon. I came to faith at twenty-nine, the year I met Wes.",
+  "tts": "I'm Jonathon. I came to faith at twenty-nine, the year I met Wes.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 6,
+  "spk": "WES",
+  "text": "Starting today, twice a week, we talk straight about following Jesus as a man.",
+  "tts": "Starting today, twice a week, we talk straight about following Jesus as a man.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 7,
+  "spk": "JONATHON",
+  "text": "Wes wrote a book called Steadfast Men, and a video training goes with it. Both are at walksteadfast.com.",
+  "tts": "Wes wrote a book called Steadfast Men, and a video training goes with it. Both are at walk steadfast dot com.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 8,
+  "spk": "WES",
+  "text": "Today we ask why good intentions don't make it to Tuesday.",
+  "tts": "Today we ask why good intentions don't make it to Tuesday.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 9,
+  "spk": "JONATHON",
+  "text": "Episode one.",
+  "tts": "Episode one.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 10,
+  "spk": "WES",
+  "text": "Tuesday, January fifth, twenty twenty-seven.",
+  "tts": "Tuesday, January fifth, twenty twenty-seven.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 11,
+  "spk": "JONATHON",
+  "text": "The Man You Keep Saying You'll Be.",
+  "tts": "The Man You Keep Saying You'll Be.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 12,
+  "spk": "WES",
+  "text": "Pull up a chair.",
+  "tts": "Pull up a chair.",
+  "chapter": "Pull up a chair",
+  "pre": 1.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": [
+   "chapter"
+  ]
+ },
+ {
+  "n": 13,
+  "spk": "JONATHON",
+  "text": "Sorry. Sorry. My daughter just texted me \"good luck daddy\" and a picture of a dog.",
+  "tts": "Sorry. Sorry. My daughter just texted me \"good luck daddy\" and a picture of a dog.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 14,
+  "spk": "WES",
+  "text": "You don't have a dog.",
+  "tts": "You don't have a dog.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 15,
+  "spk": "JONATHON",
+  "text": "We don't have a dog. I think it's a negotiation.",
+  "tts": "We don't have a dog. I think it's a negotiation.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 16,
+  "spk": "WES",
+  "text": "Well. Welcome. This is the first one, so I want to tell you what's going to happen today, because it's a little longer than what we'll normally do.",
+  "tts": "Well. Welcome. This is the first one, so I want to tell you what's going to happen today, because it's a little longer than what we'll normally do.",
+  "pre": 0.9,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": [
+   "laugh"
+  ]
+ },
+ {
+  "n": 17,
+  "spk": "JONATHON",
+  "text": "A little.",
+  "tts": "A little.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 18,
+  "spk": "WES",
+  "text": "A little. Three things. First, who we are. You should know who you're sitting with. Then we're going to actually do the thing. A real conversation. About Tuesdays. And before we let you go, what this whole thing is, the book, the training, the website, all of it, laid out once so you never have to wonder.",
+  "tts": "A little. Three things. First, who we are. You should know who you're sitting with. Then we're going to actually do the thing. A real conversation. About Tuesdays. And before we let you go, what this whole thing is, the book, the training, the website, all of it, laid out once so you never have to wonder.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 19,
+  "spk": "JONATHON",
+  "text": "About one Tuesday in particular, which is today.",
+  "tts": "About one Tuesday in particular, which is today.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 20,
+  "spk": "WES",
+  "text": "Which is today. And the question underneath all of it is pretty simple.",
+  "tts": "Which is today. And the question underneath all of it is pretty simple.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 21,
+  "spk": "WES",
+  "text": "What kind of man are you on a regular day? Not your best day. Not the day with the pictures. A Tuesday.",
+  "tts": "What kind of man are you on a regular day? Not your best day. Not the day with the pictures. A Tuesday.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 22,
+  "spk": "JONATHON",
+  "text": "And I'll tell you right now, my answer to that question was bad for a long time.",
+  "tts": "And I'll tell you right now, my answer to that question was bad for a long time.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 23,
+  "spk": "WES",
+  "text": "Mine too.",
+  "tts": "Mine too.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 24,
+  "spk": "WES",
+  "text": "And if you're twenty-two and nobody's waiting on you at home, stay. Your Tuesday's in here too. We'll get to you before the half.",
+  "tts": "And if you're twenty-two and nobody's waiting on you at home, stay. Your Tuesday's in here too. We'll get to you before the half.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 25,
+  "spk": "JONATHON",
+  "text": "We'll get there. But first, people need to know who you are, and you're terrible at talking about yourself.",
+  "tts": "We'll get there. But first, people need to know who you are, and you're terrible at talking about yourself.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 26,
+  "spk": "WES",
+  "text": "I am.",
+  "tts": "I am.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 27,
+  "spk": "JONATHON",
+  "text": "So I'm going to do it, and you can fix whatever I get wrong.",
+  "tts": "So I'm going to do it, and you can fix whatever I get wrong.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 28,
+  "spk": "WES",
+  "text": "Go ahead.",
+  "tts": "Go ahead.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 29,
+  "spk": "JONATHON",
+  "text": "Okay, so. This is Wes Hart. He's fifty-two years old.",
+  "tts": "Okay, so. This is Wes Hart. He's fifty-two years old.",
+  "chapter": "Who is Wes Hart",
+  "pre": 1.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": [
+   "chapter"
+  ]
+ },
+ {
+  "n": 30,
+  "spk": "JONATHON",
+  "text": "Wes lives out in the Hill Country, west of San Antonio, on a few acres, in a town he won't let me say on the air.",
+  "tts": "Wes lives out in the Hill Country, west of San Antonio, on a few acres, in a town he won't let me say on the air.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 31,
+  "spk": "WES",
+  "text": "Correct.",
+  "tts": "Correct.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 32,
+  "spk": "JONATHON",
+  "text": "He's been married twenty-seven years. He's got three kids. A daughter who's twenty-five, married, teaches second grade. A son who's twenty-one, finishing up an electrical apprenticeship. And a sixteen-year-old who just got his license, which is why Wes looks like that.",
+  "tts": "He's been married twenty-seven years. He's got three kids. A daughter who's twenty-five, married, teaches second grade. A son who's twenty-one, finishing up an electrical apprenticeship. And a sixteen-year-old who just got his license, which is why Wes looks like that.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 33,
+  "spk": "WES",
+  "text": "He drives like he's late for something. He's never late for anything. He's got nowhere to be. He just drives like it.",
+  "tts": "He drives like he's late for something. He's never late for anything. He's got nowhere to be. He just drives like it.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 34,
+  "spk": "JONATHON",
+  "text": "You rode with him?",
+  "tts": "You rode with him?",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 35,
+  "spk": "WES",
+  "text": "I rode with him Saturday. I held the handle above the door the whole way to the feed store. The handle's there for a reason. I found the reason.",
+  "tts": "I rode with him Saturday. I held the handle above the door the whole way to the feed store. The handle's there for a reason. I found the reason.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 36,
+  "spk": "JONATHON",
+  "text": "And what does Wes do for a living? I've known this man seven years.",
+  "tts": "And what does Wes do for a living? I've known this man seven years.",
+  "pre": 0.9,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": [
+   "laugh"
+  ]
+ },
+ {
+  "n": 37,
+  "spk": "WES",
+  "text": "I work.",
+  "tts": "I work.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 38,
+  "spk": "JONATHON",
+  "text": "He works.",
+  "tts": "He works.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 39,
+  "spk": "WES",
+  "text": "Same as you. I get up early, I come home tired, my truck has too many miles on it. That's all anybody needs.",
+  "tts": "Same as you. I get up early, I come home tired, my truck has too many miles on it. That's all anybody needs.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 40,
+  "spk": "JONATHON",
+  "text": "That's going to be a running thing. People are going to ask in the comments.",
+  "tts": "That's going to be a running thing. People are going to ask in the comments.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 41,
+  "spk": "WES",
+  "text": "Let them ask.",
+  "tts": "Let them ask.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 42,
+  "spk": "JONATHON",
+  "text": "Okay. Here's the part that matters, though. For twenty-something years, Wes has been sitting across tables from men. Kitchen tables, church fellowship halls, deer camp.",
+  "tts": "Okay. Here's the part that matters, though. For twenty-something years, Wes has been sitting across tables from men. Kitchen tables, church fellowship halls, deer camp.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 43,
+  "spk": "WES",
+  "text": "Deer camp's the best one. Nobody can leave.",
+  "tts": "Deer camp's the best one. Nobody can leave.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 44,
+  "spk": "JONATHON",
+  "text": "And a couple years ago he wrote down what he'd learned at all those tables, and that's the book. We'll get to the book. That's my version. Now fix it.",
+  "tts": "And a couple years ago he wrote down what he'd learned at all those tables, and that's the book. We'll get to the book. That's my version. Now fix it.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 45,
+  "spk": "WES",
+  "text": "That's mostly right. You left out the part where I wasn't any good at this for a long time.",
+  "tts": "That's mostly right. You left out the part where I wasn't any good at this for a long time.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 46,
+  "spk": "JONATHON",
+  "text": "I was getting there.",
+  "tts": "I was getting there.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 47,
+  "spk": "WES",
+  "text": "You were being nice. I grew up on my granddad's place. My dad was a steady man. Quiet. He was at every game I ever played, and he almost never said what he felt. I loved him. He loved me. I knew that. But the first time I heard him say \"I'm proud of you,\" he was in a hospital bed, and I was forty-three.",
+  "tts": "You were being nice. I grew up on my granddad's place. My dad was a steady man. Quiet. He was at every game I ever played, and he almost never said what he felt. I loved him. He loved me. I knew that. But the first time I heard him say \"I'm proud of you,\" he was in a hospital bed, and I was forty-three.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 48,
+  "spk": "WES",
+  "text": "He died nine years ago. And I want to be careful here, because that's not a sad story about a bad dad. He was a good dad. It's a different kind of ache. A good man who never said it out loud. I've met a lot of men with that one.",
+  "tts": "He died nine years ago. And I want to be careful here, because that's not a sad story about a bad dad. He was a good dad. It's a different kind of ache. A good man who never said it out loud. I've met a lot of men with that one.",
+  "pre": 0.8,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": [
+   "action"
+  ]
+ },
+ {
+  "n": 49,
+  "spk": "JONATHON",
+  "text": "Yeah.",
+  "tts": "Yeah.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 50,
+  "spk": "WES",
+  "text": "And then my thirties. I had a decent job, I coached Little League, I sat in the third row at church every Sunday. And I was gone. In my own living room. My wife has a name for those years.",
+  "tts": "And then my thirties. I had a decent job, I coached Little League, I sat in the third row at church every Sunday. And I was gone. In my own living room. My wife has a name for those years.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 51,
+  "spk": "JONATHON",
+  "text": "The fog years.",
+  "tts": "The fog years.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 52,
+  "spk": "WES",
+  "text": "The fog years. She saw it before I did. I want that on the record early. She saw it first, and she was patient a lot longer than I deserved.",
+  "tts": "The fog years. She saw it before I did. I want that on the record early. She saw it first, and she was patient a lot longer than I deserved.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 53,
+  "spk": "WES",
+  "text": "And I know that's not how it goes for every man. Some of you, she stopped asking, and then she left. I'm not going to pretend my ending is the only one. You've got a chair here too.",
+  "tts": "And I know that's not how it goes for every man. Some of you, she stopped asking, and then she left. I'm not going to pretend my ending is the only one. You've got a chair here too.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 54,
+  "spk": "JONATHON",
+  "text": "And then the man with the mug.",
+  "tts": "And then the man with the mug.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 55,
+  "spk": "WES",
+  "text": "And then the man with the mug. When I was thirty-six, I went to a men's breakfast I didn't want to go to, and there was an older man there. I call him Mr. Abernathy. Everybody did. He'd been a lineman for the power company forty years. And he looked across that table at me, didn't know me from anybody, and asked me one question.",
+  "tts": "And then the man with the mug. When I was thirty-six, I went to a men's breakfast I didn't want to go to, and there was an older man there. I call him Mr. Abernathy. Everybody did. He'd been a lineman for the power company forty years. And he looked across that table at me, didn't know me from anybody, and asked me one question.",
+  "pre": 0.8,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": [
+   "action"
+  ]
+ },
+ {
+  "n": 56,
+  "spk": "WES",
+  "text": "\"What are you waiting on?\"",
+  "tts": "\"What are you waiting on?\"",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 57,
+  "spk": "WES",
+  "text": "I didn't have an answer. I had a lot of words. I didn't have an answer.",
+  "tts": "I didn't have an answer. I had a lot of words. I didn't have an answer.",
+  "pre": 0.6,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": [
+   "beat"
+  ]
+ },
+ {
+  "n": 58,
+  "spk": "JONATHON",
+  "text": "And he didn't let it go.",
+  "tts": "And he didn't let it go.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 59,
+  "spk": "WES",
+  "text": "He met me every other Thursday for six years. Same diner. He drank his coffee out of this exact mug, and when he died at eighty-eight, the woman who ran the place wrapped it in a paper towel and handed it to me at the funeral.",
+  "tts": "He met me every other Thursday for six years. Same diner. He drank his coffee out of this exact mug, and when he died at eighty-eight, the woman who ran the place wrapped it in a paper towel and handed it to me at the funeral.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 60,
+  "spk": "JONATHON",
+  "text": "I didn't know that part.",
+  "tts": "I didn't know that part.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 61,
+  "spk": "WES",
+  "text": "I don't tell it much. So that's who I am. I'm a man who wasted some years and got pulled out of it by an old lineman who kept asking a question.",
+  "tts": "I don't tell it much. So that's who I am. I'm a man who wasted some years and got pulled out of it by an old lineman who kept asking a question.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 62,
+  "spk": "JONATHON",
+  "text": "So why are you doing this? Why a show? You could just keep doing the tables.",
+  "tts": "So why are you doing this? Why a show? You could just keep doing the tables.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 63,
+  "spk": "WES",
+  "text": "Because most men never get to a table. I've had the same conversation with hundreds of men, and for every one who sat down, there's ten who would have, if they'd known it existed. And because I'm fifty-two now, and the man who sat with me is gone. Somebody has to pull up the chair.",
+  "tts": "Because most men never get to a table. I've had the same conversation with hundreds of men, and for every one who sat down, there's ten who would have, if they'd known it existed. And because I'm fifty-two now, and the man who sat with me is gone. Somebody has to pull up the chair.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 64,
+  "spk": "JONATHON",
+  "text": "And what do you bring?",
+  "tts": "And what do you bring?",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 65,
+  "spk": "WES",
+  "text": "The long view, I guess. I've been married twenty-seven years, so I've been wrong in most of the ways you can be wrong in a marriage. I've raised three kids, and I've been wrong in all of those ways too. If you're in a season, odds are I've been through it or sat with a man who was. And I'll tell you when I got it wrong. That's the deal.",
+  "tts": "The long view, I guess. I've been married twenty-seven years, so I've been wrong in most of the ways you can be wrong in a marriage. I've raised three kids, and I've been wrong in all of those ways too. If you're in a season, odds are I've been through it or sat with a man who was. And I'll tell you when I got it wrong. That's the deal.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 66,
+  "spk": "JONATHON",
+  "text": "He will. He tells on himself constantly.",
+  "tts": "He will. He tells on himself constantly.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 67,
+  "spk": "WES",
+  "text": "It's the only thing I'm consistent at.",
+  "tts": "It's the only thing I'm consistent at.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 68,
+  "spk": "WES",
+  "text": "Now. My turn.",
+  "tts": "Now. My turn.",
+  "chapter": "Who is Jonathon",
+  "pre": 1.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": [
+   "chapter"
+  ]
+ },
+ {
+  "n": 69,
+  "spk": "JONATHON",
+  "text": "Be nice.",
+  "tts": "Be nice.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 70,
+  "spk": "WES",
+  "text": "I'm always nice.",
+  "tts": "I'm always nice.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 71,
+  "spk": "JONATHON",
+  "text": "You are not always nice.",
+  "tts": "You are not always nice.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 72,
+  "spk": "WES",
+  "text": "This is Jonathon. He's thirty-six, thirty-seven in February. He grew up in Pasadena, Texas.",
+  "tts": "This is Jonathon. He's thirty-six, thirty-seven in February. He grew up in Pasadena, Texas.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 73,
+  "spk": "JONATHON",
+  "text": "Here we go.",
+  "tts": "Here we go.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 74,
+  "spk": "WES",
+  "text": "Pasadena, Texas, for those of you not from here, is east of Houston. Refinery country. Flat. It smells like work.",
+  "tts": "Pasadena, Texas, for those of you not from here, is east of Houston. Refinery country. Flat. It smells like work.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 75,
+  "spk": "JONATHON",
+  "text": "It's a great place. Nothing's the Hill Country, I know. Everyone's been told.",
+  "tts": "It's a great place. Nothing's the Hill Country, I know. Everyone's been told.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 76,
+  "spk": "WES",
+  "text": "He lives on the north side of San Antonio now, in a subdivision.",
+  "tts": "He lives on the north side of San Antonio now, in a subdivision.",
+  "pre": 0.9,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": [
+   "laugh"
+  ]
+ },
+ {
+  "n": 77,
+  "spk": "WES",
+  "text": "Jonathon is a regional sales manager for a company that sells commercial air conditioning equipment.",
+  "tts": "Jonathon is a regional sales manager for a company that sells commercial air conditioning equipment.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 78,
+  "spk": "JONATHON",
+  "text": "Which in Texas is the easiest pitch in the world. \"Would you like to not die in August?\"",
+  "tts": "Which in Texas is the easiest pitch in the world. \"Would you like to not die in August?\"",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 79,
+  "spk": "WES",
+  "text": "He's been married ten years to Dani. She's a labor and delivery nurse, and she works nights, three a week.",
+  "tts": "He's been married ten years to Dani. She's a labor and delivery nurse, and she works nights, three a week.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 80,
+  "spk": "JONATHON",
+  "text": "She's the best person I know. You can put that on a card.",
+  "tts": "She's the best person I know. You can put that on a card.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 81,
+  "spk": "WES",
+  "text": "And they've got two kids. Ruby, who's seven and runs the house, and Theo, who's four and runs into things.",
+  "tts": "And they've got two kids. Ruby, who's seven and runs the house, and Theo, who's four and runs into things.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 82,
+  "spk": "JONATHON",
+  "text": "That's accurate. That is accurate.",
+  "tts": "That's accurate. That is accurate.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 83,
+  "spk": "WES",
+  "text": "He pitched in college, small school, until his shoulder went. Now he coaches Ruby's coach-pitch team.",
+  "tts": "He pitched in college, small school, until his shoulder went. Now he coaches Ruby's coach-pitch team.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 84,
+  "spk": "JONATHON",
+  "text": "Badly. Say it.",
+  "tts": "Badly. Say it.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 85,
+  "spk": "WES",
+  "text": "With a lot of energy.",
+  "tts": "With a lot of energy.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 86,
+  "spk": "JONATHON",
+  "text": "Last fall we went oh-and-six. We've never won a game. Ruby picked this watch for me at the end of the season, and it does not tell time correctly.",
+  "tts": "Last fall we went oh-and-six. We've never won a game. Ruby picked this watch for me at the end of the season, and it does not tell time correctly.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 87,
+  "spk": "WES",
+  "text": "Does it beep?",
+  "tts": "Does it beep?",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 88,
+  "spk": "JONATHON",
+  "text": "Every hour. On the hour. It's beeped in church.",
+  "tts": "Every hour. On the hour. It's beeped in church.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 89,
+  "spk": "WES",
+  "text": "That's my version. Fix it.",
+  "tts": "That's my version. Fix it.",
+  "pre": 0.9,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": [
+   "laugh"
+  ]
+ },
+ {
+  "n": 90,
+  "spk": "JONATHON",
+  "text": "Okay. That's the fun part. Here's the rest of it. My dad left when I was nine. It was a Saturday, in October. I remember his truck had a dent in the tailgate, and I remember watching the dent go down the street. That's the thing I remember. Not his face. The dent.",
+  "tts": "Okay. That's the fun part. Here's the rest of it. My dad left when I was nine. It was a Saturday, in October. I remember his truck had a dent in the tailgate, and I remember watching the dent go down the street. That's the thing I remember. Not his face. The dent.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 91,
+  "spk": "JONATHON",
+  "text": "He's alive. He lives in Lake Charles. He calls about twice a year. And I'm going to tell you right up front, I have not figured that out. We're going to talk about dads on this show, and I'm going to be the guy who hasn't healed on schedule.",
+  "tts": "He's alive. He lives in Lake Charles. He calls about twice a year. And I'm going to tell you right up front, I have not figured that out. We're going to talk about dads on this show, and I'm going to be the guy who hasn't healed on schedule.",
+  "pre": 0.8,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": [
+   "action"
+  ]
+ },
+ {
+  "n": 92,
+  "spk": "WES",
+  "text": "That's allowed here.",
+  "tts": "That's allowed here.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 93,
+  "spk": "JONATHON",
+  "text": "My mom worked two jobs, and by eleven she was calling me the man of the house. She meant it as a compliment. She's a great woman, she did everything right that she could do. But eleven's young to be the man of anything.",
+  "tts": "My mom worked two jobs, and by eleven she was calling me the man of the house. She meant it as a compliment. She's a great woman, she did everything right that she could do. But eleven's young to be the man of anything.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 94,
+  "spk": "WES",
+  "text": "It is.",
+  "tts": "It is.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 95,
+  "spk": "JONATHON",
+  "text": "And then my twenties. I was good at sales. Like, really good. I was good at the room. I lived for the leaderboard. And I drank too much on weeknights to come down from the day. Nothing dramatic. No arrests, no wrecks. Just every night, a little too much, and I called it unwinding.",
+  "tts": "And then my twenties. I was good at sales. Like, really good. I was good at the room. I lived for the leaderboard. And I drank too much on weeknights to come down from the day. Nothing dramatic. No arrests, no wrecks. Just every night, a little too much, and I called it unwinding.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 96,
+  "spk": "WES",
+  "text": "When did that turn?",
+  "tts": "When did that turn?",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 97,
+  "spk": "JONATHON",
+  "text": "At twenty-nine. Dani was pregnant with Ruby. And she sat down across from me at our kitchen table one night, and she was so calm about it, which was the scary part. She said, \"I'm not raising two kids.\"",
+  "tts": "At twenty-nine. Dani was pregnant with Ruby. And she sat down across from me at our kitchen table one night, and she was so calm about it, which was the scary part. She said, \"I'm not raising two kids.\"",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 98,
+  "spk": "WES",
+  "text": "Yeah.",
+  "tts": "Yeah.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 99,
+  "spk": "JONATHON",
+  "text": "And she wasn't wrong. About a month later, a customer of mine, a mechanical contractor, invited me to a men's breakfast at his church. And I went because I couldn't come up with an excuse fast enough.",
+  "tts": "And she wasn't wrong. About a month later, a customer of mine, a mechanical contractor, invited me to a men's breakfast at his church. And I went because I couldn't come up with an excuse fast enough.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 100,
+  "spk": "WES",
+  "text": "That's how most men end up at a men's breakfast.",
+  "tts": "That's how most men end up at a men's breakfast.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 101,
+  "spk": "JONATHON",
+  "text": "I sat in the parking lot for eleven minutes. I know because I watched the clock on the dash. And I almost left. And when I finally went in, there was one open seat, and it was across from this guy.",
+  "tts": "I sat in the parking lot for eleven minutes. I know because I watched the clock on the dash. And I almost left. And when I finally went in, there was one open seat, and it was across from this guy.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 102,
+  "spk": "WES",
+  "text": "I remember you. You had a company quarter-zip on.",
+  "tts": "I remember you. You had a company quarter-zip on.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 103,
+  "spk": "JONATHON",
+  "text": "I still have it.",
+  "tts": "I still have it.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 104,
+  "spk": "WES",
+  "text": "I know. You wear it on this show.",
+  "tts": "I know. You wear it on this show.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 105,
+  "spk": "JONATHON",
+  "text": "I'm going to wear it on this show. And I didn't say anything to him that morning. Three months later I sent him a text asking if he'd get breakfast with me. That is the scariest text I've ever sent a man.",
+  "tts": "I'm going to wear it on this show. And I didn't say anything to him that morning. Three months later I sent him a text asking if he'd get breakfast with me. That is the scariest text I've ever sent a man.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 106,
+  "spk": "WES",
+  "text": "It said, \"Hey, this is Jonathon from the breakfast, the HVAC guy, no pressure.\"",
+  "tts": "It said, \"Hey, this is Jonathon from the breakfast, the H-VAC guy, no pressure.\"",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 107,
+  "spk": "JONATHON",
+  "text": "\"No pressure\" means a lot of pressure.",
+  "tts": "\"No pressure\" means a lot of pressure.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 108,
+  "spk": "WES",
+  "text": "It means a lot of pressure.",
+  "tts": "It means a lot of pressure.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 109,
+  "spk": "JONATHON",
+  "text": "And that was seven years ago. We've met most Thursdays since. I came to faith that year. And I haven't had a weeknight drink in six years. Nothing dramatic about that either. I just quit, and I had a guy to tell.",
+  "tts": "And that was seven years ago. We've met most Thursdays since. I came to faith that year. And I haven't had a weeknight drink in six years. Nothing dramatic about that either. I just quit, and I had a guy to tell.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 110,
+  "spk": "WES",
+  "text": "So why are you doing this?",
+  "tts": "So why are you doing this?",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 111,
+  "spk": "JONATHON",
+  "text": "Because this show isn't for men who have it together. It's for the man I was at twenty-nine, sitting in that parking lot, watching the clock, deciding whether to go in. If that's you, I want you to know somebody's at the table. And because I'm still learning. I'm seven years in. I'm proof this works for a guy who started late.",
+  "tts": "Because this show isn't for men who have it together. It's for the man I was at twenty-nine, sitting in that parking lot, watching the clock, deciding whether to go in. If that's you, I want you to know somebody's at the table. And because I'm still learning. I'm seven years in. I'm proof this works for a guy who started late.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 112,
+  "spk": "WES",
+  "text": "And what do you bring?",
+  "tts": "And what do you bring?",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 113,
+  "spk": "JONATHON",
+  "text": "Questions. I'm going to push back on him. If he says something that sounds great at a breakfast and wouldn't survive my house at six-fifteen, I'm going to say so.",
+  "tts": "Questions. I'm going to push back on him. If he says something that sounds great at a breakfast and wouldn't survive my house at six-fifteen, I'm going to say so.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 114,
+  "spk": "WES",
+  "text": "He will.",
+  "tts": "He will.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 115,
+  "spk": "JONATHON",
+  "text": "I'm the guy in the back. That's my job here.",
+  "tts": "I'm the guy in the back. That's my job here.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 116,
+  "spk": "WES",
+  "text": "That's a good job.",
+  "tts": "That's a good job.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 117,
+  "spk": "WES",
+  "text": "So the first chapter of the book I wrote, and we'll tell you about the book later, is called \"A Quiet Tuesday.\" And the idea is simple. Most men are measured by their highlight days. The wedding. The promotion. The trip. The game where you were the guy. And those days matter. But that's not where a man gets made. A man gets made on Tuesday. The day nobody posts.",
+  "tts": "So the first chapter of the book I wrote, and we'll tell you about the book later, is called \"A Quiet Tuesday.\" And the idea is simple. Most men are measured by their highlight days. The wedding. The promotion. The trip. The game where you were the guy. And those days matter. But that's not where a man gets made. A man gets made on Tuesday. The day nobody posts.",
+  "chapter": "A quiet Tuesday",
+  "pre": 1.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": [
+   "chapter",
+   "action"
+  ]
+ },
+ {
+  "n": 118,
+  "spk": "JONATHON",
+  "text": "Which is why we launched on a Tuesday.",
+  "tts": "Which is why we launched on a Tuesday.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 119,
+  "spk": "WES",
+  "text": "Which is why we launched on a Tuesday. That wasn't an accident.",
+  "tts": "Which is why we launched on a Tuesday. That wasn't an accident.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 120,
+  "spk": "JONATHON",
+  "text": "I thought that was an accident.",
+  "tts": "I thought that was an accident.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 121,
+  "spk": "WES",
+  "text": "It was a happy accident.",
+  "tts": "It was a happy accident.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 122,
+  "spk": "WES",
+  "text": "And if this episode has one plain point, it's this. Stop waiting. That's the mark we're on today. A lot of us are waiting to become a man we keep describing. \"When things slow down.\" \"When the kids are older.\" \"When work settles.\" And the waiting is the problem.",
+  "tts": "And if this episode has one plain point, it's this. Stop waiting. That's the mark we're on today. A lot of us are waiting to become a man we keep describing. \"When things slow down.\" \"When the kids are older.\" \"When work settles.\" And the waiting is the problem.",
+  "pre": 0.9,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": [
+   "laugh"
+  ]
+ },
+ {
+  "n": 123,
+  "spk": "JONATHON",
+  "text": "Okay, so. Can I just tell the 1604 thing properly? Because I gave the trailer version.",
+  "tts": "Okay, so. Can I just tell the sixteen-oh-four thing properly? Because I gave the trailer version.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 124,
+  "spk": "WES",
+  "text": "Tell it.",
+  "tts": "Tell it.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 125,
+  "spk": "JONATHON",
+  "text": "Ruby was four, Theo was one, and Dani had just gone back to nights. So three nights a week, I've got both of them by myself after the sitter leaves. And six o'clock at our house is chaos. Dinner, two baths, one of them screaming, the whole fight about pajamas. And I'm coming off a day of being good at the room. I'm on the phone with customers, I'm closing, everybody likes me. And I'd drive home and I'd feel it in my chest around the exit. The chaos.",
+  "tts": "Ruby was four, Theo was one, and Dani had just gone back to nights. So three nights a week, I've got both of them by myself after the sitter leaves. And six o'clock at our house is chaos. Dinner, two baths, one of them screaming, the whole fight about pajamas. And I'm coming off a day of being good at the room. I'm on the phone with customers, I'm closing, everybody likes me. And I'd drive home and I'd feel it in my chest around the exit. The chaos.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 126,
+  "spk": "JONATHON",
+  "text": "So one night I just missed my exit. On purpose. Got on 1604 at six-fifteen, which nobody does on purpose. Added twenty minutes of brake lights. And when I walked in, the sitter had already done baths, and both kids were in pajamas, and I got the good part. The story, the hug, the little prayer. I got the highlight.",
+  "tts": "So one night I just missed my exit. On purpose. Got on sixteen-oh-four at six-fifteen, which nobody does on purpose. Added twenty minutes of brake lights. And when I walked in, the sitter had already done baths, and both kids were in pajamas, and I got the good part. The story, the hug, the little prayer. I got the highlight.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 127,
+  "spk": "WES",
+  "text": "And skipped the Tuesday.",
+  "tts": "And skipped the Tuesday.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 128,
+  "spk": "JONATHON",
+  "text": "I skipped the Tuesday. For two years. And here's the part I didn't do the math on until later. We paid that sitter by the hour. So I was paying somebody by the hour so I could sit in traffic on purpose. I told myself I needed the decompression. And Dani's a nurse. She deals in facts. She just asked me since when I liked 1604.",
+  "tts": "I skipped the Tuesday. For two years. And here's the part I didn't do the math on until later. We paid that sitter by the hour. So I was paying somebody by the hour so I could sit in traffic on purpose. I told myself I needed the decompression. And Dani's a nurse. She deals in facts. She just asked me since when I liked sixteen-oh-four.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 129,
+  "spk": "WES",
+  "text": "What did you say?",
+  "tts": "What did you say?",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 130,
+  "spk": "JONATHON",
+  "text": "I said, \"It's not that bad.\" And she said, \"Okay.\" And she didn't say anything else. And that \"okay\" followed me around for about a week.",
+  "tts": "I said, \"It's not that bad.\" And she said, \"Okay.\" And she didn't say anything else. And that \"okay\" followed me around for about a week.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 1,
+  "pre_reason": []
+ },
+ {
+  "n": 131,
+  "spk": "WES",
+  "text": "I got an okay like that once.",
+  "tts": "I got an okay like that once.",
+  "pre": 0.0,
+  "lead": 0.6,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 132,
+  "spk": "JONATHON",
+  "text": "You got the okay?",
+  "tts": "You got the okay?",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 133,
+  "spk": "WES",
+  "text": "Here's where I have to tell on myself. In the fog years, I did all the big things. I built a deck. I coached. I took the family to the coast every summer, and I'd plan it for months. The pictures from those trips are great pictures. And then on a normal Tuesday, I'd come home and eat supper in the recliner with the news on.",
+  "tts": "Here's where I have to tell on myself. In the fog years, I did all the big things. I built a deck. I coached. I took the family to the coast every summer, and I'd plan it for months. The pictures from those trips are great pictures. And then on a normal Tuesday, I'd come home and eat supper in the recliner with the news on.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 134,
+  "spk": "JONATHON",
+  "text": "In the recliner.",
+  "tts": "In the recliner.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 135,
+  "spk": "WES",
+  "text": "In the recliner. And the family's at the table, fifteen feet away. And for a while my wife would call me over. \"Come sit with us.\" And I'd say, \"In a minute.\" And then one night, I noticed she'd stopped asking.",
+  "tts": "In the recliner. And the family's at the table, fifteen feet away. And for a while my wife would call me over. \"Come sit with us.\" And I'd say, \"In a minute.\" And then one night, I noticed she'd stopped asking.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 136,
+  "spk": "WES",
+  "text": "She'd stopped asking. That's when I should have been scared. Not when she was asking. When she stopped.",
+  "tts": "She'd stopped asking. That's when I should have been scared. Not when she was asking. When she stopped.",
+  "pre": 0.8,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": [
+   "action"
+  ]
+ },
+ {
+  "n": 137,
+  "spk": "JONATHON",
+  "text": "What made you go to the table?",
+  "tts": "What made you go to the table?",
+  "pre": 1.8,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": [
+   "pause",
+   "breather"
+  ]
+ },
+ {
+  "n": 138,
+  "spk": "WES",
+  "text": "Honestly? Nothing heroic. My daughter was about nine. And she brought her plate over to the recliner and sat on the floor next to it. Because that's where her dad was.",
+  "tts": "Honestly? Nothing heroic. My daughter was about nine. And she brought her plate over to the recliner and sat on the floor next to it. Because that's where her dad was.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 139,
+  "spk": "JONATHON",
+  "text": "Oh, man.",
+  "tts": "Oh, man.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 140,
+  "spk": "WES",
+  "text": "Yeah. She wasn't making a point. She just wanted to eat with her dad. And I looked down at her on the floor, eating off her lap, and I thought, what am I doing? What am I waiting on? Which is funny, because that's the question Mr. Abernathy asked me about a year later. I'd already heard it. I just hadn't answered it.",
+  "tts": "Yeah. She wasn't making a point. She just wanted to eat with her dad. And I looked down at her on the floor, eating off her lap, and I thought, what am I doing? What am I waiting on? Which is funny, because that's the question Mr. Abernathy asked me about a year later. I'd already heard it. I just hadn't answered it.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 141,
+  "spk": "WES",
+  "text": "There's a line in First Corinthians that I can't get away from. It's in chapter thirteen, which most people know as the love chapter, because it gets read at every wedding.",
+  "tts": "There's a line in First Corinthians that I can't get away from. It's in chapter thirteen, which most people know as the love chapter, because it gets read at every wedding.",
+  "chapter": "The Word",
+  "pre": 1.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": [
+   "chapter"
+  ]
+ },
+ {
+  "n": 142,
+  "spk": "JONATHON",
+  "text": "Ours.",
+  "tts": "Ours.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 143,
+  "spk": "WES",
+  "text": "Everybody's. And in the middle of it, Paul says this.",
+  "tts": "Everybody's. And in the middle of it, Paul says this.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 144,
+  "spk": "WES",
+  "text": "\"When I was a child, I talked like a child, I thought like a child, I reasoned like a child. When I became a man, I put the ways of childhood behind me.\"",
+  "tts": "\"When I was a child, I talked like a child, I thought like a child, I reasoned like a child. When I became a man, I put the ways of childhood behind me.\"",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 145,
+  "spk": "WES",
+  "text": "And here's the context in two sentences. Paul's writing to a church in Corinth that had everything. Gifts, talent, big moments. And they were acting like kids with it, everybody chasing the impressive stuff and nobody loving anybody on a regular day.",
+  "tts": "And here's the context in two sentences. Paul's writing to a church in Corinth that had everything. Gifts, talent, big moments. And they were acting like kids with it, everybody chasing the impressive stuff and nobody loving anybody on a regular day.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 146,
+  "spk": "JONATHON",
+  "text": "So, a church full of guys like me.",
+  "tts": "So, a church full of guys like me.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 147,
+  "spk": "WES",
+  "text": "A church full of highlight reels. And look at the verb. \"I put the ways of childhood behind me.\" He did it. It's not a birthday. You don't turn thirty and wake up a man. You put something down.",
+  "tts": "A church full of highlight reels. And look at the verb. \"I put the ways of childhood behind me.\" He did it. It's not a birthday. You don't turn thirty and wake up a man. You put something down.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 148,
+  "spk": "JONATHON",
+  "text": "What's the something?",
+  "tts": "What's the something?",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 149,
+  "spk": "WES",
+  "text": "For me, it was the recliner. That's not a joke. The recliner was where I went to be a kid on a Tuesday. Nobody needs anything from me, the TV's talking, I don't have to be present. That was childhood. That was me reasoning like a child.",
+  "tts": "For me, it was the recliner. That's not a joke. The recliner was where I went to be a kid on a Tuesday. Nobody needs anything from me, the TV's talking, I don't have to be present. That was childhood. That was me reasoning like a child.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 150,
+  "spk": "JONATHON",
+  "text": "And for me it was 1604.",
+  "tts": "And for me it was sixteen-oh-four.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 151,
+  "spk": "WES",
+  "text": "For you it was 1604.",
+  "tts": "For you it was sixteen-oh-four.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 152,
+  "spk": "WES",
+  "text": "And then Jesus says something in Luke sixteen that I think is the whole Tuesday idea in one sentence. He's telling a story about a manager and money, and he stops and says this.",
+  "tts": "And then Jesus says something in Luke sixteen that I think is the whole Tuesday idea in one sentence. He's telling a story about a manager and money, and he stops and says this.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 153,
+  "spk": "WES",
+  "text": "\"Whoever can be trusted with very little can also be trusted with much, and whoever is dishonest with very little will also be dishonest with much.\"",
+  "tts": "\"Whoever can be trusted with very little can also be trusted with much, and whoever is dishonest with very little will also be dishonest with much.\"",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 154,
+  "spk": "WES",
+  "text": "Tuesday is the very little. It's six-fifteen. It's supper. It's the bath fight. And the way you handle the very little is the way you handle the much. You don't get to be one man on the trip to the coast and a different man in the recliner. It's the same man. The trip just has better lighting.",
+  "tts": "Tuesday is the very little. It's six-fifteen. It's supper. It's the bath fight. And the way you handle the very little is the way you handle the much. You don't get to be one man on the trip to the coast and a different man in the recliner. It's the same man. The trip just has better lighting.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 155,
+  "spk": "JONATHON",
+  "text": "That's annoying. I have a lot of trip pictures.",
+  "tts": "That's annoying. I have a lot of trip pictures.",
+  "pre": 0.0,
+  "lead": 0.6,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 156,
+  "spk": "JONATHON",
+  "text": "Quick thing. If this is helping, hit subscribe. We do this twice a week.",
+  "tts": "Quick thing. If this is helping, hit subscribe. We do this twice a week.",
+  "pre": 0.9,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": [
+   "laugh"
+  ]
+ },
+ {
+  "n": 157,
+  "spk": "WES",
+  "text": "He means it. He checks.",
+  "tts": "He means it. He checks.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 158,
+  "spk": "JONATHON",
+  "text": "I check every hour. When the watch beeps.",
+  "tts": "I check every hour. When the watch beeps.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 159,
+  "spk": "JONATHON",
+  "text": "Okay, so here's my problem with all of this.",
+  "tts": "Okay, so here's my problem with all of this.",
+  "chapter": "Pushback",
+  "pre": 1.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": [
+   "chapter"
+  ]
+ },
+ {
+  "n": 160,
+  "spk": "WES",
+  "text": "Here it comes.",
+  "tts": "Here it comes.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 161,
+  "spk": "JONATHON",
+  "text": "Some Tuesdays I'm just tired. Dani's on nights, I've had the kids since five, Theo's been sticky since five-oh-two. Is it a sin to sit in the car for ten minutes before I go in? Because I'm going to be honest, some days the car is the only quiet I get.",
+  "tts": "Some Tuesdays I'm just tired. Dani's on nights, I've had the kids since five, Theo's been sticky since five-oh-two. Is it a sin to sit in the car for ten minutes before I go in? Because I'm going to be honest, some days the car is the only quiet I get.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 162,
+  "spk": "WES",
+  "text": "No. Ten minutes in the car isn't a sin. Rest isn't hiding.",
+  "tts": "No. Ten minutes in the car isn't a sin. Rest isn't hiding.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 163,
+  "spk": "JONATHON",
+  "text": "Okay, then what's the difference? Because 1604 was me resting.",
+  "tts": "Okay, then what's the difference? Because sixteen-oh-four was me resting.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 164,
+  "spk": "WES",
+  "text": "Was it?",
+  "tts": "Was it?",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 165,
+  "spk": "JONATHON",
+  "text": "No.",
+  "tts": "No.",
+  "pre": 0.0,
+  "lead": 0.6,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 166,
+  "spk": "WES",
+  "text": "Here's the test I use. When you rest, you come back. You come back to the people, and you come back better. When you hide, you're trying to make sure you don't come back until the hard part's over.",
+  "tts": "Here's the test I use. When you rest, you come back. You come back to the people, and you come back better. When you hide, you're trying to make sure you don't come back until the hard part's over.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 167,
+  "spk": "JONATHON",
+  "text": "So ten minutes in the car out front with the engine off, breathing, praying, whatever, and then I go in and do bath.",
+  "tts": "So ten minutes in the car out front with the engine off, breathing, praying, whatever, and then I go in and do bath.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 168,
+  "spk": "WES",
+  "text": "That's rest.",
+  "tts": "That's rest.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 169,
+  "spk": "JONATHON",
+  "text": "And fifteen minutes on 1604 so that somebody else does bath.",
+  "tts": "And fifteen minutes on sixteen-oh-four so that somebody else does bath.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 170,
+  "spk": "WES",
+  "text": "That's hiding.",
+  "tts": "That's hiding.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 171,
+  "spk": "JONATHON",
+  "text": "Okay. I buy that. But I've got a second problem, and I don't think you're going to like this one.",
+  "tts": "Okay. I buy that. But I've got a second problem, and I don't think you're going to like this one.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 172,
+  "spk": "WES",
+  "text": "I haven't liked the first one.",
+  "tts": "I haven't liked the first one.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 173,
+  "spk": "JONATHON",
+  "text": "I think you undersell the big days. You keep saying the trip has better lighting, like the trip doesn't count. Ruby still talks about the fishing trip we took to Port Aransas. We caught one fish. A hardhead catfish. It stung me. She talks about it every week.",
+  "tts": "I think you undersell the big days. You keep saying the trip has better lighting, like the trip doesn't count. Ruby still talks about the fishing trip we took to Port Aransas. We caught one fish. A hardhead catfish. It stung me. She talks about it every week.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 174,
+  "spk": "WES",
+  "text": "She should.",
+  "tts": "She should.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 175,
+  "spk": "JONATHON",
+  "text": "So the big days matter. Kids remember the big days.",
+  "tts": "So the big days matter. Kids remember the big days.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 176,
+  "spk": "WES",
+  "text": "They do. I'll give you that. I'm not saying throw out the big days. My kids remember the coast. But here's my push. Your daughter remembers the fishing trip because you were there for her on a hundred Tuesdays around it. If you'd been gone on all the Tuesdays, the fishing trip would be a nice picture of a guy she doesn't know very well.",
+  "tts": "They do. I'll give you that. I'm not saying throw out the big days. My kids remember the coast. But here's my push. Your daughter remembers the fishing trip because you were there for her on a hundred Tuesdays around it. If you'd been gone on all the Tuesdays, the fishing trip would be a nice picture of a guy she doesn't know very well.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 177,
+  "spk": "JONATHON",
+  "text": "That's not fair.",
+  "tts": "That's not fair.",
+  "pre": 0.0,
+  "lead": 0.6,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 178,
+  "spk": "WES",
+  "text": "Why not?",
+  "tts": "Why not?",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 179,
+  "spk": "JONATHON",
+  "text": "Because it's true and I can't argue with it.",
+  "tts": "Because it's true and I can't argue with it.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 180,
+  "spk": "JONATHON",
+  "text": "But I still think you undersell Saturdays. I'm putting that on the record. Episode one. I think the big days are part of it.",
+  "tts": "But I still think you undersell Saturdays. I'm putting that on the record. Episode one. I think the big days are part of it.",
+  "pre": 0.9,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": [
+   "laugh"
+  ]
+ },
+ {
+  "n": 181,
+  "spk": "WES",
+  "text": "They're part of it. They're built on Tuesday.",
+  "tts": "They're part of it. They're built on Tuesday.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 182,
+  "spk": "JONATHON",
+  "text": "We'll come back to this.",
+  "tts": "We'll come back to this.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 183,
+  "spk": "WES",
+  "text": "We'll come back to it.",
+  "tts": "We'll come back to it.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 184,
+  "spk": "JONATHON",
+  "text": "Okay. Third thing. And this is for the guy who's listening and going, I don't have a 1604, because nobody's at my house.",
+  "tts": "Okay. Third thing. And this is for the guy who's listening and going, I don't have a sixteen-oh-four, because nobody's at my house.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 185,
+  "spk": "WES",
+  "text": "Good.",
+  "tts": "Good.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 186,
+  "spk": "JONATHON",
+  "text": "The twenty-two-year-old in an apartment. No wife, no kids. What's his Tuesday?",
+  "tts": "The twenty-two-year-old in an apartment. No wife, no kids. What's his Tuesday?",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 187,
+  "spk": "WES",
+  "text": "His Tuesday is his whole life right now, not practice for some other one. Is he the guy who shows up when a buddy's moving, or the one who's suddenly busy? Does he do his job like it matters when the boss is gone? Does his money go anywhere on purpose? Is there one man who knows what's actually going on with him? Does he open the Book on a Tuesday, or does Sunday cover it?",
+  "tts": "His Tuesday is his whole life right now, not practice for some other one. Is he the guy who shows up when a buddy's moving, or the one who's suddenly busy? Does he do his job like it matters when the boss is gone? Does his money go anywhere on purpose? Is there one man who knows what's actually going on with him? Does he open the Book on a Tuesday, or does Sunday cover it?",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 188,
+  "spk": "JONATHON",
+  "text": "That's a lot of questions for a twenty-two-year-old.",
+  "tts": "That's a lot of questions for a twenty-two-year-old.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 189,
+  "spk": "WES",
+  "text": "He can handle them. Twenty-two-year-olds run crews and fly airplanes. Whether there's ever a wedding or not, the man he is on Tuesday is the man he is.",
+  "tts": "He can handle them. Twenty-two-year-olds run crews and fly airplanes. Whether there's ever a wedding or not, the man he is on Tuesday is the man he is.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 190,
+  "spk": "JONATHON",
+  "text": "And the guy on the other end? Sixty-two, kids are grown.",
+  "tts": "And the guy on the other end? Sixty-two, kids are grown.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 191,
+  "spk": "WES",
+  "text": "I'm not going to tell a sixty-two-year-old what his season is. I'm fifty-two, and the men I know who are sixty-two are starting businesses, going back to school, still coaching, still in a fight with a brother they need to end. His question's the same as mine. What's he waiting on? And with twenty good years in front of him, he's got more room to answer it than I did at thirty.",
+  "tts": "I'm not going to tell a sixty-two-year-old what his season is. I'm fifty-two, and the men I know who are sixty-two are starting businesses, going back to school, still coaching, still in a fight with a brother they need to end. His question's the same as mine. What's he waiting on? And with twenty good years in front of him, he's got more room to answer it than I did at thirty.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 192,
+  "spk": "JONATHON",
+  "text": "Okay, last one, and this one's me. What about the guy who's great at work? Because my problem was never that I was lazy. At work, every day is a Saturday. I'm the guy. I hit the number, they put my name on the board, my phone lights up because people need me.",
+  "tts": "Okay, last one, and this one's me. What about the guy who's great at work? Because my problem was never that I was lazy. At work, every day is a Saturday. I'm the guy. I hit the number, they put my name on the board, my phone lights up because people need me.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 193,
+  "spk": "WES",
+  "text": "And then you drive home.",
+  "tts": "And then you drive home.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 194,
+  "spk": "JONATHON",
+  "text": "And then I drive home, and nobody at my house cares about the board. Ruby doesn't know what a quarterly number is. Theo wants me to be a dinosaur.",
+  "tts": "And then I drive home, and nobody at my house cares about the board. Ruby doesn't know what a quarterly number is. Theo wants me to be a dinosaur.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 195,
+  "spk": "WES",
+  "text": "What kind of dinosaur?",
+  "tts": "What kind of dinosaur?",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 196,
+  "spk": "JONATHON",
+  "text": "It changes. It's usually the one that gets eaten.",
+  "tts": "It changes. It's usually the one that gets eaten.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 197,
+  "spk": "WES",
+  "text": "That man is the hardest one to reach, and I say that with love, because I've sat with a lot of him. He's not checked out. He's spent. He gave the good version of himself to people who sign his check, and the people who share his last name get what's left. And he doesn't feel passive. He feels exhausted. He'll tell you he's the hardest worker he knows.",
+  "tts": "That man is the hardest one to reach, and I say that with love, because I've sat with a lot of him. He's not checked out. He's spent. He gave the good version of himself to people who sign his check, and the people who share his last name get what's left. And he doesn't feel passive. He feels exhausted. He'll tell you he's the hardest worker he knows.",
+  "pre": 0.9,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": [
+   "laugh"
+  ]
+ },
+ {
+  "n": 198,
+  "spk": "JONATHON",
+  "text": "I would have told you that.",
+  "tts": "I would have told you that.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 199,
+  "spk": "WES",
+  "text": "And it'd be true. And it's still the recliner. It's a nicer recliner. It's got a company logo on it.",
+  "tts": "And it'd be true. And it's still the recliner. It's a nicer recliner. It's got a company logo on it.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 200,
+  "spk": "JONATHON",
+  "text": "Yeah. That one's going to bother me tonight.",
+  "tts": "Yeah. That one's going to bother me tonight.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 1,
+  "pre_reason": []
+ },
+ {
+  "n": 201,
+  "spk": "WES",
+  "text": "Good. Let it.",
+  "tts": "Good. Let it.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 202,
+  "spk": "JONATHON",
+  "text": "Okay. So what did you actually do? Not then. This week. Because we recorded this on a Thursday and you've known the topic for a month.",
+  "tts": "Okay. So what did you actually do? Not then. This week. Because we recorded this on a Thursday and you've known the topic for a month.",
+  "chapter": "What I actually did",
+  "pre": 1.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": [
+   "chapter"
+  ]
+ },
+ {
+  "n": 203,
+  "spk": "WES",
+  "text": "This week. I put my phone in the console of my truck before supper. Three nights out of five. And the reason it was three and not five is that on Tuesday, of all days, my youngest had a question about his car insurance, and I took the phone to the table to look it up, and then I was looking at something else for twenty minutes.",
+  "tts": "This week. I put my phone in the console of my truck before supper. Three nights out of five. And the reason it was three and not five is that on Tuesday, of all days, my youngest had a question about his car insurance, and I took the phone to the table to look it up, and then I was looking at something else for twenty minutes.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 204,
+  "spk": "JONATHON",
+  "text": "What were you looking at?",
+  "tts": "What were you looking at?",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 205,
+  "spk": "WES",
+  "text": "A video of a man restoring a tractor.",
+  "tts": "A video of a man restoring a tractor.",
+  "pre": 0.0,
+  "lead": 0.6,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 206,
+  "spk": "JONATHON",
+  "text": "For twenty minutes.",
+  "tts": "For twenty minutes.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 207,
+  "spk": "WES",
+  "text": "It was a good tractor.",
+  "tts": "It was a good tractor.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 208,
+  "spk": "JONATHON",
+  "text": "So you were the recliner. At the table.",
+  "tts": "So you were the recliner. At the table.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 209,
+  "spk": "WES",
+  "text": "I brought the recliner to the table. Yes. That's what the phone is. It's a recliner you can carry.",
+  "tts": "I brought the recliner to the table. Yes. That's what the phone is. It's a recliner you can carry.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 210,
+  "spk": "WES",
+  "text": "I'll say that again because I think it's the most useful thing I'll say today. The phone is a recliner you can carry. You can be at the table and gone.",
+  "tts": "I'll say that again because I think it's the most useful thing I'll say today. The phone is a recliner you can carry. You can be at the table and gone.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 211,
+  "spk": "WES",
+  "text": "What about you?",
+  "tts": "What about you?",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 212,
+  "spk": "JONATHON",
+  "text": "I drove the direct route home. Every night Dani worked. Three nights.",
+  "tts": "I drove the direct route home. Every night Dani worked. Three nights.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 213,
+  "spk": "WES",
+  "text": "How'd it go?",
+  "tts": "How'd it go?",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 214,
+  "spk": "JONATHON",
+  "text": "Monday was great. Tuesday was fine. Wednesday, Theo flooded the bathroom.",
+  "tts": "Monday was great. Tuesday was fine. Wednesday, Theo flooded the bathroom.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 215,
+  "spk": "WES",
+  "text": "How?",
+  "tts": "How?",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 216,
+  "spk": "JONATHON",
+  "text": "I genuinely do not know. I turned around to get a towel. I turned back and there was water going under the door into the hallway. He was just sitting in the tub smiling at me. Very proud.",
+  "tts": "I genuinely do not know. I turned around to get a towel. I turned back and there was water going under the door into the hallway. He was just sitting in the tub smiling at me. Very proud.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 217,
+  "spk": "JONATHON",
+  "text": "And I'll be honest with you, there was a second where I thought, this is why I took 1604. This exact thing. And then Ruby came to the door, saw the water, and she goes, \"Daddy, it's okay, it's just water.\" And I thought, okay, the seven-year-old is handling this better than me.",
+  "tts": "And I'll be honest with you, there was a second where I thought, this is why I took sixteen-oh-four. This exact thing. And then Ruby came to the door, saw the water, and she goes, \"Daddy, it's okay, it's just water.\" And I thought, okay, the seven-year-old is handling this better than me.",
+  "pre": 0.9,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": [
+   "laugh"
+  ]
+ },
+ {
+  "n": 218,
+  "spk": "WES",
+  "text": "She's right, though.",
+  "tts": "She's right, though.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 219,
+  "spk": "JONATHON",
+  "text": "She's right. It's just water. And I wouldn't have been there for it. I'd have been on 1604, and the sitter would've texted me a picture, and I'd have laughed at the picture. Instead I was standing in it.",
+  "tts": "She's right. It's just water. And I wouldn't have been there for it. I'd have been on sixteen-oh-four, and the sitter would've texted me a picture, and I'd have laughed at the picture. Instead I was standing in it.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 220,
+  "spk": "WES",
+  "text": "That's the Tuesday.",
+  "tts": "That's the Tuesday.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 221,
+  "spk": "JONATHON",
+  "text": "That's the Tuesday. My socks are still wet.",
+  "tts": "That's the Tuesday. My socks are still wet.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 222,
+  "spk": "JONATHON",
+  "text": "Challenge before the tour. If you've got to go, go with this.",
+  "tts": "Challenge before the tour. If you've got to go, go with this.",
+  "chapter": "This week's challenge",
+  "pre": 1.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": [
+   "chapter"
+  ]
+ },
+ {
+  "n": 223,
+  "spk": "WES",
+  "text": "This week's challenge. Small on purpose, because the first one should be something you'll actually do.",
+  "tts": "This week's challenge. Small on purpose, because the first one should be something you'll actually do.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 224,
+  "spk": "JONATHON",
+  "text": "Two parts.",
+  "tts": "Two parts.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 225,
+  "spk": "WES",
+  "text": "Two parts. First, one meal with no phone. Phone's in another room or in the truck. Not face-down on the table.",
+  "tts": "Two parts. First, one meal with no phone. Phone's in another room or in the truck. Not face-down on the table.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 226,
+  "spk": "JONATHON",
+  "text": "Face-down doesn't count. Noted.",
+  "tts": "Face-down doesn't count. Noted.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 227,
+  "spk": "WES",
+  "text": "If you're married, that's supper with your family. And at that supper, ask your wife one question. \"What's Tuesday like for you?\" Then listen. Don't fix anything.",
+  "tts": "If you're married, that's supper with your family. And at that supper, ask your wife one question. \"What's Tuesday like for you?\" Then listen. Don't fix anything.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 228,
+  "spk": "JONATHON",
+  "text": "Don't fix anything. That's the hard part.",
+  "tts": "Don't fix anything. That's the hard part.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 229,
+  "spk": "WES",
+  "text": "If you're single, eat one meal with somebody, a roommate, your folks, a buddy from work, with the phone in another room. Ask him the same kind of question. What's his regular week like?",
+  "tts": "If you're single, eat one meal with somebody, a roommate, your folks, a buddy from work, with the phone in another room. Ask him the same kind of question. What's his regular week like?",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 230,
+  "spk": "JONATHON",
+  "text": "And if you live alone? Widowed, divorced, just on your own?",
+  "tts": "And if you live alone? Widowed, divorced, just on your own?",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 231,
+  "spk": "WES",
+  "text": "Then invite somebody. That's the challenge for you, and it's a harder one. Call a man and say, \"You want to get supper Thursday?\" And if nobody can come, eat your supper at the table, not in front of a screen, and pray before you eat, out loud. That counts. If you're divorced and you've got your kids this week, that's your supper. Ask them the question.",
+  "tts": "Then invite somebody. That's the challenge for you, and it's a harder one. Call a man and say, \"You want to get supper Thursday?\" And if nobody can come, eat your supper at the table, not in front of a screen, and pray before you eat, out loud. That counts. If you're divorced and you've got your kids this week, that's your supper. Ask them the question.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 232,
+  "spk": "JONATHON",
+  "text": "And part two.",
+  "tts": "And part two.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 233,
+  "spk": "WES",
+  "text": "Part two, text one man. Just ask him how his Tuesday's going. That's it. \"Hey, how's your Tuesday?\"",
+  "tts": "Part two, text one man. Just ask him how his Tuesday's going. That's it. \"Hey, how's your Tuesday?\"",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 234,
+  "spk": "JONATHON",
+  "text": "That's the whole text?",
+  "tts": "That's the whole text?",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 235,
+  "spk": "WES",
+  "text": "That's the whole text. You don't need a reason.",
+  "tts": "That's the whole text. You don't need a reason.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 236,
+  "spk": "JONATHON",
+  "text": "As a man who sent the scariest text of his life to this guy, I want to say it's not that scary. It feels scary. It's two seconds.",
+  "tts": "As a man who sent the scariest text of his life to this guy, I want to say it's not that scary. It feels scary. It's two seconds.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 237,
+  "spk": "WES",
+  "text": "And Friday, we'll tell you if we did it.",
+  "tts": "And Friday, we'll tell you if we did it.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 238,
+  "spk": "JONATHON",
+  "text": "And I'll tell you if he did it.",
+  "tts": "And I'll tell you if he did it.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 239,
+  "spk": "JONATHON",
+  "text": "Okay. The tour. I promised. What is all this? Because people are going to see a website and a book and they're going to wonder if this is a sales pitch.",
+  "tts": "Okay. The tour. I promised. What is all this? Because people are going to see a website and a book and they're going to wonder if this is a sales pitch.",
+  "chapter": "The book, the training, the site",
+  "pre": 1.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": [
+   "chapter"
+  ]
+ },
+ {
+  "n": 240,
+  "spk": "WES",
+  "text": "Fair question. Here's how I'll answer it. This is the one episode where we tell you everything that exists, all of it, plainly. After today, you'll hear them named once near the top, in one line. Past that, only when it actually fits what we're talking about. That's a promise.",
+  "tts": "Fair question. Here's how I'll answer it. This is the one episode where we tell you everything that exists, all of it, plainly. After today, you'll hear them named once near the top, in one line. Past that, only when it actually fits what we're talking about. That's a promise.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 241,
+  "spk": "JONATHON",
+  "text": "I'm going to hold him to that.",
+  "tts": "I'm going to hold him to that.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 242,
+  "spk": "WES",
+  "text": "Good. So. It started with the book.",
+  "tts": "Good. So. It started with the book.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 243,
+  "spk": "WES",
+  "text": "It's called Steadfast Men, The Way of Godly Men. I wrote it. It's thirty-five short chapters in five parts. Part one is the man you were built to be. Part two is what you inherited, your dad, your home, the stuff you brought with you that you didn't choose. Part three is the bigger story, where a man fits in what God's doing. Part four is the house, marriage, the single man, your kids. And part five is the long road.",
+  "tts": "It's called Steadfast Men, The Way of Godly Men. I wrote it. It's thirty-five short chapters in five parts. Part one is the man you were built to be. Part two is what you inherited, your dad, your home, the stuff you brought with you that you didn't choose. Part three is the bigger story, where a man fits in what God's doing. Part four is the house, marriage, the single man, your kids. And part five is the long road.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 244,
+  "spk": "JONATHON",
+  "text": "And the chapters are short. I'm not a reader. I read it in a deer stand.",
+  "tts": "And the chapters are short. I'm not a reader. I read it in a deer stand.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 245,
+  "spk": "WES",
+  "text": "Every chapter ends the same way. Name it. Do this week. Tell a brother. Carry this. So it doesn't let you just nod and close it.",
+  "tts": "Every chapter ends the same way. Name it. Do this week. Tell a brother. Carry this. So it doesn't let you just nod and close it.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 246,
+  "spk": "JONATHON",
+  "text": "And then the training.",
+  "tts": "And then the training.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 247,
+  "spk": "WES",
+  "text": "The training is twenty-four sessions. It's me teaching a room full of men, about twenty-five minutes each. It follows the book in order. And every session ends with something to actually do that week.",
+  "tts": "The training is twenty-four sessions. It's me teaching a room full of men, about twenty-five minutes each. It follows the book in order. And every session ends with something to actually do that week.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 248,
+  "spk": "JONATHON",
+  "text": "And you can do it by yourself.",
+  "tts": "And you can do it by yourself.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 249,
+  "spk": "WES",
+  "text": "You can do it alone, on your phone, at lunch. Or a group of guys can run it on a weeknight. A church, a few neighbors, a deer camp.",
+  "tts": "You can do it alone, on your phone, at lunch. Or a group of guys can run it on a weeknight. A church, a few neighbors, a deer camp.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 250,
+  "spk": "JONATHON",
+  "text": "So what's the difference between the training and this show? Because people are going to ask.",
+  "tts": "So what's the difference between the training and this show? Because people are going to ask.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 251,
+  "spk": "WES",
+  "text": "The training is me teaching. It's built. It goes in order. This show is two men at a table going deeper into the same ground, with our own stories, and with you pushing back through him. If the training is the class, this is the breakfast afterward.",
+  "tts": "The training is me teaching. It's built. It goes in order. This show is two men at a table going deeper into the same ground, with our own stories, and with you pushing back through him. If the training is the class, this is the breakfast afterward.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 252,
+  "spk": "JONATHON",
+  "text": "And I'm the guy at the breakfast with the annoying question.",
+  "tts": "And I'm the guy at the breakfast with the annoying question.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 253,
+  "spk": "JONATHON",
+  "text": "And all of it lives at walksteadfast.com.",
+  "tts": "And all of it lives at walk steadfast dot com.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 254,
+  "spk": "WES",
+  "text": "walksteadfast.com. The book, the training, and every episode of this show. That's the one place to check.",
+  "tts": "walk steadfast dot com. The book, the training, and every episode of this show. That's the one place to check.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 255,
+  "spk": "JONATHON",
+  "text": "And we're on social. We're @steadfastwalk on Instagram, on X, on TikTok, on Facebook.",
+  "tts": "And we're on social. We're at steadfast walk on Instagram, on X, on TikTok, on Facebook.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 256,
+  "spk": "WES",
+  "text": "Steadfast walk. One word.",
+  "tts": "Steadfast walk. One word.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 257,
+  "spk": "JONATHON",
+  "text": "Which is backwards from the website.",
+  "tts": "Which is backwards from the website.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 258,
+  "spk": "WES",
+  "text": "It is.",
+  "tts": "It is.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 259,
+  "spk": "JONATHON",
+  "text": "Why is it backwards?",
+  "tts": "Why is it backwards?",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 260,
+  "spk": "WES",
+  "text": "Somebody had the other one.",
+  "tts": "Somebody had the other one.",
+  "pre": 0.0,
+  "lead": 0.6,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 261,
+  "spk": "JONATHON",
+  "text": "That's the honest answer. Somebody had the other one. It's all in the description, you don't have to memorize it.",
+  "tts": "That's the honest answer. Somebody had the other one. It's all in the description, you don't have to memorize it.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 262,
+  "spk": "WES",
+  "text": "And the short clips go up there during the week.",
+  "tts": "And the short clips go up there during the week.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 263,
+  "spk": "JONATHON",
+  "text": "Okay. So what actually happens on this show?",
+  "tts": "Okay. So what actually happens on this show?",
+  "chapter": "What you get here",
+  "pre": 1.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": [
+   "chapter"
+  ]
+ },
+ {
+  "n": 264,
+  "spk": "WES",
+  "text": "Tuesday's the long one. Thirty minutes or so, one topic, one passage of Scripture read straight, he pushes back, we each tell you what we actually did, and you get one challenge, with a version for the single man and one for the married man.",
+  "tts": "Tuesday's the long one. Thirty minutes or so, one topic, one passage of Scripture read straight, he pushes back, we each tell you what we actually did, and you get one challenge, with a version for the single man and one for the married man.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 265,
+  "spk": "JONATHON",
+  "text": "And Friday's my favorite. Field Notes. Fifteen minutes. First thing, we check the box. Did we do the challenge? Wes checks me, I check him, and we tell you the truth. I'm going to fail on air. I've accepted it.",
+  "tts": "And Friday's my favorite. Field Notes. Fifteen minutes. First thing, we check the box. Did we do the challenge? Wes checks me, I check him, and we tell you the truth. I'm going to fail on air. I've accepted it.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 266,
+  "spk": "WES",
+  "text": "Then one question, from the comments or a message to @steadfastwalk. We won't say your name unless you ask us to. Then one tool you can use that night. Both drop early in the morning, before your commute.",
+  "tts": "Then one question, from the comments or a message to at steadfast walk. We won't say your name unless you ask us to. Then one tool you can use that night. Both drop early in the morning, before your commute.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 267,
+  "spk": "JONATHON",
+  "text": "And the year?",
+  "tts": "And the year?",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 268,
+  "spk": "WES",
+  "text": "We follow the church calendar, loosely. Through mid-February, what a man actually is, in a sentence you can say. Lent is the hard inside stuff. Easter is fathers. Summer is marriage, and the single man's life as it is right now. December is Advent. The whole plan's on the site.",
+  "tts": "We follow the church calendar, loosely. Through mid-February, what a man actually is, in a sentence you can say. Lent is the hard inside stuff. Easter is fathers. Summer is marriage, and the single man's life as it is right now. December is Advent. The whole plan's on the site.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 269,
+  "spk": "JONATHON",
+  "text": "Easter is my season. I'm already nervous.",
+  "tts": "Easter is my season. I'm already nervous.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 270,
+  "spk": "WES",
+  "text": "And what it's not. It's not a sermon with two microphones. Nobody's going to yell at you or tell you to be an alpha anything. We'll disagree, and we won't always settle it.",
+  "tts": "And what it's not. It's not a sermon with two microphones. Nobody's going to yell at you or tell you to be an alpha anything. We'll disagree, and we won't always settle it.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 271,
+  "spk": "JONATHON",
+  "text": "We disagree a lot.",
+  "tts": "We disagree a lot.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 272,
+  "spk": "WES",
+  "text": "We disagree a fair amount.",
+  "tts": "We disagree a fair amount.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 273,
+  "spk": "JONATHON",
+  "text": "See, we just did it.",
+  "tts": "See, we just did it.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 274,
+  "spk": "WES",
+  "text": "If you're a woman listening, you're welcome to pull up a chair. And if you're not sure about God at all, you're welcome too. Jonathon was Easter-and-Christmas until he was twenty-nine.",
+  "tts": "If you're a woman listening, you're welcome to pull up a chair. And if you're not sure about God at all, you're welcome too. Jonathon was Easter-and-Christmas until he was twenty-nine.",
+  "pre": 0.9,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": [
+   "laugh"
+  ]
+ },
+ {
+  "n": 275,
+  "spk": "JONATHON",
+  "text": "And the occasional funeral.",
+  "tts": "And the occasional funeral.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 276,
+  "spk": "WES",
+  "text": "You don't have to believe anything to sit here. If you want a place to start, read the Gospel of Mark. It's short. Read it like you'd read about a man you were deciding whether to trust.",
+  "tts": "You don't have to believe anything to sit here. If you want a place to start, read the Gospel of Mark. It's short. Read it like you'd read about a man you were deciding whether to trust.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 277,
+  "spk": "JONATHON",
+  "text": "That's what I did. In the truck. At lunch.",
+  "tts": "That's what I did. In the truck. At lunch.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 278,
+  "spk": "WES",
+  "text": "Carry this. You don't become a man someday. You put something down on a Tuesday.",
+  "tts": "Carry this. You don't become a man someday. You put something down on a Tuesday.",
+  "chapter": "Carry this",
+  "pre": 1.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": [
+   "chapter"
+  ]
+ },
+ {
+  "n": 279,
+  "spk": "JONATHON",
+  "text": "And carry this. Whatever your 1604 is, take the direct route home.",
+  "tts": "And carry this. Whatever your sixteen-oh-four is, take the direct route home.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 280,
+  "spk": "JONATHON",
+  "text": "Okay. So this is the end of every episode, and since it's the first one, we're going to do the long version once.",
+  "tts": "Okay. So this is the end of every episode, and since it's the first one, we're going to do the long version once.",
+  "chapter": "Outro",
+  "pre": 1.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": [
+   "beat",
+   "chapter"
+  ]
+ },
+ {
+  "n": 281,
+  "spk": "WES",
+  "text": "Once.",
+  "tts": "Once.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 282,
+  "spk": "JONATHON",
+  "text": "Once. Friday is Field Notes, episode two. We'll tell you whether we did the challenge, and we'll answer a question a lot of men ask when they're starting this. How do you start if you've never been the spiritual one?",
+  "tts": "Once. Friday is Field Notes, episode two. We'll tell you whether we did the challenge, and we'll answer a question a lot of men ask when they're starting this. How do you start if you've never been the spiritual one?",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 283,
+  "spk": "WES",
+  "text": "That's a good one.",
+  "tts": "That's a good one.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 284,
+  "spk": "JONATHON",
+  "text": "If you're on YouTube, subscribe, so Friday shows up for you. If you're listening on Apple Podcasts or Spotify, hit follow. Same thing, different button.",
+  "tts": "If you're on YouTube, subscribe, so Friday shows up for you. If you're listening on Apple Podcasts or Spotify, hit follow. Same thing, different button.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 285,
+  "spk": "WES",
+  "text": "And everything else is at walksteadfast.com. The book, the training, and every episode.",
+  "tts": "And everything else is at walk steadfast dot com. The book, the training, and every episode.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 286,
+  "spk": "JONATHON",
+  "text": "We're @steadfastwalk on Instagram, X, TikTok and Facebook. That's where the short clips go during the week. Steadfast walk, one word.",
+  "tts": "We're at steadfast walk on Instagram, X, TikTok and Facebook. That's where the short clips go during the week. Steadfast walk, one word.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 287,
+  "spk": "WES",
+  "text": "Backwards from the website.",
+  "tts": "Backwards from the website.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 288,
+  "spk": "JONATHON",
+  "text": "Backwards from the website. Somebody had the other one.",
+  "tts": "Backwards from the website. Somebody had the other one.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 289,
+  "spk": "JONATHON",
+  "text": "Every link we mentioned is in the show notes. This week's challenge is written out in the show notes, plus a question for you. We want to know what your Tuesday looks like. Tell us in the comments.",
+  "tts": "Every link we mentioned is in the show notes. This week's challenge is written out in the show notes, plus a question for you. We want to know what your Tuesday looks like. Tell us in the comments.",
+  "pre": 0.9,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": [
+   "laugh"
+  ]
+ },
+ {
+  "n": 290,
+  "spk": "WES",
+  "text": "And if somebody sent you this episode, go tell him thanks. He thought of you.",
+  "tts": "And if somebody sent you this episode, go tell him thanks. He thought of you.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 291,
+  "spk": "JONATHON",
+  "text": "So how do we end these? We never decided.",
+  "tts": "So how do we end these? We never decided.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 292,
+  "spk": "WES",
+  "text": "We'll see you at the table.",
+  "tts": "We'll see you at the table.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 293,
+  "spk": "JONATHON",
+  "text": "Go walk it out.",
+  "tts": "Go walk it out.",
+  "pre": 0.0,
+  "lead": 0.6,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 294,
+  "spk": "WES",
+  "text": "Is that ours now?",
+  "tts": "Is that ours now?",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 295,
+  "spk": "JONATHON",
+  "text": "That's ours now.",
+  "tts": "That's ours now.",
+  "pre": 0.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": []
+ },
+ {
+  "n": 296,
+  "spk": "WES",
+  "text": "Produced with AI voice and video tools.",
+  "tts": "Produced with AI voice and video tools.",
+  "pre": 3.0,
+  "lead": 0.0,
+  "midbeats": 0,
+  "pre_reason": [
+   "action",
+   "music",
+   "action"
+  ]
+ }
+]

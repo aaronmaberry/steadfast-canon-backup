@@ -6,7 +6,7 @@ Walk Steadfast · Field Notes · script v1 (batch 3). Internal.
 |---|---|
 | Release | Fri Mar 5, 2027, 5:00 AM CT |
 | Format | Field Notes. About 15 min. |
-| Slate | JONATHON "Episode eighteen. Friday, March fifth." WES "Field Notes. Which Shape Are You." |
+| Intro and slate | Per-episode open, Jonathon leads (SHOW-BIBLE section 5, open system v3, text in _build/intros_data.py). Slate: JONATHON "Episode eighteen." WES "Field Notes. Which Shape Are You." |
 | Checks | E017 challenge: name which of the three shapes you lived this week (skip the house, run the room, wear the job as your name), then one contrary act. Married option: ask your wife which shape she sees (calm night, say yours first, don't argue, sit with it a day). Also the gutter (Sat Feb 27) and the rep's reply. Single check: the nephew. |
 | From the Table | "My wife says I run the room. I think she's wrong. Now what?" |
 | Tool on the Table | Ask one person |
@@ -31,10 +31,6 @@ Wes looking straight at camera, eyebrows raised. Text: **"WITH YOUR MOTHER."** V
 
 [CAM: WIDE]
 
-[CHAPTER: Slate]
-JONATHON: Episode eighteen. Friday, March fifth.
-WES: Field Notes. Which Shape Are You.
-
 [CHAPTER: Cold open]
 [CAM: WES MS]
 WES: We hung the gutter perfectly level.
@@ -44,12 +40,22 @@ JONATHON: That's good, right?
 WES: Gutters aren't supposed to be level.
 [STING 3s]
 
+[CHAPTER: Intro]
+[CAM: 2S]
+(Walk Steadfast open written for E018. Same beats every week, new words. SHOW-BIBLE section 5.)
+JONATHON: This is Walk Steadfast. I'm Jonathon, from San Antonio by way of Pasadena.
+[LOWER THIRD: Jonathon]
+WES: I'm Wes Hart. I'm handier with men than with tools.
+[LOWER THIRD: Wes Hart]
+JONATHON: On Friday we report. There's a book and a video training too, at walksteadfast.com.
+WES: And a man whose wife says he runs the room gets an answer today.
+JONATHON: Episode eighteen.
+WES: Field Notes. Which Shape Are You.
+
 [CHAPTER: Check the box]
 [CAM: WIDE]
 JONATHON: Pull up a chair. It's Field Notes. And we have to start with the gutter, because I've waited three weeks.
-[LOWER THIRD: Jonathon]
 WES: Fifteen months and three weeks.
-[LOWER THIRD: Wes Hart]
 [CAM: WES MS]
 WES: Saturday, eight a.m. My son-in-law shows up with a ladder and a drill and a box of donuts, which was his idea, and I respect it. My wife sets up a lawn chair at the bottom with her coffee. And I go up three rungs, exactly three, and hold the bracket, and he does the screws.
 JONATHON: How were the knees?
@@ -200,6 +206,11 @@ WES: See you at the table.
 JONATHON: Go walk it out.
 (Wes pulls a small torpedo level from his shirt pocket, sets it on the table, and checks it. The bubble is centered. He looks at Jonathon. Hold WIDE 2s. Cut.)
 
+[CLOSING MUSIC 3s]
+[CREDITS]
+(Wes, normal credits volume, read like a producer credit. No gap, no ducking. SHOW-BIBLE section 13.)
+WES: Produced with AI voice and video tools.
+
 ## Shorts (4)
 
 | # | Cut | Hook | Length |
@@ -218,11 +229,12 @@ Field Notes, the Friday check-in from Walk Steadfast. Also: a back-porch gutter 
 
 Chapters
 00:00 Cold open
-00:16 Check the box
-06:35 From the table
-10:26 Tool on the table
-13:18 Carry this
-13:36 Outro
+00:10 Intro
+00:46 Check the box
+07:05 From the table
+10:57 Tool on the table
+13:49 Carry this
+14:06 Outro
 
 Scripture: Proverbs 12:15 (NIV)
 
@@ -237,8 +249,6 @@ Facebook  facebook.com/steadfastwalk
 TikTok  tiktok.com/@steadfastwalk
 Reddit  reddit.com/user/steadfastwalk
 LinkedIn  linkedin.com/company/steadfastwalk
-
-Walk Steadfast is made with AI-generated video and voices. Wes and Jonathon are characters, and their stories are composites drawn from real men's lives.
 
 Scripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.™ Used by permission. All rights reserved worldwide.
 

@@ -6,7 +6,7 @@ None of this is meant to wow you. They aren't famous. You'd stand behind any of 
 
 ## Born for a hard day
 
-I've used the word brother since chapter one, and I've meant it. These men and I are in the same work. We've said hard, true things over coffee, in truck cabs, on nine o'clock phone calls. We've walked fence before sunup, prayed over each other's boys, stood at gravesides, rocked newborns, and dialed each other with nothing useful to say. Solomon put the whole thing in one proverb.
+I've used the word brother since the first page, and I've meant it. These men and I are in the same work. We've said hard, true things over coffee, in truck cabs, on nine o'clock phone calls. We've walked fence before sunup, prayed over each other's boys, stood at gravesides, rocked newborns, and dialed each other with nothing useful to say. Solomon put the whole thing in one proverb.
 
 :::margin
 **Proverbs 17:17 NIV**
@@ -103,7 +103,7 @@ You've made it to the end, with a written page, a man you asked, and one mark al
 
 **Name it**
 
-Because a man needs to know his ground and the man he's walking toward. Say it aloud: which man in this chapter looks most like you right now, and which one are you turning into? Then name your season once more, like a pasture you could walk blindfolded.
+You need to know your ground and the man you're walking toward. Say it aloud: which man in this chapter looks most like you right now, and which one are you turning into? Then name your season once more, like a pasture you could walk blindfolded.
 
 :::notes
 _______________________________________________
@@ -113,7 +113,7 @@ _______________________________________________
 
 **Do this week**
 
-Because a plan that never gets lived leaves blank the one page that counts. Do the bottom line on your page. Then, before the week ends, read the four marks slowly and hang your week against them like a plumb line on a fresh wall.
+A plan that never gets lived leaves blank the one page that counts. Do the bottom line on your page. Then, before the week ends, read the four marks slowly and hang your week against them like a plumb line on a fresh wall.
 
 :::notes
 _______________________________________________
@@ -123,7 +123,7 @@ _______________________________________________
 
 **Be a brother**
 
-Because somebody has to make the first move, or this company never grows. You've spent the book telling a brother. Now be one. Look around church, the job site, your street, for the man standing where you stood. Ask if he'd be willing to talk twenty minutes a week. And when he calls, pick up.
+Somebody has to make the first move, or this company never grows. You've spent the book telling a brother. Now be one. Look around church, the job site, your street, for the man standing where you stood. Ask if he'd be willing to talk twenty minutes a week. And when he calls, pick up.
 
 :::notes
 _______________________________________________

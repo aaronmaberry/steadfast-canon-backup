@@ -27,6 +27,8 @@ Where people listen (Buzzsprout platform data): Apple Podcasts 34.8% of download
 
 ## Recommendation
 
+**Status (Aaron, 2026-10-03): hosting is PARKED until launch.** The comparison below stays for reference. Nothing gets signed up and nothing is spent.
+
 1. **YouTube:** direct upload, free. This is the main home of the show.
 2. **Audio feed:** **Buzzsprout Audio + Video, $300 a year billed annually.** Of the hosts we compared, it's the cheapest one that also puts the video on Apple Podcasts. Its 6 hours a month covers two episodes a week with room to spare, and it's the easiest one for Aaron to run without help.
 3. **Spotify:** submit the Buzzsprout feed to Spotify (free). Also claim the show in Spotify for Creators, so Aaron controls the page and sees the stats.
@@ -37,9 +39,10 @@ Where people listen (Buzzsprout platform data): Apple Podcasts 34.8% of download
 
 ## Launch checklist (no action until Aaron says)
 
-- [ ] Final show name and a trademark check
+- [x] Final show name: **Walk Steadfast** (locked by Aaron, 2026-10-03)
+- [ ] Trademark check on "Walk Steadfast"
 - [ ] Cover art, 3000x3000 square, navy, gold and bone. Readable at 55 px. The show name only, no episode number.
-- [ ] Show description (about 150 words), category Religion & Spirituality > Christianity, secondary Society & Culture > Relationships. The explicit flag is off.
+- [ ] Show description (about 150 words, `launch-kit/SHOW-DESCRIPTION.md`, last line "Produced with AI voice and video tools." per show bible section 13), category Religion & Spirituality > Christianity, secondary Society & Culture > Relationships. The explicit flag is off.
 - [ ] Owner email (a Steadfast address, not personal)
 - [ ] Trailer episode (60-90 s, cut from E001) published first, so the feed exists for Apple review
 - [ ] Apple Podcasts Connect submission (review can take a few days)

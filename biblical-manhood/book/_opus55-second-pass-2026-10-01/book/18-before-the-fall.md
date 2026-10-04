@@ -141,7 +141,7 @@ Think about closing day on a house. You walk through before the movers come. Emp
 
 ## What comes next
 
-Picture him at the end of that first week, walking with God in the cool of the evening, hiding nothing from Him or from her. That's what you were made for. Next chapter, we see what he did with it.
+Picture him at the end of that first week, walking with God in the cool of the evening, hiding nothing from Him or from her. That's what you were made for. Next, we see what he did with it.
 
 ## Before you turn the page
 
@@ -154,7 +154,7 @@ Sit here a minute while the garden is still whole. Shaped by hand. Breathed into
 
 **Name it**
 
-Because you can't head back toward an original you've never studied. In one full sentence, say which part of that first week feels most bent in you now: being made and wanted, your place, your work, the rest, the people, your words, or living with nothing hidden.
+An original you've never studied is hard to head back toward. In one full sentence, say which part of that first week feels most bent in you now: being made and wanted, your place, your work, the rest, the people, your words, or living with nothing hidden.
 
 :::notes
 _______________________________________________
@@ -164,7 +164,7 @@ _______________________________________________
 
 **Do this week**
 
-Because this design was made to be read out loud, not boiled down. Some ordinary morning, read the first two chapters of Genesis aloud in one sitting. Write a single sentence on why God made a man, and then tend one thing you've been given, as a gift.
+This design was made to be read out loud, not boiled down. Some ordinary morning, read the first two chapters of Genesis aloud in one sitting. Write a single sentence on why God made a man, and then tend one thing you've been given, as a gift.
 
 :::notes
 _______________________________________________
@@ -174,7 +174,7 @@ _______________________________________________
 
 **Tell a brother**
 
-Because a brother may spot a bend you've never noticed. Tell him the part you named and what moving back toward it would take this month. Then ask him where he sees you bent.
+Your brother may spot a bend you've never noticed. Tell him the part you named and what moving back toward it would take this month. Then ask him where he sees you bent.
 
 :::notes
 _______________________________________________

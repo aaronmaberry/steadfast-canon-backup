@@ -6,7 +6,7 @@ Walk Steadfast · Field Notes · script v1 (batch 3). Internal.
 |---|---|
 | Release | Fri Mar 26, 2027, 5:00 AM CT (Good Friday) |
 | Format | Field Notes, the season review. About 15 min. The order changes this week: From the Table comes first, then the tool, then the check, then what stuck. |
-| Slate | WES "Episode twenty-four. Friday, March twenty-sixth." JONATHON "Field Notes. Good Friday." |
+| Intro and slate | Per-episode open, Jonathon leads (SHOW-BIBLE section 5, open system v3, text in _build/intros_data.py). Slate: JONATHON "Episode twenty-four." WES "Field Notes. Good Friday." |
 | Checks | E023 challenge: name which man you walked like, walk out of the trees on one thing and say when, and look for someone alone at home plate. Plus the twin's dad at Thursday practice, and screen time week two (one line). Single check: Wes's oldest son, 21, by phone call, not text. |
 | From the Table | "What do I do with Good Friday as a dad?" |
 | Tool on the Table | Reading the Passion out loud at supper (John 18-19) |
@@ -32,10 +32,6 @@ Jonathon holding his Bible open with three handwritten sticky tabs showing (NARA
 
 [CAM: WIDE]
 
-[CHAPTER: Slate]
-WES: Episode twenty-four. Friday, March twenty-sixth.
-JONATHON: Field Notes. Good Friday.
-
 [CHAPTER: Cold open]
 [CAM: WES MS]
 WES: Every Good Friday, my dad turned the radio off at noon.
@@ -45,12 +41,22 @@ JONATHON: Why?
 WES: He never said. He just turned it back on at three.
 [STING 3s]
 
+[CHAPTER: Intro]
+[CAM: 2S]
+(Walk Steadfast open written for E024. Same beats every week, new words. SHOW-BIBLE section 5.)
+JONATHON: This is Walk Steadfast, on Good Friday. I'm Jonathon. My mom's bringing the ham Sunday.
+[LOWER THIRD: Jonathon]
+WES: I'm Wes Hart, from a Hill Country farm.
+[LOWER THIRD: Wes Hart]
+JONATHON: Friday we report and look back. His book and a video training for men are on walksteadfast.com.
+WES: Today we ask what a dad does with Good Friday.
+JONATHON: Episode twenty-four.
+WES: Field Notes. Good Friday.
+
 [CHAPTER: From the table]
 [CAM: WIDE]
 JONATHON: Pull up a chair. It's Field Notes, and it's Good Friday, so we're doing it backwards this week. Question first. Because this is the one that came in, about twenty different ways, after Tuesday.
-[LOWER THIRD: Jonathon]
 WES: It's a good one.
-[LOWER THIRD: Wes Hart]
 [CAM: JON MS]
 JONATHON: Here's the one I picked. "My kids are six and three. Good Friday feels too dark for them and too big for me. Easter I can do. Eggs, church, ham. Friday I don't know what to do with, so I don't do anything. What do I do with Good Friday as a dad?"
 [CAM: WES MS]
@@ -217,6 +223,11 @@ WES: We'll see you at the table.
 JONATHON: Go walk it out.
 (Wes looks at his watch, then reaches under the desk. Off camera, a radio clicks off. Hold WIDE in silence 3s. Cut.)
 
+[CLOSING MUSIC 3s]
+[CREDITS]
+(Wes, normal credits volume, read like a producer credit. No gap, no ducking. SHOW-BIBLE section 13.)
+WES: Produced with AI voice and video tools.
+
 ## Shorts (4)
 
 | # | Cut | Hook | Length |
@@ -235,12 +246,13 @@ Field Notes, the Friday check-in from Walk Steadfast, and the season review. The
 
 Chapters
 00:00 Cold open
-00:18 From the table
-04:30 Tool on the table
-08:02 Check the box
-10:26 What stuck
-13:32 Carry this
-13:43 Outro
+00:14 Intro
+00:49 From the table
+05:01 Tool on the table
+08:33 Check the box
+10:57 What stuck
+14:02 Carry this
+14:14 Outro
 
 Scripture: John 19:30 (NIV)
 
@@ -255,8 +267,6 @@ Facebook  facebook.com/steadfastwalk
 TikTok  tiktok.com/@steadfastwalk
 Reddit  reddit.com/user/steadfastwalk
 LinkedIn  linkedin.com/company/steadfastwalk
-
-Walk Steadfast is made with AI-generated video and voices. Wes and Jonathon are characters, and their stories are composites drawn from real men's lives.
 
 Scripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.™ Used by permission. All rights reserved worldwide.
 

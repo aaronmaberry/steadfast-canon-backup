@@ -6,7 +6,7 @@ Walk Steadfast · main episode · script v1 (pre-focus-group). Internal.
 |---|---|
 | Release | Tue Jan 12, 2027, 5:00 AM CT |
 | Format | Main episode (show bible 4a). About 27 min, about 3,700 spoken words, plus a silent beat while Jonathon writes. |
-| Slate | WES "Walk Steadfast, episode three." JONATHON "Tuesday, January twelfth." WES "Nobody Ever Gave You the Sentence." |
+| Intro and slate | Per-episode open, Wes leads (SHOW-BIBLE section 5, open system v3, text in _build/intros_data.py). Slate: JONATHON "Episode three. Nobody Ever Gave You the Sentence." |
 | Source | Book chapter 2, You Are Not Crazy. Training W02. New stories only. Doesn't recite the marks; that's E005. |
 | Focus mark | None by design. This episode sets up the sentence in E005. Stop Waiting is touched once in the challenge ("write it this week"). |
 | Scripture (NIV) | Genesis 1:27 (checked 2026-10-02) |
@@ -31,29 +31,34 @@ Jonathon close-up, hands open, half-laughing. Text: **"WHAT'S A MAN?"**. Variant
 
 [CAM: WIDE]
 
-[CHAPTER: Slate]
-WES: Walk Steadfast, episode three.
-JONATHON: Tuesday, January twelfth.
-WES: Nobody Ever Gave You the Sentence.
-
 [CHAPTER: Cold open]
 [CAM: JON MS]
-JONATHON: So Theo's in the bath, and he goes, "Daddy, what's a man?" And I said, "A man is a big boy."
+JONATHON: Theo's in the bath, and he goes, "Daddy, what's a man?" I said, "A man is a big boy."
 [CAM: WES CU]
 WES: (beat) A big boy.
 [CAM: JON MS]
-JONATHON: And he looks at me, totally serious, and he goes, "Are you a big boy?"
+JONATHON: And he goes, totally serious, "Are you a big boy?"
 [CAM: 2S]
 (Wes puts his head down on the table. Jonathon shrugs at the camera.)
-JONATHON: I sell forty-ton rooftop units for a living. I could not answer a four-year-old.
+JONATHON: I could not answer a four-year-old.
 [STING 3s]
+
+[CHAPTER: Intro]
+[CAM: 2S]
+(Walk Steadfast open written for E003. Same beats every week, new words. SHOW-BIBLE section 5.)
+WES: This is Walk Steadfast. I'm Wes Hart. Most of what I know about men, I heard over bad diner coffee.
+[LOWER THIRD: Wes Hart]
+JONATHON: And I'm Jonathon, from San Antonio.
+[LOWER THIRD: Jonathon]
+WES: Every Tuesday we stay on one piece of following Jesus as a man.
+JONATHON: Wes's book and the video training are at walksteadfast.com.
+WES: We'll find the sentence you've actually been living today.
+JONATHON: Episode three. Nobody Ever Gave You the Sentence.
 
 [CHAPTER: Pull up a chair]
 [CAM: WIDE]
 WES: Glad you're here. Wherever here is. Truck, treadmill, kitchen.
-[LOWER THIRD: Wes Hart]
 JONATHON: Treadmill. Who's listening to us on a treadmill?
-[LOWER THIRD: Jonathon]
 WES: Somebody is. Somebody's on a treadmill right now, getting passed by an eighty-year-old woman.
 JONATHON: That's me at the gym. That's every time.
 (both laugh)
@@ -187,7 +192,6 @@ WES: And the phone gives you whatever sells. That's the newest one. That's your 
 [CAM: 2S]
 JONATHON: So nobody's walking around with no sentence.
 WES: Nobody. Every man's walking around with a sentence he stitched together from a coach, a boss, a dad and a phone, and he's never once read it out loud.
-
 
 [CHAPTER: You are not crazy]
 [CAM: WIDE]
@@ -367,6 +371,11 @@ WES: We'll see you at the table.
 JONATHON: Go walk it out.
 (Hold WIDE 2s. Cut.)
 
+[CLOSING MUSIC 3s]
+[CREDITS]
+(Wes, normal credits volume, read like a producer credit. No gap, no ducking. SHOW-BIBLE section 13.)
+WES: Produced with AI voice and video tools.
+
 ## Shorts (6)
 
 | # | Cut | Hook | Length |
@@ -387,18 +396,19 @@ Wes tells the story of a diner receipt and the bad sentence he lived for fifteen
 
 Chapters
 00:00 Cold open
-00:30 Pull up a chair
-01:45 The bath
-03:38 The sentence you've been living
-06:51 Your turn
-08:52 Where we got them
-11:47 You are not crazy
-14:10 The Word
-18:05 Pushback
-22:01 What I actually did
-24:23 This week's challenge
-26:28 Carry this
-26:44 Outro
+00:18 Intro
+00:55 Pull up a chair
+02:10 The bath
+04:02 The sentence you've been living
+07:15 Your turn
+09:17 Where we got them
+12:11 You are not crazy
+14:34 The Word
+18:30 Pushback
+22:25 What I actually did
+24:48 This week's challenge
+26:53 Carry this
+27:09 Outro
 
 Scripture: Genesis 1:27 (NIV)
 
@@ -416,8 +426,6 @@ Facebook  facebook.com/steadfastwalk
 TikTok  tiktok.com/@steadfastwalk
 Reddit  reddit.com/user/steadfastwalk
 LinkedIn  linkedin.com/company/steadfastwalk
-
-Walk Steadfast is made with AI-generated video and voices. Wes and Jonathon are characters, and their stories are composites drawn from real men's lives.
 
 Scripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.™ Used by permission. All rights reserved worldwide.
 

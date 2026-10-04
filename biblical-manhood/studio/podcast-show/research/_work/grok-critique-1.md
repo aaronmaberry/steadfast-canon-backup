@@ -1,0 +1,1 @@
+I'll read the research, show bible, intro draft, host files, and writing rules, then print a hard critique to stdout only.The host files and research are in. Next I’ll pull the show-bible sections that lock format, intro, and outro.The samples run long against the draft’s own caps. I’ll confirm word counts, then print the critique.

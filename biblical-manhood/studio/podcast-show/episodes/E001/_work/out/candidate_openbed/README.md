@@ -1,0 +1,11 @@
+# Open bed candidate (5:36 PM CT, 2026-10-03, rebuilt that evening with the no-date slate)
+
+This is a candidate only. The main E001 files are unchanged. It cost nothing, because it reuses `music/theme-D-full_take1.mp3` and needed no new generation.
+
+- `E001-walk-steadfast_openbed-candidate.mp3` is the full episode with the bed under the open, at -16.0 LUFS and -3.0 dBTP, 31:44. Rebuilt on the evening of 2026-10-03 from the no-date master, so the slate is "Episode one. The Man You Keep Saying You'll Be." with no date. `final_f32.wav` is its float master.
+- `../../openbed.py` builds it from `out/master_f32.wav`, `out/music_stem.npy` and the theme.
+- **Music.** The sting plays exactly as in the main mix, then runs straight on into the theme's calm guitar-and-bass section. The music is theme 0.12-23.04 s, then 9.30-22.25 s, joined by a 0.3 s crossfade at a 4-bar repeat (chroma match 0.98, onset match 0.91). It stays out of the busier pedal-steel stretch from 31 s on.
+- **Level.** It eases from the sting level down to the bed over the 0.6 s before Wes's first open line. The bed sits at -35.1 LUFS under the open and slate, where the voices read -16.2, so it's 18.9 LU under. Across the slate alone, gaps included, it reads -33.8. Voices plus bed measure -16.2, the same as voices alone. Nothing changed in the cold open.
+- **Fade.** The bed fades out over 1.5 s, from 0:50.3 to 0:51.8, as "Pull up a chair" starts (0:51.3).
+- **Comparison.** `music/E001-open-AB.mp4` plays "A. Dry open" (0:00-1:00 of the current master), then 1.5 s of silence, then "B. Low bed under open" (the same minute with the bed). Each half is normalized to -16 LUFS by gain only (+0.1 dB each). The whole file reads -16.1 LUFS and -2.7 dBTP after AAC (rebuilt with `../../ab_build.py`), with a 0.3 s fade at 1:00.
+- **Whisper check.** Every line of the cold open, open and slate (lines 1-12) is heard word for word in B, both per line and across the whole half. It also matches A. The only differences are number forms ("20-some," "Episode 1") and the known "pick the parking lot." This check was run on the 5:36 PM build. The dialogue in the rebuild is the same audio minus the date line (see QA.md, "No-date slate").

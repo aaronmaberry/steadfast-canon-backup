@@ -1,0 +1,49 @@
+{
+ "clipped_samples": 0,
+ "sample_peak_dbfs": -1.93,
+ "WES": [
+  -16.0,
+  -1.8
+ ],
+ "WES_open": [
+  -16.0,
+  -1.9
+ ],
+ "WES_pickups": [
+  -16.1,
+  -1.9
+ ],
+ "WES_rest": [
+  -16.0,
+  -1.8
+ ],
+ "JONATHON": [
+  -16.0,
+  -1.9
+ ],
+ "JONATHON_open": [
+  -16.0,
+  -1.9
+ ],
+ "JONATHON_pickups": [
+  -16.2,
+  -1.9
+ ],
+ "JONATHON_rest": [
+  -16.0,
+  -1.9
+ ],
+ "gap_rms_open_db": -70.1,
+ "gap_rms_rest_db": -70.1,
+ "turn_gap_min": 0.3,
+ "turn_gap_max_excl_credits": 2.85,
+ "turn_gap_median": 0.47,
+ "credits_gap_s": 3.9,
+ "tail_after_credits_s": 0.6,
+ "WES_wpm": 185,
+ "JONATHON_wpm": 200,
+ "cold_open_s": 15.5,
+ "open_s": 27.8,
+ "slate_s": 3.0,
+ "runtime_s": 1904.03
+}

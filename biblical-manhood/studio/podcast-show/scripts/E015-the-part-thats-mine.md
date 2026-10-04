@@ -6,7 +6,7 @@ Walk Steadfast · main episode · script v1 (batch 2, written after reader panel
 |---|---|
 | Release | Tue Feb 23, 2027, 5:00 AM CT |
 | Format | Main episode. About 26 min. |
-| Slate | WES "Walk Steadfast, episode fifteen." JONATHON "Tuesday, February twenty-third, twenty twenty-seven." WES "The Part That's Mine." |
+| Intro and slate | Per-episode open, Wes leads (SHOW-BIBLE section 5, open system v3, text in _build/intros_data.py). Slate: JONATHON "Episode fifteen. The Part That's Mine." |
 | Source | Book chapter 15, The Problem Inside. Training W15 (premieres this week). Avoided on purpose: the paint blister, rust and the body man; the book's story of a father scaring his daughter with his voice; the "perfect father" thought experiment; the struggle-versus-sin word swap; guilt-versus-shame as a lecture; Mark 7 and the handwashing; Psalm 32, Psalm 51:10 and James 5:16 (all book margins). W15's smell in the wall and the candles, the thermostat, the padded expense reports, the surgeon, the lunch tray, and the ride home from the ballgame. Calendar working title "The Problem Is Inside the House" changed, because W15 uses "inside the house" for the smell. |
 | Focus mark | **Pick Up the Weight**, named in Pull up a chair and again in Carry this. The weight here is the part of the story that's yours. Callback to the duffel (E009), no reprint. |
 | Scripture (NIV) | Romans 7:18 (checked 2026-10-03), read by Wes. Romans 7:24-25 paraphrased, not carded. |
@@ -31,11 +31,6 @@ Wes in close-up, looking off-camera, not smiling. Text: **"I WASN'T THERE"**. Va
 
 [CAM: WIDE]
 
-[CHAPTER: Slate]
-WES: Walk Steadfast, episode fifteen.
-JONATHON: Tuesday, February twenty-third, twenty twenty-seven.
-WES: The Part That's Mine.
-
 [CHAPTER: Cold open]
 [CAM: JON MS]
 JONATHON: I took credit for a kid's deal once.
@@ -45,12 +40,22 @@ WES: When?
 JONATHON: Eight years ago. (beat) He works for me now.
 [STING 3s]
 
+[CHAPTER: Intro]
+[CAM: 2S]
+(Walk Steadfast open written for E015. Same beats every week, new words. SHOW-BIBLE section 5.)
+WES: This is Walk Steadfast, and a new stretch starts today. I'm Wes Hart.
+[LOWER THIRD: Wes Hart]
+JONATHON: I'm Jonathon. I've managed salespeople a long time.
+[LOWER THIRD: Jonathon]
+WES: Twice a week, following Jesus as a man. For a while we're on what we were handed.
+JONATHON: Wes's book and the video training are at walksteadfast.com.
+WES: Today we name the part that's actually yours.
+JONATHON: Episode fifteen. The Part That's Mine.
+
 [CHAPTER: Pull up a chair]
 [CAM: WIDE]
 WES: Pull up a chair.
-[LOWER THIRD: Wes Hart]
 JONATHON: Phone jail update.
-[LOWER THIRD: Jonathon]
 WES: Go ahead.
 JONATHON: Ruby jailed Dani's phone. Saturday morning, at breakfast. Dani was texting her charge nurse, and Ruby just held out the basket. Didn't say a word. And Dani put it in.
 WES: Your wife did time.
@@ -313,6 +318,11 @@ WES: We'll see you at the table.
 JONATHON: Go walk it out.
 (Jonathon flips his phone over, looks at it, and slides it into an imaginary basket at the edge of the table. Wes watches him do it. Hold WIDE 2s. Cut.)
 
+[CLOSING MUSIC 3s]
+[CREDITS]
+(Wes, normal credits volume, read like a producer credit. No gap, no ducking. SHOW-BIBLE section 13.)
+WES: Produced with AI voice and video tools.
+
 ## Shorts (5)
 
 | # | Cut | Hook | Length |
@@ -332,16 +342,17 @@ Your dad explains a lot. He doesn't explain all of it. A Lent episode on Romans 
 
 Chapters
 00:00 Cold open
-00:17 Pull up a chair
-01:39 The district deal
-05:11 The headache
-08:34 The because
-10:38 The Word
-13:58 Pushback
-19:32 What I actually did
-23:09 This week's challenge
-24:39 Carry this
-24:58 Outro
+00:10 Intro
+00:46 Pull up a chair
+02:08 The district deal
+05:40 The headache
+09:03 The because
+11:07 The Word
+14:27 Pushback
+20:01 What I actually did
+23:38 This week's challenge
+25:08 Carry this
+25:27 Outro
 
 Scripture: Romans 7:18 (NIV)
 
@@ -356,8 +367,6 @@ Facebook  facebook.com/steadfastwalk
 TikTok  tiktok.com/@steadfastwalk
 Reddit  reddit.com/user/steadfastwalk
 LinkedIn  linkedin.com/company/steadfastwalk
-
-Walk Steadfast is made with AI-generated video and voices. Wes and Jonathon are characters, and their stories are composites drawn from real men's lives.
 
 Scripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.™ Used by permission. All rights reserved worldwide.
 

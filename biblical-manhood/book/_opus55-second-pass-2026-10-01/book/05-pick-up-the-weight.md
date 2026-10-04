@@ -63,7 +63,7 @@ Then today's work. Do it like the owner is standing behind you. One is.
 
 Then the people tied to you. The buddy in trouble. The man at church whose wife moved out this month. The boy two doors down whose dad is mostly a rumor. Keeper is your job. Savior is already taken, by One Man.
 
-Last comes the weight men drop first, and it's the heaviest: your own wrong. Not the wrong done to you. That's another chapter. I mean the thing you said at supper you can't take back, the years you were home in body only, the thing she still hasn't been told. Put that down and it doesn't shrink. It slides onto everybody else in the house and grows on the way. With grown kids, it's mostly the oldest weight, the mistakes from their childhood. It's not too late to lift it. Usually that starts with a phone call.
+Last comes the weight men drop first, and it's the heaviest: your own wrong. Not the wrong done to you. We'll get to that later. I mean the thing you said at supper you can't take back, the years you were home in body only, the thing she still hasn't been told. Put that down and it doesn't shrink. It slides onto everybody else in the house and grows on the way. With grown kids, it's mostly the oldest weight, the mistakes from their childhood. It's not too late to lift it. Usually that starts with a phone call.
 
 ## The crush and the pack
 
@@ -111,7 +111,7 @@ If something settled on your shoulders while you read, that's what being the wal
 
 **Name it**
 
-Because the mark begins with a sentence you let stand on its own. Write one line that opens with "That's mine" and stops at the period. Leave off any "but." Leave off any "because."
+The mark begins with a sentence you let stand on its own. Write one line that opens with "That's mine" and stops at the period. Leave off any "but." Leave off any "because."
 
 :::notes
 _______________________________________________
@@ -121,7 +121,7 @@ _______________________________________________
 
 **Do this week**
 
-Because a deposit can't be all a household gets from you. Each day this week, give something money can't buy. Cook supper. Sit up front at the game. Ask a question and hear the whole answer. Living alone or with roommates? Claim the chore nobody claims, the trash or the sink, and keep it.
+Your household needs more from you than a deposit. Each day this week, give something money can't buy. Cook supper. Sit up front at the game. Ask a question and hear the whole answer. Living alone or with roommates? Claim the chore nobody claims, the trash or the sink, and keep it.
 
 :::notes
 _______________________________________________
@@ -131,7 +131,7 @@ _______________________________________________
 
 **Tell a brother**
 
-Because it's harder to drop a weight once another man has heard you claim it. Tell him your "That's mine" line and what you did next, and ask him to check back in a week.
+Once another man has heard you claim a weight, it's harder to drop. Tell him your "That's mine" line and what you did next, and ask him to check back in a week.
 
 :::notes
 _______________________________________________

@@ -1,0 +1,11 @@
+{"chunk": "v1", "offset": 480, "start": 480.0, "end": 487.0, "local_start": 0.0, "local_end": 7.0, "text": "John", "avg_logprob": -2.3285, "no_speech_prob": 0.1229, "compression_ratio": 0.3333, "junk": true}
+{"chunk": "v1", "offset": 480, "start": 487.0, "end": 509.0, "local_start": 7.0, "local_end": 29.0, "text": "And though I've", "avg_logprob": -2.0974, "no_speech_prob": 0.5969, "compression_ratio": 0.6522, "junk": true}
+{"chunk": "v1", "offset": 480, "start": 517.0, "end": 539.94, "local_start": 37.0, "local_end": 59.94, "text": "sat", "avg_logprob": -2.455, "no_speech_prob": 0.8003, "compression_ratio": 0.2727, "junk": true}
+{"chunk": "v1", "offset": 480, "start": 547.0, "end": 577.0, "local_start": 67.0, "local_end": 97.0, "text": "Father of", "avg_logprob": -0.871, "no_speech_prob": 0.8501, "compression_ratio": 0.5294, "junk": false}
+{"chunk": "v1", "offset": 480, "start": 577.0, "end": 607.0, "local_start": 97.0, "local_end": 127.0, "text": "It's a huge", "avg_logprob": -1.6233, "no_speech_prob": 0.391, "compression_ratio": 0.5789, "junk": false}
+{"chunk": "v1", "offset": 480, "start": 607.0, "end": 609.0, "local_start": 127.0, "local_end": 129.0, "text": "I'm", "avg_logprob": -1.5629, "no_speech_prob": 0.1738, "compression_ratio": 0.2727, "junk": true}
+{"chunk": "v1", "offset": 480, "start": 637.0, "end": 667.0, "local_start": 157.0, "local_end": 187.0, "text": "Bin I", "avg_logprob": -1.8485, "no_speech_prob": 0.0072, "compression_ratio": 0.3846, "junk": true}
+{"chunk": "v1", "offset": 480, "start": 697.0, "end": 704.4, "local_start": 217.0, "local_end": 224.4, "text": "the", "avg_logprob": -2.3125, "no_speech_prob": 0.7594, "compression_ratio": 0.2727, "junk": true}
+{"chunk": "v1", "offset": 480, "start": 704.4, "end": 732.64, "local_start": 224.4, "local_end": 252.64, "text": "is", "avg_logprob": -2.0723, "no_speech_prob": 0.0097, "compression_ratio": 0.2, "junk": true}
+{"chunk": "v1", "offset": 480, "start": 764.4, "end": 792.92, "local_start": 284.4, "local_end": 312.92, "text": "the", "avg_logprob": -1.5126, "no_speech_prob": 0.0576, "compression_ratio": 0.2727, "junk": false}
+{"chunk": "v1", "offset": 480, "start": 794.4, "end": 818.08, "local_start": 314.4, "local_end": 338.08, "text": "to", "avg_logprob": -2.3341, "no_speech_prob": 0.0011, "compression_ratio": 0.2, "junk": true}

@@ -1,0 +1,16 @@
+OK actually-change-ryan-0-12m.wav chars=4727 speech=677s in 69s -> actually-change-ryan-0-12m.md
+OK actually-change-ryan-1440s.wav chars=1835 speech=451s in 34s -> actually-change-ryan-1440s.md
+OK better-not-easier-ethan-0-12m.wav chars=970 speech=705s in 53s -> better-not-easier-ethan-0-12m.md
+OK better-not-easier-ethan-1500s.wav chars=8097 speech=480s in 30s -> better-not-easier-ethan-1500s.md
+OK flip-the-fomo-doug-0-12m.wav chars=6379 speech=696s in 63s -> flip-the-fomo-doug-0-12m.md
+OK gods-will-ethan-0-12m.wav chars=111 speech=720s in 106s -> gods-will-ethan-0-12m.md
+OK healthy-holy-ryan-doug-0-12m.wav chars=763 speech=639s in 87s -> healthy-holy-ryan-doug-0-12m.md
+OK kill-control-freak-doug-0-12m.wav chars=320 speech=684s in 50s -> kill-control-freak-doug-0-12m.md
+OK kill-control-freak-doug-1500s.wav chars=421 speech=477s in 30s -> kill-control-freak-doug-1500s.md
+OK lost-loving-feeling-doug-0-12m.wav chars=1862 speech=711s in 60s -> lost-loving-feeling-doug-0-12m.md
+OK lost-loving-feeling-doug-1500s.wav chars=2185 speech=480s in 40s -> lost-loving-feeling-doug-1500s.md
+OK start-with-one-ryan-0-12m.wav chars=2245 speech=594s in 55s -> start-with-one-ryan-0-12m.md
+OK start-with-one-ryan-1680s.wav chars=643 speech=447s in 29s -> start-with-one-ryan-1680s.md
+OK three-ways-hear-god-doug-0-12m.wav chars=764 speech=739s in 42s -> three-ways-hear-god-doug-0-12m.md
+OK tough-to-love-ryan-0-12m.wav chars=1878 speech=705s in 62s -> tough-to-love-ryan-0-12m.md
+OK wield-the-weapon-ethan-0-12m.wav chars=2241 speech=716s in 54s -> wield-the-weapon-ethan-0-12m.md

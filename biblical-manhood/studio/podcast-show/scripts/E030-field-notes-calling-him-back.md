@@ -6,7 +6,7 @@ Walk Steadfast · Field Notes · script v1 (batch 4). Internal.
 |---|---|
 | Release | Fri Apr 16, 2027, 5:00 AM CT |
 | Format | Field Notes. About 14 min. Standard order (check, question, tool). April's order change was E028. |
-| Slate | WES "Episode thirty. Friday, April sixteenth." JONATHON "Field Notes. Calling Him Back." |
+| Intro and slate | Per-episode open, Wes leads (SHOW-BIBLE section 5, open system v3, text in _build/intros_data.py). Slate: WES "Episode thirty." JONATHON "Field Notes. Calling Him Back." |
 | Checks | E029 challenge: go first; call your father and ask one question about his life before you. Jonathon's call (Wed Apr 14, 7:30 PM). Wes's call to his oldest (Thu Apr 15). Single check: Wes's oldest son (21), inside Wes's check. The nephew rests. |
 | From the Table | "Do I have to forgive a dad who isn't sorry?" |
 | Tool on the Table | The two-call rule (first call up, to God; second call out, to him, only if he's safe; don't make the second call do the first call's job) |
@@ -31,18 +31,26 @@ Jonathon in a truck cab at night, phone to his ear, a porch light glowing throug
 
 [CAM: WIDE]
 
-[CHAPTER: Slate]
-WES: Episode thirty. Friday, April sixteenth.
-JONATHON: Field Notes. Calling Him Back.
-
 [CHAPTER: Cold open]
 [CAM: JON MS]
-JONATHON: He picked up on the third ring. And the first thing my father said to me, the first time I ever called him, was, "Who died?"
+JONATHON: He picked up on the third ring. The first thing my father said, the first time I ever called him, was, "Who died?"
 [CAM: WES MS]
 WES: What'd you say?
 [CAM: JON CU]
-JONATHON: "Nobody." And he said, "Okay." And then neither of us said anything for about five seconds.
+JONATHON: "Nobody." He said, "Okay." Then neither of us said anything for five seconds.
 [STING 3s]
+
+[CHAPTER: Intro]
+[CAM: 2S]
+(Walk Steadfast open written for E030. Same beats every week, new words. SHOW-BIBLE section 5.)
+WES: This is Walk Steadfast. I'm Wes Hart. My oldest son's truck is making a noise.
+[LOWER THIRD: Wes Hart]
+JONATHON: I'm Jonathon. Theo's four, Ruby's seven.
+[LOWER THIRD: Jonathon]
+WES: Here's the Friday report. The book and the Steadfast video training are on walksteadfast.com.
+JONATHON: Today we ask if you have to forgive a dad who isn't sorry.
+WES: Episode thirty.
+JONATHON: Field Notes. Calling Him Back.
 
 [CHAPTER: Check the box]
 [CAM: WIDE]
@@ -170,6 +178,11 @@ WES: See you at the table.
 JONATHON: Go walk it out.
 (Jonathon takes a folded receipt out of his shirt pocket, looks at it, and puts it back without unfolding it. Hold WIDE 2s. Cut.)
 
+[CLOSING MUSIC 3s]
+[CREDITS]
+(Wes, normal credits volume, read like a producer credit. No gap, no ducking. SHOW-BIBLE section 13.)
+WES: Produced with AI voice and video tools.
+
 ## Shorts (4)
 
 | # | Cut | Hook | Length |
@@ -188,11 +201,12 @@ Wes tells his oldest son he's proud of him, over a sandwich, and isn't sure it l
 
 Chapters
 00:00 Cold open
-00:25 Check the box
-07:58 From the table
-10:47 Tool on the table
-12:57 Carry this
-13:11 Outro
+00:18 Intro
+00:54 Check the box
+08:27 From the table
+11:16 Tool on the table
+13:25 Carry this
+13:39 Outro
 
 Scripture: Romans 12:18 (NIV)
 
@@ -207,8 +221,6 @@ Facebook  facebook.com/steadfastwalk
 TikTok  tiktok.com/@steadfastwalk
 Reddit  reddit.com/user/steadfastwalk
 LinkedIn  linkedin.com/company/steadfastwalk
-
-Walk Steadfast is made with AI-generated video and voices. Wes and Jonathon are characters, and their stories are composites drawn from real men's lives.
 
 Scripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.™ Used by permission. All rights reserved worldwide.
 

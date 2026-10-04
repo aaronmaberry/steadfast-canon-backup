@@ -91,7 +91,7 @@ Be honest with God about your dad, and give Him what's owed. Honor the office as
 
 **Name it**
 
-Because it's possible to botch this from either side and never know which side you're on. Which one is you, the slam or the grip? Then say what it has cost you, your marriage, or your kids.
+You can botch this from either side of the door and never know which side you're on. Which one is you, the slam or the grip? Then say what it has cost you, your marriage, or your kids.
 
 :::notes
 _______________________________________________
@@ -101,7 +101,7 @@ _______________________________________________
 
 **Do this week**
 
-Because leaving and honoring happen in specific acts, not good intentions. If you never really left, decide one thing this week without running it past your parents, then tell them, kindly, after. If you slammed it, pray for your dad by name every day, and if he's living and it's safe, circle a day on the calendar for the porch.
+Leaving and honoring both happen in specific acts, not in good intentions. If you never really left, decide one thing this week without running it past your parents, then tell them, kindly, after. If you slammed it, pray for your dad by name every day, and if he's living and it's safe, circle a day on the calendar for the porch.
 
 :::notes
 _______________________________________________
@@ -111,7 +111,7 @@ _______________________________________________
 
 **Tell a brother**
 
-Because a conversation another man has on his calendar is one you'll actually have. Tell him about your father and about which way you've gotten this wrong. If a porch is coming, give him the date.
+Put the conversation on another man's calendar too, and you'll actually have it. Tell him about your father and about which way you've gotten this wrong. If a porch is coming, give him the date.
 
 :::notes
 _______________________________________________

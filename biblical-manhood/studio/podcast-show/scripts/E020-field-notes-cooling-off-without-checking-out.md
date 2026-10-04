@@ -6,7 +6,7 @@ Walk Steadfast · Field Notes · script v1 (batch 3). Internal.
 |---|---|
 | Release | Fri Mar 12, 2027, 5:00 AM CT |
 | Format | Field Notes. About 15 min. |
-| Slate | JONATHON "Episode twenty. Friday, March twelfth." WES "Field Notes. Cooling Off Without Checking Out." |
+| Intro and slate | Per-episode open, Wes leads (SHOW-BIBLE section 5, open system v3, text in _build/intros_data.py). Slate: WES "Episode twenty." JONATHON "Field Notes. Cooling Off Without Checking Out." |
 | Checks | E019 challenge: when you get angry, ask "What's it guarding?" before the day is over, write one line, then say the thing behind it out loud to one person. Plus the car-care Saturday (Mar 6) and the little brother's birthday (Mar 11, Wes's first year owning birthdays). Single check: Wes's oldest son. |
 | From the Table | "Is it ever right to be angry?" |
 | Tool on the Table | The twenty-minute rule |
@@ -31,10 +31,6 @@ Wes holding up an old wind-up kitchen timer. Text: **"20 MINUTES"**. Variant: Jo
 
 [CAM: WIDE]
 
-[CHAPTER: Slate]
-JONATHON: Episode twenty. Friday, March twelfth.
-WES: Field Notes. Cooling Off Without Checking Out.
-
 [CHAPTER: Cold open]
 [CAM: WES MS]
 WES: I called my little brother on his birthday. First time in about twenty years.
@@ -44,14 +40,24 @@ JONATHON: What'd he say?
 WES: "Is Mom okay?"
 [STING 3s]
 
+[CHAPTER: Intro]
+[CAM: 2S]
+(Walk Steadfast open written for E020. Same beats every week, new words. SHOW-BIBLE section 5.)
+WES: This is Walk Steadfast. I'm Wes Hart. I got short at PT Tuesday.
+[LOWER THIRD: Wes Hart]
+JONATHON: I'm Jonathon. I write my anger down now.
+[LOWER THIRD: Jonathon]
+WES: Friday we report. For more, my book and the video training, walksteadfast.com.
+JONATHON: Today we answer whether it's ever right to be angry.
+WES: Episode twenty.
+JONATHON: Field Notes. Cooling Off Without Checking Out.
+
 [CHAPTER: Check the box]
 [CAM: WIDE]
 JONATHON: Pull up a chair. It's Field Notes. And before we do anger, we owe everybody the car-care Saturday.
-[LOWER THIRD: Jonathon]
 WES: We do.
-[LOWER THIRD: Wes Hart]
 [CAM: WES MS]
-WES: Saturday, March sixth. The church parking lot. Seven a.m. Eleven cars showed up. Nine single moms, and two of them brought a sister. And our friend, eighty-one, retired Air Force mechanic, the man who sits behind me at church, he's there at six-fifteen with a creeper and a floor jack and a folding table with every tool laid out on a towel in order.
+WES: Saturday, March sixth, the church parking lot, seven a.m. Eleven cars, nine of them single moms. And our friend, eighty-one, the retired Air Force mechanic who sits behind me at church, was there at six-fifteen with a floor jack and every tool laid out on a towel in order.
 JONATHON: In order.
 WES: Smallest to largest. And I'm on coffee, and I made real coffee.
 JONATHON: I got there after Bluebonnets practice, about ten, and he was under a minivan, and there was a line of women in folding chairs drinking Wes's coffee and talking like they'd known each other for years. It looked like a tailgate.
@@ -61,7 +67,7 @@ JONATHON: How many oil changes?
 WES: Fourteen. Which is more than eleven, because two of the volunteers asked him to look at their trucks while he was down there, and he said, "For practice."
 (both laugh)
 [CAM: WES CU]
-WES: And here's my favorite part, and it doesn't go anywhere. One of the moms brought her son. Twelve. Quiet kid. And he stood next to that man all morning and handed him wrenches. Didn't say ten words. Just handed him the right one every time after about the third car. And at the end, the mechanic packed up, and he took a socket set out of his own toolbox, a good one, and gave it to the boy. And said, "Next month. First Saturday."
+WES: And my favorite part doesn't go anywhere. One of the moms brought her son. Twelve. Quiet kid. He stood next to that man all morning and handed him wrenches, the right one every time after about the third car. At the end the mechanic took a good socket set out of his own toolbox, gave it to the boy, and said, "Next month. First Saturday."
 JONATHON: That's it?
 WES: That's it. The boy said "okay" and carried it to his mom's car with both arms. That's all I've got.
 [CAM: JON MS]
@@ -86,7 +92,7 @@ JONATHON: She's simplifying it to four. For me. And I said thank you. I didn't a
 [CAM: JON MS]
 JONATHON: You.
 [CAM: WES MS]
-WES: Tuesday. Physical therapy. My mom's on the next table doing her leg lifts. And the therapist, she's maybe thirty, very nice, she's bending my right knee, and she pushes it past where it wants to go. And I said, sharp, "That's enough." Not loud. Short. The cold voice.
+WES: Tuesday. Physical therapy. My mom's on the next table doing her leg lifts. The therapist, maybe thirty, very nice, is bending my right knee, and she pushes it past where it wants to go. And I said, sharp, "That's enough." Not loud. Short. The cold voice.
 JONATHON: You did the juice box.
 WES: I did the juice box to a physical therapist. And she let go and said, "Okay," and wrote something down. And my mother, from the next table, said, "He's always been a baby about his knees."
 (both laugh)
@@ -102,7 +108,7 @@ WES: And Thursday I apologized to the therapist. I said, "I'm sorry I snapped. I
 JONATHON: And the birthday.
 WES: The birthday. My little brother turned forty-eight yesterday. This is the first year I'm in charge of birthdays. My wife did them for twenty-seven years, you heard that. So I bought a card. A real one. I wrote in it. And I mailed it on the tenth.
 JONATHON: The tenth. For the eleventh.
-WES: It'll get to Fort Worth about Saturday. I'm learning the postal service. So I called him on the eleventh instead. And I haven't called him on his birthday in about twenty years. My wife's card always did it. And he picked up and said, "Is Mom okay?"
+WES: It'll get to Fort Worth about Saturday. So I called him on the eleventh. I hadn't called on his birthday in about twenty years. My wife's card always did it. He picked up and said, "Is Mom okay?"
 JONATHON: The family rule.
 WES: The family rule. Nobody calls unless somebody's dying. And I said, "Mom's fine. Happy birthday." And there was a long pause, and he said, "Oh." And then we talked for forty minutes. About nothing. The Rangers. His kids. He's funny. I forget he's funny.
 [CAM: JON MS]
@@ -119,7 +125,7 @@ WES: I wanted to write a paragraph. I wrote, "You're good at this. Scared is nor
 WES: From the table. And after Tuesday, this is the question I get every time we talk about anger. "Is it ever right to be angry?"
 [CAM: JON MS]
 JONATHON: And I want the answer to be yes, because I'd like some of mine to be right.
-WES: Some of it is. And I'll tell you how I know. (puts on the reading glasses) There's a moment in Mark where Jesus is in a synagogue. There's a man there with a shriveled hand. And the religious leaders are watching Jesus to see if he'll heal on the Sabbath, so they can accuse him. They care more about their rule than the man's hand.
+WES: Some of it is. And I'll tell you how I know. (puts on the reading glasses) In Mark, Jesus is in a synagogue, and there's a man with a shriveled hand. And the religious leaders are watching Jesus to see if he'll heal on the Sabbath, so they can accuse him. They care more about their rule than the man's hand.
 [CARD: Mark 3:5]
 WES: "He looked around at them in anger and, deeply distressed at their stubborn hearts, said to the man, 'Stretch out your hand.' He stretched it out, and his hand was completely restored."
 [CAM: 2S]
@@ -130,12 +136,12 @@ WES: That's the part I miss every time. His anger has grief in it. He's angry, a
 [CAM: JON MS]
 JONATHON: So how do I tell if mine's the right kind?
 [CAM: WES MS]
-WES: Three questions. First, who got wronged? If the answer's "me," slow down. It might still be right, but it's usually not. If the answer's somebody weaker than you, pay attention. Second, does it have any grief in it? Are you sad for anybody, or just hot? And third, what does it make you do? Does it move you toward helping somebody or toward hurting somebody?
+WES: Three questions. First, who got wronged? If the answer's "me," slow down. If the answer's somebody weaker than you, pay attention. Second, does it have any grief in it? Are you sad for anybody, or just hot? And third, what does it make you do? Does it move you toward helping somebody or toward hurting somebody?
 [CAM: JON CU]
 JONATHON: Do you have one from this week that passed?
 WES: (beat) Saturday. At car-care. One of the moms pulls in, and our mechanic friend looks at her tires and goes quiet. All four were bald. Cords showing on one. And she says, kind of apologizing, that her ex had the car the last year and gave it back like that. And she's been driving her kids to school on them.
 JONATHON: Oh, man.
-WES: And I was angry. Right there by the coffee. At a man I've never met. And it passed all three. It wasn't about me. There was grief in it, she was embarrassed and she shouldn't have been. And what it made us do was, the mechanic made two calls, I made one, and by Wednesday she had four used tires with good tread. Mounted. Free.
+WES: And I was angry. Right there by the coffee, at a man I've never met. And it passed all three. It wasn't about me. There was grief in it, she was embarrassed and she shouldn't have been. And what it made us do was, the mechanic made two calls, I made one, and by Wednesday she had four used tires with good tread. Mounted. Free.
 [CAM: JON MS]
 JONATHON: That's the shriveled hand.
 WES: That's a very small version of it. But that's the shape. The anger went somewhere useful. Most of mine just goes in a circle.
@@ -147,7 +153,7 @@ WES: You didn't send it?
 JONATHON: I waited. Which, we'll get to that. And then I called her instead and asked if she was okay. That part was right. The email wasn't.
 [CAM: JON MS]
 JONATHON: And for single guys, a lot of what makes you mad online is "somebody got wronged." Politics, sports, some video of somebody being a jerk. Does that count?
-WES: Run the third question. What does it make you do? If it makes you post something nasty at midnight, it's not the Mark 3 kind. If it makes you go help somebody you can actually reach, maybe it is. Most online anger doesn't heal anybody's hand. It just gets you a little higher.
+WES: Run the third question. If it makes you post something nasty at midnight, it's not the Mark 3 kind. If it makes you go help somebody you can actually reach, maybe it is. Most online anger doesn't heal anybody's hand. It just gets you a little higher.
 [TEXT: Who got wronged? Is there grief? What does it make you do?]
 
 [CHAPTER: Tool on the table]
@@ -202,6 +208,11 @@ WES: We'll see you at the table.
 JONATHON: Go walk it out.
 (Wes winds the kitchen timer and sets it in front of Jonathon. It starts ticking. Jonathon stares at it. Hold WIDE 2s. Cut.)
 
+[CLOSING MUSIC 3s]
+[CREDITS]
+(Wes, normal credits volume, read like a producer credit. No gap, no ducking. SHOW-BIBLE section 13.)
+WES: Produced with AI voice and video tools.
+
 ## Shorts (4)
 
 | # | Cut | Hook | Length |
@@ -220,11 +231,12 @@ Field Notes, the Friday check-in from Walk Steadfast. Also: the first car-care S
 
 Chapters
 00:00 Cold open
-00:18 Check the box
-07:34 From the table
-12:07 Tool on the table
-15:27 Carry this
-15:41 Outro
+00:12 Intro
+00:45 Check the box
+07:42 From the table
+12:08 Tool on the table
+15:28 Carry this
+15:42 Outro
 
 Scripture: Mark 3:5 (NIV)
 
@@ -241,8 +253,6 @@ Facebook  facebook.com/steadfastwalk
 TikTok  tiktok.com/@steadfastwalk
 Reddit  reddit.com/user/steadfastwalk
 LinkedIn  linkedin.com/company/steadfastwalk
-
-Walk Steadfast is made with AI-generated video and voices. Wes and Jonathon are characters, and their stories are composites drawn from real men's lives.
 
 Scripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.™ Used by permission. All rights reserved worldwide.
 

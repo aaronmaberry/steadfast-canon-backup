@@ -1,0 +1,343 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Steadfast Men. Week 15. Leader guide</title>
+<style>
+
+@page { size: letter; margin: 0; }
+@font-face {
+  font-family: "SMPlayfairBold";
+  src: url("file:///workspace/biblical-manhood/training/print/fonts/PlayfairDisplay-Bold.ttf") format("truetype"), url("fonts/PlayfairDisplay-Bold.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: block;
+}
+@font-face {
+  font-family: "SMPlayfair";
+  src: url("file:///workspace/biblical-manhood/training/print/fonts/PlayfairDisplay-Regular.ttf") format("truetype"), url("fonts/PlayfairDisplay-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: block;
+}
+@font-face {
+  font-family: "SMPlayfairItalic";
+  src: url("file:///workspace/biblical-manhood/training/print/fonts/PlayfairDisplay-Italic.ttf") format("truetype"), url("fonts/PlayfairDisplay-Italic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: block;
+}
+@font-face {
+  font-family: "SMGaramond";
+  src: url("file:///workspace/biblical-manhood/training/print/fonts/EBGaramond-Regular.ttf") format("truetype"), url("fonts/EBGaramond-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: block;
+}
+@font-face {
+  font-family: "SMGaramondItalic";
+  src: url("file:///workspace/biblical-manhood/training/print/fonts/EBGaramond-Italic.ttf") format("truetype"), url("fonts/EBGaramond-Italic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: block;
+}
+@font-face {
+  font-family: "SMGaramondBold";
+  src: url("file:///workspace/biblical-manhood/training/print/fonts/EBGaramond-Bold.ttf") format("truetype"), url("fonts/EBGaramond-Bold.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: block;
+}
+@font-face {
+  font-family: "SMFranklinMedium";
+  src: url("file:///workspace/biblical-manhood/training/print/fonts/LibreFranklin-Medium.ttf") format("truetype"), url("fonts/LibreFranklin-Medium.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: block;
+}
+@font-face {
+  font-family: "SMFranklin";
+  src: url("file:///workspace/biblical-manhood/training/print/fonts/LibreFranklin-Regular.ttf") format("truetype"), url("fonts/LibreFranklin-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: block;
+}
+:root { --navy: #0B1F38; --gold: #E3C572; --bone: #E6DDCC; }
+
+.mast {
+  background-color: var(--navy);
+  background-image: url("file:///workspace/biblical-manhood/training/print/image-2.0/crops/week-02-mast-cloth.png");
+  background-size: cover;
+  background-position: left center;
+}
+.mast-plumb {
+  height: 0.62in; width: auto; display: block;
+  margin-left: 0.16in; margin-top: 0.02in; flex-shrink: 0;
+}
+.scripture-row.one.with-well {
+  grid-template-columns: 1fr 1.18in !important;
+  column-gap: 0.16in;
+  align-items: center;
+}
+.well-still {
+  width: 1.18in; height: 1.26in; object-fit: cover; display: block;
+}
+
+* { box-sizing: border-box; }
+html, body {
+  margin: 0; padding: 0; background: var(--bone); color: var(--navy);
+  -webkit-print-color-adjust: exact; print-color-adjust: exact; font-synthesis: none;
+}
+.page {
+  width: 8.5in; height: 11in; background: var(--bone); color: var(--navy);
+  position: relative; overflow: hidden; page-break-after: always; break-after: page;
+}
+.page:last-child { page-break-after: auto; break-after: auto; }
+.mast {
+  background: var(--navy); color: var(--bone); height: 0.88in;
+  padding: 0.11in 0.78in 0.10in 0.78in;
+  display: flex; flex-direction: column; justify-content: space-between;
+}
+.mast-top { display: flex; align-items: flex-start; justify-content: space-between; }
+.brand {
+  font-family: "SMPlayfairBold", serif; font-weight: 400; font-style: normal;
+  font-size: 17pt; letter-spacing: 0.08em; line-height: 1; color: var(--bone);
+}
+.subrow { margin-top: 0.055in; line-height: 1; color: var(--bone); }
+.subrow .of {
+  font-family: "SMGaramondItalic", serif; font-style: italic; font-weight: 400; font-size: 10.5pt;
+}
+.subrow .godly {
+  font-family: "SMPlayfair", serif; font-style: normal; font-weight: 400; font-size: 10.5pt;
+}
+.subrow .author {
+  font-family: "SMFranklinMedium", sans-serif; font-weight: 400; font-style: normal;
+  font-size: 7.4pt; letter-spacing: 0.16em; margin-left: 0.16in; position: relative; top: -0.01in;
+}
+.weekline {
+  display: flex; align-items: baseline; justify-content: space-between;
+  border-top: 0.5pt solid rgba(230,221,204,0.40); padding-top: 0.055in;
+}
+.weeknum {
+  font-family: "SMFranklinMedium", sans-serif; font-weight: 400; font-size: 7.2pt;
+  letter-spacing: 0.20em; text-transform: uppercase; color: var(--bone);
+}
+.weektitles {
+  font-family: "SMPlayfair", serif; font-weight: 400; font-size: 10.5pt; color: var(--bone);
+}
+.weektitles em {
+  font-family: "SMPlayfairItalic", serif; font-style: italic; font-weight: 400;
+}
+.plumb { width: 0.12in; height: 0.24in; flex-shrink: 0; margin-left: 0.16in; margin-top: 0.02in; }
+.body { padding: 0.18in 0.78in 0.52in 0.78in; }
+.foot {
+  position: absolute; left: 0.78in; right: 0.78in; bottom: 0.28in;
+  font-family: "SMFranklin", sans-serif; font-weight: 400; font-size: 7pt;
+  letter-spacing: 0.05em; color: var(--navy); display: flex; justify-content: space-between;
+  border-top: 0.5pt solid rgba(11,31,56,0.45); padding-top: 0.06in;
+}
+h2 {
+  font-family: "SMFranklinMedium", sans-serif; font-weight: 400; font-size: 7.6pt;
+  letter-spacing: 0.14em; text-transform: uppercase; color: var(--navy);
+  margin: 0.13in 0 0.07in 0; line-height: 1.2;
+}
+h2:first-child { margin-top: 0; }
+p {
+  font-family: "SMGaramond", serif; font-weight: 400; font-style: normal;
+  font-size: 10.5pt; line-height: 1.30; margin: 0 0 0.07in 0;
+}
+p.last { margin-bottom: 0; }
+.lede { margin-bottom: 0.08in; }
+.kv {
+  display: grid; grid-template-columns: 2.05in 1fr; column-gap: 0.12in; row-gap: 0.05in; margin-bottom: 0.04in;
+}
+.k {
+  font-family: "SMFranklinMedium", sans-serif; font-weight: 400; font-size: 7.1pt;
+  letter-spacing: 0.06em; line-height: 1.25; padding-top: 0.03in; color: var(--navy);
+}
+.v { font-family: "SMGaramond", serif; font-weight: 400; font-size: 10.5pt; line-height: 1.30; }
+.marks {
+  border-top: 0.7pt solid var(--navy); border-bottom: 0.7pt solid var(--navy);
+  padding: 0.09in 0 0.08in 0; margin: 0.12in 0 0.11in 0;
+}
+.marks p {
+  font-family: "SMGaramondItalic", serif; font-style: italic; font-size: 11.2pt; line-height: 1.32; margin: 0;
+}
+.marks .marks-note {
+  font-family: "SMGaramond", serif; font-style: normal; font-size: 10pt; margin-top: 0.05in;
+}
+.scripture-row {
+  display: grid; grid-template-columns: 1fr 1fr; column-gap: 0.20in; margin: 0.02in 0 0.10in 0;
+}
+.scripture { border-left: 0.8pt solid var(--navy); padding: 0.02in 0 0.02in 0.12in; }
+.cite {
+  font-family: "SMFranklinMedium", sans-serif; font-weight: 400; font-size: 6.8pt;
+  letter-spacing: 0.10em; text-transform: uppercase; margin-bottom: 0.035in; color: var(--navy);
+}
+.verse {
+  font-family: "SMGaramondItalic", serif; font-style: italic; font-weight: 400;
+  font-size: 9.8pt; line-height: 1.28; margin: 0;
+}
+.qlist { margin: 0.04in 0 0.08in 0; padding: 0; list-style: none; }
+.qlist li {
+  display: grid; grid-template-columns: 0.22in 1fr; column-gap: 0.06in; margin: 0 0 0.065in 0;
+  font-family: "SMGaramond", serif; font-size: 10.5pt; line-height: 1.30;
+}
+.qnum { font-family: "SMFranklinMedium", sans-serif; font-weight: 400; font-size: 8.5pt; line-height: 1.40; }
+.beat {
+  display: grid; grid-template-columns: 1.28in 1fr; column-gap: 0.12in; margin: 0 0 0.09in 0; align-items: start;
+}
+.beat-name {
+  font-family: "SMFranklinMedium", sans-serif; font-weight: 400; font-size: 7.6pt;
+  letter-spacing: 0.10em; text-transform: uppercase; line-height: 1.30; padding-top: 0.02in;
+}
+.beat-copy { font-family: "SMGaramond", serif; font-size: 10.5pt; line-height: 1.30; }
+.gold-beat {
+  background: var(--gold); color: var(--navy);
+  display: grid; grid-template-columns: 1.28in 1fr; column-gap: 0.12in;
+  margin: 0.02in 0 0.10in 0; padding: 0.08in 0.11in; align-items: start;
+}
+.gold-beat .beat-name, .gold-beat .beat-copy { color: var(--navy); }
+.lock { margin-top: 0.14in; border-top: 0.7pt solid var(--navy); padding-top: 0.08in; }
+.lock p { font-size: 10.5pt; margin: 0; }
+.lock .closed { font-family: "SMGaramondBold", serif; font-weight: 400; }
+.gold-bar {
+  background: var(--gold); color: var(--navy);
+  padding: 0.09in 0.12in 0.10in 0.12in; margin: 0.08in 0 0.10in 0;
+}
+.gold-bar h2 { margin: 0 0 0.04in 0; color: var(--navy); }
+.gold-bar p { margin: 0; color: var(--navy); }
+.gold-bar .prompt { margin: 0.07in 0 0.02in 0; color: var(--navy); }
+.gold-bar .write-line { border-bottom-color: var(--navy); }
+.gold-bar .inline-blank { margin: 0.06in 0 0 0; color: var(--navy); }
+.gold-bar .blank { border-bottom-color: var(--navy); }
+.write { margin: 0.02in 0 0.08in 0; }
+.write-line { border-bottom: 0.65pt solid var(--navy); height: 0.33in; }
+.prompt { font-family: "SMGaramond", serif; font-size: 10.4pt; line-height: 1.28; margin: 0.02in 0 0.02in 0; }
+.inline-blank {
+  display: flex; align-items: baseline; gap: 0.08in;
+  font-family: "SMGaramond", serif; font-size: 10.4pt; margin: 0.06in 0 0.08in 0;
+}
+.blank { display: inline-block; border-bottom: 0.65pt solid var(--navy); height: 0.20in; min-width: 1.7in; flex: 1; }
+.blank.short { min-width: 1.35in; flex: 0.7; }
+.meta-pair { display: grid; grid-template-columns: 1fr 1fr; column-gap: 0.22in; margin: 0.02in 0 0.06in 0; }
+.leader-p1 .kv { margin-bottom: 0.04in; }
+.leader-p1 h2 { margin: 0.11in 0 0.06in 0; }
+.leader-p1 p { margin: 0 0 0.065in 0; }
+.leader-p2 h2 { margin: 0.02in 0 0.07in 0; }
+.leader-p2 .block-gap { margin-top: 0.16in; }
+.leader-p2 .block-gap:first-child { margin-top: 0; }
+.page.worksheet .body { padding-top: 0.15in; }
+.page.worksheet h2 { font-size: 7.5pt; margin: 0.10in 0 0.05in 0; }
+.page.worksheet p { font-size: 10.3pt; margin: 0 0 0.05in 0; }
+.page.worksheet .kv { grid-template-columns: 1.42in 1fr; margin-bottom: 0.02in; }
+.page.worksheet .marks { margin: 0.08in 0 0.07in 0; padding: 0.07in 0 0.06in 0; }
+.page.worksheet .marks p { font-size: 10.8pt; }
+.page.worksheet .write-line { height: 0.32in; }
+.page.worksheet .gold-bar { margin: 0.07in 0 0.09in 0; padding: 0.08in 0.11in 0.09in 0.11in; }
+.page.worksheet .scripture-row { margin: 0.04in 0 0.04in 0; }
+.carry-line {
+  font-family: "SMGaramondItalic", serif; font-style: italic; font-size: 11.2pt; margin: 0 0 0.04in 0;
+}
+
+
+.scripture-row.one { grid-template-columns: 1fr; }
+.scripture .verse span { display: block; }
+</style>
+</head>
+<body>
+<div class="page leader-p1">
+<header class="mast">
+  <div class="mast-top">
+    <div>
+      <div class="brand">STEADFAST MEN</div>
+      <div class="subrow"><span class="of">The way of </span><span class="godly">Godly</span><span class="of"> Men</span><span class="author">Wes Hart</span></div>
+    </div>
+    <img class="mast-plumb" src="file:///workspace/biblical-manhood/training/print/image-2.0/crops/week-02-mast-plumb.png" alt="">
+  </div>
+  <div class="weekline"><span class="weeknum">Week 15</span><span class="weektitles">No north star</span></div>
+</header>
+<div class="body">
+  <h2>Before the room</h2>
+  <div class="kv">
+    <div class="k">Read this week</div>
+    <div class="v">Chapter 17, No north star.</div>
+    <div class="k">Aim</div>
+    <div class="v">A man with no north star. A full week is not a heading.</div>
+    <div class="k">One job</div>
+    <div class="v">Name the nearby light you steered by this week. Write one heading that sits still. Not a task. Not a season.</div>
+    <div class="k">Pitfall</div>
+    <div class="v">Do not reprint last week&#39;s three ways. Do not reprint the inside sentence as the whole hour. Do not dump the wait or a cheap prize. Do not preview a garden, two ways, or destiny. Do not write a life plan. Kind: the wound is not north. A wife is not the star. A house calendar is not a heading.</div>
+    <div class="k">Time</div>
+    <div class="v">about an hour. Church, small group, or a man alone.</div>
+  </div>
+  <div class="marks">
+    <p>A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God&#39;s reward.</p>
+    <p class="marks-note">Say it. Do not unpack it. Tonight is the missing heading.</p>
+  </div>
+  <div class="scripture-row one with-well">
+    <div class="scripture">
+      <div class="cite">Proverbs 29:18 NIV</div>
+      <p class="verse">Where there is no revelation, people cast off restraint; but blessed is the one who heeds wisdom&#39;s instruction.</p>
+    </div>
+    <img class="well-still" src="file:///workspace/biblical-manhood/training/print/image-2.0/week-04-well.png" alt="">
+  </div>
+  <h2>Open (2-3 min)</h2>
+  <p>He can tell you 4:30. Ask him what he is for, and watch the fog come in. He has been steering by nearby lights. Those lights are real. They move. A north star does not. Nearby glow gets him through Tuesday. It cannot tell him which way is north.</p>
+  <p class="last">Say the four. Sit down.</p>
+  <h2>Hit</h2>
+  <p>You are not handing him a brand. You are putting a word over a packed week.</p>
+  <p>Revelation is a word from God, not a mood you wait on. Without that word, a capable man does not freeze. He unbuckles. Energy with nothing that can judge it. He still pays the bills. He still is liked. He just has no star that can tell a packed week, this is not north.</p>
+  <p>Restraint is what a heading does to a life. Nearby glow gets a yes: gym, cart, feed, the next win. You do not need a longer list. You need a word over the list. Motion is not a heading. Passivity sits still. This fills the squares. That is why it hides on men other people trust.</p>
+</div>
+<footer class="foot"><span>Steadfast Men</span><span>Week 15 of 27</span><span>Leader guide</span></footer>
+</div>
+<div class="page leader-p2">
+<header class="mast">
+  <div class="mast-top">
+    <div>
+      <div class="brand">STEADFAST MEN</div>
+      <div class="subrow"><span class="of">The way of </span><span class="godly">Godly</span><span class="of"> Men</span><span class="author">Wes Hart</span></div>
+    </div>
+    <img class="mast-plumb" src="file:///workspace/biblical-manhood/training/print/image-2.0/crops/week-02-mast-plumb.png" alt="">
+  </div>
+  <div class="weekline"><span class="weeknum">Week 15</span><span class="weektitles">No north star</span></div>
+</header>
+<div class="body">
+  <p>A poster is not a north star. A north star is a word you heed. Heed. Not brainstorm. Not wait for the fog to lift. Nearby lights are not evil. Work, a game, a paycheck, a body you can still use: God is not embarrassed. He is after a heading, and a packed week is a great way not to have one. The lights move. The star sits still.</p>
+  <p class="last">A heading will cost you a yes you like. That is how you know it is a star. Nearby lights never cost you the glow. They only ask for more of it. At 11 the nearby lights are still on. The star is the same as it was at 6. If the heading changes with the last text, it was weather. Point at Chapter 17. Then shut up.</p>
+  <h2>Table</h2>
+  <p class="lede">Three. Wait.</p>
+  <ol class="qlist">
+    <li><span class="qnum">1.</span><span>What nearby light have you been steering by this week?</span></li>
+    <li><span class="qnum">2.</span><span>What packed thing has been doing the work of a heading?</span></li>
+    <li><span class="qnum">3.</span><span>What one sentence would still sit still if the week stayed full and the road stayed fog?</span></li>
+  </ol>
+  <p>Young: delayed manhood loves a packed calendar and hates a star. Single: do not park a heading in a woman who is not in the room; write a sentence that would still be true in five years. Married: providing is a load, not the star; she needs him to heed one, not a speech. Hurt: the wound can become the whole map; it is not north. Older: years of competence are not vision; retirement is not a star. The job going well: a title is a nearby light with better parking; write a sentence that survives Saturday.</p>
+  <h2 class="block-gap">Run the closer</h2>
+  <p class="lede">One light. One heading.</p>
+  <div class="beat">
+    <div class="beat-name">Name it</div>
+    <div class="beat-copy">What nearby light have you been steering by?</div>
+  </div>
+  <div class="gold-beat">
+    <div class="beat-name">Do this week</div>
+    <div class="beat-copy">Write one heading that sits still. Not a task. Not a season.</div>
+  </div>
+  <div class="beat">
+    <div class="beat-name">Tell a brother</div>
+    <div class="beat-copy">Name the light. Read him the heading. Have him ask which one you drove by.</div>
+  </div>
+  <div class="beat">
+    <div class="beat-name">Carry this</div>
+    <div class="beat-copy">A full week is not a north star.</div>
+  </div>
+  <p>If he only hears that you have been busy, he nods and you stay in the fog. Get the sentence on the page.</p>
+  <h2 class="block-gap">Solo note</h2>
+  <p>Read Chapter 17. Name the light. Write the heading the same week. Tell one man both. You do not have to finish a life map by Friday. You have to stop calling a packed week a direction.</p>
+  <div class="lock"><p>Do not open week 16.</p></div>
+</div>
+<footer class="foot"><span>Steadfast Men</span><span>Week 15 of 27</span><span>Leader guide</span></footer>
+</div>
+</body>
+</html>

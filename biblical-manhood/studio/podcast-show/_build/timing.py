@@ -1,6 +1,6 @@
 import re,sys
 # estimate chapter start times: Wes 145 wpm, Jonathon 170 wpm, 0.45 s gap per line,
-# [beat] .6, [pause 1s] 1, [pause 2s] 2, [BREATHER 3s] 3, [STING 3s] 3, B-roll none extra
+# [CLOSING MUSIC Ns] N, [beat] .6, [pause 1s] 1, [pause 2s] 2, [BREATHER 3s] 3, [STING 3s] 3, B-roll none extra
 def times(path):
     t=0.0;out=[]
     for line in open(path):
@@ -9,6 +9,8 @@ def times(path):
         if m: out.append((t,m.group(1))); continue
         if line.startswith('[BREATHER'): t+=3
         if line.startswith('[STING'): t+=3
+        m=re.match(r'\[CLOSING MUSIC (\d+)s\]',line)
+        if m: t+=int(m.group(1))
         m=re.match(r'(WES|JONATHON): (.*)',line)
         if m:
             txt=re.sub(r'\([^)]*\)|\[[^]]*\]','',m.group(2))

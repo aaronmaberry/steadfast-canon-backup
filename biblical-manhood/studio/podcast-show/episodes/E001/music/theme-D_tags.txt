@@ -1,0 +1,31 @@
+== theme-D-full_take1.mp3
+   0s Television 0.08, Guitar 0.05, Ringtone 0.05, Plucked string instrument 0.04, Electronic tuner 0.04
+   3s Guitar 0.44, Plucked string instrument 0.43, Acoustic guitar 0.31, Strum 0.20, Speech 0.06
+   6s Guitar 0.31, Plucked string instrument 0.27, Acoustic guitar 0.21, Strum 0.18, Speech 0.06
+   9s Plucked string instrument 0.19, Guitar 0.17, Acoustic guitar 0.14, Strum 0.12, Speech 0.03
+  12s Plucked string instrument 0.19, Guitar 0.17, Acoustic guitar 0.15, Strum 0.13, Speech 0.04
+  15s Guitar 0.29, Plucked string instrument 0.27, Acoustic guitar 0.23, Strum 0.20, Electric guitar 0.04
+  18s Plucked string instrument 0.17, Guitar 0.17, Acoustic guitar 0.15, Strum 0.12, Flamenco 0.04
+  21s Plucked string instrument 0.14, Guitar 0.13, Acoustic guitar 0.10, Strum 0.09, Flamenco 0.02
+  24s Plucked string instrument 0.13, Guitar 0.12, Acoustic guitar 0.10, Strum 0.09, Speech 0.06
+  27s Plucked string instrument 0.17, Guitar 0.14, Acoustic guitar 0.13, Strum 0.11, Flamenco 0.04
+  30s Plucked string instrument 0.10, Guitar 0.09, Acoustic guitar 0.05, Steel guitar, slide guitar 0.05, Strum 0.04
+  33s Plucked string instrument 0.06, Guitar 0.06, Steel guitar, slide guitar 0.04, New-age music 0.04, Tender music 0.03
+  36s Steel guitar, slide guitar 0.22, Plucked string instrument 0.08, Guitar 0.07, Strum 0.04, Electronic organ 0.03
+  39s Steel guitar, slide guitar 0.15, Guitar 0.13, Plucked string instrument 0.13, Strum 0.05, Acoustic guitar 0.04
+  42s Plucked string instrument 0.10, Guitar 0.10, Acoustic guitar 0.06, Strum 0.06, Flamenco 0.05
+  45s Plucked string instrument 0.07, Guitar 0.06, Steel guitar, slide guitar 0.05, Tender music 0.04, Flamenco 0.03
+  48s New-age music 0.09, Tender music 0.07, Background music 0.05, Plucked string instrument 0.03, Guitar 0.03
+  51s Plucked string instrument 0.09, Steel guitar, slide guitar 0.07, Guitar 0.07, Tender music 0.06, New-age music 0.04
+  54s Steel guitar, slide guitar 0.07, Wedding music 0.06, Guitar 0.05, Tender music 0.05, Plucked string instrument 0.05
+  57s Wedding music 0.09, Tender music 0.05, Sad music 0.03, Violin, fiddle 0.03, Background music 0.02
+  60s Guitar 0.08, Plucked string instrument 0.07, Steel guitar, slide guitar 0.06, Tender music 0.04, Electronic organ 0.04
+  63s Wedding music 0.07, Tender music 0.07, Background music 0.04, Steel guitar, slide guitar 0.04, Television 0.04
+  66s Steel guitar, slide guitar 0.09, Wedding music 0.05, Tender music 0.05, Guitar 0.05, Plucked string instrument 0.05
+  69s Steel guitar, slide guitar 0.15, Guitar 0.05, Plucked string instrument 0.05, Tender music 0.04, Background music 0.03
+  72s Steel guitar, slide guitar 0.08, Plucked string instrument 0.05, Guitar 0.05, Tender music 0.04, Background music 0.04
+  75s Steel guitar, slide guitar 0.06, Background music 0.05, Tender music 0.05, New-age music 0.03, Wedding music 0.03
+  78s Plucked string instrument 0.04, New-age music 0.04, Guitar 0.04, Steel guitar, slide guitar 0.04, Background music 0.04
+  81s Plucked string instrument 0.05, Guitar 0.04, Television 0.04, Tender music 0.03, New-age music 0.03
+  84s Gong 0.20, Echo 0.09, Electric piano 0.06, Reverberation 0.05, Piano 0.05
+  87s Gong 0.17, Sound effect 0.03, Timpani 0.02, Silence 0.01, Piano 0.01

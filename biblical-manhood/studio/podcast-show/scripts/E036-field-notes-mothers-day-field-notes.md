@@ -6,7 +6,7 @@ Walk Steadfast · Field Notes · script v1 (batch 5). Internal.
 |---|---|
 | Release | Fri May 7, 2027, 5:00 AM CT |
 | Format | Field Notes. About 13 min. A Bluebonnets report runs before the check (the real win). Then check, question, tool, in standard order. |
-| Slate | JONATHON "Episode thirty-six. Friday, May seventh." WES "Field Notes. Mother's Day Field Notes." |
+| Intro and slate | Per-episode open, Jonathon leads (SHOW-BIBLE section 5, open system v3, text in _build/intros_data.py). Slate: JONATHON "Episode thirty-six." WES "Field Notes. Mother's Day Field Notes." |
 | Checks | E035 challenge: one piece of unseen work for your mother, and one sentence only you could say. |
 | From the Table | "What do I do on Mother's Day when it's complicated?" (the twin's dad, in the parking lot after Thursday's game; name left off) |
 | Tool on the Table | A handwritten note. Short (three or four sentences). One true, specific thing, then thank you, then your name. No "but," no fixing. If she was hard, write only what's true, even if it's small. |
@@ -25,15 +25,11 @@ Walk Steadfast · Field Notes · script v1 (batch 5). Internal.
 
 ## Thumbnail
 
-Jonathon sitting on an upside-down ball bucket under field lights (AI composite still), holding a Gatorade. Text: **"A REAL ONE."** Variant: a handwritten card on the table with Wes's hand flat beside it. Text: **"SAY THE TRUE THING."**
+Jonathon sitting on an upside-down ball bucket under field lights (still image), holding a Gatorade. Text: **"A REAL ONE."** Variant: a handwritten card on the table with Wes's hand flat beside it. Text: **"SAY THE TRUE THING."**
 
 ## Script
 
 [CAM: WIDE]
-
-[CHAPTER: Slate]
-JONATHON: Episode thirty-six. Friday, May seventh.
-WES: Field Notes. Mother's Day Field Notes.
 
 [CHAPTER: Cold open]
 [CAM: JON MS]
@@ -44,12 +40,22 @@ WES: Technically?
 JONATHON: Not technically. Last night. Real game, real other team, every one of their kids showed up. And it was the ugliest thing I've ever seen on a baseball field. And it counts in my heart.
 [STING 3s]
 
+[CHAPTER: Intro]
+[CAM: 2S]
+(Walk Steadfast open written for E036. Same beats every week, new words. SHOW-BIBLE section 5.)
+JONATHON: This is Walk Steadfast. I'm Jonathon, and I coach the Bluebonnets.
+[LOWER THIRD: Jonathon]
+WES: I'm Wes Hart. I've heard about every one of their games.
+[LOWER THIRD: Wes Hart]
+JONATHON: Friday we report. His book and a video training for men are on walksteadfast.com.
+WES: Today we answer a man whose Mother's Day is complicated.
+JONATHON: Episode thirty-six.
+WES: Field Notes. Mother's Day Field Notes.
+
 [CHAPTER: The real one]
 [CAM: WIDE]
 WES: Tell it.
-[LOWER THIRD: Wes Hart]
 JONATHON: Make-up game from March. Thursday night, under the lights, which for seven-year-olds is like playing in a casino. Nobody can focus. Two hours. I counted nine errors and then I stopped counting, because it was hurting me.
-[LOWER THIRD: Jonathon]
 WES: For both teams?
 JONATHON: Both teams. It was very fair. Last inning, we're tied, Harper's on third, and up comes the twin. The one who asked to bat with her eyes closed back in March. The one who got the dribbler and stood on first with her arms up.
 WES: I remember.
@@ -165,6 +171,11 @@ WES: We'll see you at the table.
 JONATHON: Go walk it out.
 (Jonathon pulls a folded index card from his shirt pocket, looks at it, winces, and puts it back. Hold WIDE 2s. Cut.)
 
+[CLOSING MUSIC 3s]
+[CREDITS]
+(Wes, normal credits volume, read like a producer credit. No gap, no ducking. SHOW-BIBLE section 13.)
+WES: Produced with AI voice and video tools.
+
 ## Shorts (4)
 
 | # | Cut | Hook | Length |
@@ -183,12 +194,13 @@ Also: the Bluebonnets win one for real (it's ugly), and Wes's wife comes home to
 
 Chapters
 00:00 Cold open
-00:23 The real one
-03:06 Check the box
-05:29 From the table
-09:54 Tool on the table
-12:58 Carry this
-13:07 Outro
+00:18 Intro
+00:53 The real one
+03:36 Check the box
+06:00 From the table
+10:25 Tool on the table
+13:28 Carry this
+13:38 Outro
 
 Scripture: Proverbs 31:28 (NIV)
 
@@ -203,8 +215,6 @@ Facebook  facebook.com/steadfastwalk
 TikTok  tiktok.com/@steadfastwalk
 Reddit  reddit.com/user/steadfastwalk
 LinkedIn  linkedin.com/company/steadfastwalk
-
-Walk Steadfast is made with AI-generated video and voices. Wes and Jonathon are characters, and their stories are composites drawn from real men's lives.
 
 Scripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.™ Used by permission. All rights reserved worldwide.
 

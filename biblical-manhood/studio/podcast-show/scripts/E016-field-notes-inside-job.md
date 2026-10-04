@@ -6,7 +6,7 @@ Walk Steadfast · Field Notes · script v1 (batch 2, written after reader panel 
 |---|---|
 | Release | Fri Feb 26, 2027, 5:00 AM CT |
 | Format | Field Notes. About 15 min. |
-| Slate | JONATHON "Episode sixteen. Friday, February twenty-sixth." WES "Field Notes. Inside Job." |
+| Intro and slate | Per-episode open, Jonathon leads (SHOW-BIBLE section 5, open system v3, text in _build/intros_data.py). Slate: JONATHON "Episode sixteen." WES "Field Notes. Inside Job." |
 | Checks | E015 challenge: one thing you did that you usually explain, told to one person with no "because." Married: one sentence, then stop. Single: a friend, or out loud to God. Divorced: God and one man first. Plus Jonathon's VP conversation (Thursday) and Wes's gutter (deadline March 1). Single check: Wes's oldest son, by text. |
 | From the Table | "Isn't this just blaming myself for everything?" |
 | Tool on the Table | The evening examen, three questions |
@@ -31,10 +31,6 @@ Jonathon holding his phone screen toward the camera (blurred), eyebrows up. Text
 
 [CAM: WIDE]
 
-[CHAPTER: Slate]
-JONATHON: Episode sixteen. Friday, February twenty-sixth.
-WES: Field Notes. Inside Job.
-
 [CHAPTER: Cold open]
 [CAM: JON MS]
 JONATHON: I told my VP I took the deal.
@@ -44,12 +40,22 @@ WES: And?
 JONATHON: He said, "Let's not make this a thing."
 [STING 3s]
 
+[CHAPTER: Intro]
+[CAM: 2S]
+(Walk Steadfast open written for E016. Same beats every week, new words. SHOW-BIBLE section 5.)
+JONATHON: This is Walk Steadfast. I'm Jonathon. I'm the newer Christian at this table.
+[LOWER THIRD: Jonathon]
+WES: I'm Wes Hart. From the Hill Country.
+[LOWER THIRD: Wes Hart]
+JONATHON: Friday we report. Steadfast Men, the book, and the video training live at walksteadfast.com.
+WES: Today's question is whether owning your part means blaming yourself.
+JONATHON: Episode sixteen.
+WES: Field Notes. Inside Job.
+
 [CHAPTER: Check the box]
 [CAM: WIDE]
 JONATHON: Pull up a chair. It's Field Notes. And this week's box has a lot in it.
-[LOWER THIRD: Jonathon]
 WES: You go first. You've been waiting all week.
-[LOWER THIRD: Wes Hart]
 JONATHON: Tuesday's challenge was one thing you did that you usually explain, told to one person, with no "because." And I'd already done the lunch with the rep on Monday, so I had the VP on Thursday hanging over me.
 [CAM: JON MS]
 JONATHON: So. Thursday, two o'clock, it's a scheduled call. Fifteen minutes. I'd written my sentence on a sticky note. And I said it. "The 2019 district deal should have been his, and I put my name on it." And then I stopped talking, like I said I would.
@@ -202,6 +208,11 @@ WES: And by Tuesday I'll have been on a ladder. See you at the table.
 JONATHON: Go walk it out.
 (Wes stands, tests his right knee with a slow half-squat, and sits back down. Jonathon watches without comment. Hold WIDE 2s. Cut.)
 
+[CLOSING MUSIC 3s]
+[CREDITS]
+(Wes, normal credits volume, read like a producer credit. No gap, no ducking. SHOW-BIBLE section 13.)
+WES: Produced with AI voice and video tools.
+
 ## Shorts (4)
 
 | # | Cut | Hook | Length |
@@ -220,11 +231,12 @@ Field Notes, the Friday check-in from Walk Steadfast. Plus a seven-year-old who 
 
 Chapters
 00:00 Cold open
-00:15 Check the box
-05:48 From the table
-11:27 Tool on the table
-13:34 Carry this
-13:46 Outro
+00:10 Intro
+00:43 Check the box
+06:17 From the table
+11:55 Tool on the table
+14:02 Carry this
+14:14 Outro
 
 Scripture: Psalm 139:23-24 (NIV)
 
@@ -241,8 +253,6 @@ Facebook  facebook.com/steadfastwalk
 TikTok  tiktok.com/@steadfastwalk
 Reddit  reddit.com/user/steadfastwalk
 LinkedIn  linkedin.com/company/steadfastwalk
-
-Walk Steadfast is made with AI-generated video and voices. Wes and Jonathon are characters, and their stories are composites drawn from real men's lives.
 
 Scripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.™ Used by permission. All rights reserved worldwide.
 
@@ -297,7 +307,7 @@ Scripture quotations taken from The Holy Bible, New International Version®, NIV
 - **Safety line.** "If what you're hearing is 'I'm worthless'... tell somebody today" stays on mic and in the description. The 988 line is held for E021, where it belongs to the topic.
 - **Over-owners.** Wes speaks directly to the man who grew up blamed for everything. Keep that beat whole. It's the round 3 "wounded (kind)" note from the chapter 15 card.
 - **The examen.** It's named once, with honest credit ("Christians have been doing some form of it for about five hundred years"). No denominational lecture.
-- **"Jesus has a dog"** is from Jonathon's character file. It's a callback, not new.
+- **"Jesus has a dog"** is from Jonathon's host brief. It's a callback, not new.
 - **Wives as people.** Wes's wife wants to watch the gutter from a lawn chair. Wes's snoring denial is a joke at his expense, not hers.
 - **Setups.**
   - Gutter result in E018 (Sat Feb 27, three rungs).

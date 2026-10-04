@@ -6,7 +6,7 @@ Walk Steadfast · Field Notes · script v1 (batch 3). Internal.
 |---|---|
 | Release | Fri Mar 19, 2027, 5:00 AM CT |
 | Format | Field Notes. About 15 min. |
-| Slate | JONATHON "Episode twenty-two. Friday, March nineteenth." WES "Field Notes. Drift Check." |
+| Intro and slate | Per-episode open, Jonathon leads (SHOW-BIBLE section 5, open system v3, text in _build/intros_data.py). Slate: JONATHON "Episode twenty-two." WES "Field Notes. Drift Check." |
 | Checks | E021 challenge: name yours, the itch or the drift. Itch: tell one man the whole truth. Drift: twenty minutes a day fully present, phone in another room. Jonathon checks Wes first this week and presses. Plus Mom's first pot roast Sunday (Mar 14). Single check: the nephew (his own thread). |
 | From the Table | "How do I set up my phone so it doesn't own me?" |
 | Tool on the Table | Grayscale and a charger outside the bedroom (four settings) |
@@ -31,10 +31,6 @@ Wes holding up his phone with the weather radar in grayscale, deadpan. Text: **"
 
 [CAM: WIDE]
 
-[CHAPTER: Slate]
-JONATHON: Episode twenty-two. Friday, March nineteenth.
-WES: Field Notes. Drift Check.
-
 [CHAPTER: Cold open]
 [CAM: JON MS]
 JONATHON: My nephew slipped Wednesday night.
@@ -44,12 +40,22 @@ WES: When did he tell you?
 JONATHON: Forty minutes later.
 [STING 3s]
 
+[CHAPTER: Intro]
+[CAM: 2S]
+(Walk Steadfast open written for E022. Same beats every week, new words. SHOW-BIBLE section 5.)
+JONATHON: This is Walk Steadfast. I'm Jonathon. Sales manager, dad of two.
+[LOWER THIRD: Jonathon]
+WES: I'm Wes Hart, and I'm the one getting checked first.
+[LOWER THIRD: Wes Hart]
+JONATHON: Friday's the honest report, days counted. walksteadfast.com has Wes's book and the video training.
+WES: Today's tool sets up a phone so it stops running the house.
+JONATHON: Episode twenty-two.
+WES: Field Notes. Drift Check.
+
 [CHAPTER: Check the box]
 [CAM: WIDE]
 JONATHON: Pull up a chair. It's Field Notes. And I'm checking you first this week, because last week you went on a podcast and told the whole world your wife fell asleep on the porch, and I want to know about the other nights.
-[LOWER THIRD: Jonathon]
 WES: That's fair.
-[LOWER THIRD: Wes Hart]
 [CAM: JON MS]
 JONATHON: Twenty minutes a day. Fully there. Phone in another room. How many days?
 WES: Four out of seven.
@@ -205,6 +211,11 @@ WES: We'll see you at the table.
 JONATHON: Go walk it out.
 (Both men pick up their phones at the same time, look at the gray screens, and set them face-down in unison. Hold WIDE 2s. Cut.)
 
+[CLOSING MUSIC 3s]
+[CREDITS]
+(Wes, normal credits volume, read like a producer credit. No gap, no ducking. SHOW-BIBLE section 13.)
+WES: Produced with AI voice and video tools.
+
 ## Shorts (4)
 
 | # | Cut | Hook | Length |
@@ -223,11 +234,12 @@ Field Notes, the Friday check-in from Walk Steadfast. Also: bath time and one ve
 
 Chapters
 00:00 Cold open
-00:14 Check the box
-06:29 From the table
-09:25 Tool on the table
-12:37 Carry this
-12:49 Outro
+00:09 Intro
+00:42 Check the box
+06:57 From the table
+09:53 Tool on the table
+13:05 Carry this
+13:17 Outro
 
 Scripture: Psalm 90:12 (NIV)
 
@@ -242,8 +254,6 @@ Facebook  facebook.com/steadfastwalk
 TikTok  tiktok.com/@steadfastwalk
 Reddit  reddit.com/user/steadfastwalk
 LinkedIn  linkedin.com/company/steadfastwalk
-
-Walk Steadfast is made with AI-generated video and voices. Wes and Jonathon are characters, and their stories are composites drawn from real men's lives.
 
 Scripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.™ Used by permission. All rights reserved worldwide.
 

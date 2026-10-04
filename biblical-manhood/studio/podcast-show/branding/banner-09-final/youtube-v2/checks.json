@@ -1,0 +1,35 @@
+{
+ "scale_vs_orig": 1.157,
+ "photo_box": [
+  238,
+  156,
+  1589,
+  1063
+ ],
+ "figures_box": [
+  634,
+  548,
+  826,
+  902
+ ],
+ "text_box": [
+  1411,
+  594,
+  2009,
+  838
+ ],
+ "figures_in_desktop_band": true,
+ "figures_in_safe": true,
+ "text_in_safe": true,
+ "gap_figures_to_text_px": 585,
+ "params": {
+  "head": 548,
+  "feet": 902,
+  "fig_cx": 730,
+  "cx": 1710,
+  "cy": 720,
+  "width": 600,
+  "feather": 380,
+  "rdark": 0.82
+ }
+}

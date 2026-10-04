@@ -10,7 +10,7 @@ Instead he took out the paper, crumpled it, and tossed it in the wastebasket by 
 
 That's when the tears came. Later he worked it out. Through every year of that marriage he had never once walked away from an argument he was winning. She was looking at a husband she'd never met.
 
-You spent the last chapter learning her. This one costs more. You lay your life down for her. The wedding, rented tux and flowers, was the easy hour of the vow. A soaked floor on a night when you're the one who's right is where the vow stops being words.
+You've already spent time learning her. This costs more. You lay your life down for her. The wedding, rented tux and flowers, was the easy hour of the vow. A soaked floor on a night when you're the one who's right is where the vow stops being words.
 
 ## The other half of Ephesians 5
 
@@ -104,7 +104,7 @@ You find your life by losing it, and the Father wastes none of the little losses
 
 **Name it**
 
-Because she feels whatever you're clutching long before you'll admit you're clutching it. Write it down in one full sentence. Maybe it's the money, the argument, your phone, your mother's say, your side in public, your sleep, your Saturday, your temper, the title, or a plan you made without her.
+She feels whatever you're clutching long before you'll admit you're clutching it. Write it down in one full sentence. Maybe it's the money, the argument, your phone, your mother's say, your side in public, your sleep, your Saturday, your temper, the title, or a plan you made without her.
 
 :::notes
 _______________________________________________
@@ -114,7 +114,7 @@ _______________________________________________
 
 **Do this week**
 
-Because one grand gesture won't hold a marriage up for a year; a laid-down life gets lived a day at a time. Put that one thing down every day this week, quietly, without keeping score. Single? Give up one small preference a day for someone who's already in your life. If the marriage ended, set down your need to win against your kids' mom at the next handoff.
+One grand gesture won't hold a marriage up for a year. A laid-down life gets lived a day at a time. Put that one thing down every day this week, quietly, without keeping score. Single? Give up one small preference a day for someone who's already in your life. If the marriage ended, set down your need to win against your kids' mom at the next handoff.
 
 :::notes
 _______________________________________________
@@ -124,7 +124,7 @@ _______________________________________________
 
 **Tell a brother**
 
-Because you can't see your own grip, and he can. Tell him what you're letting go of and how it went. Then ask him what you're still holding that you've stopped seeing.
+You can't see your own grip, and he can. Tell him what you're letting go of and how it went. Then ask him what you're still holding that you've stopped seeing.
 
 :::notes
 _______________________________________________

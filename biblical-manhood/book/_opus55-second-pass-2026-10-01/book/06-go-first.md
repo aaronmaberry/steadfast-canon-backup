@@ -120,7 +120,7 @@ Nobody needs you to be the bravest man on the block. That's Go First: open the d
 
 **Name it**
 
-Because somewhere in your life everyone's watching and nobody's moving, and that room is yours. Write down the room, who's in it, and what has to happen first.
+Somewhere in your life everyone's watching and nobody's moving, and that room is yours. Write down the room, who's in it, and what has to happen first.
 
 :::notes
 _______________________________________________
@@ -130,7 +130,7 @@ _______________________________________________
 
 **Do this week**
 
-Because the second door is always easier than the first. Pick one this week. Pray out loud at the table, or apologize without the "but you," or name the mess to the people living in it. On your own, say Sunday and drive, or go cross the lobby to a younger man.
+The second door is always easier than the first. Pick one this week. Pray out loud at the table, or apologize without the "but you," or name the mess to the people living in it. On your own, say Sunday and drive, or go cross the lobby to a younger man.
 
 :::notes
 _______________________________________________
@@ -140,7 +140,7 @@ _______________________________________________
 
 **Tell a brother**
 
-Because a sentence one man has heard is harder to back out of. Tell him your first line beforehand. Then tell him how it went, gap and all.
+Say it to one man and it gets harder to back out of. Tell him your first line beforehand. Then tell him how it went, gap and all.
 
 :::notes
 _______________________________________________

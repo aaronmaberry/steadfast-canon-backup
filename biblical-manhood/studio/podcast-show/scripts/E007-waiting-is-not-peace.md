@@ -6,7 +6,7 @@ Walk Steadfast · main episode · script v1 (pre-focus-group). Internal.
 |---|---|
 | Release | Tue Jan 26, 2027, 5:00 AM CT |
 | Format | Main episode. About 26 min. |
-| Slate | WES "Walk Steadfast, episode seven." JONATHON "Tuesday, January twenty-sixth, twenty twenty-seven." WES "Waiting Is Not Peace." |
+| Intro and slate | Per-episode open, Wes leads (SHOW-BIBLE section 5, open system v3, text in _build/intros_data.py). Slate: JONATHON "Episode seven. Waiting Is Not Peace." |
 | Source | Book chapter 4, Stop Waiting. Training W04. W04's stories and images (donuts, voicemail, the stair, the first screw, "words a calendar could hold," Luke 9:51) are deliberately avoided. |
 | Focus mark | **Stop Waiting**, named plainly in Pull up a chair and again in Carry this |
 | Scripture (NIV) | James 4:17 (checked 2026-10-02). Psalm 27:14 named in passing only, held for Advent (E097). |
@@ -32,11 +32,6 @@ Wes holding his phone, call log visible but blurred, half-smile. Text: **THE EAS
 
 [CAM: WIDE]
 
-[CHAPTER: Slate]
-WES: Walk Steadfast, episode seven.
-JONATHON: Tuesday, January twenty-sixth, twenty twenty-seven.
-WES: Waiting Is Not Peace.
-
 [CHAPTER: Cold open]
 [CAM: WES MS]
 WES: I called my brother.
@@ -48,13 +43,23 @@ WES: (long beat) The easy one.
 (Jonathon points at him and doesn't say anything. Wes looks at his coffee.)
 [STING 3s]
 
+[CHAPTER: Intro]
+[CAM: 2S]
+(Walk Steadfast open written for E007. Same beats every week, new words. SHOW-BIBLE section 5.)
+WES: This is Walk Steadfast. I'm Wes Hart. I'm fifty-two, and slow to call people back.
+[LOWER THIRD: Wes Hart]
+JONATHON: I'm Jonathon. I grew up in Pasadena, outside Houston.
+[LOWER THIRD: Jonathon]
+WES: On Tuesdays we pick one hard part of following Jesus as a man and talk it through.
+JONATHON: For more, Wes's book and the video training, walksteadfast.com.
+WES: Today we talk about why waiting feels so much like peace.
+JONATHON: Episode seven. Waiting Is Not Peace.
+
 [CHAPTER: Pull up a chair]
 [CAM: WIDE]
 (Wes shrugs off the waxed field jacket and hangs it on his chair back. Underneath, a charcoal henley. Jonathon looks at it, then down at his own charcoal henley.)
 JONATHON: You wore my shirt.
-[LOWER THIRD: Jonathon]
 WES: You wore my shirt. I've had this shirt since before you were saved.
-[LOWER THIRD: Wes Hart]
 JONATHON: We look like a youth group.
 WES: We look like two men who shop at the same feed store.
 (both laugh)
@@ -352,6 +357,11 @@ WES: See you at the table.
 JONATHON: Go walk it out.
 (Wes picks up his jacket from the chair back. Jonathon holds up his phone with a reminder set: "WES. 7:01." Hold WIDE 2s. Cut.)
 
+[CLOSING MUSIC 3s]
+[CREDITS]
+(Wes, normal credits volume, read like a producer credit. No gap, no ducking. SHOW-BIBLE section 13.)
+WES: Produced with AI voice and video tools.
+
 ## Shorts (6)
 
 | # | Cut | Hook | Length |
@@ -372,17 +382,18 @@ The first of the four marks, by itself: Stop Waiting. Wes tells the full story o
 
 Chapters
 00:00 Cold open
-00:14 Pull up a chair
-01:19 The brothers
-03:55 Why we wait
-08:30 The longest wait
-10:44 Mr. Abernathy's question
-13:01 The Word
-15:16 Pushback
-19:30 What I actually did
-22:34 This week's challenge
-24:15 Carry this
-24:29 Outro
+00:08 Intro
+00:41 Pull up a chair
+01:46 The brothers
+04:22 Why we wait
+08:57 The longest wait
+11:10 Mr. Abernathy's question
+13:27 The Word
+15:43 Pushback
+19:57 What I actually did
+23:01 This week's challenge
+24:42 Carry this
+24:56 Outro
 
 Scripture: James 4:17 (NIV)
 
@@ -400,8 +411,6 @@ Facebook  facebook.com/steadfastwalk
 TikTok  tiktok.com/@steadfastwalk
 Reddit  reddit.com/user/steadfastwalk
 LinkedIn  linkedin.com/company/steadfastwalk
-
-Walk Steadfast is made with AI-generated video and voices. Wes and Jonathon are characters, and their stories are composites drawn from real men's lives.
 
 Scripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.™ Used by permission. All rights reserved worldwide.
 

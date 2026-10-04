@@ -80,7 +80,7 @@ That's really all this book is after. Find out what a man does on an ordinary da
 
 ## Where this goes
 
-Before long you'll meet the four marks of a steadfast man, and most of what follows is about how they look on a Tuesday. First, though, something for anybody who's started to wonder whether what he's been told about manhood is thin, or at war with itself. You're not imagining it. **You Are Not Crazy** comes next.
+Before long you'll meet the four marks of a steadfast man, and most of what follows is about how they look on a Tuesday. First, though, something for anybody who's started to wonder whether what he's been told about manhood is thin, or at war with itself. You're not imagining it, and you're not crazy. That's where we go next.
 
 ## Before you turn the page
 
@@ -93,7 +93,7 @@ Maybe you saw yourself in Roy or Walt, Tomás or Eli, or maybe you live somewher
 
 **Name it**
 
-Because you can't change a day you've never really looked at. Replay your last plain weekday from alarm to pillow, and name two spots where you chose something without feeling like you chose.
+You can't change a day you've never really looked at. Replay your last plain weekday from alarm to pillow, and name two spots where you chose something without feeling like you chose.
 
 :::notes
 _______________________________________________
@@ -103,7 +103,7 @@ _______________________________________________
 
 **Do this week**
 
-Because small things done again are what shape a man. Take one of those two spots and handle it differently next Tuesday. Pick up the call you'd usually let ring out. Leave the phone face down through supper. Sit at the counter for the ten minutes.
+Small things done again are what shape a man. Take one of those two spots and handle it differently next Tuesday. Pick up the call you'd usually let ring out. Leave the phone face down through supper. Sit at the counter for the ten minutes.
 
 :::notes
 _______________________________________________
@@ -113,7 +113,7 @@ _______________________________________________
 
 **Tell a brother**
 
-Because nobody remembers a Tuesday nobody else heard about. Send one man a text: what you saw in your ordinary day, and what you'll try differently on the next.
+Nobody remembers a Tuesday nobody else heard about. Send one man a text: what you saw in your ordinary day, and what you'll try differently on the next.
 
 :::notes
 _______________________________________________

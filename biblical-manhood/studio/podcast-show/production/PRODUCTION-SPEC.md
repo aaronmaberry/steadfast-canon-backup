@@ -163,7 +163,7 @@ Underlord can propose clips (Descript says it can make 3-5 social clips). Use it
 
 ### QC checklist before export
 
-- [ ] Slate correct: number, date, title
+- [ ] Slate correct: number and title only, no date anywhere in the open or slate (Aaron, 2026-10-03)
 - [ ] Every verse card matches the NIV word for word, with no em dash
 - [ ] No reused book or session names on screen or in captions
 - [ ] Every chapter starts at a real topic turn
@@ -173,4 +173,4 @@ Underlord can propose clips (Descript says it can make 3-5 social clips). Use it
 - [ ] Subscribe lower third doesn't cover a face
 - [ ] Spoken outro matches the end-screen elements
 - [ ] Loudness targets met
-- [ ] AI disclosure set at upload (if the hosts are generated)
+- [ ] YouTube upload settings checked against current platform policy (Aaron's call at first upload; SHOW-BIBLE section 13)

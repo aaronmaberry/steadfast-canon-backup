@@ -82,7 +82,7 @@ Nobody named you? You can still name him. Ray didn't feel qualified the night he
 
 **Name it**
 
-Because a man rarely hears his own sighs. Write down, honestly, what your son has been called by you lately: the words, the looks, the good ones and the bad ones. If you're a man nobody ever named, write that down too.
+Men rarely hear their own sighs. Write down, honestly, what your son has been called by you lately: the words, the looks, the good ones and the bad ones. If you're a man nobody ever named, write that down too.
 
 :::notes
 _______________________________________________
@@ -92,7 +92,7 @@ _______________________________________________
 
 **Do this week**
 
-Because one talk won't do what a hundred ordinary days will. Each day, catch one thing worth naming and say it. One night, put your hand on his head and bless him in words that sound like you. No son at home? Find a boy who's missing a dad and tell him one good thing you saw.
+One talk won't do what a hundred ordinary days will. Each day, catch one thing worth naming and say it. One night, put your hand on his head and bless him in words that sound like you. No son at home? Find a boy who's missing a dad and tell him one good thing you saw.
 
 :::notes
 _______________________________________________
@@ -102,7 +102,7 @@ _______________________________________________
 
 **Tell a brother**
 
-Because another man will catch the names you can't hear yourself saying. Tell him what you've been calling your boy. Ask what his dad called him, and what he's calling his own kids now. No son? Tell him the name your father gave you, and about the boy you spoke up for this week.
+Another man will catch the names you can't hear yourself saying. Tell him what you've been calling your boy. Ask what his dad called him, and what he's calling his own kids now. No son? Tell him the name your father gave you, and about the boy you spoke up for this week.
 
 :::notes
 _______________________________________________

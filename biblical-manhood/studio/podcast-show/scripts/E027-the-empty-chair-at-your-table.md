@@ -6,7 +6,7 @@ Walk Steadfast · main episode · script v1 (batch 4). Internal.
 |---|---|
 | Release | Tue Apr 6, 2027, 5:00 AM CT |
 | Format | Main episode. About 27 min. |
-| Slate | WES "Walk Steadfast, episode twenty-seven." JONATHON "Tuesday, April sixth, twenty twenty-seven." WES "The Empty Chair at Your Table." |
+| Intro and slate | Per-episode open, Jonathon leads (SHOW-BIBLE section 5, open system v3, text in _build/intros_data.py). Slate: JONATHON "Episode twenty-seven. The Empty Chair at Your Table." |
 | Source | Book chapter 8, The Empty Chair (B plug). Training W08. Avoided on purpose: the boy with a learner's permit in an empty school lot, and the hand on the grab handle (also, no driving lesson anywhere in the episode); keys hitting the counter; the four kinds of chair as a list; "something sits down in it" and the list of what takes the seat; Joseph, David with the sheep; Psalm 27:10 and 68:5-6 (book margins); the unmailed letter; "finish this sentence: the chair at the head of my childhood table was"; "attic." From W08: the man whose dad sat in a brown recliner every night, the school picture on the fridge, the custody calendar on the fridge, the man who sees his boys every other weekend, "it explains, it doesn't excuse" as a phrase, and "chores done before his truck turned in." The show's angle is details, not summaries. Jonathon tells the whole Saturday for the first time, and the episode's practice is to tell one man one true detail. Ephesians 6:4 is read for what belonged in the chair, then turned on Wes as a father who's in the chair and still exasperating his son. |
 | Focus mark | **Pick Up the Weight**, named in Pull up a chair and in Carry this |
 | Scripture (NIV) | Ephesians 6:4 (checked 2026-10-03), read by Wes. The only card. |
@@ -31,11 +31,6 @@ Jonathon looking off-camera, jaw set, soft light. Text: **"HE TOOK THE LAMP."** 
 
 [CAM: WIDE]
 
-[CHAPTER: Slate]
-WES: Walk Steadfast, episode twenty-seven.
-JONATHON: Tuesday, April sixth, twenty twenty-seven.
-WES: The Empty Chair at Your Table.
-
 [CHAPTER: Cold open]
 [CAM: JON MS]
 JONATHON: He took the lamp.
@@ -45,12 +40,21 @@ WES: What lamp?
 JONATHON: The one my mom read under. (beat) She never bought another one.
 [STING 3s]
 
+[CHAPTER: Intro]
+[CAM: 2S]
+(Walk Steadfast open written for E027. Same beats every week, new words. SHOW-BIBLE section 5.)
+JONATHON: This is Walk Steadfast. I'm Jonathon. My mom raised my sister and me in Pasadena.
+[LOWER THIRD: Jonathon]
+WES: I'm Wes Hart. Men have told me about their empty chair for twenty-some years.
+[LOWER THIRD: Wes Hart]
+JONATHON: On Tuesdays we talk plainly about following Jesus as a man. Wes's book and the video training are at walksteadfast.com.
+WES: Today we look at what a man's leaving does to a house.
+JONATHON: Episode twenty-seven. The Empty Chair at Your Table.
+
 [CHAPTER: Pull up a chair]
 [CAM: WIDE]
 WES: Pull up a chair.
-[LOWER THIRD: Wes Hart]
 JONATHON: We lost nine to eight.
-[LOWER THIRD: Jonathon]
 WES: You scored eight runs.
 JONATHON: We scored eight runs! In coach-pitch! The Bluebonnets have never scored eight runs in anything. We scored eight, and they scored nine, and I'm choosing to remember the eight.
 WES: How'd the twin do?
@@ -289,6 +293,11 @@ WES: See you at the table.
 JONATHON: Go walk it out.
 (Wes refolds the notebook page carefully along its old creases and puts it back in his shirt pocket. He pats the pocket once. Hold WIDE 2s. Cut.)
 
+[CLOSING MUSIC 3s]
+[CREDITS]
+(Wes, normal credits volume, read like a producer credit. No gap, no ducking. SHOW-BIBLE section 13.)
+WES: Produced with AI voice and video tools.
+
 ## Shorts (5)
 
 | # | Cut | Hook | Length |
@@ -308,16 +317,17 @@ Ephesians 6:4 describes what belonged in that chair. Then it turns on Wes, who h
 
 Chapters
 00:00 Cold open
-00:18 Pull up a chair
-02:54 The Saturday
-08:24 What belonged in the chair
-10:32 In the chair and still
-14:15 Pushback
-18:57 The Sunday text
-21:06 What I actually did
-22:42 This week's challenge
-24:23 Carry this
-24:39 Outro
+00:10 Intro
+00:47 Pull up a chair
+03:23 The Saturday
+08:53 What belonged in the chair
+11:01 In the chair and still
+14:44 Pushback
+19:26 The Sunday text
+21:35 What I actually did
+23:11 This week's challenge
+24:52 Carry this
+25:08 Outro
 
 Scripture: Ephesians 6:4 (NIV)
 
@@ -334,8 +344,6 @@ Facebook  facebook.com/steadfastwalk
 TikTok  tiktok.com/@steadfastwalk
 Reddit  reddit.com/user/steadfastwalk
 LinkedIn  linkedin.com/company/steadfastwalk
-
-Walk Steadfast is made with AI-generated video and voices. Wes and Jonathon are characters, and their stories are composites drawn from real men's lives.
 
 Scripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.™ Used by permission. All rights reserved worldwide.
 

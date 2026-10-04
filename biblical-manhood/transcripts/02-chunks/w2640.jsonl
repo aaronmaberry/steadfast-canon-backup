@@ -1,0 +1,4 @@
+{"window": 2640, "start": 2640.0, "end": 2645.0, "local_start": 0.0, "local_end": 5.0, "text": "forget about it tomorrow it's okay.", "avg_logprob": -0.8313, "no_speech_prob": 0.2095}
+{"window": 2640, "start": 2645.0, "end": 2656.72, "local_start": 5.0, "local_end": 16.72, "text": "Fast forward 30-", "avg_logprob": -0.8313, "no_speech_prob": 0.2095}
+{"window": 2640, "start": 2700.0, "end": 2708.88, "local_start": 60.0, "local_end": 68.88, "text": "Second one, direction", "avg_logprob": -1.3223, "no_speech_prob": 0.0246}
+{"window": 2640, "start": 2708.88, "end": 2709.52, "local_start": 68.88, "local_end": 69.52, "text": "as a kid growing up,", "avg_logprob": -1.3223, "no_speech_prob": 0.0246}

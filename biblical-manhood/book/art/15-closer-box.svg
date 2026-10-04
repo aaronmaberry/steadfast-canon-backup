@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="342.00pt" height="294.48pt" viewBox="0 0 1425 1227">
+<defs>
+<style type="text/css"><![CDATA[
+@font-face { font-family: 'P052'; src: url('/usr/share/fonts/opentype/urw-base35/P052-Roman.otf'); }
+@font-face { font-family: 'P052I'; src: url('/usr/share/fonts/opentype/urw-base35/P052-Italic.otf'); }
+@font-face { font-family: 'C059B'; src: url('/usr/share/fonts/opentype/urw-base35/C059-Bold.otf'); }
+]]></style></defs>
+<rect width="1425" height="1227" fill="#F4EFE4"/>
+<rect x="1" y="1013" width="1423" height="212" fill="#ECE4D4"/>
+<rect x="0.5" y="0.5" width="1424" height="1226" fill="none" stroke="#C4B8A8" stroke-width="1"/>
+<rect x="42" y="33" width="3" height="1160" fill="#7A4A32"/>
+<text x="92" y="97" font-family="P052" font-size="33" fill="#7A4A32">15</text>
+<rect x="41" y="156" width="20" height="10" fill="#7A4A32"/>
+<text x="92" y="171" font-family="C059B" font-size="33" fill="#7A4A32" letter-spacing="3.6">NAME IT</text>
+<text x="92" y="233" font-family="P052" font-size="44" fill="#2C2924">What do you keep blaming so you do not have to say the</text>
+<text x="92" y="290" font-family="P052" font-size="44" fill="#2C2924">problem is also in you?</text>
+<line x1="92" y1="350" x2="1350" y2="350" stroke="#C4B8A8" stroke-width="1"/>
+<rect x="41" y="418" width="20" height="10" fill="#7A4A32"/>
+<text x="92" y="433" font-family="C059B" font-size="33" fill="#7A4A32" letter-spacing="3.6">DO THIS WEEK</text>
+<text x="92" y="495" font-family="P052" font-size="44" fill="#2C2924">Say the true sentence. The problem is also in me.</text>
+<text x="92" y="590" font-family="P052I" font-size="44" fill="#5A544C">What I have been blaming:</text>
+<line x1="92" y1="642" x2="1350" y2="642" stroke="#C4B8A8" stroke-width="1"/>
+<rect x="41" y="789" width="20" height="10" fill="#7A4A32"/>
+<text x="92" y="804" font-family="C059B" font-size="33" fill="#7A4A32" letter-spacing="3.6">TELL A BROTHER</text>
+<text x="92" y="866" font-family="P052" font-size="44" fill="#2C2924">Name the blame. Tell him the sentence. Have him ask if you</text>
+<text x="92" y="923" font-family="P052" font-size="44" fill="#2C2924">used the old story again.</text>
+<line x1="92" y1="983" x2="1350" y2="983" stroke="#C4B8A8" stroke-width="1"/>
+<rect x="41" y="1051" width="20" height="10" fill="#7A4A32"/>
+<text x="92" y="1066" font-family="C059B" font-size="33" fill="#7A4A32" letter-spacing="3.6">CARRY THIS</text>
+<text x="92" y="1136" font-family="P052I" font-size="54" fill="#2C2924">The problem is in you. Not only what was done to you.</text>
+</svg>

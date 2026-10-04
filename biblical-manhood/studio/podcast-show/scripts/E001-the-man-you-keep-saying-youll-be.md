@@ -6,7 +6,7 @@ Walk Steadfast · launch episode · script v3 (after reader panel round 3). Inte
 |---|---|
 | Release | Tue Jan 5, 2027, 5:00 AM CT (YouTube, Apple Podcasts, Spotify) |
 | Format | E001 launch (show bible 4c). About 40 min, 5,700 spoken words. |
-| Slate | WES "Walk Steadfast, episode one." JONATHON "Tuesday, January fifth, twenty twenty-seven." WES "The Man You Keep Saying You'll Be." |
+| Intro and slate | Per-episode open (launch), Wes leads (SHOW-BIBLE section 5, open system v3, text in _build/intros_data.py). Slate: JONATHON "Episode one. The Man You Keep Saying You'll Be." |
 | Source | Book chapter 1, A Quiet Tuesday. Training session W01. New stories only, no book or session images. |
 | Focus mark | Stop Waiting, named plainly at "A quiet Tuesday" and in Carry this |
 | Scripture (NIV) | 1 Corinthians 13:11; Luke 16:10. Both checked word for word on BibleGateway, 2026-10-02. |
@@ -32,30 +32,34 @@ The locked two-shot. Jonathon mid-laugh, hands up; Wes deadpan, holding the whit
 [CAM: WIDE]
 (Both men already seated. Wes has Mr. Abernathy's white diner mug. Jonathon has his navy tumbler, phone face-down by his right hand. Room tone only.)
 
-[CHAPTER: Slate]
-WES: Walk Steadfast, episode one.
-JONATHON: Tuesday, January fifth, twenty twenty-seven.
-WES: The Man You Keep Saying You'll Be.
-
 [CHAPTER: Cold open]
 [CAM: JON MS]
-JONATHON: For about two years I took the long way home. 1604, at six-fifteen, on purpose, so bath time would be over by the time I walked in.
+JONATHON: For two years I took 1604 home at six-fifteen, on purpose, to miss bath time.
 [CAM: WES CU]
 WES: (beat) 1604 at six-fifteen is a parking lot.
 [CAM: JON MS]
-JONATHON: I picked the parking lot. And one night my wife just goes, "Since when do you like 1604?"
+JONATHON: I picked the parking lot. Then one night my wife goes, "Since when do you like 1604?"
 [CAM: 2S]
 (Wes laughs silently into his mug. Jonathon puts both hands up.)
-JONATHON: I had no answer. Nobody likes 1604.
 [TEXT: The Man You Keep Saying You'll Be]
 [STING 3s]
+
+[CHAPTER: Intro]
+[CAM: 2S]
+(Walk Steadfast open written for E001, launch. Same beats every week, new words. SHOW-BIBLE section 5.)
+WES: This is Walk Steadfast. I'm Wes Hart. I've sat at tables with men for twenty-some years.
+[LOWER THIRD: Wes Hart]
+JONATHON: I'm Jonathon. I came to faith at twenty-nine, the year I met Wes.
+[LOWER THIRD: Jonathon]
+WES: Starting today, twice a week, we talk straight about following Jesus as a man.
+JONATHON: Wes wrote a book called Steadfast Men, and a video training goes with it. Both are at walksteadfast.com.
+WES: Today we ask why good intentions don't make it to Tuesday.
+JONATHON: Episode one. The Man You Keep Saying You'll Be.
 
 [CHAPTER: Pull up a chair]
 [CAM: WIDE]
 WES: Pull up a chair.
-[LOWER THIRD: Wes Hart]
 JONATHON: (flips his phone over, looks, flips it back) Sorry. Sorry. My daughter just texted me "good luck daddy" and a picture of a dog.
-[LOWER THIRD: Jonathon]
 WES: You don't have a dog.
 JONATHON: We don't have a dog. I think it's a negotiation.
 (both laugh)
@@ -73,16 +77,7 @@ WES: And if you're twenty-two and nobody's waiting on you at home, stay. Your Tu
 JONATHON: We'll get there. But first, people need to know who you are, and you're terrible at talking about yourself.
 WES: I am.
 JONATHON: So I'm going to do it, and you can fix whatever I get wrong.
-WES: (leans back, arms crossed) Go ahead. But one thing first.
-
-[PENDING AARON: on-mic AI disclosure (reader panel round 3, unanimous). Keep or cut this block whole. If cut, delete the TEXT line too and change Wes's "But one thing first." back to "Go ahead."]
-[CHAPTER: Before we start]
-[CAM: 2S]
-[TEXT: Made with AI · Characters · Composite stories]
-WES: You should hear this from us, not from a comment. Walk Steadfast is made with AI. Our faces and our voices are generated.
-JONATHON: Wes and I are characters. Our families, our stories, the old man with the mug you're about to hear about, they're composites, built from real men's lives. The men are real. We changed the names and put the pieces together.
-WES: The Scripture is word for word. And the challenge at the end is real, because you're the one who does it.
-[END PENDING AARON]
+WES: (leans back, arms crossed) Go ahead.
 
 [CHAPTER: Who is Wes Hart]
 [CAM: JON MS]
@@ -148,7 +143,7 @@ JONATHON: (sits up) Be nice.
 WES: I'm always nice.
 JONATHON: You are not always nice.
 [CAM: WES MS]
-WES: This is Jonathon. He's thirty-seven. He grew up in Pasadena, Texas.
+WES: This is Jonathon. He's thirty-six, thirty-seven in February. He grew up in Pasadena, Texas.
 JONATHON: Here we go.
 WES: Pasadena, Texas, for those of you not from here, is east of Houston. Refinery country. Flat. It smells like work.
 JONATHON: It's a great place. Nothing's the Hill Country, I know. Everyone's been told.
@@ -398,13 +393,13 @@ JONATHON: And I'll tell you if he did it.
 [CHAPTER: The book, the training, the site]
 [CAM: WIDE]
 JONATHON: Okay. The tour. I promised. What is all this? Because people are going to see a website and a book and they're going to wonder if this is a sales pitch.
-WES: Fair question. Here's how I'll answer it. This is the one episode where we tell you everything that exists, all of it, plainly. After today, you'll hear about the book or the training every now and then, when it actually fits what we're talking about. Not every week. That's a promise.
+WES: Fair question. Here's how I'll answer it. This is the one episode where we tell you everything that exists, all of it, plainly. After today, you'll hear them named once near the top, in one line. Past that, only when it actually fits what we're talking about. That's a promise.
 JONATHON: I'm going to hold him to that.
 WES: Good. So. It started with the book.
 [PLUG: BOOK]
 [CAM: WES MS]
 [B: the book cover on the walnut table, slow push]
-WES: It's called Steadfast Men, The Way of Godly Men. I wrote it, and it's coming. It's thirty-five short chapters in five parts. Part one is the man you were built to be. Part two is what you inherited, your dad, your home, the stuff you brought with you that you didn't choose. Part three is the bigger story, where a man fits in what God's doing. Part four is the house, marriage, the single man, your kids. And part five is the long road.
+WES: It's called Steadfast Men, The Way of Godly Men. I wrote it. It's thirty-five short chapters in five parts. Part one is the man you were built to be. Part two is what you inherited, your dad, your home, the stuff you brought with you that you didn't choose. Part three is the bigger story, where a man fits in what God's doing. Part four is the house, marriage, the single man, your kids. And part five is the long road.
 JONATHON: And the chapters are short. I'm not a reader. I read it in a deer stand.
 WES: Every chapter ends the same way. Name it. Do this week. Tell a brother. Carry this. So it doesn't let you just nod and close it.
 [PLUG: TRAINING]
@@ -422,7 +417,7 @@ JONATHON: And I'm the guy at the breakfast with the annoying question.
 [CAM: 2S]
 [TEXT: walksteadfast.com]
 JONATHON: And all of it lives at walksteadfast.com.
-WES: walksteadfast.com. The book, the training when it's out, and every episode of this show. If you want to know what's real and what's coming, that's where you check.
+WES: walksteadfast.com. The book, the training, and every episode of this show. That's the one place to check.
 JONATHON: And we're on social. We're @steadfastwalk on Instagram, on X, on TikTok, on Facebook.
 WES: Steadfast walk. One word.
 JONATHON: Which is backwards from the website.
@@ -471,7 +466,7 @@ WES: Once.
 JONATHON: Once. Friday is Field Notes, episode two. We'll tell you whether we did the challenge, and we'll answer a question a lot of men ask when they're starting this. How do you start if you've never been the spiritual one?
 WES: That's a good one.
 JONATHON: If you're on YouTube, subscribe, so Friday shows up for you. If you're listening on Apple Podcasts or Spotify, hit follow. Same thing, different button.
-WES: And everything else is at walksteadfast.com. The book, the training when it's out, and every episode.
+WES: And everything else is at walksteadfast.com. The book, the training, and every episode.
 [TEXT: walksteadfast.com · @steadfastwalk]
 JONATHON: We're @steadfastwalk on Instagram, X, TikTok and Facebook. That's where the short clips go during the week. Steadfast walk, one word.
 WES: Backwards from the website.
@@ -488,6 +483,11 @@ WES: Is that ours now?
 JONATHON: That's ours now.
 (Hold WIDE 2s on both men, room tone. Cut.)
 
+[CLOSING MUSIC 3s]
+[CREDITS]
+(Wes, normal credits volume, read like a producer credit. No gap, no ducking. SHOW-BIBLE section 13.)
+WES: Produced with AI voice and video tools.
+
 ## Shorts (6)
 
 | # | Cut | Hook (first 2 s) | Length | Caption line |
@@ -496,7 +496,7 @@ JONATHON: That's ours now.
 | 2 | SHORT 2, rest versus hiding | "Is it a sin to sit in the car for ten minutes?" | about 40 s | Rest is a pit stop |
 | 3 | SHORT 3, the phone line | "The phone is a recliner you can carry." | about 15 s | Start on Wes CU |
 | 4 | Wes, "She'd stopped asking" through the daughter on the floor (from "In the fog years, I did all the big things") | "I did all the big things." | about 75 s | End on the BREATHER |
-| 5 | Cold open, the 1604 parking lot | "I picked the parking lot." | about 20 s | Fun clip for the channel |
+| 5 | Cold open, the 1604 parking lot | "I picked the parking lot." | about 15 s | Fun clip for the channel |
 | 6 | The high performer (from "What about the guy who's great at work?") | "At work, every day is a Saturday." | about 60 s | "It's a nicer recliner." |
 
 Every Short ends on a 1 s card: "Full episode: Walk Steadfast, Ep. 1." On YouTube, set Related Video to E001.
@@ -510,28 +510,28 @@ This is the launch episode, so it runs longer. Wes and Jonathon introduce each o
 
 Chapters
 00:00 Cold open
-00:35 Pull up a chair
-02:22 Before we start
-02:55 Who is Wes Hart
-08:52 Who is Jonathon
-14:19 A quiet Tuesday
-18:50 The Word
-21:34 Pushback
-27:07 What I actually did
-29:28 This week's challenge
-31:27 The book, the training, the site
-34:43 What you get here
-36:58 Carry this
-37:10 Outro
+00:20 Intro
+00:56 Pull up a chair
+02:41 Who is Wes Hart
+08:37 Who is Jonathon
+14:05 A quiet Tuesday
+18:36 The Word
+21:19 Pushback
+26:52 What I actually did
+29:13 This week's challenge
+31:12 The book, the training, the site
+34:29 What you get here
+36:44 Carry this
+36:56 Outro
 
 Scripture: 1 Corinthians 13:11, Luke 16:10 (NIV)
 
 This week's challenge: One meal with no phone (married: ask your wife "What's Tuesday like for you?" and just listen; single: eat with someone and ask about his week). Then text one man: "How's your Tuesday?"
 
 Mentioned
-Steadfast Men: The way of Godly Men by Wes Hart (coming), chapter 1, "A Quiet Tuesday"
-Steadfast training, 24 sessions (coming), session 1
-Both will be at walksteadfast.com
+Steadfast Men: The way of Godly Men by Wes Hart, chapter 1, "A Quiet Tuesday"
+Steadfast training, 24 sessions, session 1
+Both are at walksteadfast.com
 
 New episodes every Tuesday, plus Field Notes every Friday.
 
@@ -542,8 +542,6 @@ Facebook  facebook.com/steadfastwalk
 TikTok  tiktok.com/@steadfastwalk
 Reddit  reddit.com/user/steadfastwalk
 LinkedIn  linkedin.com/company/steadfastwalk
-
-Walk Steadfast is made with AI-generated video and voices. Wes and Jonathon are characters, and their stories are composites drawn from real men's lives. [DECISION FOR AARON: keep, edit, or drop. See SHOW-BIBLE section 13.]
 
 Scripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.™ Used by permission. All rights reserved worldwide.
 
@@ -577,7 +575,7 @@ Wes Hart and Jonathon open their new show at a walnut table with two mugs and on
 
 Wes is 52, lives in the Texas Hill Country, and has been married 27 years. He calls his thirties "the fog years," when he coached, sat in the third row at church, and was gone in his own living room. At 36 an older man at a men's breakfast asked him, "What are you waiting on?" and then met him every other Thursday for six years. Wes still drinks from that man's diner mug.
 
-Jonathon is 37, a sales manager from Pasadena, Texas, married to Dani, a night-shift labor and delivery nurse, with two kids. His dad left when he was nine. He came to faith at 29, after Dani told him, "I'm not raising two kids," and he sent Wes what he calls "the scariest text I've ever sent a man." They've met most Thursdays for seven years.
+Jonathon is 36 (37 in February), a sales manager from Pasadena, Texas, married to Dani, a night-shift labor and delivery nurse, with two kids. His dad left when he was nine. He came to faith at 29, after Dani told him, "I'm not raising two kids," and he sent Wes what he calls "the scariest text I've ever sent a man." They've met most Thursdays for seven years.
 
 ## The long way home
 
@@ -607,7 +605,7 @@ One meal with no phone. Married men ask their wife, "What's Tuesday like for you
 
 ---
 **Watch or listen:** YouTube · Apple Podcasts · Spotify
-**Mentioned:** *Steadfast Men: The way of Godly Men*, chapter 1 (coming) · Steadfast training, session 1 (coming)
+**Mentioned:** *Steadfast Men: The way of Godly Men*, chapter 1 · Steadfast training, session 1
 **Scripture:** 1 Corinthians 13:11, Luke 16:10 (NIV)
 
 walksteadfast.com · @steadfastwalk
@@ -615,6 +613,8 @@ walksteadfast.com · @steadfastwalk
 Scripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.™ Used by permission. All rights reserved worldwide.
 
 ## Production notes
+
+- **Opening re-record (Aaron, 2026-10-03 10:35 AM CT).** The top now follows the standard shape (SHOW-BIBLE section 5): the cold open, then the sting, then the per-episode open (SHOW-BIBLE section 5, E001 launch text), then the slate, then Pull up a chair. Lines to re-record: the cold open (Jonathon's first and third lines were shortened; "I had no answer. Nobody likes 1604." was cut), the four intro lines, and the three slate lines ("Walk Steadfast" dropped from Wes's first slate line). Wes's "(beat) 1604 at six-fifteen is a parking lot." and everything from "Pull up a chair." on are unchanged. The host lower thirds moved to the intro.
 
 - **Shot list highlights.**
   - Hold WIDE for the slate.

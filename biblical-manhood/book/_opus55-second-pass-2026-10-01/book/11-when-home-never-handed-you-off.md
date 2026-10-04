@@ -71,7 +71,7 @@ Write down a date, too. Whichever day it was: when you trusted Christ, when that
 
 ## When Dad won't
 
-Some fathers never will, and it isn't because you came up short. Maybe nobody handed him off either. Maybe keeping you small is how he still feels big. You can honor him and quit orbiting in the same week (the next chapter is about that honor). The drive over just stops being a trip to collect a sentence. You go because he's your dad. The sentence itself you get from the Father, and from older brothers in Christ who'll speak up.
+Some fathers never will, and it isn't because you came up short. Maybe nobody handed him off either. Maybe keeping you small is how he still feels big. You can honor him and quit orbiting in the same week (we're about to take up that honor). The drive over just stops being a trip to collect a sentence. You go because he's your dad. The sentence itself you get from the Father, and from older brothers in Christ who'll speak up.
 
 Nate got his at a utility sink. A gray-haired guy from church had asked him to help put in a water heater, and afterward, both of them scrubbing up, he said, "I've had my eye on you for years. You're a good man. There's nothing I've got I wouldn't trust you with." Nate didn't answer. He dried his hands twice. It hadn't come from his father's chair. It came from someone willing to stand where his father wouldn't, and God still puts men like that near the sons who ask.
 
@@ -94,7 +94,7 @@ If nobody has ever said it to you, I will: you're a man. And long before me, the
 
 **Name it**
 
-Because if you can't point to the day you were counted in, you're probably still waiting at the county line. Say who counted you and when. Or say the plain truth, that nobody ever did. Then say what you did with that: walked out swinging, started circling, or settled in at your mother's table.
+If you can't point to the day somebody counted you in, you're probably still waiting out at the county line. Say who counted you and when. Or say the plain truth, that nobody ever did. Then say what you did with that: walked out swinging, started circling, or settled in at your mother's table.
 
 :::notes
 _______________________________________________
@@ -104,7 +104,7 @@ _______________________________________________
 
 **Do this week**
 
-Because somebody has to ask and somebody has to offer, and you're at one end. Younger? Go to an older man whose life looks like these pages and ask him straight: when you look at me, do you see a man? Take whatever answer he gives. Older? Pick a younger guy and tell him one specific thing you've seen him do that only a grown man does.
+Somebody has to ask and somebody has to offer, and you're standing at one end of that. Younger? Go to an older man whose life looks like these pages and ask him straight: when you look at me, do you see a man? Take whatever answer he gives. Older? Pick a younger guy and tell him one specific thing you've seen him do that only a grown man does.
 
 :::notes
 _______________________________________________
@@ -114,7 +114,7 @@ _______________________________________________
 
 **Tell a brother**
 
-Because a date only you know about tends to fade. Let him know if anyone ever counted you in. Show him the date going in your Bible, and explain what it marks.
+A date that only you know about tends to fade with the years. Let him know if anyone ever counted you in. Show him the date going in your Bible, and explain what it marks.
 
 :::notes
 _______________________________________________

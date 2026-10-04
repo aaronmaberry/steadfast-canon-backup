@@ -99,7 +99,7 @@ I've asked you to aim the hardest word in the language at yourself. Under it is 
 
 **Name it**
 
-Because one honest sentence is all that separates hauling it around from having it forgiven. Tell God, out loud, with the real thing in the sentence: "I sinned. I ___." Leave "struggle" out of it. If you've spent years naming your father or the old house, say the other true thing as well: the problem is also in me.
+One honest sentence is all that stands between hauling it around and having it forgiven. Tell God, out loud, with the real thing in the sentence: "I sinned. I ___." Leave "struggle" out of it. If you've spent years naming your father or the old house, say the other true thing as well: the problem is also in me.
 
 :::notes
 _______________________________________________
@@ -109,7 +109,7 @@ _______________________________________________
 
 **Do this week**
 
-Because confessing only when things blow up never becomes a habit, and a single man who builds it now brings into marriage what some husbands only learn from wreckage. Each night this week, right before sleep, give God two minutes and name that day's sins, one at a time. Thank Him, since the forgiveness is already yours in Christ. Pay attention when shame tries to take over the conversation.
+Confession that only happens when things blow up never becomes a habit, and a single man who builds it now brings into marriage what some husbands only learn from wreckage. Each night this week, right before sleep, give God two minutes and name that day's sins, one at a time. Thank Him, since the forgiveness is already yours in Christ. Pay attention when shame tries to take over the conversation.
 
 :::notes
 _______________________________________________
@@ -119,7 +119,7 @@ _______________________________________________
 
 **Tell a brother**
 
-Because sin can't stay hidden once a man who won't walk out has heard it. Give him one, in person or over the phone. Tell him your next step, and ask him to pray for you right then.
+Sin can't stay hidden for long once a man who won't walk out on you has heard it. Give him one, in person or over the phone. Tell him your next step, and ask him to pray for you right then.
 
 :::notes
 _______________________________________________

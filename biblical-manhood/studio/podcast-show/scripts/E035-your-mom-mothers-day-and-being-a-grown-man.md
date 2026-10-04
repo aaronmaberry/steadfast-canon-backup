@@ -6,7 +6,7 @@ Walk Steadfast · main episode · script v1 (batch 5). Internal.
 |---|---|
 | Release | Tue May 4, 2027, 5:00 AM CT |
 | Format | Main episode. About 26 min. Mother's Day week. |
-| Slate | WES "Walk Steadfast, episode thirty-five." JONATHON "Tuesday, May fourth, twenty twenty-seven." WES "Your Mom, Mother's Day, and Being a Grown Man." |
+| Intro and slate | Per-episode open, Wes leads (SHOW-BIBLE section 5, open system v3, text in _build/intros_data.py). Slate: WES "Episode thirty-five. Your Mom, Mother's Day, and Being a Grown Man." |
 | Source | Fresh (no book chapter, no training session). The show's own frame: honor your mother as a man, not as a boy (who needs her sign-off) and not as a stranger (who doesn't know her friends). There is a grief version for men whose mother has died, plus the hard rooms (mothers who lost a child). Checked against book chapters 11-13 and W11-W13 for overlap. W11's midlife motorcycle is a different image from Merle's quartet. No Mother's Day story exists in the book or the sessions. |
 | Focus mark | **Work for God's Pay**, named in Pull up a chair and in Going first. Colossians 3:23-24 is paraphrased, with inheritance, not wages (Eph 2:8-9 line kept). |
 | Scripture (NIV) | Proverbs 23:22 (checked 2026-10-03), read by Wes. The only card. Colossians 3:23-24 is paraphrased without quote marks. |
@@ -31,14 +31,9 @@ Jonathon at the table holding a child's watercolor of a woman with three arms. T
 
 [CAM: WIDE]
 
-[CHAPTER: Slate]
-WES: Walk Steadfast, episode thirty-five.
-JONATHON: Tuesday, May fourth, twenty twenty-seven.
-WES: Your Mom, Mother's Day, and Being a Grown Man.
-
 [CHAPTER: Cold open]
 [CAM: WES MS]
-WES: My wife left for Fredericksburg yesterday morning. She left me a list on the fridge. Laminated. Item four says, "Do NOT water the fern in the den. It's fake."
+WES: My wife left me a laminated list on the fridge. Item four: "Do NOT water the fern in the den. It's fake."
 [CAM: JON MS]
 JONATHON: How long have you been watering it?
 [CAM: WES CU]
@@ -47,13 +42,22 @@ JONATHON: (beat) How's it doing?
 WES: It's doing great.
 [STING 3s]
 
+[CHAPTER: Intro]
+[CAM: 2S]
+(Walk Steadfast open written for E035. Same beats every week, new words. SHOW-BIBLE section 5.)
+WES: This is Walk Steadfast, Mother's Day week. I'm Wes Hart. My mom says she wants her own door.
+[LOWER THIRD: Wes Hart]
+JONATHON: I'm Jonathon. My mom raised me alone, so this week matters.
+[LOWER THIRD: Jonathon]
+WES: Following Jesus as a man includes our mothers. Find the book and the Steadfast video training at walksteadfast.com.
+JONATHON: Today we ask what a grown man owes his mom.
+WES: Episode thirty-five. Your Mom, Mother's Day, and Being a Grown Man.
+
 [CHAPTER: Pull up a chair]
 [CAM: WIDE]
 WES: Pull up a chair.
-[LOWER THIRD: Wes Hart]
 JONATHON: I need to know how she found out.
-[LOWER THIRD: Jonathon]
-WES: She didn't find out. She's known. She's watched me carry a cup of water in there every Sunday after church, and she let me, because I looked happy. And then she's leaving for three days, and she decided it was time.
+WES: She didn't find out. She's known. She's watched me carry a cup of water in there every Sunday after church, and she let me, because I looked happy. And then she's leaving for Fredericksburg with her sister for three days, and she decided it was time.
 JONATHON: She let you water a fake plant for years because you looked happy.
 WES: That's marriage. (sips coffee) So it's me and the sixteen-year-old, and my oldest came for supper last night because he heard there'd be no adult supervision. He brought a frozen pizza and called it "contributing."
 JONATHON: And the list?
@@ -262,6 +266,11 @@ WES: See you at the table.
 JONATHON: Go walk it out.
 (Wes picks up his mug, looks into it, and pours a little water into the empty coffee cup by his elbow, out of habit. Jonathon watches him do it. Hold WIDE 2s. Cut.)
 
+[CLOSING MUSIC 3s]
+[CREDITS]
+(Wes, normal credits volume, read like a producer credit. No gap, no ducking. SHOW-BIBLE section 13.)
+WES: Produced with AI voice and video tools.
+
 ## Shorts (6)
 
 | # | Cut | Hook | Length |
@@ -282,16 +291,17 @@ There's also a widower who wants to sing again, a grief version for men whose mo
 
 Chapters
 00:00 Cold open
-00:31 Pull up a chair
-02:22 Three arms
-05:16 The Word
-09:25 The bass
-14:11 When she's gone
-17:29 Pushback
-21:19 Going first
-23:19 This week's challenge
-24:47 Carry this
-24:59 Outro
+00:20 Intro
+00:53 Pull up a chair
+02:47 Three arms
+05:41 The Word
+09:49 The bass
+14:36 When she's gone
+17:53 Pushback
+21:44 Going first
+23:43 This week's challenge
+25:11 Carry this
+25:23 Outro
 
 Scripture: Proverbs 23:22 (NIV)
 
@@ -306,8 +316,6 @@ Facebook  facebook.com/steadfastwalk
 TikTok  tiktok.com/@steadfastwalk
 Reddit  reddit.com/user/steadfastwalk
 LinkedIn  linkedin.com/company/steadfastwalk
-
-Walk Steadfast is made with AI-generated video and voices. Wes and Jonathon are characters, and their stories are composites drawn from real men's lives.
 
 Scripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.™ Used by permission. All rights reserved worldwide.
 

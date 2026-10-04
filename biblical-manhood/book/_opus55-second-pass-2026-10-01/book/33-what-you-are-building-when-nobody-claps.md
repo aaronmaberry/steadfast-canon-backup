@@ -103,7 +103,7 @@ Long quiet grinds on a man, so let Isaiah's servant have the last word one more 
 
 **Name it**
 
-Because work nobody sees can go sour and turn into a grudge. Write down three things you're building that no one notices. Then be honest: lately, have you been resenting the silence, or quietly working for an audience?
+Work nobody sees can go sour and turn into a grudge. Write down three things you're building that no one notices. Then be honest: lately, have you been resenting the silence, or quietly working for an audience?
 
 :::notes
 _______________________________________________
@@ -113,7 +113,7 @@ _______________________________________________
 
 **Do this week**
 
-Because big days only harden in the plain ones after. Put your rhythm on an index card, the handful of things that stay put, sized for your season. Keep it on the dash of the truck. Live it for seven days and don't mention it to anyone.
+Big days only harden in the plain ones after. Put your rhythm on an index card, the handful of things that stay put, sized for your season. Keep it on the dash of the truck. Live it for seven days and don't mention it to anyone.
 
 :::notes
 _______________________________________________
@@ -123,7 +123,7 @@ _______________________________________________
 
 **Tell a brother**
 
-Because nobody sees what he's pouring either, and every man needs one witness. Show him the card, and give him permission to ask next week how it went. Then ask what he's pouring in the dark, and tell him you see it.
+Nobody sees what he's pouring either, and every man needs one witness. Show him the card, and give him permission to ask next week how it went. Then ask what he's pouring in the dark, and tell him you see it.
 
 :::notes
 _______________________________________________

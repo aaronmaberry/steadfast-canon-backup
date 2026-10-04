@@ -6,7 +6,7 @@ His son was good. A year of watching from that seat had taught him plenty. He ea
 
 That night, alone at the sink with the house asleep, Curtis finally saw it. When he was sixteen, it was his mom in that right-hand seat, both palms pressed against the dash, scared right along with him. His dad had left years before, and there was no other man to ask. Curtis had never seen a calm father beside a boy at the wheel. All he'd been handed was a door handle and a single word, and even the word came out crooked.
 
-Before the hard part, know where this road ends, because some of you won't make it through the middle otherwise. There's a Father who doesn't leave. He gets a chapter of His own soon. For now, hold on to how the psalm names Him.
+Before the hard part, know where this road ends, because some of you won't make it through the middle otherwise. There's a Father who doesn't leave. We'll come back to Him soon. For now, hold on to how the psalm names Him.
 
 :::margin
 **Psalm 68:5-6 NIV**
@@ -101,7 +101,7 @@ Bring God the chair exactly as it was. No touch-ups. May the One who sets the lo
 
 **Name it**
 
-Because a chair you never name keeps running things from the attic. Out loud, finish this: "The chair at the end of my table was ___." Then name one thing it taught you.
+Leave the chair unnamed and it keeps running things from the attic. Out loud, finish this: "The chair at the end of my table was ___." Then name one thing it taught you.
 
 :::notes
 _______________________________________________
@@ -111,7 +111,7 @@ _______________________________________________
 
 **Do this week**
 
-Because grief held in the body comes out sideways, in your marriage and your temper. Write your father a letter you won't send: what you needed, what never came, whatever thanks is true. Keep it safe. You'll want it later in this book.
+Grief held in the body comes out sideways, in your marriage and your temper. Write your father a letter you won't send: what you needed, what never came, whatever thanks is true. Keep it safe. You'll want it later in this book.
 
 :::notes
 _______________________________________________
@@ -121,7 +121,7 @@ _______________________________________________
 
 **Tell a brother**
 
-Because a hard sentence weighs less once another man has heard it. Read him your finished line. The letter stays private unless you choose otherwise. He may say "me too," or "I'm sorry." Let it be enough.
+A hard sentence weighs less once another man has heard it. Read him your finished line. The letter stays private unless you choose otherwise. He may say "me too," or "I'm sorry." Let it be enough.
 
 :::notes
 _______________________________________________

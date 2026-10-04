@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Steadfast Men. Week 3. Participant worksheet</title>
+<style>
+
+@page { size: letter; margin: 0; }
+@font-face {
+  font-family: "SMPlayfairBold";
+  src: url("file:///workspace/biblical-manhood/training/print/fonts/PlayfairDisplay-Bold.ttf") format("truetype"), url("fonts/PlayfairDisplay-Bold.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: block;
+}
+@font-face {
+  font-family: "SMPlayfair";
+  src: url("file:///workspace/biblical-manhood/training/print/fonts/PlayfairDisplay-Regular.ttf") format("truetype"), url("fonts/PlayfairDisplay-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: block;
+}
+@font-face {
+  font-family: "SMPlayfairItalic";
+  src: url("file:///workspace/biblical-manhood/training/print/fonts/PlayfairDisplay-Italic.ttf") format("truetype"), url("fonts/PlayfairDisplay-Italic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: block;
+}
+@font-face {
+  font-family: "SMGaramond";
+  src: url("file:///workspace/biblical-manhood/training/print/fonts/EBGaramond-Regular.ttf") format("truetype"), url("fonts/EBGaramond-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: block;
+}
+@font-face {
+  font-family: "SMGaramondItalic";
+  src: url("file:///workspace/biblical-manhood/training/print/fonts/EBGaramond-Italic.ttf") format("truetype"), url("fonts/EBGaramond-Italic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: block;
+}
+@font-face {
+  font-family: "SMGaramondBold";
+  src: url("file:///workspace/biblical-manhood/training/print/fonts/EBGaramond-Bold.ttf") format("truetype"), url("fonts/EBGaramond-Bold.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: block;
+}
+@font-face {
+  font-family: "SMFranklinMedium";
+  src: url("file:///workspace/biblical-manhood/training/print/fonts/LibreFranklin-Medium.ttf") format("truetype"), url("fonts/LibreFranklin-Medium.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: block;
+}
+@font-face {
+  font-family: "SMFranklin";
+  src: url("file:///workspace/biblical-manhood/training/print/fonts/LibreFranklin-Regular.ttf") format("truetype"), url("fonts/LibreFranklin-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: block;
+}
+:root { --navy: #0B1F38; --gold: #E3C572; --bone: #E6DDCC; }
+
+.mast {
+  background-color: var(--navy);
+  background-image: url("file:///workspace/biblical-manhood/training/print/image-2.0/crops/week-02-mast-cloth.png");
+  background-size: cover;
+  background-position: left center;
+}
+.mast-plumb {
+  height: 0.62in; width: auto; display: block;
+  margin-left: 0.16in; margin-top: 0.02in; flex-shrink: 0;
+}
+.scripture-row.one.with-well {
+  grid-template-columns: 1fr 1.18in !important;
+  column-gap: 0.16in;
+  align-items: center;
+}
+.well-still {
+  width: 1.18in; height: 1.26in; object-fit: cover; display: block;
+}
+
+* { box-sizing: border-box; }
+html, body {
+  margin: 0; padding: 0; background: var(--bone); color: var(--navy);
+  -webkit-print-color-adjust: exact; print-color-adjust: exact; font-synthesis: none;
+}
+.page {
+  width: 8.5in; height: 11in; background: var(--bone); color: var(--navy);
+  position: relative; overflow: hidden; page-break-after: always; break-after: page;
+}
+.page:last-child { page-break-after: auto; break-after: auto; }
+.mast {
+  background: var(--navy); color: var(--bone); height: 0.88in;
+  padding: 0.11in 0.78in 0.10in 0.78in;
+  display: flex; flex-direction: column; justify-content: space-between;
+}
+.mast-top { display: flex; align-items: flex-start; justify-content: space-between; }
+.brand {
+  font-family: "SMPlayfairBold", serif; font-weight: 400; font-style: normal;
+  font-size: 17pt; letter-spacing: 0.08em; line-height: 1; color: var(--bone);
+}
+.subrow { margin-top: 0.055in; line-height: 1; color: var(--bone); }
+.subrow .of {
+  font-family: "SMGaramondItalic", serif; font-style: italic; font-weight: 400; font-size: 10.5pt;
+}
+.subrow .godly {
+  font-family: "SMPlayfair", serif; font-style: normal; font-weight: 400; font-size: 10.5pt;
+}
+.subrow .author {
+  font-family: "SMFranklinMedium", sans-serif; font-weight: 400; font-style: normal;
+  font-size: 7.4pt; letter-spacing: 0.16em; margin-left: 0.16in; position: relative; top: -0.01in;
+}
+.weekline {
+  display: flex; align-items: baseline; justify-content: space-between;
+  border-top: 0.5pt solid rgba(230,221,204,0.40); padding-top: 0.055in;
+}
+.weeknum {
+  font-family: "SMFranklinMedium", sans-serif; font-weight: 400; font-size: 7.2pt;
+  letter-spacing: 0.20em; text-transform: uppercase; color: var(--bone);
+}
+.weektitles {
+  font-family: "SMPlayfair", serif; font-weight: 400; font-size: 10.5pt; color: var(--bone);
+}
+.weektitles em {
+  font-family: "SMPlayfairItalic", serif; font-style: italic; font-weight: 400;
+}
+.plumb { width: 0.12in; height: 0.24in; flex-shrink: 0; margin-left: 0.16in; margin-top: 0.02in; }
+.body { padding: 0.18in 0.78in 0.52in 0.78in; }
+.foot {
+  position: absolute; left: 0.78in; right: 0.78in; bottom: 0.28in;
+  font-family: "SMFranklin", sans-serif; font-weight: 400; font-size: 7pt;
+  letter-spacing: 0.05em; color: var(--navy); display: flex; justify-content: space-between;
+  border-top: 0.5pt solid rgba(11,31,56,0.45); padding-top: 0.06in;
+}
+h2 {
+  font-family: "SMFranklinMedium", sans-serif; font-weight: 400; font-size: 7.6pt;
+  letter-spacing: 0.14em; text-transform: uppercase; color: var(--navy);
+  margin: 0.13in 0 0.07in 0; line-height: 1.2;
+}
+h2:first-child { margin-top: 0; }
+p {
+  font-family: "SMGaramond", serif; font-weight: 400; font-style: normal;
+  font-size: 10.5pt; line-height: 1.30; margin: 0 0 0.07in 0;
+}
+p.last { margin-bottom: 0; }
+.lede { margin-bottom: 0.08in; }
+.kv {
+  display: grid; grid-template-columns: 2.05in 1fr; column-gap: 0.12in; row-gap: 0.05in; margin-bottom: 0.04in;
+}
+.k {
+  font-family: "SMFranklinMedium", sans-serif; font-weight: 400; font-size: 7.1pt;
+  letter-spacing: 0.06em; line-height: 1.25; padding-top: 0.03in; color: var(--navy);
+}
+.v { font-family: "SMGaramond", serif; font-weight: 400; font-size: 10.5pt; line-height: 1.30; }
+.marks {
+  border-top: 0.7pt solid var(--navy); border-bottom: 0.7pt solid var(--navy);
+  padding: 0.09in 0 0.08in 0; margin: 0.12in 0 0.11in 0;
+}
+.marks p {
+  font-family: "SMGaramondItalic", serif; font-style: italic; font-size: 11.2pt; line-height: 1.32; margin: 0;
+}
+.marks .marks-note {
+  font-family: "SMGaramond", serif; font-style: normal; font-size: 10pt; margin-top: 0.05in;
+}
+.scripture-row {
+  display: grid; grid-template-columns: 1fr 1fr; column-gap: 0.20in; margin: 0.02in 0 0.10in 0;
+}
+.scripture { border-left: 0.8pt solid var(--navy); padding: 0.02in 0 0.02in 0.12in; }
+.cite {
+  font-family: "SMFranklinMedium", sans-serif; font-weight: 400; font-size: 6.8pt;
+  letter-spacing: 0.10em; text-transform: uppercase; margin-bottom: 0.035in; color: var(--navy);
+}
+.verse {
+  font-family: "SMGaramondItalic", serif; font-style: italic; font-weight: 400;
+  font-size: 9.8pt; line-height: 1.28; margin: 0;
+}
+.qlist { margin: 0.04in 0 0.08in 0; padding: 0; list-style: none; }
+.qlist li {
+  display: grid; grid-template-columns: 0.22in 1fr; column-gap: 0.06in; margin: 0 0 0.065in 0;
+  font-family: "SMGaramond", serif; font-size: 10.5pt; line-height: 1.30;
+}
+.qnum { font-family: "SMFranklinMedium", sans-serif; font-weight: 400; font-size: 8.5pt; line-height: 1.40; }
+.beat {
+  display: grid; grid-template-columns: 1.28in 1fr; column-gap: 0.12in; margin: 0 0 0.09in 0; align-items: start;
+}
+.beat-name {
+  font-family: "SMFranklinMedium", sans-serif; font-weight: 400; font-size: 7.6pt;
+  letter-spacing: 0.10em; text-transform: uppercase; line-height: 1.30; padding-top: 0.02in;
+}
+.beat-copy { font-family: "SMGaramond", serif; font-size: 10.5pt; line-height: 1.30; }
+.gold-beat {
+  background: var(--gold); color: var(--navy);
+  display: grid; grid-template-columns: 1.28in 1fr; column-gap: 0.12in;
+  margin: 0.02in 0 0.10in 0; padding: 0.08in 0.11in; align-items: start;
+}
+.gold-beat .beat-name, .gold-beat .beat-copy { color: var(--navy); }
+.lock { margin-top: 0.14in; border-top: 0.7pt solid var(--navy); padding-top: 0.08in; }
+.lock p { font-size: 10.5pt; margin: 0; }
+.lock .closed { font-family: "SMGaramondBold", serif; font-weight: 400; }
+.gold-bar {
+  background: var(--gold); color: var(--navy);
+  padding: 0.09in 0.12in 0.10in 0.12in; margin: 0.08in 0 0.10in 0;
+}
+.gold-bar h2 { margin: 0 0 0.04in 0; color: var(--navy); }
+.gold-bar p { margin: 0; color: var(--navy); }
+.gold-bar .prompt { margin: 0.07in 0 0.02in 0; color: var(--navy); }
+.gold-bar .write-line { border-bottom-color: var(--navy); }
+.gold-bar .inline-blank { margin: 0.06in 0 0 0; color: var(--navy); }
+.gold-bar .blank { border-bottom-color: var(--navy); }
+.write { margin: 0.02in 0 0.08in 0; }
+.write-line { border-bottom: 0.65pt solid var(--navy); height: 0.33in; }
+.prompt { font-family: "SMGaramond", serif; font-size: 10.4pt; line-height: 1.28; margin: 0.02in 0 0.02in 0; }
+.inline-blank {
+  display: flex; align-items: baseline; gap: 0.08in;
+  font-family: "SMGaramond", serif; font-size: 10.4pt; margin: 0.06in 0 0.08in 0;
+}
+.blank { display: inline-block; border-bottom: 0.65pt solid var(--navy); height: 0.20in; min-width: 1.7in; flex: 1; }
+.blank.short { min-width: 1.35in; flex: 0.7; }
+.meta-pair { display: grid; grid-template-columns: 1fr 1fr; column-gap: 0.22in; margin: 0.02in 0 0.06in 0; }
+.leader-p1 .kv { margin-bottom: 0.04in; }
+.leader-p1 h2 { margin: 0.11in 0 0.06in 0; }
+.leader-p1 p { margin: 0 0 0.065in 0; }
+.leader-p2 h2 { margin: 0.02in 0 0.07in 0; }
+.leader-p2 .block-gap { margin-top: 0.16in; }
+.leader-p2 .block-gap:first-child { margin-top: 0; }
+.page.worksheet .body { padding-top: 0.15in; }
+.page.worksheet h2 { font-size: 7.5pt; margin: 0.10in 0 0.05in 0; }
+.page.worksheet p { font-size: 10.3pt; margin: 0 0 0.05in 0; }
+.page.worksheet .kv { grid-template-columns: 1.42in 1fr; margin-bottom: 0.02in; }
+.page.worksheet .marks { margin: 0.08in 0 0.07in 0; padding: 0.07in 0 0.06in 0; }
+.page.worksheet .marks p { font-size: 10.8pt; }
+.page.worksheet .write-line { height: 0.32in; }
+.page.worksheet .gold-bar { margin: 0.07in 0 0.09in 0; padding: 0.08in 0.11in 0.09in 0.11in; }
+.page.worksheet .scripture-row { margin: 0.04in 0 0.04in 0; }
+.carry-line {
+  font-family: "SMGaramondItalic", serif; font-style: italic; font-size: 11.2pt; margin: 0 0 0.04in 0;
+}
+
+
+.scripture-row.one { grid-template-columns: 1fr; }
+
+.circle-row {
+  display: flex; justify-content: space-between; gap: 0.12in;
+  margin: 0.04in 0 0.08in 0; font-family: "SMGaramond", serif; font-size: 11pt;
+}
+.circle-row span {
+  flex: 1; text-align: center; border: 0.75pt solid var(--navy);
+  padding: 0.06in 0.04in; letter-spacing: 0.01em;
+}
+</style>
+</head>
+<body>
+<div class="page worksheet">
+<header class="mast">
+  <div class="mast-top">
+    <div>
+      <div class="brand">STEADFAST MEN</div>
+      <div class="subrow"><span class="of">The way of </span><span class="godly">Godly</span><span class="of"> Men</span><span class="author">Wes Hart</span></div>
+    </div>
+    <img class="mast-plumb" src="file:///workspace/biblical-manhood/training/print/image-2.0/crops/week-02-mast-plumb.png" alt="">
+  </div>
+  <div class="weekline"><span class="weeknum">Week 3</span><span class="weektitles">The four marks</span></div>
+</header>
+<div class="body">
+  <div class="kv">
+    <div class="k">Read this week</div>
+    <div class="v">Chapter 3, The four marks.</div>
+    <div class="k">One job</div>
+    <div class="v">Say the four without looking down.</div>
+  </div>
+  <h2>The line (unchanged)</h2>
+  <div class="marks">
+    <p>A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God’s reward.</p>
+    <p class="marks-note">Write it once in your own hand. Do not swap a word.</p>
+  </div>
+  <div class="write">
+    <div class="write-line"></div>
+    <div class="write-line"></div>
+  </div>
+  <div class="scripture-row one with-well">
+    <div class="scripture">
+      <div class="cite">Genesis 3:6 NIV</div>
+      <p class="verse">When the woman saw that the fruit of the tree was good for food and pleasing to the eye, and also desirable for gaining wisdom, she took some and ate it. She also gave some to her husband, who was with her, and he ate it.</p>
+    </div>
+    <img class="well-still" src="file:///workspace/biblical-manhood/training/print/image-2.0/week-04-well.png" alt="">
+  </div>
+  <h2>Name it</h2>
+  <p>Which of the four marks is faintest on you right now?</p>
+  <p class="prompt">The one I’m missing most is:</p>
+  <div class="write">
+    <div class="write-line"></div>
+    <div class="write-line"></div>
+  </div>
+  <div class="gold-bar">
+    <h2>Do this week</h2>
+    <p>Write the four marks on an index card in your own handwriting. Put it where you will see it on Tuesday morning.</p>
+    <div class="inline-blank"><span>I put the card here:</span><span class="blank"></span></div>
+  </div>
+  <h2>Tell a brother</h2>
+  <p>Read him the sentence. Ask him which mark he would say is faintest on you. Let him answer before you defend yourself.</p>
+  <div class="meta-pair">
+    <div class="inline-blank"><span>I told (name):</span><span class="blank"></span></div>
+    <div class="inline-blank"><span>on (day):</span><span class="blank short"></span></div>
+  </div>
+  <div class="inline-blank"><span>He said the faint mark is:</span><span class="blank"></span></div>
+  <p>Alone: still tell one man. Same day.</p>
+  <h2>Carry this</h2>
+  <p class="carry-line">A mark is what’s left on you by what you’ve done over and over. Nobody gets a callus from thinking about a shovel.</p>
+  <p>Write that once.</p>
+  <div class="write">
+    <div class="write-line"></div>
+    <div class="write-line"></div>
+  </div>
+</div>
+<footer class="foot"><span>Steadfast Men</span><span>Week 3 of 27</span><span>Participant worksheet</span></footer>
+</div>
+</body>
+</html>

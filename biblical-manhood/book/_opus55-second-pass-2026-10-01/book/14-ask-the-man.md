@@ -91,7 +91,7 @@ The broken links aren't some private guilt you have to fix before you're allowed
 
 **Name it**
 
-Because you can know a man for years and still never have asked him anything that mattered. Write down the name of the man about twenty years ahead of you whom you've never really asked. If you're the one that far ahead, write down the younger man you've noticed and never approached.
+You can know a man for years and still never have asked him anything that mattered. Write down the name of the man about twenty years ahead of you whom you've never really asked. If you're the one that far ahead, write down the younger man you've noticed and never approached.
 
 :::notes
 _______________________________________________
@@ -101,7 +101,7 @@ _______________________________________________
 
 **Do this week**
 
-Because a chain gets repaired one question and one yes at a time. Younger? Put one question to him this week, in person or by phone, and then go do what he says. If you're older, make it easy for one young man to say yes, whether it's breakfast, a job you could use help with, or a phone call.
+The chain gets repaired one question and one yes at a time. Younger? Put one question to him this week, in person or by phone, and then go do what he says. If you're older, make it easy for one young man to say yes, whether it's breakfast, a job you could use help with, or a phone call.
 
 :::notes
 _______________________________________________
@@ -111,7 +111,7 @@ _______________________________________________
 
 **Tell a brother**
 
-Because the man ahead of you and the man beside you do different jobs. Let your brother in on the question and the answer, and give him permission to check that you followed through and went back to tell the older man.
+The man ahead of you and the man beside you do different jobs. Let your brother in on the question and the answer, and give him permission to check that you followed through and went back to tell the older man.
 
 :::notes
 _______________________________________________

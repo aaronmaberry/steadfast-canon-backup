@@ -6,7 +6,7 @@ Walk Steadfast · main episode · script v1 (batch 3). Internal.
 |---|---|
 | Release | Tue Mar 23, 2027, 5:00 AM CT (Holy Week) |
 | Format | Main episode. About 27 min. |
-| Slate | WES "Walk Steadfast, episode twenty-three." JONATHON "Tuesday, March twenty-third, twenty twenty-seven. Holy Week." WES "Two Gardens." |
+| Intro and slate | Per-episode open, Wes leads (SHOW-BIBLE section 5, open system v3, text in _build/intros_data.py). Slate: JONATHON "Episode twenty-three. Two Gardens." |
 | Source | Book chapter 19, Two Men, Two Ways. Training W19 (premieres this week). Avoided on purpose: the book's opening (a man in a dirt strip by the garage with a hose and a tomato cage); the four-word list of what Adam did; "who was with her" as the hinge; Genesis 3:6, 3:10, 3:15 and Romans 5:19 (book margins); Matthew 26:39 and the sleeping disciples (both the book and W19 dwell on it, and the ch9 card bans "Gethsemane-while-they-slept"); "Nobody had to search the trees"; the "Where are you?" / "Who is it you want?" pairing (book ch4 and ch19). Also the cattle guard with two ruts; W19's carving board, the man in the driveway, and the teenager's friends on the lawn; "felt like a wet one"; and the word "vibe." The show's angle is John 18:8, "let these men go": the first man put his wife between himself and God, and the second Man put himself between his friends and the soldiers. |
 | Focus mark | **Go First**, named in Pull up a chair and again in Carry this |
 | Scripture (NIV) | 1 Corinthians 15:45 (checked 2026-10-03), read by Wes. John 18:8 (checked 2026-10-03), read by Jonathon. John 18:4 and Genesis 3:12 paraphrased, not carded. |
@@ -31,11 +31,6 @@ Jonathon looking down at his phone, the screen glow on his face, muted color. Te
 
 [CAM: WIDE]
 
-[CHAPTER: Slate]
-WES: Walk Steadfast, episode twenty-three.
-JONATHON: Tuesday, March twenty-third, twenty twenty-seven. Holy Week.
-WES: Two Gardens.
-
 [CHAPTER: Cold open]
 [CAM: JON MS]
 JONATHON: My dad sent me a friend request on Christmas Day. It's still sitting there.
@@ -45,12 +40,22 @@ WES: What's his picture?
 JONATHON: (beat) He's holding a fish.
 [STING 3s]
 
+[CHAPTER: Intro]
+[CAM: 2S]
+(Walk Steadfast open written for E023. Same beats every week, new words. SHOW-BIBLE section 5.)
+WES: This is Walk Steadfast, in Holy Week. I'm Wes Hart, from the Hill Country.
+[LOWER THIRD: Wes Hart]
+JONATHON: I'm Jonathon. I came to faith late, and Easter still surprises me.
+[LOWER THIRD: Jonathon]
+WES: Twice a week we sit down over following Jesus as a man.
+JONATHON: Find the book and the Steadfast video training at walksteadfast.com.
+WES: Today we walk from the first garden to the second.
+JONATHON: Episode twenty-three. Two Gardens.
+
 [CHAPTER: Pull up a chair]
 [CAM: WIDE]
 WES: Pull up a chair.
-[LOWER THIRD: Wes Hart]
 JONATHON: We lost by one.
-[LOWER THIRD: Jonathon]
 WES: The Bluebonnets.
 JONATHON: First game. Saturday. Lost by one run. And before anybody emails, I know. Coach-pitch doesn't keep score. It says so on the league website. "We don't keep score at this level."
 WES: Who kept score?
@@ -305,6 +310,11 @@ WES: We'll see you at the table.
 JONATHON: Go walk it out.
 (Jonathon looks at his phone one more time, then sets it face-down and slides it to the far edge of the table. Wes nods once. Hold WIDE 2s. Cut.)
 
+[CLOSING MUSIC 3s]
+[CREDITS]
+(Wes, normal credits volume, read like a producer credit. No gap, no ducking. SHOW-BIBLE section 13.)
+WES: Produced with AI voice and video tools.
+
 ## Shorts (5)
 
 | # | Cut | Hook | Length |
@@ -324,16 +334,17 @@ Two gardens and two men. The first man got caught and stepped behind his wife. O
 
 Chapters
 00:00 Cold open
-00:18 Pull up a chair
-02:28 The first garden
-03:51 Four o'clock
-07:25 The fish
-10:41 The Word
-14:03 Pushback
-19:35 What I actually did
-23:37 This week's challenge
-24:57 Carry this
-25:14 Outro
+00:12 Intro
+00:43 Pull up a chair
+02:53 The first garden
+04:16 Four o'clock
+07:50 The fish
+11:07 The Word
+14:28 Pushback
+20:01 What I actually did
+24:02 This week's challenge
+25:22 Carry this
+25:39 Outro
 
 Scripture: 1 Corinthians 15:45 (NIV); John 18:8 (NIV)
 
@@ -348,8 +359,6 @@ Facebook  facebook.com/steadfastwalk
 TikTok  tiktok.com/@steadfastwalk
 Reddit  reddit.com/user/steadfastwalk
 LinkedIn  linkedin.com/company/steadfastwalk
-
-Walk Steadfast is made with AI-generated video and voices. Wes and Jonathon are characters, and their stories are composites drawn from real men's lives.
 
 Scripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.™ Used by permission. All rights reserved worldwide.
 

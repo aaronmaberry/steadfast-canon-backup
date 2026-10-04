@@ -1,0 +1,233 @@
+{
+  "1xtJgaOpmZ8": {
+    "bytes": 19316,
+    "error": "Not raw yt-dlp VTT. Speech is YouTube ASR; cue times are estimates because this host's timedtext 429s. yt-dlp methods 1-3 failed on this host: YouTube timedtext HTTP 429 (Google Sorry/automated-queries). 1) android,web + Church Center referer/origin -> 429 on en-orig. 2) cookies-from-browser chrome:/home/box/chrome-profile-16 (also --impersonate chrome + bgutil SUBS PO token pot/potc/c=WEB) -> still 429. 3) tv_embedded -> 429; web_embedded -> bot-gate. Stopped further timedtext GETs from this IP after confirming the block.",
+    "file": "13-biblical-definition-of-manhood-p1.en.vtt",
+    "ok": true,
+    "raw_youtube_timedtext": false,
+    "slug": "13-biblical-definition-of-manhood-p1",
+    "source": "webfetch_asr_reconstructed_estimated_cues"
+  },
+  "3Ps3ezdRO6Y": {
+    "bytes": 14895,
+    "error": "Not raw yt-dlp VTT. Speech is YouTube ASR; cue times are estimates because this host's timedtext 429s. yt-dlp methods 1-3 failed on this host: YouTube timedtext HTTP 429 (Google Sorry/automated-queries). 1) android,web + Church Center referer/origin -> 429 on en-orig. 2) cookies-from-browser chrome:/home/box/chrome-profile-16 (also --impersonate chrome + bgutil SUBS PO token pot/potc/c=WEB) -> still 429. 3) tv_embedded -> 429; web_embedded -> bot-gate. Stopped further timedtext GETs from this IP after confirming the block.",
+    "file": "15-a-man-and-his-wife-p1.en.vtt",
+    "ok": true,
+    "raw_youtube_timedtext": false,
+    "slug": "15-a-man-and-his-wife-p1",
+    "source": "webfetch_asr_reconstructed_estimated_cues"
+  },
+  "4b6q9go_0eE": {
+    "bytes": 17039,
+    "error": "Not raw yt-dlp VTT. Speech is YouTube ASR; cue times are estimates because this host's timedtext 429s. yt-dlp methods 1-3 failed on this host: YouTube timedtext HTTP 429 (Google Sorry/automated-queries). 1) android,web + Church Center referer/origin -> 429 on en-orig. 2) cookies-from-browser chrome:/home/box/chrome-profile-16 (also --impersonate chrome + bgutil SUBS PO token pot/potc/c=WEB) -> still 429. 3) tv_embedded -> 429; web_embedded -> bot-gate. Stopped further timedtext GETs from this IP after confirming the block.",
+    "file": "24-final-session-bold-action.en.vtt",
+    "ok": true,
+    "raw_youtube_timedtext": false,
+    "slug": "24-final-session-bold-action",
+    "source": "webfetch_asr_reconstructed_estimated_cues"
+  },
+  "BscWJ0bjRuQ": {
+    "bytes": 48225,
+    "error": "Not raw yt-dlp VTT. Speech is YouTube ASR; cue times are estimates because this host's timedtext 429s. yt-dlp methods 1-3 failed on this host: YouTube timedtext HTTP 429 (Google Sorry/automated-queries). 1) android,web + Church Center referer/origin -> 429 on en-orig. 2) cookies-from-browser chrome:/home/box/chrome-profile-16 (also --impersonate chrome + bgutil SUBS PO token pot/potc/c=WEB) -> still 429. 3) tv_embedded -> 429; web_embedded -> bot-gate. Stopped further timedtext GETs from this IP after confirming the block.",
+    "file": "19-a-man-and-his-daughters.en.vtt",
+    "ok": true,
+    "raw_youtube_timedtext": false,
+    "slug": "19-a-man-and-his-daughters",
+    "source": "webfetch_asr_reconstructed_estimated_cues"
+  },
+  "Cncr63S_otE": {
+    "bytes": 50905,
+    "error": "Not raw yt-dlp VTT. Speech is YouTube ASR; cue times are estimates because this host's timedtext 429s. yt-dlp methods 1-3 failed on this host: YouTube timedtext HTTP 429 (Google Sorry/automated-queries). 1) android,web + Church Center referer/origin -> 429 on en-orig. 2) cookies-from-browser chrome:/home/box/chrome-profile-16 (also --impersonate chrome + bgutil SUBS PO token pot/potc/c=WEB) -> still 429. 3) tv_embedded -> 429; web_embedded -> bot-gate. Stopped further timedtext GETs from this IP after confirming the block.",
+    "file": "22-a-man-and-his-life-journey.en.vtt",
+    "ok": true,
+    "raw_youtube_timedtext": false,
+    "slug": "22-a-man-and-his-life-journey",
+    "source": "webfetch_asr_reconstructed_estimated_cues"
+  },
+  "GLk605vgwks": {
+    "bytes": 47188,
+    "error": "Not raw yt-dlp VTT. Speech is YouTube ASR; cue times are estimates because this host's timedtext 429s. yt-dlp methods 1-3 failed on this host: YouTube timedtext HTTP 429 (Google Sorry/automated-queries). 1) android,web + Church Center referer/origin -> 429 on en-orig. 2) cookies-from-browser chrome:/home/box/chrome-profile-16 (also --impersonate chrome + bgutil SUBS PO token pot/potc/c=WEB) -> still 429. 3) tv_embedded -> 429; web_embedded -> bot-gate. Stopped further timedtext GETs from this IP after confirming the block.",
+    "file": "12-genesis-to-manhood.en.vtt",
+    "ok": true,
+    "raw_youtube_timedtext": false,
+    "slug": "12-genesis-to-manhood",
+    "source": "webfetch_asr_reconstructed_estimated_cues"
+  },
+  "IVj-bB7_ruA": {
+    "bytes": 38500,
+    "error": "Not raw yt-dlp VTT. Speech is YouTube ASR; cue times are estimates because this host's timedtext 429s. yt-dlp methods 1-3 failed on this host: YouTube timedtext HTTP 429 (Google Sorry/automated-queries). 1) android,web + Church Center referer/origin -> 429 on en-orig. 2) cookies-from-browser chrome:/home/box/chrome-profile-16 (also --impersonate chrome + bgutil SUBS PO token pot/potc/c=WEB) -> still 429. 3) tv_embedded -> 429; web_embedded -> bot-gate. Stopped further timedtext GETs from this IP after confirming the block.",
+    "file": "05-moving-beyond-mom-to-manhood.en.vtt",
+    "ok": true,
+    "raw_youtube_timedtext": false,
+    "slug": "05-moving-beyond-mom-to-manhood",
+    "source": "webfetch_asr_reconstructed_estimated_cues"
+  },
+  "J8hpKYOTzVg": {
+    "bytes": 39469,
+    "error": "Not raw yt-dlp VTT. Speech is YouTube ASR; cue times are estimates because this host's timedtext 429s. yt-dlp methods 1-3 failed on this host: YouTube timedtext HTTP 429 (Google Sorry/automated-queries). 1) android,web + Church Center referer/origin -> 429 on en-orig. 2) cookies-from-browser chrome:/home/box/chrome-profile-16 (also --impersonate chrome + bgutil SUBS PO token pot/potc/c=WEB) -> still 429. 3) tv_embedded -> 429; web_embedded -> bot-gate. Stopped further timedtext GETs from this IP after confirming the block.",
+    "file": "06-men-and-mentors.en.vtt",
+    "ok": true,
+    "raw_youtube_timedtext": false,
+    "slug": "06-men-and-mentors",
+    "source": "webfetch_asr_reconstructed_estimated_cues"
+  },
+  "KS3dzdmW_tU": {
+    "bytes": 21069,
+    "error": "Not raw yt-dlp VTT. Speech is YouTube ASR; cue times are estimates because this host's timedtext 429s. yt-dlp methods 1-3 failed on this host: YouTube timedtext HTTP 429 (Google Sorry/automated-queries). 1) android,web + Church Center referer/origin -> 429 on en-orig. 2) cookies-from-browser chrome:/home/box/chrome-profile-16 (also --impersonate chrome + bgutil SUBS PO token pot/potc/c=WEB) -> still 429. 3) tv_embedded -> 429; web_embedded -> bot-gate. Stopped further timedtext GETs from this IP after confirming the block.",
+    "file": "18-a-man-and-his-sexuality.en.vtt",
+    "ok": true,
+    "raw_youtube_timedtext": false,
+    "slug": "18-a-man-and-his-sexuality",
+    "source": "webfetch_asr_reconstructed_estimated_cues"
+  },
+  "LADY_IIFVE0": {
+    "bytes": 46442,
+    "error": "Not raw yt-dlp VTT. Speech is YouTube ASR; cue times are estimates because this host's timedtext 429s. yt-dlp methods 1-3 failed on this host: YouTube timedtext HTTP 429 (Google Sorry/automated-queries). 1) android,web + Church Center referer/origin -> 429 on en-orig. 2) cookies-from-browser chrome:/home/box/chrome-profile-16 (also --impersonate chrome + bgutil SUBS PO token pot/potc/c=WEB) -> still 429. 3) tv_embedded -> 429; web_embedded -> bot-gate. Stopped further timedtext GETs from this IP after confirming the block.",
+    "file": "20-a-man-and-his-sons.en.vtt",
+    "ok": true,
+    "raw_youtube_timedtext": false,
+    "slug": "20-a-man-and-his-sons",
+    "source": "webfetch_asr_reconstructed_estimated_cues"
+  },
+  "LPP1coLE9i4": {
+    "bytes": 546,
+    "error": "Gap marker: no speech captions recovered. yt-dlp methods 1-3 failed on this host: YouTube timedtext HTTP 429 (Google Sorry/automated-queries). 1) android,web + Church Center referer/origin -> 429 on en-orig. 2) cookies-from-browser chrome:/home/box/chrome-profile-16 (also --impersonate chrome + bgutil SUBS PO token pot/potc/c=WEB) -> still 429. 3) tv_embedded -> 429; web_embedded -> bot-gate. Stopped further timedtext GETs from this IP after confirming the block.",
+    "file": "02-consequences-of-an-absent-father.en.vtt",
+    "ok": false,
+    "raw_youtube_timedtext": false,
+    "slug": "02-consequences-of-an-absent-father",
+    "source": null
+  },
+  "NN32wsW_cWo": {
+    "bytes": 56445,
+    "error": "Not raw yt-dlp VTT. Speech is YouTube ASR; cue times are estimates because this host's timedtext 429s. yt-dlp methods 1-3 failed on this host: YouTube timedtext HTTP 429 (Google Sorry/automated-queries). 1) android,web + Church Center referer/origin -> 429 on en-orig. 2) cookies-from-browser chrome:/home/box/chrome-profile-16 (also --impersonate chrome + bgutil SUBS PO token pot/potc/c=WEB) -> still 429. 3) tv_embedded -> 429; web_embedded -> bot-gate. Stopped further timedtext GETs from this IP after confirming the block.",
+    "file": "23-a-man-and-his-legacy.en.vtt",
+    "ok": true,
+    "raw_youtube_timedtext": false,
+    "slug": "23-a-man-and-his-legacy",
+    "source": "webfetch_asr_reconstructed_estimated_cues"
+  },
+  "S5BreS-WwQk": {
+    "bytes": 47980,
+    "error": "Not raw yt-dlp VTT. Speech is YouTube ASR; cue times are estimates because this host's timedtext 429s. yt-dlp methods 1-3 failed on this host: YouTube timedtext HTTP 429 (Google Sorry/automated-queries). 1) android,web + Church Center referer/origin -> 429 on en-orig. 2) cookies-from-browser chrome:/home/box/chrome-profile-16 (also --impersonate chrome + bgutil SUBS PO token pot/potc/c=WEB) -> still 429. 3) tv_embedded -> 429; web_embedded -> bot-gate. Stopped further timedtext GETs from this IP after confirming the block.",
+    "file": "07-making-friends-finding-a-mentor.en.vtt",
+    "ok": true,
+    "raw_youtube_timedtext": false,
+    "slug": "07-making-friends-finding-a-mentor",
+    "source": "webfetch_asr_reconstructed_estimated_cues"
+  },
+  "T3vTHDPC__w": {
+    "bytes": 47725,
+    "error": "Not raw yt-dlp VTT. Speech is YouTube ASR; cue times are estimates because this host's timedtext 429s. yt-dlp methods 1-3 failed on this host: YouTube timedtext HTTP 429 (Google Sorry/automated-queries). 1) android,web + Church Center referer/origin -> 429 on en-orig. 2) cookies-from-browser chrome:/home/box/chrome-profile-16 (also --impersonate chrome + bgutil SUBS PO token pot/potc/c=WEB) -> still 429. 3) tv_embedded -> 429; web_embedded -> bot-gate. Stopped further timedtext GETs from this IP after confirming the block.",
+    "file": "09-depravity-specifically-for-men.en.vtt",
+    "ok": true,
+    "raw_youtube_timedtext": false,
+    "slug": "09-depravity-specifically-for-men",
+    "source": "webfetch_asr_reconstructed_estimated_cues"
+  },
+  "T4VCs8hIarg": {
+    "bytes": 16371,
+    "error": "Not raw yt-dlp VTT. Speech is YouTube ASR; cue times are estimates because this host's timedtext 429s. yt-dlp methods 1-3 failed on this host: YouTube timedtext HTTP 429 (Google Sorry/automated-queries). 1) android,web + Church Center referer/origin -> 429 on en-orig. 2) cookies-from-browser chrome:/home/box/chrome-profile-16 (also --impersonate chrome + bgutil SUBS PO token pot/potc/c=WEB) -> still 429. 3) tv_embedded -> 429; web_embedded -> bot-gate. Stopped further timedtext GETs from this IP after confirming the block.",
+    "file": "17-a-man-and-his-wife-p2.en.vtt",
+    "ok": true,
+    "raw_youtube_timedtext": false,
+    "slug": "17-a-man-and-his-wife-p2",
+    "source": "webfetch_asr_reconstructed_estimated_cues"
+  },
+  "ZgqwWWtuixI": {
+    "bytes": 41856,
+    "error": "Not raw yt-dlp VTT. Speech is YouTube ASR; cue times are estimates because this host's timedtext 429s. yt-dlp methods 1-3 failed on this host: YouTube timedtext HTTP 429 (Google Sorry/automated-queries). 1) android,web + Church Center referer/origin -> 429 on en-orig. 2) cookies-from-browser chrome:/home/box/chrome-profile-16 (also --impersonate chrome + bgutil SUBS PO token pot/potc/c=WEB) -> still 429. 3) tv_embedded -> 429; web_embedded -> bot-gate. Stopped further timedtext GETs from this IP after confirming the block.",
+    "file": "04-overly-bonded-mother-wound.en.vtt",
+    "ok": true,
+    "raw_youtube_timedtext": false,
+    "slug": "04-overly-bonded-mother-wound",
+    "source": "webfetch_asr_reconstructed_estimated_cues"
+  },
+  "_meta": {
+    "catalog": "/workspace/biblical-manhood/catalog.json already present (not overwritten)",
+    "fail": 1,
+    "methods_tried_in_order": [
+      "1. yt-dlp skip-download write-sub write-auto-sub sub-langs en.*,en convert-subs vtt referer Church Center extractor-args youtube:player_client=android,web",
+      "2. same + cookies-from-browser chrome (actual profile chrome-profile-16); plus impersonate+POT",
+      "3. extractor-args youtube:player_client=tv_embedded then web_embedded with episode URL referer"
+    ],
+    "raw_ytdlp_vtt_ok": 0,
+    "reconstructed_asr_vtt_ok": 23,
+    "total_episodes": 24,
+    "working_method_for_speech_text": "isolated WebFetch of youtube timedtext (different IP than this host); NOT yt-dlp on this box",
+    "yt_dlp": "2026.08.19",
+    "ytdlp_working_method": null
+  },
+  "a9P1EVOBbHE": {
+    "bytes": 15249,
+    "error": "Not raw yt-dlp VTT. Speech is YouTube ASR; cue times are estimates because this host's timedtext 429s. yt-dlp methods 1-3 failed on this host: YouTube timedtext HTTP 429 (Google Sorry/automated-queries). 1) android,web + Church Center referer/origin -> 429 on en-orig. 2) cookies-from-browser chrome:/home/box/chrome-profile-16 (also --impersonate chrome + bgutil SUBS PO token pot/potc/c=WEB) -> still 429. 3) tv_embedded -> 429; web_embedded -> bot-gate. Stopped further timedtext GETs from this IP after confirming the block.",
+    "file": "14-biblical-definition-of-manhood-p2.en.vtt",
+    "ok": true,
+    "raw_youtube_timedtext": false,
+    "slug": "14-biblical-definition-of-manhood-p2",
+    "source": "webfetch_asr_reconstructed_estimated_cues"
+  },
+  "apJIZ8QYT_E": {
+    "bytes": 17360,
+    "error": "Not raw yt-dlp VTT. Speech is YouTube ASR; cue times are estimates because this host's timedtext 429s. yt-dlp methods 1-3 failed on this host: YouTube timedtext HTTP 429 (Google Sorry/automated-queries). 1) android,web + Church Center referer/origin -> 429 on en-orig. 2) cookies-from-browser chrome:/home/box/chrome-profile-16 (also --impersonate chrome + bgutil SUBS PO token pot/potc/c=WEB) -> still 429. 3) tv_embedded -> 429; web_embedded -> bot-gate. Stopped further timedtext GETs from this IP after confirming the block.",
+    "file": "16-25-ways-to-be-a-servant-leader.en.vtt",
+    "ok": true,
+    "raw_youtube_timedtext": false,
+    "slug": "16-25-ways-to-be-a-servant-leader",
+    "source": "webfetch_asr_reconstructed_estimated_cues"
+  },
+  "kRouEA2E1cs": {
+    "bytes": 62292,
+    "error": "Not raw yt-dlp VTT. Speech is YouTube ASR; cue times are estimates because this host's timedtext 429s. yt-dlp methods 1-3 failed on this host: YouTube timedtext HTTP 429 (Google Sorry/automated-queries). 1) android,web + Church Center referer/origin -> 429 on en-orig. 2) cookies-from-browser chrome:/home/box/chrome-profile-16 (also --impersonate chrome + bgutil SUBS PO token pot/potc/c=WEB) -> still 429. 3) tv_embedded -> 429; web_embedded -> bot-gate. Stopped further timedtext GETs from this IP after confirming the block.",
+    "file": "21-a-man-and-his-design.en.vtt",
+    "ok": true,
+    "raw_youtube_timedtext": false,
+    "slug": "21-a-man-and-his-design",
+    "source": "webfetch_asr_reconstructed_estimated_cues"
+  },
+  "pSaWY9otTaM": {
+    "bytes": 22158,
+    "error": "Not raw yt-dlp VTT. Speech is YouTube ASR; cue times are estimates because this host's timedtext 429s. yt-dlp methods 1-3 failed on this host: YouTube timedtext HTTP 429 (Google Sorry/automated-queries). 1) android,web + Church Center referer/origin -> 429 on en-orig. 2) cookies-from-browser chrome:/home/box/chrome-profile-16 (also --impersonate chrome + bgutil SUBS PO token pot/potc/c=WEB) -> still 429. 3) tv_embedded -> 429; web_embedded -> bot-gate. Stopped further timedtext GETs from this IP after confirming the block.",
+    "file": "03-healing-the-father-wound.en.vtt",
+    "ok": true,
+    "raw_youtube_timedtext": false,
+    "slug": "03-healing-the-father-wound",
+    "source": "webfetch_asr_reconstructed_estimated_cues"
+  },
+  "sk_sp_m-Fzw": {
+    "bytes": 37012,
+    "error": "Not raw yt-dlp VTT. Speech is YouTube ASR; cue times are estimates because this host's timedtext 429s. yt-dlp methods 1-3 failed on this host: YouTube timedtext HTTP 429 (Google Sorry/automated-queries). 1) android,web + Church Center referer/origin -> 429 on en-orig. 2) cookies-from-browser chrome:/home/box/chrome-profile-16 (also --impersonate chrome + bgutil SUBS PO token pot/potc/c=WEB) -> still 429. 3) tv_embedded -> 429; web_embedded -> bot-gate. Stopped further timedtext GETs from this IP after confirming the block.",
+    "file": "01-introduction.en.vtt",
+    "ok": true,
+    "raw_youtube_timedtext": false,
+    "slug": "01-introduction",
+    "source": "webfetch_asr_reconstructed_estimated_cues"
+  },
+  "xXUQ6JKRcdw": {
+    "bytes": 51163,
+    "error": "Not raw yt-dlp VTT. Speech is YouTube ASR; cue times are estimates because this host's timedtext 429s. yt-dlp methods 1-3 failed on this host: YouTube timedtext HTTP 429 (Google Sorry/automated-queries). 1) android,web + Church Center referer/origin -> 429 on en-orig. 2) cookies-from-browser chrome:/home/box/chrome-profile-16 (also --impersonate chrome + bgutil SUBS PO token pot/potc/c=WEB) -> still 429. 3) tv_embedded -> 429; web_embedded -> bot-gate. Stopped further timedtext GETs from this IP after confirming the block.",
+    "file": "11-first-semester-review.en.vtt",
+    "ok": true,
+    "raw_youtube_timedtext": false,
+    "slug": "11-first-semester-review",
+    "source": "webfetch_asr_reconstructed_estimated_cues"
+  },
+  "yVpugbFuJRw": {
+    "bytes": 42878,
+    "error": "Not raw yt-dlp VTT. Speech is YouTube ASR; cue times are estimates because this host's timedtext 429s. yt-dlp methods 1-3 failed on this host: YouTube timedtext HTTP 429 (Google Sorry/automated-queries). 1) android,web + Church Center referer/origin -> 429 on en-orig. 2) cookies-from-browser chrome:/home/box/chrome-profile-16 (also --impersonate chrome + bgutil SUBS PO token pot/potc/c=WEB) -> still 429. 3) tv_embedded -> 429; web_embedded -> bot-gate. Stopped further timedtext GETs from this IP after confirming the block.",
+    "file": "10-lack-of-masculine-vision-wound.en.vtt",
+    "ok": true,
+    "raw_youtube_timedtext": false,
+    "slug": "10-lack-of-masculine-vision-wound",
+    "source": "webfetch_asr_reconstructed_estimated_cues"
+  },
+  "z9AtC99ztt0": {
+    "bytes": 49731,
+    "error": "Not raw yt-dlp VTT. Speech is YouTube ASR; cue times are estimates because this host's timedtext 429s. yt-dlp methods 1-3 failed on this host: YouTube timedtext HTTP 429 (Google Sorry/automated-queries). 1) android,web + Church Center referer/origin -> 429 on en-orig. 2) cookies-from-browser chrome:/home/box/chrome-profile-16 (also --impersonate chrome + bgutil SUBS PO token pot/potc/c=WEB) -> still 429. 3) tv_embedded -> 429; web_embedded -> bot-gate. Stopped further timedtext GETs from this IP after confirming the block.",
+    "file": "08-the-depravity-wound.en.vtt",
+    "ok": true,
+    "raw_youtube_timedtext": false,
+    "slug": "08-the-depravity-wound",
+    "source": "webfetch_asr_reconstructed_estimated_cues"
+  }
+}

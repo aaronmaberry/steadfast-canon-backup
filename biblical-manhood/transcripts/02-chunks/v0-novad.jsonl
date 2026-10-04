@@ -1,0 +1,17 @@
+{"chunk": "v0", "offset": 0, "start": 30.0, "end": 45.06, "local_start": 30.0, "local_end": 45.06, "text": ".", "avg_logprob": -1.7228, "no_speech_prob": 0.0008, "compression_ratio": 0.1111, "junk": true}
+{"chunk": "v0", "offset": 0, "start": 60.0, "end": 67.64, "local_start": 60.0, "local_end": 67.64, "text": "oz", "avg_logprob": -2.7659, "no_speech_prob": 0.0019, "compression_ratio": 0.2, "junk": true}
+{"chunk": "v0", "offset": 0, "start": 90.0, "end": 90.3, "local_start": 90.0, "local_end": 90.3, "text": "as", "avg_logprob": -2.3393, "no_speech_prob": 0.0, "compression_ratio": 0.2, "junk": true}
+{"chunk": "v0", "offset": 0, "start": 120.0, "end": 136.8, "local_start": 120.0, "local_end": 136.8, "text": "in", "avg_logprob": -3.2732, "no_speech_prob": 0.0126, "compression_ratio": 0.2, "junk": true}
+{"chunk": "v0", "offset": 0, "start": 136.8, "end": 159.34, "local_start": 136.8, "local_end": 159.34, "text": "am", "avg_logprob": -2.6732, "no_speech_prob": 0.5064, "compression_ratio": 0.5789, "junk": true}
+{"chunk": "v0", "offset": 0, "start": 161.84, "end": 162.66, "local_start": 161.84, "local_end": 162.66, "text": "how yous", "avg_logprob": -2.6732, "no_speech_prob": 0.5064, "compression_ratio": 0.5789, "junk": true}
+{"chunk": "v0", "offset": 0, "start": 162.66, "end": 192.66, "local_start": 162.66, "local_end": 192.66, "text": "so", "avg_logprob": -2.351, "no_speech_prob": 0.0034, "compression_ratio": 0.2, "junk": true}
+{"chunk": "v0", "offset": 0, "start": 222.66, "end": 249.72, "local_start": 222.66, "local_end": 249.72, "text": "a", "avg_logprob": -2.9561, "no_speech_prob": 0.0246, "compression_ratio": 0.4667, "junk": true}
+{"chunk": "v0", "offset": 0, "start": 250.0, "end": 251.22, "local_start": 250.0, "local_end": 251.22, "text": ".Music", "avg_logprob": -2.9561, "no_speech_prob": 0.0246, "compression_ratio": 0.4667, "junk": true}
+{"chunk": "v0", "offset": 0, "start": 252.66, "end": 279.14, "local_start": 252.66, "local_end": 279.14, "text": ", you,", "avg_logprob": -1.713, "no_speech_prob": 0.0, "compression_ratio": 0.4286, "junk": true}
+{"chunk": "v0", "offset": 0, "start": 312.66, "end": 317.66, "local_start": 312.66, "local_end": 317.66, "text": ",", "avg_logprob": -2.4493, "no_speech_prob": 0.0009, "compression_ratio": 0.3333, "junk": true}
+{"chunk": "v0", "offset": 0, "start": 317.66, "end": 319.66, "local_start": 317.66, "local_end": 319.66, "text": ",.", "avg_logprob": -2.4493, "no_speech_prob": 0.0009, "compression_ratio": 0.3333, "junk": true}
+{"chunk": "v0", "offset": 0, "start": 349.66, "end": 378.54, "local_start": 349.66, "local_end": 378.54, "text": ".", "avg_logprob": -2.0817, "no_speech_prob": 0.0056, "compression_ratio": 0.3846, "junk": true}
+{"chunk": "v0", "offset": 0, "start": 378.54, "end": 379.04, "local_start": 378.54, "local_end": 379.04, "text": "and", "avg_logprob": -2.0817, "no_speech_prob": 0.0056, "compression_ratio": 0.3846, "junk": true}
+{"chunk": "v0", "offset": 0, "start": 409.66, "end": 424.42, "local_start": 409.66, "local_end": 424.42, "text": "for", "avg_logprob": -1.9103, "no_speech_prob": 0.7281, "compression_ratio": 0.2727, "junk": true}
+{"chunk": "v0", "offset": 0, "start": 424.42, "end": 451.82, "local_start": 424.42, "local_end": 451.82, "text": "I", "avg_logprob": -2.2387, "no_speech_prob": 0.3154, "compression_ratio": 0.2, "junk": true}
+{"chunk": "v0", "offset": 0, "start": 452.26, "end": 453.62, "local_start": 452.26, "local_end": 453.62, "text": ".", "avg_logprob": -2.2387, "no_speech_prob": 0.3154, "compression_ratio": 0.2, "junk": true}

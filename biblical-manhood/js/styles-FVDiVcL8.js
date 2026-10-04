@@ -1,0 +1,2 @@
+import{h as r,g as i,i as m}from"./vendor-CPMdfHCh.js";function n(e,s){var f="",l="";if(typeof s=="string")return e.style.getPropertyValue(r(s))||i(e).getPropertyValue(r(s));Object.keys(s).forEach(function(t){var a=s[t];!a&&a!==0?e.style.removeProperty(r(t)):m(t)?l+=t+"("+a+") ":f+=r(t)+": "+a+";"}),l&&(f+="transform: "+l+";"),e.style.cssText+=";"+f}export{n as s};
+//# sourceMappingURL=styles-FVDiVcL8.js.map

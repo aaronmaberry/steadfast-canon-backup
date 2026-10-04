@@ -103,7 +103,7 @@ Asking might be the most awkward sentence you'll ever say out loud. But nearly e
 
 **Name it**
 
-Because a man can go half his life without noticing that if he went down, nobody's phone would ring. Fill in the line out loud: "If I fell tonight, I could call ___." If it's blank, or the only name is your wife's, you know why this chapter found you.
+A man can go half his life without noticing that if he went down, nobody's phone would ring. Fill in the line out loud: "If I fell tonight, I could call ___." If it's blank, or the only name is your wife's, you know why this chapter found you.
 
 :::notes
 _______________________________________________
@@ -113,7 +113,7 @@ _______________________________________________
 
 **Do this week**
 
-Because nobody's going to volunteer, and asking is how it works. Pick the man and make the ask before Sunday. Tell him nobody really knows you, and ask for twenty minutes a week for three months. Settle the day and the time before you hang up.
+Nobody's going to volunteer, and asking is how it works. Pick the man and make the ask before Sunday. Tell him nobody really knows you, and ask for twenty minutes a week for three months. Settle the day and the time before you hang up.
 
 :::notes
 _______________________________________________
@@ -123,7 +123,7 @@ _______________________________________________
 
 **Tell a brother**
 
-Because the brother you'd tell might not exist yet. If he does, show him the twenty minutes and start this week. If he doesn't, the ask is your whole assignment, and if it feels awkward, you've picked the right sentence.
+The brother you'd tell might not exist yet. If he does, show him the twenty minutes and start this week. If he doesn't, the ask is your whole assignment, and if it feels awkward, you've picked the right sentence.
 
 :::notes
 _______________________________________________

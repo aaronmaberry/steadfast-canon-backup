@@ -6,7 +6,7 @@ Walk Steadfast · main episode · script v1 (batch 3). Internal.
 |---|---|
 | Release | Tue Mar 9, 2027, 5:00 AM CT |
 | Format | Main episode. About 27 min. |
-| Slate | WES "Walk Steadfast, episode nineteen." JONATHON "Tuesday, March ninth, twenty twenty-seven." WES "What Your Anger Is Guarding." |
+| Intro and slate | Per-episode open, Jonathon leads (SHOW-BIBLE section 5, open system v3, text in _build/intros_data.py). Slate: WES "Episode nineteen. What Your Anger Is Guarding." |
 | Source | Book chapter 9, Anger, the Itch, and the Drift (part 1, anger only). Training W09. Avoided on purpose: the book's opening (a dishwasher loaded wrong, a glass jumping off the rack) and its "three exits" framing (out, down, away) as a lecture; the ninety-second surge and the walk to the mailbox; the book's "the verse sets a clock" reading of Ephesians; James 1:14-15 and Ecclesiastes 10:18 (book margins; also, the itch and the drift wait for E021). W09's named men, the wave image, the noise downstairs, the dashboard warning light, and the phone filter. "Handoff" is never used for the custody exchange, because book chapter 11 and W11 own that word. |
 | Focus mark | **Pick Up the Weight**, named in Pull up a chair and again in Carry this (your anger is yours to carry, even when he started it) |
 | Scripture (NIV) | Ephesians 4:26-27 (checked 2026-10-03), read by Jonathon |
@@ -16,7 +16,7 @@ Walk Steadfast · main episode · script v1 (batch 3). Internal.
 | Recurring segment | **Mr. Abernathy's question** (monthly). The two table taps, kept identical to E007. The question: "What's it guarding?" |
 | Wardrobe | Wes: navy work shirt with chest pockets. Jonathon: denim-blue fitted tee. |
 | Props | Standard set. Mr. Abernathy's white mug (Wes holds it during the segment). |
-| New continuity | **Wes's steering wheel (fall 2009).** Rumors of layoffs at work. A man cut him off; Wes hit the steering wheel so hard the horn went off and kept going while he held it. His daughter, then 7, was in her booster seat behind him. She told her mom, not him. Years later Mr. Abernathy tapped twice: "What's it guarding?" The answer was his old sentence, "Pay the bills and don't make trouble." He was scared he couldn't pay the bills. **The daughter (25) this week:** "I remember. I thought it was because I was kicking your seat." **Jonathon's shoulder.** At the Bluebonnets' second practice, Sat Mar 6, morning, before car-care, he threw batting practice with a sore shoulder. A dad offered to throw. Jonathon snapped, "I've got it," in front of everybody, kept throwing in pain, and snapped at Ruby that afternoon about a juice box. What it was guarding: "Never let them see you hurt." He apologized to the dad (who throws BP now) and told Dani it hurts, the first time he's said that out loud in years. Dani: "Then go to a doctor." He hasn't. **The contractor** threw his hard hat for years (his crew called it "hat weather"); none in eight years; scared he'll throw it at a student. Jonathon texts him "What's it guarding?" every Monday of his first semester. **Jonathon's mom's anger** was the cold kind (silent for a day). Dani in October: "You sound like your mom when she's mad at the toaster." **Climbing gym:** Ruby's birthday-party climb; "It doesn't take a ledge. It takes a bump." **Divorced composite** (a man at Wes's table, divorced six years). Angry every custody exchange in a fast-food parking lot. It was guarding his fear that his kids like the stepdad more. He started getting out of the truck and talking to the stepdad about the Astros for five minutes. "We're not friends. We're Astros people." His daughter says it's her favorite part of the exchange. |
+| New continuity | **Wes's steering wheel (fall 2009).** Rumors of layoffs at work. A man cut him off; Wes hit the steering wheel so hard the horn went off and kept going while he held it. His daughter, then 7, was in her booster seat behind him. She told her mom, not him. Years later Mr. Abernathy tapped twice: "What's it guarding?" The answer was his old sentence, "Pay the bills and don't make trouble." He was scared he couldn't pay the bills. **The daughter (25) this week:** "I remember. I thought it was because I was kicking your seat." **Jonathon's shoulder.** At the Bluebonnets' second practice, Sat Mar 6, morning, before car-care, he threw batting practice with a sore shoulder. A dad offered to throw. Jonathon snapped, "I've got it," in front of everybody, kept throwing in pain, and snapped at Ruby that afternoon about a juice box. What it was guarding: "Never let them see you hurt." He apologized to the dad (who throws BP now) and told Dani it hurts, the first time he's said that out loud in years. Dani: "Then go to a doctor." He hasn't. **The contractor** threw his hard hat for years (his crew called it "hat weather"); none in eight years; scared he'll throw it at a student. Jonathon texts him "What's it guarding?" every Monday of his first semester. **Jonathon's mom's anger** was the cold kind (silent for a day). Dani in October: "You sound like your mom when she's mad at the toaster." **Climbing gym:** Ruby's birthday-party climb; "It doesn't take a ledge. It takes a bump." **Divorced dad** (a man at Wes's table, divorced six years). Angry every custody exchange in a fast-food parking lot. It was guarding his fear that his kids like the stepdad more. He started getting out of the truck and talking to the stepdad about the Astros for five minutes. "We're not friends. We're Astros people." His daughter says it's her favorite part of the exchange. |
 
 ## Title options
 
@@ -32,11 +32,6 @@ Wes, both hands flat on the table, looking down. Text: **"WHAT'S IT GUARDING?"**
 
 [CAM: WIDE]
 
-[CHAPTER: Slate]
-WES: Walk Steadfast, episode nineteen.
-JONATHON: Tuesday, March ninth, twenty twenty-seven.
-WES: What Your Anger Is Guarding.
-
 [CHAPTER: Cold open]
 [CAM: WES MS]
 WES: I hit the steering wheel so hard the horn went off. And it kept going, because I was still holding it.
@@ -46,12 +41,22 @@ JONATHON: Who was in the truck?
 WES: (beat) My daughter. She was seven.
 [STING 3s]
 
+[CHAPTER: Intro]
+[CAM: 2S]
+(Walk Steadfast open written for E019. Same beats every week, new words. SHOW-BIBLE section 5.)
+JONATHON: This is Walk Steadfast. I'm Jonathon. I've known this man seven years.
+[LOWER THIRD: Jonathon]
+WES: I'm Wes Hart. Anger comes up at every men's table I've sat at, mine too.
+[LOWER THIRD: Wes Hart]
+JONATHON: Each Tuesday we take one piece of following Jesus as a man and stay with it.
+WES: My book is there too, with the video training, at walksteadfast.com.
+JONATHON: Today Wes asks what your anger is protecting.
+WES: Episode nineteen. What Your Anger Is Guarding.
+
 [CHAPTER: Pull up a chair]
 [CAM: WIDE]
 JONATHON: Pull up a chair.
-[LOWER THIRD: Jonathon]
 WES: Car-care Saturday happened.
-[LOWER THIRD: Wes Hart]
 JONATHON: We're saving it for Friday. Don't tell them anything.
 WES: I'll tell them one thing. An eighty-one-year-old man changed more oil than I did, and I was on coffee.
 JONATHON: You were on coffee because you can't get under a car.
@@ -321,6 +326,11 @@ WES: See you at the table.
 JONATHON: Go walk it out.
 (Jonathon rolls his right shoulder once, winces slightly, and catches Wes watching. Wes taps the table twice. Jonathon points at him. Hold WIDE 2s. Cut.)
 
+[CLOSING MUSIC 3s]
+[CREDITS]
+(Wes, normal credits volume, read like a producer credit. No gap, no ducking. SHOW-BIBLE section 13.)
+WES: Produced with AI voice and video tools.
+
 ## Shorts (5)
 
 | # | Cut | Hook | Length |
@@ -340,17 +350,18 @@ Anger almost always stands in front of something. Mr. Abernathy's question, "Wha
 
 Chapters
 00:00 Cold open
-00:24 Pull up a chair
-01:56 The steering wheel
-04:09 I've got it
-06:20 Mr. Abernathy's question
-08:24 The Word
-11:32 Pushback
-17:04 The parking lot
-20:13 What I actually did
-22:47 This week's challenge
-24:31 Carry this
-24:47 Outro
+00:17 Intro
+00:50 Pull up a chair
+02:23 The steering wheel
+04:36 I've got it
+06:47 Mr. Abernathy's question
+08:51 The Word
+11:59 Pushback
+17:31 The parking lot
+20:40 What I actually did
+23:14 This week's challenge
+24:58 Carry this
+25:14 Outro
 
 Scripture: Ephesians 4:26-27 (NIV)
 
@@ -367,8 +378,6 @@ Facebook  facebook.com/steadfastwalk
 TikTok  tiktok.com/@steadfastwalk
 Reddit  reddit.com/user/steadfastwalk
 LinkedIn  linkedin.com/company/steadfastwalk
-
-Walk Steadfast is made with AI-generated video and voices. Wes and Jonathon are characters, and their stories are composites drawn from real men's lives.
 
 Scripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.™ Used by permission. All rights reserved worldwide.
 

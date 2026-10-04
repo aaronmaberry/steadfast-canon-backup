@@ -6,7 +6,7 @@ Walk Steadfast · main episode · script v1 (batch 5). Internal.
 |---|---|
 | Release | Tue Apr 27, 2027, 5:00 AM CT |
 | Format | Main episode. About 25 min. |
-| Slate | WES "Walk Steadfast, episode thirty-three." JONATHON "Tuesday, April twenty-seventh, twenty twenty-seven." WES "Leave Without Slamming the Door." |
+| Intro and slate | Per-episode open, Wes leads (SHOW-BIBLE section 5, open system v3, text in _build/intros_data.py). Slate: WES "Episode thirty-three. Leave Without Slamming the Door." |
 | Source | Book chapter 12, Leave Without Slamming the Door (B plug). Training W12. Avoided on purpose. From the book: the three men at the front door (walks in, never comes, knocks); the hand on the knob and the back turned, as images; "honor the seat"; the soldier's salute; the four-part knock and Grant's "You eat yet?"; Joseph and Genesis 50:20; Romans 12:19; "We're doing it my wife's way"; the divorced man in his mother's kitchen; "set another plate"; the four marks paragraph. From W12: the tree stakes; Emmett's eulogy; Hector (the man who never fished, the dayroom, the bluegill pond); Elmer's Christmas; "decide, then tell"; the down payment with opinions; "We'll take it from here"; Duane's tomatoes; "shut it like there's a baby asleep." The show's angle: leaving *for* something, not *from* someone; the parent's half of the door (Wes in the driveway, "go inside"); Jonathon's mother not knowing "what I'm for"; Jonathon's own late leaving ("I commuted"); "stay findable." |
 | Focus mark | **Go First**, named in Pull up a chair and in Going first |
 | Scripture (NIV) | Genesis 2:24 (checked 2026-10-03), read by Wes. The only card. |
@@ -25,32 +25,36 @@ Walk Steadfast · main episode · script v1 (batch 5). Internal.
 
 ## Thumbnail
 
-Wes standing in a gravel driveway, one hand half-raised, looking down the road (AI composite still). Text: **"HE HONKED TWICE."** Variant: Jonathon holding a watercolor of two kids in bluebonnets. Text: **"WHAT AM I FOR?"**
+Wes standing in a gravel driveway, one hand half-raised, looking down the road (still image). Text: **"HE HONKED TWICE."** Variant: Jonathon holding a watercolor of two kids in bluebonnets. Text: **"WHAT AM I FOR?"**
 
 ## Script
 
 [CAM: WIDE]
 
-[CHAPTER: Slate]
-WES: Walk Steadfast, episode thirty-three.
-JONATHON: Tuesday, April twenty-seventh, twenty twenty-seven.
-WES: Leave Without Slamming the Door.
-
 [CHAPTER: Cold open]
 [CAM: WES MS]
-WES: Saturday at four-ten my sixteen-year-old drove off in a truck he owns outright. And I stood in the driveway and waved till he got to the mailbox.
+WES: Saturday my sixteen-year-old drove off in a truck he owns outright. I waved till he got to the mailbox.
 [CAM: JON MS]
 JONATHON: Did he wave back?
 [CAM: WES CU]
-WES: He honked. Twice. (beat) I've decided both of them were for me.
+WES: He honked. Twice. (beat) I've decided both were for me.
 [STING 3s]
+
+[CHAPTER: Intro]
+[CAM: 2S]
+(Walk Steadfast open written for E033. Same beats every week, new words. SHOW-BIBLE section 5.)
+WES: This is Walk Steadfast. I'm Wes Hart. My three kids are leaving home one at a time.
+[LOWER THIRD: Wes Hart]
+JONATHON: I'm Jonathon. Mine are seven and four, and I'm not ready.
+[LOWER THIRD: Jonathon]
+WES: Twice a week we talk straight about following Jesus as a man. The Steadfast book and the video training, both on walksteadfast.com.
+JONATHON: Today's question is how a man leaves home without slamming the door.
+WES: Episode thirty-three. Leave Without Slamming the Door.
 
 [CHAPTER: Pull up a chair]
 [CAM: WIDE]
 WES: Pull up a chair.
-[LOWER THIRD: Wes Hart]
 JONATHON: We won.
-[LOWER THIRD: Jonathon]
 WES: You won?
 JONATHON: We won. Technically. The other team only had six kids show up, so they forfeited. We stood in the outfield for forty-five minutes while the coaches figured it out, and then the umpire said, "Bluebonnets win," and the whole dugout lost its mind.
 WES: Does a forfeit count?
@@ -266,6 +270,11 @@ WES: See you at the table.
 JONATHON: Go walk it out.
 (Wes reaches for his phone on the table and slides it across to Jonathon without looking. Jonathon pockets it. Hold WIDE 2s. Cut.)
 
+[CLOSING MUSIC 3s]
+[CREDITS]
+(Wes, normal credits volume, read like a producer credit. No gap, no ducking. SHOW-BIBLE section 13.)
+WES: Produced with AI voice and video tools.
+
 ## Shorts (5)
 
 | # | Cut | Hook | Length |
@@ -286,16 +295,17 @@ Genesis 2:24 says a man leaves his father and mother and is united to his wife. 
 
 Chapters
 00:00 Cold open
-00:28 Pull up a chair
-04:31 Three questions
-09:30 The Word
-11:32 I commuted
-15:16 The other mother
-17:39 Pushback
-21:53 Going first
-23:40 This week's challenge
-25:07 Carry this
-25:19 Outro
+00:17 Intro
+00:53 Pull up a chair
+04:56 Three questions
+09:55 The Word
+11:57 I commuted
+15:41 The other mother
+18:04 Pushback
+22:18 Going first
+24:05 This week's challenge
+25:32 Carry this
+25:43 Outro
 
 Scripture: Genesis 2:24 (NIV)
 
@@ -312,8 +322,6 @@ Facebook  facebook.com/steadfastwalk
 TikTok  tiktok.com/@steadfastwalk
 Reddit  reddit.com/user/steadfastwalk
 LinkedIn  linkedin.com/company/steadfastwalk
-
-Walk Steadfast is made with AI-generated video and voices. Wes and Jonathon are characters, and their stories are composites drawn from real men's lives.
 
 Scripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.™ Used by permission. All rights reserved worldwide.
 

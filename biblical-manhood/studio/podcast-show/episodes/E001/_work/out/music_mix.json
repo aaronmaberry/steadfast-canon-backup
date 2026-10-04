@@ -1,0 +1,21 @@
+{
+ "sting": {
+  "theme_start_s": 0.12,
+  "file_start_s": 15.932,
+  "lufs": -17.9,
+  "peak_dbfs": -3.0
+ },
+ "chord_theme_s": 83.69,
+ "bed_theme_from_s": 70.25,
+ "bed_file_s": [
+  1884.029,
+  1900.474
+ ],
+ "chord_file_s": 1897.474,
+ "bed_gain_db": -23.6,
+ "swell_gain_db": -3.9,
+ "bed_lufs_under_speech": -34.9,
+ "swell_lufs": -20.5,
+ "music_peak_dbfs": -3.0,
+ "long_gaps_in_bed": []
+}

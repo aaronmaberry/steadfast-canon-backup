@@ -81,7 +81,7 @@ She also wants to know where the house is headed so she can finally fold up the 
 
 ## Someone worth walking with
 
-An earlier chapter did the heavy lifting on knowing her, so only this: keep wanting to, and stop acting like the first few years taught you everything.
+We've already done the heavy lifting on knowing her, so only this: keep wanting to, and stop acting like the first few years taught you everything.
 
 And let her see you move. A husband who's frozen in place, same guy as ten years ago only grumpier and wider, is one more load on her back. A husband who's changing, slowly, with failures on the record, is a man she can walk next to. Much of a home's hope rides on whether he's becoming someone. If you're single, you're building that man right now. If the marriage ended, lay this chapter next to it, not to beat yourself bloody but so whoever you are next is different.
 
@@ -102,7 +102,7 @@ If your stomach just dropped, take heart. Hardly anything in this book turns aro
 
 **Name it**
 
-Because a lot of us are working overtime on a question she never asked. Imagine her sister asks how you're doing as a husband. Write down Renee's kind of answer, the one you'd hate to overhear. Single, or the marriage is over? Write the answer she would have given.
+Many of us are working overtime on a question she never asked. Imagine her sister asks how you're doing as a husband. Write down Renee's kind of answer, the one you'd hate to overhear. Single, or the marriage is over? Write the answer she would have given.
 
 :::notes
 _______________________________________________
@@ -112,7 +112,7 @@ _______________________________________________
 
 **Do this week**
 
-Because only she can see the gap. Sit down and ask her Russ's question, "What do you need from me that you're not getting?" No defending, no explaining. Then do whatever she names first, before Saturday. Single? Call your mom or a sister in Christ and make the call about her life, not yours, or quietly carry one load for a married couple you serve alongside. If the marriage ended, put a kid-sized version of that question to your children and act on their first answer.
+Only she can see the gap. Sit down and ask her Russ's question, "What do you need from me that you're not getting?" No defending, no explaining. Then do whatever she names first, before Saturday. Single? Call your mom or a sister in Christ and make the call about her life, not yours, or quietly carry one load for a married couple you serve alongside. If the marriage ended, put a kid-sized version of that question to your children and act on their first answer.
 
 :::notes
 _______________________________________________
@@ -122,7 +122,7 @@ _______________________________________________
 
 **Tell a brother**
 
-Because most of us assumed we knew and never checked. Tell him how she answered. Find out whether he's ever asked his own wife, and admit where each of you has drifted toward the louder applause. If there's no wife, have him tell you which of these you already give the people near you and which ones you're holding back for someday.
+Most of us assumed we knew and never checked. Tell him how she answered. Find out whether he's ever asked his own wife, and admit where each of you has drifted toward the louder applause. If there's no wife, have him tell you which of these you already give the people near you and which ones you're holding back for someday.
 
 :::notes
 _______________________________________________

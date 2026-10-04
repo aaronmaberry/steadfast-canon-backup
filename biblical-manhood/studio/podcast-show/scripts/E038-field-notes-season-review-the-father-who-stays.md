@@ -6,7 +6,7 @@ Walk Steadfast · Field Notes · script v1 (batch 5). Internal. Last episode of 
 |---|---|
 | Release | Fri May 14, 2027, 5:00 AM CT |
 | Format | Field Notes, the season review. About 13-14 min. Standard order (check, question, tool), plus a short "What stuck." This time each man speaks only for himself (round 6: no host-to-host affirmation). |
-| Slate | WES "Episode thirty-eight. Friday, May fourteenth." JONATHON "Field Notes. Season Review. The Father Who Stays." |
+| Intro and slate | Per-episode open, Wes leads (SHOW-BIBLE section 5, open system v3, text in _build/intros_data.py). Slate: WES "Episode thirty-eight." JONATHON "Field Notes. Season Review. The Father Who Stays." |
 | Checks | E037 challenge: finish "If I fell down this week, the man who'd know is...", then learn one man's real name and one true thing about him. |
 | From the Table | "what did yall learn about dads this season. asking for me." (the nephew, 22, by text; it doubles as the single check) |
 | Tool on the Table | A memorial stone: one written line about what God did this season (in you, about your father, or about being one), put where your kids walk past, so they'll ask. |
@@ -31,26 +31,32 @@ A smooth creek rock on the table between two coffee mugs, with a paint pen besid
 
 [CAM: WIDE]
 
-[CHAPTER: Slate]
-WES: Episode thirty-eight. Friday, May fourteenth.
-JONATHON: Field Notes. Season Review. The Father Who Stays.
-
 [CHAPTER: Cold open]
 [CAM: JON MS]
 JONATHON: His name is Shane.
 [CAM: WES MS]
 WES: You were going to wait till Saturday.
 [CAM: JON CU]
-JONATHON: I lasted till Thursday practice. About ten minutes in. I walked over and said, "Man, I have to tell you something embarrassing." And he said, "You don't know my name." (beat) He knew. He's known since March.
+JONATHON: I lasted till Thursday practice. I said, "Man, I have to tell you something embarrassing." He said, "You don't know my name." (beat) He's known since March.
 [STING 3s]
+
+[CHAPTER: Intro]
+[CAM: 2S]
+(Walk Steadfast open written for E038. Same beats every week, new words. SHOW-BIBLE section 5.)
+WES: This is Walk Steadfast, end of a season. I'm Wes Hart. My mother's on the list for an apartment.
+[LOWER THIRD: Wes Hart]
+JONATHON: I'm Jonathon. This season was about my dad, mostly.
+[LOWER THIRD: Jonathon]
+WES: Friday we report. My book and the video training are both at walksteadfast.com.
+JONATHON: Today we name what the father season left us.
+WES: Episode thirty-eight.
+JONATHON: Field Notes. Season Review. The Father Who Stays.
 
 [CHAPTER: Check the box]
 [CAM: WIDE]
 WES: Check the box. Tuesday was finish the sentence. If I fell down this week, the man who'd know is somebody. And then learn one man's real name and one true thing about him.
-[LOWER THIRD: Wes Hart]
 [CAM: JON MS]
 JONATHON: So, Shane. He said, "Everybody calls me Harper's dad. I figured you were one of those." And I said I was one of those. And he laughed. He wasn't mad. And then I asked the one thing. I'd decided on the drive. I said, "What do you do when you're not out here?"
-[LOWER THIRD: Jonathon]
 WES: That's the job question.
 JONATHON: It's not, though, because I said "when you're not out here." And he got a look. Like nobody'd asked him. And he said, "I'm building the Texas."
 WES: The battleship.
@@ -155,6 +161,11 @@ WES: See you at the table.
 JONATHON: Go walk it out.
 (Wes sets a smooth creek rock on the table between the mugs. Nothing written on it yet. Hold WIDE 2s. Cut.)
 
+[CLOSING MUSIC 3s]
+[CREDITS]
+(Wes, normal credits volume, read like a producer credit. No gap, no ducking. SHOW-BIBLE section 13.)
+WES: Produced with AI voice and video tools.
+
 ## Shorts (4)
 
 | # | Cut | Hook | Length |
@@ -173,12 +184,13 @@ Also: Jonathon finally learns Harper's dad's name (and about the battleship in h
 
 Chapters
 00:00 Cold open
-00:27 Check the box
-04:48 From the table
-08:34 Tool on the table
-11:34 What stuck
-12:37 Carry this
-12:49 Outro
+00:18 Intro
+00:51 Check the box
+05:12 From the table
+08:58 Tool on the table
+11:58 What stuck
+13:01 Carry this
+13:13 Outro
 
 Scripture: Joshua 4:6 (NIV)
 
@@ -193,8 +205,6 @@ Facebook  facebook.com/steadfastwalk
 TikTok  tiktok.com/@steadfastwalk
 Reddit  reddit.com/user/steadfastwalk
 LinkedIn  linkedin.com/company/steadfastwalk
-
-Walk Steadfast is made with AI-generated video and voices. Wes and Jonathon are characters, and their stories are composites drawn from real men's lives.
 
 Scripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.™ Used by permission. All rights reserved worldwide.
 

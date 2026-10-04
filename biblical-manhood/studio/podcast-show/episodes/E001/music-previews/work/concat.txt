@@ -1,0 +1,5 @@
+file 'seg_A_two-chairs.mp4'
+file 'seg_B_limestone.mp4'
+file 'seg_C_dancehall-waltz.mp4'
+file 'seg_D_pedal-steel-evening.mp4'
+file 'seg_E_1604-at-night.mp4'

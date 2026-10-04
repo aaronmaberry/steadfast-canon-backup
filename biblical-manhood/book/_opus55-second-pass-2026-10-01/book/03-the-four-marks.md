@@ -1,6 +1,6 @@
 # 3. The Four Marks
 
-Last chapter we spread the maps out on the table and watched them argue with each other. That leaves you with a sharper question than the one you sat down with. All right, then. What is a man?
+We've spread the maps out on the table and watched them argue with each other. That leaves you with a sharper question than the one you sat down with. All right, then. What is a man?
 
 I want to hand you the answer as one sentence that fits in a shirt pocket. We'll open it up afterward, a piece at a time, at the size of an ordinary week. But a picture first, because a sentence without one goes right back on the shelf.
 
@@ -38,7 +38,7 @@ James doesn't leave much room to hide.
 If anyone, then, knows the good they ought to do and doesn't do it, it is sin for them.
 :::
 
-Stop Waiting isn't about being loud or pushing people around. It's about moving. When it's yours to do, start now, before you feel like it. Get down off the tailgate. Open the hard conversation while it's still yours to open. The chapter called **Stop Waiting** stays here until you can spot it in the week you're actually living.
+Stop Waiting isn't about being loud or pushing people around. It's about moving. When it's yours to do, start now, before you feel like it. Get down off the tailgate. Open the hard conversation while it's still yours to open. Later in the book we'll stay with this one until you can spot it in the week you're actually living.
 
 ## Pick Up the Weight
 
@@ -51,7 +51,7 @@ Paul says it in eight words.
 for each one should carry their own load.
 :::
 
-A boy handles weight by waiting to be assigned something and then arguing that it isn't fair. A man looks at what's in front of him and says, "That's mine." Somebody else may have dropped it, but once it's landed in his house or his lane, it's his, and he picks it up without waiting to settle the blame. The stack of unopened bills. The kid nobody in the house is talking to. The apology he still owes. Carry what's yours, even when somebody else dropped it. That's different from helping another man carry his load, which Paul asks for too; chapter 5 keeps the two apart. A load on a young man's shoulders is a gift, because carrying is what makes the carrier. **Pick Up the Weight** shows you how to take what's yours and put down what was never handed to you.
+A boy handles weight by waiting to be assigned something and then arguing that it isn't fair. A man looks at what's in front of him and says, "That's mine." Somebody else may have dropped it, but once it's landed in his house or his lane, it's his, and he picks it up without waiting to settle the blame. The stack of unopened bills. The kid nobody in the house is talking to. The apology he still owes. Carry what's yours, even when somebody else dropped it. That's different from helping another man carry his load, which Paul asks for too; we'll keep the two apart when we get there. A load on a young man's shoulders is a gift, because carrying is what makes the carrier. You'll see how to take what's yours and put down what was never handed to you.
 
 ## Go First
 
@@ -64,7 +64,7 @@ Jesus described Himself that way.
 When he has brought out all his own, he goes on ahead of them, and his sheep follow him because they know his voice.
 :::
 
-Homes and crews and churches stall until somebody moves. Three days of silence in a marriage, and somebody has to say "I was wrong" before anybody else will. Somebody has to pray out loud at a table that's never heard it. A drifting brother needs somebody to make the first call. I've held back on every one of those and called it being careful. Go First means you step out ahead of your people, scared or not. The fear can stay in your chest while your boots go on. **Go First** opens that up.
+Homes and crews and churches stall until somebody moves. Three days of silence in a marriage, and somebody has to say "I was wrong" before anybody else will. Somebody has to pray out loud at a table that's never heard it. A drifting brother needs somebody to make the first call. I've held back on every one of those and called it being careful. Go First means you step out ahead of your people, scared or not. The fear can stay in your chest while your boots go on. We'll open that up soon.
 
 ## Work for God's Pay
 
@@ -81,7 +81,7 @@ Whatever you do, work at it with all your heart, as working for the Lord, not fo
 
 Notice the word. Inheritance. That's what God's pay is. It isn't a wage, and it isn't a deal where you work hard enough and God lets you into the family. Nobody earns an inheritance. You get one because you're a son, and in Christ you're a son by grace before you've lifted a finger. The pay is the Father's gift to His children, and the best of it is the Father Himself saying "well done." Work for God's Pay means you do it for the Lord's reward, not the room's applause.
 
-That changes ordinary days more than anything else in this book. Obedience nobody sees becomes possible. So does a hard decade in a marriage, and money you'll never get back, and hours nobody thanks you for, because a Father sees what's hidden and remembers it. Look to Him for nothing and you'll go shopping somewhere else. A crowd. A bigger number. A newer truck. A father who finally says it. **Work for God's Pay** follows that hunt.
+That changes ordinary days more than anything else in this book. Obedience nobody sees becomes possible. So does a hard decade in a marriage, and money you'll never get back, and hours nobody thanks you for, because a Father sees what's hidden and remembers it. Look to Him for nothing and you'll go shopping somewhere else. A crowd. A bigger number. A newer truck. A father who finally says it. Before long we'll follow that hunt.
 
 ## Why these four
 
@@ -101,7 +101,7 @@ The sentence is yours now. This week, don't try to work all four. Shelve three a
 
 **Name it**
 
-Because you can't work on a mark you won't look at. Write one full sentence naming the faintest of the four on you right now, and why you picked it.
+You can't work on a mark you won't look at. Write one full sentence naming the faintest of the four on you right now, and why you picked it.
 
 :::notes
 _______________________________________________
@@ -111,7 +111,7 @@ _______________________________________________
 
 **Do this week**
 
-Because a groove only comes from doing the same thing again. Before next Tuesday, do one small thing that belongs to your faint mark. Get off the tailgate. Say "that's mine" and stop talking. Walk into one room first. Do one good thing nobody will ever hear about.
+Grooves only come from doing the same thing again. Before next Tuesday, do one small thing that belongs to your faint mark. Get off the tailgate. Say "that's mine" and stop talking. Walk into one room first. Do one good thing nobody will ever hear about.
 
 :::notes
 _______________________________________________
@@ -121,7 +121,7 @@ _______________________________________________
 
 **Tell a brother**
 
-Because what stays in your head stays shapeless. Tell one man which mark is faint on you and what you did about it this week. Then ask him which one is faint on him.
+What stays in your head stays shapeless. Tell one man which mark is faint on you and what you did about it this week. Then ask him which one is faint on him.
 
 :::notes
 _______________________________________________

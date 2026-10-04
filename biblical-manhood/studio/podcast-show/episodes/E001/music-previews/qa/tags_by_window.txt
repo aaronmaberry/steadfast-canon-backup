@@ -1,0 +1,55 @@
+== A_two-chairs.mp3
+   0s Double bass 0.66, Cello 0.65, Bowed string instrument 0.56, Violin, fiddle 0.13, Classical music 0.04
+   3s Cello 0.55, Bowed string instrument 0.40, Double bass 0.39, Violin, fiddle 0.06, String section 0.03
+   6s Cello 0.62, Double bass 0.51, Bowed string instrument 0.40, Violin, fiddle 0.03, Classical music 0.03
+   9s Cello 0.55, Bowed string instrument 0.47, Double bass 0.39, Guitar 0.08, Plucked string instrument 0.07
+  12s Cello 0.41, Double bass 0.38, Bowed string instrument 0.28, Violin, fiddle 0.04, Guitar 0.04
+  15s Cello 0.38, Double bass 0.29, Bowed string instrument 0.25, Pizzicato 0.05, Violin, fiddle 0.03
+  18s Cello 0.45, Double bass 0.33, Bowed string instrument 0.28, Violin, fiddle 0.04, String section 0.03
+  21s Cello 0.47, Bowed string instrument 0.36, Double bass 0.34, Violin, fiddle 0.05, String section 0.03
+  24s Sad music 0.14, Tender music 0.06, New-age music 0.05, Background music 0.05, Pizzicato 0.03
+  27s Sound effect 0.18, Gong 0.15, Television 0.03, Whoosh, swoosh, swish 0.03, Echo 0.03
+== B_limestone.mp3
+   0s Guitar 0.49, Plucked string instrument 0.46, Acoustic guitar 0.23, Strum 0.18, Electric guitar 0.06
+   3s Guitar 0.68, Plucked string instrument 0.56, Acoustic guitar 0.28, Strum 0.18, Electronic tuner 0.11
+   6s Guitar 0.63, Plucked string instrument 0.61, Acoustic guitar 0.33, Strum 0.22, Electric guitar 0.07
+   9s Guitar 0.68, Plucked string instrument 0.53, Reverberation 0.17, Effects unit 0.12, Inside, small room 0.11
+  12s Guitar 0.66, Plucked string instrument 0.60, Acoustic guitar 0.28, Strum 0.17, Electric guitar 0.09
+  15s Guitar 0.49, Plucked string instrument 0.30, Reverberation 0.26, Speech 0.23, Echo 0.17
+  18s Guitar 0.70, Plucked string instrument 0.66, Acoustic guitar 0.16, Electronic tuner 0.15, Electric guitar 0.12
+  21s Reverberation 0.26, Echo 0.23, Guitar 0.20, Plucked string instrument 0.15, Effects unit 0.10
+  24s Gong 0.06, Singing bowl 0.05, Chirp tone 0.04, Guitar 0.03, Plucked string instrument 0.03
+  27s Guitar 0.09, Plucked string instrument 0.06, Gong 0.05, Silence 0.03, Acoustic guitar 0.03
+== C_dancehall-waltz.mp3
+   0s Television 0.52, Background music 0.07, Theme music 0.04, Soundtrack music 0.04, Ringtone 0.03
+   3s Television 0.23, Violin, fiddle 0.08, Background music 0.07, Tender music 0.05, Bowed string instrument 0.04
+   6s Television 0.19, Background music 0.15, Theme music 0.10, Soundtrack music 0.07, Sad music 0.06
+   9s Television 0.68, Background music 0.07, Theme music 0.06, Soundtrack music 0.05, Tender music 0.03
+  12s Television 0.10, Pizzicato 0.08, Bowed string instrument 0.08, Double bass 0.04, Background music 0.04
+  15s Accordion 0.27, Television 0.11, Organ 0.02, Bowed string instrument 0.02, Tender music 0.01
+  18s Television 0.41, Background music 0.10, Tender music 0.06, Theme music 0.05, Soundtrack music 0.05
+  21s Television 0.18, Vehicle horn, car horn, honking 0.08, Background music 0.03, Ding 0.03, Sound effect 0.02
+  24s Television 0.14, Background music 0.07, Video game music 0.07, Theme music 0.05, Soundtrack music 0.05
+  27s Television 0.52, Soundtrack music 0.07, Background music 0.06, Theme music 0.05, Video game music 0.05
+== D_pedal-steel-evening.mp3
+   0s Guitar 0.54, Plucked string instrument 0.52, Acoustic guitar 0.20, Strum 0.15, Electric guitar 0.12
+   3s Guitar 0.75, Plucked string instrument 0.72, Acoustic guitar 0.59, Strum 0.27, Electric guitar 0.05
+   6s Plucked string instrument 0.38, Guitar 0.38, Acoustic guitar 0.33, Strum 0.20, Zither 0.05
+   9s Plucked string instrument 0.64, Guitar 0.63, Acoustic guitar 0.48, Strum 0.36, Electric guitar 0.05
+  12s Guitar 0.52, Plucked string instrument 0.49, Acoustic guitar 0.44, Strum 0.30, Flamenco 0.03
+  15s Acoustic guitar 0.43, Plucked string instrument 0.35, Guitar 0.33, Strum 0.26, Flamenco 0.03
+  18s Plucked string instrument 0.40, Guitar 0.38, Acoustic guitar 0.35, Strum 0.28, Speech 0.15
+  21s Plucked string instrument 0.53, Guitar 0.52, Acoustic guitar 0.43, Strum 0.32, Speech 0.06
+  24s Guitar 0.48, Plucked string instrument 0.43, Acoustic guitar 0.38, Strum 0.23, Bowed string instrument 0.05
+  27s Gong 0.28, Sound effect 0.04, Echo 0.03, Bell 0.03, Church bell 0.02
+== E_1604-at-night.mp3
+   0s Guitar 0.38, Echo 0.31, Effects unit 0.29, Plucked string instrument 0.25, Distortion 0.23
+   3s Guitar 0.31, Plucked string instrument 0.23, Echo 0.16, Effects unit 0.13, Electric guitar 0.12
+   6s Guitar 0.24, Plucked string instrument 0.21, Echo 0.13, Electric guitar 0.10, Reverberation 0.07
+   9s Guitar 0.44, Plucked string instrument 0.30, Echo 0.23, Reverberation 0.21, Electric guitar 0.14
+  12s Guitar 0.31, Plucked string instrument 0.25, Reverberation 0.13, Electric guitar 0.11, Echo 0.11
+  15s Guitar 0.40, Reverberation 0.29, Plucked string instrument 0.25, Echo 0.24, Effects unit 0.12
+  18s Guitar 0.33, Plucked string instrument 0.29, Electric guitar 0.11, Reverberation 0.11, Strum 0.07
+  21s Sound effect 0.05, Speech 0.05, Television 0.05, Vehicle 0.03, Echo 0.03
+  24s Television 0.09, Sound effect 0.06, Background music 0.03, Bell 0.03, Soundtrack music 0.02
+  27s Sound effect 0.10, Television 0.06, Silence 0.03, Soundtrack music 0.02, Bang 0.02

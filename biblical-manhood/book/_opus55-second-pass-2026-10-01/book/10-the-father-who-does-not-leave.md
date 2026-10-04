@@ -69,7 +69,7 @@ Stay close to home. His Word is where He speaks. His church is where the rest of
 
 ## Your dad, seen again
 
-Once God starts fathering you, the man who raised you, or didn't, looks different. Sometimes sharper, and sharper can sting. You quit squeezing him into a shape he never had, and you quit searching his face for it. If you're young and certain you don't need another father, learn this now and skip twenty years of searching faces. You can thank him for what was good, name what hurt, and put down the rage. Forgiveness opens up once you no longer need him to pay you back. You might even reach toward him someday. That road gets its own chapter. But none of it opens while you're still trying to pull out of your dad what only your heavenly Father has. That old chair was always too small for the hollow place in your chest. He's the only one who fits it.
+Once God starts fathering you, the man who raised you, or didn't, looks different. Sometimes sharper, and sharper can sting. You quit squeezing him into a shape he never had, and you quit searching his face for it. If you're young and certain you don't need another father, learn this now and skip twenty years of searching faces. You can thank him for what was good, name what hurt, and put down the rage. Forgiveness opens up once you no longer need him to pay you back. You might even reach toward him someday. We'll walk that road later on. But none of it opens while you're still trying to pull out of your dad what only your heavenly Father has. That old chair was always too small for the hollow place in your chest. He's the only one who fits it.
 
 ## Before the bell
 
@@ -99,7 +99,7 @@ He knows sons learn slowly. Say the word clumsily tomorrow morning, and again th
 
 **Name it**
 
-Because your prayers will keep landing on a false picture until you notice you're holding one. Which is yours: the dad who never came, the silent one, the dangerous one, or the good one with gaps? Then write one true thing Jesus shows you about the Father.
+Your prayers will keep landing on a false picture until you notice you're holding one. Which is yours: the dad who never came, the silent one, the dangerous one, or the good one with gaps? Then write one true thing Jesus shows you about the Father.
 
 :::notes
 _______________________________________________
@@ -109,7 +109,7 @@ _______________________________________________
 
 **Do this week**
 
-Because a man learns to be a son by talking like one. Every morning, before your feet touch the floor, say "Father" out loud and give Him one sentence about the day ahead. Seven mornings straight.
+You learn to be a son by talking like one. Every morning, before your feet touch the floor, say "Father" out loud and give Him one sentence about the day ahead. Seven mornings straight.
 
 :::notes
 _______________________________________________
@@ -119,7 +119,7 @@ _______________________________________________
 
 **Tell a brother**
 
-Because letting another man pray over you is practice in being carried. Tell him which false father your prayers have been aimed at. Then ask him to pray for you, out loud, right there, and don't wave him off.
+Letting another man pray over you is practice in being carried. Tell him which false father your prayers have been aimed at. Then ask him to pray for you, out loud, right there, and don't wave him off.
 
 :::notes
 _______________________________________________

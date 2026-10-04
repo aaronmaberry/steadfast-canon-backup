@@ -102,7 +102,7 @@ If your gauge has read dark for a long stretch, you have one job today: tell a m
 
 **Name it**
 
-Because a reading you refuse to look at is still driving. Which ditch is yours, tape over the gauges or the needle on the wheel? Then put one word on today's dash: joy, fear, shame, anger, numbness, sadness, or loneliness.
+A reading you refuse to look at is still driving. Which ditch is yours, tape over the gauges or the needle on the wheel? Then put one word on today's dash: joy, fear, shame, anger, numbness, sadness, or loneliness.
 
 :::notes
 _______________________________________________
@@ -112,7 +112,7 @@ _______________________________________________
 
 **Do this week**
 
-Because a man checks his dash every morning, not only when smoke is coming out of the hood. Start each day with two lines to God: "Father, I'm feeling ___," and "Here's what I'll do anyway: ___." If it's been dark for weeks, book the doctor before Saturday.
+A good driver checks his dash every morning, not only when smoke is coming out of the hood. Start each day with two lines to God: "Father, I'm feeling ___," and "Here's what I'll do anyway: ___." If it's been dark for weeks, book the doctor before Saturday.
 
 :::notes
 _______________________________________________
@@ -122,7 +122,7 @@ _______________________________________________
 
 **Tell a brother**
 
-Because a reading kept secret is what drives men off the road. Show him the full panel, including the ugly gauges. If you're sitting under the bush right now, call him today.
+Kept secret, a reading is what drives men off the road. Show him the full panel, including the ugly gauges. If you're sitting under the bush right now, call him today.
 
 :::notes
 _______________________________________________

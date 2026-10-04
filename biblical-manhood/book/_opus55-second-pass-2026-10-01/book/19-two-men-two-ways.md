@@ -148,7 +148,7 @@ You were born in one man. You can be carried into the other. Tonight, stand wher
 
 **Name it**
 
-Because the two ways only show up clearly in a real moment. Pick the most recent one from this week, the kitchen, the late phone, the 2 a.m. hallway, and write down honestly which man's way you took.
+The two ways only show up clearly in a real moment. Pick the most recent one from this week, the kitchen, the late phone, the 2 a.m. hallway, and write down honestly which man's way you took.
 
 :::notes
 _______________________________________________
@@ -158,7 +158,7 @@ _______________________________________________
 
 **Do this week**
 
-Because His words in that garden were meant to be spoken, not only admired. Each morning, picture the moment you're most likely to face that day and say the Gethsemane line that fits it, out loud. Rise, let us go. Not as I will. Let these men go. Then head out the door.
+His words in that garden were meant to be spoken, not only admired. Each morning, picture the moment you're most likely to face that day and say the Gethsemane line that fits it, out loud. Rise, let us go. Not as I will. Let these men go. Then head out the door.
 
 :::notes
 _______________________________________________
@@ -168,7 +168,7 @@ _______________________________________________
 
 **Tell a brother**
 
-Because whose you are is the largest question this book asks. Give him your real answer. If you've never trusted Christ to bring you out of Adam, say so and let him help you take that step. If you have, tell him about one moment this week when you went Jesus' way instead of Adam's.
+Whose you are is the largest question this book asks. Give him your real answer. If you've never trusted Christ to bring you out of Adam, say so and let him help you take that step. If you have, tell him about one moment this week when you went Jesus' way instead of Adam's.
 
 :::notes
 _______________________________________________

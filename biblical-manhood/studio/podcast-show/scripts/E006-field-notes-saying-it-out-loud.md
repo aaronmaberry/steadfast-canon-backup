@@ -6,7 +6,7 @@ Walk Steadfast · Field Notes · script v1 (pre-focus-group). Internal.
 |---|---|
 | Release | Fri Jan 22, 2027, 5:00 AM CT |
 | Format | Field Notes. About 13 min. |
-| Slate | JONATHON "Episode six. Friday, January twenty-second." WES "Field Notes. Saying It Out Loud." |
+| Intro and slate | Per-episode open, Jonathon leads (SHOW-BIBLE section 5, open system v3, text in _build/intros_data.py). Slate: WES "Episode six." JONATHON "Field Notes. Saying It Out Loud." |
 | Checks | E005 challenge: the sentence on the back of the card; pick your weakest mark and tell one man; married, ask your wife which mark she sees you do best and which she'd love to see more; the nightly one-out-of-four check. |
 | From the Table | "Do I really need all four, or just the one I'm weak in?" |
 | Tool on the Table | A 60-second voice memo |
@@ -31,10 +31,6 @@ Jonathon looking down at his phone, serious. Text: **STILL PENDING**.
 
 [CAM: WIDE]
 
-[CHAPTER: Slate]
-JONATHON: Episode six. Friday, January twenty-second.
-WES: Field Notes. Saying It Out Loud.
-
 [CHAPTER: Cold open]
 [CAM: JON MS]
 JONATHON: She said I'm good at going first. And then she said, "Except with your dad."
@@ -42,12 +38,23 @@ JONATHON: She said I'm good at going first. And then she said, "Except with your
 (Wes sets his mug down and doesn't pick it back up.)
 [STING 3s]
 
+[CHAPTER: Intro]
+[CAM: 2S]
+(Walk Steadfast open written for E006. Same beats every week, new words. SHOW-BIBLE section 5.)
+JONATHON: This is Walk Steadfast. I'm Jonathon. Dani and I have been married ten years.
+[LOWER THIRD: Jonathon]
+WES: I'm Wes Hart. I've sat with men longer than he's been a Christian.
+[LOWER THIRD: Wes Hart]
+JONATHON: Friday we report, misses too.
+WES: There's a book and a video training too, at walksteadfast.com.
+JONATHON: Today a man asks if he needs all four marks.
+WES: Episode six.
+JONATHON: Field Notes. Saying It Out Loud.
+
 [CHAPTER: Check the box]
 [CAM: WIDE]
 WES: Pull up a chair. Field Notes.
-[LOWER THIRD: Wes Hart]
 JONATHON: The honest one.
-[LOWER THIRD: Jonathon]
 WES: The honest one. Tuesday's challenge had a few pieces. Write the sentence on the back of your card. Pick your weakest mark. Tell one man which one. Married guys, ask your wife which one she sees you do best, and which one she'd love to see more. And every night, the thirty-second check.
 JONATHON: One out of four.
 WES: One out of four. I'll go first.
@@ -219,6 +226,11 @@ JONATHON: Subscribe. walksteadfast.com. @steadfastwalk. Go walk it out.
 WES: See you at the table.
 (Jonathon's phone buzzes once on the table. He glances, turns it to Wes: a picture of a dog. Hold WIDE 2s. Cut.)
 
+[CLOSING MUSIC 3s]
+[CREDITS]
+(Wes, normal credits volume, read like a producer credit. No gap, no ducking. SHOW-BIBLE section 13.)
+WES: Produced with AI voice and video tools.
+
 ## Shorts (2)
 
 | # | Cut | Hook | Length |
@@ -235,11 +247,12 @@ Field Notes, the Friday check-in from Walk Steadfast. Wes has a real conversatio
 
 Chapters
 00:00 Cold open
-00:14 Check the box
-07:26 From the table
-10:32 Tool on the table
-12:45 Carry this
-13:08 Outro
+00:09 Intro
+00:44 Check the box
+07:56 From the table
+11:03 Tool on the table
+13:15 Carry this
+13:39 Outro
 
 Scripture: Philippians 1:6 (NIV)
 
@@ -252,8 +265,6 @@ Facebook  facebook.com/steadfastwalk
 TikTok  tiktok.com/@steadfastwalk
 Reddit  reddit.com/user/steadfastwalk
 LinkedIn  linkedin.com/company/steadfastwalk
-
-Walk Steadfast is made with AI-generated video and voices. Wes and Jonathon are characters, and their stories are composites drawn from real men's lives.
 
 Scripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.™ Used by permission. All rights reserved worldwide.
 
@@ -311,7 +322,7 @@ Scripture quotations taken from The Holy Bible, New International Version®, NIV
 
 ## Production notes
 
-- **Canon note.** Jonathon says the full sentence into his phone. That's the second time it's said on air (the first was E005). It's in-story and in character, not a stock tagline. From here on, don't say the full sentence again until the season review (E014), and never as an opener or closer.
+- **Canon note.** Jonathon says the full sentence into his phone. That's the second time it's said on air (the first was E005). It comes out of the story, not as a stock tagline. From here on, don't say the full sentence again until the season review (E014), and never as an opener or closer.
 - **The friend-request thread.** The pending request is a season-long thread. Don't resolve it before the Easter season (E025-E029). Mention it at most once a month. Don't turn it into a voicemail; the W04 training session owns that image.
 - **"(both laugh)."** Four marks, plus a silent Wes laugh.
 - **The phone buzz** at the cut is Ruby texting another dog picture (callback to E001). The dog negotiation is a running thread. Wes's "K" reply to the voice memo pays off in E008.

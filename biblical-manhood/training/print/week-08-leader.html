@@ -1,0 +1,345 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Steadfast Men. Week 8. Leader guide</title>
+<style>
+
+@page { size: letter; margin: 0; }
+@font-face {
+  font-family: "SMPlayfairBold";
+  src: url("file:///workspace/biblical-manhood/training/print/fonts/PlayfairDisplay-Bold.ttf") format("truetype"), url("fonts/PlayfairDisplay-Bold.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: block;
+}
+@font-face {
+  font-family: "SMPlayfair";
+  src: url("file:///workspace/biblical-manhood/training/print/fonts/PlayfairDisplay-Regular.ttf") format("truetype"), url("fonts/PlayfairDisplay-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: block;
+}
+@font-face {
+  font-family: "SMPlayfairItalic";
+  src: url("file:///workspace/biblical-manhood/training/print/fonts/PlayfairDisplay-Italic.ttf") format("truetype"), url("fonts/PlayfairDisplay-Italic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: block;
+}
+@font-face {
+  font-family: "SMGaramond";
+  src: url("file:///workspace/biblical-manhood/training/print/fonts/EBGaramond-Regular.ttf") format("truetype"), url("fonts/EBGaramond-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: block;
+}
+@font-face {
+  font-family: "SMGaramondItalic";
+  src: url("file:///workspace/biblical-manhood/training/print/fonts/EBGaramond-Italic.ttf") format("truetype"), url("fonts/EBGaramond-Italic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: block;
+}
+@font-face {
+  font-family: "SMGaramondBold";
+  src: url("file:///workspace/biblical-manhood/training/print/fonts/EBGaramond-Bold.ttf") format("truetype"), url("fonts/EBGaramond-Bold.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: block;
+}
+@font-face {
+  font-family: "SMFranklinMedium";
+  src: url("file:///workspace/biblical-manhood/training/print/fonts/LibreFranklin-Medium.ttf") format("truetype"), url("fonts/LibreFranklin-Medium.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: block;
+}
+@font-face {
+  font-family: "SMFranklin";
+  src: url("file:///workspace/biblical-manhood/training/print/fonts/LibreFranklin-Regular.ttf") format("truetype"), url("fonts/LibreFranklin-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: block;
+}
+:root { --navy: #0B1F38; --gold: #E3C572; --bone: #E6DDCC; }
+
+.mast {
+  background-color: var(--navy);
+  background-image: url("file:///workspace/biblical-manhood/training/print/image-2.0/crops/week-02-mast-cloth.png");
+  background-size: cover;
+  background-position: left center;
+}
+.mast-plumb {
+  height: 0.62in; width: auto; display: block;
+  margin-left: 0.16in; margin-top: 0.02in; flex-shrink: 0;
+}
+.scripture-row.one.with-well {
+  grid-template-columns: 1fr 1.18in !important;
+  column-gap: 0.16in;
+  align-items: center;
+}
+.well-still {
+  width: 1.18in; height: 1.26in; object-fit: cover; display: block;
+}
+
+* { box-sizing: border-box; }
+html, body {
+  margin: 0; padding: 0; background: var(--bone); color: var(--navy);
+  -webkit-print-color-adjust: exact; print-color-adjust: exact; font-synthesis: none;
+}
+.page {
+  width: 8.5in; height: 11in; background: var(--bone); color: var(--navy);
+  position: relative; overflow: hidden; page-break-after: always; break-after: page;
+}
+.page:last-child { page-break-after: auto; break-after: auto; }
+.mast {
+  background: var(--navy); color: var(--bone); height: 0.88in;
+  padding: 0.11in 0.78in 0.10in 0.78in;
+  display: flex; flex-direction: column; justify-content: space-between;
+}
+.mast-top { display: flex; align-items: flex-start; justify-content: space-between; }
+.brand {
+  font-family: "SMPlayfairBold", serif; font-weight: 400; font-style: normal;
+  font-size: 17pt; letter-spacing: 0.08em; line-height: 1; color: var(--bone);
+}
+.subrow { margin-top: 0.055in; line-height: 1; color: var(--bone); }
+.subrow .of {
+  font-family: "SMGaramondItalic", serif; font-style: italic; font-weight: 400; font-size: 10.5pt;
+}
+.subrow .godly {
+  font-family: "SMPlayfair", serif; font-style: normal; font-weight: 400; font-size: 10.5pt;
+}
+.subrow .author {
+  font-family: "SMFranklinMedium", sans-serif; font-weight: 400; font-style: normal;
+  font-size: 7.4pt; letter-spacing: 0.16em; margin-left: 0.16in; position: relative; top: -0.01in;
+}
+.weekline {
+  display: flex; align-items: baseline; justify-content: space-between;
+  border-top: 0.5pt solid rgba(230,221,204,0.40); padding-top: 0.055in;
+}
+.weeknum {
+  font-family: "SMFranklinMedium", sans-serif; font-weight: 400; font-size: 7.2pt;
+  letter-spacing: 0.20em; text-transform: uppercase; color: var(--bone);
+}
+.weektitles {
+  font-family: "SMPlayfair", serif; font-weight: 400; font-size: 10.5pt; color: var(--bone);
+}
+.weektitles em {
+  font-family: "SMPlayfairItalic", serif; font-style: italic; font-weight: 400;
+}
+.plumb { width: 0.12in; height: 0.24in; flex-shrink: 0; margin-left: 0.16in; margin-top: 0.02in; }
+.body { padding: 0.18in 0.78in 0.52in 0.78in; }
+.foot {
+  position: absolute; left: 0.78in; right: 0.78in; bottom: 0.28in;
+  font-family: "SMFranklin", sans-serif; font-weight: 400; font-size: 7pt;
+  letter-spacing: 0.05em; color: var(--navy); display: flex; justify-content: space-between;
+  border-top: 0.5pt solid rgba(11,31,56,0.45); padding-top: 0.06in;
+}
+h2 {
+  font-family: "SMFranklinMedium", sans-serif; font-weight: 400; font-size: 7.6pt;
+  letter-spacing: 0.14em; text-transform: uppercase; color: var(--navy);
+  margin: 0.13in 0 0.07in 0; line-height: 1.2;
+}
+h2:first-child { margin-top: 0; }
+p {
+  font-family: "SMGaramond", serif; font-weight: 400; font-style: normal;
+  font-size: 10.5pt; line-height: 1.30; margin: 0 0 0.07in 0;
+}
+p.last { margin-bottom: 0; }
+.lede { margin-bottom: 0.08in; }
+.kv {
+  display: grid; grid-template-columns: 2.05in 1fr; column-gap: 0.12in; row-gap: 0.05in; margin-bottom: 0.04in;
+}
+.k {
+  font-family: "SMFranklinMedium", sans-serif; font-weight: 400; font-size: 7.1pt;
+  letter-spacing: 0.06em; line-height: 1.25; padding-top: 0.03in; color: var(--navy);
+}
+.v { font-family: "SMGaramond", serif; font-weight: 400; font-size: 10.5pt; line-height: 1.30; }
+.marks {
+  border-top: 0.7pt solid var(--navy); border-bottom: 0.7pt solid var(--navy);
+  padding: 0.09in 0 0.08in 0; margin: 0.12in 0 0.11in 0;
+}
+.marks p {
+  font-family: "SMGaramondItalic", serif; font-style: italic; font-size: 11.2pt; line-height: 1.32; margin: 0;
+}
+.marks .marks-note {
+  font-family: "SMGaramond", serif; font-style: normal; font-size: 10pt; margin-top: 0.05in;
+}
+.scripture-row {
+  display: grid; grid-template-columns: 1fr 1fr; column-gap: 0.20in; margin: 0.02in 0 0.10in 0;
+}
+.scripture { border-left: 0.8pt solid var(--navy); padding: 0.02in 0 0.02in 0.12in; }
+.cite {
+  font-family: "SMFranklinMedium", sans-serif; font-weight: 400; font-size: 6.8pt;
+  letter-spacing: 0.10em; text-transform: uppercase; margin-bottom: 0.035in; color: var(--navy);
+}
+.verse {
+  font-family: "SMGaramondItalic", serif; font-style: italic; font-weight: 400;
+  font-size: 9.8pt; line-height: 1.28; margin: 0;
+}
+.qlist { margin: 0.04in 0 0.08in 0; padding: 0; list-style: none; }
+.qlist li {
+  display: grid; grid-template-columns: 0.22in 1fr; column-gap: 0.06in; margin: 0 0 0.065in 0;
+  font-family: "SMGaramond", serif; font-size: 10.5pt; line-height: 1.30;
+}
+.qnum { font-family: "SMFranklinMedium", sans-serif; font-weight: 400; font-size: 8.5pt; line-height: 1.40; }
+.beat {
+  display: grid; grid-template-columns: 1.28in 1fr; column-gap: 0.12in; margin: 0 0 0.09in 0; align-items: start;
+}
+.beat-name {
+  font-family: "SMFranklinMedium", sans-serif; font-weight: 400; font-size: 7.6pt;
+  letter-spacing: 0.10em; text-transform: uppercase; line-height: 1.30; padding-top: 0.02in;
+}
+.beat-copy { font-family: "SMGaramond", serif; font-size: 10.5pt; line-height: 1.30; }
+.gold-beat {
+  background: var(--gold); color: var(--navy);
+  display: grid; grid-template-columns: 1.28in 1fr; column-gap: 0.12in;
+  margin: 0.02in 0 0.10in 0; padding: 0.08in 0.11in; align-items: start;
+}
+.gold-beat .beat-name, .gold-beat .beat-copy { color: var(--navy); }
+.lock { margin-top: 0.14in; border-top: 0.7pt solid var(--navy); padding-top: 0.08in; }
+.lock p { font-size: 10.5pt; margin: 0; }
+.lock .closed { font-family: "SMGaramondBold", serif; font-weight: 400; }
+.gold-bar {
+  background: var(--gold); color: var(--navy);
+  padding: 0.09in 0.12in 0.10in 0.12in; margin: 0.08in 0 0.10in 0;
+}
+.gold-bar h2 { margin: 0 0 0.04in 0; color: var(--navy); }
+.gold-bar p { margin: 0; color: var(--navy); }
+.gold-bar .prompt { margin: 0.07in 0 0.02in 0; color: var(--navy); }
+.gold-bar .write-line { border-bottom-color: var(--navy); }
+.gold-bar .inline-blank { margin: 0.06in 0 0 0; color: var(--navy); }
+.gold-bar .blank { border-bottom-color: var(--navy); }
+.write { margin: 0.02in 0 0.08in 0; }
+.write-line { border-bottom: 0.65pt solid var(--navy); height: 0.33in; }
+.prompt { font-family: "SMGaramond", serif; font-size: 10.4pt; line-height: 1.28; margin: 0.02in 0 0.02in 0; }
+.inline-blank {
+  display: flex; align-items: baseline; gap: 0.08in;
+  font-family: "SMGaramond", serif; font-size: 10.4pt; margin: 0.06in 0 0.08in 0;
+}
+.blank { display: inline-block; border-bottom: 0.65pt solid var(--navy); height: 0.20in; min-width: 1.7in; flex: 1; }
+.blank.short { min-width: 1.35in; flex: 0.7; }
+.meta-pair { display: grid; grid-template-columns: 1fr 1fr; column-gap: 0.22in; margin: 0.02in 0 0.06in 0; }
+.leader-p1 .kv { margin-bottom: 0.04in; }
+.leader-p1 h2 { margin: 0.11in 0 0.06in 0; }
+.leader-p1 p { margin: 0 0 0.065in 0; }
+.leader-p2 h2 { margin: 0.02in 0 0.07in 0; }
+.leader-p2 .block-gap { margin-top: 0.16in; }
+.leader-p2 .block-gap:first-child { margin-top: 0; }
+.page.worksheet .body { padding-top: 0.15in; }
+.page.worksheet h2 { font-size: 7.5pt; margin: 0.10in 0 0.05in 0; }
+.page.worksheet p { font-size: 10.3pt; margin: 0 0 0.05in 0; }
+.page.worksheet .kv { grid-template-columns: 1.42in 1fr; margin-bottom: 0.02in; }
+.page.worksheet .marks { margin: 0.08in 0 0.07in 0; padding: 0.07in 0 0.06in 0; }
+.page.worksheet .marks p { font-size: 10.8pt; }
+.page.worksheet .write-line { height: 0.32in; }
+.page.worksheet .gold-bar { margin: 0.07in 0 0.09in 0; padding: 0.08in 0.11in 0.09in 0.11in; }
+.page.worksheet .scripture-row { margin: 0.04in 0 0.04in 0; }
+.carry-line {
+  font-family: "SMGaramondItalic", serif; font-style: italic; font-size: 11.2pt; margin: 0 0 0.04in 0;
+}
+
+
+.scripture-row.one { grid-template-columns: 1fr; }
+.scripture .verse span { display: block; }
+</style>
+</head>
+<body>
+<div class="page leader-p1">
+<header class="mast">
+  <div class="mast-top">
+    <div>
+      <div class="brand">STEADFAST MEN</div>
+      <div class="subrow"><span class="of">The way of </span><span class="godly">Godly</span><span class="of"> Men</span><span class="author">Wes Hart</span></div>
+    </div>
+    <img class="mast-plumb" src="file:///workspace/biblical-manhood/training/print/image-2.0/crops/week-02-mast-plumb.png" alt="">
+  </div>
+  <div class="weekline"><span class="weeknum">Week 8</span><span class="weektitles">The empty chair</span></div>
+</header>
+<div class="body">
+  <h2>Before the room</h2>
+  <div class="kv">
+    <div class="k">Read this week</div>
+    <div class="v">Chapter 8, The empty chair.</div>
+    <div class="k">Aim</div>
+    <div class="v">The father hole is real. Name the empty chair. Do not heal it all on this page.</div>
+    <div class="k">One job</div>
+    <div class="v">Name the chair. One true sentence about his father. No speech. Write the letter he will not send.</div>
+    <div class="k">Pitfall</div>
+    <div class="v">Do not recap Part 1. Do not open next week&#39;s fruit. Do not open the Father who does not leave. Do not rush him to a cure. Do not make his dad a devil. Do not let the chair excuse this week&#39;s sin. Kind. Slow. Naming is the hour.</div>
+    <div class="k">Time</div>
+    <div class="v">about an hour. Church, small group, or a man alone.</div>
+  </div>
+  <div class="marks">
+    <p>A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God&#39;s reward.</p>
+    <p class="marks-note">Say it. Do not unpack it. This week is the chair. Part 2 starts here.</p>
+  </div>
+  <div class="scripture-row one with-well">
+    <div class="scripture">
+      <div class="cite">Ephesians 6:4 NIV</div>
+      <p class="verse">Fathers, do not exasperate your children; instead, bring them up in the training and instruction of the Lord.</p>
+    </div>
+    <img class="well-still" src="file:///workspace/biblical-manhood/training/print/image-2.0/week-04-well.png" alt="">
+  </div>
+  <h2>Open (2-3 min)</h2>
+  <p>A kitchen table still has to eat. Three plates go down. One chair sits with nothing in front of it, or a man sits in it and the boy still cannot get to him. Years later a grown man stands in a doorway before he walks into his own full table. He knows why. He has not said it yet.</p>
+  <p class="last">Say the four. Then stop. We tell the truth about what he inherited.</p>
+  <h2>Hit</h2>
+  <p>You are not healing him tonight. You are putting a name on a hole.</p>
+  <p>Paul named what belonged in that chair. Not a perfect man. A father. A voice a boy could get to. Training. Instruction. The Lord in the room, not only a paycheck. If that was not his house, he is not inventing a wound.</p>
+  <p>Some chairs never arrived. Some left. Some died and the plate still gets set. Some came home already gone. Some were a storm. Some were good and still left a gap shaped like the places that man could not reach. Every man in the room inherited something. Do not sand his to match yours.</p>
+</div>
+<footer class="foot"><span>Steadfast Men</span><span>Week 8 of 27</span><span>Leader guide</span></footer>
+</div>
+<div class="page leader-p2">
+<header class="mast">
+  <div class="mast-top">
+    <div>
+      <div class="brand">STEADFAST MEN</div>
+      <div class="subrow"><span class="of">The way of </span><span class="godly">Godly</span><span class="of"> Men</span><span class="author">Wes Hart</span></div>
+    </div>
+    <img class="mast-plumb" src="file:///workspace/biblical-manhood/training/print/image-2.0/crops/week-02-mast-plumb.png" alt="">
+  </div>
+  <div class="weekline"><span class="weeknum">Week 8</span><span class="weektitles">The empty chair</span></div>
+</header>
+<div class="body">
+  <p>The chair explains him. It does not excuse him. What sat in it is what he inherited. What he does now is his. Understanding that forever without changing anything is not progress. Naming is.</p>
+  <p class="last">Do not preach next week&#39;s Father as tonight&#39;s cure. Do not open the fruit. Point at Chapter 8. Then shut up. Sit in the silence if you have to.</p>
+  <h2>Table</h2>
+  <p class="lede">Three. Wait longer than you want to.</p>
+  <ol class="qlist">
+    <li><span class="qnum">1.</span><span>Finish this out loud: &#34;The chair at the end of my table was ___.&#34; Empty, full and gone, full and dangerous, or good with a gap.</span></li>
+    <li><span class="qnum">2.</span><span>What one thing did that chair teach you?</span></li>
+    <li><span class="qnum">3.</span><span>Can you say one true sentence about your father without a speech?</span></li>
+  </ol>
+  <p>Young: stop waiting for a ghost to sit down before you become a man. Single: a future wife cannot sit in that chair. Married: he can father with a hole; he must not dump the chair into her lap. Hurt: cruel is not the same as empty, and both are real. Older: a door can close before the conversation; he can still say what needed saying. The job going well: hours will not father him, and they will not father his kids if all they get is the last ten minutes.</p>
+  <h2 class="block-gap">Run the closer</h2>
+  <p class="lede">One chair. One sentence. One letter he keeps.</p>
+  <div class="beat">
+    <div class="beat-name">Name it</div>
+    <div class="beat-copy">Finish this honestly and out loud: &#34;The chair at the end of my table was ___.&#34; Then say one thing it taught you.</div>
+  </div>
+  <div class="gold-beat">
+    <div class="beat-name">Do this week</div>
+    <div class="beat-copy">Write your father a letter you will not send. Tell him what you needed and did not get, and what you got that you are grateful for, if anything. Keep it.</div>
+  </div>
+  <div class="beat">
+    <div class="beat-name">Tell a brother</div>
+    <div class="beat-copy">Read him the sentence you named. Not the letter, unless you want to. Let him say &#34;me too&#34; or &#34;I&#39;m sorry&#34; and do not rush past it.</div>
+  </div>
+  <div class="beat">
+    <div class="beat-name">Carry this</div>
+    <div class="beat-copy">The chair explains you. It doesn&#39;t excuse you. What sat in it is what you inherited. What you do now is yours.</div>
+  </div>
+  <p>If a brother starts a cure, stop him. This chapter is the naming. He cannot sit in that chair for him. He can hear him.</p>
+  <h2 class="block-gap">Solo note</h2>
+  <p>Read Chapter 8. Write the sentence the same day. Write the letter. Tell one man the sentence. Ask him not to fix it. Fine is a word a man uses when he does not want to say the chair is empty.</p>
+  <div class="lock">
+    <p>Do not open week 9. Do not open week 10.</p>
+  </div>
+</div>
+<footer class="foot"><span>Steadfast Men</span><span>Week 8 of 27</span><span>Leader guide</span></footer>
+</div>
+</body>
+</html>

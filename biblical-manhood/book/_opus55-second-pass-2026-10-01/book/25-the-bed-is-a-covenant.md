@@ -74,7 +74,7 @@ None of this is off the clock once the lamp clicks off. Guard your eyes. Trust t
 
 Single, and hoping to marry someday? Then what you do with your body now is already shaping a covenant you haven't entered. Either you're saving toward it or you're cashing it in ahead of time. Paul said to learn control of your own body, and learning means it takes reps and time. Where good men tend to fall is the long relationship that never moves toward an altar. Late at night, behind a closed bedroom door, alone together, nobody holds out. If she's the one, and you're ready to carry what marriage asks, go marry her.
 
-Eli showed up in chapter one, phone glowing, ten o'clock. If you're single, that hour is the whole battlefield for this chapter, not some wedding night years away. A Tuesday, roommates behind their doors, nobody needing anything from him. Wanting to win didn't win it. He lost that fight a lot first. What finally turned it was dull stuff. At night his phone now sleeps on the kitchen counter. For a year he'd hoped somebody at church would offer to keep his filter password, and nobody ever did, so he went and asked a man eleven years older to hold it. That's Stop Waiting, and it was the hinge. Some nights he'd still get up and walk back out to that counter. Then he'd text the older man, and the older man would answer. At nineteen, self-control looked like that. No victory feeling. A cord plugged in by the toaster and a friend who picks up.
+Eli showed up at the very start of the book, phone glowing, ten o'clock. If you're single, that hour is the whole battlefield for this chapter, not some wedding night years away. A Tuesday, roommates behind their doors, nobody needing anything from him. Wanting to win didn't win it. He lost that fight a lot first. What finally turned it was dull stuff. At night his phone now sleeps on the kitchen counter. For a year he'd hoped somebody at church would offer to keep his filter password, and nobody ever did, so he went and asked a man eleven years older to hold it. That's Stop Waiting, and it was the hinge. Some nights he'd still get up and walk back out to that counter. Then he'd text the older man, and the older man would answer. At nineteen, self-control looked like that. No victory feeling. A cord plugged in by the toaster and a friend who picks up.
 
 ## A wife once
 
@@ -103,7 +103,7 @@ Plenty of good men have fallen here and kept it to themselves. If you're one of 
 
 **Name it**
 
-Because the weak spot you keep hidden stays strong until you confess it to God. If there's one, write it down. Wandering eyes, the phone, rushing her, a scorecard in your head, the cold shoulder, or plain neglect. Single, or the marriage is over? Then write honestly: are you saving yourself toward a vow you haven't made, or spending it ahead of time?
+The weak spot you keep hidden stays strong until you confess it to God. If there's one, write it down. Wandering eyes, the phone, rushing her, a scorecard in your head, the cold shoulder, or plain neglect. Single, or the marriage is over? Then write honestly: are you saving yourself toward a vow you haven't made, or spending it ahead of time?
 
 :::notes
 _______________________________________________
@@ -113,7 +113,7 @@ _______________________________________________
 
 **Do this week**
 
-Because promises get said out loud, in the open, long before anybody keeps them in the dark. Married? Sit down with your wife in daylight, somewhere other than the bedroom, and ask her what she'd want more of there and what she'd want less of. Single or divorced? Give a brother the filter password and plug your phone in on the kitchen counter tonight.
+Promises get said out loud, in the open, long before anybody keeps them in the dark. Married? Sit down with your wife in daylight, somewhere other than the bedroom, and ask her what she'd want more of there and what she'd want less of. Single or divorced? Give a brother the filter password and plug your phone in on the kitchen counter tonight.
 
 :::notes
 _______________________________________________
@@ -123,7 +123,7 @@ _______________________________________________
 
 **Tell a brother**
 
-Because this hunger feeds on secrets. Tell him the weak spot you wrote down. If a screen is involved, give him the specifics: what, how often, and since when. Then hand him the password.
+This hunger feeds on secrets. Tell him the weak spot you wrote down. If a screen is involved, give him the specifics: what, how often, and since when. Then hand him the password.
 
 :::notes
 _______________________________________________

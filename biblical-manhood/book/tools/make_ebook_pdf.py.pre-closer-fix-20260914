@@ -1,0 +1,1003 @@
+#!/usr/bin/env python3
+"""Steadfast Men ebook PDF binder. Cloth Store colors. Live .md only.
+Script lives in book/tools/ and is never deleted by the build.
+"""
+from __future__ import annotations
+
+import json
+import re
+import shutil
+import uuid
+from pathlib import Path
+
+from PIL import Image as PILImage
+from reportlab.lib.units import inch
+from reportlab.pdfbase import pdfmetrics
+from reportlab.pdfbase.ttfonts import TTFont
+from reportlab.pdfgen import canvas
+
+BOOK = Path("/workspace/biblical-manhood/book")
+ART = BOOK / "art"
+PRESS = ART / "press"
+FONTS = PRESS / "fonts"
+OUT = BOOK / "export" / "steadfast-men-ebook.pdf"
+BUILD = BOOK / "export" / "_build"
+
+NAVY = (11 / 255, 31 / 255, 56 / 255)
+GOLD = (227 / 255, 197 / 255, 114 / 255)
+# Aaron 2026-09-08: ACCENT on BONE for colorblind contrast — never gold-on-bone.
+# Prefer navy #0B1F38 (NAVY), deep teal #134E4A (ACCENT), or charcoal #2C2C2C; gold only on navy.
+ACCENT = (19 / 255, 78 / 255, 74 / 255)  # #134E4A deep teal
+BONE = (230 / 255, 221 / 255, 204 / 255)
+INK = (22 / 255, 28 / 255, 36 / 255)
+INK_SOFT = (70 / 255, 78 / 255, 88 / 255)
+RULE = (168 / 255, 164 / 255, 154 / 255)
+
+PAGE_W = 6 * inch
+PAGE_H = 9 * inch
+GUTTER = 0.72 * inch
+OUTSIDE = 0.58 * inch
+TOP = 0.68 * inch
+BOTTOM = 0.68 * inch
+
+BODY_SIZE = 10.5
+BODY_LEADING = 14.4
+TITLE_SIZE = 20
+MARGIN_SIZE = 8.5
+MARGIN_LEADING = 11.0
+
+PARTS = {
+    1: ("PART ONE", "The Man You Were Built to Be"),
+    8: ("PART TWO", "What You Inherited, and What Is Yours"),
+    18: ("PART THREE", "The Story That Names You"),
+    21: ("PART FOUR", "The House"),
+    30: ("PART FIVE", "The Long Road"),
+}
+
+CHAPTER_FILES = [
+    "01-a-quiet-tuesday.md",
+    "02-you-are-not-crazy.md",
+    "03-the-four-marks.md",
+    "04-stop-waiting.md",
+    "05-pick-up-the-weight.md",
+    "06-go-first.md",
+    "07-live-for-a-reward-that-lasts.md",
+    "08-the-empty-chair.md",
+    "09-anger-the-itch-and-the-drift.md",
+    "10-the-father-who-does-not-leave.md",
+    "11-when-home-never-handed-you-off.md",
+    "12-leave-without-slamming-the-door.md",
+    "13-a-man-with-no-brothers.md",
+    "14-ask-the-man.md",
+    "15-the-problem-inside.md",
+    "16-how-that-looks-on-a-man.md",
+    "17-no-fixed-star.md",
+    "18-before-the-fall.md",
+    "19-two-men-two-ways.md",
+    "20-destiny-is-not-a-vibe.md",
+    "21-if-there-is-no-wife-yet.md",
+    "22-know-her.md",
+    "23-lay-it-down.md",
+    "24-what-she-actually-needs.md",
+    "25-the-bed-is-a-covenant.md",
+    "26-your-daughter-is-watching.md",
+    "27-give-your-son-a-name.md",
+    "28-give-your-son-a-hill.md",
+    "29-give-your-son-a-day-he-will-not-forget.md",
+    "30-you-were-made-for-a-work.md",
+    "31-feelings-are-the-dash-not-the-wheel.md",
+    "32-every-season-still-counts.md",
+    "33-what-you-are-building-when-nobody-claps.md",
+    "34-write-the-next-move.md",
+    "35-these-men-are-my-brothers.md",
+]
+
+CLOSER_ART = {1, 2, 3, 13, 14, 15, 33, 34, 35}
+FIGURES = {
+    3: ART / "03-four-marks.png",
+    34: ART / "34-man-plan.png",
+}
+
+
+def no_em(s: str) -> str:
+    return (
+        s.replace("\u2014", " - ")
+        .replace("\u2013", "-")
+        .replace("—", " - ")
+        .replace("–", "-")
+    )
+
+
+def register_fonts() -> None:
+    pairs = [
+        ("Playfair", "PlayfairDisplay-Regular.ttf"),
+        ("Playfair-Bold", "PlayfairDisplay-Bold.ttf"),
+        ("Playfair-Italic", "PlayfairDisplay-Italic.ttf"),
+        ("EBGaramond", "EBGaramond-Regular.ttf"),
+        ("EBGaramond-Bold", "EBGaramond-Bold.ttf"),
+        ("EBGaramond-Italic", "EBGaramond-Italic.ttf"),
+        ("Libre", "LibreFranklin-Regular.ttf"),
+        ("Libre-Bold", "LibreFranklin-Bold.ttf"),
+        ("Libre-Medium", "LibreFranklin-Medium.ttf"),
+    ]
+    for name, fn in pairs:
+        pdfmetrics.registerFont(TTFont(name, str(FONTS / fn)))
+
+
+def clean_inline_md(text: str) -> str:
+    """Strip leftover markdown markers so they never print raw in the PDF."""
+    t = text.strip()
+    # leading heading hashes that slipped into paragraph text
+    t = re.sub(r"^#{1,6}\s+", "", t)
+    # bold/italic markers (simple; keep inner text)
+    t = t.replace("**", "").replace("__", "")
+    t = re.sub(r"(?<!\w)\*(?!\s)(.+?)(?<!\s)\*(?!\w)", r"\1", t)
+    return t.strip()
+
+
+def parse_md(path: Path) -> tuple[str, int, list[dict]]:
+    raw = path.read_text(encoding="utf-8")
+    lines = raw.splitlines()
+    title_line = lines[0] if lines else path.stem
+    m = re.match(r"^#\s+(\d+)\.\s+(.*)$", title_line)
+    if m:
+        num, title = int(m.group(1)), m.group(2).strip()
+    else:
+        m2 = re.match(r"^#\s+(.*)$", title_line)
+        title = m2.group(1).strip() if m2 else path.stem
+        # Filename fallback: NN-slug.md -> chapter N (never emit CHAPTER 0 for numbered files)
+        fm = re.match(r"^(\d+)-", path.name)
+        num = int(fm.group(1)) if fm else 0
+
+    blocks: list[dict] = []
+    i = 1
+    while i < len(lines) and not lines[i].strip():
+        i += 1
+    buf: list[str] = []
+
+    def flush() -> None:
+        nonlocal buf
+        text = " ".join(x.strip() for x in buf).strip()
+        buf = []
+        if text:
+            blocks.append({"type": "p", "text": clean_inline_md(text)})
+
+    while i < len(lines):
+        line = lines[i]
+        if line.startswith(":::margin"):
+            flush()
+            i += 1
+            mlines: list[str] = []
+            while i < len(lines) and not lines[i].startswith(":::"):
+                mlines.append(lines[i])
+                i += 1
+            i += 1
+            cite, body = "", []
+            for j, ml in enumerate(mlines):
+                if j == 0 and ml.startswith("**") and "NIV" in ml:
+                    cite = ml.strip("*").strip()
+                elif ml.strip():
+                    body.append(ml.strip())
+            blocks.append({"type": "margin", "cite": cite, "text": " ".join(body)})
+            continue
+        if line.startswith(":::notes"):
+            flush()
+            i += 1
+            nlines: list[str] = []
+            while i < len(lines) and not lines[i].startswith(":::"):
+                if lines[i].strip():
+                    nlines.append(lines[i].strip())
+                i += 1
+            i += 1
+            # Empty notes: skip entirely (do not invent blank write-in lines)
+            if nlines:
+                blocks.append({"type": "notes", "lines": nlines})
+            continue
+        if re.match(r"^##\s+Your Turn\s*$", line, re.I) or re.match(
+            r"^(\*{0,2}Name it\*?\*?\.?)", line
+        ):
+            flush()
+            closer = [line]
+            i += 1
+            while i < len(lines):
+                closer.append(lines[i])
+                i += 1
+            blocks.append({"type": "closer", "lines": closer})
+            break
+        # Subheads: parse ## / ### as heading blocks (never leave hashes in body text)
+        hm = re.match(r"^(#{2,3})\s+(.+?)\s*$", line)
+        if hm and not re.match(r"^##\s+Your Turn\s*$", line, re.I):
+            flush()
+            level = len(hm.group(1))
+            htext = clean_inline_md(hm.group(2))
+            blocks.append({"type": "h2" if level == 2 else "h3", "text": htext})
+            i += 1
+            continue
+        if not line.strip():
+            flush()
+            i += 1
+            continue
+        buf.append(line)
+        i += 1
+    flush()
+    return title, num, blocks
+
+
+class Ebook:
+    def __init__(self, pdf_path: Path, asset_dir: Path) -> None:
+        self.pdf_path = pdf_path
+        self.asset_dir = asset_dir
+        self.asset_dir.mkdir(parents=True, exist_ok=True)
+        self.c = canvas.Canvas(str(pdf_path), pagesize=(PAGE_W, PAGE_H))
+        self.physical = 0  # pages written (after showPage count via _pageNumber)
+        self.folio = 0  # arabic numbers for body
+        self.number_folios = False
+        self.running = ""
+        self.left = GUTTER
+        self.right = PAGE_W - OUTSIDE
+        self.measure = self.right - self.left
+        self.y = PAGE_H - TOP
+        self.on_recto = True
+        self.page_map: dict[str, int] = {}
+        self.cover_front = False
+        self.closer_35 = False
+        self.used_wrap_back = False
+        self.missing: list[str] = []
+        self._open = True
+
+    def _fill_bone(self) -> None:
+        self.c.setFillColorRGB(*BONE)
+        self.c.rect(0, 0, PAGE_W, PAGE_H, fill=1, stroke=0)
+
+    def _margins_for_folio(self) -> None:
+        # folio odd = recto (gutter left)
+        self.on_recto = (self.folio % 2 == 1) if self.number_folios and self.folio else True
+        if self.on_recto:
+            self.left = GUTTER
+            self.right = PAGE_W - OUTSIDE
+        else:
+            self.left = OUTSIDE
+            self.right = PAGE_W - GUTTER
+        self.measure = self.right - self.left
+
+    def _footer(self) -> None:
+        if not self.number_folios or self.folio <= 0:
+            return
+        self.c.setFillColorRGB(*INK_SOFT)
+        self.c.setFont("EBGaramond", 8)
+        s = str(self.folio)
+        if self.on_recto:
+            self.c.drawRightString(self.right, BOTTOM - 16, s)
+            self.c.setFillColorRGB(*RULE)
+            self.c.setFont("EBGaramond-Italic", 8)
+            self.c.drawString(self.left, BOTTOM - 16, no_em(self.running)[:42])
+        else:
+            self.c.drawString(self.left, BOTTOM - 16, s)
+            self.c.setFillColorRGB(*RULE)
+            self.c.setFont("EBGaramond-Italic", 8)
+            self.c.drawRightString(self.right, BOTTOM - 16, no_em(self.running)[:42])
+
+    def show(self) -> None:
+        self.c.showPage()
+        self.physical += 1
+
+    def blank_bone(self, *, number: bool = False) -> None:
+        """Start a fresh page."""
+        if self.physical > 0 or self.c._code:  # noqa: SLF001
+            # if current page has content already committed via prior ops without show,
+            # we only show when advancing from a finished page. Caller manages.
+            pass
+        self._fill_bone()
+        if number:
+            self.number_folios = True
+            self.folio += 1
+            self._margins_for_folio()
+            self._footer()
+        else:
+            self.left = GUTTER
+            self.right = PAGE_W - OUTSIDE
+            self.measure = self.right - self.left
+        self.y = PAGE_H - TOP
+
+    def advance(self, *, number: bool | None = None) -> None:
+        """Finish current page and open a new one."""
+        self.show()
+        use_number = self.number_folios if number is None else number
+        if use_number:
+            self.number_folios = True
+            self.folio += 1
+            self._fill_bone()
+            self._margins_for_folio()
+            self._footer()
+        else:
+            self._fill_bone()
+            self.left = GUTTER
+            self.right = PAGE_W - OUTSIDE
+            self.measure = self.right - self.left
+        self.y = PAGE_H - TOP
+
+    def ensure(self, h: float) -> None:
+        if self.y - h < BOTTOM + 14:
+            self.advance()
+
+    def tracked(self, text: str, x: float, y: float, font: str, size: float, color, tracking: float = 2.0) -> None:
+        self.c.setFillColorRGB(*color)
+        self.c.setFont(font, size)
+        cx = x
+        for ch in text:
+            self.c.drawString(cx, y, ch)
+            cx += self.c.stringWidth(ch, font, size) + tracking
+
+    def wrap(self, text: str, font: str, size: float, width: float) -> list[str]:
+        words = text.split()
+        lines: list[str] = []
+        cur = ""
+        for w in words:
+            trial = w if not cur else f"{cur} {w}"
+            if self.c.stringWidth(trial, font, size) <= width:
+                cur = trial
+            else:
+                if cur:
+                    lines.append(cur)
+                cur = w
+        if cur:
+            lines.append(cur)
+        return lines or [""]
+
+    def para(self, text: str, *, size=BODY_SIZE, leading=BODY_LEADING, font="EBGaramond", color=INK, indent=11.0) -> None:
+        text = clean_inline_md(text)
+        if not text:
+            return
+        words = text.split()
+        lines: list[str] = []
+        cur = ""
+        first_limit = self.measure - indent
+        for w in words:
+            trial = w if not cur else f"{cur} {w}"
+            limit = first_limit if not lines else self.measure
+            if self.c.stringWidth(trial, font, size) <= limit:
+                cur = trial
+            else:
+                if cur:
+                    lines.append(cur)
+                cur = w
+        if cur:
+            lines.append(cur)
+        for i, line in enumerate(lines):
+            self.ensure(leading)
+            x = self.left + (indent if i == 0 else 0)
+            self.c.setFillColorRGB(*color)
+            self.c.setFont(font, size)
+            self.c.drawString(x, self.y - size, line)
+            self.y -= leading
+        self.y -= leading * 0.36
+
+    def margin_block(self, cite: str, text: str) -> None:
+        pad = 8
+        cite_lines = self.wrap(cite, "Libre-Bold", 7.5, self.measure - 2 * pad) if cite else []
+        body_lines = self.wrap(text, "EBGaramond-Italic", MARGIN_SIZE, self.measure - 2 * pad)
+        h = 12 + len(cite_lines) * 10 + len(body_lines) * MARGIN_LEADING + 10
+        self.ensure(h + 6)
+        self.y -= 4
+        top = self.y
+        bottom = self.y - h
+        self.c.setStrokeColorRGB(*ACCENT)
+        self.c.setLineWidth(1.6)
+        self.c.line(self.left, bottom, self.left, top)
+        yy = top - 12
+        self.c.setFillColorRGB(*NAVY)
+        for cl in cite_lines:
+            self.c.setFont("Libre-Bold", 7.5)
+            self.c.drawString(self.left + pad, yy, cl)
+            yy -= 10
+        self.c.setFillColorRGB(*INK)
+        for bl in body_lines:
+            self.c.setFont("EBGaramond-Italic", MARGIN_SIZE)
+            self.c.drawString(self.left + pad, yy, bl)
+            yy -= MARGIN_LEADING
+        self.y = bottom - 10
+
+    def notes(self, lines: list[str]) -> None:
+        if not lines:
+            return
+        self.ensure(8 + len(lines) * 18)
+        self.c.setStrokeColorRGB(*RULE)
+        self.c.setLineWidth(0.6)
+        for _ in lines:
+            self.y -= 16
+            self.c.line(self.left, self.y, self.right, self.y)
+        self.y -= 10
+
+    def heading(self, text: str, *, level: int = 2) -> None:
+        """Styled subhead — Libre-Bold NAVY; never prints # characters."""
+        clean = clean_inline_md(text)
+        if not clean:
+            return
+        size = 11.5 if level <= 2 else 10.5
+        leading = 16 if level <= 2 else 14
+        self.y -= 10 if level <= 2 else 7
+        self.ensure(leading + 6)
+        self.c.setFillColorRGB(*NAVY)
+        self.c.setFont("Libre-Bold", size)
+        for ln in self.wrap(no_em(clean), "Libre-Bold", size, self.measure):
+            self.ensure(leading)
+            self.c.drawString(self.left, self.y - size, ln)
+            self.y -= leading
+        self.y -= 6 if level <= 2 else 4
+
+    def image(self, path: Path, max_w: float | None = None, max_h: float | None = None) -> None:
+        if not path.exists():
+            self.missing.append(path.name)
+            return
+        im = PILImage.open(path)
+        if im.mode == "RGBA":
+            bg = PILImage.new("RGB", im.size, tuple(int(x * 255) for x in BONE))
+            bg.paste(im, mask=im.split()[-1])
+            im = bg
+        else:
+            im = im.convert("RGB")
+        iw, ih = im.size
+        max_w = max_w or self.measure
+        max_h = max_h or (PAGE_H - TOP - BOTTOM - 36)
+        scale = min(max_w / iw, max_h / ih, 1.0)
+        dw, dh = iw * scale, ih * scale
+        self.ensure(dh + 14)
+        self.y -= 6
+        x = self.left + (self.measure - dw) / 2
+        tmp = self.asset_dir / f"{path.stem}-{uuid.uuid4().hex[:8]}.jpg"
+        im.save(tmp, "JPEG", quality=90)
+        self.c.drawImage(str(tmp), x, self.y - dh, width=dw, height=dh)
+        self.y -= dh + 12
+
+    # ----- pages -----
+    def page_cover_front(self) -> None:
+        src = PRESS / "cloth-store" / "cover-front-walksteadfast-locked-2026-09-14.png"
+        im = PILImage.open(src).convert("RGB")
+        target_aspect = PAGE_W / PAGE_H
+        w, h = im.size
+        aspect = w / h
+        if aspect > target_aspect:
+            nw = int(h * target_aspect)
+            left = (w - nw) // 2
+            im = im.crop((left, 0, left + nw, h))
+        else:
+            nh = int(w / target_aspect)
+            top = (h - nh) // 2
+            im = im.crop((0, top, w, top + nh))
+        tmp = self.asset_dir / "cover-front.jpg"
+        im.save(tmp, "JPEG", quality=92)
+        self.c.setFillColorRGB(*NAVY)
+        self.c.rect(0, 0, PAGE_W, PAGE_H, fill=1, stroke=0)
+        self.c.drawImage(str(tmp), 0, 0, width=PAGE_W, height=PAGE_H)
+        self.cover_front = True
+        self.show()
+        self.physical = max(self.physical, 1)
+
+    def page_title(self) -> None:
+        self._fill_bone()
+        cx = PAGE_W / 2
+        y = PAGE_H - 2.5 * inch
+        self.c.setFillColorRGB(*NAVY)
+        self.c.setFont("Playfair-Bold", 32)
+        self.c.drawCentredString(cx, y, no_em("Steadfast Men"))
+        y -= 34
+        self.c.setStrokeColorRGB(*ACCENT)
+        self.c.setLineWidth(1)
+        self.c.line(cx - 36, y, cx + 36, y)
+        y -= 28
+        self.c.setFillColorRGB(*INK_SOFT)
+        self.c.setFont("EBGaramond-Italic", 13)
+        self.c.drawCentredString(cx, y, no_em("The way of Godly Men"))
+        y -= 52
+        self.c.setFillColorRGB(*NAVY)
+        self.c.setFont("Libre-Medium", 11)
+        self.c.drawCentredString(cx, y, no_em("Wes Hart"))
+        self.c.setFillColorRGB(*INK_SOFT)
+        self.c.setFont("EBGaramond", 9)
+        self.c.drawCentredString(cx, 1.25 * inch, no_em("walksteadfast.com"))
+        self.c.drawCentredString(cx, 1.0 * inch, no_em("Review draft. Not for distribution."))
+        self.show()
+
+    def page_copyright(self) -> None:
+        self._fill_bone()
+        y = PAGE_H - 2.2 * inch
+        self.c.setFillColorRGB(*INK)
+        for line in [
+            "Steadfast Men",
+            "The way of Godly Men",
+            "",
+            "Wes Hart",
+            "",
+            "Review draft for private review only.",
+            "Not for sale or public distribution.",
+            "",
+            "Scripture quotations marked NIV are from",
+            "The Holy Bible, New International Version.",
+            "NIV text appears word-for-word from the source pages.",
+            "",
+            "Original work. Cloth Store look.",
+        ]:
+            self.c.setFont("EBGaramond", 9)
+            self.c.drawString(GUTTER, y, no_em(line))
+            y -= 13
+        self.show()
+
+    def page_dedication(self) -> None:
+        text = (BOOK / "00-dedication.md").read_text(encoding="utf-8")
+        body = re.sub(r"^#\s+Dedication\s*\n+", "", text).strip()
+        parts = [p.strip() for p in re.split(r"\n\s*\n", body) if p.strip()]
+        self._fill_bone()
+        self.left = GUTTER
+        self.right = PAGE_W - OUTSIDE
+        self.measure = self.right - self.left
+        self.y = PAGE_H - 2.6 * inch
+        self.tracked("DEDICATION", self.left + self.measure / 2 - 42, self.y, "Libre-Medium", 8, ACCENT, 2.2)
+        self.y -= 36
+        for para in parts:
+            if para == "Dad":
+                self.y -= 16
+                self.c.setFillColorRGB(*INK)
+                self.c.setFont("EBGaramond-Italic", 12)
+                self.c.drawString(self.left, self.y, para)
+                continue
+            self.para(para, indent=0)
+        self.show()
+
+    def page_contents(self, page_map: dict[str, int]) -> None:
+        raw = (BOOK / "00-contents.md").read_text(encoding="utf-8")
+        # Dedication just called show(); canvas is already on a fresh blank page.
+        self.running = "Contents"
+        self.number_folios = True
+        self.folio = 1
+        self._fill_bone()
+        self._margins_for_folio()
+        self._footer()
+        self.y = PAGE_H - TOP
+        self.page_map["Contents"] = self.folio
+
+        self.c.setFillColorRGB(*NAVY)
+        self.c.setFont("Playfair-Bold", 22)
+        self.c.drawString(self.left, self.y - 22, no_em("Contents"))
+        self.y -= 38
+        self.c.setFillColorRGB(*ACCENT)
+        self.c.rect(self.left, self.y, 42, 2, fill=1, stroke=0)
+        self.y -= 20
+
+        expect_part_subtitle = False
+        part_subtitles = {no_em(sub) for _lab, sub in PARTS.values()}
+        for line in raw.splitlines():
+            line = line.rstrip()
+            if not line or line.startswith("# "):
+                continue
+            # Atomic Habits / Extreme Ownership PART bands — never markdown ##
+            if re.match(r"^PART\s+(ONE|TWO|THREE|FOUR|FIVE|I{1,3}|IV|V|\d+)\b", line, re.I):
+                self.ensure(40)
+                self.y -= 16
+                self.c.setFillColorRGB(*NAVY)
+                self.c.setFont("Libre-Bold", 10.5)
+                self.c.drawString(self.left, self.y - 11, no_em(line.strip()).upper())
+                self.y -= 16
+                expect_part_subtitle = True
+                continue
+            label = no_em(line.strip()).strip("*").strip()
+            if expect_part_subtitle or label in part_subtitles:
+                expect_part_subtitle = False
+                self.ensure(18)
+                self.c.setFillColorRGB(*NAVY)
+                self.c.setFont("Libre-Medium", 9)
+                self.c.drawString(self.left, self.y - 10, label)
+                self.y -= 18
+                continue
+            if label.startswith("Every chapter ends"):
+                self.ensure(28)
+                self.y -= 8
+                self.c.setFillColorRGB(*INK_SOFT)
+                self.c.setFont("EBGaramond-Italic", 9)
+                for wrap_ln in self.wrap(label, "EBGaramond-Italic", 9, self.measure):
+                    self.c.drawString(self.left, self.y - 10, wrap_ln)
+                    self.y -= 12
+                continue
+            self.ensure(15)
+            folio = None
+            if label in page_map:
+                folio = page_map[label]
+            else:
+                m = re.match(r"^(\d+)\.\s+(.*)$", label)
+                if m:
+                    folio = page_map.get(m.group(1)) or page_map.get(m.group(2).strip()) or page_map.get(label)
+                elif label == "Introduction":
+                    folio = page_map.get("Introduction")
+                elif label == "Dedication":
+                    folio = None
+                elif label == "Contents":
+                    folio = 1
+            self.c.setFillColorRGB(*INK)
+            self.c.setFont("EBGaramond", 10)
+            self.c.drawString(self.left, self.y - 10, label)
+            if folio:
+                fs = str(folio)
+                self.c.drawRightString(self.right, self.y - 10, fs)
+                lw = self.c.stringWidth(label, "EBGaramond", 10)
+                rw = self.c.stringWidth(fs, "EBGaramond", 10)
+                x = self.left + lw + 6
+                end = self.right - rw - 6
+                self.c.setFillColorRGB(*RULE)
+                self.c.setFont("EBGaramond", 7)
+                while x < end:
+                    self.c.drawString(x, self.y - 10, ".")
+                    x += 3.5
+            self.y -= 14.5
+
+    def page_intro(self) -> None:
+        title, num, blocks = parse_md(BOOK / "00-introduction.md")
+        self.advance()
+        if not self.on_recto:
+            self.advance()
+        self.running = "Introduction"
+        self.page_map["Introduction"] = self.folio
+        self.tracked("INTRODUCTION", self.left, self.y - 8, "Libre-Bold", 8, ACCENT, 2.4)
+        self.y -= 28
+        self.c.setFillColorRGB(*NAVY)
+        self.c.setFont("Playfair-Bold", TITLE_SIZE)
+        self.c.drawString(self.left, self.y - TITLE_SIZE, no_em("Introduction"))
+        self.y -= TITLE_SIZE + 8
+        self.c.setFillColorRGB(*ACCENT)
+        self.c.rect(self.left, self.y, 42, 2.2, fill=1, stroke=0)
+        self.y -= 18
+        for block in blocks:
+            if block["type"] == "margin":
+                self.margin_block(block["cite"], block["text"])
+            elif block["type"] == "h2":
+                self.heading(block["text"], level=2)
+            elif block["type"] == "h3":
+                self.heading(block["text"], level=3)
+            elif block["type"] == "p":
+                self.para(block["text"])
+            elif block["type"] == "notes":
+                self.notes(block["lines"])
+
+
+    def page_section(self, label: str, filename: str) -> None:
+        """Back-matter section (About / Condensed) — intro-style opener, no CHAPTER N."""
+        title, _num, blocks = parse_md(BOOK / filename)
+        self.advance()
+        if not self.on_recto:
+            self.advance()
+        self.running = title
+        self.page_map[title] = self.folio
+        self.tracked(label.upper(), self.left, self.y - 8, "Libre-Bold", 8, ACCENT, 2.4)
+        self.y -= 28
+        self.c.setFillColorRGB(*NAVY)
+        self.c.setFont("Playfair-Bold", TITLE_SIZE)
+        self.c.drawString(self.left, self.y - TITLE_SIZE, no_em(title))
+        self.y -= TITLE_SIZE + 8
+        self.c.setFillColorRGB(*ACCENT)
+        self.c.rect(self.left, self.y, 42, 2.2, fill=1, stroke=0)
+        self.y -= 18
+        for block in blocks:
+            if block["type"] == "h2":
+                self.heading(block["text"], level=2)
+                continue
+            if block["type"] == "h3":
+                self.heading(block["text"], level=3)
+                continue
+            if block["type"] != "p":
+                continue
+            raw = block["text"]
+            clean = clean_inline_md(raw.replace("&nbsp;", ""))
+            if not clean:
+                continue
+            # numbered / bullet lines: keep as paragraphs with less indent
+            if re.match(r"^(\d+\.|[-*])\s+", clean):
+                self.para(clean, indent=0, size=10, leading=13)
+            else:
+                self.para(clean)
+
+    def part_page(self, label: str, subtitle: str) -> None:
+        self.advance()
+        if not self.on_recto:
+            self.advance()
+        self.running = label
+        cx = (self.left + self.right) / 2
+        self.y = PAGE_H / 2 + 36
+        self.c.setFillColorRGB(*ACCENT)
+        self.c.setFont("Libre-Medium", 9)
+        self.c.drawCentredString(cx, self.y, no_em(label.upper()))
+        self.y -= 28
+        self.c.setFillColorRGB(*NAVY)
+        self.c.setFont("Playfair-Bold", 22)
+        for ln in self.wrap(no_em(subtitle), "Playfair-Bold", 22, self.measure - 24):
+            self.c.drawCentredString(cx, self.y, ln)
+            self.y -= 28
+        self.c.setStrokeColorRGB(*ACCENT)
+        self.c.setLineWidth(1)
+        self.c.line(cx - 28, self.y, cx + 28, self.y)
+
+    def chapter_open(self, num: int, title: str) -> None:
+        self.advance()
+        if not self.on_recto:
+            self.advance()
+        self.running = title
+        self.page_map[f"{num}. {title}"] = self.folio
+        self.page_map[str(num)] = self.folio
+        self.page_map[title] = self.folio
+        mark = ART / "opener-mark.png"
+        if mark.exists():
+            im = PILImage.open(mark).convert("RGBA")
+            tw = 0.42 * inch
+            scale = tw / im.size[0]
+            dw, dh = im.size[0] * scale, im.size[1] * scale
+            bg = PILImage.new("RGB", im.size, tuple(int(x * 255) for x in BONE))
+            bg.paste(im, mask=im.split()[-1])
+            tmp = self.asset_dir / "opener-mark.jpg"
+            bg.save(tmp, "JPEG", quality=95)
+            self.c.drawImage(str(tmp), self.left, self.y - dh, width=dw, height=dh)
+            self.y -= dh + 10
+        else:
+            self.missing.append("opener-mark.png")
+        self.tracked(no_em(f"CHAPTER {num}"), self.left, self.y - 8, "Libre-Bold", 8, ACCENT, 2.4)
+        self.y -= 26
+        self.c.setFillColorRGB(*NAVY)
+        self.c.setFont("Playfair-Bold", TITLE_SIZE)
+        for ln in self.wrap(no_em(title), "Playfair-Bold", TITLE_SIZE, self.measure):
+            self.ensure(TITLE_SIZE + 6)
+            self.c.drawString(self.left, self.y - TITLE_SIZE, ln)
+            self.y -= TITLE_SIZE + 4
+        self.y -= 4
+        self.c.setFillColorRGB(*ACCENT)
+        self.c.rect(self.left, self.y, 42, 2.2, fill=1, stroke=0)
+        self.y -= 18
+
+    def closer_art(self, num: int) -> None:
+        path = ART / f"{num:02d}-closer-box.png"
+        if not path.exists():
+            self.missing.append(path.name)
+            return
+        if self.y < PAGE_H - TOP - 100:
+            self.advance()
+        self.image(path, max_w=self.measure, max_h=PAGE_H - TOP - BOTTOM - 24)
+        if num == 35:
+            self.closer_35 = True
+
+    def closer_text(self, lines: list[str]) -> None:
+        self.ensure(100)
+        self.y -= 8
+        start_y = self.y
+        rail = self.left
+        saved_left, saved_m = self.left, self.measure
+        self.left = saved_left + 10
+        self.measure = saved_m - 14
+        self.c.setFillColorRGB(*ACCENT)
+        self.c.setFont("Libre-Bold", 9.5)
+        self.c.drawString(self.left, self.y - 9, no_em("YOUR TURN"))
+        self.y -= 18
+        self.c.setStrokeColorRGB(*ACCENT)
+        self.c.setLineWidth(0.8)
+        self.c.line(self.left, self.y, self.left + 36, self.y)
+        self.y -= 12
+
+        i = 0
+        buf: list[str] = []
+        while i < len(lines):
+            ln = lines[i]
+            if ln.startswith(":::notes"):
+                if buf:
+                    self._closer_para(" ".join(buf))
+                    buf = []
+                i += 1
+                nls = []
+                while i < len(lines) and not lines[i].startswith(":::"):
+                    if lines[i].strip():
+                        nls.append(lines[i].strip())
+                    i += 1
+                i += 1
+                if nls:
+                    self.notes(nls)
+                continue
+            if not ln.strip():
+                if buf:
+                    self._closer_para(" ".join(buf))
+                    buf = []
+                i += 1
+                continue
+            buf.append(ln.strip())
+            i += 1
+        if buf:
+            self._closer_para(" ".join(buf))
+
+        end_y = self.y - 4
+        self.left, self.measure = saved_left, saved_m
+        self.c.setStrokeColorRGB(*NAVY)
+        self.c.setLineWidth(1.5)
+        self.c.line(rail, end_y, rail, start_y)
+        self.c.setStrokeColorRGB(*ACCENT)
+        self.c.setLineWidth(0.8)
+        self.c.line(self.left, end_y - 2, self.left + 36, end_y - 2)
+        self.y = end_y - 10
+        
+    def _closer_para(self, p: str) -> None:
+        clean = p.replace("**", "").strip()
+        if re.match(r"^##\s+Your Turn", clean, re.I) or clean in ("---", "—", "-"):
+            return
+        for label in ("Name it", "Do this week", "Tell a brother", "Carry this"):
+            # label alone, or "Name it." / "Name it: rest"
+            if clean == label or clean.startswith(label + ".") or clean.startswith(label + ":"):
+                self.ensure(BODY_LEADING * 2)
+                self.c.setFillColorRGB(*NAVY)
+                self.c.setFont("Libre-Bold", 9)
+                self.c.drawString(self.left, self.y - 9, no_em(label.upper()))
+                self.y -= 13
+                rest = clean[len(label) :].lstrip(".: ").strip()
+                if rest:
+                    self.para(rest, indent=0, size=10, leading=13)
+                return
+            if clean.startswith(label + " "):
+                self.ensure(BODY_LEADING * 2)
+                self.c.setFillColorRGB(*NAVY)
+                self.c.setFont("Libre-Bold", 9)
+                self.c.drawString(self.left, self.y - 9, no_em(label.upper()))
+                self.y -= 13
+                rest = clean[len(label) :].strip()
+                if rest:
+                    self.para(rest, indent=0, size=10, leading=13)
+                return
+        self.para(clean, indent=0, size=10, leading=13, font="EBGaramond-Italic", color=INK_SOFT)
+
+    def render_chapter_blocks(self, num: int, blocks: list[dict]) -> None:
+        fig = FIGURES.get(num)
+        fig_done = False
+        for block in blocks:
+            if block["type"] == "closer":
+                if num == 34 and fig and not fig_done:
+                    self.image(fig, max_w=self.measure, max_h=PAGE_H - TOP - BOTTOM - 40)
+                    fig_done = True
+                if num in CLOSER_ART:
+                    self.closer_art(num)
+                else:
+                    self.closer_text(block["lines"])
+                continue
+            if block["type"] == "margin":
+                self.margin_block(block["cite"], block["text"])
+                continue
+            if block["type"] == "notes":
+                self.notes(block["lines"])
+                continue
+            if block["type"] == "h2":
+                self.heading(block["text"], level=2)
+                continue
+            if block["type"] == "h3":
+                self.heading(block["text"], level=3)
+                continue
+            if block["type"] == "p":
+                self.para(block["text"])
+                if (
+                    num == 3
+                    and fig
+                    and not fig_done
+                    and "Passivity. Responsibility. Courage. Reward." in block["text"]
+                ):
+                    self.image(fig, max_w=min(self.measure, 3.1 * inch), max_h=3.3 * inch)
+                    fig_done = True
+        if fig and not fig_done and num == 3:
+            self.image(fig, max_w=min(self.measure, 3.1 * inch), max_h=3.3 * inch)
+
+    def page_back(self) -> None:
+        self.show()  # finish last chapter page
+        # Prefer signed back panel from a-wrap.png (back | spine | front).
+        # Front cover: walksteadfast.com locked Wes Hart hardcover (2026-09-14).
+        wrap_path = PRESS / "a-wrap.png"
+        used_wrap = False
+        if wrap_path.exists():
+            wrap = PILImage.open(wrap_path).convert("RGB")
+            DPI = 300
+            trim_w, trim_h = 6 * DPI, 9 * DPI
+            bleed_l, bleed_t = 38, 38
+            back = wrap.crop((bleed_l, bleed_t, bleed_l + trim_w, bleed_t + trim_h))
+            # Fit 1800x2700 into 6x9 page (exact aspect)
+            tmp = self.asset_dir / "cover-back-from-wrap.jpg"
+            back.save(tmp, "JPEG", quality=92)
+            self.c.setFillColorRGB(*NAVY)
+            self.c.rect(0, 0, PAGE_W, PAGE_H, fill=1, stroke=0)
+            self.c.drawImage(str(tmp), 0, 0, width=PAGE_W, height=PAGE_H)
+            used_wrap = True
+            self.used_wrap_back = True
+        if not used_wrap:
+            self.c.setFillColorRGB(*NAVY)
+            self.c.rect(0, 0, PAGE_W, PAGE_H, fill=1, stroke=0)
+            cx = PAGE_W / 2
+            y = PAGE_H - 2.3 * inch
+            self.c.setFillColorRGB(*GOLD)
+            self.c.setFont("Playfair-Bold", 28)
+            self.c.drawCentredString(cx, y, no_em("STEADFAST"))
+            y -= 34
+            self.c.drawCentredString(cx, y, no_em("MEN"))
+            y -= 26
+            self.c.setStrokeColorRGB(*GOLD)
+            self.c.setLineWidth(0.7)
+            self.c.line(cx - 40, y, cx + 40, y)
+            y -= 26
+            self.c.setFillColorRGB(*BONE)
+            self.c.setFont("EBGaramond-Italic", 12)
+            self.c.drawCentredString(cx, y, no_em("The way of Godly Men"))
+            y -= 48
+            self.c.setFillColorRGB(*GOLD)
+            self.c.setFont("Libre-Medium", 11)
+            self.c.drawCentredString(cx, y, no_em("WES HART"))
+            self.c.setFillColorRGB(*GOLD)
+            self.c.setFont("Libre", 10)
+            self.c.drawCentredString(cx, 1.1 * inch, no_em("walksteadfast.com"))
+
+    def save(self) -> None:
+        self.c.save()
+        self._open = False
+
+
+def render_book(pdf_path: Path, asset_dir: Path, page_map_in: dict[str, int] | None) -> Ebook:
+    book = Ebook(pdf_path, asset_dir)
+    book.page_cover_front()
+    book.page_title()
+    book.page_copyright()
+    book.page_dedication()
+    # After dedication.show(), reportlab already opened a fresh blank page.
+    # page_contents draws onto that blank page.
+    book.page_contents(page_map_in or {})
+    book.page_intro()
+    for fname in CHAPTER_FILES:
+        title, num, blocks = parse_md(BOOK / fname)
+        if num in PARTS:
+            pl, pt = PARTS[num]
+            book.part_page(pl, pt)
+        book.chapter_open(num, title)
+        book.render_chapter_blocks(num, blocks)
+    book.page_section("About the Author", "36-about-the-author.md")
+    book.page_section("Condensed Training", "37-condensed-training.md")
+    book.page_back()
+    book.save()
+    return book
+
+
+def main() -> None:
+    register_fonts()
+    BUILD.mkdir(parents=True, exist_ok=True)
+    run_id = uuid.uuid4().hex[:10]
+    run_dir = BUILD / f"run-{run_id}"
+    run_dir.mkdir(parents=True, exist_ok=True)
+
+    probe_pdf = run_dir / "probe.pdf"
+    probe_assets = run_dir / "probe-assets"
+    print(f"probe -> {probe_pdf}")
+    probe = render_book(probe_pdf, probe_assets, page_map_in={})
+    page_map = dict(probe.page_map)
+    (run_dir / "page_map.json").write_text(json.dumps(page_map, indent=2), encoding="utf-8")
+    print(f"probe pages physical~ folio_end={probe.folio} map_keys={len(page_map)}")
+
+    final_pdf = run_dir / "steadfast-men-ebook.pdf"
+    final_assets = run_dir / "final-assets"
+    print(f"final -> {final_pdf}")
+    final = render_book(final_pdf, final_assets, page_map_in=page_map)
+
+    OUT.parent.mkdir(parents=True, exist_ok=True)
+    shutil.copy2(final_pdf, OUT)
+
+    # compact missing notes
+    no_closer = sorted(set(range(1, 36)) - CLOSER_ART)
+    missing = [
+        f"closer-box skipped (typeset): ch {', '.join(map(str, no_closer))}",
+        "no two-Adams figure (ch 19) - not on disk",
+    ]
+
+    report = {
+        "path": str(OUT),
+        "folio_end": final.folio,
+        "cover_front": final.cover_front,
+        "closer_35": final.closer_35,
+        "wrap_back": final.used_wrap_back,
+        "missing_art": missing,
+        "run_dir": str(run_dir),
+    }
+    (run_dir / "report.json").write_text(json.dumps(report, indent=2), encoding="utf-8")
+    print("REPORT", json.dumps(report))
+
+
+if __name__ == "__main__":
+    main()

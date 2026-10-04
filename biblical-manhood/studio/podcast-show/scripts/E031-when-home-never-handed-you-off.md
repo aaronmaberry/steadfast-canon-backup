@@ -6,7 +6,7 @@ Walk Steadfast · main episode · script v1 (batch 4). Internal.
 |---|---|
 | Release | Tue Apr 20, 2027, 5:00 AM CT |
 | Format | Main episode. About 26 min. |
-| Slate | WES "Walk Steadfast, episode thirty-one." JONATHON "Tuesday, April twentieth, twenty twenty-seven." WES "When Home Never Handed You Off." |
+| Intro and slate | Per-episode open, Wes leads (SHOW-BIBLE section 5, open system v3, text in _build/intros_data.py). Slate: WES "Episode thirty-one. When Home Never Handed You Off." |
 | Source | Book chapter 11, When Home Never Handed You Off. Training W11 (T plug). Avoided on purpose. From the book: the creek and county line; Nate, the wrench, "should've used a longer screw" and the utility sink; the four pieces (a man, a word, a weight, a welcome) as a list; the counterfeits list; "orbit" as a word; David and Solomon; Paul's hands on Timothy; the date written in your Bible; "Nobody ever told me I was a man. Would you?"; Jacob's stolen blessing, the new name and the limp as teaching. From W11: the silver pickup; the time zone; Ernie's motorcycle; Garrett's annual letter and Harvey's jumper cables; Grady's graduation toast and the mailbox ask; "she could get him as far as the dock"; the paint color; lunch on her birthday and mowing her yard; Sunday dinner as a hiding place; "advice is wisdom, permission is the orbit"; "nobody hands himself off." Jacob's line appears once, as something Jonathon noticed next to his father's "I'll let you go," with no teaching attached. The show's angle: who counted you in (a mother in a driveway, or nobody, or "kid"), Luke 2:49 read with verse 51 (he goes home and is a good son, and Mary keeps it), and the difference between being your mother's guy and being her son. |
 | Focus mark | **Pick Up the Weight**, named in Pull up a chair and in The AC man |
 | Scripture (NIV) | Luke 2:49 (checked 2026-10-03), read by Jonathon. The only card. Verse 51 is paraphrased, not carded. |
@@ -25,16 +25,11 @@ Walk Steadfast · main episode · script v1 (batch 4). Internal.
 
 ## Thumbnail
 
-Wes with one hand on the roof of an old sedan, a laundry basket in the back seat (still image, AI composite). Text: **"YOU'RE A MAN NOW."** Variant: Jonathon looking over the top of a laptop screen, deadpan. Text: **"NOT BAD, KID."**
+Wes with one hand on the roof of an old sedan, a laundry basket in the back seat (still image). Text: **"YOU'RE A MAN NOW."** Variant: Jonathon looking over the top of a laptop screen, deadpan. Text: **"NOT BAD, KID."**
 
 ## Script
 
 [CAM: WIDE]
-
-[CHAPTER: Slate]
-WES: Walk Steadfast, episode thirty-one.
-JONATHON: Tuesday, April twentieth, twenty twenty-seven.
-WES: When Home Never Handed You Off.
 
 [CHAPTER: Cold open]
 [CAM: WES MS]
@@ -45,12 +40,21 @@ JONATHON: Your dad?
 WES: My mom. In the driveway. My dad was in the barn. (beat) He wasn't going to say it, and she knew it.
 [STING 3s]
 
+[CHAPTER: Intro]
+[CAM: 2S]
+(Walk Steadfast open written for E031. Same beats every week, new words. SHOW-BIBLE section 5.)
+WES: This is Walk Steadfast. I'm Wes Hart. Where I grew up, men didn't say much.
+[LOWER THIRD: Wes Hart]
+JONATHON: I'm Jonathon. My mom still calls me when the AC breaks.
+[LOWER THIRD: Jonathon]
+WES: Tuesdays, following Jesus as a man. There's a book and a video training too, at walksteadfast.com.
+JONATHON: Today Wes asks who told you that you were a man.
+WES: Episode thirty-one. When Home Never Handed You Off.
+
 [CHAPTER: Pull up a chair]
 [CAM: WIDE]
 WES: Pull up a chair.
-[LOWER THIRD: Wes Hart]
 JONATHON: Twelve to three.
-[LOWER THIRD: Jonathon]
 WES: Oh no.
 JONATHON: Twelve to three. The stat's ruined. "A combined three runs" is gone forever. We are now four games, combined, I don't want to do the math. They had a girl who throws like she's mad at the ball. Their coach pitched to her, and she hit it so hard our third baseman just stepped out of the way. Which, honestly, I respected. She made a good decision.
 (both laugh)
@@ -270,6 +274,11 @@ JONATHON: I've got a capacitor to not fix. Go walk it out.
 WES: See you at the table.
 (Wes slides his coffee mug across the table an inch toward Jonathon, then pulls it back. Jonathon shakes his head, smiling. Hold WIDE 2s. Cut.)
 
+[CLOSING MUSIC 3s]
+[CREDITS]
+(Wes, normal credits volume, read like a producer credit. No gap, no ducking. SHOW-BIBLE section 13.)
+WES: Produced with AI voice and video tools.
+
 ## Shorts (5)
 
 | # | Cut | Hook | Length |
@@ -289,16 +298,17 @@ In Luke 2:49, twelve-year-old Jesus already knows whose house he belongs to. The
 
 Chapters
 00:00 Cold open
-00:27 Pull up a chair
-02:41 The laundry basket
-05:39 Kid
-08:32 The Word
-12:35 The AC man
-16:38 Pushback
-19:53 The name
-23:16 This week's challenge
-25:02 Carry this
-25:20 Outro
+00:20 Intro
+00:54 Pull up a chair
+03:08 The laundry basket
+06:06 Kid
+08:59 The Word
+13:02 The AC man
+17:05 Pushback
+20:20 The name
+23:43 This week's challenge
+25:29 Carry this
+25:46 Outro
 
 Scripture: Luke 2:49 (NIV)
 
@@ -315,8 +325,6 @@ Facebook  facebook.com/steadfastwalk
 TikTok  tiktok.com/@steadfastwalk
 Reddit  reddit.com/user/steadfastwalk
 LinkedIn  linkedin.com/company/steadfastwalk
-
-Walk Steadfast is made with AI-generated video and voices. Wes and Jonathon are characters, and their stories are composites drawn from real men's lives.
 
 Scripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.™ Used by permission. All rights reserved worldwide.
 

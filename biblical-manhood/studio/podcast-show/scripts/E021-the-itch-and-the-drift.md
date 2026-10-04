@@ -6,7 +6,7 @@ Walk Steadfast · main episode · script v1 (batch 3). Internal.
 |---|---|
 | Release | Tue Mar 16, 2027, 5:00 AM CT |
 | Format | Main episode. About 27 min. |
-| Slate | WES "Walk Steadfast, episode twenty-one." JONATHON "Tuesday, March sixteenth, twenty twenty-seven." WES "The Itch and the Drift." |
+| Intro and slate | Per-episode open, Wes leads (SHOW-BIBLE section 5, open system v3, text in _build/intros_data.py). Slate: JONATHON "Episode twenty-one. The Itch and the Drift." |
 | Source | Book chapter 9, Anger, the Itch, and the Drift (part 2: the itch and the drift). Training W09. Avoided on purpose: the book's locked bathroom door and screen, "Nobody puts two in the morning on his calendar," James 1:14-15, Joseph's cloak, Ecclesiastes 10:18 and the sagging rafters, "the itch gets smaller in a man who is known," and the three-exits lecture. W09's sixty-two-year-old and his video game, the phone filter set up in a parking lot, the buddy's "How you doing, really?" text, and supper "like a man waiting on a bus." The phone charger is held for E022's tool (and book chapter 19 uses the charger image). |
 | Focus mark | **Stop Waiting**, named in Pull up a chair and again in Carry this |
 | Scripture (NIV) | Proverbs 4:23 (checked 2026-10-03), read by Wes. Ephesians 4:26-27 called back from E019 (the foothold), not re-carded. |
@@ -32,11 +32,6 @@ Jonathon looking at a phone screen in the dark, lit only by the phone. Text: **"
 
 [CAM: WIDE]
 
-[CHAPTER: Slate]
-WES: Walk Steadfast, episode twenty-one.
-JONATHON: Tuesday, March sixteenth, twenty twenty-seven.
-WES: The Itch and the Drift.
-
 [CHAPTER: Cold open]
 [CAM: JON MS]
 JONATHON: My nephew texted me at one-fourteen in the morning. Three words. "how do you stop."
@@ -46,12 +41,22 @@ WES: Stop what?
 JONATHON: (beat) He didn't say. He didn't have to.
 [STING 3s]
 
+[CHAPTER: Intro]
+[CAM: 2S]
+(Walk Steadfast open written for E021. Same beats every week, new words. SHOW-BIBLE section 5.)
+WES: This is Walk Steadfast. I'm Wes Hart. At thirty I needed this conversation.
+[LOWER THIRD: Wes Hart]
+JONATHON: I'm Jonathon, and I'm on my phone too much.
+[LOWER THIRD: Jonathon]
+WES: We talk straight about following Jesus as a man, the dark parts too.
+JONATHON: The Steadfast book and the video training, both on walksteadfast.com.
+WES: Today we name how a man drifts.
+JONATHON: Episode twenty-one. The Itch and the Drift.
+
 [CHAPTER: Pull up a chair]
 [CAM: WIDE]
 WES: Pull up a chair.
-[LOWER THIRD: Wes Hart]
 JONATHON: Does the gutter have a slope?
-[LOWER THIRD: Jonathon]
 WES: The gutter has a slope. Saturday. My son-in-law, the level, a quarter inch for every ten feet. He looked it up.
 JONATHON: And when it rained?
 WES: It hasn't rained.
@@ -293,6 +298,11 @@ JONATHON: First game Saturday. We're going to win one. See you at the table.
 WES: Go walk it out.
 (Wes picks up his phone, opens the radar, looks at it, and turns the screen to Jonathon: clear skies. He puts it face-down. Hold WIDE 2s. Cut.)
 
+[CLOSING MUSIC 3s]
+[CREDITS]
+(Wes, normal credits volume, read like a producer credit. No gap, no ducking. SHOW-BIBLE section 13.)
+WES: Produced with AI voice and video tools.
+
 ## Shorts (5)
 
 | # | Cut | Hook | Length |
@@ -312,15 +322,16 @@ Last week was anger. This week is the other two places a man goes when he's hurt
 
 Chapters
 00:00 Cold open
-00:20 Pull up a chair
-02:22 One-fourteen
-06:25 The fog again
-10:18 The Word
-14:35 Pushback
-19:29 What I actually did
-22:24 This week's challenge
-24:23 Carry this
-24:50 Outro
+00:13 Intro
+00:49 Pull up a chair
+02:51 One-fourteen
+06:54 The fog again
+10:47 The Word
+15:04 Pushback
+19:58 What I actually did
+22:53 This week's challenge
+24:52 Carry this
+25:19 Outro
 
 Scripture: Proverbs 4:23 (NIV)
 
@@ -337,8 +348,6 @@ Facebook  facebook.com/steadfastwalk
 TikTok  tiktok.com/@steadfastwalk
 Reddit  reddit.com/user/steadfastwalk
 LinkedIn  linkedin.com/company/steadfastwalk
-
-Walk Steadfast is made with AI-generated video and voices. Wes and Jonathon are characters, and their stories are composites drawn from real men's lives.
 
 Scripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.™ Used by permission. All rights reserved worldwide.
 

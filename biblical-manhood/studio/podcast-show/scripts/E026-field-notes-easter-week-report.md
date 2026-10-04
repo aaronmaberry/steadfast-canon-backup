@@ -6,7 +6,7 @@ Walk Steadfast · Field Notes · script v1 (batch 4). Internal.
 |---|---|
 | Release | Fri Apr 2, 2027, 5:00 AM CT |
 | Format | Field Notes. About 15 min. |
-| Slate | JONATHON "Episode twenty-six. Friday, April second." WES "Field Notes. Easter Week Report." |
+| Intro and slate | Per-episode open, Jonathon leads (SHOW-BIBLE section 5, open system v3, text in _build/intros_data.py). Slate: JONATHON "Episode twenty-six." WES "Field Notes. Easter Week Report." |
 | Checks | E025 challenge: name whose "well done" you work for; Matthew 3:17 every morning before the phone; say "I'm glad you're mine" with no receipt. Plus Wes's brother call (Tue Mar 30). Single check: the nephew (at Easter lunch). |
 | From the Table | "Does it matter if I don't feel it?" |
 | Tool on the Table | The Saturday morning walk |
@@ -31,10 +31,6 @@ Wes holding up his phone with a calendar entry, "Call about Mom," checked off. T
 
 [CAM: WIDE]
 
-[CHAPTER: Slate]
-JONATHON: Episode twenty-six. Friday, April second.
-WES: Field Notes. Easter Week Report.
-
 [CHAPTER: Cold open]
 [CAM: WES MS]
 WES: My wife told me not to call my brother.
@@ -44,12 +40,22 @@ JONATHON: Did you?
 WES: Hour and four minutes. And she said I could tell you she was wrong.
 [STING 3s]
 
+[CHAPTER: Intro]
+[CAM: 2S]
+(Walk Steadfast open written for E026. Same beats every week, new words. SHOW-BIBLE section 5.)
+JONATHON: This is Walk Steadfast. I'm Jonathon, dad of two in San Antonio.
+[LOWER THIRD: Jonathon]
+WES: I'm Wes Hart. I'm the middle of three brothers.
+[LOWER THIRD: Wes Hart]
+JONATHON: Friday we report. The book and the video training that go with this table are at walksteadfast.com.
+WES: Today a man who reads the verse and feels nothing gets an answer.
+JONATHON: Episode twenty-six.
+WES: Field Notes. Easter Week Report.
+
 [CHAPTER: Check the box]
 [CAM: WIDE]
 JONATHON: Pull up a chair. It's Field Notes. And we're starting with the call, because I've been thinking about your brother in that welding mask all week.
-[LOWER THIRD: Jonathon]
 WES: So have I.
-[LOWER THIRD: Wes Hart]
 [CAM: WES MS]
 WES: So Tuesday, about five, I'm getting ready to call. And my wife comes in the kitchen and says, "Let him bring it up. He's the oldest. If you push, he'll dig in." And she's known him thirty years. She's not wrong about him digging in.
 JONATHON: But.
@@ -180,6 +186,11 @@ WES: See you at the table.
 JONATHON: Go walk it out.
 (Wes holds up his hand across the desk. Jonathon looks at it. "Shake," Wes says, without sound. They shake. Hold WIDE 2s. Cut.)
 
+[CLOSING MUSIC 3s]
+[CREDITS]
+(Wes, normal credits volume, read like a producer credit. No gap, no ducking. SHOW-BIBLE section 13.)
+WES: Produced with AI voice and video tools.
+
 ## Shorts (4)
 
 | # | Cut | Hook | Length |
@@ -198,11 +209,12 @@ Field Notes, the Friday check-in from Walk Steadfast. Also: three mornings with 
 
 Chapters
 00:00 Cold open
-00:19 Check the box
-06:52 From the table
-10:08 Tool on the table
-13:05 Carry this
-13:18 Outro
+00:15 Intro
+00:47 Check the box
+07:19 From the table
+10:35 Tool on the table
+13:32 Carry this
+13:46 Outro
 
 Scripture: Mark 9:24 (NIV)
 
@@ -217,8 +229,6 @@ Facebook  facebook.com/steadfastwalk
 TikTok  tiktok.com/@steadfastwalk
 Reddit  reddit.com/user/steadfastwalk
 LinkedIn  linkedin.com/company/steadfastwalk
-
-Walk Steadfast is made with AI-generated video and voices. Wes and Jonathon are characters, and their stories are composites drawn from real men's lives.
 
 Scripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.™ Used by permission. All rights reserved worldwide.
 

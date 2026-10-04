@@ -1,0 +1,95 @@
+# 13. A Biblical Definition of Manhood Part 1
+
+Speaker: Tim Hawks
+Date: 2026-02-06
+Source: YouTube ASR (en-orig); no manual English track
+YouTube: https://www.youtube.com/watch?v=1xtJgaOpmZ8
+Caption: ASR
+
+Tim Hawks:
+
+Well, good morning. And I guess I need to say good evening to those guys who are doing this at Steiner Ranch and Brushy Creek and the Saturday morning group. Many of you may not know that there are groups meeting in various places and homes going through this study together.
+
+One of my favorite syndicated columnists, Dave Barry, who used to write for the Chicago Sun-Times, writes a lot on men's issues, and he emphasizes the difference between men and guys. If you don't know whether you're a man or a guy, Dave wrote a little test. It's a multiple-choice test, or if you're a guy, it's multiple guess.
+
+First question: Alien beings from a highly advanced society visit Earth and you are the first human they encounter. As a token of intergalactic friendship they present you a small but incredibly sophisticated device capable of curing all disease, providing an infinite supply of clean energy, wiping out hunger and poverty, and wiping out oppression and violence throughout the whole planet. You decide: A, give it to the president of the United States; B, give it to the secretary general of the United Nations; or C, take it apart.
+
+Question two: You've been seeing a woman for several years. She's attractive and intelligent. You enjoy being with her. One leisurely Sunday afternoon you're watching the football game and she's reading the paper. She suddenly says she thinks she really loves you, but she can no longer bear the uncertainty of not knowing where your friendship is going. She says she is not asking if you want to get married, only whether you believe you two have some kind of a future together. What do you say? A, you sincerely believe you two have a future, but you don't want to rush it. B, that although you have strong feelings for her, you cannot honestly say that you'll be ready anytime soon to make a lasting commitment and you don't want to hurt her by holding out false hope. C, you cannot believe that the Cowboys called a draw play on third and 17.
+
+Last one: One morning your wife wakes up sick and asks you to get your three children ready for school. First question you ask her is: A, do they need to eat or something? B, they're in school already. C, there are three of them.
+
+We're at the point in our study where we're making the shift now into a definition of what it means to be a real man. We'll begin to build that today and complete it next week as we put the whole definition together.
+
+Some of you may have objections to the talk I did last week: intellectual things about Genesis, complementarianism and egalitarianism, women and feminism, whether this corresponds to history, sociology, genetics, biology. Some of that comes up today. If you want to go further, go to the manhood study on the Hill Country Bible Church media player for men. There's a lecture I did in the past that I'm not including this year: objections to Genesis. I spent time going through history, philosophies, biological things, laying out differences between men and women and patterns in society. Nothing we're talking about is new under the sun. Cycles of history repeat themselves. American and Western civilization is doing similar things other societies have done: making up decisions about gender and roles that don't correspond to reality. We haven't evolved in our thinking. We keep repeating the same patterns to our demise.
+
+Core contributions of men and women from history and the Scriptures. Circle the word core. Core means the central or significant contributions. It does not mean comprehensive. A big logical fallacy: if you affirm a certain ability women have as a core and you honor that, people hear, you're saying they can't do anything else. We're not that stupid. To say something is a priority or incredibly valuable is not saying people can't do other things.
+
+From biology, even if you reject God and look only at human evolution; from psychology and how men's and women's brains work; from a historical overview of when society and individuals thrive: these core contributions hold. That does not mean every individual wants to participate in those roles. In general, human thriving is present when they are. The onus is on people experimenting with failed ideas other societies have tried. The burden of proof is to overcome biology, psychology, and history.
+
+Core contributions of women: women are the nurturers of life. Where that core contribution is honored, society prospers. Every little girl is born with a special ability critical for the human race to survive: the ability to have a child, bring that child into the world, and nurture that child. When a culture says that's unimportant, we tear from that person something special about them, regardless of body shape, Harvard, or the soccer field. Affirmed, every woman has incredible value. The human race is dead in the water without women. We have no future, men, if it wasn't for women. Wherever those ideas are honored, society flourishes and women flourish and have intrinsic value. Our culture often rejects that and reduces it to "barefoot, pregnant in the kitchen" instead of bearers of life.
+
+1 Timothy 2, starting in verse 13: "For Adam was formed first, then Eve." Creation order means something. "Adam was not the one deceived. It was the woman who was deceived and became a sinner." The passage is not saying the woman is stupid. She was tricked into believing there was a better way to live than the way God wants. Adam was a sinner too. He was not deceived. He stood there and ate, knowing it was wrong.
+
+Next verse: "But women will be saved through childbearing if they continue in faith, love, holiness, and with propriety." Saved, sozo, most of the time is not eternal salvation. It means to be rescued or delivered. Here the woman will be delivered from the catastrophic blight that could be placed on women for all time: the idea that Eve ruined the human race, ruined men, that women are therefore inferior. Some religions take Genesis and say women are inferior, the temptresses, that they destroy humanity. Paul says that's not the case. All women have the opportunity to redeem what Eve did through functioning in their core role as nurturers of new life.
+
+Genesis 3:20: after the fall Adam names his wife Eve, the Hebrew word that means to live, "because she is the mother of all living." She is hope for the future. One of those children will be the Messiah. Women have this exalted role: through giving birth, developing civilization, bringing into the world the Messiah, we have hope. Women are the hope of the world, not the end of the world. That hope does not come from self-indulgence, self-importance, or self-directedness, but contributing through the God-given ability to bring new life, bearing children, and continuing in faith, love, and holiness with propriety: character passed to the next generation. Ultimately through Mary giving birth to Jesus we see the salvation of the world.
+
+When a culture honors that, it creates focus on children, family, fidelity in marriage, and sex as positive for cementing a permanent relationship and perpetuating humanity, not extracted as a mere biological need with women used and abused.
+
+Gavin McInnes, founder of Vice Media: "I see the housewife as a far superior vocation to mine and to most. I make commercials, funny videos, and TV shows. I essentially make comic books. My wife creates life from her vagina. And that's just the beginning. Then she shapes this human life." He describes New York as an elephant's graveyard for ovaries: unhappy women waiting too long and regretting it. He is not saying you have to have babies, stay in the kitchen, and can't have a life. That would be unreasonable to enforce. "Why are you trivializing such a miracle, the ability to bring life into the world?"
+
+Second: women are happiest not when given position and power but when the creative contributions of the maternal role are upheld. That quote is Margaret Mead, anthropologist, feminist, secularist. Her conclusion: if you want neurosis, body consciousness, women confused and competing with men, pressure beyond imagination, move away from the creative contributions of a maternal role.
+
+Stephen Clark, sociologist who specializes in gender issues: the feminist movement devalues the thing women most greatly desire to do, be a wife and a mother. It has largely left women feeling the disadvantage of being female more acutely and puts them under greater pressure to compete with men. The movement supposed to make women feel good about themselves encourages them to deny this basic instinct.
+
+This week military generals are suggesting women need to register for selective service, the draft, because if women should fight in combat and serve in any military role, the next logical thing is all women need to be capable of going into the military. If a woman chooses that path she should have opportunity. That's not where the culture is headed: 18-year-old girls signing up, and in war they start calling your girls and giving them a gun.
+
+Simone de Beauvoir, outspoken feminist leader: "No woman should be authorized to stay home and raise her children," precisely because if they have such a choice, too many women will make it. Social engineering so women can't focus on the maternal as an exclusive focus, because if they do, too many will, and that will ruin the movement.
+
+Alexis de Tocqueville, French sociologist who came to the United States in the mid-1800s to study the American experiment after the French Revolution's bloodbath. The Americans borrowed some Enlightenment ideas but focused heavily on God's revelation in Scripture. He wrote: although the American woman never leaves her domestic sphere and is in some respects very dependent within it, nowhere does she enjoy a higher station. If anyone asked the chief cause of this extraordinary prosperity and growing power of this nation, he would answer it is due to the superiority of their women. Where maternal roles are encouraged, praised, and honored, society prospers and women are happiest.
+
+Men: if women are the nurturers of life, men are the bearers of destiny. As men go, so goes society. Equally important, not a better role. We are both the solution to humanity's problems and the problem. We are the builders or the breakers of society.
+
+Margaret Mead: the single greatest challenging question for every society is to find appropriate roles for men. We are hardwired with a cause mentality. If there's no noble cause, we tend to create an ignoble cause.
+
+What happens where men are wrapped up in pornography? Breakdown of the family, spread of venereal disease, girls becoming more promiscuous to get the attention of men. What happens where men are in the word of God, following God's plan, building community around love your neighbor, working for the common good? Girls dress appropriately, value marriage, don't compete with men because men become desirable companions. As men go, so goes the world.
+
+Genesis 1 and 2: man was created by God with unique social and spiritual leadership. As men prosper, society prospers. Defection from this leadership spells trouble not just for the man but for everyone involved.
+
+Isaiah 3: the nation of Israel has fallen, Judah and Jerusalem about to fall. "See now the Lord, the Lord Almighty, is about to take from Jerusalem and Judah both supply and support." Supply: food and water. Support: the hero, the warrior, the judge, the prophet, the soothsayer, an elder, the captain of fifty and man of rank, the counselor, skilled craftsman, and clever enchanter. Take away positive male leadership and total collapse. Verse 4: "I will make boys their officials. Mere children will govern them." People oppress each other. A man seizes a brother: you have a cloak, you be our leader, take charge of this heap of ruins. Gang mentality. Verse 12: "Youths oppress my people. Women rule over them. O my people, your guides lead you astray." When courageous, godly, visionary, competent male leadership disappears, everything falls apart. All that has to happen is everybody goes home and lives for themselves.
+
+Paul: in Adam all die.
+
+Two men, two masculine identities. We take Adam in his fallen state, broken masculinity, and Jesus Christ, the second Adam. Squeeze those identities together and what emerges is what we were created to be. We'll walk the first Adam and the second Adam today and finish the definition next week.
+
+1 Corinthians 15:45: "The first man, Adam, became a living being; the last Adam," Jesus Christ, "a life-giving spirit. The spiritual did not come first, but the natural, and after that the spiritual. The first man was of the dust of the earth. The second man from heaven." This passage is about the resurrection, but they have different trajectories.
+
+Theologian Herman Ridderbos: Adam and Christ stand over against each other as two great figures at the entrance of two worlds, two creations, the old and the new. In their actions and fate lie the decisions for all who belong to them, because all men are comprehended in them. Either we take our identity spiritually from Adam or from Jesus. Either we take our masculine identity from Adam or from Jesus.
+
+They are leaders of two distinct spiritual destinies. Romans 5:12: "Sin entered the world through one man," Adam, "and death through sin, and in this way death came to all men because all sinned." Death reigned from Adam to Moses even over those who did not sin by breaking a commandment as Adam did, who was a pattern of the one to come. The gift is not like the trespass. If many died by the trespass of one man, how much more did God's grace and the gift that came by the grace of the one man, Jesus Christ, overflow to the many. Judgment followed one sin and brought condemnation. The gift followed many trespasses and brought justification. Through the disobedience of one man the many were made sinners; through the obedience of one man many will be made righteous. Every one of us is either on Adam's path, destiny separation from God, or has embraced the gift of Jesus, sins forgiven, destiny with God.
+
+They are also leaders of two distinct masculine destinies.
+
+Four characteristics of masculine identity in Adam.
+
+1. A manhood set on a natural course. 1 Corinthians 15: Adam is of the earth. Following him we are obsessed with earth: money, power, prestige, the here and now, getting my thing in this moment.
+
+2. A masculinity governed by instinct and reaction, not revelation. Gut, reaction, what can I get. Brains, body, self-directed, self-made, self-centered. Truth comes from within, not from without.
+
+3. A manhood that draws his life from others. He is a taker. Adam takes advantage of Eve. She's deceived, fruit in her hand. He watches her potentially commit spiritual suicide. That's why Adam is blamed: he didn't pull out the hoe, cut off the head of the serpent, and say stop, he's lying. He stood by. The majority of women feel the essence of masculinity is to take advantage of me. That's Adam.
+
+4. A manhood without a transcendent cause. Nothing bigger than me. If your vision does not exceed the borders of yourself, in time you become a very small person, life meaningless, no contribution.
+
+Four characteristics of the second Adam, Jesus, in contrast.
+
+1. A manhood set on a heavenly course. In the temptation he is not focused on earth. Stones into bread: he's here for something bigger than bread. Pinnacle of the temple: force God's hand, power, prestige. Kingdoms of the earth: all these can be yours if you bow down. He has something more important than having it all here and now. Something eternal.
+
+2. A manhood based on revelation. Not instinct, not gut, not self-made. "I come to do the will of the Father." Something outside him, bigger than him, drives him.
+
+3. A life-giving spirit. Masculinity that is life-giving. Adam's decisions plunged us into sin. Jesus' sacrifice gives life to all who call on his name. Are we takers or givers? Everybody felt comfortable around Jesus. Zacchaeus, cheating on taxes, comfortable enough that Jesus is coming to his house, and before the meal is over vows to pay back what he stole. The woman taken in adultery: "Go and sin no more." She's comfortable with him. He's not the man who would use her or stone her. He gives hope and a new identity. Are people in your life comfortable with you? He would never take advantage of me. He brings life to the family, kids, work, women around him.
+
+4. The transcendent cause: the kingdom, righteousness, a better world, giving his life away for something more.
+
+Next week we'll take these into four big characteristics of a real man, a biblical man. Then the rest of the semester: how to live that out with sexuality, relationships, marriage, sons, daughters, work, life journey. We'll ask you to begin to write a plan for how that applies to you. Intensely practical. By the end, imperfect, with God's help and camaraderie, take steps in that direction. It will radically change your life and the people in your life. I've been teaching this for 20 years. Robert Lewis, who developed it, longer than me. Hundreds of men and women testify that lives were transformed because a man decided there's something better than what the culture told him was his destiny, identity, and future.
+
+Break up in your small groups. If you don't have a small group, Jim Cooper is down front. He'll help you find one.

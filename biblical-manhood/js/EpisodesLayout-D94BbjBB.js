@@ -1,0 +1,2 @@
+import{w as o,b as e,N as t,O as s}from"./vendor-CPMdfHCh.js";import{u as r}from"./index-BTIMPDFY.js";import{S as a}from"./Bugsnag-uqthnw8J.js";import"./styles-FVDiVcL8.js";import"./useLocalStorage-BMP7gFuX.js";const c=o(function(){return r("sermons")?e(a,{children:e("div",{tabIndex:-1,className:"d-f fd-c d-b@md",style:{outline:"none"},children:e(s,{})})}):e(t,{to:"/",replace:!0})});export{c as default};
+//# sourceMappingURL=EpisodesLayout-D94BbjBB.js.map

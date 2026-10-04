@@ -6,7 +6,7 @@ Walk Steadfast · Field Notes · script v1 (pre-focus-group). Internal.
 |---|---|
 | Release | Fri Jan 8, 2027, 5:00 AM CT |
 | Format | Field Notes (show bible 4b). About 14 min, about 1,950 spoken words. |
-| Slate | JONATHON "Episode two. Friday, January eighth." WES "Field Notes. The First Check." |
+| Intro and slate | Per-episode open, Jonathon leads (SHOW-BIBLE section 5, open system v3, text in _build/intros_data.py). Slate: WES "Episode two." JONATHON "Field Notes. The First Check." |
 | Checks | E001 challenge: one meal with no phone, plus a question at the table; text one man "How's your Tuesday?" |
 | From the Table | "How do I start this if I've never been the spiritual one?" (labeled honestly as a question men ask a lot) |
 | Tool on the Table | The phone basket |
@@ -31,10 +31,6 @@ Wes holding his phone toward the camera, deadpan. Text: **"ARE YOU DYING?"**. Va
 
 [CAM: WIDE]
 
-[CHAPTER: Slate]
-JONATHON: Episode two. Friday, January eighth.
-WES: Field Notes. The First Check.
-
 [CHAPTER: Cold open]
 [CAM: WES MS]
 WES: I texted my oldest son, "How's your Tuesday?"
@@ -46,12 +42,23 @@ WES: He said, "Are you dying?"
 (Jonathon laughs and covers his face. Wes doesn't move.)
 [STING 3s]
 
+[CHAPTER: Intro]
+[CAM: 2S]
+(Walk Steadfast open written for E002. Same beats every week, new words. SHOW-BIBLE section 5.)
+JONATHON: This is Walk Steadfast. I'm Jonathon. My wife works nights.
+[LOWER THIRD: Jonathon]
+WES: I'm Wes Hart. Married twenty-seven years.
+[LOWER THIRD: Wes Hart]
+JONATHON: Tuesday we give one challenge and take it ourselves. Friday we report.
+WES: My book and the video training are both at walksteadfast.com.
+JONATHON: Today a man asks where to start if he's never been the spiritual one.
+WES: Episode two.
+JONATHON: Field Notes. The First Check.
+
 [CHAPTER: Check the box]
 [CAM: WIDE]
 JONATHON: Coffee's hot. Mine is, anyway.
-[LOWER THIRD: Jonathon]
 WES: Mine's always hot. I drink it like a grown man.
-[LOWER THIRD: Wes Hart]
 JONATHON: You drink it like it owes you money. Okay. This is Field Notes. Friday is where we check the box. On Tuesday we gave you a challenge, and we gave it to ourselves. One meal with no phone, ask somebody at that table about their week and just listen, and text one man, "How's your Tuesday?"
 WES: Let's check.
 JONATHON: You go first, because you've already told the best part.
@@ -228,6 +235,11 @@ WES: See you at the table.
 JONATHON: Go walk it out.
 (WES picks up the bread basket and tucks it under his arm. Hold WIDE 2s. Cut.)
 
+[CLOSING MUSIC 3s]
+[CREDITS]
+(Wes, normal credits volume, read like a producer credit. No gap, no ducking. SHOW-BIBLE section 13.)
+WES: Produced with AI voice and video tools.
+
 ## Shorts (2)
 
 | # | Cut | Hook | Length |
@@ -244,11 +256,12 @@ Field Notes is the Friday check-in from Walk Steadfast. Wes's text to his son ge
 
 Chapters
 00:00 Cold open
-00:17 Check the box
-06:56 From the table
-11:54 Tool on the table
-13:53 Carry this
-14:17 Outro
+00:12 Intro
+00:45 Check the box
+07:23 From the table
+12:22 Tool on the table
+14:20 Carry this
+14:44 Outro
 
 New episodes every Tuesday, plus Field Notes every Friday.
 
@@ -259,8 +272,6 @@ Facebook  facebook.com/steadfastwalk
 TikTok  tiktok.com/@steadfastwalk
 Reddit  reddit.com/user/steadfastwalk
 LinkedIn  linkedin.com/company/steadfastwalk
-
-Walk Steadfast is made with AI-generated video and voices. Wes and Jonathon are characters, and their stories are composites drawn from real men's lives.
 
 #WalkSteadfast #ChristianMen #FieldNotes
 ```

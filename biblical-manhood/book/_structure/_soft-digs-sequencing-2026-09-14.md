@@ -1,0 +1,2 @@
+Aaron/Readers soft dig 2026-09-14 Wave6: do not stack more marriage chapters before the long road (son trilogy / work / feelings). Desk sequencing only. No prose rewrite on ch24-27.
+\nWave7 Readers soft dig 2026-09-14: long-road breath delivered — don’t stack marriage back in after ch28–31. Desk sequencing only. No prose rewrite.\n

@@ -31,7 +31,7 @@ Alton reached into his coat, came out with the plumb bob, put it in the boy's pa
 
 ## A line that doesn't lie
 
-Alton had hung a plumb bob against every wall of the house the boy's father grew up in. You already know from No Fixed Star what a plumb line is for, and Alton didn't give a lesson on it. He kept it to a few words. "The weight's on purpose. A light one drifts in any breeze. Be the heavy kind, hard to push off true." The name on the side, he said, is for the day the boy forgets who he is.
+Alton had hung a plumb bob against every wall of the house the boy's father grew up in. You already know what a plumb line is for, and Alton didn't give a lesson on it. He kept it to a few words. "The weight's on purpose. A light one drifts in any breeze. Be the heavy kind, hard to push off true." The name on the side, he said, is for the day the boy forgets who he is.
 
 His dad says it's already come out of that pocket a few times, once over going along with the crowd at school, once over the truth about a grade. Your boy's keepsake doesn't have to be brass. A Bible with the date inside, a great-grandfather's watch, a good tool. Pick weight over price, and say what it means when you hand it over.
 
@@ -71,7 +71,7 @@ Even if no one ever gave you a morning like this, there's a word I'd want said o
 
 **Name it**
 
-Because a man nobody marked tends to leave his son to make up his own mark. Write down whether anyone ever gave you a day, and if not, what you grabbed instead. Then write the honest answer for your son: is a day coming, or is he left to guess? Ask it for your daughter too. Hers may be supper instead of sunrise, with her mom and grandmother there, but mark your son and leave her guessing and you've done half.
+A man nobody marked tends to leave his son to make up his own mark. Write down whether anyone ever gave you a day, and if not, what you grabbed instead. Then write the honest answer for your son: is a day coming, or is he left to guess? Ask it for your daughter too. Hers may be supper instead of sunrise, with her mom and grandmother there, but mark your son and leave her guessing and you've done half.
 
 :::notes
 _______________________________________________
@@ -81,7 +81,7 @@ _______________________________________________
 
 **Do this week**
 
-Because you can decide this week even if the morning is months off. Pick the date, the men, the place, and the keepsake. Write out what you'll say with your hand on his shoulder. Divorced? You can still do this, and you should. Talk to his mom first, before he hears a word, and keep it about the boy. A good stepdad might be worth inviting. If she pushes back, use your own time and your own men, and keep the old fight out of that morning. Single, or no son? You can be the neighbor at another boy's creek. Find a dad you trust, or a mom raising a boy alone who'd be grateful, and offer to stand in the water. Talk to her before you plan a thing.
+You can decide this week even if the morning is months off. Pick the date, the men, the place, and the keepsake. Write out what you'll say with your hand on his shoulder. Divorced? You can still do this, and you should. Talk to his mom first, before he hears a word, and keep it about the boy. A good stepdad might be worth inviting. If she pushes back, use your own time and your own men, and keep the old fight out of that morning. Single, or no son? You can be the neighbor at another boy's creek. Find a dad you trust, or a mom raising a boy alone who'd be grateful, and offer to stand in the water. Talk to her before you plan a thing.
 
 :::notes
 _______________________________________________
@@ -91,7 +91,7 @@ _______________________________________________
 
 **Tell a brother**
 
-Because nobody ends up standing in that water without being asked. Ask him to wade in with you and come with something true to say to the boy. If he's got a son, ask when that boy's morning is, and offer to come.
+Nobody ends up standing in that water without being asked. Ask him to wade in with you and come with something true to say to the boy. If he's got a son, ask when that boy's morning is, and offer to come.
 
 :::notes
 _______________________________________________

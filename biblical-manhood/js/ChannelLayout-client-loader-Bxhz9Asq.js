@@ -1,0 +1,2 @@
+import{c as o}from"./queries-BgMR0Pci.js";import{q as i}from"./ReactQueryProvider-BTBUZC2-.js";import"./vendor-CPMdfHCh.js";import"./styles-FVDiVcL8.js";import"./RootErrorBoundaryLayout-Cp1Yeyt8.js";import"./Bugsnag-uqthnw8J.js";import"./useLocalStorage-BMP7gFuX.js";import"./Error404-Vj-ClAYf.js";import"./isFirstAttemptForPathname-Brb7p_u3.js";async function y({params:r}){const{channelId:t}=r;return await i.ensureQueryData(o(t))}export{y as clientLoader};
+//# sourceMappingURL=ChannelLayout-client-loader-Bxhz9Asq.js.map

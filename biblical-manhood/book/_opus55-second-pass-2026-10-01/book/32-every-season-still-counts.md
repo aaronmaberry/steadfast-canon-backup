@@ -109,7 +109,7 @@ Set the ranking down. It has cost men too many years. Whether you're nineteen or
 
 **Name it**
 
-Because nobody asked you to carry that ranking of life's seasons, and you've carried it anyway. Say which season you're in, or which two overlap right now. Then say the temptation you've been dressing up with a softer name.
+Nobody asked you to carry that ranking of life's seasons, and you've carried it anyway. Say which season you're in, or which two overlap right now. Then say the temptation you've been dressing up with a softer name.
 
 :::notes
 _______________________________________________
@@ -119,7 +119,7 @@ _______________________________________________
 
 **Do this week**
 
-Because a season's assignment fits on one line. Write yours down with an action word in it. Stick it where your coffee will find it each morning, and get the first piece done by Sunday.
+Every season's assignment fits on one line. Write yours down with an action word in it. Stick it where your coffee will find it each morning, and get the first piece done by Sunday.
 
 :::notes
 _______________________________________________
@@ -129,7 +129,7 @@ _______________________________________________
 
 **Tell a brother**
 
-Because somebody standing in different weather can spot what you're too close to spot. Say where you're standing and what it's asking, then let him do the same. Ask what he notices in your life that you keep missing.
+Somebody standing in different weather can spot what you're too close to spot. Say where you're standing and what it's asking, then let him do the same. Ask what he notices in your life that you keep missing.
 
 :::notes
 _______________________________________________

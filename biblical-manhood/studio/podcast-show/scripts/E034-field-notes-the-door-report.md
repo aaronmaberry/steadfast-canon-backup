@@ -6,7 +6,7 @@ Walk Steadfast · Field Notes · script v1 (batch 5). Internal.
 |---|---|
 | Release | Fri Apr 30, 2027, 5:00 AM CT |
 | Format | Field Notes. About 13 min. **Order changed:** question first, then tool, then the check last. It counts as the order change for the month. Wes names it in one line ("We're doing the question first today") and doesn't grade it. |
-| Slate | JONATHON "Episode thirty-four. Friday, April thirtieth." WES "Field Notes. The Door Report." |
+| Intro and slate | Per-episode open, Jonathon leads (SHOW-BIBLE section 5, open system v3, text in _build/intros_data.py). Slate: JONATHON "Episode thirty-four." WES "Field Notes. The Door Report." |
 | Checks | E033 challenge: name how you left home in one line, and make one leave-with-honor move (parents: let go of one thing first). |
 | From the Table | "How do I tell my parents no without a war?" (an email from a man, 33, married four years, a baby girl of eight months; unnamed) |
 | Tool on the Table | Thank you, no, I love you. Say it yourself, say "we," say it by phone or in person before money moves, give one reason at most, then stop talking. Pair the no with a real yes. |
@@ -31,25 +31,31 @@ Jonathon holding up his phone showing a real-estate-style listing with "FOR SALE
 
 [CAM: WIDE]
 
-[CHAPTER: Slate]
-JONATHON: Episode thirty-four. Friday, April thirtieth.
-WES: Field Notes. The Door Report.
-
 [CHAPTER: Cold open]
 [CAM: JON MS]
-JONATHON: A man wrote in this week. Easter lunch, his dad pulls out his phone and shows him a listing. Two acres. For sale. Right next door to him.
+JONATHON: A man wrote in. Easter lunch, his dad shows him a listing. Two acres, next door.
 [CAM: WES MS]
-WES: Next door.
+(Wes raises his eyebrows.)
 [CAM: JON CU]
-JONATHON: And his wife smiles through the whole lunch, and she doesn't say a word until they're in the car. And then she says, "If they buy that lot, I'm moving to Ohio." (beat) She's never been to Ohio.
+JONATHON: His wife smiles through lunch. In the car she says, "If they buy that lot, I'm moving to Ohio." (beat) She's never been to Ohio.
 [STING 3s]
+
+[CHAPTER: Intro]
+[CAM: 2S]
+(Walk Steadfast open written for E034. Same beats every week, new words. SHOW-BIBLE section 5.)
+JONATHON: This is Walk Steadfast. I'm Jonathon. I just got off my mom's phone plan, at thirty-seven.
+[LOWER THIRD: Jonathon]
+WES: I'm Wes Hart. My wife and I are learning curfew all over again.
+[LOWER THIRD: Wes Hart]
+JONATHON: Friday we report. walksteadfast.com has Wes's book and the video training.
+WES: Today we help a man tell his parents no without a war.
+JONATHON: Episode thirty-four.
+WES: Field Notes. The Door Report.
 
 [CHAPTER: From the table]
 [CAM: WIDE]
 WES: We're doing the question first today. The box can wait.
-[LOWER THIRD: Wes Hart]
 JONATHON: The box can wait. This one's got a deadline.
-[LOWER THIRD: Jonathon]
 [CAM: JON MS]
 JONATHON: So here's the rest of it. He's thirty-three. Married four years. They've got a baby girl, eight months. His parents live about two hours away, they're both retiring this summer, and they want to be close to the baby. Which, honestly, is sweet.
 WES: It is sweet.
@@ -187,6 +193,11 @@ WES: See you at the table.
 JONATHON: Go walk it out.
 (Wes picks up his phone, looks at it like he hasn't seen it in a while, and puts it face down. Hold WIDE 2s. Cut.)
 
+[CLOSING MUSIC 3s]
+[CREDITS]
+(Wes, normal credits volume, read like a producer credit. No gap, no ducking. SHOW-BIBLE section 13.)
+WES: Produced with AI voice and video tools.
+
 ## Shorts (4)
 
 | # | Cut | Hook | Length |
@@ -205,11 +216,12 @@ Also: Jonathon finally gets off his mother's phone plan (the account is called "
 
 Chapters
 00:00 Cold open
-00:33 From the table
-04:55 Tool on the table
-09:37 Check the box
-13:20 Carry this
-13:32 Outro
+00:18 Intro
+00:51 From the table
+05:13 Tool on the table
+09:56 Check the box
+13:38 Carry this
+13:50 Outro
 
 Scripture: Matthew 5:37 (NIV)
 
@@ -224,8 +236,6 @@ Facebook  facebook.com/steadfastwalk
 TikTok  tiktok.com/@steadfastwalk
 Reddit  reddit.com/user/steadfastwalk
 LinkedIn  linkedin.com/company/steadfastwalk
-
-Walk Steadfast is made with AI-generated video and voices. Wes and Jonathon are characters, and their stories are composites drawn from real men's lives.
 
 Scripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.™ Used by permission. All rights reserved worldwide.
 

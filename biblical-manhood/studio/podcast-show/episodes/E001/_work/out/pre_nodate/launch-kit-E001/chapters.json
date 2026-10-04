@@ -1,0 +1,61 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Cold open"
+    },
+    {
+      "startTime": 18.1,
+      "title": "Intro"
+    },
+    {
+      "startTime": 54.1,
+      "title": "Pull up a chair"
+    },
+    {
+      "startTime": 144.0,
+      "title": "Who is Wes Hart"
+    },
+    {
+      "startTime": 414.5,
+      "title": "Who is Jonathon"
+    },
+    {
+      "startTime": 686.8,
+      "title": "A quiet Tuesday"
+    },
+    {
+      "startTime": 912.3,
+      "title": "The Word"
+    },
+    {
+      "startTime": 1057.1,
+      "title": "Pushback"
+    },
+    {
+      "startTime": 1324.8,
+      "title": "What I actually did"
+    },
+    {
+      "startTime": 1436.6,
+      "title": "This week's challenge"
+    },
+    {
+      "startTime": 1534.4,
+      "title": "The book, the training, the site"
+    },
+    {
+      "startTime": 1692.2,
+      "title": "What you get here"
+    },
+    {
+      "startTime": 1809.8,
+      "title": "Carry this"
+    },
+    {
+      "startTime": 1822.2,
+      "title": "Outro"
+    }
+  ]
+}

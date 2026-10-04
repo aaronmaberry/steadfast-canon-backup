@@ -6,7 +6,7 @@ Walk Steadfast · main episode · script v1 (batch 2, written after reader panel
 |---|---|
 | Release | Tue Feb 16, 2027, 5:00 AM CT |
 | Format | Main episode. About 26 min. |
-| Slate | WES "Walk Steadfast, episode thirteen." JONATHON "Tuesday, February sixteenth, twenty twenty-seven." WES "The Prize That's Gone by Thursday." |
+| Intro and slate | Per-episode open, Jonathon leads (SHOW-BIBLE section 5, open system v3, text in _build/intros_data.py). Slate: WES "Episode thirteen. The Prize That's Gone by Thursday." |
 | Source | Book chapter 7, Live for a Reward That Lasts. Training W07. Avoided on purpose: the drive home with a trophy riding shotgun, moths and vermin, the widower's pecan trees, the "list" of prizes as a lecture, the Moses/Egypt speech. W07's retirement cake and the freezer and plow stories, the boss in the doorway saying "good stuff," and the kids-don't-pay-rent picture of inheritance. "Gone by Thursday" is the title only, never a repeated slogan. |
 | Focus mark | **Work for God's Pay**, named in Pull up a chair and again in Carry this. Pay means the inheritance (Col 3:24), never wages for salvation (Eph 2:8-9, paraphrased on mic). |
 | Scripture (NIV) | Colossians 3:23-24 (checked 2026-10-03), read by Jonathon. Hebrews 12:2 (checked 2026-10-03), read by Wes. Ephesians 2:8-9 paraphrased, not carded. |
@@ -31,11 +31,6 @@ Jonathon looking at his phone with a pained half-smile. Text: **MONDAY 8 AM**. V
 
 [CAM: WIDE]
 
-[CHAPTER: Slate]
-WES: Walk Steadfast, episode thirteen.
-JONATHON: Tuesday, February sixteenth, twenty twenty-seven.
-WES: The Prize That's Gone by Thursday.
-
 [CHAPTER: Cold open]
 [CAM: JON MS]
 JONATHON: Every Monday at eight a.m., for eleven years, there's an email with my name on it. Ranked.
@@ -45,12 +40,22 @@ WES: And you open it before what?
 JONATHON: (beat) Before everything. Before my Bible. Before I say good morning to my kids.
 [STING 3s]
 
+[CHAPTER: Intro]
+[CAM: 2S]
+(Walk Steadfast open written for E013. Same beats every week, new words. SHOW-BIBLE section 5.)
+JONATHON: This is Walk Steadfast. I'm Jonathon. I run a regional sales team.
+[LOWER THIRD: Jonathon]
+WES: I'm Wes Hart. I went to my mother's doctor appointment last week.
+[LOWER THIRD: Wes Hart]
+JONATHON: We talk plainly about following Jesus as a man. Tuesdays long, Fridays the report.
+WES: My book and the video training go with this show. walksteadfast.com.
+JONATHON: Today we look hard at the prizes men work for.
+WES: Episode thirteen. The Prize That's Gone by Thursday.
+
 [CHAPTER: Pull up a chair]
 [CAM: WIDE]
 JONATHON: Pull up a chair.
-[LOWER THIRD: Jonathon]
 WES: He's taking my line now.
-[LOWER THIRD: Wes Hart]
 JONATHON: I'm going first. I've been practicing.
 (both laugh)
 WES: How was Valentine's?
@@ -349,6 +354,11 @@ WES: We'll see you at the table.
 JONATHON: Go walk it out.
 (Wes slides the index card deeper into his Bible. Jonathon tilts his head to try to read it. Wes closes the Bible. Hold WIDE 2s. Cut.)
 
+[CLOSING MUSIC 3s]
+[CREDITS]
+(Wes, normal credits volume, read like a producer credit. No gap, no ducking. SHOW-BIBLE section 13.)
+WES: Produced with AI voice and video tools.
+
 ## Shorts (5)
 
 | # | Cut | Hook | Length |
@@ -368,17 +378,18 @@ The fourth of the four marks: Work for God's Pay. Wes and Jonathon read Colossia
 
 Chapters
 00:00 Cold open
-00:25 Pull up a chair
-01:16 The Monday email
-03:54 Wes and the microphone
-05:53 Why the cheap prize works
-07:42 The Word
-12:01 Pushback
-17:43 Mr. Abernathy's receipts
-19:16 What I actually did
-22:39 This week's challenge
-24:30 Carry this
-24:52 Outro
+00:17 Intro
+00:51 Pull up a chair
+01:42 The Monday email
+04:21 Wes and the microphone
+06:20 Why the cheap prize works
+08:09 The Word
+12:27 Pushback
+18:10 Mr. Abernathy's receipts
+19:43 What I actually did
+23:06 This week's challenge
+24:57 Carry this
+25:18 Outro
 
 Scripture: Colossians 3:23-24; Hebrews 12:2 (NIV). Ephesians 2:8-9 referenced.
 
@@ -393,8 +404,6 @@ Facebook  facebook.com/steadfastwalk
 TikTok  tiktok.com/@steadfastwalk
 Reddit  reddit.com/user/steadfastwalk
 LinkedIn  linkedin.com/company/steadfastwalk
-
-Walk Steadfast is made with AI-generated video and voices. Wes and Jonathon are characters, and their stories are composites drawn from real men's lives.
 
 Scripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.™ Used by permission. All rights reserved worldwide.
 

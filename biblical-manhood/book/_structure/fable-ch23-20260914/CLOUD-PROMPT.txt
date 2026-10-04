@@ -1,0 +1,367 @@
+Fable 5.1 polish — Steadfast Men chapters 2 + 3 only. Model: Claude Fable 5.1.
+
+Desk already applied Aaron's rewrite notes onto disk. Your job is a Fable voice/rhythm polish that KEEPS every Aaron lock and may tighten further if repetition remains.
+
+## LOCKED
+1. Intro + chapter 1 untouched — do not create or edit those files.
+2. No chapter-number refs in prose ("Chapter 5", "next chapter", "last chapter"). Use titles or "later in this book" / "soon".
+3. No Texas / Texan locality.
+4. No Robert Lewis name (credited once in intro already).
+5. No "pile" metaphor — desk replaced with **crossed maps** (six maps that don't share a north). Keep that image or improve it once; do not revive pile.
+6. No repeating "you'd been told / he'd been told" stacks.
+7. No chanting "you are not crazy" in the body (title of ch2 may stay).
+8. No "I'm not writing against these books…"
+9. Grandpa hands retired — desk uses **workbench grooves** for marks-on-a-life. Do not parrot grandpa hands.
+10. Soften age numbers → seasons / midlife language.
+11. Do not overuse "Tuesday" — imply ordinary days other ways.
+12. Condense: setup must move fast into the four marks. Prefer lean chapters (~1.2–1.8k body).
+13. Your Turn: bold labels; Because on Name it / Do this week / Tell a brother; Carry is the line; keep `:::notes` write-in blocks.
+14. Byline Max. Four marks sentence unchanged when stated. No em dashes / en dashes. Original only. No spend. No publish.
+15. Book-wide teal/structure from intro+ch1 — do not re-explain structure in prose.
+
+## Tasks
+- Create `book/02-you-are-not-crazy.md` and `book/03-the-four-marks.md` with polished text.
+- Write `book/out/FABLE-NOTES-CH2-CH3.md` listing what you changed (bullets).
+- Touch nothing else.
+
+## Voice
+Warm first, clean hit, stays. Contractions. Concrete. Every season in the room without repetitive roll-call.
+
+## Success
+Polished ch2+ch3 with all locks intact; notes file lists changes; no other files.
+
+===== AARON NOTES =====
+# Aaron notes — Chapters 2 + 3 — 2026-09-14
+
+Source: Aaron listen/rewrite notes (machine send + prior chat). Intro + chapter 1 remain LOCKED (LISTEN-2). Book-wide color/structure from intro+ch1 applies going forward — do not re-explain in every rewrite.
+
+Pipeline: apply notes → Fable 5.1 → Reed → Readers → integrate → Drive. Packets HOLD. Design seats fired (Lane/Ash/Press/Binder/Loom). Site/app = Grok Build only.
+
+## Book-wide (said once — all rewrites)
+
+- Chapter 1 + Intro color and structure apply to the whole book. Do not repeat this instruction in chapter prose.
+- No chapter-number references in prose.
+- Global outreach: do not lean on Texas / Texan locality.
+- Robert Lewis credited once in the intro — do not name him again in ch2/ch3.
+
+## Chapter 2
+
+- Pg 17: chapter title update in footnote — match current title; fix stale footnote.
+- Kill repeating “he’d been told…” stacks — vary delivery; stop the chant.
+- No chapter # refs.
+- Do not overuse the word “Tuesday” — imply ordinary-day narrative other ways.
+- Kill repeating “you are not crazy…” in the body (title may stay).
+- “Pile” metaphor does not land — replace with a stronger original image for contradictory manhood manuals.
+- Soften age numbers → midlife / young father / older / seasons language.
+- Seasons of men: stop repetitive roll-call; one tight pass, fresh wording.
+
+## Chapter 3
+
+- First-page footnote referencing the prior chapter — fix (no “last chapter” / chapter-#).
+- “Pile” again — replace.
+- Grandpa / hands analogy: keep the emphasis (marks show on a life) but do not parrot the same picture; reframe freshly if recalled.
+- Kill “I am not writing against these books…” — repetitive (intro already covered).
+- No Texas.
+- No Robert Lewis again.
+- No chapter # refs.
+- Condense: ch1–3 feel like a long setup before the meat. Tighten ch2+ch3 hard; cut overlap with locked intro+ch1. Prefer lean chapters that reach the four marks faster.
+
+## Locked (do not edit)
+
+- `/workspace/biblical-manhood/book/00-introduction.md`
+- `/workspace/biblical-manhood/book/01-a-quiet-tuesday.md`
+
+## Working files
+
+- `/workspace/biblical-manhood/book/02-you-are-not-crazy.md`
+- `/workspace/biblical-manhood/book/03-the-four-marks.md`
+
+
+===== PERSONA (excerpt) =====
+# * Steadfast Men author persona
+
+**Starred.** This is how the book and every video talks. Internal only. Do not publish yet.
+
+**Byline:** Wes Hart. Cover: *Steadfast Men*. Subtitle: *The way of Godly Men.* Wes Hart is a pen name, not a fake biography. Do not wear Tim Hawks's, Ted's, or Red Rocks' family as a mask.
+
+**What we teach:** the 24. Four marks unchanged.
+A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+
+**How we say it:** this persona. Blend of Hawks (counseling honesty + creed), Ted Cunningham (pacing, self-own, laugh then land), Red Rocks Austin (welcome, one image, one step, singles in the room). Do not paste their sermons, bits, or slogans. Do not invent Tim's, Ted's, or the Wekenmans' stories as ours.
+
+Credit Robert Lewis (Fellowship Bible Church Little Rock, *Raising a Modern-Day Knight*) as origin of the teaching. The voice is Steadfast Men.
+
+---
+
+## Why men gravitate
+
+Men do not follow a definition. They follow a man they trust.
+
+This voice is someone you would actually sit next to. He likes men. He is not disappointed in the room. He is not selling a brand of toughness. He is not a youth pastor doing bits. He is not a pulpit that talks down.
+
+Gravity is the mix:
+
+- **Warm first.** You feel invited before you feel measured.
+- **Then a clean hit.** One true sentence that names the thing you have been dodging.
+- **He stays.** He does not flinch at a father wound, a porn confession, a failed marriage, or a 50-year-old who still feels 14. He also does not flatter a high performer into staying passive.
+- **He is funny without being cheap.** The laugh opens the chest. The creed fills it. If the laugh costs another man's dignity, cut it.
+- **He is for every season.** The 19-year-old, the single guy, the new dad, the man whose wife left, the empty-nester, the guy crushing work and starving at home. Nobody is a guest in this book.
+
+If a paragraph would only work for one kind of man, rewrite it until a second kind can hear himself in it.
+
+---
+
+## Who he is (voice, not a fake bio)
+
+He is a brother who has been in it. Not a guru. Not a drill sergeant. Not a comedian covering someone else's act.
+
+He talks like a man you would grab coffee with and still leave different. Conversational. Specific. No fog. No TED cadence. No "I hope you've been doing well." No em dashes. No AI sheen.
+
+He tells on himself before he tells on the room. Passivity, stubbornness, checking out, trying to be the general manager of everyone else's life: he has done it, or he names it as a man who knows the pull. The man in row three is never the punchline. His wife is never the dummy. Moms are never the enemy. Young men are never the joke. Older men are never the mascot.
+
+He respects the room. A 62-year-old does not get youth-group energy. A 22-year-old does not get a lecture from the balcony. A wounded son does not get "man up" as the first word. A successful man does not get a pep talk that leaves his soul untouched.
+
+He believes God designed manhood on purpose. He does not apologize for that. He also does not use it as a club. Welcome and call live in the same paragraph.
+
+---
+
+## Charisma, in practice
+
+Charisma here is not volume, swagger, or a personal brand. It is *people lean in*.
+
+Write so that:
+
+1. **He is glad they came.** First beat is belonging, not diagnosis.
+2. **He sees them.** Concrete life: work, sons, daughters, the silent car ride, the phone at 11pm, the group text he never answers. Original Steadfast / Texas / work / family pictures. Never Ted's parking lot. Never Doug's jet ski. Never Hawks's Bath, Michigan stories as if they were ours.
+3. **He laughs with them.** Observational. Domestic. Self-own. Short punch after a longer setup. Then one thesis sentence. Sit in it.
+4. **He tells the truth they already half-know.** Passivity. Provider-only. Delayed manhood. Isolation. The dad they still wait for. The wife they stopped knowing. The son who needs a ceremony, not
+
+===== 02-you-are-not-crazy.md (desk rewrite — polish from this) =====
+# 2. You Are Not Crazy
+
+A man in midlife sat across from me at a diner a few years ago and said something I've heard, in one form or another, from men in every season since. He said, "I feel like I've been handed six different instruction manuals for being a man and every one of them contradicts the other five, and I'm supposed to act like that makes sense."
+
+He wasn't angry. He was tired, the way a man gets tired when he's been aiming at a target that keeps moving. Be strong. Be vulnerable. Lead. Get out of the way. Your instincts are dangerous. Your failure to act on them is what's wrong with your marriage. One voice said manhood was a costume. Another said it was the most important thing about him. A third said it was whatever he wanted it to be. A fourth said it had been settled long ago and he was simply failing at it. He'd sat in churches that treated him as a problem to be managed and in locker rooms that treated him as an appetite to be fed. Somewhere in all of it he'd started to wonder whether the confusion was in the world or in him.
+
+I told him what I'll tell you. The confusion is in the world. The gap you feel is real.
+
+## The picture you were handed
+
+Every man alive today was handed a picture of manhood that doesn't hold together, and most of us have spent a lot of energy trying to make it hold together anyway, and blaming ourselves when it wouldn't. I want to look at that picture plainly, so you can stop blaming yourself for the fact that it doesn't work.
+
+Start with what you got from home. **The Empty Chair**, later in this book, goes deep on this. For now it's enough to say that whatever sat at the end of your childhood table taught you a picture of a man before you could read, and for most of us it was a partial picture at best. A father who was there and silent. A father who was gone. A father who was a storm. Even a good father left gaps. You started with a fragment, then went out to fill it in.
+
+The world had plenty to offer, none of it consistent. The culture told you manhood is a problem: that the things in you that want to build and compete and protect and take charge are residue the species should have outgrown. Then that same culture mocked men who were passive, who couldn't commit, who wouldn't grow up, and never once seemed to notice it had asked for exactly that.
+
+The entertainment you grew up on gave you a fool, a brute, or a lone hero who needed no one. The fool was the father in every sitcom. The brute was the villain, or sometimes the hero. The lone hero was the one every boy wanted to be, and the trouble with him is that he has no tired wife, no father who calls twice a year, no son who won't talk, no church, no brothers, and no ordinary week. He is a man with no house, and you were trained to admire him while you were living in one.
+
+The marketplace told you a man is what he earns. The internet told you a man is what he watches. Some corners of the church gave you "spiritual leader" so soft you couldn't have told a grown man what to do on an ordinary weekday. Other corners gave you warrior and king so loud there was no room for a mortgage, a sick mother, and a job at a plant. And the shelf of books for men often starts inside the chest. Some of that is true. But feeling wild doesn't leave a mark by itself. Only what he does leaves a mark.
+
+Put the fragment from home next to the six contradictory manuals from the world, and you have what most men are trying to live by. It was never a picture. It is six maps that don't share a north. You can hold them all in your hands. You cannot walk by them. Every bearing contradicts the last, and a man who tries gets dizzy and calls the dizziness his own fault.
+
+## What the crossed maps do to a man
+
+I've watched those maps do three things to men, and you've probably felt all three.
+
+They make a man wait. When you don't know what a man is supposed to do, the safest thing is to do nothing. A lot of male passivity isn't laziness at all. It's a man standing very still because every direction he could move has been declared wrong by somebody. He isn't on the tailgate because he's lazy. He's on the tailgate because he's confused and he's decided that confused men shouldn't drive.
+
+They make a man perform. If you can't find the real target, you learn to hit whatever target the room in front of you seems to want. You're one man at church and another at work and another with your buddies and another with your wife, and none of them is quite you, and you're exhausted from the costume changes. A performer isn't a liar, exactly. He's a man who never got a stable picture and so learned to borrow one from whoever was watching.
+
+And they make a man quietly ashamed. This is the one I see most. A man handed contradictory instructions who can't live up to them doesn't usually conclude that the instructions are broken. He concludes that he is. He carries a low hum of failure under everything, and he doesn't talk about it because talking about it would confirm it. The man at the diner had that hum. Most of the men I sit with do. It isn't a sign of anything wrong with them. It is the sound of a good man trying to obey six maps at once.
+
+## What's actually true
+
+Here is what I want to say to that hum, slowly.
+
+Your instinct that manhood is a real thing and not a costume is right. It is a real thing, and God made it. In the first chapter of the Bible He made human beings in His image, male and female, on purpose, and He called it good before anyone had done anything with it.
+
+:::margin
+Genesis 1:27 (NIV)
+"So God created mankind in his own image, in the image of God he created them; male and female he created them."
+:::
+
+Your manhood is not a problem to be solved or a residue to be outgrown. It is a way of carrying the image of God that was His idea.
+
+Your sense that most of what you've been told about it doesn't hold together is also sound. You were handed crossed maps, and you've been trying to walk by them, and the fact that you keep getting turned around is not evidence against you. It is evidence against the maps.
+
+Wanting somebody to tell you, plainly, what a man does is the right want. Men were meant to be handed a picture by other men. Most of us weren't. We've been guessing ever since.
+
+And the answer, when it comes, is going to be simpler and harder than anything on the shelf. Simpler, because it can be said in one sentence. Harder, because the sentence has to be lived on ordinary days, and no feeling in your chest and no burst on a big day can do that for you.
+
+## One pass through the room
+
+The contradiction lands differently depending on where you're standing. You aren't alone in it, whatever your season.
+
+A young man is told by his school that his restlessness is a disorder, by his phone that a man is whatever gets attention, by his youth group that a man is a servant leader, and by the older boys that a man is whoever's had the most girls. He's trying to be all of that at once and thinks the fact that he can't is a problem with him. It isn't. The maps are the problem.
+
+A young father is told to be present and to provide, to lead and to defer, to be strong for a newborn and to stay in touch with his own feelings, all in the same week. He's failing at most of it because it can't all be done. The hum under his exhaustion is not evidence that he's a bad father.
+
+A man in midlife has quietly given up. He's decided that manhood is whatever he happens to be doing, mostly working and coming home tired, and he's stopped listening because every voice has contradicted the last. His resignation looks like peace. It isn't. It's a man who folded the maps and sat on them.
+
+An older man who lived by a picture handed to him decades ago is watching that picture get mocked on every screen his grandchildren look at, and he's begun to wonder whether the whole thing he built his life on was a mistake. It wasn't. Some of what he was handed was true and some of it wasn't, and the true parts are still true. He needs somebody to sort it with him, not somebody to tell him it was all wrong.
+
+Same maps. Different seasons. None of them alone.
+
+## What comes next
+
+I'm going to hand you a picture. The frame of it is one sentence. **The Four Marks** gives you that sentence, then we take it apart so you can see how each piece looks on a man in an ordinary week. The sentence doesn't start in your chest. It starts with what you do. It has room for the man with the mortgage and the job at the plant, the single man at the back table, the divorced man in the apartment, the old man who just turned in his badge. It doesn't require you to feel wild. It requires you to get up.
+
+The tiredness you feel isn't failure. It's the tiredness of a man who's been carrying a contradiction. Set the maps down. Then come with me and pick up something that holds.
+
+## Before you turn the page
+
+If the hum has been under your life for a long time, let it get quieter tonight, not because you've solved anything but because you've seen the maps for what they are. That isn't failure. It is strength spent on the wrong load. Set it down. Soon you'll have something that holds. May God give you rest from carrying what was never yours to carry, and the courage to pick up what is.
+
+
+## Your Turn
+
+---
+
+**Name it**
+
+Because the shame lifts when you can see the maps for what they are: say out loud two of the contradictory instructions you were handed about being a man, and where each one came from.
+
+:::notes
+_______________________________________________
+_______________________________________________
+:::
+
+
+**Do this week**
+
+Because a man who's been performing for six audiences needs to hear his own voice: write down, in one sentence, what you actually believe a man is supposed to do, before you read **The Four Marks**. Keep it to compare later.
+
+:::notes
+_______________________________________________
+_______________________________________________
+:::
+
+
+**Tell a brother**
+
+Because every man you know is carrying the same contradiction and thinks he's the only one: read him your sentence and ask for his. You'll both feel the hum get quieter.
+
+:::notes
+_______________________________________________
+_______________________________________________
+:::
+
+
+**Carry this**
+
+The confusion is in the world. You were handed crossed maps. The answer is simpler and harder than anything on the shelf.
+
+:::notes
+_______________________________________________
+:::
+
+
+===== 03-the-four-marks.md (desk rewrite — polish from this) =====
+# 3. The Four Marks
+
+If the maps don't hold, you've got a harder question than the one you started with. If that isn't what a man is, then what is?
+
+I want to answer that here, in one sentence you can carry in your pocket. Then we take the sentence apart, one mark at a time, so you can see how each piece looks on a man in the middle of an ordinary week. Before the sentence, a picture, because the picture is what keeps the sentence from becoming one more thing on the shelf.
+
+## What a mark is
+
+Walk into a shop where a man has worked for twenty years and you can read him without asking a question. The workbench has grooves from the same cuts, repeated until the wood itself remembers the job. There's an oil stain where the coffee cup always sat. The wrench hooks hang empty in the order his hand reaches for them. Nobody got those grooves from wanting to be a craftsman, or from a weekend about tools. He got them from the work, on ten thousand days he couldn't have told apart.
+
+That is what a mark is. A mark isn't a feeling you have about yourself, and it isn't a title somebody gives you. A mark is what gets left on you by what you've done over and over again for a long time. Feeling wild at dawn doesn't leave a groove on a life. What you do when you get home does.
+
+So here is the sentence. I didn't invent it. Men have been handing it to one another for years because it holds. I've held it up against my own life for a long time, and against the lives of men in every season I can name, and I have never found a place where it lies.
+
+**A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.**
+
+Read it again, slower. It names four marks, not four moods and not four qualities you either have or don't, but four things a man does, which over time leave four things you can see on him the way you can see the grooves on that workbench.
+
+:::margin
+Philippians 2:5 (NIV)
+"In your relationships with one another, have the same mindset as Christ Jesus."
+:::
+
+The four marks are how that mind looks on a man, in a house, on a crew, in an ordinary week.
+
+## He rejects passivity
+
+Every town has a man on a tailgate. He is not a bad man. He has opinions about the weather and the school board and the way the city runs the water department, and he'll share all of them while the work he came to do waits behind him. He's waiting for the right time, or the right price, or the right feeling, and he has been waiting so long that the waiting has started to look like wisdom.
+
+Passivity is the default setting of a man. It almost never looks like laziness. It looks like patience. It looks like keeping the peace. It sounds like "I didn't want to overstep," and the man saying it usually believes he's being humble. The first man in the Bible was passive in exactly this way. When the serpent came into the garden and started twisting the one command God had given, Genesis says the man was with her. He didn't grab the fruit and he didn't argue for it. He stood there, and his standing there was enough to break the world.
+
+Rejecting passivity doesn't mean becoming loud, or pushy, or the kind of man who mistakes volume for strength. It means that when something needs doing and you know it and you're the one standing there, you get off the tailgate. You bring up the hard conversation instead of hoping it gets brought up. You don't require a feeling in order to start. **Stop Waiting** is where we look at this closely.
+
+## He accepts responsibility
+
+The second mark is weight. I helped a friend move a gun safe one August, four hundred pounds of steel down a narrow hallway in heat that made the air thick. There is a moment with a load like that when you're committed. You've lifted it, your friend has lifted it, and the only way through is through. You can't set it down in the hallway. You can't decide halfway along that this isn't really your safe. You carry it to where it's going, then you set it down.
+
+That's what responsibility feels like on a man. A boy waits for responsibility to be assigned to him, then argues about whether the assignment was fair. A man looks at what's in front of him and says "that's mine," even when it isn't his fault and even when nobody would blame him for walking past. The bill nobody wants to open is his. The kid nobody's talking to is his. The apology nobody's making is his. Lamentations says it is good for a man to bear the yoke while he is young: good, not merely tolerable. The weight shapes him. **Pick Up the Weight** shows how to take it without being crushed by it.
+
+## He leads courageously
+
+Somewhere there's a cold stock tank and a group of boys on the bank. The water is colder than any of them expected, and everybody is waiting for somebody to go first. That is what leadership is. It isn't the title or the corner office. It's being the one who goes first into the cold water so that the others can follow.
+
+Somebody has to go first, in every house and every crew and every church. Somebody has to be the first one to say "I was wrong" in a marriage that's been quiet for three days. Somebody has to be the first one to pray out loud at a table where nobody does, the first one to call the brother who's been drifting, the first one to say the true thing in the meeting where everybody's nodding. Courage is not the absence of fear. If you weren't afraid, it wouldn't take courage to move. Courage is what happens when a man is afraid and puts his boots on anyway and walks. When God told Joshua to be strong and courageous, He didn't tell him to stop being afraid. He told him what to do while he was afraid, and why he could do it. **Go First** is about that.
+
+## He expects the greater reward
+
+The last mark is the one that separates a good man from a godly one, and it's the one most men skip, so I've put it last on purpose.
+
+Pecan trees don't hurry. If you plant one this fall, you'll water it for years before it gives you a single nut worth cracking. Every man who has ever planted a pecan orchard was planting for somebody else. You don't plant pecans because you intend to eat pecans. You plant them because you believe in a harvest you won't hold in your own hands, and you're willing to spend your strength on it anyway.
+
+That's the fourth mark. A real man expects the greater reward, God's reward, and that expectation changes what he does with ordinary days more than anything else in this book. He can do the right thing when nobody's looking. He can stay married through a hard decade. He can give money that won't come back and time that won't be thanked, because he believes a Father sees what's done in secret. Hebrews says anyone who comes to God must believe that He exists and that He rewards those who earnestly seek Him. He rewards, and God isn't embarrassed by that word. The man who doesn't expect a reward from God will go looking for one somewhere else: applause, money, women, a bigger truck, a boy's approval, his own father's approval. **Live for a Reward That Lasts** is about that, and I've come to believe it's what makes the other three possible.
+
+## Why four, and why these
+
+Each of these four marks answers a specific way that men break. Passivity is how a man breaks by doing nothing. Blame and evasion are how he breaks by refusing weight. Cowardice, which almost always travels under a nicer name, is how he breaks by hanging back. Living for the wrong reward is how he breaks slowly, over forty years, while looking successful. I have never met a man in trouble whose trouble didn't trace back to one of those four.
+
+Notice the shape. The first three are things a good man of any faith or none might do. The fourth is what makes the other three Christian. It's the reason a man can keep doing the first three when they cost him and nobody claps. Take the fourth out and you have a self-improvement list. Leave it in and you have a way of life that will outlast you.
+
+Same four marks in every season. The garden changes. The marks don't. A young man gets serious now. A young father turns toward his exhausted wife inside the chaos. A man in midlife notices he's drifted toward the place that claps for him and comes home. An older man gets up with no badge to put on and finds the work anyway.
+
+## Before you turn the page
+
+You've got the sentence now. Don't try to fix all four this week. Find the mark that's faintest on you, and hold that one for a while. The men I've watched change didn't change all at once. They worked one mark on one ordinary day and then did it again. May the Father who made you in His image show you the mark He wants to press into you first, and may He be patient with you while it takes, the way He's been patient with me.
+
+
+## Your Turn
+
+---
+
+**Name it**
+
+Because you can't work on a mark you haven't looked at: say which of the four is faintest on you right now, in a full sentence, and say why you think that is.
+
+:::notes
+_______________________________________________
+_______________________________________________
+:::
+
+
+**Do this week**
+
+Because a sentence in a book stays in the book until you put it where your eyes go: write the four marks on an index card in your own handwriting and put it on the truck visor or the shaving mirror, somewhere you'll see it on an ordinary morning this week.
+
+:::notes
+_______________________________________________
+_______________________________________________
+:::
+
+
+**Tell a brother**
+
+Because another man can see marks on you that you can't see on yourself: read him the sentence and ask which of the four he'd say is faintest on you, and let him finish before you answer.
+
+:::notes
+_______________________________________________
+_______________________________________________
+:::
+
+
+**Carry this**
+
+A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+
+:::notes
+_______________________________________________
+:::
+

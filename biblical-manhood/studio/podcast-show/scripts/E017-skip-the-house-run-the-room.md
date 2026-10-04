@@ -6,7 +6,7 @@ Walk Steadfast · main episode · script v1 (batch 3). Internal.
 |---|---|
 | Release | Tue Mar 2, 2027, 5:00 AM CT |
 | Format | Main episode. About 26 min. |
-| Slate | WES "Walk Steadfast, episode seventeen." JONATHON "Tuesday, March second, twenty twenty-seven." WES "Skip the House, Run the Room." |
+| Intro and slate | Per-episode open, Wes leads (SHOW-BIBLE section 5, open system v3, text in _build/intros_data.py). Slate: JONATHON "Episode seventeen. Skip the House, Run the Room." |
 | Source | Book chapter 16, How That Looks on a Man. Training W16. Avoided on purpose: the book's named shapes (locked drawer, fortress, scoreboard, podium, throne, contempt, recliner); the church-foyer face versus the climate at home; David on the roof, Uriah, and Nathan's "You are the man"; Colossians 3:19 and Psalm 32. Also W16's man who drives forty minutes to frame a buddy's deck, the boat picture, the golf handicap, the lunch with an old girlfriend, and its named men. This episode uses the calendar's three shapes only: skip the house, run the room, wear the job as your name. |
 | Focus mark | **Stop Waiting**, named in Pull up a chair and again in Carry this (one contrary act this week, not someday) |
 | Scripture (NIV) | Proverbs 14:12 (checked 2026-10-03), read by Wes |
@@ -31,11 +31,6 @@ Jonathon mid-shout with the whistle in his hand, then a split frame of him slump
 
 [CAM: WIDE]
 
-[CHAPTER: Slate]
-WES: Walk Steadfast, episode seventeen.
-JONATHON: Tuesday, March second, twenty twenty-seven.
-WES: Skip the House, Run the Room.
-
 [CHAPTER: Cold open]
 [CAM: JON MS]
 JONATHON: Theo asked me Saturday, "Why do you only do the coach voice at practice?"
@@ -45,12 +40,22 @@ WES: What's the coach voice?
 JONATHON: (big, bright) "Let's GO, Bluebonnets! Who wants to hit?" (normal, flat) And at home I sound like this.
 [STING 3s]
 
+[CHAPTER: Intro]
+[CAM: 2S]
+(Walk Steadfast open written for E017. Same beats every week, new words. SHOW-BIBLE section 5.)
+WES: This is Walk Steadfast. I'm Wes Hart. We raised three kids in the Hill Country.
+[LOWER THIRD: Wes Hart]
+JONATHON: I'm Jonathon. I drive a minivan, and I've made peace with it.
+[LOWER THIRD: Jonathon]
+WES: Every Tuesday, the long talk about following Jesus as a man.
+JONATHON: The book and the Steadfast video training are on walksteadfast.com.
+WES: Today we ask why the best of a man goes to work.
+JONATHON: Episode seventeen. Skip the House, Run the Room.
+
 [CHAPTER: Pull up a chair]
 [CAM: WIDE]
 WES: Pull up a chair.
-[LOWER THIRD: Wes Hart]
 JONATHON: Coach-pitch is back.
-[LOWER THIRD: Jonathon]
 WES: The Bluebonnets.
 JONATHON: The Bluebonnets. Zero and six last fall. Undefeated in losing.
 WES: Are you going to win one?
@@ -310,6 +315,11 @@ WES: We'll see you at the table.
 JONATHON: Go walk it out.
 (Jonathon reaches for the whistle. Wes slides it off the table into his own shirt pocket without looking. Hold WIDE 2s. Cut.)
 
+[CLOSING MUSIC 3s]
+[CREDITS]
+(Wes, normal credits volume, read like a producer credit. No gap, no ducking. SHOW-BIBLE section 13.)
+WES: Produced with AI voice and video tools.
+
 ## Shorts (5)
 
 | # | Cut | Hook | Length |
@@ -329,17 +339,18 @@ Three shapes a man's inside problem takes on an ordinary week: skip the house, r
 
 Chapters
 00:00 Cold open
-00:23 Pull up a chair
-01:41 The coach voice
-04:51 The title
-08:10 The crew
-10:24 The Word
-13:33 Pushback
-18:28 Two chairs
-19:47 What I actually did
-22:53 This week's challenge
-24:20 Carry this
-24:36 Outro
+00:16 Intro
+00:49 Pull up a chair
+02:06 The coach voice
+05:16 The title
+08:35 The crew
+10:50 The Word
+13:59 Pushback
+18:53 Two chairs
+20:13 What I actually did
+23:19 This week's challenge
+24:46 Carry this
+25:02 Outro
 
 Scripture: Proverbs 14:12 (NIV)
 
@@ -354,8 +365,6 @@ Facebook  facebook.com/steadfastwalk
 TikTok  tiktok.com/@steadfastwalk
 Reddit  reddit.com/user/steadfastwalk
 LinkedIn  linkedin.com/company/steadfastwalk
-
-Walk Steadfast is made with AI-generated video and voices. Wes and Jonathon are characters, and their stories are composites drawn from real men's lives.
 
 Scripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.™ Used by permission. All rights reserved worldwide.
 

@@ -6,7 +6,7 @@ Walk Steadfast · Field Notes · script v1 (batch 4). Internal.
 |---|---|
 | Release | Fri Apr 9, 2027, 5:00 AM CT |
 | Format | Field Notes. About 15 min. **April's order change:** check, tool, question (the verse comes last, with the question). |
-| Slate | WES "Episode twenty-eight. Friday, April ninth." JONATHON "Field Notes. The Chair Report." |
+| Intro and slate | Per-episode open, Wes leads (SHOW-BIBLE section 5, open system v3, text in _build/intros_data.py). Slate: WES "Episode twenty-eight." JONATHON "Field Notes. The Chair Report." |
 | Checks | E027 challenge: find the detail and tell one man; fix one finish line. Single check: Wes's oldest son (21), as part of Wes's check. |
 | Tool on the Table | One honest sentence |
 | From the Table | "How do I talk to my kids about my dad?" |
@@ -31,10 +31,6 @@ Jonathon holding an index card with handwriting and two crossed-out lines visibl
 
 [CAM: WIDE]
 
-[CHAPTER: Slate]
-WES: Episode twenty-eight. Friday, April ninth.
-JONATHON: Field Notes. The Chair Report.
-
 [CHAPTER: Cold open]
 [CAM: JON MS]
 JONATHON: Ruby asked me, "Does he know about me?"
@@ -44,12 +40,22 @@ WES: What'd you tell her?
 JONATHON: The truth. He saw her picture. And he liked it.
 [STING 3s]
 
+[CHAPTER: Intro]
+[CAM: 2S]
+(Walk Steadfast open written for E028. Same beats every week, new words. SHOW-BIBLE section 5.)
+WES: This is Walk Steadfast. I'm Wes Hart. My youngest is working off a truck.
+[LOWER THIRD: Wes Hart]
+JONATHON: I'm Jonathon. Ruby's seven, and she asks better questions than I do.
+[LOWER THIRD: Jonathon]
+WES: Friday we report. My book and the video training are both at walksteadfast.com.
+JONATHON: Today we work out how to talk to your kids about your dad.
+WES: Episode twenty-eight.
+JONATHON: Field Notes. The Chair Report.
+
 [CHAPTER: Check the box]
 [CAM: WIDE]
 JONATHON: Pull up a chair. It's Field Notes. And I'm saving Ruby, because she's the tool this week, and I want to do it right. So you first.
-[LOWER THIRD: Jonathon]
 WES: Me first.
-[LOWER THIRD: Wes Hart]
 [CAM: JON MS]
 JONATHON: The detail. You said shoes. Who'd you tell?
 [CAM: WES MS]
@@ -173,6 +179,11 @@ WES: We'll see you at the table.
 JONATHON: Go walk it out.
 (Jonathon tucks the index card into his Bible at Ephesians 4 and closes it. Hold WIDE 2s. Cut.)
 
+[CLOSING MUSIC 3s]
+[CREDITS]
+(Wes, normal credits volume, read like a producer credit. No gap, no ducking. SHOW-BIBLE section 13.)
+WES: Produced with AI voice and video tools.
+
 ## Shorts (4)
 
 | # | Cut | Hook | Length |
@@ -191,11 +202,12 @@ Field Notes, the Friday check-in from Walk Steadfast. Wes tells his 21-year-old 
 
 Chapters
 00:00 Cold open
-00:17 Check the box
-04:57 Tool on the table
-10:45 From the table
-12:29 Carry this
-12:43 Outro
+00:12 Intro
+00:45 Check the box
+05:26 Tool on the table
+11:13 From the table
+12:58 Carry this
+13:11 Outro
 
 Scripture: Ephesians 4:29 (NIV)
 
@@ -210,8 +222,6 @@ Facebook  facebook.com/steadfastwalk
 TikTok  tiktok.com/@steadfastwalk
 Reddit  reddit.com/user/steadfastwalk
 LinkedIn  linkedin.com/company/steadfastwalk
-
-Walk Steadfast is made with AI-generated video and voices. Wes and Jonathon are characters, and their stories are composites drawn from real men's lives.
 
 Scripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.™ Used by permission. All rights reserved worldwide.
 

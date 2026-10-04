@@ -6,7 +6,7 @@ Walk Steadfast · Field Notes · script v1 (batch 4). Internal.
 |---|---|
 | Release | Fri Apr 23, 2027, 5:00 AM CT |
 | Format | Field Notes. About 13 min. Standard order (check, question, tool). May's order change is due in E034 or E036. |
-| Slate | JONATHON "Episode thirty-two. Friday, April twenty-third." WES "Field Notes. Cutting the String." |
+| Intro and slate | Per-episode open, Jonathon leads (SHOW-BIBLE section 5, open system v3, text in _build/intros_data.py). Slate: JONATHON "Episode thirty-two." WES "Field Notes. Cutting the String." |
 | Checks | E031 challenge: name who counted you in and tell one man; change how you carry one weight from home. Single check: the nephew (22), by text. |
 | From the Table | "My mom still calls me every day. Is that a problem?" (Jonathon's rep, 31, single, unnamed at his request) |
 | Tool on the Table | The Sunday call: trade seven report calls for one real one, and ask three questions about her week before saying anything about yours |
@@ -31,18 +31,26 @@ Jonathon holding up a phone with an incoming call at 7:15 AM labeled "Mama." Tex
 
 [CAM: WIDE]
 
-[CHAPTER: Slate]
-JONATHON: Episode thirty-two. Friday, April twenty-third.
-WES: Field Notes. Cutting the String.
-
 [CHAPTER: Cold open]
 [CAM: JON MS]
-JONATHON: My rep's mom calls him every morning at seven-fifteen. Last Tuesday she called in the middle of a customer meeting. And he picked up.
+JONATHON: My rep's mom calls him every morning at seven-fifteen. Tuesday it was the middle of a customer meeting. He picked up.
 [CAM: WES MS]
 WES: He picked up.
 [CAM: JON CU]
-JONATHON: "Hey, Mama, I'm with a customer." And the customer leaned over and said, "Tell her hi."
+JONATHON: "Hey, Mama, I'm with a customer." The customer leaned over and said, "Tell her hi."
 [STING 3s]
+
+[CHAPTER: Intro]
+[CAM: 2S]
+(Walk Steadfast open written for E032. Same beats every week, new words. SHOW-BIBLE section 5.)
+JONATHON: This is Walk Steadfast. I'm Jonathon. My mom's three and a half hours away.
+[LOWER THIRD: Jonathon]
+WES: I'm Wes Hart. I share mine with two brothers.
+[LOWER THIRD: Wes Hart]
+JONATHON: Friday we report, two parts this week. For more, Wes's book and the video training, walksteadfast.com.
+WES: A man's mom calls daily, and today he asks if that's a problem.
+JONATHON: Episode thirty-two.
+WES: Field Notes. Cutting the String.
 
 [CHAPTER: Check the box]
 [CAM: WIDE]
@@ -155,6 +163,11 @@ WES: And tomorrow's the donuts. See you at the table.
 JONATHON: Go walk it out.
 (Jonathon's phone buzzes on the table. He glances at it, smiles, and turns it face down. Hold WIDE 2s. Cut.)
 
+[CLOSING MUSIC 3s]
+[CREDITS]
+(Wes, normal credits volume, read like a producer credit. No gap, no ducking. SHOW-BIBLE section 13.)
+WES: Produced with AI voice and video tools.
+
 ## Shorts (4)
 
 | # | Cut | Hook | Length |
@@ -173,11 +186,12 @@ Also this week, Wes tells his older brother about their mother and the laundry b
 
 Chapters
 00:00 Cold open
-00:24 Check the box
-04:01 From the table
-09:38 Tool on the table
-12:55 Carry this
-13:06 Outro
+00:18 Intro
+00:50 Check the box
+04:27 From the table
+10:04 Tool on the table
+13:21 Carry this
+13:32 Outro
 
 Scripture: Philippians 2:4 (NIV)
 
@@ -192,8 +206,6 @@ Facebook  facebook.com/steadfastwalk
 TikTok  tiktok.com/@steadfastwalk
 Reddit  reddit.com/user/steadfastwalk
 LinkedIn  linkedin.com/company/steadfastwalk
-
-Walk Steadfast is made with AI-generated video and voices. Wes and Jonathon are characters, and their stories are composites drawn from real men's lives.
 
 Scripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.™ Used by permission. All rights reserved worldwide.
 

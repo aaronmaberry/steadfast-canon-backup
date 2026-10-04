@@ -1,0 +1,18 @@
+You are a senior showrunner for top-chart interview and conversation podcasts, reviewing a proposed opening system for a twice-weekly faith show for men called "Walk Steadfast". Read-only task. Do NOT edit, create or delete any files. Print your answer to stdout only.
+
+Read these files in the current directory:
+1. research/TOP-PODCAST-STRUCTURES.md (research on how top shows open and structure episodes, with sources)
+2. SHOW-BIBLE.md sections 2, 3, 4, 5, 6, 7 and 9 (the current show rules, formats, the current near-identical intro, the outro)
+3. research/_work/intro-draft-v1.md (the proposed new system: per-episode unique intros built on fixed beats, plus five sample intros)
+4. hosts/WES-HART-HOST.md and hosts/JONATHON-CHARACTER.md, skim for facts the intros may use
+5. /home/box/agent-data/workflows/unslop-global/SKILL.md (writing rules the spoken lines must follow)
+
+Context. Wes and Jonathon are two real men at a table. The owner first asked for one close-to-identical intro every week. He now wants each of 80 written episodes (and later 104) to open with an intro unique to that episode, keeping the same function: who they are, what the show and Steadfast are (the book, the video training, walksteadfast.com), then the spoken slate (number, date, title), then the topic. The intro follows a cold open of at most 15 seconds and a 3-second sting. Mains run 25-30 minutes (Tuesday), Field Notes 13-15 minutes (Friday, a report on Tuesday's challenge).
+
+Give a hard, specific critique in this order:
+A. What the draft system gets right and wrong against the research (length, beat order, the hook, repetition, recognizability as a sign-on, the risk of unique intros feeling unanchored). Should any phrase stay verbatim every week as an anchor? Recommend one clear answer.
+B. Line-by-line notes on each of the five sample intros (E001, E002, E013, E040, E079). Flag anything that sounds written rather than said, any unslop violation, any claim not supported by the host files, anything that steps on the cold open or the first line of the next chapter. Then give your rewrite of E001 that you would record tomorrow.
+C. The episode architecture after the intro. Using the research, propose where the first turn, re-engagements, the mid-show re-orientation for late joiners, the subscribe ask, plugs and the challenge should sit in a 26-minute main and a 14-minute Field Notes. Be concrete with timestamps.
+D. A season progression idea for 104 episodes: how the intro should change over the year, and which recurring rituals or annual payoffs are worth building (keep it to the strongest five).
+E. Critique your own answer in A-D. What did you get wrong or overstate? Then give the revised recommendations as a short numbered list.
+Plain text, no em dashes. Under 1,800 words.

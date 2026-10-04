@@ -2,7 +2,7 @@
 
 Watch him in the church foyer. He wants to know what you thought of the message. He spots the new guy alone by the coffee and walks over, and the welcome is warm because he means it. Now follow him home. Somewhere between the front door and the stove his voice crosses a border. Same shirt. Same ring. The weather in that house is something else entirely.
 
-That's what the trouble from the last chapter looks like on a man. It doesn't need a wreck. A nice finish works fine, and being capable works even better. Sin is cut to fit men in particular ways, and if you can't recognize the pattern, you'll stand at the bathroom sink every morning and tell the guy shaving that he's all right.
+That's what the trouble we just named looks like on a man. It doesn't need a wreck. A nice finish works fine, and being capable works even better. Sin is cut to fit men in particular ways, and if you can't recognize the pattern, you'll stand at the bathroom sink every morning and tell the guy shaving that he's all right.
 
 ## What it wears
 
@@ -110,7 +110,7 @@ You've likely spotted your shape. A prophet pointed, David answered with one sho
 
 **Name it**
 
-Because whoever has the shape on is always the last to see it. Choose yours from this chapter's list, the drawer or the throne or one of the others. Then point to where it showed up in the real hours of this past week.
+Whoever has the shape on is always the last to see it. Choose yours from this chapter's list, the drawer or the throne or one of the others. Then point to where it showed up in the real hours of this past week.
 
 :::notes
 _______________________________________________
@@ -120,7 +120,7 @@ _______________________________________________
 
 **Do this week**
 
-Because someone close to you already knows. Married, ask your wife where she sees you hiding and where you come across harsh. Single, ask a brother. Let them say all of it. Don't defend yourself. Thank them.
+Someone close to you already knows. Married, ask your wife where she sees you hiding and where you come across harsh. Single, ask a brother. Let them say all of it. Don't defend yourself. Thank them.
 
 :::notes
 _______________________________________________
@@ -130,7 +130,7 @@ _______________________________________________
 
 **Tell a brother**
 
-Because David needed a Nathan, and so do you. Tell him what's in the drawer, even if it's only keeping what you really think to yourself. Then give him permission to point when he sees the shape on you.
+David needed a Nathan, and so do you. Tell him what's in the drawer, even if it's only keeping what you really think to yourself. Then give him permission to point when he sees the shape on you.
 
 :::notes
 _______________________________________________

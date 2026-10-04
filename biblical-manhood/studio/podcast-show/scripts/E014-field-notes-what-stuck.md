@@ -6,7 +6,7 @@ Walk Steadfast · Field Notes · script v1 (batch 2, written after reader panel 
 |---|---|
 | Release | Fri Feb 19, 2027, 5:00 AM CT |
 | Format | Field Notes, the first review of the season. About 15 min. |
-| Slate | JONATHON "Episode fourteen. Friday, February nineteenth." WES "Field Notes. What Stuck." |
+| Intro and slate | Per-episode open, Wes leads (SHOW-BIBLE section 5, open system v3, text in _build/intros_data.py). Slate: WES "Episode fourteen." JONATHON "Field Notes. What Stuck." |
 | Checks | E013 challenge: do one thing this week that only God sees, and keep your mouth shut about it. Both men did it, and neither reports what it was. That's the whole joke and the whole point. Single check: the nephew's one-word text. |
 | From the Table | "What do we keep doing from the first six weeks?" (the season review) |
 | Tool on the Table | The Thursday text |
@@ -32,10 +32,6 @@ Wes and Jonathon both with a finger to their lips, deadpan. Text: **"NOT TELLING
 
 [CAM: WIDE]
 
-[CHAPTER: Slate]
-JONATHON: Episode fourteen. Friday, February nineteenth.
-WES: Field Notes. What Stuck.
-
 [CHAPTER: Cold open]
 [CAM: JON MS]
 JONATHON: Did you do it?
@@ -47,13 +43,23 @@ JONATHON: What was it?
 WES: No.
 [STING 3s]
 
+[CHAPTER: Intro]
+[CAM: 2S]
+(Walk Steadfast open written for E014. Same beats every week, new words. SHOW-BIBLE section 5.)
+WES: This is Walk Steadfast. I'm Wes Hart. The back-porch gutter is still loose.
+[LOWER THIRD: Wes Hart]
+JONATHON: I'm Jonathon. Ruby puts my phone in jail at supper.
+[LOWER THIRD: Jonathon]
+WES: Friday's the report, plus a look back at season one. My book and the video training are both at walksteadfast.com.
+JONATHON: And today we figure out what's worth keeping.
+WES: Episode fourteen.
+JONATHON: Field Notes. What Stuck.
+
 [CHAPTER: Check the box]
 [CAM: WIDE]
 (Wes shrugs off the field jacket and hangs it on his chair back.)
 JONATHON: Pull up a chair. It's Field Notes, and this is the hardest check-the-box we've ever done, because the challenge was to do something nobody sees and then not tell anybody. Including us. Including you.
-[LOWER THIRD: Jonathon]
 WES: So the box is checked, and it's empty.
-[LOWER THIRD: Wes Hart]
 JONATHON: For the record, Tuesday was work for God's pay. One thing this week that only he sees. And keep your mouth shut about it.
 WES: And I'll start, because I already failed this one once on Tuesday. I did it. It was Wednesday afternoon. That's all you get.
 JONATHON: That's it?
@@ -210,6 +216,11 @@ WES: We'll see you at the table.
 JONATHON: Go walk it out.
 (Jonathon refolds the list and slides it across to Wes. Wes reads it, takes a pen from his shirt pocket, and writes one word at the bottom. Jonathon leans over to read it. Wes turns it face-down. Hold WIDE 2s. Cut.)
 
+[CLOSING MUSIC 3s]
+[CREDITS]
+(Wes, normal credits volume, read like a producer credit. No gap, no ducking. SHOW-BIBLE section 13.)
+WES: Produced with AI voice and video tools.
+
 ## Shorts (4)
 
 | # | Cut | Hook | Length |
@@ -228,11 +239,12 @@ Field Notes, the Friday check-in from Walk Steadfast, and our first review of th
 
 Chapters
 00:00 Cold open
-00:12 Check the box
-04:54 From the table
-11:40 Tool on the table
-13:29 Carry this
-13:43 Outro
+00:08 Intro
+00:40 Check the box
+05:21 From the table
+12:07 Tool on the table
+13:56 Carry this
+14:11 Outro
 
 Scripture: Philippians 3:13-14 (NIV)
 
@@ -247,8 +259,6 @@ Facebook  facebook.com/steadfastwalk
 TikTok  tiktok.com/@steadfastwalk
 Reddit  reddit.com/user/steadfastwalk
 LinkedIn  linkedin.com/company/steadfastwalk
-
-Walk Steadfast is made with AI-generated video and voices. Wes and Jonathon are characters, and their stories are composites drawn from real men's lives.
 
 Scripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.™ Used by permission. All rights reserved worldwide.
 

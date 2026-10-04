@@ -1,0 +1,120 @@
+- generic [active] [ref=f104e1]:
+  - link [ref=f104e3] [cursor=pointer]:
+    - /url: https://www.sos.texas.gov/
+    - img "Texas Secretary of State" [ref=f104e4]
+  - list [ref=f104e5]:
+    - listitem:
+      - link "UCC" [ref=f104e6] [cursor=pointer]:
+        - /url: https://direct.sos.state.tx.us/home/home-ucc.asp
+    - listitem:
+      - link "Business Organizations" [ref=f104e7] [cursor=pointer]:
+        - /url: https://direct.sos.state.tx.us/home/home-corp.asp
+    - listitem:
+      - link "Trademarks" [ref=f104e8] [cursor=pointer]:
+        - /url: https://www.sos.state.tx.us/corp/tradepatents.shtml
+    - listitem:
+      - link "Account" [ref=f104e9] [cursor=pointer]:
+        - /url: https://direct.sos.state.tx.us/acct/acct-menu.asp
+    - listitem:
+      - link "Help/Fees" [ref=f104e10] [cursor=pointer]:
+        - /url: https://direct.sos.state.tx.us/help/help.asp
+    - listitem:
+      - link "Briefcase" [ref=f104e11] [cursor=pointer]:
+        - /url: https://direct.sos.state.tx.us/acct/acct-batch.asp?spage=batch-view
+    - listitem:
+      - link "Logout" [ref=f104e12] [cursor=pointer]:
+        - /url: /acct/acct-logout.asp
+  - table [ref=f104e13]:
+    - rowgroup [ref=f104e14]:
+      - row [ref=f104e15]:
+        - cell [ref=f104e16]
+      - row [ref=f104e17]:
+        - cell [ref=f104e18]
+      - row [ref=f104e19]:
+        - cell [ref=f104e20]
+      - row [ref=f104e21]:
+        - cell [ref=f104e22]:
+          - table [ref=f104e23]:
+            - rowgroup [ref=f104e24]:
+              - row [ref=f104e25]:
+                - cell [ref=f104e26]
+                - cell "Corporations Section P.O.Box 13697 Austin, Texas 78711-3697" [ref=f104e27]
+                - cell [ref=f104e29]
+                - cell "Robert S. Howden Secretary of State" [ref=f104e32]
+                - cell [ref=f104e34]
+              - row [ref=f104e35]:
+                - cell "Office of the Secretary of State Transaction Receipt" [ref=f104e36]
+              - row [ref=f104e42]:
+                - cell [ref=f104e43]
+                - 'cell "Session ID: 092126DC3556 Document #: 1632024270002 September 21, 2026" [ref=f104e44]'
+              - row [ref=f104e45]:
+                - cell "Your document, or your order for copies or certificates, has been received through SOSDirect. For future reference, please make note of the document number above. If you submitted a document, this receipt is not evidence that it has been approved for filing. All documents must be reviewed for statutory compliance. You will be notified by email when your document is either filed or rejected, or when your order is ready. To track the progress of a document, visit the Business Filing Tracker at:https://webservices.sos.state.tx.us/filing-status/status.aspx To return to the SOSDirect Business Organizations menu, click here. Thank you for allowing us to assist you with your request. Whether you are filing a business or need assistance with another service, the Texas Secretary of State is here to serve you." [ref=f104e46]
+  - generic [ref=f104e56]:
+    - generic [ref=f104e57]:
+      - list [ref=f104e59]:
+        - listitem [ref=f104e60]:
+          - link "SOSDirect - Business Filings" [ref=f104e61] [cursor=pointer]:
+            - /url: https://www.sos.texas.gov/corp/sosda/index.shtml
+        - listitem [ref=f104e62]:
+          - link "Business Copies and Certificates" [ref=f104e63] [cursor=pointer]:
+            - /url: https://www.sos.texas.gov/corp/filingandothergeneralfaqs.shtml#CC
+        - listitem [ref=f104e64]:
+          - link "Uniform Commercial Code" [ref=f104e65] [cursor=pointer]:
+            - /url: https://www.sos.texas.gov/ucc/index.shtml
+        - listitem [ref=f104e66]:
+          - link "Texas Businesses Against Trafficking" [ref=f104e67] [cursor=pointer]:
+            - /url: https://www.sos.texas.gov/corp/texas-businesses-against-trafficking.shtml
+        - listitem [ref=f104e68]:
+          - link "Texas.gov" [ref=f104e69] [cursor=pointer]:
+            - /url: http://www.texas.gov
+      - list [ref=f104e71]:
+        - listitem [ref=f104e72]:
+          - link "VoteTexas.gov - Voter Information" [ref=f104e73] [cursor=pointer]:
+            - /url: https://www.votetexas.gov
+        - listitem [ref=f104e74]:
+          - link "Register to Vote" [ref=f104e75] [cursor=pointer]:
+            - /url: https://www.votetexas.gov/register-to-vote/where-to-get-an-application-2.html
+          - text: "&"
+          - link "Voter I.D." [ref=f104e76] [cursor=pointer]:
+            - /url: https://www.votetexas.gov/register-to-vote/need-id.html
+        - listitem [ref=f104e77]:
+          - link "Website Policies" [ref=f104e78] [cursor=pointer]:
+            - /url: https://www.sos.texas.gov/policies.shtml
+        - listitem [ref=f104e79]:
+          - link "Open Records" [ref=f104e80] [cursor=pointer]:
+            - /url: https://www.sos.texas.gov/records.shtml
+        - listitem [ref=f104e81]:
+          - link "Contact us" [ref=f104e82] [cursor=pointer]:
+            - /url: https://www.sos.texas.gov/contact.shtml
+      - list [ref=f104e84]:
+        - listitem [ref=f104e85]:
+          - link "Texas Homeland Security" [ref=f104e86] [cursor=pointer]:
+            - /url: http://www.texashomelandsecurity.com/
+        - listitem [ref=f104e87]:
+          - link "Where the Money Goes" [ref=f104e88] [cursor=pointer]:
+            - /url: https://comptroller.texas.gov/transparency/spending/
+        - listitem [ref=f104e89]:
+          - link "Fraud Reporting" [ref=f104e90] [cursor=pointer]:
+            - /url: https://sao.fraud.texas.gov/ReportFraud/
+        - listitem [ref=f104e91]:
+          - link "Texas Veterans Portal" [ref=f104e92] [cursor=pointer]:
+            - /url: http://veterans.portal.texas.gov
+    - paragraph [ref=f104e94]:
+      - link [ref=f104e95] [cursor=pointer]:
+        - /url: https://www.facebook.com/txsecretary
+        - img "Facebook" [ref=f104e96]
+      - link [ref=f104e97] [cursor=pointer]:
+        - /url: https://www.instagram.com/texassecretary/
+        - img "Instragram" [ref=f104e98]
+      - link [ref=f104e99] [cursor=pointer]:
+        - /url: https://twitter.com/TXsecofstate
+        - img "Twitter" [ref=f104e100]
+      - link [ref=f104e101] [cursor=pointer]:
+        - /url: https://www.youtube.com/channel/UC7NJ9yjB4K-1MOMFzH6hAbQ/videos
+        - img "YouTube" [ref=f104e102]
+      - link [ref=f104e103] [cursor=pointer]:
+        - /url: https://www.sos.texas.gov/rss/index.shtml
+        - img "RSS Feed" [ref=f104e104]
+      - link [ref=f104e105] [cursor=pointer]:
+        - /url: https://public.govdelivery.com/accounts/TXSOS/subscriber/new?qsp=TXSOS_1
+        - img "Receive email updates" [ref=f104e106]

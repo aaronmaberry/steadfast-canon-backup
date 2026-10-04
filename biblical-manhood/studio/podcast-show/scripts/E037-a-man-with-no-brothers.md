@@ -6,7 +6,7 @@ Walk Steadfast · main episode · script v1 (batch 5). Internal.
 |---|---|
 | Release | Tue May 11, 2027, 5:00 AM CT |
 | Format | Main episode. About 25 min. Pentecost week (Sun May 16). |
-| Slate | WES "Walk Steadfast, episode thirty-seven." JONATHON "Tuesday, May eleventh, twenty twenty-seven." WES "A Man With No Brothers." |
+| Intro and slate | Per-episode open, Jonathon leads (SHOW-BIBLE section 5, open system v3, text in _build/intros_data.py). Slate: JONATHON "Episode thirty-seven. A Man With No Brothers." |
 | Source | Book chapter 13, A Man With No Brothers (no plug in the calendar). Training W13. **Avoided on purpose.** From the book: Dale and the hospital intake form (the second name, two in the morning); "I didn't know I didn't have anybody until I needed somebody"; buddies vs. brothers as the frame; the twenty-minute call with three questions and a prayer at the same hour; the three-month ask sentence (that's chapter 14 and E039's ground); Prov 27:17; 1 Sam 23:16 (Jonathan at Horesh); Mark 14:34 and the garden; "I've been wanting somebody to ask me that." From W13: Irving (six hundred contacts in a hardware-store parking lot, furnace filters, "On it, brother," "It sounds overdue"); the ladder with nobody at the bottom; the softball dugout and group-text scores; Homer the widower (the TV, the weather channel, the cemetery two rows over, "I thought it was just me," doughnuts); Mack in the parking garage; "go pull up a chair beside him." **The show's angle:** "You can have two brothers and no brothers" (Wes's blood brothers; the barn); "known by name" (Jonathon's contacts list saved by kid and role); "pity the man who gets himself up"; Pentecost as a room the men who ran came back to; Merle's quartet, where somebody needs you to show up and the chord has a hole. **Overlap flag:** Merle (a widower) and W13's Homer (a widower) share a category. Merle's story is a quartet with no grief-loneliness imagery. Keep it that way. Jonathon's contact list is near Irving's scroll, but it's about names, not a crisis call. |
 | Focus mark | **Stop Waiting**, named after the door story and in Going first ("One of us has to drive"). |
 | Scripture (NIV) | Ecclesiastes 4:10 (checked 2026-10-03), read by Jonathon. The only card. Acts 2:1 is paraphrased ("they were all together in one place") with no card. |
@@ -25,32 +25,36 @@ Walk Steadfast · main episode · script v1 (batch 5). Internal.
 
 ## Thumbnail
 
-Wes on a farmhouse porch holding one side of an old wood screen door (AI composite still), another man's hand on the other edge, his face out of frame. Text: **"WHO DO YOU TALK TO?"** Variant: Jonathon holding up his phone to the camera with contacts that read "Harper's Dad / Twins Dad." Text: **"NO NAMES."**
+Wes on a farmhouse porch holding one side of an old wood screen door (still image), another man's hand on the other edge, his face out of frame. Text: **"WHO DO YOU TALK TO?"** Variant: Jonathon holding up his phone to the camera with contacts that read "Harper's Dad / Twins Dad." Text: **"NO NAMES."**
 
 ## Script
 
 [CAM: WIDE]
 
-[CHAPTER: Slate]
-WES: Walk Steadfast, episode thirty-seven.
-JONATHON: Tuesday, May eleventh, twenty twenty-seven.
-WES: A Man With No Brothers.
-
 [CHAPTER: Cold open]
 [CAM: JON MS]
-JONATHON: I made my mother a pot pie Saturday night. In her kitchen. From her recipe. She took one bite, put her fork down, and said, "Store crust."
+JONATHON: I made my mother a pot pie Saturday. Her kitchen, her recipe. One bite, fork down: "Store crust."
 [CAM: WES MS]
 WES: Did you give up your sister?
 [CAM: JON CU]
-JONATHON: I said I found it online. And my mom looked at me for a long time, and took another bite, and said, "Tell your sister thank you."
+JONATHON: I said I found it online. She took another bite and said, "Tell your sister thank you."
 [STING 3s]
+
+[CHAPTER: Intro]
+[CAM: 2S]
+(Walk Steadfast open written for E037. Same beats every week, new words. SHOW-BIBLE section 5.)
+JONATHON: This is Walk Steadfast. I'm Jonathon. One sister, no brothers.
+[LOWER THIRD: Jonathon]
+WES: I'm Wes Hart. Two brothers, which hasn't made it easier.
+[LOWER THIRD: Wes Hart]
+JONATHON: Twice a week, following Jesus as a man. The book and the video training that go with this table are at walksteadfast.com.
+WES: Today we find out who'd know if you fell this week.
+JONATHON: Episode thirty-seven. A Man With No Brothers.
 
 [CHAPTER: Pull up a chair]
 [CAM: WIDE]
 WES: Pull up a chair.
-[LOWER THIRD: Wes Hart]
 JONATHON: She knew in one bite. One. Thirty years she's been buying that crust and hiding the box.
-[LOWER THIRD: Jonathon]
 WES: Where does she hide the box?
 JONATHON: I don't know. That's the part that bothers me. I've been in that kitchen my whole life. (sips coffee) But she ate two helpings. And she said it was good. And she said it the way she says things are good when she means it, which is short. "That's good, Jonathon." That's it. That's the review.
 WES: And your sister?
@@ -247,6 +251,11 @@ JONATHON: Links below. Go walk it out.
 WES: See you at the table.
 (Jonathon picks up his phone, scrolls, types something short with his thumb, and puts it face down. Wes watches and doesn't ask. Hold WIDE 2s. Cut.)
 
+[CLOSING MUSIC 3s]
+[CREDITS]
+(Wes, normal credits volume, read like a producer credit. No gap, no ducking. SHOW-BIBLE section 13.)
+WES: Produced with AI voice and video tools.
+
 ## Shorts (5)
 
 | # | Cut | Hook | Length |
@@ -266,16 +275,17 @@ Ecclesiastes 4:10 pities the man who falls with no one to help him up, not the o
 
 Chapters
 00:00 Cold open
-00:33 Pull up a chair
-03:21 The door
-07:01 Twins Dad
-10:25 The Word
-13:09 The quartet
-15:59 Pushback
-21:10 Going first
-23:24 This week's challenge
-24:41 Carry this
-24:52 Outro
+00:19 Intro
+00:53 Pull up a chair
+03:41 The door
+07:21 Twins Dad
+10:45 The Word
+13:29 The quartet
+16:19 Pushback
+21:30 Going first
+23:44 This week's challenge
+25:02 Carry this
+25:12 Outro
 
 Scripture: Ecclesiastes 4:10 (NIV)
 
@@ -290,8 +300,6 @@ Facebook  facebook.com/steadfastwalk
 TikTok  tiktok.com/@steadfastwalk
 Reddit  reddit.com/user/steadfastwalk
 LinkedIn  linkedin.com/company/steadfastwalk
-
-Walk Steadfast is made with AI-generated video and voices. Wes and Jonathon are characters, and their stories are composites drawn from real men's lives.
 
 Scripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.™ Used by permission. All rights reserved worldwide.
 

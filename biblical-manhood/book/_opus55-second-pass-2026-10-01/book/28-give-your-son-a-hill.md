@@ -105,7 +105,7 @@ Keeping your seat is hard obedience, and most of us stand up too soon. If you ha
 
 **Name it**
 
-Because a boy can be loved and never stretched, and he'll feel what's missing. Write down whether your son is climbing anything right now that's real, a stretch, and his to finish. If not, write what's been in the way. Too much protecting, or doing it for him.
+A boy can be loved and never stretched, and he'll feel what's missing. Write down whether your son is climbing anything right now that's real, a stretch, and his to finish. If not, write what's been in the way. Too much protecting, or doing it for him.
 
 :::notes
 _______________________________________________
@@ -115,7 +115,7 @@ _______________________________________________
 
 **Do this week**
 
-Because a single hill teaches the whole lesson. Before Sunday, give him one that fits him, then sit on your hands. Afterward, get him talking about what he figured out, and tell him what you watched him do. No son? Find a fatherless boy, give him a real job, and sit where he can see you.
+One hill teaches the whole lesson. Before Sunday, give him one that fits him, then sit on your hands. Afterward, get him talking about what he figured out, and tell him what you watched him do. No son? Find a fatherless boy, give him a real job, and sit where he can see you.
 
 :::notes
 _______________________________________________
@@ -125,7 +125,7 @@ _______________________________________________
 
 **Tell a brother**
 
-Because you'll misjudge the size of it by yourself. Tell him what you handed your son and how hard it was to keep still. Ask what hard things his father gave him, and what he's handing out now. No son? Tell him about the boy you sent up a hill, and whether you managed to stay seated.
+By yourself, you'll misjudge the size of it. Tell him what you handed your son and how hard it was to keep still. Ask what hard things his father gave him, and what he's handing out now. No son? Tell him about the boy you sent up a hill, and whether you managed to stay seated.
 
 :::notes
 _______________________________________________

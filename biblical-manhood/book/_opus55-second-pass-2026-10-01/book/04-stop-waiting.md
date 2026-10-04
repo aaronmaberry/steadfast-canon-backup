@@ -114,7 +114,7 @@ Nobody taught you to skip that stair on purpose. You picked it up from the men y
 
 **Name it**
 
-Because a thing you never say out loud stays in charge. Write down the one thing you've put off longest. Beside it, write how long. Be honest.
+Whatever you never say out loud stays in charge. Write down the one thing you've put off longest. Beside it, write how long. Be honest.
 
 :::notes
 _______________________________________________
@@ -124,7 +124,7 @@ _______________________________________________
 
 **Do this week**
 
-Because years vanish in the gap between knowing and doing. Pick a workday and, before noon, make the smallest real move on that thing. Feeling ready isn't required. New baby, and you've been saying "after this crazy stretch"? The stretch is the season. Ten minutes with her at the counter tonight, both phones face down, counts.
+Years vanish in the gap between knowing and doing. Pick a workday and, before noon, make the smallest real move on that thing. Feeling ready isn't required. New baby, and you've been saying "after this crazy stretch"? The stretch is the season. Ten minutes with her at the counter tonight, both phones face down, counts.
 
 :::notes
 _______________________________________________
@@ -134,7 +134,7 @@ _______________________________________________
 
 **Tell a brother**
 
-Because it's easier to move when someone's watching for it. Tell one man what you've been stepping around and what you did, and ask him to bring it up again next week.
+It's easier to move when someone's watching for it. Tell one man what you've been stepping around and what you did, and ask him to bring it up again next week.
 
 :::notes
 _______________________________________________

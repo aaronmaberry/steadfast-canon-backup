@@ -4,7 +4,7 @@ A lamp sat on a moving box, long enough to press a ring into the cardboard. KITC
 
 Press him and he'll tell you real life kicks off when some woman agrees to marry him.
 
-The next several chapters are about marriage. If you're not married, this chapter is yours before it's anybody else's. Then stay. Everything that follows is something you can build on now.
+A good stretch of what's ahead is about marriage. If you're not married, this chapter is yours before it's anybody else's. Then stay. Everything that follows is something you can build on now.
 
 ## Three different men
 
@@ -124,7 +124,7 @@ Shut this book without the old whisper that you're only half of something. The m
 
 **Name it**
 
-Because a man can spend years in a waiting room and call it patience. Which seat is yours: never married, divorced, or widowed? Write it down, and then write how long you've been talking as if your real life is still coming.
+Plenty of men spend years in a waiting room and call it patience. Which seat is yours: never married, divorced, or widowed? Write it down, and then write how long you've been talking as if your real life is still coming.
 
 :::notes
 _______________________________________________
@@ -134,7 +134,7 @@ _______________________________________________
 
 **Do this week**
 
-Because a house goes up one task at a time. If you've never married, get one thing done before Sunday: your rooms, a meal for someone, a call to a brother, an afternoon with a fatherless boy, or the honest ask. If you're single again, pick one of those, and tell God two true things, one about what you lost and one about what you did.
+Houses go up one task at a time. If you've never married, get one thing done before Sunday: your rooms, a meal for someone, a call to a brother, an afternoon with a fatherless boy, or the honest ask. If you're single again, pick one of those, and tell God two true things, one about what you lost and one about what you did.
 
 :::notes
 _______________________________________________
@@ -144,7 +144,7 @@ _______________________________________________
 
 **Tell a brother**
 
-Because nobody drifts faster than a man whose week no one sees. Let him know what seat you're in and what you picked to do. If you're divorced and starting to think about dating, ask him straight whether you're ready, and listen to the answer.
+Nobody drifts faster than a man whose week no one sees. Let him know what seat you're in and what you picked to do. If you're divorced and starting to think about dating, ask him straight whether you're ready, and listen to the answer.
 
 :::notes
 _______________________________________________

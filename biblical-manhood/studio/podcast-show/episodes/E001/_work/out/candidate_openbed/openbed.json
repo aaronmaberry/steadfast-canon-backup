@@ -1,0 +1,14 @@
+{
+ "bed_gain_db": -21.1,
+ "sting_gain_db": -1.7000000476837158,
+ "bed_alone_lufs_open_and_slate": -35.1,
+ "voices_lufs_open_and_slate": -16.2,
+ "voices_plus_bed_lufs": -16.2,
+ "bed_alone_lufs_slate": -33.8,
+ "theme_map": "theme 0.12-23.04s, then 9.3-22.25s (0.3 s crossfade at the 4-bar repeat)",
+ "fade_out_file_s": [
+  50.31,
+  51.81
+ ],
+ "music_peak_dbfs": -3.0
+}

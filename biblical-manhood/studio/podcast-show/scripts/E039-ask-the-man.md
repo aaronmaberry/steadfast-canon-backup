@@ -6,7 +6,7 @@ Walk Steadfast · main episode · script v1 (batch 5). Internal. Season 4 premie
 |---|---|
 | Release | Tue May 18, 2027, 5:00 AM CT |
 | Format | Main episode. About 25 min. Season 4 opener. Jonathon's mother's birthday. |
-| Slate | WES "Walk Steadfast, episode thirty-nine." JONATHON "Tuesday, May eighteenth, twenty twenty-seven." WES "Ask the Man." |
+| Intro and slate | Per-episode open, Wes leads (SHOW-BIBLE section 5, open system v3, text in _build/intros_data.py). Slate: WES "Episode thirty-nine. Ask the Man." |
 | Source | Book chapter 14, Ask the Man. Training W14 (T plug, premiere). **Avoided on purpose.** From the book: Harlan and "Ride with me Saturday"; the feed truck and the noon pay-phone call; "Well. You paid attention"; the chain and 2 Tim 2:2; Titus 2:6-7; "don't lead with the word mentor"; the narrow-question list; watch his wife's face; act on it and report back; "Don't try to make him your father"; "Saturday I'm hanging a gate"; "Mostly he was keeping me alive"; "eight seconds." From W14: Lamar, Luther and the potato salad (the funeral lunch, the fifteen-minute kitchen table, the crossword); two trucks at a four-way stop; backing a trailer from a pamphlet; swimming lessons from a drowning man; borrowing the post-hole digger; "His kids still come home"; the man waxing a clean car; Lenny's walk around the house; Jed, the brakes and "hold the flashlight"; "my mom calls every night at supper"; the relay baton. **The show's angle:** the middle of the Mr. Abernathy story, never told before. He asked a question and left. Wes waited nineteen days to send the text, "I'd like you to ask me again." Mr. Abernathy: "A man has to want it enough to ask. Otherwise it's my breakfast, not yours." Also "become" as catching a man like an accent (Wes's table taps), Jonathon's man ahead being his own father-in-law (the man who stayed, including the golf years), and "Nobody asks the man under the van." |
 | Focus mark | **Stop Waiting**, named in Pull up a chair and in Going first |
 | Scripture (NIV) | Proverbs 13:20 (checked 2026-10-03), read by Wes. The only card. |
@@ -25,17 +25,12 @@ Walk Steadfast · main episode · script v1 (batch 5). Internal. Season 4 premie
 
 ## Thumbnail
 
-Wes holding a phone at arm's length on a porch at dusk (AI composite still), the white diner mug on the rail. Text: **"19 DAYS."** Variant: Wes holding the white mug, deadpan. Text: **"ASK ME AGAIN."**
+Wes holding a phone at arm's length on a porch at dusk (still image), the white diner mug on the rail. Text: **"19 DAYS."** Variant: Wes holding the white mug, deadpan. Text: **"ASK ME AGAIN."**
 
 ## Script
 
 [CAM: WIDE]
 (The creek rock from E038 sits on the shelf behind Wes, words now painted on it, too small to read. No one mentions it.)
-
-[CHAPTER: Slate]
-WES: Walk Steadfast, episode thirty-nine.
-JONATHON: Tuesday, May eighteenth, twenty twenty-seven.
-WES: Ask the Man.
 
 [CHAPTER: Cold open]
 [CAM: WES MS]
@@ -46,12 +41,21 @@ JONATHON: Who to?
 WES: (picks up the white mug) The man who owned this.
 [STING 3s]
 
+[CHAPTER: Intro]
+[CAM: 2S]
+(Walk Steadfast open written for E039. Same beats every week, new words. SHOW-BIBLE section 5.)
+WES: This is Walk Steadfast, and a new season starts today. I'm Wes Hart, fifty-two.
+[LOWER THIRD: Wes Hart]
+JONATHON: I'm Jonathon. After we met, it took me three months to text Wes.
+[LOWER THIRD: Jonathon]
+WES: Following Jesus as a man, and this season, the men around you. The book and the video training are at walksteadfast.com.
+JONATHON: Today we talk about why a man has to ask.
+WES: Episode thirty-nine. Ask the Man.
+
 [CHAPTER: Pull up a chair]
 [CAM: WIDE]
 WES: Pull up a chair. New season.
-[LOWER THIRD: Wes Hart]
 JONATHON: New season. Same chairs.
-[LOWER THIRD: Jonathon]
 WES: Same chairs. And it's your mom's birthday.
 JONATHON: It's my mom's birthday. Today. Fifty-nine. And I want to report on the lamp.
 WES: The lamp.
@@ -265,6 +269,11 @@ WES: See you at the table.
 JONATHON: Go walk it out. And happy birthday, Mom.
 (Wes taps the table twice, absently, then notices he did it. Jonathon grins. Hold WIDE 2s. Cut.)
 
+[CLOSING MUSIC 3s]
+[CREDITS]
+(Wes, normal credits volume, read like a producer credit. No gap, no ducking. SHOW-BIBLE section 13.)
+WES: Produced with AI voice and video tools.
+
 ## Shorts (6)
 
 | # | Cut | Hook | Length |
@@ -285,15 +294,16 @@ Proverbs 13:20 says you become like the men you walk with. Jonathon realizes the
 
 Chapters
 00:00 Cold open
-00:24 Pull up a chair
-04:14 The scariest text
-09:13 The Word
-12:00 The man ahead
-15:57 Pushback
-20:24 Going first
-23:28 This week's challenge
-24:45 Carry this
-24:55 Outro
+00:18 Intro
+00:53 Pull up a chair
+04:43 The scariest text
+09:42 The Word
+12:29 The man ahead
+16:26 Pushback
+20:53 Going first
+23:57 This week's challenge
+25:14 Carry this
+25:24 Outro
 
 Scripture: Proverbs 13:20 (NIV)
 
@@ -310,8 +320,6 @@ Facebook  facebook.com/steadfastwalk
 TikTok  tiktok.com/@steadfastwalk
 Reddit  reddit.com/user/steadfastwalk
 LinkedIn  linkedin.com/company/steadfastwalk
-
-Walk Steadfast is made with AI-generated video and voices. Wes and Jonathon are characters, and their stories are composites drawn from real men's lives.
 
 Scripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.™ Used by permission. All rights reserved worldwide.
 

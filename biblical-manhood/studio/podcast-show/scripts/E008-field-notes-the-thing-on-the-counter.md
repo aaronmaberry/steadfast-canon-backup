@@ -6,7 +6,7 @@ Walk Steadfast · Field Notes · script v1 (pre-focus-group). Internal.
 |---|---|
 | Release | Fri Jan 29, 2027, 5:00 AM CT |
 | Format | Field Notes. About 14 min. |
-| Slate | WES "Episode eight. Friday, January twenty-ninth." JONATHON "Field Notes. The Thing on the Counter." |
+| Intro and slate | Per-episode open, Jonathon leads (SHOW-BIBLE section 5, open system v3, text in _build/intros_data.py). Slate: WES "Episode eight." JONATHON "Field Notes. The Thing on the Counter." |
 | Checks | E007 challenge: one thing you've been waiting on, with a day and time, told to one man, done before Friday. Married: "Is there something you've been waiting on me for?" Single: "What have I been putting off that you've noticed?" |
 | From the Table | "How do I stop waiting when I'm genuinely tired?" |
 | Tool on the Table | The ten-minute start |
@@ -31,10 +31,6 @@ Wes holding the chicken timer, deadpan. Text: **10 MINUTES**. Variant: Jonathon 
 
 [CAM: WIDE]
 
-[CHAPTER: Slate]
-WES: Episode eight. Friday, January twenty-ninth.
-JONATHON: Field Notes. The Thing on the Counter.
-
 [CHAPTER: Cold open]
 [CAM: JON MS]
 JONATHON: Wednesday, seven-oh-one, I texted him, "Did you call?"
@@ -46,12 +42,23 @@ WES: K means I was on the phone.
 JONATHON: K means nothing! K is a letter!
 [STING 3s]
 
+[CHAPTER: Intro]
+[CAM: 2S]
+(Walk Steadfast open written for E008. Same beats every week, new words. SHOW-BIBLE section 5.)
+JONATHON: This is Walk Steadfast. I'm Jonathon, and I check on Wes during the week.
+[LOWER THIRD: Jonathon]
+WES: I'm Wes Hart, from the Hill Country.
+[LOWER THIRD: Wes Hart]
+JONATHON: Friday we report, ours first.
+WES: The Steadfast book and the video training, both on walksteadfast.com.
+JONATHON: And today we take up waiting when you're genuinely tired.
+WES: Episode eight.
+JONATHON: Field Notes. The Thing on the Counter.
+
 [CHAPTER: Check the box]
 [CAM: WIDE]
 JONATHON: Pull up a chair. Field Notes. Tuesday was stop waiting, and the challenge was pick one thing you've been waiting on, put a day and a time on it, tell your one man, and do it before Friday. And married guys, ask your wife, "Is there something you've been waiting on me for?"
-[LOWER THIRD: Jonathon]
 WES: And I'd like it on the record that "K" was me on the phone with my brother.
-[LOWER THIRD: Wes Hart]
 JONATHON: So you called.
 WES: I called.
 JONATHON: Tell it.
@@ -231,6 +238,11 @@ WES: See you at the table.
 JONATHON: Go walk it out.
 (The chicken timer dings. Both men look at it. Hold WIDE 2s. Cut.)
 
+[CLOSING MUSIC 3s]
+[CREDITS]
+(Wes, normal credits volume, read like a producer credit. No gap, no ducking. SHOW-BIBLE section 13.)
+WES: Produced with AI voice and video tools.
+
 ## Shorts (2)
 
 | # | Cut | Hook | Length |
@@ -247,11 +259,12 @@ Field Notes, the Friday check-in from Walk Steadfast. Wes's wife answers the que
 
 Chapters
 00:00 Cold open
-00:20 Check the box
-06:14 From the table
-10:34 Tool on the table
-12:47 Carry this
-13:13 Outro
+00:14 Intro
+00:47 Check the box
+06:42 From the table
+11:01 Tool on the table
+13:15 Carry this
+13:41 Outro
 
 Scripture: Matthew 11:28 (NIV)
 
@@ -264,8 +277,6 @@ Facebook  facebook.com/steadfastwalk
 TikTok  tiktok.com/@steadfastwalk
 Reddit  reddit.com/user/steadfastwalk
 LinkedIn  linkedin.com/company/steadfastwalk
-
-Walk Steadfast is made with AI-generated video and voices. Wes and Jonathon are characters, and their stories are composites drawn from real men's lives.
 
 Scripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.™ Used by permission. All rights reserved worldwide.
 

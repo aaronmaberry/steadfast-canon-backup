@@ -128,6 +128,12 @@ FIGURES = {
 }
 
 
+# 2026-10-03c (Aaron: "make it for the margins and look professional"): the ch3 four-marks
+# figure is typeset as a full-measure callout (vector, book fonts/colors) instead of the
+# narrow PNG. Set False to fall back to the PNG.
+TYPESET_FOUR_MARKS = True
+FOUR_MARKS = ("Stop Waiting", "Pick Up the Weight", "Go First", "Work for God’s Pay")
+
 # ch3 figure goes right after the first paragraph containing one of these.
 FIG3_TRIGGERS = (
     "A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay",
@@ -671,9 +677,72 @@ class Ebook:
             self.y -= leading
         self.y -= HEAD_BELOW[lv]
 
-    def image(self, path: Path, max_w: float | None = None, max_h: float | None = None) -> None:
+    def _tracked_width(self, text: str, font: str, size: float, tracking: float) -> float:
+        return self.c.stringWidth(text, font, size) + tracking * (len(text) - 1)
+
+    def four_marks_callout(self) -> None:
+        """Full-measure callout for the four marks (ch3, after the creed sentence).
+
+        Light bone panel spanning the text block, navy rules top and bottom (heading color),
+        a small tracked teal label with a short teal rule (the chapter-label treatment), then
+        the four marks as tracked Libre Franklin Medium caps in navy, centered on equal pitch.
+        Kept whole on one page.
+        """
+        label, label_font, label_size, label_track = "THE FOUR MARKS", "Libre-Medium", 7.5, 2.0
+        mark_font, mark_size, mark_track = "Libre-Medium", 11.0, 1.6
+        cap = 0.72  # cap height / em for Libre Franklin
+        pad = 15.0  # equal optical padding above the label caps and below the last mark
+        label_to_rule, rule_to_first, pitch = 7.0, 21.0, 21.0
+        rule_w, rule_lw, accent_w = 1.2, 1.0, 26.0
+        space_above, space_below = 10.0, 14.0
+
+        h = pad + label_size * cap + label_to_rule + rule_to_first + pitch * (len(FOUR_MARKS) - 1) + pad
+        at_top = abs(self.y - (PAGE_H - TOP)) < 0.5
+        if not at_top:
+            self.y -= space_above
+        if self.y - h < BOTTOM + 14:
+            self.advance()
+        left, right = self.left, self.right
+        cx = (left + right) / 2
+        top, bottom = self.y, self.y - h
+
+        c = self.c
+        c.setFillColorRGB(*CLOSER_PANEL)
+        c.rect(left, bottom, right - left, h, fill=1, stroke=0)
+        c.setStrokeColorRGB(*NAVY)
+        c.setLineWidth(rule_w)
+        c.line(left, top, right, top)
+        c.line(left, bottom, right, bottom)
+
+        yy = top - pad - label_size * cap
+        lw = self._tracked_width(label, label_font, label_size, label_track)
+        self.tracked(label, cx - lw / 2, yy, label_font, label_size, ACCENT, tracking=label_track)
+        yy -= label_to_rule
+        c.setStrokeColorRGB(*ACCENT)
+        c.setLineWidth(rule_lw)
+        c.line(cx - accent_w / 2, yy, cx + accent_w / 2, yy)
+        yy -= rule_to_first
+        for i, mk in enumerate(FOUR_MARKS):
+            s = mk.upper()
+            w = self._tracked_width(s, mark_font, mark_size, mark_track)
+            self.tracked(s, cx - w / 2, yy, mark_font, mark_size, NAVY, tracking=mark_track)
+            if i < len(FOUR_MARKS) - 1:
+                yy -= pitch
+        self.y = bottom - space_below
+
+    def image(
+        self,
+        path: Path,
+        max_w: float | None = None,
+        max_h: float | None = None,
+        *,
+        center_alone: bool = False,
+    ) -> None:
         if not path.exists():
             self.missing.append(path.name)
+            return
+        if TYPESET_FOUR_MARKS and path.name == "03-four-marks.png":
+            self.four_marks_callout()
             return
         im = PILImage.open(path)
         if im.mode == "RGBA":
@@ -688,10 +757,22 @@ class Ebook:
         scale = min(max_w / iw, max_h / ih, 1.0)
         dw, dh = iw * scale, ih * scale
         self.ensure(dh + 14)
-        self.y -= 6
-        x = self.left + (self.measure - dw) / 2
         tmp = self.asset_dir / f"{path.stem}-{uuid.uuid4().hex[:8]}.jpg"
         im.save(tmp, "JPEG", quality=90)
+        # 2026-10-03 (Aaron): a figure that lands alone on a fresh page (the ch3 four-marks
+        # block, the ch34 man-plan) is centered on the page horizontally AND vertically,
+        # and nothing else is set on that page.
+        if center_alone and abs(self.y - (PAGE_H - TOP)) < 0.5:
+            # 2026-10-03c: horizontally on the text block (flush with the body margins when
+            # full-measure), vertically on the page.
+            x = self.left + (self.measure - dw) / 2
+            y_bottom = (PAGE_H - dh) / 2
+            self.c.drawImage(str(tmp), x, y_bottom, width=dw, height=dh)
+            self.centered_figures = getattr(self, "centered_figures", []) + [(path.name, self.folio)]
+            self.y = BOTTOM  # page is done; the next block opens a fresh page
+            return
+        self.y -= 6
+        x = self.left + (self.measure - dw) / 2
         self.c.drawImage(str(tmp), x, self.y - dh, width=dw, height=dh)
         self.y -= dh + 12
 
@@ -1295,7 +1376,7 @@ class Ebook:
                     full_h = PAGE_H - TOP - BOTTOM - 40
                     avail = self.y - (BOTTOM + 14) - 26
                     max_h = avail if avail >= 0.60 * full_h else full_h
-                    self.image(fig, max_w=self.measure, max_h=max_h)
+                    self.image(fig, max_w=self.measure, max_h=max_h, center_alone=True)
                     fig_done = True
                 # Always typeset gold-standard closer box from markdown (never PNG split)
                 self.closer_box(num, block["lines"])
@@ -1318,12 +1399,17 @@ class Ebook:
                     num == 3
                     and fig
                     and not fig_done
-                    and any(t in block["text"] for t in FIG3_TRIGGERS)
+                    and any(
+                        # 2026-10-03: the parsed paragraph has curly apostrophes (God’s) while
+                        # the triggers are typed straight, so compare with quotes normalized.
+                        t.replace("\u2019", "'") in block["text"].replace("\u2019", "'")
+                        for t in FIG3_TRIGGERS
+                    )
                 ):
                     self.image(fig, max_w=min(self.measure, 3.1 * inch), max_h=3.3 * inch)
                     fig_done = True
         if fig and not fig_done and num == 3:
-            self.image(fig, max_w=min(self.measure, 3.1 * inch), max_h=3.3 * inch)
+            self.image(fig, max_w=min(self.measure, 3.1 * inch), max_h=3.3 * inch, center_alone=True)
 
     def page_back(self) -> None:
         self.show()  # finish last chapter page

@@ -30,7 +30,7 @@ Internal. Two-host video podcast with Wes Hart and Jonathon. **104 episodes**: T
 - Field Notes never carry a mid plug.
 - Every episode, main and Friday, ends with the **standing outro** (SHOW-BIBLE.md, standing outro). It's separate from these plugs.
 - The book and the training never appear in the same episode, except E001 and E103 (season premieres carry one or the other).
-- No prices on mic. Say 'coming' until launch dates are set.
+- No prices on mic. Plug wording is present tense and descriptive ("Wes's book is at walksteadfast.com"), with no "coming", no "out now" and no dates (SHOW-BIBLE section 8a).
 
 ## Season 1 · Pull Up a Chair (Epiphany)
 
@@ -115,7 +115,7 @@ Internal. Two-host video podcast with Wes Hart and Jonathon. **104 episodes**: T
 |---|---|---|---|---|---|---|---|
 | E053 | Tue Jul 6 | Before Anything Went Wrong | Ch 18 Before the Fall · W18 | Gen 2:15 | Pick Up the Weight | T (premiere) | Work it and take care of it. Made for this before the curse. |
 | E054 | Fri Jul 9 | Field Notes: Work It and Keep It | Checks E053 challenge | (one verse at most) | same | - | From the Table: "Is it wrong to like my job a lot?" Tool: The end-of-day shutdown. |
-| E055 | Tue Jul 13 | Destiny Is Not a Vibe | Ch 20 · W20 | 2 Cor 5:15 | Work for God's Pay | T | The feeling is not the fire. |
+| E055 | Tue Jul 13 | Some Saturdays (retitled 2026-10-03; book ch20 is Destiny Is Not a Vibe) | Ch 20 · W20 | 2 Cor 5:15 | Work for God's Pay | T | The feeling is not the fire. |
 | E056 | Fri Jul 16 | Field Notes: The Feeling Isn't the Fire | Checks E055 challenge | (one verse at most) | same | - | From the Table: "What if I don't feel called to anything?" Tool: The next-faithful-thing list. |
 | E057 | Tue Jul 20 | If There Is No Wife Yet | Ch 21 · W21 | 1 Cor 7:17 | Stop Waiting | B | Single men are not in the lobby. Caleb-age men and divorced men both. |
 | E058 | Fri Jul 23 | Field Notes: Not in the Lobby | Checks E057 challenge | (one verse at most) | same | - | From the Table: "Should I stop dating to focus on God?" Tool: Single man's Tuesday rhythm. |
@@ -123,7 +123,7 @@ Internal. Two-host video podcast with Wes Hart and Jonathon. **104 episodes**: T
 | E060 | Fri Jul 30 | Field Notes: Study Her | Checks E059 challenge | (one verse at most) | same | - | From the Table: "What questions do I ask my wife that aren't weird?" Tool: The three-question walk. |
 | E061 | Tue Aug 3 | Lay It Down | Ch 23 · W23 | Eph 5:25 | Go First | - | The speech is not the death. |
 | E062 | Fri Aug 6 | Field Notes: Laying It Down Report | Checks E061 challenge | (one verse at most) | same | - | From the Table: "What does dying to self look like on a Wednesday?" Tool: The first-pick swap. |
-| E063 | Tue Aug 10 | What She Actually Needs | Ch 24 · W24 | Phil 2:4 | Pick Up the Weight | B | Not the help that would have worked on you. |
+| E063 | Tue Aug 10 | What She Actually Needs | Ch 24 · W24 | 1 Cor 10:24 (was Phil 2:4; E032 repeat) | Pick Up the Weight | B | Not the help that would have worked on you. |
 | E064 | Fri Aug 13 | Field Notes: Her Need, Not Mine | Checks E063 challenge | (one verse at most) | same | - | From the Table: "How do I know what she needs if she won't tell me?" Tool: Ask, repeat, do. |
 | E065 | Tue Aug 17 | The Bed Is a Covenant | Ch 25 | Heb 13:4 | Pick Up the Weight | - | Plain talk, family-safe. Screens, seasons, shame. |
 | E066 | Fri Aug 20 | Field Notes: Covenant Check | Checks E065 challenge | (one verse at most) | same | - | From the Table: "How do we talk about this with our kids someday?" Tool: Accountability software, honestly reviewed. |
@@ -136,7 +136,7 @@ Internal. Two-host video podcast with Wes Hart and Jonathon. **104 episodes**: T
 
 | Ep | Date | Title | Source | Scripture (NIV) | Focus mark | Plug | What it does |
 |---|---|---|---|---|---|---|---|
-| E071 | Tue Sep 7 | What You Build When Nobody Claps | Ch 33 | Col 3:23 | Work for God's Pay | B (premiere) | The unseen job. Coaching, carpools, the 6 a.m. shift. |
+| E071 | Tue Sep 7 | What You Build When Nobody Claps | Ch 33 | 1 Cor 15:58 (was Col 3:23; E013 repeat) | Work for God's Pay | B (premiere) | The unseen job. Coaching, carpools, the 6 a.m. shift. |
 | E072 | Fri Sep 10 | Field Notes: The Unseen Shift | Checks E071 challenge | (one verse at most) | same | - | From the Table: "How do I keep going when nobody notices?" Tool: The secret list. |
 | E073 | Tue Sep 14 | Feelings Are the Dash, Not the Wheel | Ch 31 | Ps 42:5 | Stop Waiting | - | Feel it, name it, don't let it drive. |
 | E074 | Fri Sep 17 | Field Notes: Dash and Wheel | Checks E073 challenge | (one verse at most) | same | - | From the Table: "Is it unmanly to cry?" Tool: Name it in two words. |

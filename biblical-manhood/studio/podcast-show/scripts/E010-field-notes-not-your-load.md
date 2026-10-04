@@ -6,7 +6,7 @@ Walk Steadfast · Field Notes · script v1 (batch 2, pre-focus-group). Internal.
 |---|---|
 | Release | Fri Feb 5, 2027, 5:00 AM CT |
 | Format | Field Notes. About 14 min. |
-| Slate | WES "Episode ten. Friday, February fifth." JONATHON "Field Notes. Not Your Load." |
+| Intro and slate | Per-episode open, Wes leads (SHOW-BIBLE section 5, open system v3, text in _build/intros_data.py). Slate: WES "Episode ten." JONATHON "Field Notes. Not Your Load." |
 | Checks | E009 challenge: one weight with your name on it that someone else has been carrying, one real step before Friday. One thing you're carrying that isn't yours, named, with whose it is. Married: "What do you carry around here that's really mine?" |
 | From the Table | "What if I'm carrying stuff that isn't mine?" |
 | Tool on the Table | The two-column list |
@@ -31,10 +31,6 @@ Wes holding his phone toward camera, a giant thumbs-up on screen, deadpan. Text:
 
 [CAM: WIDE]
 
-[CHAPTER: Slate]
-WES: Episode ten. Friday, February fifth.
-JONATHON: Field Notes. Not Your Load.
-
 [CHAPTER: Cold open]
 [CAM: JON MS]
 JONATHON: Four o'clock Wednesday, I texted him, "How'd the knees go?" And he sent an emoji.
@@ -45,12 +41,22 @@ WES: It was an accident.
 JONATHON: It was a thumbs-up, Wes. You have to hold it down. It was on purpose.
 [STING 3s]
 
+[CHAPTER: Intro]
+[CAM: 2S]
+(Walk Steadfast open written for E010. Same beats every week, new words. SHOW-BIBLE section 5.)
+WES: This is Walk Steadfast. I'm Wes Hart. I drive my mother to PT on Tuesdays.
+[LOWER THIRD: Wes Hart]
+JONATHON: I'm Jonathon. I finally know our mortgage number.
+[LOWER THIRD: Jonathon]
+WES: Friday we report. Find the book and the Steadfast video training at walksteadfast.com.
+JONATHON: Today we help a man carrying a load that isn't his.
+WES: Episode ten.
+JONATHON: Field Notes. Not Your Load.
+
 [CHAPTER: Check the box]
 [CAM: WIDE]
 WES: Pull up a chair. It's Field Notes, and I'm already embarrassed.
-[LOWER THIRD: Wes Hart]
 JONATHON: Tuesday was pick up the weight. The challenge was two parts. Find one weight with your name on it that somebody else has been carrying and take a real step on it. And name one thing you're carrying that isn't yours.
-[LOWER THIRD: Jonathon]
 JONATHON: And married guys, ask your wife, "What do you carry around here that's really mine?"
 WES: Which I did.
 JONATHON: Knees first.
@@ -230,6 +236,11 @@ WES: See you at the table.
 JONATHON: Go walk it out.
 (Wes picks up his phone, frowns, and holds it up to Jonathon: another thumbs-up, sent by accident. Jonathon puts his head down on the table. Hold WIDE 2s. Cut.)
 
+[CLOSING MUSIC 3s]
+[CREDITS]
+(Wes, normal credits volume, read like a producer credit. No gap, no ducking. SHOW-BIBLE section 13.)
+WES: Produced with AI voice and video tools.
+
 ## Shorts (3)
 
 | # | Cut | Hook | Length |
@@ -247,11 +258,12 @@ Field Notes, the Friday check-in from Walk Steadfast. Then the question every ov
 
 Chapters
 00:00 Cold open
-00:21 Check the box
-08:18 From the table
-11:22 Tool on the table
-14:03 Carry this
-14:28 Outro
+00:17 Intro
+00:50 Check the box
+08:46 From the table
+11:51 Tool on the table
+14:31 Carry this
+14:57 Outro
 
 Scripture: 1 Peter 5:7 (NIV)
 
@@ -266,8 +278,6 @@ Facebook  facebook.com/steadfastwalk
 TikTok  tiktok.com/@steadfastwalk
 Reddit  reddit.com/user/steadfastwalk
 LinkedIn  linkedin.com/company/steadfastwalk
-
-Walk Steadfast is made with AI-generated video and voices. Wes and Jonathon are characters, and their stories are composites drawn from real men's lives.
 
 Scripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.™ Used by permission. All rights reserved worldwide.
 

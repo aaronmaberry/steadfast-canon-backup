@@ -6,7 +6,7 @@ Walk Steadfast · Field Notes · script v1 (batch 2, written after reader panel 
 |---|---|
 | Release | Fri Feb 12, 2027, 5:00 AM CT |
 | Format | Field Notes. About 14 min. |
-| Slate | JONATHON "Episode twelve. Friday, February twelfth." WES "Field Notes. Valentine's, Ash Wednesday, and Going First." |
+| Intro and slate | Per-episode open, Wes leads (SHOW-BIBLE section 5, open system v3, text in _build/intros_data.py). Slate: WES "Episode twelve." JONATHON "Field Notes. Valentine's, Ash Wednesday, and Going First." |
 | Checks | E011 challenge: go first in one small, true thing before Friday. Married: the first sentence of the conversation you keep not having. Single: make the plan. Living alone: introduce yourself at church. Divorced dads: help the kids make a valentine for their mom. |
 | From the Table | "Do I lead even if my wife is more mature in faith than me?" |
 | Tool on the Table | The first apology |
@@ -31,10 +31,6 @@ Wes, deadpan, holding a white diner mug. Text: **"TERRIBLE COFFEE"**. Variant: J
 
 [CAM: WIDE]
 
-[CHAPTER: Slate]
-JONATHON: Episode twelve. Friday, February twelfth.
-WES: Field Notes. Valentine's, Ash Wednesday, and Going First.
-
 [CHAPTER: Cold open]
 [CAM: WES MS]
 WES: I took my wife to Mr. Abernathy's diner for breakfast. Twenty years I went there. She'd never been.
@@ -44,13 +40,23 @@ JONATHON: What'd she say?
 WES: "The coffee's terrible."
 [STING 3s]
 
+[CHAPTER: Intro]
+[CAM: 2S]
+(Walk Steadfast open written for E012. Same beats every week, new words. SHOW-BIBLE section 5.)
+WES: This is Walk Steadfast. I'm Wes Hart. Twenty-some years at men's tables.
+[LOWER THIRD: Wes Hart]
+JONATHON: I'm Jonathon. Valentine's dinner is this Saturday.
+[LOWER THIRD: Jonathon]
+WES: Fridays we report. My book and a video training for men are on walksteadfast.com.
+JONATHON: Today's question is whether you lead when your wife's further along.
+WES: Episode twelve.
+JONATHON: Field Notes. Valentine's, Ash Wednesday, and Going First.
+
 [CHAPTER: Check the box]
 [CAM: WIDE]
 (Wes shrugs off the field jacket and hangs it on his chair back.)
 JONATHON: Pull up a chair. It's Field Notes. And the coffee at that diner is terrible. I've been saying it for seven years.
-[LOWER THIRD: Jonathon]
 WES: It's always been terrible. That was never the point.
-[LOWER THIRD: Wes Hart]
 JONATHON: Tuesday was go first. Find one place where everybody's waiting on somebody else to move, and move. And married guys, say the first sentence of the conversation you two keep not having.
 WES: And I had a doctor's appointment.
 JONATHON: Your mom had a doctor's appointment.
@@ -207,6 +213,11 @@ WES: We'll see you at the table.
 JONATHON: Go walk it out.
 (Jonathon sticks the yellow note to Wes's mug. Wes peels it off and reads it, deadpan. Hold WIDE 2s. Cut.)
 
+[CLOSING MUSIC 3s]
+[CREDITS]
+(Wes, normal credits volume, read like a producer credit. No gap, no ducking. SHOW-BIBLE section 13.)
+WES: Produced with AI voice and video tools.
+
 ## Shorts (4)
 
 | # | Cut | Hook | Length |
@@ -225,11 +236,12 @@ Field Notes, the Friday check-in from Walk Steadfast. Also: Valentine's breakfas
 
 Chapters
 00:00 Cold open
-00:20 Check the box
-07:45 From the table
-11:13 Tool on the table
-13:17 Carry this
-13:46 Outro
+00:14 Intro
+00:50 Check the box
+08:16 From the table
+11:44 Tool on the table
+13:47 Carry this
+14:16 Outro
 
 Scripture: Proverbs 27:17 (NIV)
 
@@ -244,8 +256,6 @@ Facebook  facebook.com/steadfastwalk
 TikTok  tiktok.com/@steadfastwalk
 Reddit  reddit.com/user/steadfastwalk
 LinkedIn  linkedin.com/company/steadfastwalk
-
-Walk Steadfast is made with AI-generated video and voices. Wes and Jonathon are characters, and their stories are composites drawn from real men's lives.
 
 Scripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.™ Used by permission. All rights reserved worldwide.
 

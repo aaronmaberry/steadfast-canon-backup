@@ -6,7 +6,7 @@ Walk Steadfast · main episode · script v1 (batch 2, written after reader panel
 |---|---|
 | Release | Tue Feb 9, 2027, 5:00 AM CT |
 | Format | Main episode. About 26 min. |
-| Slate | WES "Walk Steadfast, episode eleven." JONATHON "Tuesday, February ninth, twenty twenty-seven." WES "Somebody Has to Step Out Ahead." |
+| Intro and slate | Per-episode open, Jonathon leads (SHOW-BIBLE section 5, open system v3, text in _build/intros_data.py). Slate: WES "Episode eleven. Somebody Has to Step Out Ahead." |
 | Source | Book chapter 6, Go First. Training W06. Avoided on purpose: the oak down after midnight, the doors on the street, the face in the window, the towel and foot washing, Gideon's "watch me," Nehemiah's rubble, "eight seconds," the four fears as a list. W06's diner men's-group confession, the creek and wet boots, the dishwasher apology, "night, buddy" in the doorway, the daughter skipping Sunday dinner, saving seats in the third row, the husband driving his wife to work. |
 | Focus mark | **Go First**, named in Pull up a chair and again in Carry this |
 | Scripture (NIV) | John 10:4 (checked 2026-10-03), read by Wes |
@@ -31,11 +31,6 @@ Jonathon close-up, eyes down, mid-sentence. Text: **I WENT FIRST**. Variant: Wes
 
 [CAM: WIDE]
 
-[CHAPTER: Slate]
-WES: Walk Steadfast, episode eleven.
-JONATHON: Tuesday, February ninth, twenty twenty-seven.
-WES: Somebody Has to Step Out Ahead.
-
 [CHAPTER: Cold open]
 [CAM: JON MS]
 JONATHON: Sunday night I sat down across from Dani and I said, "I've been making you pay for my mom."
@@ -45,12 +40,22 @@ WES: (beat) What'd she say?
 JONATHON: "Keep going."
 [STING 3s]
 
+[CHAPTER: Intro]
+[CAM: 2S]
+(Walk Steadfast open written for E011. Same beats every week, new words. SHOW-BIBLE section 5.)
+JONATHON: This is Walk Steadfast. I'm Jonathon, married ten years.
+[LOWER THIRD: Jonathon]
+WES: I'm Wes Hart. For years I tried to lead from the back of the line.
+[LOWER THIRD: Wes Hart]
+JONATHON: Every Tuesday, one piece of following Jesus as a man, said plain.
+WES: If you want more, the book and the video training are at walksteadfast.com.
+JONATHON: Today's about why somebody in a marriage has to move first.
+WES: Episode eleven. Somebody Has to Step Out Ahead.
+
 [CHAPTER: Pull up a chair]
 [CAM: WIDE]
 WES: Glad you're here. Wherever here is. Truck, treadmill, kitchen.
-[LOWER THIRD: Wes Hart]
 JONATHON: Valentine's week.
-[LOWER THIRD: Jonathon]
 WES: Valentine's week. Do you have a plan?
 JONATHON: I have a reservation.
 WES: That's not a plan. That's a table.
@@ -344,6 +349,11 @@ JONATHON: I have a reservation. Go walk it out.
 WES: See you at the table.
 (Jonathon smooths an imaginary tablecloth on the table. Wes shakes his head. Hold WIDE 2s. Cut.)
 
+[CLOSING MUSIC 3s]
+[CREDITS]
+(Wes, normal credits volume, read like a producer credit. No gap, no ducking. SHOW-BIBLE section 13.)
+WES: Produced with AI voice and video tools.
+
 ## Shorts (5)
 
 | # | Cut | Hook | Length |
@@ -363,16 +373,17 @@ The third of the four marks: Go First. What does it mean for a man to go first, 
 
 Chapters
 00:00 Cold open
-00:20 Pull up a chair
-01:34 Sunday night
-04:36 The yelling
-07:06 The Word
-10:14 Pushback
-16:34 Two chairs
-18:44 What I actually did
-22:06 This week's challenge
-24:30 Carry this
-24:41 Outro
+00:13 Intro
+00:46 Pull up a chair
+01:59 Sunday night
+05:01 The yelling
+07:32 The Word
+10:40 Pushback
+16:59 Two chairs
+19:10 What I actually did
+22:32 This week's challenge
+24:55 Carry this
+25:07 Outro
 
 Scripture: John 10:4 (NIV)
 
@@ -387,8 +398,6 @@ Facebook  facebook.com/steadfastwalk
 TikTok  tiktok.com/@steadfastwalk
 Reddit  reddit.com/user/steadfastwalk
 LinkedIn  linkedin.com/company/steadfastwalk
-
-Walk Steadfast is made with AI-generated video and voices. Wes and Jonathon are characters, and their stories are composites drawn from real men's lives.
 
 Scripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.™ Used by permission. All rights reserved worldwide.
 
@@ -470,7 +479,7 @@ Scripture quotations taken from The Holy Bible, New International Version®, NIV
   - The 81-year-old has a next move.
   - The single version has substance.
 - **Snake image.** It's original to the show. W06 uses a creek and wet boots. Don't film water.
-- **The youth-group dad** is a composite. Never name him, his church or his job.
+- **The youth-group dad** stays anonymous. Never name him, his church or his job.
 - **Two-question-mark text.** Use a generic messaging UI.
 - **"Where is Habakkuk"** sets up E012's From the Table without answering it.
 - **Setups.**

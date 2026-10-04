@@ -1,0 +1,2 @@
+import{r as n}from"./vendor-CPMdfHCh.js";function u(r,t){const[c,s]=n.useState(()=>{try{const o=window.localStorage.getItem(r);return o?JSON.parse(o):t instanceof Function?t():t}catch{return t}}),a=n.useCallback(o=>{try{const e=o instanceof Function?o(c):o;s(e),window.localStorage.setItem(r,JSON.stringify(e))}catch(e){console.log(e)}},[c,s]);return[c,a]}const S=r=>{try{window.localStorage.removeItem(r)}catch(t){console.log(t)}};export{S as r,u};
+//# sourceMappingURL=useLocalStorage-BMP7gFuX.js.map

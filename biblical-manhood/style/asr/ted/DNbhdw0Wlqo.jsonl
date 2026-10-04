@@ -1,0 +1,612 @@
+{"start": 0.02, "end": 2.78, "text": "Instead of being teammates through the grind of life,", "avg_logprob": -0.1842, "no_speech_prob": 0.141, "compression_ratio": 1.7372, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 2.78, "end": 4.86, "text": "as Ecclesiastes 9-9 calls us to,", "avg_logprob": -0.1842, "no_speech_prob": 0.141, "compression_ratio": 1.7372, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 4.86, "end": 6.78, "text": "we took each other for granted", "avg_logprob": -0.1842, "no_speech_prob": 0.141, "compression_ratio": 1.7372, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 6.78, "end": 9.02, "text": "and we turned each other into opponents.", "avg_logprob": -0.1842, "no_speech_prob": 0.141, "compression_ratio": 1.7372, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 9.02, "end": 11.26, "text": "And now we saw everything we said and did in one,", "avg_logprob": -0.1842, "no_speech_prob": 0.141, "compression_ratio": 1.7372, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 11.26, "end": 13.56, "text": "it was all just, and everything.", "avg_logprob": -0.1842, "no_speech_prob": 0.141, "compression_ratio": 1.7372, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 13.56, "end": 14.82, "text": "We could be, hey, where do you want to eat?", "avg_logprob": -0.1842, "no_speech_prob": 0.141, "compression_ratio": 1.7372, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 14.82, "end": 17.22, "text": "I don't care.", "avg_logprob": -0.1842, "no_speech_prob": 0.141, "compression_ratio": 1.7372, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 17.22, "end": 18.26, "text": "Why don't we try red lobster?", "avg_logprob": -0.1842, "no_speech_prob": 0.141, "compression_ratio": 1.7372, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 18.26, "end": 20.55, "text": "I'm not feeling seafood.", "avg_logprob": -0.1842, "no_speech_prob": 0.141, "compression_ratio": 1.7372, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 20.55, "end": 22.11, "text": "What about olive, you're not feeling, okay,", "avg_logprob": -0.1842, "no_speech_prob": 0.141, "compression_ratio": 1.7372, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 22.11, "end": 22.95, "text": "you just said you don't care,", "avg_logprob": -0.1842, "no_speech_prob": 0.141, "compression_ratio": 1.7372, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 22.95, "end": 36.04, "text": "but you have a strong opinion on where we eat.", "avg_logprob": -0.1842, "no_speech_prob": 0.141, "compression_ratio": 1.7372, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 36.04, "end": 37.92, "text": "Well, I traveled here alone tonight.", "avg_logprob": -0.1842, "no_speech_prob": 0.141, "compression_ratio": 1.7372, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 37.92, "end": 38.92, "text": "I'm from Branson, Missouri.", "avg_logprob": -0.1842, "no_speech_prob": 0.141, "compression_ratio": 1.7372, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 38.92, "end": 41.36, "text": "Anybody been to Branson, Missouri?", "avg_logprob": -0.1842, "no_speech_prob": 0.141, "compression_ratio": 1.7372, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 41.36, "end": 42.97, "text": "Woo!", "avg_logprob": -0.1318, "no_speech_prob": 0.0288, "compression_ratio": 1.6209, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 42.97, "end": 48.53, "text": "I usually am told my parents love that place, and so bring your parents to Branson.", "avg_logprob": -0.1318, "no_speech_prob": 0.0288, "compression_ratio": 1.6209, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 48.53, "end": 53.37, "text": "We would love to entertain them on Country Music Boulevard, but my name is Ted Cunningham.", "avg_logprob": -0.1318, "no_speech_prob": 0.0288, "compression_ratio": 1.6209, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 53.37, "end": 58.73, "text": "I pastor a church, Woodland Hills Family Church in Branson, and grateful to be here tonight", "avg_logprob": -0.1318, "no_speech_prob": 0.0288, "compression_ratio": 1.6209, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 58.73, "end": 59.81, "text": "to be a part of it.", "avg_logprob": -0.1318, "no_speech_prob": 0.0288, "compression_ratio": 1.6209, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 59.81, "end": 62.45, "text": "I met my wife Amy on a blind date.", "avg_logprob": -0.1318, "no_speech_prob": 0.0288, "compression_ratio": 1.6209, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 62.45, "end": 63.45, "text": "I'll show you a picture of her.", "avg_logprob": -0.1318, "no_speech_prob": 0.0288, "compression_ratio": 1.6209, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 63.45, "end": 68.73, "text": "I met her on a blind date at Liberty University over 23 years ago, and the night I met her", "avg_logprob": -0.1318, "no_speech_prob": 0.0288, "compression_ratio": 1.6209, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 68.73, "end": 72.51, "text": "I looked at my friend, I said, I'm going to marry this woman.", "avg_logprob": -0.1601, "no_speech_prob": 0.0131, "compression_ratio": 1.6741, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 72.51, "end": 74.27, "text": "And Austin said, you can't decide that.", "avg_logprob": -0.1601, "no_speech_prob": 0.0131, "compression_ratio": 1.6741, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 74.27, "end": 75.35, "text": "I said, I already did.", "avg_logprob": -0.1601, "no_speech_prob": 0.0131, "compression_ratio": 1.6741, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 75.35, "end": 78.12, "text": "I just decided that.", "avg_logprob": -0.1601, "no_speech_prob": 0.0131, "compression_ratio": 1.6741, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 78.12, "end": 84.08, "text": "And I'll never forget walking into the kitchen of her six-foot-two full-blooded Norwegian", "avg_logprob": -0.1601, "no_speech_prob": 0.0131, "compression_ratio": 1.6741, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 84.08, "end": 85.37, "text": "father.", "avg_logprob": -0.1601, "no_speech_prob": 0.0131, "compression_ratio": 1.6741, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 85.37, "end": 89.47, "text": "And I said, I would like permission to marry your daughter, to which he responded in his", "avg_logprob": -0.1601, "no_speech_prob": 0.0131, "compression_ratio": 1.6741, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 89.47, "end": 95.05, "text": "thick Norwegian accent, you'll betcha.", "avg_logprob": -0.1601, "no_speech_prob": 0.0131, "compression_ratio": 1.6741, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 95.05, "end": 97.33, "text": "I said, but only under one condition.", "avg_logprob": -0.1601, "no_speech_prob": 0.0131, "compression_ratio": 1.6741, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 97.33, "end": 98.67, "text": "I had just graduated.", "avg_logprob": -0.1601, "no_speech_prob": 0.0131, "compression_ratio": 1.6741, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 98.67, "end": 99.67, "text": "She had a year left.", "avg_logprob": -0.1601, "no_speech_prob": 0.0131, "compression_ratio": 1.6741, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 99.67, "end": 104.27, "text": "And I'm an advocate for young marriage and so I wanted to break all the rules and have", "avg_logprob": -0.1395, "no_speech_prob": 0.0093, "compression_ratio": 1.8425, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 104.27, "end": 108.31, "text": "us get married at 22 and 21, but I wanted to get married between her junior and her", "avg_logprob": -0.1395, "no_speech_prob": 0.0093, "compression_ratio": 1.8425, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 108.31, "end": 109.31, "text": "senior year.", "avg_logprob": -0.1395, "no_speech_prob": 0.0093, "compression_ratio": 1.8425, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 109.31, "end": 115.07, "text": "And I said, I'll only do it in between her junior and senior year if you let me pay for", "avg_logprob": -0.1395, "no_speech_prob": 0.0093, "compression_ratio": 1.8425, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 115.07, "end": 117.83, "text": "her senior year of college.", "avg_logprob": -0.1395, "no_speech_prob": 0.0093, "compression_ratio": 1.8425, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 117.83, "end": 125.12, "text": "To which he said, you betcha.", "avg_logprob": -0.1395, "no_speech_prob": 0.0093, "compression_ratio": 1.8425, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 125.12, "end": 129.02, "text": "And I'm telling you, you haven't, listen, marriage, it's been so much, I'm going to", "avg_logprob": -0.1395, "no_speech_prob": 0.0093, "compression_ratio": 1.8425, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 129.02, "end": 132.44, "text": "have young guys come up to me all the time and they're like, bro, how did you get married", "avg_logprob": -0.1395, "no_speech_prob": 0.0093, "compression_ratio": 1.8425, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 132.44, "end": 136.8, "text": "at 22 and 21 and pay cash for a senior year of college, I said, it's this thing called", "avg_logprob": -0.1723, "no_speech_prob": 0.0773, "compression_ratio": 1.6779, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 136.8, "end": 137.8, "text": "a job.", "avg_logprob": -0.1723, "no_speech_prob": 0.0773, "compression_ratio": 1.6779, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 137.8, "end": 140.15, "text": "I had a job.", "avg_logprob": -0.1723, "no_speech_prob": 0.0773, "compression_ratio": 1.6779, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 140.15, "end": 142.43, "text": "And they, I always get pushback from young guys.", "avg_logprob": -0.1723, "no_speech_prob": 0.0773, "compression_ratio": 1.6779, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 142.43, "end": 145.59, "text": "They'll be like, bro, I can't afford to get married that young.", "avg_logprob": -0.1723, "no_speech_prob": 0.0773, "compression_ratio": 1.6779, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 145.59, "end": 149.55, "text": "And I'm always like, bro, I would believe that if you weren't holding a Venti Caramel", "avg_logprob": -0.1723, "no_speech_prob": 0.0773, "compression_ratio": 1.6779, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 149.55, "end": 154.91, "text": "Macchiato in your right hand and an iPhone 10 in your left.", "avg_logprob": -0.1723, "no_speech_prob": 0.0773, "compression_ratio": 1.6779, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 154.91, "end": 157.95, "text": "You need to start thinking Folgers and flip phones, bro.", "avg_logprob": -0.1723, "no_speech_prob": 0.0773, "compression_ratio": 1.6779, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 157.95, "end": 164.63, "text": "You can't start marriage with a wife and unlimited data.", "avg_logprob": -0.1723, "no_speech_prob": 0.0773, "compression_ratio": 1.6779, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 164.63, "end": 169.52, "text": "You got to pick one.", "avg_logprob": -0.1723, "no_speech_prob": 0.0773, "compression_ratio": 1.6779, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 169.52, "end": 174.02, "text": "When you haven't gotten marriage started right until you get your parent's hand-me-down", "avg_logprob": -0.1367, "no_speech_prob": 0.007, "compression_ratio": 1.6328, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 174.02, "end": 175.02, "text": "mattress.", "avg_logprob": -0.1367, "no_speech_prob": 0.007, "compression_ratio": 1.6328, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 175.02, "end": 177.49, "text": "Can I get an amen on that one?", "avg_logprob": -0.1367, "no_speech_prob": 0.007, "compression_ratio": 1.6328, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 177.49, "end": 181.53, "text": "You know what I'm talking about, the dip already built in.", "avg_logprob": -0.1367, "no_speech_prob": 0.007, "compression_ratio": 1.6328, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 181.53, "end": 182.53, "text": "You get in and you roll.", "avg_logprob": -0.1367, "no_speech_prob": 0.007, "compression_ratio": 1.6328, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 182.53, "end": 185.41, "text": "Now that's a good way to start marriage.", "avg_logprob": -0.1367, "no_speech_prob": 0.007, "compression_ratio": 1.6328, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 185.41, "end": 188.71, "text": "I tell the young guys at our church all the time, don't go to Ethan Allen.", "avg_logprob": -0.1367, "no_speech_prob": 0.007, "compression_ratio": 1.6328, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 188.71, "end": 191.53, "text": "You can't afford Ethan Allen furniture.", "avg_logprob": -0.1367, "no_speech_prob": 0.007, "compression_ratio": 1.6328, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 191.53, "end": 197.65, "text": "Go to Home Depot, buy cinder blocks and one-by-twelves for your shelving.", "avg_logprob": -0.1367, "no_speech_prob": 0.007, "compression_ratio": 1.6328, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 197.65, "end": 198.65, "text": "You go to thrift stores.", "avg_logprob": -0.1367, "no_speech_prob": 0.007, "compression_ratio": 1.6328, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 198.65, "end": 200.43, "text": "This is the only way to do it.", "avg_logprob": -0.1367, "no_speech_prob": 0.007, "compression_ratio": 1.6328, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 200.43, "end": 204.95, "text": "So we got married, we married young, we're celebrating now 23 years of marriage this", "avg_logprob": -0.1715, "no_speech_prob": 0.0049, "compression_ratio": 1.8444, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 204.95, "end": 205.95, "text": "year.", "avg_logprob": -0.1715, "no_speech_prob": 0.0049, "compression_ratio": 1.8444, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 205.95, "end": 212.05, "text": "So I can't wait to be able to stand at 25 years and this is my daughter Corinne.", "avg_logprob": -0.1715, "no_speech_prob": 0.0049, "compression_ratio": 1.8444, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 212.05, "end": 213.19, "text": "She travels with me a lot.", "avg_logprob": -0.1715, "no_speech_prob": 0.0049, "compression_ratio": 1.8444, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 213.19, "end": 214.43, "text": "She's our pioneer girl.", "avg_logprob": -0.1715, "no_speech_prob": 0.0049, "compression_ratio": 1.8444, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 214.43, "end": 215.71, "text": "She's our outdoor girl.", "avg_logprob": -0.1715, "no_speech_prob": 0.0049, "compression_ratio": 1.8444, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 215.71, "end": 219.67, "text": "She loves knitting and crocheting and sewing and all of that.", "avg_logprob": -0.1715, "no_speech_prob": 0.0049, "compression_ratio": 1.8444, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 219.67, "end": 224.11, "text": "And this, Joe White raised this fawn and Corinne was like, man, I want to go see Sugar, want", "avg_logprob": -0.1715, "no_speech_prob": 0.0049, "compression_ratio": 1.8444, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 224.11, "end": 225.51, "text": "to go see Sugar, want to go see Sugar.", "avg_logprob": -0.1715, "no_speech_prob": 0.0049, "compression_ratio": 1.8444, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 225.51, "end": 229.99, "text": "So I would take her down to see Sugar every chance I had.", "avg_logprob": -0.1715, "no_speech_prob": 0.0049, "compression_ratio": 1.8444, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 229.99, "end": 244.12, "text": "my son he loves deer too he's pretty passionate about deer. I did 78 events", "avg_logprob": -0.1311, "no_speech_prob": 0.0854, "compression_ratio": 1.8261, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 244.12, "end": 248.92, "text": "last year around the country and two churches told me I could not show that", "avg_logprob": -0.1311, "no_speech_prob": 0.0854, "compression_ratio": 1.8261, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 248.92, "end": 253.52, "text": "picture and so I didn't realize like oh I come from Branson Missouri you know", "avg_logprob": -0.1311, "no_speech_prob": 0.0854, "compression_ratio": 1.8261, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 253.52, "end": 257.0, "text": "Bass Pro Shops country so I didn't realize that there's people sensitive to", "avg_logprob": -0.1311, "no_speech_prob": 0.0854, "compression_ratio": 1.8261, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 257.0, "end": 260.92, "text": "this so so I've been asking everywhere I go hey is it okay if I show that picture", "avg_logprob": -0.1311, "no_speech_prob": 0.0854, "compression_ratio": 1.8261, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 260.92, "end": 263.88, "text": "I came here like can I show that they're like are you kidding that's half the", "avg_logprob": -0.1311, "no_speech_prob": 0.0854, "compression_ratio": 1.8261, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 263.88, "end": 271.65, "text": "profile pictures of the people who will be here tonight. So whenever I show that", "avg_logprob": -0.1311, "no_speech_prob": 0.0854, "compression_ratio": 1.8261, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 271.65, "end": 275.45, "text": "picture now in California or New York I make sure they know I release the deer", "avg_logprob": -0.158, "no_speech_prob": 0.1323, "compression_ratio": 1.587, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 275.45, "end": 283.38, "text": "in a forest preserve down the road. I never would take the life of an animal.", "avg_logprob": -0.158, "no_speech_prob": 0.1323, "compression_ratio": 1.587, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 283.38, "end": 292.82, "text": "No, I've never been hunting. I grew up in a fishing family and my dad taught", "avg_logprob": -0.158, "no_speech_prob": 0.1323, "compression_ratio": 1.587, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 292.82, "end": 297.46, "text": "us how to fish and so Joe White from Canicuck, he takes Carson out and teaches", "avg_logprob": -0.158, "no_speech_prob": 0.1323, "compression_ratio": 1.587, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 297.46, "end": 300.78, "text": "him for a year how to shoot and then he goes on Thanksgiving weekend he puts us", "avg_logprob": -0.158, "no_speech_prob": 0.1323, "compression_ratio": 1.587, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 300.78, "end": 305.82, "text": "in a blind, and by herself, just me and Carson, this 11,", "avg_logprob": -0.1802, "no_speech_prob": 0.134, "compression_ratio": 1.6865, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 305.82, "end": 308.7, "text": "12-point buck comes out within two hours.", "avg_logprob": -0.1802, "no_speech_prob": 0.134, "compression_ratio": 1.6865, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 308.7, "end": 310.82, "text": "And any hunters in the room, can I just see?", "avg_logprob": -0.1802, "no_speech_prob": 0.134, "compression_ratio": 1.6865, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 310.82, "end": 311.66, "text": "I know I'm in Colorado.", "avg_logprob": -0.1802, "no_speech_prob": 0.134, "compression_ratio": 1.6865, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 311.66, "end": 313.5, "text": "Yeah, so you know that.", "avg_logprob": -0.1802, "no_speech_prob": 0.134, "compression_ratio": 1.6865, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 313.5, "end": 314.62, "text": "First time I ever experienced that.", "avg_logprob": -0.1802, "no_speech_prob": 0.134, "compression_ratio": 1.6865, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 314.62, "end": 316.7, "text": "I felt it a little bit when I caught fish, but first time,", "avg_logprob": -0.1802, "no_speech_prob": 0.134, "compression_ratio": 1.6865, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 316.7, "end": 319.02, "text": "I was like, man, I started shaking like the adrenaline", "avg_logprob": -0.1802, "no_speech_prob": 0.134, "compression_ratio": 1.6865, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 319.02, "end": 319.74, "text": "was coursing through me.", "avg_logprob": -0.1802, "no_speech_prob": 0.134, "compression_ratio": 1.6865, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 319.74, "end": 321.46, "text": "And I leaned over to Carson, and I go, I don't think I", "avg_logprob": -0.1802, "no_speech_prob": 0.134, "compression_ratio": 1.6865, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 321.46, "end": 325.2, "text": "should pick the gun.", "avg_logprob": -0.1802, "no_speech_prob": 0.134, "compression_ratio": 1.6865, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 325.2, "end": 326.32, "text": "He said, Dad, I got it.", "avg_logprob": -0.1802, "no_speech_prob": 0.134, "compression_ratio": 1.6865, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 326.32, "end": 328.0, "text": "And he dropped that buck.", "avg_logprob": -0.1802, "no_speech_prob": 0.134, "compression_ratio": 1.6865, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 328.0, "end": 329.16, "text": "And I was like, I couldn't believe it.", "avg_logprob": -0.1802, "no_speech_prob": 0.134, "compression_ratio": 1.6865, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 329.16, "end": 330.74, "text": "I didn't ask him to pose for that picture.", "avg_logprob": -0.1802, "no_speech_prob": 0.134, "compression_ratio": 1.6865, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 330.74, "end": 331.96, "text": "We went down Creekside, man.", "avg_logprob": -0.1802, "no_speech_prob": 0.134, "compression_ratio": 1.6865, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 331.96, "end": 333.04, "text": "We were high-fiving.", "avg_logprob": -0.1802, "no_speech_prob": 0.134, "compression_ratio": 1.6865, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 333.04, "end": 335.04, "text": "We were having the time of our lives.", "avg_logprob": -0.1677, "no_speech_prob": 0.0118, "compression_ratio": 1.586, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 335.04, "end": 336.8, "text": "And after about five minutes of celebrating,", "avg_logprob": -0.1677, "no_speech_prob": 0.0118, "compression_ratio": 1.586, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 336.8, "end": 338.96, "text": "Carson goes, Dad, Dad, Dad, what do we do?", "avg_logprob": -0.1677, "no_speech_prob": 0.0118, "compression_ratio": 1.586, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 338.96, "end": 339.9, "text": "What do we do?", "avg_logprob": -0.1677, "no_speech_prob": 0.0118, "compression_ratio": 1.586, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 339.9, "end": 347.76, "text": "I'm like, absolutely no idea.", "avg_logprob": -0.1677, "no_speech_prob": 0.0118, "compression_ratio": 1.586, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 347.76, "end": 355.02, "text": "But I think, according to the movie Red Dawn,", "avg_logprob": -0.1677, "no_speech_prob": 0.0118, "compression_ratio": 1.586, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 355.02, "end": 365.47, "text": "you've got to take a bite out of its heart", "avg_logprob": -0.1677, "no_speech_prob": 0.0118, "compression_ratio": 1.586, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 365.47, "end": 367.15, "text": "while I yell, Wolverines!", "avg_logprob": -0.1677, "no_speech_prob": 0.0118, "compression_ratio": 1.586, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 367.15, "end": 370.6, "text": "I think that's how this whole thing goes down.", "avg_logprob": -0.1677, "no_speech_prob": 0.0118, "compression_ratio": 1.586, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 370.6, "end": 373.32, "text": "I love raising kids.", "avg_logprob": -0.1677, "no_speech_prob": 0.0118, "compression_ratio": 1.586, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 373.32, "end": 376.08, "text": "I grew up in an independent, fundamental, pre-millennial,", "avg_logprob": -0.1677, "no_speech_prob": 0.0118, "compression_ratio": 1.586, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 376.08, "end": 378.48, "text": "King James version, only Baptist church.", "avg_logprob": -0.1677, "no_speech_prob": 0.0118, "compression_ratio": 1.586, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 378.48, "end": 382.92, "text": "And so I grew up in a church that taught me how to love Jesus, grew up in a home that", "avg_logprob": -0.1346, "no_speech_prob": 0.0023, "compression_ratio": 2.0244, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 382.92, "end": 386.98, "text": "taught me how to love Jesus, but I grew up in a church and a home that taught me how", "avg_logprob": -0.1346, "no_speech_prob": 0.0023, "compression_ratio": 2.0244, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 386.98, "end": 391.06, "text": "to honor purity, not necessarily marriage.", "avg_logprob": -0.1346, "no_speech_prob": 0.0023, "compression_ratio": 2.0244, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 391.06, "end": 394.1, "text": "And I really wasn't all that prepared for marriage.", "avg_logprob": -0.1346, "no_speech_prob": 0.0023, "compression_ratio": 2.0244, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 394.1, "end": 397.3, "text": "I wasn't prepared, I wasn't discipled in this area.", "avg_logprob": -0.1346, "no_speech_prob": 0.0023, "compression_ratio": 2.0244, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 397.3, "end": 402.88, "text": "I mean the message I got on Hebrews 13, 4 growing up, the Hebrews 13, 4 says, marriage", "avg_logprob": -0.1346, "no_speech_prob": 0.0023, "compression_ratio": 2.0244, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 402.88, "end": 406.38, "text": "should be honored by all and the marriage bed kept pure.", "avg_logprob": -0.1346, "no_speech_prob": 0.0023, "compression_ratio": 2.0244, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 406.38, "end": 408.34, "text": "And this is how it was taught to us.", "avg_logprob": -0.1346, "no_speech_prob": 0.0023, "compression_ratio": 2.0244, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 408.34, "end": 410.76, "text": "Sex is dirty, nasty, and ugly,", "avg_logprob": -0.1104, "no_speech_prob": 0.0223, "compression_ratio": 1.6828, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 410.76, "end": 420.14, "text": "and you should save it for the one you love.", "avg_logprob": -0.1104, "no_speech_prob": 0.0223, "compression_ratio": 1.6828, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 420.14, "end": 422.14, "text": "Raise your hand if you learned that growing up.", "avg_logprob": -0.1104, "no_speech_prob": 0.0223, "compression_ratio": 1.6828, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 422.14, "end": 423.8, "text": "Would you just raise your hand?", "avg_logprob": -0.1104, "no_speech_prob": 0.0223, "compression_ratio": 1.6828, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 423.8, "end": 426.34, "text": "It's because we grew up in churches and homes", "avg_logprob": -0.1104, "no_speech_prob": 0.0223, "compression_ratio": 1.6828, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 426.34, "end": 427.26, "text": "that taught us well,", "avg_logprob": -0.1104, "no_speech_prob": 0.0223, "compression_ratio": 1.6828, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 427.26, "end": 429.82, "text": "but we never talked about this subject.", "avg_logprob": -0.1104, "no_speech_prob": 0.0223, "compression_ratio": 1.6828, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 429.82, "end": 430.9, "text": "It was never discussed.", "avg_logprob": -0.1104, "no_speech_prob": 0.0223, "compression_ratio": 1.6828, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 430.9, "end": 433.7, "text": "I wasn't prepared for it going into marriage.", "avg_logprob": -0.1104, "no_speech_prob": 0.0223, "compression_ratio": 1.6828, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 433.7, "end": 436.1, "text": "I wasn't, I remember on the day of my wedding", "avg_logprob": -0.1104, "no_speech_prob": 0.0223, "compression_ratio": 1.6828, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 436.1, "end": 439.78, "text": "is when my dad decided, I should have that talk with him.", "avg_logprob": -0.1104, "no_speech_prob": 0.0223, "compression_ratio": 1.6828, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 439.78, "end": 441.02, "text": "Now, this would be a good time.", "avg_logprob": -0.1104, "no_speech_prob": 0.0223, "compression_ratio": 1.6828, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 441.02, "end": 445.41, "text": "We're walking through the parking lot of La Quinta,", "avg_logprob": -0.1104, "no_speech_prob": 0.0223, "compression_ratio": 1.6828, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 445.41, "end": 451.5, "text": "And we know what La Quinta means, it means next to Denny's.", "avg_logprob": -0.1412, "no_speech_prob": 0.0077, "compression_ratio": 1.6373, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 451.5, "end": 453.38, "text": "We're walking over to Denny's and my dad,", "avg_logprob": -0.1412, "no_speech_prob": 0.0077, "compression_ratio": 1.6373, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 453.38, "end": 455.98, "text": "my 52-year-old engineer father,", "avg_logprob": -0.1412, "no_speech_prob": 0.0077, "compression_ratio": 1.6373, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 455.98, "end": 459.21, "text": "says, son, do you have any questions?", "avg_logprob": -0.1412, "no_speech_prob": 0.0077, "compression_ratio": 1.6373, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 459.21, "end": 462.41, "text": "I said, dad, it's a little too late.", "avg_logprob": -0.1412, "no_speech_prob": 0.0077, "compression_ratio": 1.6373, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 462.41, "end": 465.01, "text": "I don't, I can't, I'm not gonna share anything.", "avg_logprob": -0.1412, "no_speech_prob": 0.0077, "compression_ratio": 1.6373, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 465.01, "end": 466.01, "text": "And I think that's the answer he wanted.", "avg_logprob": -0.1412, "no_speech_prob": 0.0077, "compression_ratio": 1.6373, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 466.01, "end": 469.63, "text": "He goes, I just want you to know I'm available", "avg_logprob": -0.1412, "no_speech_prob": 0.0077, "compression_ratio": 1.6373, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 469.63, "end": 471.63, "text": "if you have any questions.", "avg_logprob": -0.1412, "no_speech_prob": 0.0077, "compression_ratio": 1.6373, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 471.63, "end": 472.95, "text": "And I said, no, and I'll never forget,", "avg_logprob": -0.1412, "no_speech_prob": 0.0077, "compression_ratio": 1.6373, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 472.95, "end": 477.47, "text": "I went into marriage with that bad belief on my heart.", "avg_logprob": -0.1412, "no_speech_prob": 0.0077, "compression_ratio": 1.6373, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 477.47, "end": 481.07, "text": "Feeling like a pervert when I would initiate with my wife.", "avg_logprob": -0.1594, "no_speech_prob": 0.0407, "compression_ratio": 1.759, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 481.07, "end": 484.79, "text": "I'll never forget one night in bed, she was reading a book.", "avg_logprob": -0.1594, "no_speech_prob": 0.0407, "compression_ratio": 1.759, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 484.79, "end": 486.95, "text": "About seven years into our marriage,", "avg_logprob": -0.1594, "no_speech_prob": 0.0407, "compression_ratio": 1.759, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 486.95, "end": 489.19, "text": "she was reading a book on how men think.", "avg_logprob": -0.1594, "no_speech_prob": 0.0407, "compression_ratio": 1.759, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 489.19, "end": 490.55, "text": "It's not a real thick book.", "avg_logprob": -0.1594, "no_speech_prob": 0.0407, "compression_ratio": 1.759, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 490.55, "end": 503.95, "text": "You can read it in about a night, that's true.", "avg_logprob": -0.1594, "no_speech_prob": 0.0407, "compression_ratio": 1.759, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 503.95, "end": 505.23, "text": "I always get asked, what book are you talking,", "avg_logprob": -0.1594, "no_speech_prob": 0.0407, "compression_ratio": 1.759, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 505.23, "end": 507.51, "text": "it's Shanti Feldhein's book, Four Women Only,", "avg_logprob": -0.1594, "no_speech_prob": 0.0407, "compression_ratio": 1.759, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 507.51, "end": 511.05, "text": "talking about how men are turned on visually.", "avg_logprob": -0.1594, "no_speech_prob": 0.0407, "compression_ratio": 1.759, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 511.05, "end": 513.99, "text": "And my wife is reading this book, and I mean,", "avg_logprob": -0.1594, "no_speech_prob": 0.0407, "compression_ratio": 1.759, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 513.99, "end": 515.83, "text": "she's getting more and more mad.", "avg_logprob": -0.1594, "no_speech_prob": 0.0407, "compression_ratio": 1.759, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 515.83, "end": 518.11, "text": "She's frustrated with this book.", "avg_logprob": -0.132, "no_speech_prob": 0.0026, "compression_ratio": 1.7675, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 518.11, "end": 520.27, "text": "And I'm over here in the fetal position", "avg_logprob": -0.132, "no_speech_prob": 0.0026, "compression_ratio": 1.7675, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 520.27, "end": 524.44, "text": "on this side of the bed, not wanting to talk about it,", "avg_logprob": -0.132, "no_speech_prob": 0.0026, "compression_ratio": 1.7675, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 524.44, "end": 525.98, "text": "not wanting to have a conversation.", "avg_logprob": -0.132, "no_speech_prob": 0.0026, "compression_ratio": 1.7675, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 525.98, "end": 527.36, "text": "Because I grew up in a church and a home.", "avg_logprob": -0.132, "no_speech_prob": 0.0026, "compression_ratio": 1.7675, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 527.36, "end": 528.64, "text": "We didn't talk about it.", "avg_logprob": -0.132, "no_speech_prob": 0.0026, "compression_ratio": 1.7675, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 528.64, "end": 531.28, "text": "Why start talking about it now?", "avg_logprob": -0.132, "no_speech_prob": 0.0026, "compression_ratio": 1.7675, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 531.28, "end": 535.2, "text": "And Amy, my wife, said, we're talking about it.", "avg_logprob": -0.132, "no_speech_prob": 0.0026, "compression_ratio": 1.7675, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 535.2, "end": 536.46, "text": "And we had a conversation.", "avg_logprob": -0.132, "no_speech_prob": 0.0026, "compression_ratio": 1.7675, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 536.46, "end": 539.38, "text": "That week, she dove into everything she could find,", "avg_logprob": -0.132, "no_speech_prob": 0.0026, "compression_ratio": 1.7675, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 539.38, "end": 542.94, "text": "everything that Beth Moore ever said on the subject.", "avg_logprob": -0.132, "no_speech_prob": 0.0026, "compression_ratio": 1.7675, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 542.94, "end": 544.48, "text": "See, I mentioned Beth Moore tonight,", "avg_logprob": -0.132, "no_speech_prob": 0.0026, "compression_ratio": 1.7675, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 544.48, "end": 548.14, "text": "and there's ladies going, who, what, what?", "avg_logprob": -0.1266, "no_speech_prob": 0.0017, "compression_ratio": 1.75, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 548.14, "end": 551.02, "text": "I gotta know what she say, what'd she say?", "avg_logprob": -0.1266, "no_speech_prob": 0.0017, "compression_ratio": 1.75, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 551.02, "end": 553.74, "text": "We know if Beth Moore said it, Jesus believes it.", "avg_logprob": -0.1266, "no_speech_prob": 0.0017, "compression_ratio": 1.75, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 553.74, "end": 561.06, "text": "That's really how that whole thing comes down.", "avg_logprob": -0.1266, "no_speech_prob": 0.0017, "compression_ratio": 1.75, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 561.06, "end": 562.54, "text": "She came to me at the end of the week", "avg_logprob": -0.1266, "no_speech_prob": 0.0017, "compression_ratio": 1.75, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 562.54, "end": 565.18, "text": "and she said, listen, we gotta have a conversation.", "avg_logprob": -0.1266, "no_speech_prob": 0.0017, "compression_ratio": 1.75, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 565.18, "end": 567.3, "text": "We gotta be able to talk openly about this", "avg_logprob": -0.1266, "no_speech_prob": 0.0017, "compression_ratio": 1.75, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 567.3, "end": 570.22, "text": "and not be embarrassed by the subject,", "avg_logprob": -0.1266, "no_speech_prob": 0.0017, "compression_ratio": 1.75, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 570.22, "end": 572.38, "text": "not let it be full of shame or guilt", "avg_logprob": -0.1266, "no_speech_prob": 0.0017, "compression_ratio": 1.75, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 572.38, "end": 575.54, "text": "as maybe some of you were raised to think of this subject.", "avg_logprob": -0.1266, "no_speech_prob": 0.0017, "compression_ratio": 1.75, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 575.54, "end": 577.53, "text": "She said, we need to be open about it.", "avg_logprob": -0.1266, "no_speech_prob": 0.0017, "compression_ratio": 1.75, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 577.53, "end": 579.93, "text": "I said, okay, let's have the conversation.", "avg_logprob": -0.1266, "no_speech_prob": 0.0017, "compression_ratio": 1.75, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 579.93, "end": 581.73, "text": "And we started having the conversation", "avg_logprob": -0.114, "no_speech_prob": 0.0004, "compression_ratio": 1.7952, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 581.73, "end": 587.24, "text": "and we realized this should have taken place way earlier.", "avg_logprob": -0.114, "no_speech_prob": 0.0004, "compression_ratio": 1.7952, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 587.4, "end": 589.36, "text": "We realized a lot of couples don't ever talk about,", "avg_logprob": -0.114, "no_speech_prob": 0.0004, "compression_ratio": 1.7952, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 589.36, "end": 591.4, "text": "a lot of couples have that same bad belief in their heart", "avg_logprob": -0.114, "no_speech_prob": 0.0004, "compression_ratio": 1.7952, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 591.4, "end": 592.24, "text": "they never talk about.", "avg_logprob": -0.114, "no_speech_prob": 0.0004, "compression_ratio": 1.7952, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 592.24, "end": 594.76, "text": "So we created a menu at our church,", "avg_logprob": -0.114, "no_speech_prob": 0.0004, "compression_ratio": 1.7952, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 594.76, "end": 597.4, "text": "52 questions to give the married couples", "avg_logprob": -0.114, "no_speech_prob": 0.0004, "compression_ratio": 1.7952, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 597.4, "end": 600.0, "text": "that they could begin asking one another these questions", "avg_logprob": -0.114, "no_speech_prob": 0.0004, "compression_ratio": 1.7952, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 600.0, "end": 602.6, "text": "to find out what's in the heart of one another", "avg_logprob": -0.114, "no_speech_prob": 0.0004, "compression_ratio": 1.7952, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 602.6, "end": 604.88, "text": "when it comes to sexual intimacy", "avg_logprob": -0.114, "no_speech_prob": 0.0004, "compression_ratio": 1.7952, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 604.88, "end": 607.16, "text": "and keeping the marriage bed pure.", "avg_logprob": -0.114, "no_speech_prob": 0.0004, "compression_ratio": 1.7952, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 607.16, "end": 610.16, "text": "And we taught one Sunday on the Song of Solomon", "avg_logprob": -0.114, "no_speech_prob": 0.0004, "compression_ratio": 1.7952, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 610.16, "end": 612.28, "text": "And when they left, I said, hey, listen,", "avg_logprob": -0.1217, "no_speech_prob": 0.0155, "compression_ratio": 1.6731, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 612.28, "end": 613.76, "text": "as you leave here today, I want you", "avg_logprob": -0.1217, "no_speech_prob": 0.0155, "compression_ratio": 1.6731, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 613.76, "end": 618.02, "text": "to pick up this 52-question menu and a two-hour burning candle.", "avg_logprob": -0.1217, "no_speech_prob": 0.0155, "compression_ratio": 1.6731, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 618.02, "end": 620.92, "text": "And I want you to go home, light the candle,", "avg_logprob": -0.1217, "no_speech_prob": 0.0155, "compression_ratio": 1.6731, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 620.92, "end": 625.0, "text": "and have a two-hour conversation about intimacy.", "avg_logprob": -0.1217, "no_speech_prob": 0.0155, "compression_ratio": 1.6731, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 625.0, "end": 628.16, "text": "And the next week, one Ozarkian Bubba came up to me", "avg_logprob": -0.1217, "no_speech_prob": 0.0155, "compression_ratio": 1.6731, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 628.16, "end": 629.98, "text": "and he said, hey, pastor, yeah, I", "avg_logprob": -0.1217, "no_speech_prob": 0.0155, "compression_ratio": 1.6731, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 629.98, "end": 632.2, "text": "found out you light that candle under a ceiling fan.", "avg_logprob": -0.1217, "no_speech_prob": 0.0155, "compression_ratio": 1.6731, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 632.2, "end": 640.44, "text": "It only takes about 45 minutes.", "avg_logprob": -0.1217, "no_speech_prob": 0.0155, "compression_ratio": 1.6731, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 640.44, "end": 643.28, "text": "Well, that was not the point.", "avg_logprob": -0.1217, "no_speech_prob": 0.0155, "compression_ratio": 1.6731, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 643.28, "end": 647.68, "text": "We wanted them to slow down and have a conversation.", "avg_logprob": -0.1903, "no_speech_prob": 0.0025, "compression_ratio": 1.6988, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 647.68, "end": 650.12, "text": "And I want to get you started on that conversation tonight.", "avg_logprob": -0.1903, "no_speech_prob": 0.0025, "compression_ratio": 1.6988, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 650.12, "end": 654.36, "text": "This is called Love, Laugh, and what's the last one?", "avg_logprob": -0.1903, "no_speech_prob": 0.0025, "compression_ratio": 1.6988, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 654.36, "end": 656.36, "text": "Pursue.", "avg_logprob": -0.1903, "no_speech_prob": 0.0025, "compression_ratio": 1.6988, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 656.36, "end": 660.36, "text": "The Hebrew term for pursue is bam, bam, chicka, chicka, bam,", "avg_logprob": -0.1903, "no_speech_prob": 0.0025, "compression_ratio": 1.6988, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 660.36, "end": 667.56, "text": "bam.", "avg_logprob": -0.1903, "no_speech_prob": 0.0025, "compression_ratio": 1.6988, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 667.56, "end": 674.45, "text": "The Beth Moore ladies all are like, I made that up.", "avg_logprob": -0.1903, "no_speech_prob": 0.0025, "compression_ratio": 1.6988, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 674.45, "end": 675.86, "text": "That's not true.", "avg_logprob": -0.1903, "no_speech_prob": 0.0025, "compression_ratio": 1.6988, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 675.86, "end": 677.3, "text": "But I like to start with the guys.", "avg_logprob": -0.1903, "no_speech_prob": 0.0025, "compression_ratio": 1.6988, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 677.3, "end": 678.98, "text": "And I just want this to be helpful.", "avg_logprob": -0.1903, "no_speech_prob": 0.0025, "compression_ratio": 1.6988, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 678.98, "end": 680.74, "text": "We want this to be a helpful night for you.", "avg_logprob": -0.1903, "no_speech_prob": 0.0025, "compression_ratio": 1.6988, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 680.74, "end": 683.5, "text": "how to pursue your wife romantically", "avg_logprob": -0.0817, "no_speech_prob": 0.0065, "compression_ratio": 1.7045, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 683.5, "end": 685.62, "text": "and how to prepare her for a night of romance.", "avg_logprob": -0.0817, "no_speech_prob": 0.0065, "compression_ratio": 1.7045, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 685.62, "end": 688.3, "text": "You know what I hear a lot in the counseling office?", "avg_logprob": -0.0817, "no_speech_prob": 0.0065, "compression_ratio": 1.7045, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 688.3, "end": 691.16, "text": "I hear a lot of guys say,", "avg_logprob": -0.0817, "no_speech_prob": 0.0065, "compression_ratio": 1.7045, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 691.16, "end": 696.45, "text": "I spent an entire day thinking tonight was the night,", "avg_logprob": -0.0817, "no_speech_prob": 0.0065, "compression_ratio": 1.7045, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 696.45, "end": 700.77, "text": "only to discover it wasn't even on her radar.", "avg_logprob": -0.0817, "no_speech_prob": 0.0065, "compression_ratio": 1.7045, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 700.77, "end": 703.33, "text": "So here's how you can begin to prepare your wife.", "avg_logprob": -0.0817, "no_speech_prob": 0.0065, "compression_ratio": 1.7045, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 703.33, "end": 705.85, "text": "This isn't about manipulation, this isn't about control.", "avg_logprob": -0.0817, "no_speech_prob": 0.0065, "compression_ratio": 1.7045, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 705.85, "end": 708.09, "text": "It's about having a conversation", "avg_logprob": -0.0817, "no_speech_prob": 0.0065, "compression_ratio": 1.7045, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 708.09, "end": 712.29, "text": "and enjoying and keeping the marriage bed pure,", "avg_logprob": -0.0817, "no_speech_prob": 0.0065, "compression_ratio": 1.7045, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 712.29, "end": 714.37, "text": "Honoring marriage, esteeming it is highly valuable.", "avg_logprob": -0.1926, "no_speech_prob": 0.0261, "compression_ratio": 1.2667, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 714.37, "end": 717.61, "text": "So guys, number one, it starts early in the morning.", "avg_logprob": -0.1926, "no_speech_prob": 0.0261, "compression_ratio": 1.2667, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 717.61, "end": 720.05, "text": "Okay, when it comes to sex, men are microwaves.", "avg_logprob": -0.1926, "no_speech_prob": 0.0261, "compression_ratio": 1.2667, "chunk": "DNbhdw0Wlqo-00"}
+{"start": 720.0, "end": 723.34, "text": "Women are crock pots.", "avg_logprob": -0.1601, "no_speech_prob": 0.0162, "compression_ratio": 1.698, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 723.34, "end": 726.18, "text": "If you want to enjoy a nice meal when you get home,", "avg_logprob": -0.1601, "no_speech_prob": 0.0162, "compression_ratio": 1.698, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 726.18, "end": 737.53, "text": "turn her on before you leave the house.", "avg_logprob": -0.1601, "no_speech_prob": 0.0162, "compression_ratio": 1.698, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 737.53, "end": 742.9, "text": "In our home, we have something called the crock pot candle.", "avg_logprob": -0.1601, "no_speech_prob": 0.0162, "compression_ratio": 1.698, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 742.9, "end": 747.06, "text": "And when that candle's lit, it means tonight's the night.", "avg_logprob": -0.1601, "no_speech_prob": 0.0162, "compression_ratio": 1.698, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 747.06, "end": 748.66, "text": "And I always love at events like this,", "avg_logprob": -0.1601, "no_speech_prob": 0.0162, "compression_ratio": 1.698, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 748.66, "end": 752.1, "text": "I will have multiple people come up to me and go, hey, pastor.", "avg_logprob": -0.1601, "no_speech_prob": 0.0162, "compression_ratio": 1.698, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 752.1, "end": 757.7, "text": "Be like, yeah, hey.", "avg_logprob": -0.1601, "no_speech_prob": 0.0162, "compression_ratio": 1.698, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 757.7, "end": 760.85, "text": "And I have to say, it's any candle.", "avg_logprob": -0.1601, "no_speech_prob": 0.0162, "compression_ratio": 1.698, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 760.85, "end": 762.01, "text": "It's not a special candle.", "avg_logprob": -0.1601, "no_speech_prob": 0.0162, "compression_ratio": 1.698, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 762.01, "end": 764.9, "text": "You can go to Yankee Candle Workshop, pick one up.", "avg_logprob": -0.1445, "no_speech_prob": 0.0093, "compression_ratio": 1.7086, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 764.9, "end": 766.34, "text": "Turn her on before you leave the house", "avg_logprob": -0.1445, "no_speech_prob": 0.0093, "compression_ratio": 1.7086, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 766.34, "end": 770.7, "text": "and give her one NST, one non-sexual touch", "avg_logprob": -0.1445, "no_speech_prob": 0.0093, "compression_ratio": 1.7086, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 770.7, "end": 771.72, "text": "before you leave the house.", "avg_logprob": -0.1445, "no_speech_prob": 0.0093, "compression_ratio": 1.7086, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 771.72, "end": 773.78, "text": "From research we know your wife needs", "avg_logprob": -0.1445, "no_speech_prob": 0.0093, "compression_ratio": 1.7086, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 773.78, "end": 776.5, "text": "12 non-sexual touches a day,", "avg_logprob": -0.1445, "no_speech_prob": 0.0093, "compression_ratio": 1.7086, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 776.5, "end": 778.64, "text": "and it's not one, two, three, four, five, six, seven,", "avg_logprob": -0.1445, "no_speech_prob": 0.0093, "compression_ratio": 1.7086, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 778.64, "end": 783.56, "text": "eight, nine, 10, 11, 12.", "avg_logprob": -0.1445, "no_speech_prob": 0.0093, "compression_ratio": 1.7086, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 783.56, "end": 786.82, "text": "A non-sexual touch is the hair over the ear,", "avg_logprob": -0.1445, "no_speech_prob": 0.0093, "compression_ratio": 1.7086, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 786.82, "end": 788.26, "text": "a hand on the small of the back,", "avg_logprob": -0.1445, "no_speech_prob": 0.0093, "compression_ratio": 1.7086, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 788.26, "end": 791.28, "text": "a hand on the thigh holding hands.", "avg_logprob": -0.1445, "no_speech_prob": 0.0093, "compression_ratio": 1.7086, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 791.28, "end": 792.12, "text": "Enjoy one of them.", "avg_logprob": -0.1445, "no_speech_prob": 0.0093, "compression_ratio": 1.7086, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 792.12, "end": 793.66, "text": "Get to work, call her for no purpose", "avg_logprob": -0.1445, "no_speech_prob": 0.0093, "compression_ratio": 1.7086, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 793.66, "end": 794.86, "text": "other than to connect.", "avg_logprob": -0.1139, "no_speech_prob": 0.1178, "compression_ratio": 1.6041, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 794.86, "end": 797.96, "text": "Honey, what have you done since we parted ways?", "avg_logprob": -0.1139, "no_speech_prob": 0.1178, "compression_ratio": 1.6041, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 797.96, "end": 802.32, "text": "Tell me everything you've done, spare me no details.", "avg_logprob": -0.1139, "no_speech_prob": 0.1178, "compression_ratio": 1.6041, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 802.32, "end": 804.33, "text": "How'd you feel about it?", "avg_logprob": -0.1139, "no_speech_prob": 0.1178, "compression_ratio": 1.6041, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 804.33, "end": 807.31, "text": "And then when she shares and you feel like she's done sharing", "avg_logprob": -0.1139, "no_speech_prob": 0.1178, "compression_ratio": 1.6041, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 807.31, "end": 813.97, "text": "simply say these three words, tell me more.", "avg_logprob": -0.1139, "no_speech_prob": 0.1178, "compression_ratio": 1.6041, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 813.97, "end": 819.11, "text": "And the crock pot just went from low to medium.", "avg_logprob": -0.1139, "no_speech_prob": 0.1178, "compression_ratio": 1.6041, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 819.11, "end": 822.65, "text": "Get home, do something domestic.", "avg_logprob": -0.1139, "no_speech_prob": 0.1178, "compression_ratio": 1.6041, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 822.65, "end": 827.55, "text": "I have found in our home that the sound of the dishwasher", "avg_logprob": -0.1139, "no_speech_prob": 0.1178, "compression_ratio": 1.6041, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 827.55, "end": 831.14, "text": "turns my wife on.", "avg_logprob": -0.1234, "no_speech_prob": 0.0051, "compression_ratio": 1.5153, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 831.14, "end": 833.18, "text": "Now, here's a little secret, okay?", "avg_logprob": -0.1234, "no_speech_prob": 0.0051, "compression_ratio": 1.5153, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 833.18, "end": 840.14, "text": "You don't even need dishes in it.", "avg_logprob": -0.1234, "no_speech_prob": 0.0051, "compression_ratio": 1.5153, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 840.14, "end": 842.38, "text": "You just need to turn it on,", "avg_logprob": -0.1234, "no_speech_prob": 0.0051, "compression_ratio": 1.5153, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 842.38, "end": 848.44, "text": "spray some 409 around the kitchen.", "avg_logprob": -0.1234, "no_speech_prob": 0.0051, "compression_ratio": 1.5153, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 848.44, "end": 851.68, "text": "Now, this is a big one, guys, for the list, big ones, okay?", "avg_logprob": -0.1234, "no_speech_prob": 0.0051, "compression_ratio": 1.5153, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 851.68, "end": 855.04, "text": "Sex drive is driven by energy.", "avg_logprob": -0.1234, "no_speech_prob": 0.0051, "compression_ratio": 1.5153, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 855.04, "end": 857.7, "text": "So to help her conserve energy,", "avg_logprob": -0.1234, "no_speech_prob": 0.0051, "compression_ratio": 1.5153, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 857.7, "end": 861.16, "text": "you are removing distractions that evening.", "avg_logprob": -0.1234, "no_speech_prob": 0.0051, "compression_ratio": 1.5153, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 861.16, "end": 863.08, "text": "And in our home, we have a 13", "avg_logprob": -0.1234, "no_speech_prob": 0.0051, "compression_ratio": 1.5153, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 863.08, "end": 866.38, "text": "and a 15-year-old distraction.", "avg_logprob": -0.1686, "no_speech_prob": 0.0041, "compression_ratio": 1.5154, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 866.38, "end": 868.74, "text": "And on most nights, the candle's lit.", "avg_logprob": -0.1686, "no_speech_prob": 0.0041, "compression_ratio": 1.5154, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 868.74, "end": 870.18, "text": "I'm running around the house going,", "avg_logprob": -0.1686, "no_speech_prob": 0.0041, "compression_ratio": 1.5154, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 870.18, "end": 875.84, "text": "stay away from your mother.", "avg_logprob": -0.1686, "no_speech_prob": 0.0041, "compression_ratio": 1.5154, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 875.84, "end": 877.72, "text": "Leave her alone.", "avg_logprob": -0.1686, "no_speech_prob": 0.0041, "compression_ratio": 1.5154, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 877.72, "end": 880.63, "text": "Talking to her.", "avg_logprob": -0.1686, "no_speech_prob": 0.0041, "compression_ratio": 1.5154, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 880.63, "end": 882.83, "text": "Amy will come out of the bedroom, what's going on?", "avg_logprob": -0.1686, "no_speech_prob": 0.0041, "compression_ratio": 1.5154, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 882.83, "end": 886.73, "text": "You stay focused.", "avg_logprob": -0.1686, "no_speech_prob": 0.0041, "compression_ratio": 1.5154, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 886.73, "end": 889.94, "text": "I haven't run the ball down the field all day.", "avg_logprob": -0.1686, "no_speech_prob": 0.0041, "compression_ratio": 1.5154, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 889.94, "end": 897.71, "text": "Be fumbling it on the five yard line.", "avg_logprob": -0.1686, "no_speech_prob": 0.0041, "compression_ratio": 1.5154, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 897.71, "end": 901.96, "text": "Ladies, there's a list for you, OK?", "avg_logprob": -0.1686, "no_speech_prob": 0.0041, "compression_ratio": 1.5154, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 901.96, "end": 902.88, "text": "Simple list.", "avg_logprob": -0.1686, "no_speech_prob": 0.0041, "compression_ratio": 1.5154, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 902.88, "end": 904.0, "text": "Show up naked.", "avg_logprob": -0.1686, "no_speech_prob": 0.0041, "compression_ratio": 1.5154, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 904.0, "end": 912.9, "text": "That's it.", "avg_logprob": -0.1686, "no_speech_prob": 0.0041, "compression_ratio": 1.5154, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 912.9, "end": 919.18, "text": "He needs zero non-sexual touching.", "avg_logprob": -0.1491, "no_speech_prob": 0.0001, "compression_ratio": 1.6371, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 919.18, "end": 925.15, "text": "He needs zero phone calls asking about his day.", "avg_logprob": -0.1491, "no_speech_prob": 0.0001, "compression_ratio": 1.6371, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 925.15, "end": 929.22, "text": "You'd be shocked at how distracted he can be,", "avg_logprob": -0.1491, "no_speech_prob": 0.0001, "compression_ratio": 1.6371, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 929.22, "end": 932.52, "text": "how cluttered the home can be.", "avg_logprob": -0.1491, "no_speech_prob": 0.0001, "compression_ratio": 1.6371, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 932.52, "end": 935.26, "text": "Amy and I are just, we're making the commitment", "avg_logprob": -0.1491, "no_speech_prob": 0.0001, "compression_ratio": 1.6371, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 935.26, "end": 936.66, "text": "to enjoy life together.", "avg_logprob": -0.1491, "no_speech_prob": 0.0001, "compression_ratio": 1.6371, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 936.66, "end": 939.82, "text": "Cleisassie99 says, enjoy life with your wife", "avg_logprob": -0.1491, "no_speech_prob": 0.0001, "compression_ratio": 1.6371, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 939.82, "end": 941.78, "text": "whom you love all your meaningless days", "avg_logprob": -0.1491, "no_speech_prob": 0.0001, "compression_ratio": 1.6371, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 941.78, "end": 942.94, "text": "for this is your lot in life", "avg_logprob": -0.1491, "no_speech_prob": 0.0001, "compression_ratio": 1.6371, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 942.94, "end": 945.72, "text": "and in your toilsome labor under the sun.", "avg_logprob": -0.1491, "no_speech_prob": 0.0001, "compression_ratio": 1.6371, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 945.72, "end": 947.0, "text": "And that's a decision that you make,", "avg_logprob": -0.1491, "no_speech_prob": 0.0001, "compression_ratio": 1.6371, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 947.0, "end": 950.54, "text": "not something that you wait for, that you hope finds you.", "avg_logprob": -0.1218, "no_speech_prob": 0.0107, "compression_ratio": 1.8582, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 950.54, "end": 953.0, "text": "And I am so grateful for my wife, Amy.", "avg_logprob": -0.1218, "no_speech_prob": 0.0107, "compression_ratio": 1.8582, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 953.0, "end": 956.0, "text": "I'm married to a strong woman.", "avg_logprob": -0.1218, "no_speech_prob": 0.0107, "compression_ratio": 1.8582, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 956.0, "end": 957.62, "text": "Guys, I'm going to ask you two questions", "avg_logprob": -0.1218, "no_speech_prob": 0.0107, "compression_ratio": 1.8582, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 957.62, "end": 958.58, "text": "in how you answer this.", "avg_logprob": -0.1218, "no_speech_prob": 0.0107, "compression_ratio": 1.8582, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 958.58, "end": 962.48, "text": "It's very important, the rate at which you answer this,", "avg_logprob": -0.1218, "no_speech_prob": 0.0107, "compression_ratio": 1.8582, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 962.48, "end": 965.72, "text": "the speed at which you answer this.", "avg_logprob": -0.1218, "no_speech_prob": 0.0107, "compression_ratio": 1.8582, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 965.72, "end": 967.36, "text": "If you're married to a strong woman,", "avg_logprob": -0.1218, "no_speech_prob": 0.0107, "compression_ratio": 1.8582, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 967.36, "end": 970.78, "text": "would you raise your hand?", "avg_logprob": -0.1218, "no_speech_prob": 0.0107, "compression_ratio": 1.8582, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 970.78, "end": 971.38, "text": "That's good.", "avg_logprob": -0.1218, "no_speech_prob": 0.0107, "compression_ratio": 1.8582, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 971.38, "end": 975.09, "text": "See, I shouldn't give you so much prep on that.", "avg_logprob": -0.1218, "no_speech_prob": 0.0107, "compression_ratio": 1.8582, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 975.09, "end": 977.89, "text": "How you answer the next question is even more important", "avg_logprob": -0.1218, "no_speech_prob": 0.0107, "compression_ratio": 1.8582, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 977.89, "end": 979.21, "text": "than that question.", "avg_logprob": -0.1218, "no_speech_prob": 0.0107, "compression_ratio": 1.8582, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 979.21, "end": 983.51, "text": "How many of you love being married to a strong?", "avg_logprob": -0.1509, "no_speech_prob": 0.0015, "compression_ratio": 1.6703, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 983.51, "end": 985.23, "text": "Look at that, I can't even get the question out.", "avg_logprob": -0.1509, "no_speech_prob": 0.0015, "compression_ratio": 1.6703, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 985.23, "end": 988.09, "text": "I love it, Ted, it's the best thing I got, yeah.", "avg_logprob": -0.1509, "no_speech_prob": 0.0015, "compression_ratio": 1.6703, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 988.09, "end": 989.81, "text": "I do, you know why?", "avg_logprob": -0.1509, "no_speech_prob": 0.0015, "compression_ratio": 1.6703, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 989.81, "end": 993.35, "text": "Because my wife, we call them in our home declarations.", "avg_logprob": -0.1509, "no_speech_prob": 0.0015, "compression_ratio": 1.6703, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 993.35, "end": 997.48, "text": "Like she decides something, and we're doing it.", "avg_logprob": -0.1509, "no_speech_prob": 0.0015, "compression_ratio": 1.6703, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 997.48, "end": 1001.1, "text": "And she's, I mean that strengthened my wife's passion.", "avg_logprob": -0.1509, "no_speech_prob": 0.0015, "compression_ratio": 1.6703, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1001.1, "end": 1002.42, "text": "And I mean I didn't understand this", "avg_logprob": -0.1509, "no_speech_prob": 0.0015, "compression_ratio": 1.6703, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1002.42, "end": 1003.62, "text": "when we were first married.", "avg_logprob": -0.1509, "no_speech_prob": 0.0015, "compression_ratio": 1.6703, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1003.62, "end": 1005.18, "text": "Where's two months?", "avg_logprob": -0.1509, "no_speech_prob": 0.0015, "compression_ratio": 1.6703, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1005.18, "end": 1006.72, "text": "Let me just see two months.", "avg_logprob": -0.1509, "no_speech_prob": 0.0015, "compression_ratio": 1.6703, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1006.72, "end": 1007.56, "text": "Where's two months?", "avg_logprob": -0.1509, "no_speech_prob": 0.0015, "compression_ratio": 1.6703, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1007.56, "end": 1011.28, "text": "months man stick with me for just a second on this because I didn't get it", "avg_logprob": -0.1504, "no_speech_prob": 0.0194, "compression_ratio": 1.8925, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1011.28, "end": 1013.68, "text": "when we were first married we'd be driving down the road everything would be good", "avg_logprob": -0.1504, "no_speech_prob": 0.0194, "compression_ratio": 1.8925, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1013.68, "end": 1019.02, "text": "and topic would come up and out of nowhere what happened I wasn't it's", "avg_logprob": -0.1504, "no_speech_prob": 0.0194, "compression_ratio": 1.8925, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1019.02, "end": 1023.64, "text": "passion coming out of her she gets passionate and she said when we were at", "avg_logprob": -0.1504, "no_speech_prob": 0.0194, "compression_ratio": 1.8925, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1023.64, "end": 1026.32, "text": "that seven year mark in marriage we were getting to the point where it was a", "avg_logprob": -0.1504, "no_speech_prob": 0.0194, "compression_ratio": 1.8925, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1026.32, "end": 1032.0, "text": "little like everything was everything was a fight see what happened was we", "avg_logprob": -0.1504, "no_speech_prob": 0.0194, "compression_ratio": 1.8925, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1032.0, "end": 1035.92, "text": "turned our marriage into the grind instead of being teammates through the", "avg_logprob": -0.1504, "no_speech_prob": 0.0194, "compression_ratio": 1.8925, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1035.92, "end": 1040.92, "text": "grind of life, as Ecclesiastes 9-9 calls us to, we took each other for granted and we", "avg_logprob": -0.1836, "no_speech_prob": 0.0626, "compression_ratio": 1.7647, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1040.92, "end": 1043.12, "text": "turned each other into opponents.", "avg_logprob": -0.1836, "no_speech_prob": 0.0626, "compression_ratio": 1.7647, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1043.12, "end": 1047.0, "text": "And now we saw everything we said and did and it was all just like, eh, eh, eh, eh,", "avg_logprob": -0.1836, "no_speech_prob": 0.0626, "compression_ratio": 1.7647, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1047.0, "end": 1048.0, "text": "and everything.", "avg_logprob": -0.1836, "no_speech_prob": 0.0626, "compression_ratio": 1.7647, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1048.0, "end": 1049.0, "text": "We could be, hey, where do you want to eat?", "avg_logprob": -0.1836, "no_speech_prob": 0.0626, "compression_ratio": 1.7647, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1049.0, "end": 1051.02, "text": "I don't care.", "avg_logprob": -0.1836, "no_speech_prob": 0.0626, "compression_ratio": 1.7647, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1051.02, "end": 1052.02, "text": "Why don't we try red lobster?", "avg_logprob": -0.1836, "no_speech_prob": 0.0626, "compression_ratio": 1.7647, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1052.02, "end": 1053.02, "text": "I'm not feeling seafood.", "avg_logprob": -0.1836, "no_speech_prob": 0.0626, "compression_ratio": 1.7647, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1053.02, "end": 1054.44, "text": "What about olive?", "avg_logprob": -0.1836, "no_speech_prob": 0.0626, "compression_ratio": 1.7647, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1054.44, "end": 1055.44, "text": "You're not feeling it.", "avg_logprob": -0.1836, "no_speech_prob": 0.0626, "compression_ratio": 1.7647, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1055.44, "end": 1060.98, "text": "Okay, you just said you don't care, but you have a strong opinion on where we eat.", "avg_logprob": -0.1836, "no_speech_prob": 0.0626, "compression_ratio": 1.7647, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1060.98, "end": 1066.78, "text": "But you see, that's where it's just, we just said, that's not the marriage we want.", "avg_logprob": -0.1836, "no_speech_prob": 0.0626, "compression_ratio": 1.7647, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1066.78, "end": 1068.98, "text": "We don't want the marriage where everything is,", "avg_logprob": -0.1501, "no_speech_prob": 0.0013, "compression_ratio": 1.7148, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1068.98, "end": 1070.82, "text": "we haven't even started having kids yet at this point.", "avg_logprob": -0.1501, "no_speech_prob": 0.0013, "compression_ratio": 1.7148, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1070.82, "end": 1073.74, "text": "We're saying, so we want our kids to see this?", "avg_logprob": -0.1501, "no_speech_prob": 0.0013, "compression_ratio": 1.7148, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1073.74, "end": 1076.42, "text": "That everything going on in the home is, no.", "avg_logprob": -0.1501, "no_speech_prob": 0.0013, "compression_ratio": 1.7148, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1076.42, "end": 1077.7, "text": "I said, we are not doing this.", "avg_logprob": -0.1501, "no_speech_prob": 0.0013, "compression_ratio": 1.7148, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1077.7, "end": 1081.14, "text": "And Amy said, listen, ain't happening, ain't happening.", "avg_logprob": -0.1501, "no_speech_prob": 0.0013, "compression_ratio": 1.7148, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1081.14, "end": 1084.5, "text": "We, Ted Cunningham, are gonna enjoy life together.", "avg_logprob": -0.1501, "no_speech_prob": 0.0013, "compression_ratio": 1.7148, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1084.5, "end": 1085.34, "text": "Do you hear me?", "avg_logprob": -0.1501, "no_speech_prob": 0.0013, "compression_ratio": 1.7148, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1085.34, "end": 1089.53, "text": "Yes, I, yes ma'am, we are.", "avg_logprob": -0.1501, "no_speech_prob": 0.0013, "compression_ratio": 1.7148, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1089.53, "end": 1090.97, "text": "This is what I love about my wife.", "avg_logprob": -0.1501, "no_speech_prob": 0.0013, "compression_ratio": 1.7148, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1090.97, "end": 1093.01, "text": "When she gets her mind on something,", "avg_logprob": -0.1501, "no_speech_prob": 0.0013, "compression_ratio": 1.7148, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1093.01, "end": 1095.53, "text": "there is no taking her off course.", "avg_logprob": -0.1501, "no_speech_prob": 0.0013, "compression_ratio": 1.7148, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1095.53, "end": 1097.65, "text": "She said, we're gonna have fun together.", "avg_logprob": -0.1501, "no_speech_prob": 0.0013, "compression_ratio": 1.7148, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1097.65, "end": 1099.77, "text": "I want you to start, Ted, I want you to pick something", "avg_logprob": -0.1052, "no_speech_prob": 0.0021, "compression_ratio": 1.6733, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1099.77, "end": 1102.31, "text": "that absolutely wears you out right now,", "avg_logprob": -0.1052, "no_speech_prob": 0.0021, "compression_ratio": 1.6733, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1102.31, "end": 1103.81, "text": "that exhausts you in this marriage.", "avg_logprob": -0.1052, "no_speech_prob": 0.0021, "compression_ratio": 1.6733, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1103.81, "end": 1106.03, "text": "And it can be something real small, real little,", "avg_logprob": -0.1052, "no_speech_prob": 0.0021, "compression_ratio": 1.6733, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1106.03, "end": 1110.09, "text": "that just like, nails on a chalkboard when it takes place,", "avg_logprob": -0.1052, "no_speech_prob": 0.0021, "compression_ratio": 1.6733, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1110.09, "end": 1113.09, "text": "because we're at each other's throats on too many areas.", "avg_logprob": -0.1052, "no_speech_prob": 0.0021, "compression_ratio": 1.6733, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1113.09, "end": 1114.85, "text": "You pick it, and I'm gonna show you", "avg_logprob": -0.1052, "no_speech_prob": 0.0021, "compression_ratio": 1.6733, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1114.85, "end": 1116.95, "text": "how we can have fun with it.", "avg_logprob": -0.1052, "no_speech_prob": 0.0021, "compression_ratio": 1.6733, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1116.95, "end": 1119.55, "text": "I said, game on, I'm ready for this.", "avg_logprob": -0.1052, "no_speech_prob": 0.0021, "compression_ratio": 1.6733, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1119.55, "end": 1120.39, "text": "And this is what I told her, I said,", "avg_logprob": -0.1052, "no_speech_prob": 0.0021, "compression_ratio": 1.6733, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1120.39, "end": 1121.83, "text": "babe, there's not a lot of adventure", "avg_logprob": -0.1052, "no_speech_prob": 0.0021, "compression_ratio": 1.6733, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1121.83, "end": 1124.75, "text": "left for men in the world anymore.", "avg_logprob": -0.1052, "no_speech_prob": 0.0021, "compression_ratio": 1.6733, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1124.75, "end": 1142.96, "text": "Would you please let me find my own parking space?", "avg_logprob": -0.12, "no_speech_prob": 0.0045, "compression_ratio": 1.5917, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1142.96, "end": 1146.13, "text": "I want to do it all by myself.", "avg_logprob": -0.12, "no_speech_prob": 0.0045, "compression_ratio": 1.5917, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1146.13, "end": 1150.81, "text": "I want to provide this for my family.", "avg_logprob": -0.12, "no_speech_prob": 0.0045, "compression_ratio": 1.5917, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1150.81, "end": 1152.61, "text": "And you know what my wife said?", "avg_logprob": -0.12, "no_speech_prob": 0.0045, "compression_ratio": 1.5917, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1152.61, "end": 1154.48, "text": "Game on.", "avg_logprob": -0.12, "no_speech_prob": 0.0045, "compression_ratio": 1.5917, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1154.48, "end": 1155.16, "text": "Game on.", "avg_logprob": -0.12, "no_speech_prob": 0.0045, "compression_ratio": 1.5917, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1155.16, "end": 1158.54, "text": "You know what she does now when we pull into a parking lot?", "avg_logprob": -0.12, "no_speech_prob": 0.0045, "compression_ratio": 1.5917, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1158.54, "end": 1161.24, "text": "She knows if she looks at a spot,", "avg_logprob": -0.12, "no_speech_prob": 0.0045, "compression_ratio": 1.5917, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1161.24, "end": 1166.36, "text": "it automatically disqualifies that spot.", "avg_logprob": -0.12, "no_speech_prob": 0.0045, "compression_ratio": 1.5917, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1166.36, "end": 1168.08, "text": "But she used to look at me with those eyes", "avg_logprob": -0.12, "no_speech_prob": 0.0045, "compression_ratio": 1.5917, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1168.08, "end": 1171.33, "text": "it said, you stubborn, stubborn man.", "avg_logprob": -0.136, "no_speech_prob": 0.0901, "compression_ratio": 1.5373, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1171.33, "end": 1172.93, "text": "Not anymore.", "avg_logprob": -0.136, "no_speech_prob": 0.0901, "compression_ratio": 1.5373, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1172.93, "end": 1175.69, "text": "Now when we pull into a space that I found,", "avg_logprob": -0.136, "no_speech_prob": 0.0901, "compression_ratio": 1.5373, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1175.69, "end": 1180.82, "text": "20 spaces away from her third space from the door.", "avg_logprob": -0.136, "no_speech_prob": 0.0901, "compression_ratio": 1.5373, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1180.82, "end": 1182.3, "text": "I love this about her.", "avg_logprob": -0.136, "no_speech_prob": 0.0901, "compression_ratio": 1.5373, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1182.3, "end": 1187.26, "text": "She leans over and she starts massaging my bicep.", "avg_logprob": -0.136, "no_speech_prob": 0.0901, "compression_ratio": 1.5373, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1187.26, "end": 1203.04, "text": "And she'll say, I'm so proud of you.", "avg_logprob": -0.136, "no_speech_prob": 0.0901, "compression_ratio": 1.5373, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1203.04, "end": 1206.52, "text": "Kids, doesn't your dad do a great job finding parking spaces?", "avg_logprob": -0.136, "no_speech_prob": 0.0901, "compression_ratio": 1.5373, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1206.52, "end": 1208.08, "text": "I return the favor.", "avg_logprob": -0.136, "no_speech_prob": 0.0901, "compression_ratio": 1.5373, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1208.08, "end": 1211.48, "text": "I'm like, this is exactly how this is supposed to work.", "avg_logprob": -0.136, "no_speech_prob": 0.0901, "compression_ratio": 1.5373, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1211.48, "end": 1213.64, "text": "enjoying life together.", "avg_logprob": -0.1336, "no_speech_prob": 0.0189, "compression_ratio": 1.7477, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1213.64, "end": 1214.96, "text": "What would your marriage look like", "avg_logprob": -0.1336, "no_speech_prob": 0.0189, "compression_ratio": 1.7477, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1214.96, "end": 1216.92, "text": "if you took every irritating, frustrating,", "avg_logprob": -0.1336, "no_speech_prob": 0.0189, "compression_ratio": 1.7477, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1216.92, "end": 1220.41, "text": "annoying thing and turned it into fun?", "avg_logprob": -0.1336, "no_speech_prob": 0.0189, "compression_ratio": 1.7477, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1220.41, "end": 1221.27, "text": "The things that you just,", "avg_logprob": -0.1336, "no_speech_prob": 0.0189, "compression_ratio": 1.7477, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1221.27, "end": 1222.51, "text": "just think of something right now", "avg_logprob": -0.1336, "no_speech_prob": 0.0189, "compression_ratio": 1.7477, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1222.51, "end": 1224.69, "text": "that if I were to mention anything", "avg_logprob": -0.1336, "no_speech_prob": 0.0189, "compression_ratio": 1.7477, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1224.69, "end": 1226.99, "text": "from driving to parking spaces to shopping", "avg_logprob": -0.1336, "no_speech_prob": 0.0189, "compression_ratio": 1.7477, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1226.99, "end": 1229.11, "text": "to the bank accounts and you just right now", "avg_logprob": -0.1336, "no_speech_prob": 0.0189, "compression_ratio": 1.7477, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1229.11, "end": 1233.52, "text": "you're like, start there.", "avg_logprob": -0.1336, "no_speech_prob": 0.0189, "compression_ratio": 1.7477, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1233.52, "end": 1235.06, "text": "Say let's find a way to have fun with that.", "avg_logprob": -0.1336, "no_speech_prob": 0.0189, "compression_ratio": 1.7477, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1235.06, "end": 1235.98, "text": "Two months married, I don't know", "avg_logprob": -0.1336, "no_speech_prob": 0.0189, "compression_ratio": 1.7477, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1235.98, "end": 1238.0, "text": "if this has happened to you yet.", "avg_logprob": -0.1336, "no_speech_prob": 0.0189, "compression_ratio": 1.7477, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1238.0, "end": 1239.78, "text": "But when we were first married,", "avg_logprob": -0.1336, "no_speech_prob": 0.0189, "compression_ratio": 1.7477, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1239.78, "end": 1241.22, "text": "she asked me questions about things", "avg_logprob": -0.1336, "no_speech_prob": 0.0189, "compression_ratio": 1.7477, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1241.22, "end": 1242.98, "text": "and I'd be like, wow, I don't have a clue", "avg_logprob": -0.1336, "no_speech_prob": 0.0189, "compression_ratio": 1.7477, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1242.98, "end": 1245.66, "text": "why you would think I would have an answer for you on that.", "avg_logprob": -0.2002, "no_speech_prob": 0.1193, "compression_ratio": 1.6667, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1245.66, "end": 1249.42, "text": "I don't, I never studied that, I don't have a degree in that.", "avg_logprob": -0.2002, "no_speech_prob": 0.1193, "compression_ratio": 1.6667, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1249.42, "end": 1251.22, "text": "We would drive through construction zones", "avg_logprob": -0.2002, "no_speech_prob": 0.1193, "compression_ratio": 1.6667, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1251.22, "end": 1254.88, "text": "and Amy would be like, hey babe, yeah,", "avg_logprob": -0.2002, "no_speech_prob": 0.1193, "compression_ratio": 1.6667, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1254.88, "end": 1256.38, "text": "what are they doing right here?", "avg_logprob": -0.2002, "no_speech_prob": 0.1193, "compression_ratio": 1.6667, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1259.39, "end": 1272.44, "text": "Let's see, right there.", "avg_logprob": -0.2002, "no_speech_prob": 0.1193, "compression_ratio": 1.6667, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1272.44, "end": 1275.66, "text": "I wasn't involved in any of the meetings on this project.", "avg_logprob": -0.2002, "no_speech_prob": 0.1193, "compression_ratio": 1.6667, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1275.66, "end": 1279.38, "text": "I have absolutely no idea.", "avg_logprob": -0.2002, "no_speech_prob": 0.1193, "compression_ratio": 1.6667, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1279.38, "end": 1281.66, "text": "But that was my little husband brain going,", "avg_logprob": -0.2002, "no_speech_prob": 0.1193, "compression_ratio": 1.6667, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1281.66, "end": 1285.0, "text": "like why would she think for a second", "avg_logprob": -0.2002, "no_speech_prob": 0.1193, "compression_ratio": 1.6667, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1285.0, "end": 1289.0, "text": "I have information on that.", "avg_logprob": -0.1122, "no_speech_prob": 0.0023, "compression_ratio": 1.7092, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1289.0, "end": 1293.06, "text": "So just like she did that for me in the parking lot, I said, I'm going to return the favor", "avg_logprob": -0.1122, "no_speech_prob": 0.0023, "compression_ratio": 1.7092, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1293.06, "end": 1298.69, "text": "and have fun with the questions that she asked while we're driving.", "avg_logprob": -0.1122, "no_speech_prob": 0.0023, "compression_ratio": 1.7092, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1298.69, "end": 1301.05, "text": "Because we used to drive down the road and she would go, what are you thinking about", "avg_logprob": -0.1122, "no_speech_prob": 0.0023, "compression_ratio": 1.7092, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1301.05, "end": 1306.6, "text": "right now?", "avg_logprob": -0.1122, "no_speech_prob": 0.0023, "compression_ratio": 1.7092, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1306.6, "end": 1308.52, "text": "And I'd look at the sticker in the upper left-hand corner.", "avg_logprob": -0.1122, "no_speech_prob": 0.0023, "compression_ratio": 1.7092, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1308.52, "end": 1313.77, "text": "We needed an oil change in 300 miles.", "avg_logprob": -0.1122, "no_speech_prob": 0.0023, "compression_ratio": 1.7092, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1313.77, "end": 1315.77, "text": "You were not just thinking about the oil change.", "avg_logprob": -0.1122, "no_speech_prob": 0.0023, "compression_ratio": 1.7092, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1315.77, "end": 1316.77, "text": "I know.", "avg_logprob": -0.1122, "no_speech_prob": 0.0023, "compression_ratio": 1.7092, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1316.77, "end": 1321.28, "text": "I was thinking about nothing.", "avg_logprob": -0.1122, "no_speech_prob": 0.0023, "compression_ratio": 1.7092, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1321.28, "end": 1322.28, "text": "But now watch this.", "avg_logprob": -0.1122, "no_speech_prob": 0.0023, "compression_ratio": 1.7092, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1322.28, "end": 1323.8, "text": "This has become fun in our marriage.", "avg_logprob": -0.1122, "no_speech_prob": 0.0023, "compression_ratio": 1.7092, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1323.8, "end": 1328.5, "text": "Now when we drive through a construction zone and she'll ask me the question because she", "avg_logprob": -0.137, "no_speech_prob": 0.0089, "compression_ratio": 1.7583, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1328.5, "end": 1333.14, "text": "knows I do it every single time, she'll go, hey, babe, what are they doing right here?", "avg_logprob": -0.137, "no_speech_prob": 0.0089, "compression_ratio": 1.7583, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1333.14, "end": 1334.62, "text": "I turn into the construction foreman.", "avg_logprob": -0.137, "no_speech_prob": 0.0089, "compression_ratio": 1.7583, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1334.62, "end": 1338.04, "text": "I told him, rip it up, boys.", "avg_logprob": -0.137, "no_speech_prob": 0.0089, "compression_ratio": 1.7583, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1338.04, "end": 1339.44, "text": "We're going 12 lanes, not six.", "avg_logprob": -0.137, "no_speech_prob": 0.0089, "compression_ratio": 1.7583, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1339.44, "end": 1340.44, "text": "Listen, do you want a great marriage?", "avg_logprob": -0.137, "no_speech_prob": 0.0089, "compression_ratio": 1.7583, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1340.44, "end": 1342.04, "text": "Nod at me two months if you want a great marriage.", "avg_logprob": -0.137, "no_speech_prob": 0.0089, "compression_ratio": 1.7583, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1342.04, "end": 1351.66, "text": "If you want a great marriage, you just start making stuff up.", "avg_logprob": -0.137, "no_speech_prob": 0.0089, "compression_ratio": 1.7583, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1351.66, "end": 1353.87, "text": "Here's the mistake you'll make.", "avg_logprob": -0.137, "no_speech_prob": 0.0089, "compression_ratio": 1.7583, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1353.87, "end": 1356.7, "text": "You're going to think she wants information.", "avg_logprob": -0.137, "no_speech_prob": 0.0089, "compression_ratio": 1.7583, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1356.7, "end": 1358.86, "text": "She doesn't want information.", "avg_logprob": -0.137, "no_speech_prob": 0.0089, "compression_ratio": 1.7583, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1358.86, "end": 1366.77, "text": "She wants connection, accuracy, eh, she wants connection.", "avg_logprob": -0.1697, "no_speech_prob": 0.0152, "compression_ratio": 1.6987, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1366.77, "end": 1369.19, "text": "Have fun in your marriage.", "avg_logprob": -0.1697, "no_speech_prob": 0.0152, "compression_ratio": 1.6987, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1369.19, "end": 1371.07, "text": "We did it for the very first time this week.", "avg_logprob": -0.1697, "no_speech_prob": 0.0152, "compression_ratio": 1.6987, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1371.07, "end": 1377.44, "text": "My wife found this show on Netflix called Tidying Up.", "avg_logprob": -0.1697, "no_speech_prob": 0.0152, "compression_ratio": 1.6987, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1377.44, "end": 1382.48, "text": "Okay, I haven't even, I haven't seen the first episode but I already hate the woman that's", "avg_logprob": -0.1697, "no_speech_prob": 0.0152, "compression_ratio": 1.6987, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1382.48, "end": 1383.48, "text": "doing the thing.", "avg_logprob": -0.1697, "no_speech_prob": 0.0152, "compression_ratio": 1.6987, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1383.48, "end": 1387.54, "text": "Have you, raise your hand if you've seen Tidying Up.", "avg_logprob": -0.1697, "no_speech_prob": 0.0152, "compression_ratio": 1.6987, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1387.54, "end": 1389.5, "text": "Okay, so you can verify this.", "avg_logprob": -0.1697, "no_speech_prob": 0.0152, "compression_ratio": 1.6987, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1389.5, "end": 1390.74, "text": "You can verify this right here.", "avg_logprob": -0.1697, "no_speech_prob": 0.0152, "compression_ratio": 1.6987, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1390.74, "end": 1395.88, "text": "If you haven't seen it, it's a sweet lady, her name is Marie, and she wants you to declutter", "avg_logprob": -0.1194, "no_speech_prob": 0.0079, "compression_ratio": 1.7381, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1395.88, "end": 1397.24, "text": "your home.", "avg_logprob": -0.1194, "no_speech_prob": 0.0079, "compression_ratio": 1.7381, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1397.24, "end": 1401.76, "text": "And marriage researchers are actually finding out that decluttering is actually fantastic", "avg_logprob": -0.1194, "no_speech_prob": 0.0079, "compression_ratio": 1.7381, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1401.76, "end": 1404.05, "text": "marriage therapy.", "avg_logprob": -0.1194, "no_speech_prob": 0.0079, "compression_ratio": 1.7381, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1404.05, "end": 1405.71, "text": "But here's how she wants you to do it.", "avg_logprob": -0.1194, "no_speech_prob": 0.0079, "compression_ratio": 1.7381, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1405.71, "end": 1406.71, "text": "This just cracks me up.", "avg_logprob": -0.1194, "no_speech_prob": 0.0079, "compression_ratio": 1.7381, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1406.71, "end": 1409.29, "text": "I saw my wife in the closet this week doing this.", "avg_logprob": -0.1194, "no_speech_prob": 0.0079, "compression_ratio": 1.7381, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1409.29, "end": 1413.45, "text": "You're supposed to one article of a clothing at a time, pull it down off the shelf, off", "avg_logprob": -0.1194, "no_speech_prob": 0.0079, "compression_ratio": 1.7381, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1413.45, "end": 1414.45, "text": "the rack.", "avg_logprob": -0.1194, "no_speech_prob": 0.0079, "compression_ratio": 1.7381, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1414.45, "end": 1421.18, "text": "You're to look at it and you're to ask the question, you've seen, yeah, the woman's lost", "avg_logprob": -0.1194, "no_speech_prob": 0.0079, "compression_ratio": 1.7381, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1421.18, "end": 1423.78, "text": "their mind.", "avg_logprob": -0.1398, "no_speech_prob": 0.006, "compression_ratio": 1.5399, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1423.78, "end": 1427.9, "text": "You're supposed to look at each article of clothing and ask the question, does this spark", "avg_logprob": -0.1398, "no_speech_prob": 0.006, "compression_ratio": 1.5399, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1427.9, "end": 1430.51, "text": "joy?", "avg_logprob": -0.1398, "no_speech_prob": 0.006, "compression_ratio": 1.5399, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1430.51, "end": 1434.21, "text": "And if the answer is yes, put it back on the rack and you get to keep it.", "avg_logprob": -0.1398, "no_speech_prob": 0.006, "compression_ratio": 1.5399, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1434.21, "end": 1439.63, "text": "If the answer is no, you're supposed to say to this object, thank you.", "avg_logprob": -0.1398, "no_speech_prob": 0.006, "compression_ratio": 1.5399, "chunk": "DNbhdw0Wlqo-01"}
+{"start": 1442.16, "end": 1444.85, "text": "for the joy that you brought me.", "avg_logprob": -0.1547, "no_speech_prob": 0.019, "compression_ratio": 1.6378, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1444.85, "end": 1445.85, "text": "I'm not making this up.", "avg_logprob": -0.1547, "no_speech_prob": 0.019, "compression_ratio": 1.6378, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1445.85, "end": 1447.03, "text": "Am I making up one word of this?", "avg_logprob": -0.1547, "no_speech_prob": 0.019, "compression_ratio": 1.6378, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1447.03, "end": 1449.05, "text": "Not making up one word of this.", "avg_logprob": -0.1547, "no_speech_prob": 0.019, "compression_ratio": 1.6378, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1449.05, "end": 1454.6, "text": "Then you're supposed to kiss it and lay it down in the pile.", "avg_logprob": -0.1547, "no_speech_prob": 0.019, "compression_ratio": 1.6378, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1454.6, "end": 1455.6, "text": "Okay.", "avg_logprob": -0.1547, "no_speech_prob": 0.019, "compression_ratio": 1.6378, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1455.6, "end": 1460.99, "text": "I told Amy, that's not what men ask when they walk into their closet.", "avg_logprob": -0.1547, "no_speech_prob": 0.019, "compression_ratio": 1.6378, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1460.99, "end": 1462.49, "text": "Our first question is what?", "avg_logprob": -0.1547, "no_speech_prob": 0.019, "compression_ratio": 1.6378, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1462.49, "end": 1464.64, "text": "Does it still fit?", "avg_logprob": -0.1547, "no_speech_prob": 0.019, "compression_ratio": 1.6378, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1464.64, "end": 1469.22, "text": "If it still fits and it doesn't smell, we're keeping it.", "avg_logprob": -0.1547, "no_speech_prob": 0.019, "compression_ratio": 1.6378, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1469.22, "end": 1472.18, "text": "But this is my wife is passionate about decluttering.", "avg_logprob": -0.1547, "no_speech_prob": 0.019, "compression_ratio": 1.6378, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1472.18, "end": 1477.5, "text": "My wife has two love languages, acts of service and quality time which means I serve her for", "avg_logprob": -0.1557, "no_speech_prob": 0.0041, "compression_ratio": 1.7807, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1477.5, "end": 1484.62, "text": "long periods of time, that's what that means.", "avg_logprob": -0.1557, "no_speech_prob": 0.0041, "compression_ratio": 1.7807, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1484.62, "end": 1489.7, "text": "And one of her love languages in decluttering is pitch, pitch, pitch, is that your love", "avg_logprob": -0.1557, "no_speech_prob": 0.0041, "compression_ratio": 1.7807, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1489.7, "end": 1490.7, "text": "language?", "avg_logprob": -0.1557, "no_speech_prob": 0.0041, "compression_ratio": 1.7807, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1490.7, "end": 1491.7, "text": "You look like you love it.", "avg_logprob": -0.1557, "no_speech_prob": 0.0041, "compression_ratio": 1.7807, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1491.7, "end": 1493.7, "text": "Oh yeah, let's just do it.", "avg_logprob": -0.1557, "no_speech_prob": 0.0041, "compression_ratio": 1.7807, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1493.7, "end": 1497.5, "text": "It's metaphorical, it's spiritual, it's emotional, you have the whole thing, oh yeah, you're", "avg_logprob": -0.1557, "no_speech_prob": 0.0041, "compression_ratio": 1.7807, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1497.5, "end": 1498.5, "text": "into it.", "avg_logprob": -0.1557, "no_speech_prob": 0.0041, "compression_ratio": 1.7807, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1498.5, "end": 1502.1, "text": "And I just, I told Amy this just doesn't work because she gets in these moods where, you", "avg_logprob": -0.1557, "no_speech_prob": 0.0041, "compression_ratio": 1.7807, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1502.1, "end": 1504.98, "text": "know, I have to tell the kids, quick, hide your stuff.", "avg_logprob": -0.1557, "no_speech_prob": 0.0041, "compression_ratio": 1.7807, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1504.98, "end": 1508.98, "text": "Mom's getting rid of everything again.", "avg_logprob": -0.1198, "no_speech_prob": 0.0941, "compression_ratio": 1.854, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1508.98, "end": 1510.22, "text": "That's another one of her declarations.", "avg_logprob": -0.1198, "no_speech_prob": 0.0941, "compression_ratio": 1.854, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1510.22, "end": 1512.06, "text": "How many moms have had that declaration?", "avg_logprob": -0.1198, "no_speech_prob": 0.0941, "compression_ratio": 1.854, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1512.06, "end": 1513.14, "text": "We're getting rid of everything.", "avg_logprob": -0.1198, "no_speech_prob": 0.0941, "compression_ratio": 1.854, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1513.14, "end": 1515.36, "text": "We're just tired of everything.", "avg_logprob": -0.1198, "no_speech_prob": 0.0941, "compression_ratio": 1.854, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1515.36, "end": 1516.36, "text": "She will...", "avg_logprob": -0.1198, "no_speech_prob": 0.0941, "compression_ratio": 1.854, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1516.36, "end": 1517.36, "text": "I'm not making this up.", "avg_logprob": -0.1198, "no_speech_prob": 0.0941, "compression_ratio": 1.854, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1517.36, "end": 1520.26, "text": "She'll get our garbage can that we wheel down to the street every week.", "avg_logprob": -0.1198, "no_speech_prob": 0.0941, "compression_ratio": 1.854, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1520.26, "end": 1525.67, "text": "She'll do it like grocery shopping through our garage.", "avg_logprob": -0.1198, "no_speech_prob": 0.0941, "compression_ratio": 1.854, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1525.67, "end": 1526.79, "text": "She'll walk around the garage.", "avg_logprob": -0.1198, "no_speech_prob": 0.0941, "compression_ratio": 1.854, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1526.79, "end": 1528.59, "text": "She'll hold something up and go, Ted, are you...", "avg_logprob": -0.1198, "no_speech_prob": 0.0941, "compression_ratio": 1.854, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1528.59, "end": 1532.07, "text": "Because her rule is if you haven't used it in the last couple of months, we don't need", "avg_logprob": -0.1198, "no_speech_prob": 0.0941, "compression_ratio": 1.854, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1532.07, "end": 1533.07, "text": "it.", "avg_logprob": -0.1198, "no_speech_prob": 0.0941, "compression_ratio": 1.854, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1533.07, "end": 1534.19, "text": "How many of you think that's a good rule?", "avg_logprob": -0.1198, "no_speech_prob": 0.0941, "compression_ratio": 1.854, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1534.19, "end": 1537.2, "text": "That's a terrible rule.", "avg_logprob": -0.1198, "no_speech_prob": 0.0941, "compression_ratio": 1.854, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1537.2, "end": 1545.72, "text": "of your father the devil because she'll hold it up and she'll go, are you still using this?", "avg_logprob": -0.1863, "no_speech_prob": 0.0349, "compression_ratio": 1.7665, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1545.72, "end": 1550.53, "text": "I'm like, that's a hammer.", "avg_logprob": -0.1863, "no_speech_prob": 0.0349, "compression_ratio": 1.7665, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1550.53, "end": 1553.48, "text": "Well when's the last time you used it?", "avg_logprob": -0.1863, "no_speech_prob": 0.0349, "compression_ratio": 1.7665, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1553.48, "end": 1560.5, "text": "I'm like, I don't remember the last time but I think every home gets at least one hammer.", "avg_logprob": -0.1863, "no_speech_prob": 0.0349, "compression_ratio": 1.7665, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1560.5, "end": 1562.46, "text": "Nope.", "avg_logprob": -0.1863, "no_speech_prob": 0.0349, "compression_ratio": 1.7665, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1562.46, "end": 1565.95, "text": "And on to the next thing.", "avg_logprob": -0.1863, "no_speech_prob": 0.0349, "compression_ratio": 1.7665, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1565.95, "end": 1566.95, "text": "Not kidding you.", "avg_logprob": -0.1863, "no_speech_prob": 0.0349, "compression_ratio": 1.7665, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1566.95, "end": 1570.19, "text": "She holds up the car charger, the battery charger, that little box you got with the", "avg_logprob": -0.1863, "no_speech_prob": 0.0349, "compression_ratio": 1.7665, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1570.19, "end": 1572.03, "text": "little cables you put on your battery.", "avg_logprob": -0.1863, "no_speech_prob": 0.0349, "compression_ratio": 1.7665, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1572.03, "end": 1574.45, "text": "When's the last time we used this?", "avg_logprob": -0.1863, "no_speech_prob": 0.0349, "compression_ratio": 1.7665, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1574.45, "end": 1577.77, "text": "I said, we got good batteries, we're okay.", "avg_logprob": -0.1281, "no_speech_prob": 0.0039, "compression_ratio": 1.681, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1577.77, "end": 1580.09, "text": "Well, no, you can't throw it away", "avg_logprob": -0.1281, "no_speech_prob": 0.0039, "compression_ratio": 1.681, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1580.09, "end": 1582.66, "text": "because there's going to be a day we need it.", "avg_logprob": -0.1281, "no_speech_prob": 0.0039, "compression_ratio": 1.681, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1582.66, "end": 1586.32, "text": "She says this, then we can buy another one.", "avg_logprob": -0.1281, "no_speech_prob": 0.0039, "compression_ratio": 1.681, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1586.32, "end": 1589.18, "text": "I said, but then we can't get to the store", "avg_logprob": -0.1281, "no_speech_prob": 0.0039, "compression_ratio": 1.681, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1589.18, "end": 1590.44, "text": "to buy another one.", "avg_logprob": -0.1281, "no_speech_prob": 0.0039, "compression_ratio": 1.681, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1590.44, "end": 1592.8, "text": "Pitch, pitch, pitch.", "avg_logprob": -0.1281, "no_speech_prob": 0.0039, "compression_ratio": 1.681, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1592.8, "end": 1594.7, "text": "Ah, that's what I love about her.", "avg_logprob": -0.1281, "no_speech_prob": 0.0039, "compression_ratio": 1.681, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1594.7, "end": 1596.4, "text": "We're so different but she's very passionate.", "avg_logprob": -0.1281, "no_speech_prob": 0.0039, "compression_ratio": 1.681, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1596.4, "end": 1599.24, "text": "It's fun being married to her.", "avg_logprob": -0.1281, "no_speech_prob": 0.0039, "compression_ratio": 1.681, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1599.24, "end": 1603.49, "text": "She loves this other show with Chip and Joanna Gaines.", "avg_logprob": -0.1281, "no_speech_prob": 0.0039, "compression_ratio": 1.681, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1603.49, "end": 1607.96, "text": "And I've said it before, if I ever meet Chip Gaines,", "avg_logprob": -0.1281, "no_speech_prob": 0.0039, "compression_ratio": 1.681, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1607.96, "end": 1614.46, "text": "I'm gonna punch him right in the face.", "avg_logprob": -0.1279, "no_speech_prob": 0.019, "compression_ratio": 1.7192, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1614.46, "end": 1619.51, "text": "I hate that man and everything he stands for.", "avg_logprob": -0.1279, "no_speech_prob": 0.019, "compression_ratio": 1.7192, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1619.51, "end": 1622.55, "text": "I come home, I come home one day from the church", "avg_logprob": -0.1279, "no_speech_prob": 0.019, "compression_ratio": 1.7192, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1622.55, "end": 1626.4, "text": "and she's standing there in the dining room studying", "avg_logprob": -0.1279, "no_speech_prob": 0.019, "compression_ratio": 1.7192, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1626.4, "end": 1629.89, "text": "and I'm going, oh boy, here we go.", "avg_logprob": -0.1279, "no_speech_prob": 0.019, "compression_ratio": 1.7192, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1629.89, "end": 1632.41, "text": "I walk over, I go, hey babe, what's going on?", "avg_logprob": -0.1279, "no_speech_prob": 0.019, "compression_ratio": 1.7192, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1632.41, "end": 1634.53, "text": "She goes, you know, I think after dinner, yeah,", "avg_logprob": -0.1279, "no_speech_prob": 0.019, "compression_ratio": 1.7192, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1634.53, "end": 1640.68, "text": "we should move this wall, just get rid of that wall.", "avg_logprob": -0.1279, "no_speech_prob": 0.019, "compression_ratio": 1.7192, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1640.68, "end": 1643.06, "text": "This, how many of you guys are not honeydew,", "avg_logprob": -0.1279, "no_speech_prob": 0.019, "compression_ratio": 1.7192, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1643.06, "end": 1645.04, "text": "like fix it list, like it's just not your thing.", "avg_logprob": -0.1279, "no_speech_prob": 0.019, "compression_ratio": 1.7192, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1645.04, "end": 1647.54, "text": "I'm just not skilled at it and I don't,", "avg_logprob": -0.1279, "no_speech_prob": 0.019, "compression_ratio": 1.7192, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1647.54, "end": 1654.7, "text": "I don't have tools anymore to be able to do stuff.", "avg_logprob": -0.175, "no_speech_prob": 0.0018, "compression_ratio": 1.6714, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1654.7, "end": 1658.95, "text": "And I said, I said, I started panicking.", "avg_logprob": -0.175, "no_speech_prob": 0.0018, "compression_ratio": 1.6714, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1658.95, "end": 1663.19, "text": "I was panicking going, we're going to be, she, I'm not joking, she's taking stuff down", "avg_logprob": -0.175, "no_speech_prob": 0.0018, "compression_ratio": 1.6714, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1663.19, "end": 1664.65, "text": "off the wall.", "avg_logprob": -0.175, "no_speech_prob": 0.0018, "compression_ratio": 1.6714, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1664.65, "end": 1667.55, "text": "We're getting rid of a wall after dinner.", "avg_logprob": -0.175, "no_speech_prob": 0.0018, "compression_ratio": 1.6714, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1667.55, "end": 1673.62, "text": "I go in and I Google real quick something that can save our home and marriage and I", "avg_logprob": -0.175, "no_speech_prob": 0.0018, "compression_ratio": 1.6714, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1673.62, "end": 1675.94, "text": "found a term that saved our marriage.", "avg_logprob": -0.175, "no_speech_prob": 0.0018, "compression_ratio": 1.6714, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1675.94, "end": 1685.86, "text": "And the term is load bearing.", "avg_logprob": -0.1628, "no_speech_prob": 0.0065, "compression_ratio": 1.5778, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1685.86, "end": 1696.7, "text": "Every wall in our home is load bearing.", "avg_logprob": -0.1628, "no_speech_prob": 0.0065, "compression_ratio": 1.5778, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1696.7, "end": 1698.06, "text": "But this is what I love.", "avg_logprob": -0.1628, "no_speech_prob": 0.0065, "compression_ratio": 1.5778, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1698.06, "end": 1699.96, "text": "And hereís whatís cool about it too much, youíll see this.", "avg_logprob": -0.1628, "no_speech_prob": 0.0065, "compression_ratio": 1.5778, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1699.96, "end": 1705.44, "text": "I love that after 23 years of marriage, not really great at fixing things, not having", "avg_logprob": -0.1628, "no_speech_prob": 0.0065, "compression_ratio": 1.5778, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1705.44, "end": 1710.24, "text": "the tools in which to do it, she still thinks I can.", "avg_logprob": -0.1628, "no_speech_prob": 0.0065, "compression_ratio": 1.5778, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1710.24, "end": 1716.02, "text": "She still will come over and squeeze my bicep and go, ìYou got this.î And Iím like, ìOh,", "avg_logprob": -0.1628, "no_speech_prob": 0.0065, "compression_ratio": 1.5778, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1716.02, "end": 1718.06, "text": "man.î And it makes me want to do it.", "avg_logprob": -0.1628, "no_speech_prob": 0.0065, "compression_ratio": 1.5778, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1718.38, "end": 1722.9, "text": "Because she says that when we were getting ready for our daughter's first birthday party. This was a shocker for me", "avg_logprob": -0.1659, "no_speech_prob": 0.0624, "compression_ratio": 1.7705, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1722.9, "end": 1728.56, "text": "I come in and I'm just in that mode. Okay, what can I do? It's a week before the party and I said, hey, babe", "avg_logprob": -0.1659, "no_speech_prob": 0.0624, "compression_ratio": 1.7705, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1729.22, "end": 1734.38, "text": "What can I help you do to get ready for the party and she goes? Oh, babe. Thank you so much", "avg_logprob": -0.1659, "no_speech_prob": 0.0624, "compression_ratio": 1.7705, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1734.54, "end": 1737.1, "text": "Would you lay ceramic tile for me in the kitchen?", "avg_logprob": -0.1659, "no_speech_prob": 0.0624, "compression_ratio": 1.7705, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1747.15, "end": 1749.57, "text": "And that's not it. That's not a punchline", "avg_logprob": -0.1659, "no_speech_prob": 0.0624, "compression_ratio": 1.7705, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1750.19, "end": 1754.95, "text": "That's not a joke. She's like he wants to help and we need tile in the kitchen", "avg_logprob": -0.1659, "no_speech_prob": 0.0624, "compression_ratio": 1.7705, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1754.95, "end": 1756.59, "text": "So here's what I tell her I go, babe. I do know this", "avg_logprob": -0.1659, "no_speech_prob": 0.0624, "compression_ratio": 1.7705, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1756.59, "end": 1757.87, "text": "I've done it before.", "avg_logprob": -0.1465, "no_speech_prob": 0.0464, "compression_ratio": 1.7226, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1757.87, "end": 1760.95, "text": "You have to rip the linoleum up off the floor.", "avg_logprob": -0.1465, "no_speech_prob": 0.0464, "compression_ratio": 1.7226, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1760.95, "end": 1762.39, "text": "That's going to take me a night.", "avg_logprob": -0.1465, "no_speech_prob": 0.0464, "compression_ratio": 1.7226, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1762.39, "end": 1766.71, "text": "Then the next day I have to cut all the tile and, or actually do backer board and thinset", "avg_logprob": -0.1465, "no_speech_prob": 0.0464, "compression_ratio": 1.7226, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1766.71, "end": 1767.71, "text": "wait 24 hours.", "avg_logprob": -0.1465, "no_speech_prob": 0.0464, "compression_ratio": 1.7226, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1767.71, "end": 1771.27, "text": "Then I got to cut the tile and thinset that out, wait 24 hours.", "avg_logprob": -0.1465, "no_speech_prob": 0.0464, "compression_ratio": 1.7226, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1771.27, "end": 1772.47, "text": "Then I got to grout and wait.", "avg_logprob": -0.1465, "no_speech_prob": 0.0464, "compression_ratio": 1.7226, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1772.47, "end": 1784.34, "text": "I'm giving her this whole long process and her response is, you should probably get started.", "avg_logprob": -0.1465, "no_speech_prob": 0.0464, "compression_ratio": 1.7226, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1784.34, "end": 1787.38, "text": "But we've just made the decision like all through life.", "avg_logprob": -0.1465, "no_speech_prob": 0.0464, "compression_ratio": 1.7226, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1787.38, "end": 1790.9, "text": "I'm grateful to be working on a book right now with folks on the family called A Love", "avg_logprob": -0.1465, "no_speech_prob": 0.0464, "compression_ratio": 1.7226, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1790.9, "end": 1797.56, "text": "that laughs, just helping couples enjoy life, find more laughter, engage in it.", "avg_logprob": -0.1864, "no_speech_prob": 0.0139, "compression_ratio": 1.6694, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1797.56, "end": 1802.2, "text": "Two weeks ago, we've had, you know, terrible weather in our area and, I mean, every airport", "avg_logprob": -0.1864, "no_speech_prob": 0.0139, "compression_ratio": 1.6694, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1802.2, "end": 1808.32, "text": "has just been hassle after hassle after hassle and Amy and I have just decided at airports", "avg_logprob": -0.1864, "no_speech_prob": 0.0139, "compression_ratio": 1.6694, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1808.32, "end": 1812.4, "text": "that are super stressful, we're going to have fun, we're going to enjoy it.", "avg_logprob": -0.1864, "no_speech_prob": 0.0139, "compression_ratio": 1.6694, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1812.4, "end": 1815.0, "text": "Like I've decided TSA, make that fun.", "avg_logprob": -0.1864, "no_speech_prob": 0.0139, "compression_ratio": 1.6694, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1815.0, "end": 1817.47, "text": "You're like a pat down fun?", "avg_logprob": -0.1864, "no_speech_prob": 0.0139, "compression_ratio": 1.6694, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1817.47, "end": 1823.8, "text": "Listen, act like you want one, and they won't give you one.", "avg_logprob": -0.1534, "no_speech_prob": 0.0235, "compression_ratio": 1.8303, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1823.8, "end": 1826.0, "text": "Request one.", "avg_logprob": -0.1534, "no_speech_prob": 0.0235, "compression_ratio": 1.8303, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1826.0, "end": 1826.84, "text": "They won't give you one.", "avg_logprob": -0.1534, "no_speech_prob": 0.0235, "compression_ratio": 1.8303, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1826.84, "end": 1828.0, "text": "But then we got to the gate.", "avg_logprob": -0.1534, "no_speech_prob": 0.0235, "compression_ratio": 1.8303, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1828.0, "end": 1830.76, "text": "And I mean, this flight's been delayed four hours.", "avg_logprob": -0.1534, "no_speech_prob": 0.0235, "compression_ratio": 1.8303, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1830.76, "end": 1833.12, "text": "And I mean, people are angry.", "avg_logprob": -0.1534, "no_speech_prob": 0.0235, "compression_ratio": 1.8303, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1833.12, "end": 1834.76, "text": "Like, they are angry, angry.", "avg_logprob": -0.1534, "no_speech_prob": 0.0235, "compression_ratio": 1.8303, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1834.76, "end": 1836.4, "text": "And I feel for the pilots and the flight attendants", "avg_logprob": -0.1534, "no_speech_prob": 0.0235, "compression_ratio": 1.8303, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1836.4, "end": 1836.76, "text": "in the gate.", "avg_logprob": -0.1534, "no_speech_prob": 0.0235, "compression_ratio": 1.8303, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1836.76, "end": 1839.3, "text": "So I'm always like, I'm just not only going to make Amy laugh.", "avg_logprob": -0.1534, "no_speech_prob": 0.0235, "compression_ratio": 1.8303, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1839.3, "end": 1841.12, "text": "Let's just try to get the whole, let's just", "avg_logprob": -0.1534, "no_speech_prob": 0.0235, "compression_ratio": 1.8303, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1841.12, "end": 1842.88, "text": "try to lighten the mood of the whole gate.", "avg_logprob": -0.1534, "no_speech_prob": 0.0235, "compression_ratio": 1.8303, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1842.88, "end": 1844.2, "text": "It doesn't always work.", "avg_logprob": -0.1534, "no_speech_prob": 0.0235, "compression_ratio": 1.8303, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1844.2, "end": 1848.85, "text": "And I was watching six Marines.", "avg_logprob": -0.1534, "no_speech_prob": 0.0235, "compression_ratio": 1.8303, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1848.85, "end": 1852.25, "text": "There were six Marines standing there, man, respectful young men, I'm going to say in", "avg_logprob": -0.127, "no_speech_prob": 0.0014, "compression_ratio": 1.8481, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1852.25, "end": 1853.77, "text": "their early 20s.", "avg_logprob": -0.127, "no_speech_prob": 0.0014, "compression_ratio": 1.8481, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1853.77, "end": 1856.41, "text": "And they were offered, you know, to go on the plane first and they did, so they took", "avg_logprob": -0.127, "no_speech_prob": 0.0014, "compression_ratio": 1.8481, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1856.41, "end": 1857.99, "text": "off and went on the plane.", "avg_logprob": -0.127, "no_speech_prob": 0.0014, "compression_ratio": 1.8481, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1857.99, "end": 1860.45, "text": "We get on the plane and here's what the pilot tells us.", "avg_logprob": -0.127, "no_speech_prob": 0.0014, "compression_ratio": 1.8481, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1860.45, "end": 1861.45, "text": "I'm not making this up.", "avg_logprob": -0.127, "no_speech_prob": 0.0014, "compression_ratio": 1.8481, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1861.45, "end": 1863.97, "text": "He said, we're going from Chicago to Springfield, Missouri.", "avg_logprob": -0.127, "no_speech_prob": 0.0014, "compression_ratio": 1.8481, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1863.97, "end": 1866.69, "text": "He said, the ceilings are like 200 feet.", "avg_logprob": -0.127, "no_speech_prob": 0.0014, "compression_ratio": 1.8481, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1866.69, "end": 1870.73, "text": "We probably won't be able to get into Springfield or no, he actually said, we're going to try", "avg_logprob": -0.127, "no_speech_prob": 0.0014, "compression_ratio": 1.8481, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1870.73, "end": 1874.81, "text": "for Springfield, pilot's exact words at the gate in the microphone.", "avg_logprob": -0.127, "no_speech_prob": 0.0014, "compression_ratio": 1.8481, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1874.81, "end": 1878.42, "text": "We probably won't make it.", "avg_logprob": -0.127, "no_speech_prob": 0.0014, "compression_ratio": 1.8481, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1878.42, "end": 1881.16, "text": "really what you want to hear from your pilot.", "avg_logprob": -0.1765, "no_speech_prob": 0.0496, "compression_ratio": 1.7169, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1881.16, "end": 1883.76, "text": "He says, don't worry, we'll just go on to Dallas.", "avg_logprob": -0.1765, "no_speech_prob": 0.0496, "compression_ratio": 1.7169, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1883.76, "end": 1888.3, "text": "So I mean, everybody, everything, every, tension, that's what I love about laughter.", "avg_logprob": -0.1765, "no_speech_prob": 0.0496, "compression_ratio": 1.7169, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1888.3, "end": 1890.58, "text": "Laughter relieves tension.", "avg_logprob": -0.1765, "no_speech_prob": 0.0496, "compression_ratio": 1.7169, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1890.58, "end": 1893.62, "text": "Like some of you have been laughing three, five laughs a minute, you're enjoying things", "avg_logprob": -0.1765, "no_speech_prob": 0.0496, "compression_ratio": 1.7169, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1893.62, "end": 1896.54, "text": "right now, your whole body is relaxing.", "avg_logprob": -0.1765, "no_speech_prob": 0.0496, "compression_ratio": 1.7169, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1896.54, "end": 1899.41, "text": "I'm like, that's my goal, I'm going to get this whole plane laughing.", "avg_logprob": -0.1765, "no_speech_prob": 0.0496, "compression_ratio": 1.7169, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1899.41, "end": 1902.87, "text": "We sit down in our seats and we don't know for sure if we're going anywhere.", "avg_logprob": -0.1765, "no_speech_prob": 0.0496, "compression_ratio": 1.7169, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1902.87, "end": 1904.93, "text": "It's getting close to midnight.", "avg_logprob": -0.1765, "no_speech_prob": 0.0496, "compression_ratio": 1.7169, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1904.93, "end": 1908.16, "text": "And I sit down and my tray table is broken.", "avg_logprob": -0.1765, "no_speech_prob": 0.0496, "compression_ratio": 1.7169, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1908.16, "end": 1910.19, "text": "It has the tape on it.", "avg_logprob": -0.1001, "no_speech_prob": 0.0017, "compression_ratio": 1.6321, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1910.19, "end": 1912.61, "text": "And so I'm like, oh, this is good.", "avg_logprob": -0.1001, "no_speech_prob": 0.0017, "compression_ratio": 1.6321, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1912.61, "end": 1913.61, "text": "Now Amy's laughing.", "avg_logprob": -0.1001, "no_speech_prob": 0.0017, "compression_ratio": 1.6321, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1913.61, "end": 1915.05, "text": "She knows I'm just in one of my moods.", "avg_logprob": -0.1001, "no_speech_prob": 0.0017, "compression_ratio": 1.6321, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1915.05, "end": 1920.94, "text": "And I go, this is unacceptable.", "avg_logprob": -0.1001, "no_speech_prob": 0.0017, "compression_ratio": 1.6321, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1920.94, "end": 1926.66, "text": "I refuse to take off with a broken tray table.", "avg_logprob": -0.1001, "no_speech_prob": 0.0017, "compression_ratio": 1.6321, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1926.66, "end": 1928.38, "text": "I'm going to go say something to the pilot.", "avg_logprob": -0.1001, "no_speech_prob": 0.0017, "compression_ratio": 1.6321, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1928.38, "end": 1931.98, "text": "I want maintenance on board fixing this tray table.", "avg_logprob": -0.1001, "no_speech_prob": 0.0017, "compression_ratio": 1.6321, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1931.98, "end": 1934.58, "text": "This guy, about 60 years old, standing in the aisle next to", "avg_logprob": -0.1001, "no_speech_prob": 0.0017, "compression_ratio": 1.6321, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1934.58, "end": 1936.58, "text": "me, and I'm not making up a word of this, leans down.", "avg_logprob": -0.1001, "no_speech_prob": 0.0017, "compression_ratio": 1.6321, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1936.58, "end": 1940.18, "text": "And he goes, if you say anything, I will get one of", "avg_logprob": -0.1001, "no_speech_prob": 0.0017, "compression_ratio": 1.6321, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1940.18, "end": 1955.16, "text": "Marines to murder you. And then I'll have another one drag your dead body off this", "avg_logprob": -0.2292, "no_speech_prob": 0.113, "compression_ratio": 1.1786, "chunk": "DNbhdw0Wlqo-02"}
+{"start": 1955.16, "end": 1963.57, "text": "plane. Relieving tension. Enjoying life together.", "avg_logprob": -0.2292, "no_speech_prob": 0.113, "compression_ratio": 1.1786, "chunk": "DNbhdw0Wlqo-02"}

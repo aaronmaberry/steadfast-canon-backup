@@ -28,7 +28,7 @@ And they leave him ashamed, and shame shuts a man's mouth. Hand him orders he ca
 
 So where did all those instructions come from? Spread them out where you can see them. Once you see which ones were never real maps, you can stop following them.
 
-The first came from home, from whoever sat at the head of the table. He taught you what a man is before you could read, and most of us got that lesson in fragments. Maybe he was there and silent. Maybe he'd already gone. Maybe he blew through the door like a storm front. Even faithful fathers left gaps. We'll walk into that room properly in **The Empty Chair**. For now, notice that you left home with a torn piece of map and went looking for the rest.
+The first came from home, from whoever sat at the head of the table. He taught you what a man is before you could read, and most of us got that lesson in fragments. Maybe he was there and silent. Maybe he'd already gone. Maybe he blew through the door like a storm front. Even faithful fathers left gaps. We'll walk into that room properly later in the book. For now, notice that you left home with a torn piece of map and went looking for the rest.
 
 The culture was glad to supply it. That second map looked at the itch to build, compete, protect, and take charge, and called it outdated wiring. Then in the same breath it mocked guys who never grew up or committed or took on anything hard, and never admitted it had talked them out of all three.
 
@@ -86,7 +86,7 @@ Hauling a contradiction around is exhausting, and that's the tiredness you've be
 
 **Name it**
 
-Because a contradiction nobody names keeps running your week. Pick two things you were told about manhood that can't both be true. Say them out loud, along with who taught you each one.
+A contradiction nobody names keeps running your week. Pick two things you were told about manhood that can't both be true. Say them out loud, along with who taught you each one.
 
 :::notes
 _______________________________________________
@@ -96,7 +96,7 @@ _______________________________________________
 
 **Do this week**
 
-Because six crowds have been talking for you long enough. Write one line: the work you think a man is here to do. If you don't have a good answer, write the one you've actually been living, even if it's a poor one. Keep that paper. Next chapter you'll set another line beside it.
+Six crowds have been talking for you long enough. Write one line: the work you think a man is here to do. If you don't have a good answer, write the one you've actually been living, even if it's a poor one. Keep that paper. Soon you'll set another line beside it.
 
 :::notes
 _______________________________________________
@@ -106,7 +106,7 @@ _______________________________________________
 
 **Tell a brother**
 
-Because a hum you keep to yourself starts to sound like a sentence handed down. Read your line to one man and ask to hear his. It gets quieter with company.
+Keep a hum to yourself and it starts to sound like a sentence handed down. Read your line to one man and ask to hear his. It gets quieter with company.
 
 :::notes
 _______________________________________________

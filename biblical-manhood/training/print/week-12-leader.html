@@ -1,0 +1,371 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Steadfast Men. Week 12. Leader guide</title>
+<style>
+
+@page { size: letter; margin: 0; }
+@font-face {
+  font-family: "SMPlayfairBold";
+  src: url("file:///workspace/biblical-manhood/training/print/fonts/PlayfairDisplay-Bold.ttf") format("truetype"), url("fonts/PlayfairDisplay-Bold.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: block;
+}
+@font-face {
+  font-family: "SMPlayfair";
+  src: url("file:///workspace/biblical-manhood/training/print/fonts/PlayfairDisplay-Regular.ttf") format("truetype"), url("fonts/PlayfairDisplay-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: block;
+}
+@font-face {
+  font-family: "SMPlayfairItalic";
+  src: url("file:///workspace/biblical-manhood/training/print/fonts/PlayfairDisplay-Italic.ttf") format("truetype"), url("fonts/PlayfairDisplay-Italic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: block;
+}
+@font-face {
+  font-family: "SMGaramond";
+  src: url("file:///workspace/biblical-manhood/training/print/fonts/EBGaramond-Regular.ttf") format("truetype"), url("fonts/EBGaramond-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: block;
+}
+@font-face {
+  font-family: "SMGaramondItalic";
+  src: url("file:///workspace/biblical-manhood/training/print/fonts/EBGaramond-Italic.ttf") format("truetype"), url("fonts/EBGaramond-Italic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: block;
+}
+@font-face {
+  font-family: "SMGaramondBold";
+  src: url("file:///workspace/biblical-manhood/training/print/fonts/EBGaramond-Bold.ttf") format("truetype"), url("fonts/EBGaramond-Bold.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: block;
+}
+@font-face {
+  font-family: "SMFranklinMedium";
+  src: url("file:///workspace/biblical-manhood/training/print/fonts/LibreFranklin-Medium.ttf") format("truetype"), url("fonts/LibreFranklin-Medium.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: block;
+}
+@font-face {
+  font-family: "SMFranklin";
+  src: url("file:///workspace/biblical-manhood/training/print/fonts/LibreFranklin-Regular.ttf") format("truetype"), url("fonts/LibreFranklin-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: block;
+}
+:root { --navy: #0B1F38; --gold: #E3C572; --bone: #E6DDCC; }
+
+.mast {
+  background-color: var(--navy);
+  background-image: url("file:///workspace/biblical-manhood/training/print/image-2.0/crops/week-02-mast-cloth.png");
+  background-size: cover;
+  background-position: left center;
+}
+.mast-plumb {
+  height: 0.62in; width: auto; display: block;
+  margin-left: 0.16in; margin-top: 0.02in; flex-shrink: 0;
+}
+.scripture-row.one.with-well {
+  grid-template-columns: 1fr 1.18in !important;
+  column-gap: 0.16in;
+  align-items: center;
+}
+.well-still {
+  width: 1.18in; height: 1.26in; object-fit: cover; display: block;
+}
+
+* { box-sizing: border-box; }
+html, body {
+  margin: 0; padding: 0; background: var(--bone); color: var(--navy);
+  -webkit-print-color-adjust: exact; print-color-adjust: exact; font-synthesis: none;
+}
+.page {
+  width: 8.5in; height: 11in; background: var(--bone); color: var(--navy);
+  position: relative; overflow: hidden; page-break-after: always; break-after: page;
+}
+.page:last-child { page-break-after: auto; break-after: auto; }
+.mast {
+  background: var(--navy); color: var(--bone); height: 0.88in;
+  padding: 0.11in 0.78in 0.10in 0.78in;
+  display: flex; flex-direction: column; justify-content: space-between;
+}
+.mast-top { display: flex; align-items: flex-start; justify-content: space-between; }
+.brand {
+  font-family: "SMPlayfairBold", serif; font-weight: 400; font-style: normal;
+  font-size: 17pt; letter-spacing: 0.08em; line-height: 1; color: var(--bone);
+}
+.subrow { margin-top: 0.055in; line-height: 1; color: var(--bone); }
+.subrow .of {
+  font-family: "SMGaramondItalic", serif; font-style: italic; font-weight: 400; font-size: 10.5pt;
+}
+.subrow .godly {
+  font-family: "SMPlayfair", serif; font-style: normal; font-weight: 400; font-size: 10.5pt;
+}
+.subrow .author {
+  font-family: "SMFranklinMedium", sans-serif; font-weight: 400; font-style: normal;
+  font-size: 7.4pt; letter-spacing: 0.16em; margin-left: 0.16in; position: relative; top: -0.01in;
+}
+.weekline {
+  display: flex; align-items: baseline; justify-content: space-between;
+  border-top: 0.5pt solid rgba(230,221,204,0.40); padding-top: 0.055in;
+}
+.weeknum {
+  font-family: "SMFranklinMedium", sans-serif; font-weight: 400; font-size: 7.2pt;
+  letter-spacing: 0.20em; text-transform: uppercase; color: var(--bone);
+}
+.weektitles {
+  font-family: "SMPlayfair", serif; font-weight: 400; font-size: 10.5pt; color: var(--bone);
+}
+.weektitles em {
+  font-family: "SMPlayfairItalic", serif; font-style: italic; font-weight: 400;
+}
+.plumb { width: 0.12in; height: 0.24in; flex-shrink: 0; margin-left: 0.16in; margin-top: 0.02in; }
+.body { padding: 0.18in 0.78in 0.52in 0.78in; }
+.foot {
+  position: absolute; left: 0.78in; right: 0.78in; bottom: 0.28in;
+  font-family: "SMFranklin", sans-serif; font-weight: 400; font-size: 7pt;
+  letter-spacing: 0.05em; color: var(--navy); display: flex; justify-content: space-between;
+  border-top: 0.5pt solid rgba(11,31,56,0.45); padding-top: 0.06in;
+}
+h2 {
+  font-family: "SMFranklinMedium", sans-serif; font-weight: 400; font-size: 7.6pt;
+  letter-spacing: 0.14em; text-transform: uppercase; color: var(--navy);
+  margin: 0.13in 0 0.07in 0; line-height: 1.2;
+}
+h2:first-child { margin-top: 0; }
+p {
+  font-family: "SMGaramond", serif; font-weight: 400; font-style: normal;
+  font-size: 10.5pt; line-height: 1.30; margin: 0 0 0.07in 0;
+}
+p.last { margin-bottom: 0; }
+.lede { margin-bottom: 0.08in; }
+.kv {
+  display: grid; grid-template-columns: 2.05in 1fr; column-gap: 0.12in; row-gap: 0.05in; margin-bottom: 0.04in;
+}
+.k {
+  font-family: "SMFranklinMedium", sans-serif; font-weight: 400; font-size: 7.1pt;
+  letter-spacing: 0.06em; line-height: 1.25; padding-top: 0.03in; color: var(--navy);
+}
+.v { font-family: "SMGaramond", serif; font-weight: 400; font-size: 10.5pt; line-height: 1.30; }
+.marks {
+  border-top: 0.7pt solid var(--navy); border-bottom: 0.7pt solid var(--navy);
+  padding: 0.09in 0 0.08in 0; margin: 0.12in 0 0.11in 0;
+}
+.marks p {
+  font-family: "SMGaramondItalic", serif; font-style: italic; font-size: 11.2pt; line-height: 1.32; margin: 0;
+}
+.marks .marks-note {
+  font-family: "SMGaramond", serif; font-style: normal; font-size: 10pt; margin-top: 0.05in;
+}
+.scripture-row {
+  display: grid; grid-template-columns: 1fr 1fr; column-gap: 0.20in; margin: 0.02in 0 0.10in 0;
+}
+.scripture { border-left: 0.8pt solid var(--navy); padding: 0.02in 0 0.02in 0.12in; }
+.cite {
+  font-family: "SMFranklinMedium", sans-serif; font-weight: 400; font-size: 6.8pt;
+  letter-spacing: 0.10em; text-transform: uppercase; margin-bottom: 0.035in; color: var(--navy);
+}
+.verse {
+  font-family: "SMGaramondItalic", serif; font-style: italic; font-weight: 400;
+  font-size: 9.8pt; line-height: 1.28; margin: 0;
+}
+.qlist { margin: 0.04in 0 0.08in 0; padding: 0; list-style: none; }
+.qlist li {
+  display: grid; grid-template-columns: 0.22in 1fr; column-gap: 0.06in; margin: 0 0 0.065in 0;
+  font-family: "SMGaramond", serif; font-size: 10.5pt; line-height: 1.30;
+}
+.qnum { font-family: "SMFranklinMedium", sans-serif; font-weight: 400; font-size: 8.5pt; line-height: 1.40; }
+.beat {
+  display: grid; grid-template-columns: 1.28in 1fr; column-gap: 0.12in; margin: 0 0 0.09in 0; align-items: start;
+}
+.beat-name {
+  font-family: "SMFranklinMedium", sans-serif; font-weight: 400; font-size: 7.6pt;
+  letter-spacing: 0.10em; text-transform: uppercase; line-height: 1.30; padding-top: 0.02in;
+}
+.beat-copy { font-family: "SMGaramond", serif; font-size: 10.5pt; line-height: 1.30; }
+.gold-beat {
+  background: var(--gold); color: var(--navy);
+  display: grid; grid-template-columns: 1.28in 1fr; column-gap: 0.12in;
+  margin: 0.02in 0 0.10in 0; padding: 0.08in 0.11in; align-items: start;
+}
+.gold-beat .beat-name, .gold-beat .beat-copy { color: var(--navy); }
+.lock { margin-top: 0.14in; border-top: 0.7pt solid var(--navy); padding-top: 0.08in; }
+.lock p { font-size: 10.5pt; margin: 0; }
+.lock .closed { font-family: "SMGaramondBold", serif; font-weight: 400; }
+.gold-bar {
+  background: var(--gold); color: var(--navy);
+  padding: 0.09in 0.12in 0.10in 0.12in; margin: 0.08in 0 0.10in 0;
+}
+.gold-bar h2 { margin: 0 0 0.04in 0; color: var(--navy); }
+.gold-bar p { margin: 0; color: var(--navy); }
+.gold-bar .prompt { margin: 0.07in 0 0.02in 0; color: var(--navy); }
+.gold-bar .write-line { border-bottom-color: var(--navy); }
+.gold-bar .inline-blank { margin: 0.06in 0 0 0; color: var(--navy); }
+.gold-bar .blank { border-bottom-color: var(--navy); }
+.write { margin: 0.02in 0 0.08in 0; }
+.write-line { border-bottom: 0.65pt solid var(--navy); height: 0.33in; }
+.prompt { font-family: "SMGaramond", serif; font-size: 10.4pt; line-height: 1.28; margin: 0.02in 0 0.02in 0; }
+.inline-blank {
+  display: flex; align-items: baseline; gap: 0.08in;
+  font-family: "SMGaramond", serif; font-size: 10.4pt; margin: 0.06in 0 0.08in 0;
+}
+.blank { display: inline-block; border-bottom: 0.65pt solid var(--navy); height: 0.20in; min-width: 1.7in; flex: 1; }
+.blank.short { min-width: 1.35in; flex: 0.7; }
+.meta-pair { display: grid; grid-template-columns: 1fr 1fr; column-gap: 0.22in; margin: 0.02in 0 0.06in 0; }
+.leader-p1 .kv { margin-bottom: 0.04in; }
+.leader-p1 h2 { margin: 0.11in 0 0.06in 0; }
+.leader-p1 p { margin: 0 0 0.065in 0; }
+.leader-p2 h2 { margin: 0.02in 0 0.07in 0; }
+.leader-p2 .block-gap { margin-top: 0.16in; }
+.leader-p2 .block-gap:first-child { margin-top: 0; }
+.page.worksheet .body { padding-top: 0.15in; }
+.page.worksheet h2 { font-size: 7.5pt; margin: 0.10in 0 0.05in 0; }
+.page.worksheet p { font-size: 10.3pt; margin: 0 0 0.05in 0; }
+.page.worksheet .kv { grid-template-columns: 1.42in 1fr; margin-bottom: 0.02in; }
+.page.worksheet .marks { margin: 0.08in 0 0.07in 0; padding: 0.07in 0 0.06in 0; }
+.page.worksheet .marks p { font-size: 10.8pt; }
+.page.worksheet .write-line { height: 0.32in; }
+.page.worksheet .gold-bar { margin: 0.07in 0 0.09in 0; padding: 0.08in 0.11in 0.09in 0.11in; }
+.page.worksheet .scripture-row { margin: 0.04in 0 0.04in 0; }
+.carry-line {
+  font-family: "SMGaramondItalic", serif; font-style: italic; font-size: 11.2pt; margin: 0 0 0.04in 0;
+}
+
+
+.scripture-row.one { grid-template-columns: 1fr; }
+.scripture .verse span { display: block; }
+
+.weektitles { font-size: 8.4pt; text-align: right; max-width: 5.4in; line-height: 1.15; }
+.scripture-stack { display: flex; flex-direction: column; gap: 0.08in; }
+.scripture-row.two.with-well {
+  grid-template-columns: 1fr 1.18in !important;
+  column-gap: 0.16in;
+  align-items: stretch;
+}
+.scripture-row.two.with-well .well-still { height: 100%; min-height: 1.5in; object-fit: cover; }
+.circle-row {
+  display: flex; justify-content: space-between; gap: 0.10in;
+  margin: 0.04in 0 0.07in 0; font-family: "SMGaramond", serif; font-size: 10.5pt;
+}
+.circle-row span {
+  flex: 1; text-align: center; border: 0.75pt solid var(--navy);
+  padding: 0.05in 0.03in;
+}
+.leader-p1 .body { padding-top: 0.14in; }
+.leader-p1 h2 { margin: 0.09in 0 0.05in 0; }
+.page.worksheet .scripture-row { margin: 0.03in 0 0.03in 0; }
+.page.worksheet .verse { font-size: 9.2pt; }
+
+</style>
+</head>
+<body>
+<div class="page leader-p1">
+<header class="mast">
+  <div class="mast-top">
+    <div>
+      <div class="brand">STEADFAST MEN</div>
+      <div class="subrow"><span class="of">The way of </span><span class="godly">Godly</span><span class="of"> Men</span><span class="author">Wes Hart</span></div>
+    </div>
+    <img class="mast-plumb" src="file:///workspace/biblical-manhood/training/print/image-2.0/crops/week-02-mast-plumb.png" alt="">
+  </div>
+  <div class="weekline"><span class="weeknum">Week 12</span><span class="weektitles">A man with no brothers <em>+</em> Ask the man</span></div>
+</header>
+<div class="body">
+  <h2>Before the room</h2>
+  <div class="kv">
+    <div class="k">Read this week</div>
+    <div class="v">Chapter 13, A man with no brothers, and Chapter 14, Ask the man.</div>
+    <div class="k">Aim</div>
+    <div class="v">Isolation is not strength. Name the aloneness. Then ask a man. Do not wait to be chosen.</div>
+    <div class="k">One job</div>
+    <div class="v">Name who actually has you. Ask a man this week. One sentence. Not a program.</div>
+    <div class="k">Pitfall</div>
+    <div class="v">Two chapters, one hit. Do not preach both as two sermons. Do not reprint last week&#39;s door. Do not dump the next inner-problem page. Do not preview a later brothers page. Do not let a wife or a work team pass as brothers. Do not let him build a twelve-week binder. One hour.</div>
+    <div class="k">Time</div>
+    <div class="v">about an hour. Church, small group, or a man alone.</div>
+  </div>
+  <div class="marks">
+    <p>A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God&#39;s reward.</p>
+    <p class="marks-note">Say it. Do not unpack it. Tonight is who has him, then the ask.</p>
+  </div>
+  <div class="scripture-row two with-well">
+    <div class="scripture-stack">
+      <div class="scripture">
+        <div class="cite">Ecclesiastes 4:10 NIV</div>
+        <p class="verse">If either of them falls down, one can help the other up. But pity anyone who falls and has no one to help them up.</p>
+      </div>
+      <div class="scripture">
+        <div class="cite">Proverbs 13:20 NIV</div>
+        <p class="verse">Walk with the wise and become wise, for a companion of fools suffers harm.</p>
+      </div>
+    </div>
+    <img class="well-still" src="file:///workspace/biblical-manhood/training/print/image-2.0/week-04-well.png" alt="">
+  </div>
+  <h2>Open (2-3 min)</h2>
+  <p>The truck is in the driveway. The week is closed. His phone has more names than he will ever use. He can be the one they call. Then the house goes quiet, and there is nobody he would call if he went down. He calls that independence.</p>
+  <p class="last">Say the four. Sit down.</p>
+  <h2>Hit</h2>
+  <p>One hit. Name the aloneness, then the ask. Do not preach a second sermon.</p>
+  <p>First, name the aloneness. A capable man can still have no one who can tell him the truth. The Book looks at a man with no one to pick him up and does not applaud his grit. It pities him. Packed funeral, empty fall: this world still claps. The Book does not.</p>
+  <p>A brother is a man who can tell you the truth and still be there after it. A group text is not that. A wife is a gift. She cannot be the only adult allowed to see him fail. A team at work will manage the fall. That is their job. It is not a man who sits until he can stand. Twenty minutes. One man. Once a week. Same time. That is the shape.</p>
+</div>
+<footer class="foot"><span>Steadfast Men</span><span>Week 12 of 27</span><span>Leader guide</span></footer>
+</div>
+<div class="page leader-p2">
+<header class="mast">
+  <div class="mast-top">
+    <div>
+      <div class="brand">STEADFAST MEN</div>
+      <div class="subrow"><span class="of">The way of </span><span class="godly">Godly</span><span class="of"> Men</span><span class="author">Wes Hart</span></div>
+    </div>
+    <img class="mast-plumb" src="file:///workspace/biblical-manhood/training/print/image-2.0/crops/week-02-mast-plumb.png" alt="">
+  </div>
+  <div class="weekline"><span class="weeknum">Week 12</span><span class="weektitles">A man with no brothers <em>+</em> Ask the man</span></div>
+</header>
+<div class="body">
+  <p>Then, the ask. Nobody picks you off a wall. There is a man about twenty years ahead of you standing in a parking lot with his hands in his pockets, waiting to be asked. Walk over. Hints protect you. An ask can be refused. Walk is a verb that needs a person. You do not become wise by collecting clips. If you will not ask a wise man, you will still walk with someone.</p>
+  <p class="last">He is a man. Not a program. Not a department. Not a wife. Not a report. Short sentence. A day and a time. If he says no, honor it and ask someone else. Point at both chapters. Then shut up.</p>
+  <h2>Table</h2>
+  <p class="lede">Three. Wait.</p>
+  <ol class="qlist">
+    <li><span class="qnum">1.</span><span>Finish this: &#34;If I fell tonight, the man I could call is ___.&#34; If the blank is empty or it is your wife&#39;s name, you know what this week is for.</span></li>
+    <li><span class="qnum">2.</span><span>Who is the man about twenty years ahead of you that you have never asked anything real?</span></li>
+    <li><span class="qnum">3.</span><span>What is the one sentence you will say this week, and when?</span></li>
+  </ol>
+  <p>Young: awkward is allowed; waiting to be discovered is a long stay on the wall. Single: do not park this in a future marriage. Married: tell her you asked; do not make her the wise man. Hurt: asking is not groveling. Older: you can still ask; also be askable on the sheet, not only in this note; walk across the lot and give one young man something to say yes to. Mid-arc: the brother check starts now, not at week 27. The job going well: skip the famous one and the invoice; ask a man who does not report to you. Tight season: parking-lot or text-sized ask still counts.</p>
+  <h2 class="block-gap">Run the closer</h2>
+  <p class="lede">One name. One sentence.</p>
+  <div class="beat">
+    <div class="beat-name">Name it</div>
+    <div class="beat-copy">Who actually has you when you fall? Who is the man you will ask?</div>
+  </div>
+  <div class="gold-beat">
+    <div class="beat-name">Do this week</div>
+    <div class="beat-copy">Ask him. One sentence. Not a program. Full sample: &#34;I&#39;m trying to be a better man, and I don&#39;t have a brother. Would you talk with me twenty minutes a week for three months?&#34; Tight: &#34;Got twenty minutes next week? Trying to walk with a wiser man. Day and time?&#34; Set the day and time before you hang up. Be askable if a younger man walks up.</div>
+  </div>
+  <div class="beat">
+    <div class="beat-name">Tell a brother</div>
+    <div class="beat-copy">Name the man. Tell him you asked. Have him ask if you stayed on the wall. If you do not have a brother yet, the ask is the whole job.</div>
+  </div>
+  <div class="beat">
+    <div class="beat-name">Carry this</div>
+    <div class="beat-copy">Do not wait to be chosen. Ask a man.</div>
+  </div>
+  <p>If he only confesses the wait, he gets a nod and stays undrafted. Get the name and the sentence on the page.</p>
+  <h2 class="block-gap">Solo note</h2>
+  <p>Read both chapters. Name who has you. Ask the man the same week. Tell one man you asked. A hint is not an ask.</p>
+  <div class="lock"><p>Do not open week 13.</p></div>
+</div>
+<footer class="foot"><span>Steadfast Men</span><span>Week 12 of 27</span><span>Leader guide</span></footer>
+</div>
+</body>
+</html>

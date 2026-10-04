@@ -131,3 +131,5 @@ One screenshot-able sentence (two short ones at most).
 5. Margin blocks: list refs; any added or removed and why.
 6. Anything unsure (a line you are not sure is original enough, a panel fix you had to bend).
 7. Output of `checks.py sweep FILE` (must be clean).
+
+> **Override, 2026-10-03 (Aaron):** "I actually hate how every chapter ending ... starts with 'because.'" The closer sections no longer open with "Because". Name it, Do this week, Tell/Be a brother each open with a plain statement of the reason, worded differently each time. Do not reintroduce a "Because" opener, or any single replacement word (Since, That's why, etc.), as a pattern. This supersedes the "Because ..." template lines above.

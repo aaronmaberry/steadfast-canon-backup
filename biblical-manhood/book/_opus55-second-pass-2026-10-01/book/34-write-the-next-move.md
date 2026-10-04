@@ -144,7 +144,7 @@ Writing a move down will make you feel exposed, because now it can be checked. T
 
 **Name it**
 
-Because once you know how your plans usually die, you can guard against it. Say which kind you've been, the man with the blank page or the man with the binder. Then say the move that's already waiting at the bottom, with a verb, a person, and a day.
+Once you know how your plans usually die, you can guard against it. Say which kind you've been, the man with the blank page or the man with the binder. Then say the move that's already waiting at the bottom, with a verb, a person, and a day.
 
 :::notes
 _______________________________________________
@@ -154,7 +154,7 @@ _______________________________________________
 
 **Do this week**
 
-Because what never reaches paper never reaches Tuesday. Put the page on one sheet, ten lines at most, each one fitted to the season you're in. Sign it and date it. Get the bottom line done before the week runs out.
+What never reaches paper never reaches Tuesday. Put the page on one sheet, ten lines at most, each one fitted to the season you're in. Sign it and date it. Get the bottom line done before the week runs out.
 
 :::notes
 _______________________________________________
@@ -164,7 +164,7 @@ _______________________________________________
 
 **Tell a brother**
 
-Because a herald runs only after somebody else has read the plan. Read him every line and give him a copy. Ask him to check on the bottom line next week and on the whole page in ninety days. If he's writing one too, swap.
+A herald runs only after somebody else has read the plan. Read him every line and give him a copy. Ask him to check on the bottom line next week and on the whole page in ninety days. If he's writing one too, swap.
 
 :::notes
 _______________________________________________

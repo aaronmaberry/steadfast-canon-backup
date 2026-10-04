@@ -6,7 +6,7 @@ Walk Steadfast · Field Notes · script v1 (pre-focus-group). Internal.
 |---|---|
 | Release | Fri Jan 15, 2027, 5:00 AM CT |
 | Format | Field Notes. About 14 min. |
-| Slate | WES "This is episode four. It's Friday, January fifteenth." JONATHON "Field Notes. The Sentence Test." |
+| Intro and slate | Per-episode open, Jonathon leads (SHOW-BIBLE section 5, open system v3, text in _build/intros_data.py). Slate: WES "Episode four." JONATHON "Field Notes. The Sentence Test." |
 | Checks | E003 challenge: write the sentence you've been living, read it to one man. Married: ask your wife what she thinks your sentence is. |
 | From the Table | "What if my sentence is a bad one?" |
 | Tool on the Table | The index card |
@@ -31,10 +31,6 @@ Wes holding a blank index card, wincing. Text: **MY REAL SENTENCE**.
 
 [CAM: WIDE]
 
-[CHAPTER: Slate]
-WES: This is episode four. It's Friday, January fifteenth.
-JONATHON: Field Notes. The Sentence Test.
-
 [CHAPTER: Cold open]
 [CAM: JON MS]
 JONATHON: So did you ask your wife what your sentence is?
@@ -48,12 +44,23 @@ WES: (turns his mug a quarter turn) "I'll get to it."
 (Jonathon slaps the table once and leans back, delighted.)
 [STING 3s]
 
+[CHAPTER: Intro]
+[CAM: 2S]
+(Walk Steadfast open written for E004. Same beats every week, new words. SHOW-BIBLE section 5.)
+JONATHON: This is Walk Steadfast. I'm Jonathon. I sell air conditioning for a living.
+[LOWER THIRD: Jonathon]
+WES: I'm Wes Hart. I've been married since 2000.
+[LOWER THIRD: Wes Hart]
+JONATHON: Friday's the report, misses included.
+WES: Steadfast Men, the book, and the video training live at walksteadfast.com.
+JONATHON: Today's question is what to do when your sentence is a bad one.
+WES: Episode four.
+JONATHON: Field Notes. The Sentence Test.
+
 [CHAPTER: Check the box]
 [CAM: WIDE]
 JONATHON: Pull up a chair. This is Field Notes. Tuesday's challenge: write down the sentence you've actually been living. Not the church one. Read it to one man. And if you're married, ask your wife what she thinks your sentence is.
-[LOWER THIRD: Jonathon]
 WES: Which was my idea, and I regret it.
-[LOWER THIRD: Wes Hart]
 JONATHON: Tell it. All of it.
 [CAM: WES MS]
 WES: So I'd already told you my old one. "Pay the bills and don't make trouble." And I figured I'd grown. Twenty years of Thursdays. I figured I'd write something better this time. And I sat down Tuesday night to write it, and I couldn't decide, so I thought, I'll just ask her. Get the outside view.
@@ -223,6 +230,11 @@ JONATHON: Bring your card.
 WES: We'll see you at the table.
 (Jonathon tucks the index card into his pocket next to the receipt. Hold WIDE 2s. Cut.)
 
+[CLOSING MUSIC 3s]
+[CREDITS]
+(Wes, normal credits volume, read like a producer credit. No gap, no ducking. SHOW-BIBLE section 13.)
+WES: Produced with AI voice and video tools.
+
 ## Shorts (2)
 
 | # | Cut | Hook | Length |
@@ -239,11 +251,12 @@ Field Notes, the Friday check-in from Walk Steadfast. Wes and Jonathon report on
 
 Chapters
 00:00 Cold open
-00:18 Check the box
-05:42 From the table
-10:56 Tool on the table
-12:40 Carry this
-13:06 Outro
+00:12 Intro
+00:45 Check the box
+06:09 From the table
+11:23 Tool on the table
+13:07 Carry this
+13:34 Outro
 
 Scripture: Lamentations 3:22-23 (NIV)
 
@@ -256,8 +269,6 @@ Facebook  facebook.com/steadfastwalk
 TikTok  tiktok.com/@steadfastwalk
 Reddit  reddit.com/user/steadfastwalk
 LinkedIn  linkedin.com/company/steadfastwalk
-
-Walk Steadfast is made with AI-generated video and voices. Wes and Jonathon are characters, and their stories are composites drawn from real men's lives.
 
 Scripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.™ Used by permission. All rights reserved worldwide.
 

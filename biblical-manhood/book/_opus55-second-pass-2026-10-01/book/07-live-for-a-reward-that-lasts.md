@@ -117,7 +117,7 @@ The small rewards pay out the same night, and that's why men keep picking them. 
 
 **Name it**
 
-Because you can't trade in a prize you won't name. Write down the small reward that's driving right now. Applause, the number, being wanted, being right, the nod, comfort, or being remembered. Under it, write where it's been taking you.
+A prize you won't name is a prize you can't trade in. Write down the small reward that's driving right now. Applause, the number, being wanted, being right, the nod, comfort, or being remembered. Under it, write where it's been taking you.
 
 :::notes
 _______________________________________________
@@ -127,7 +127,7 @@ _______________________________________________
 
 **Do this week**
 
-Because the Father who sees in secret is the one who rewards secret work. Do one kindness no human being will find out about. Your wife or your roommate doesn't hear about it. Your brother doesn't hear about it. The men you meet don't hear about it. After that, keep quiet for good.
+The Father who sees in secret is the one who rewards secret work. Do one kindness no human being will find out about. Your wife or your roommate doesn't hear about it. Your brother doesn't hear about it. The men you meet don't hear about it. After that, keep quiet for good.
 
 :::notes
 _______________________________________________
@@ -137,7 +137,7 @@ _______________________________________________
 
 **Tell a brother**
 
-Because saying the small reward out loud to another man loosens its grip. Tell him what it is. Tell him what it's cost you. Keep the hidden kindness to yourself. That one stays between you and your Father.
+Saying the small reward out loud to another man loosens its grip. Tell him what it is. Tell him what it's cost you. Keep the hidden kindness to yourself. That one stays between you and your Father.
 
 :::notes
 _______________________________________________

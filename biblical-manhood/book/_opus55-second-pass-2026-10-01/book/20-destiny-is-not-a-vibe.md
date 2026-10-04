@@ -85,7 +85,7 @@ Whoever has ears, let them hear what the Spirit says to the churches. To the one
 
 One day He'll put a white stone in your hand with a name on it no other person has ever heard. Whatever your history kept calling you won't follow you there.
 
-Most of what God assigns a man gets carried out under his own roof, so the next chapters go home. A wife, if God has given you one. Children. The marriage bed. The supper table. Rooms already full of the people you love, or rooms you're still building toward.
+Most of what God assigns a man gets carried out under his own roof, so from here the book goes home. A wife, if God has given you one. Children. The marriage bed. The supper table. Rooms already full of the people you love, or rooms you're still building toward.
 
 Pick up what God handed you. Do it right where you are, for the people in front of you, and see it through. Destiny is not a vibe.
 
@@ -100,7 +100,7 @@ Chasing a feeling is like chasing heat lightning across a field. The assignment 
 
 **Name it**
 
-Because the lie that steers you rarely introduces itself. Write down which story has had the wheel: it has to feel right, it has to be big, or it has to be somewhere else. Then write one sentence, using real names, about what serving God's purpose looks like where you actually live.
+The lie that steers you rarely introduces itself. Write down which story has had the wheel: it has to feel right, it has to be big, or it has to be somewhere else. Then write one sentence, using real names, about what serving God's purpose looks like where you actually live.
 
 :::notes
 _______________________________________________
@@ -110,7 +110,7 @@ _______________________________________________
 
 **Do this week**
 
-Because your assignment is usually already in your hands. On one card, write four headings: place, people, hands, and these years. Add a line under each. Before Sunday, do one thing from that card.
+Your assignment is usually already in your hands. On one card, write four headings: place, people, hands, and these years. Add a line under each. Before Sunday, do one thing from that card.
 
 :::notes
 _______________________________________________
@@ -120,7 +120,7 @@ _______________________________________________
 
 **Tell a brother**
 
-Because another man can often see your purpose more clearly than you can. Tell him which feeling you've been waiting on and for how long. Read him your card. Then ask him where he sees God pointing your life right now.
+Another man can often see your purpose more clearly than you can. Tell him which feeling you've been waiting on and for how long. Read him your card. Then ask him where he sees God pointing your life right now.
 
 :::notes
 _______________________________________________

@@ -6,7 +6,7 @@ Walk Steadfast · main episode · script v1 (batch 4). Internal.
 |---|---|
 | Release | Tue Mar 30, 2027, 5:00 AM CT (Easter week) |
 | Format | Main episode. About 27 min. |
-| Slate | JONATHON "Walk Steadfast, episode twenty-five." WES "Tuesday, March thirtieth, twenty twenty-seven." JONATHON "The Father Who Stays." |
+| Intro and slate | Per-episode open, Wes leads (SHOW-BIBLE section 5, open system v3, text in _build/intros_data.py). Slate: WES "Episode twenty-five. The Father Who Stays." |
 | Source | Book chapter 10, The Father Who Does Not Leave (premiere plug). Training W10. Avoided on purpose: the school pickup line and its man; the prodigal and Luke 15:20; John 14:9 and 14:18; "copy" and "original"; the four-picture list of fathers; saying "Father" out loud seven mornings; being prayed over by a brother as the tool; "Abba." From W10: the man who prays like a short red light, the church sign-up sheet copied forty times, the man listening for the truck door, the rail yard, the beach breakfast, basic training and the tailgate sit, the porch light, the back of a newspaper, "a business card can't father you." The show's angle is Matthew 3:17's order: the Father spoke before the Son had done one public thing. The pay comes first, and the work comes from it. |
 | Focus mark | **Work for God's Pay**, named in Pull up a chair and in Carry this |
 | Scripture (NIV) | Matthew 3:17 (checked 2026-10-03), read by Jonathon. The only card. |
@@ -31,11 +31,6 @@ Jonathon holding his phone face-up, looking at it, with a small heart notificati
 
 [CAM: WIDE]
 
-[CHAPTER: Slate]
-JONATHON: Walk Steadfast, episode twenty-five.
-WES: Tuesday, March thirtieth, twenty twenty-seven.
-JONATHON: The Father Who Stays.
-
 [CHAPTER: Cold open]
 [CAM: JON MS]
 JONATHON: Sunday night, nine-forty, I hit accept.
@@ -45,12 +40,21 @@ WES: And?
 JONATHON: Nine fifty-two, he liked a picture of my kids.
 [STING 3s]
 
+[CHAPTER: Intro]
+[CAM: 2S]
+(Walk Steadfast open written for E025. Same beats every week, new words. SHOW-BIBLE section 5.)
+WES: This is Walk Steadfast, Easter week. I'm Wes Hart. This mug belonged to the man who taught me most of this.
+[LOWER THIRD: Wes Hart]
+JONATHON: I'm Jonathon. My own dad left when I was nine.
+[LOWER THIRD: Jonathon]
+WES: Following Jesus as a man, and this season it's fathers. The book and the video training are at walksteadfast.com.
+JONATHON: Today's question is where a man learns to stay.
+WES: Episode twenty-five. The Father Who Stays.
+
 [CHAPTER: Pull up a chair]
 [CAM: WIDE]
 WES: Pull up a chair.
-[LOWER THIRD: Wes Hart]
 JONATHON: Happy Easter. He is risen.
-[LOWER THIRD: Jonathon]
 WES: He is risen indeed. (looks at the foil plate) What's that?
 JONATHON: That's for you. From my mother.
 WES: Your mother sent me ham?
@@ -297,6 +301,11 @@ WES: See you at the table.
 JONATHON: Go walk it out.
 (Wes picks up the foil plate, lifts a corner of the foil, looks, and puts it back down. He slides it to his side of the desk. Hold WIDE 2s. Cut.)
 
+[CLOSING MUSIC 3s]
+[CREDITS]
+(Wes, normal credits volume, read like a producer credit. No gap, no ducking. SHOW-BIBLE section 13.)
+WES: Produced with AI voice and video tools.
+
 ## Shorts (5)
 
 | # | Cut | Hook | Length |
@@ -316,16 +325,17 @@ Matthew 3:17. Before Jesus preached a sermon or healed anyone, the Father said, 
 
 Chapters
 00:00 Cold open
-00:16 Pull up a chair
-02:25 The ham and the fish
-05:20 Nine-forty
-07:35 Not about the truck
-10:12 The Word
-14:09 Pushback
-19:07 What I actually did
-22:53 This week's challenge
-24:51 Carry this
-25:05 Outro
+00:10 Intro
+00:43 Pull up a chair
+02:52 The ham and the fish
+05:47 Nine-forty
+08:02 Not about the truck
+10:39 The Word
+14:36 Pushback
+19:34 What I actually did
+23:20 This week's challenge
+25:17 Carry this
+25:31 Outro
 
 Scripture: Matthew 3:17 (NIV)
 
@@ -342,8 +352,6 @@ Facebook  facebook.com/steadfastwalk
 TikTok  tiktok.com/@steadfastwalk
 Reddit  reddit.com/user/steadfastwalk
 LinkedIn  linkedin.com/company/steadfastwalk
-
-Walk Steadfast is made with AI-generated video and voices. Wes and Jonathon are characters, and their stories are composites drawn from real men's lives.
 
 Scripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.™ Used by permission. All rights reserved worldwide.
 

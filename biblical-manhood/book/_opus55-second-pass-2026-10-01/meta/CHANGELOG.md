@@ -263,3 +263,30 @@ Wes reads as a friend at a table, a man among men, never a counselor or pastor t
 - The binder parse finds 0 problems.
 - The book is 69,683 words, +1.4% against 68.7k, inside the band.
 - Chapters run 1,706 to 1,999 words.
+
+## Review changes, 2026-10-03 (Aaron's book notes: no chapter cross-references; center the four-marks page)
+
+See `REVIEW-2026-10-03-CHANGES.md` for the full before/after table. In short:
+- 34 cross-references to other chapters were reworded into plain book language.
+- Standalone figure pages (the ch3 four-marks block and the ch34 man-plan) are now centered on the page.
+- Rebuilt at 238 pages, FAIL 0. The blank pages and chapter openers match 2026-10-02.
+- Backup: `/workspace/backups/pre-xref-centering-2026-10-03/`.
+
+## Review Print 2026-10-03b: four-marks figure placement fix
+
+- The ch3 figure trigger now normalizes curly and straight apostrophes, so the four-marks figure follows the creed sentence as designed. It sits whole at the top of printed p. 22.
+- Still 238 pages. Same blank pages and same chapter openers.
+- Details: `REVIEW-2026-10-03-CHANGES.md` section 4.
+
+## Review Print 2026-10-03c: full-width four-marks callout
+
+- The ch3 four-marks block is now typeset, not a PNG. It runs the full text width, with navy top and bottom rules, a teal label, and centered navy caps.
+- The ch34 worksheet is aligned to the text block.
+- Still 238 pages. Same blank pages and same chapter openers.
+- Details: `REVIEW-2026-10-03-CHANGES.md` section 5.
+
+## Review Print 2026-10-03d: Your Turn lines no longer open with "Because"
+
+- 105 closer lines across all 35 chapters were rewritten so each reason opens as its own plain statement, with varied wording. Only the opening sentence changed.
+- Still 238 pages. The blank pages, chapter openers and Your Turn pages are unchanged.
+- Details: `REVIEW-2026-10-03d-BECAUSE-CHANGES.md`. DRAFTING-RULES.md has an override note.

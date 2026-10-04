@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="342.00pt" height="296.88pt" viewBox="0 0 1425 1237">
+<defs>
+<style type="text/css"><![CDATA[
+@font-face { font-family: 'P052'; src: url('/usr/share/fonts/opentype/urw-base35/P052-Roman.otf'); }
+@font-face { font-family: 'P052I'; src: url('/usr/share/fonts/opentype/urw-base35/P052-Italic.otf'); }
+@font-face { font-family: 'C059B'; src: url('/usr/share/fonts/opentype/urw-base35/C059-Bold.otf'); }
+]]></style></defs>
+<rect width="1425" height="1237" fill="#F4EFE4"/>
+<rect x="1" y="956" width="1423" height="279" fill="#ECE4D4"/>
+<rect x="0.5" y="0.5" width="1424" height="1236" fill="none" stroke="#C4B8A8" stroke-width="1"/>
+<rect x="42" y="33" width="3" height="1170" fill="#7A4A32"/>
+<text x="92" y="97" font-family="P052" font-size="33" fill="#7A4A32">13</text>
+<rect x="41" y="156" width="20" height="10" fill="#7A4A32"/>
+<text x="92" y="171" font-family="C059B" font-size="33" fill="#7A4A32" letter-spacing="3.6">NAME IT</text>
+<text x="92" y="233" font-family="P052" font-size="44" fill="#2C2924">Who actually has you when you fall?</text>
+<line x1="92" y1="293" x2="1350" y2="293" stroke="#C4B8A8" stroke-width="1"/>
+<rect x="41" y="361" width="20" height="10" fill="#7A4A32"/>
+<text x="92" y="376" font-family="C059B" font-size="33" fill="#7A4A32" letter-spacing="3.6">DO THIS WEEK</text>
+<text x="92" y="438" font-family="P052" font-size="44" fill="#2C2924">One small step toward a brother. Not a speech.</text>
+<text x="92" y="533" font-family="P052I" font-size="44" fill="#5A544C">Who has me, and the step:</text>
+<line x1="92" y1="585" x2="1350" y2="585" stroke="#C4B8A8" stroke-width="1"/>
+<rect x="41" y="732" width="20" height="10" fill="#7A4A32"/>
+<text x="92" y="747" font-family="C059B" font-size="33" fill="#7A4A32" letter-spacing="3.6">TELL A BROTHER</text>
+<text x="92" y="809" font-family="P052" font-size="44" fill="#2C2924">If you do not have one, tell a man you are done calling isolation</text>
+<text x="92" y="866" font-family="P052" font-size="44" fill="#2C2924">strength.</text>
+<line x1="92" y1="926" x2="1350" y2="926" stroke="#C4B8A8" stroke-width="1"/>
+<rect x="41" y="994" width="20" height="10" fill="#7A4A32"/>
+<text x="92" y="1009" font-family="C059B" font-size="33" fill="#7A4A32" letter-spacing="3.6">CARRY THIS</text>
+<text x="92" y="1079" font-family="P052I" font-size="54" fill="#2C2924">Isolation is not strength. A man with no brothers is</text>
+<text x="92" y="1146" font-family="P052I" font-size="54" fill="#2C2924">running blind.</text>
+</svg>

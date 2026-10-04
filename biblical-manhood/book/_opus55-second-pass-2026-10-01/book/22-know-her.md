@@ -117,7 +117,7 @@ Feeling late to this? Nearly every husband is, and late isn't too late. She's wa
 
 **Name it**
 
-Because a man can live for decades on a first impression. How much of what you'd tell me about your wife comes from the early years? Write that down, then circle your weakest area: her past, her fears, her body, her faith, her everyday, or the wants she's stopped saying. Single? Write what you'd hope to know about a woman before you make her a promise. Divorced? Write where you knew her least when it fell apart.
+Some husbands live for decades on a first impression. How much of what you'd tell me about your wife comes from the early years? Write that down, then circle your weakest area: her past, her fears, her body, her faith, her everyday, or the wants she's stopped saying. Single? Write what you'd hope to know about a woman before you make her a promise. Divorced? Write where you knew her least when it fell apart.
 
 :::notes
 _______________________________________________
@@ -127,7 +127,7 @@ _______________________________________________
 
 **Do this week**
 
-Because a wife gets known one honest question at a time. Pick a question from your weakest area, ask it, and let her answer all the way through without fixing or defending. Then write down what she told you, on a new page if you need one. Single men, try it with a sister in Christ or a couple you serve with. If the marriage ended, ask your kids' mother one question about them and let her finish.
+A wife gets known one honest question at a time. Pick a question from your weakest area, ask it, and let her answer all the way through without fixing or defending. Then write down what she told you, on a new page if you need one. Single men, try it with a sister in Christ or a couple you serve with. If the marriage ended, ask your kids' mother one question about them and let her finish.
 
 :::notes
 _______________________________________________
@@ -137,7 +137,7 @@ _______________________________________________
 
 **Tell a brother**
 
-Because two husbands who think they know their wives can coast for years unless one of them speaks up. Tell him one thing you learned that surprised you. Then ask when he last really studied his own wife, and don't either of you settle for "we're good." If you're single, tell him what you heard and ask if he's ever listened that way.
+Two husbands who think they know their wives can coast for years unless one of them speaks up. Tell him one thing you learned that surprised you. Then ask when he last really studied his own wife, and don't either of you settle for "we're good." If you're single, tell him what you heard and ask if he's ever listened that way.
 
 :::notes
 _______________________________________________

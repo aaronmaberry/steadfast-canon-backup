@@ -8,7 +8,7 @@ Your daughter is watching you. She's already learning three things from you that
 
 ## A face in the stands
 
-Wade, the man in chapter fifteen whose little girl shrank when his voice climbed, found this out on an aluminum bleacher at his daughter Nora's softball game. She struck out to end the inning, and before she made it back to the dugout she turned, found him in the stands, and studied his face. He'd watched her do that a hundred times. He'd never asked himself what she was looking for.
+Wade, the man we met earlier whose little girl shrank when his voice climbed, found this out on an aluminum bleacher at his daughter Nora's softball game. She struck out to end the inning, and before she made it back to the dugout she turned, found him in the stands, and studied his face. He'd watched her do that a hundred times. He'd never asked himself what she was looking for.
 
 She was checking what the strikeout cost her. Hits made Wade light up and get loud. Misses made his face sink a little, nothing cruel, just a dad who wanted it for her. But she'd learned to watch for the sink. As far as she could tell, her value went up and down with the box score.
 
@@ -82,7 +82,7 @@ A face that's been teaching the wrong thing can learn the right one, and beating
 
 **Name it**
 
-Because your face is her classroom, whether you meant to enroll her or not. Write what she sees from you when her mother walks in, what she sees when she fails, and what you've been calling her lately. If the honest answer is nothing, write that. Silence teaches too. No daughter of your own? Picture a girl in your church watching you with the women around you, and write what she'd conclude.
+Your face is her first classroom, whether you ever meant to enroll her or not. Write what she sees from you when her mother walks in, what she sees when she fails, and what you've been calling her lately. If the honest answer is nothing, write that. Silence teaches too. No daughter of your own? Picture a girl in your church watching you with the women around you, and write what she'd conclude.
 
 :::notes
 _______________________________________________
@@ -92,7 +92,7 @@ _______________________________________________
 
 **Do this week**
 
-Because delight she can't see doesn't teach her anything. Tell her one specific thing you love about who she is, nothing to do with what she did, and honor her mom in front of her every day this week: a thank-you, a gentle hand, taking her side, an apology. If she's grown, call her and say the thing you assumed she already knew. No daughter? Once this week, honor a mother or a sister where a girl can see it.
+Delight that she never gets to see doesn't teach her anything. Tell her one specific thing you love about who she is, nothing to do with what she did, and honor her mom in front of her every day this week: a thank-you, a gentle hand, taking her side, an apology. If she's grown, call her and say the thing you assumed she already knew. No daughter? Once this week, honor a mother or a sister where a girl can see it.
 
 :::notes
 _______________________________________________
@@ -102,7 +102,7 @@ _______________________________________________
 
 **Tell a brother**
 
-Because dads of daughters almost never talk about this with each other. Walk him through what she's learning from you and admit which lesson you've been teaching worst. Then turn it around and find out what his girl is picking up. No daughter? Read him what you wrote about the girl at church, and give him permission to watch you this Sunday and say what he sees.
+Dads of daughters almost never talk about this kind of thing with each other. Walk him through what she's learning from you and admit which lesson you've been teaching worst. Then turn it around and find out what his girl is picking up. No daughter? Read him what you wrote about the girl at church, and give him permission to watch you this Sunday and say what he sees.
 
 :::notes
 _______________________________________________

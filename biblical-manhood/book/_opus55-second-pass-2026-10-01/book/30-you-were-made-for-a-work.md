@@ -107,7 +107,7 @@ If you've figured your hours were wasted on God, carry a different picture in to
 
 **Name it**
 
-Because a man can punch a clock for decades and never ask what it was all for. Write which purpose your work has mostly served: worship, feeding your family, helping people, or leaving things better. Then be honest about the drift. Is the job becoming your name, your escape, or your idea of how you get saved? Single? It may be your biggest plot right now. Work it like ground you'd be glad to share someday, but don't marry it.
+Men punch a clock for decades and never ask what it was all for. Write which purpose your work has mostly served: worship, feeding your family, helping people, or leaving things better. Then be honest about the drift. Is the job becoming your name, your escape, or your idea of how you get saved? Single? It may be your biggest plot right now. Work it like ground you'd be glad to share someday, but don't marry it.
 
 :::notes
 _______________________________________________
@@ -117,7 +117,7 @@ _______________________________________________
 
 **Do this week**
 
-Because a task quietly done for the Lord is worship you can actually finish. Choose one part of your job this week, do it for Him, and keep it to yourself. Between jobs? Then Monday is a full workday of looking. Retired? Decide tomorrow's job before bed and have it done before lunch.
+A task quietly done for the Lord is worship you can actually finish. Choose one part of your job this week, do it for Him, and keep it to yourself. Between jobs? Then Monday is a full workday of looking. Retired? Decide tomorrow's job before bed and have it done before lunch.
 
 :::notes
 _______________________________________________
@@ -127,7 +127,7 @@ _______________________________________________
 
 **Tell a brother**
 
-Because a man hiding in extra hours almost never sees it himself. Tell him whether work has been your way out, and what it's cost at home. If your paycheck years are over, show him how you're spending your days and ask him to keep you honest.
+The man hiding in extra hours almost never sees it himself. Tell him whether work has been your way out, and what it's cost at home. If your paycheck years are over, show him how you're spending your days and ask him to keep you honest.
 
 :::notes
 _______________________________________________

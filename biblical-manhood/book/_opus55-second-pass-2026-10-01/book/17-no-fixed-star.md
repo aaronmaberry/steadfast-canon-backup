@@ -100,7 +100,7 @@ Whatever you read, carry the same question: what does this ask of me on an ordin
 
 ## The bigger story
 
-God knows your story, last chapter's shapes and the locked room included. But your chapter isn't the whole book, and if it's the only part you read, you'll read it wrong. The harm done to you isn't the first page. Your sin won't be the last. Using the fixed point as a rulebook and nothing more is using it small.
+God knows your story, the shapes we traced earlier and the locked room included. But your chapter isn't the whole book, and if it's the only part you read, you'll read it wrong. The harm done to you isn't the first page. Your sin won't be the last. Using the fixed point as a rulebook and nothing more is using it small.
 
 The whole account opens in a garden with a man made for work, and it closes with the Man who finishes what the first one dropped. Lose your fixed point and it's worse than a bad week. You lose your place in the story, and you forget what you were made to do.
 
@@ -117,7 +117,7 @@ You may hit February with a lot of Bible still unread. That's fine. Hang the lin
 
 **Name it**
 
-Because a north you won't name keeps steering you long after you think you've let it go. Write one honest sentence about what you actually measured your life by this year: your father, the men around you, the culture, your feelings, or your success.
+Any north you won't name keeps steering you long after you think you've let it go. Write one honest sentence about what you actually measured your life by this year: your father, the men around you, the culture, your feelings, or your success.
 
 :::notes
 _______________________________________________
@@ -127,7 +127,7 @@ _______________________________________________
 
 **Do this week**
 
-Because Scripture only becomes your fixed point once you open it and ask it something. Read a section of Mark every day this week, aloud when you can, and each time write one line about what it asks a man to do.
+Scripture only becomes your fixed point once you open it and ask it something. Read a section of Mark every day this week, aloud when you can, and each time write one line about what it asks a man to do.
 
 :::notes
 _______________________________________________
@@ -137,7 +137,7 @@ _______________________________________________
 
 **Tell a brother**
 
-Because two men holding the same line catch a lean that one man can explain away. Tell him which north you've been steering by. Read him one verse from your week, tell him what obeying it would cost, and be honest about whether you did.
+Two men holding the same line catch a lean that one man can explain away. Tell him which north you've been steering by. Read him one verse from your week, tell him what obeying it would cost, and be honest about whether you did.
 
 :::notes
 _______________________________________________

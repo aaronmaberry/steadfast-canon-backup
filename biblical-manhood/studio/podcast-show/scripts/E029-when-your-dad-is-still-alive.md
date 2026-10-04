@@ -6,7 +6,7 @@ Walk Steadfast · main episode · script v1 (batch 4). Internal.
 |---|---|
 | Release | Tue Apr 13, 2027, 5:00 AM CT |
 | Format | Main episode. About 28 min. |
-| Slate | WES "Walk Steadfast, episode twenty-nine." JONATHON "Tuesday, April thirteenth, twenty twenty-seven." WES "When Your Dad Is Still Alive." |
+| Intro and slate | Per-episode open, Jonathon leads (SHOW-BIBLE section 5, open system v3, text in _build/intros_data.py). Slate: JONATHON "Episode twenty-nine. When Your Dad Is Still Alive." |
 | Source | Fresh episode, following on from book chapters 8 and 10 (no plug). Kept clear of chapter 12 on purpose, since E033 uses it: no "honor the seat," no "it doesn't say honor your father if he was a good one," no eulogy story, no birthday card that never comes back, no "don't run him down at your own table," no leave-and-honor pairing, no slammed door or hand on the knob. Kept clear of chapter 11 too: Jacob's "I will not let you go unless you bless me" is saved for E031, and "I'll let you go" is planted here without naming it. The show's angle: honor as weight (not a halo and not nothing), and going first by asking a living father one question about his own life. |
 | Focus mark | **Go First**, named in Pull up a chair and in Going first |
 | Scripture (NIV) | Exodus 20:12 (checked 2026-10-03), read by Jonathon. The only card. |
@@ -31,11 +31,6 @@ Jonathon holding his phone, screen toward camera, the contact reading "Dad." Tex
 
 [CAM: WIDE]
 
-[CHAPTER: Slate]
-WES: Walk Steadfast, episode twenty-nine.
-JONATHON: Tuesday, April thirteenth, twenty twenty-seven.
-WES: When Your Dad Is Still Alive.
-
 [CHAPTER: Cold open]
 [CAM: JON MS]
 JONATHON: Every phone call with my dad ends the same way. "Well. I'll let you go."
@@ -45,12 +40,21 @@ WES: How many calls?
 JONATHON: Fifty-some. Twenty-eight years. (beat) And I've never once called him.
 [STING 3s]
 
+[CHAPTER: Intro]
+[CAM: 2S]
+(Walk Steadfast open written for E029. Same beats every week, new words. SHOW-BIBLE section 5.)
+JONATHON: This is Walk Steadfast. I'm Jonathon. My father lives in Lake Charles.
+[LOWER THIRD: Jonathon]
+WES: I'm Wes Hart. Mine's been gone almost nine years.
+[LOWER THIRD: Wes Hart]
+JONATHON: Twice a week, following Jesus as a man, family and all. Steadfast Men, the book, and the video training live at walksteadfast.com.
+WES: Today's about honoring a father while he's still here.
+JONATHON: Episode twenty-nine. When Your Dad Is Still Alive.
+
 [CHAPTER: Pull up a chair]
 [CAM: WIDE]
 WES: Pull up a chair.
-[LOWER THIRD: Wes Hart]
 JONATHON: Six to five.
-[LOWER THIRD: Jonathon]
 WES: Win or lose?
 JONATHON: Lose. Again. By one. Again. We have now lost three games by a combined three runs, and I've started saying "a combined three runs" to the parents like it's a stat that means something.
 WES: It's a stat.
@@ -296,6 +300,11 @@ WES: See you at the table.
 JONATHON: Go walk it out.
 (Jonathon picks up his phone, looks at it, and turns it face down on the table. Hold WIDE 2s. Cut.)
 
+[CLOSING MUSIC 3s]
+[CREDITS]
+(Wes, normal credits volume, read like a producer credit. No gap, no ducking. SHOW-BIBLE section 13.)
+WES: Produced with AI voice and video tools.
+
 ## Shorts (5)
 
 | # | Cut | Hook | Length |
@@ -315,16 +324,17 @@ Exodus 20:12 says to honor your father and your mother, and the Hebrew word carr
 
 Chapters
 00:00 Cold open
-00:21 Pull up a chair
-05:18 Twice a year
-09:27 The Word
-13:07 The pot roast
-17:45 Pushback
-21:25 Ask him about his dad
-23:40 Going first
-25:48 This week's challenge
-27:21 Carry this
-27:33 Outro
+00:14 Intro
+00:47 Pull up a chair
+05:43 Twice a year
+09:52 The Word
+13:33 The pot roast
+18:11 Pushback
+21:50 Ask him about his dad
+24:05 Going first
+26:14 This week's challenge
+27:47 Carry this
+27:59 Outro
 
 Scripture: Exodus 20:12 (NIV)
 
@@ -339,8 +349,6 @@ Facebook  facebook.com/steadfastwalk
 TikTok  tiktok.com/@steadfastwalk
 Reddit  reddit.com/user/steadfastwalk
 LinkedIn  linkedin.com/company/steadfastwalk
-
-Walk Steadfast is made with AI-generated video and voices. Wes and Jonathon are characters, and their stories are composites drawn from real men's lives.
 
 Scripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.™ Used by permission. All rights reserved worldwide.
 

@@ -6,7 +6,7 @@ Walk Steadfast · main episode · script v1 (batch 2, pre-focus-group). Internal
 |---|---|
 | Release | Tue Feb 2, 2027, 5:00 AM CT |
 | Format | Main episode. About 26 min. |
-| Slate | JONATHON "Walk Steadfast, episode nine." WES "Tuesday, February second, twenty twenty-seven." JONATHON "The Weight With Your Name on It." |
+| Intro and slate | Per-episode open, Wes leads (SHOW-BIBLE section 5, open system v3, text in _build/intros_data.py). Slate: JONATHON "Episode nine. The Weight With Your Name on It." |
 | Source | Book chapter 5, Pick Up the Weight. Training W05. Avoided on purpose: the book's wall and kitchen, the weight on the floor everyone steps around, Cain and Abel, Moses and the seventy elders, the five-item list as a lecture. W05's shipment folder, fence and cows, tax forms, and the job moved to Ohio. |
 | Focus mark | **Pick Up the Weight**, named in Pull up a chair and again in Carry this |
 | Scripture (NIV) | Galatians 6:5 (checked 2026-10-03). Galatians 6:2 is mentioned in passing in Pushback, not read as a second card. |
@@ -32,11 +32,6 @@ Jonathon close-up, one hand on the back of his neck, sheepish. Text: **NO WILL**
 
 [CAM: WIDE]
 
-[CHAPTER: Slate]
-JONATHON: Walk Steadfast, episode nine.
-WES: Tuesday, February second, twenty twenty-seven.
-JONATHON: The Weight With Your Name on It.
-
 [CHAPTER: Cold open]
 [CAM: JON MS]
 JONATHON: We don't have a will.
@@ -46,12 +41,22 @@ WES: (beat) You don't have a will?
 JONATHON: Two kids. A mortgage. A dog named Pancake that doesn't exist yet. No will.
 [STING 3s]
 
+[CHAPTER: Intro]
+[CAM: 2S]
+(Walk Steadfast open written for E009. Same beats every week, new words. SHOW-BIBLE section 5.)
+WES: This is Walk Steadfast. I'm Wes Hart. My three kids are mostly grown now.
+[LOWER THIRD: Wes Hart]
+JONATHON: I'm Jonathon. Dani runs our budget, and I'm grateful.
+[LOWER THIRD: Jonathon]
+WES: Twice a week the two of us ask what following Jesus wants from a man. Tuesday's the long one.
+JONATHON: walksteadfast.com has Wes's book and the video training.
+WES: Today we sort out which loads have your name on them.
+JONATHON: Episode nine. The Weight With Your Name on It.
+
 [CHAPTER: Pull up a chair]
 [CAM: WIDE]
 JONATHON: Coffee's hot. Mine is, anyway.
-[LOWER THIRD: Jonathon]
 WES: Mine's been hot since five.
-[LOWER THIRD: Wes Hart]
 JONATHON: He's been up since five. He wants you to know that.
 WES: I want everybody to know that.
 (both laugh)
@@ -372,6 +377,11 @@ WES: We'll see you at the table.
 JONATHON: Go walk it out.
 (Wes stands, and winces a little on the way up. Jonathon points at him and nods at the camera. Hold WIDE 2s. Cut.)
 
+[CLOSING MUSIC 3s]
+[CREDITS]
+(Wes, normal credits volume, read like a producer credit. No gap, no ducking. SHOW-BIBLE section 13.)
+WES: Produced with AI voice and video tools.
+
 ## Shorts (5)
 
 | # | Cut | Hook | Length |
@@ -391,15 +401,16 @@ The second of the four marks: Pick Up the Weight. How do you tell the weight tha
 
 Chapters
 00:00 Cold open
-00:20 Pull up a chair
-01:36 The check-engine light
-06:44 Wes and the dent
-08:59 The Word
-11:37 Pushback
-17:50 What I actually did
-23:24 This week's challenge
-25:11 Carry this
-25:28 Outro
+00:13 Intro
+00:50 Pull up a chair
+02:05 The check-engine light
+07:13 Wes and the dent
+09:29 The Word
+12:07 Pushback
+18:19 What I actually did
+23:54 This week's challenge
+25:40 Carry this
+25:57 Outro
 
 Scripture: Galatians 6:5 (NIV)
 
@@ -417,8 +428,6 @@ Facebook  facebook.com/steadfastwalk
 TikTok  tiktok.com/@steadfastwalk
 Reddit  reddit.com/user/steadfastwalk
 LinkedIn  linkedin.com/company/steadfastwalk
-
-Walk Steadfast is made with AI-generated video and voices. Wes and Jonathon are characters, and their stories are composites drawn from real men's lives.
 
 Scripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.™ Used by permission. All rights reserved worldwide.
 

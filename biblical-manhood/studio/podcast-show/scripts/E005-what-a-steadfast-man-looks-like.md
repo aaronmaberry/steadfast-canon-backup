@@ -6,7 +6,7 @@ Walk Steadfast · main episode · script v1 (pre-focus-group). Internal.
 |---|---|
 | Release | Tue Jan 19, 2027, 5:00 AM CT |
 | Format | Main episode. About 25 min (3,400 spoken words, plus card-writing silences and breathers). |
-| Slate | JONATHON "Walk Steadfast, episode five." WES "Tuesday, January nineteenth." JONATHON "What a Steadfast Man Looks Like." |
+| Intro and slate | Per-episode open, Wes leads (SHOW-BIBLE section 5, open system v3, text in _build/intros_data.py). Slate: JONATHON "Episode five. What a Steadfast Man Looks Like." |
 | Source | Book chapter 3 (the four marks). Training W03. |
 | Focus marks | All four, introduced once. The canon sentence is said once, in full, by Wes. Each mark is then explained in fresh words with a Tuesday picture. Never recited again in this episode. "No fifth." |
 | Scripture (NIV) | Philippians 2:5 on the card. James 4:17, Galatians 6:5, John 10:4 and Colossians 3:23-24 named with their marks; only Galatians 6:5 and Colossians 3:24 are quoted, briefly. Philippians 2:6-8 and Ephesians 2:8-9 paraphrased only (NIV text has em dashes). All checked 2026-10-02. |
@@ -31,11 +31,6 @@ Jonathon holding up the index card, Wes pointing at the last words. Text: **NOT 
 
 [CAM: WIDE]
 
-[CHAPTER: Slate]
-JONATHON: Walk Steadfast, episode five.
-WES: Tuesday, January nineteenth.
-JONATHON: What a Steadfast Man Looks Like.
-
 [CHAPTER: Cold open]
 [CAM: WES MS]
 WES: "...and works for God's pay, not the room's."
@@ -50,12 +45,22 @@ WES: I was saying it at tables before I ever met you.
 JONATHON: (to camera) It's for me.
 [STING 3s]
 
+[CHAPTER: Intro]
+[CAM: 2S]
+(Walk Steadfast open written for E005. Same beats every week, new words. SHOW-BIBLE section 5.)
+WES: This is Walk Steadfast. I'm Wes Hart. I've watched men be good on Sunday and tired by Tuesday.
+[LOWER THIRD: Wes Hart]
+JONATHON: I'm Jonathon. I manage salespeople in San Antonio.
+[LOWER THIRD: Jonathon]
+WES: We sit here twice a week and talk about following Jesus as a man.
+JONATHON: The book and the Steadfast video training are on walksteadfast.com.
+WES: Today the whole thing fits on one card.
+JONATHON: Episode five. What a Steadfast Man Looks Like.
+
 [CHAPTER: Pull up a chair]
 [CAM: WIDE]
 JONATHON: Coffee's hot. Mine is, anyway.
-[LOWER THIRD: Jonathon]
 WES: (sips) Mine's fine.
-[LOWER THIRD: Wes Hart]
 JONATHON: "Mine's fine." Big words from the Hill Country.
 WES: We don't waste them out there.
 (both laugh)
@@ -216,7 +221,7 @@ WES: Now. Where does a sentence like this come from? Because I don't want anybod
 JONATHON: It would be a good mug, though.
 WES: It'd be a great mug. But it starts with one line in Philippians. You read it.
 [CARD: Philippians 2:5]
-JONATHON: "In your relationships with one another, have the same mindset as Christ Jesus."
+JONATHON: "In your relationships with one another, have the same mindset as Christ Jesus: ..."
 [CAM: 2S]
 WES: And then Paul tells you what that mindset was. In the next few verses, he says Jesus was God, and he didn't hold on to that for his own advantage. He made himself nothing. He took the nature of a servant. He humbled himself and obeyed, all the way to a cross.
 [CAM: JON MS]
@@ -345,6 +350,11 @@ WES: See you at the table.
 JONATHON: Go walk it out.
 (Jonathon tucks the card into his shirt pocket, sentence side out. Hold WIDE 2s. Cut.)
 
+[CLOSING MUSIC 3s]
+[CREDITS]
+(Wes, normal credits volume, read like a producer credit. No gap, no ducking. SHOW-BIBLE section 13.)
+WES: Produced with AI voice and video tools.
+
 ## Shorts (5)
 
 | # | Cut | Hook | Length |
@@ -364,19 +374,20 @@ A steadfast man stops waiting, picks up the weight, goes first, and works for Go
 
 Chapters
 00:00 Cold open
-00:25 Pull up a chair
-01:46 The sentence
-03:16 Stop waiting
-04:27 Pick up the weight
-06:13 Go first
-08:37 Work for God's pay
-10:46 Which one is hardest
-12:51 The Word
-14:45 Pushback
-19:53 What I actually did
-22:31 This week's challenge
-23:30 Carry this
-23:43 Outro
+00:19 Intro
+00:52 Pull up a chair
+02:12 The sentence
+03:43 Stop waiting
+04:54 Pick up the weight
+06:40 Go first
+09:03 Work for God's pay
+11:13 Which one is hardest
+13:18 The Word
+15:12 Pushback
+20:20 What I actually did
+22:58 This week's challenge
+23:57 Carry this
+24:11 Outro
 
 Scripture: Philippians 2:5; James 4:17; Galatians 6:5; John 10:4; Colossians 3:23-24 (NIV)
 
@@ -391,8 +402,6 @@ Facebook  facebook.com/steadfastwalk
 TikTok  tiktok.com/@steadfastwalk
 Reddit  reddit.com/user/steadfastwalk
 LinkedIn  linkedin.com/company/steadfastwalk
-
-Walk Steadfast is made with AI-generated video and voices. Wes and Jonathon are characters, and their stories are composites drawn from real men's lives.
 
 Scripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.™ Used by permission. All rights reserved worldwide.
 
@@ -432,7 +441,7 @@ Jonathon's first reaction is that it's all verbs. There's nothing about being ta
 
 ## Where the sentence comes from
 
-> "In your relationships with one another, have the same mindset as Christ Jesus:"
+> "In your relationships with one another, have the same mindset as Christ Jesus: ..."
 > Philippians 2:5 (NIV)
 
 Paul goes on to describe Jesus, who made himself nothing, took the nature of a servant, and obeyed all the way to the cross. He didn't wait for us to improve. He carried what wasn't his. He went ahead into the worst of it. And he wasn't working for the crowd that yelled "crucify." The four marks aren't four rules. They're what that mindset looks like on a man.
@@ -462,7 +471,7 @@ Scripture quotations taken from The Holy Bible, New International Version®, NIV
 
 - **Canon.** The sentence is said once on mic (Wes, at the PUSH-IN) and shown once as TEXT. Every later reference uses fresh words or a single mark name. Don't add a recap that recites all four.
 - **Cold open.** It starts mid-sentence with the last words only. The first spoken "..." is a deliberate in-take (1 of 4 allowed).
-- **Philippians 2:5 card.** It ends in a colon, as in the NIV. Keep the colon on the card. Spoken, it ends naturally.
+- **Philippians 2:5 card.** It ends in a colon, as in the NIV. The card and the spoken line keep the colon and end with an ellipsis (parent direction, 2026-10-03). Jonathon lets it trail, then stops.
 - **Phil 2:6-8, Heb 12:2, Eph 2:8-9 and the garden** are all paraphrased, with no quote marks and no cards.
 - **Disagreement logged.** Jonathon thinks "go first" will be misused. He'll bring it up again in E011 (Feb 9).
 - **New continuity.** Wes has two brothers and hasn't called either. The youngest dented the truck. Jonathon's customer order was three weeks late and the customer didn't cancel.

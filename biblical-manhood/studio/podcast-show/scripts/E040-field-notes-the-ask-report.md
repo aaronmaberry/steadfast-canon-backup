@@ -6,7 +6,7 @@ Walk Steadfast · Field Notes · script v1 (batch 5). Internal.
 |---|---|
 | Release | Fri May 21, 2027, 5:00 AM CT |
 | Format | Field Notes, about 13-14 min. Standard order (check, question, tool). |
-| Slate | JONATHON "Episode forty. Friday, May twenty-first." WES "Field Notes. The Ask Report." |
+| Intro and slate | Per-episode open, Jonathon leads (SHOW-BIBLE section 5, open system v3, text in _build/intros_data.py). Slate: JONATHON "Episode forty." WES "Field Notes. The Ask Report." |
 | Checks | E039 challenge: name one man about twenty years ahead of you and ask him one real question. |
 | From the Table | "What do I do when the man I ask says no?" (the Sunday-text dad, Wes's Thursday table) |
 | Tool on the Table | The coffee ask, word for word: you buy, one question said up front, a real day and time. Leave out the pre-apology. |
@@ -15,7 +15,7 @@ Walk Steadfast · Field Notes · script v1 (batch 5). Internal.
 | Standing outro | Field Notes F4, reworded, naming Tuesday's E041 ("These Men Are My Brothers," Memorial Day week) |
 | Wardrobe | Wes: denim shirt, worn soft. Jonathon: pale-yellow oxford, sleeves rolled. |
 | Props | Standard set. Jonathon's index card from his wallet (end insert). |
-| New continuity | **The mechanic says no (Wed May 19, 7:30 AM).** Behind the fellowship hall, the church van on ramps, the mechanic on a creeper. Wes brought coffee, black, one sugar, and said the whole sentence he'd practiced in the truck ("I've watched you three years... Would you let me buy you breakfast and ask you?"). **"No, thank you."** ("Just no?" "He said it nicer than that.") **"I'm not a talker, Wes. You know that. I'd be no good to you across a table."** Wes almost explained, didn't: "Okay. Thank you for thinking about it. I'll keep bringing your coffee." From under the van: **"Black. One sugar."** Then, rolling halfway out: **"Wes. You're not getting small."** Wes: a no to the table, maybe a yes to something else; he'll keep bringing the coffee. **Jonathon's nerves:** the card ("How did you stay?") still in his wallet. He rehearsed the ask on Dani Wednesday night in the kitchen; she stopped him at "You don't have to answer it": **"You're giving him the door before he's even in the room."** He cut it. Sunday plan: after the dishes, pour Dani's dad a cup on the back porch, ask right then, no warm-up ("It's his coffee. I'm pouring it. That counts in that house."). **Shane's garage (Wed May 19):** the Texas is "three feet of gray." Ruby didn't touch anything; Shane showed her one rivet on the back railing and let her glue it, **the first piece anyone but Shane has ever touched.** Ruby to Theo: "I built a battleship." **Wes's oldest (21), single check:** at lunch he asked his foreman (about 60), "How did you decide to stay with one outfit thirty years?" Foreman: **"Ask me tomorrow."** Wednesday he handed over a feed-store notepad page, both sides. Wes won't repeat it ("It's his") and said nothing about the son's job (E077 hold). **The Sunday-text dad (Thursday table):** still texting Sundays at eight (score, dog photo, "Love you. Dad."), still no reply. He asked a church elder in his late sixties whose own son went silent six years and came back (they sit together, third row): "I need to know how you waited." **"I'm sorry. I can't go back in those years. I hope you understand."** Unresolved: Sunday's text went out, nothing back. **Jonathon's old no (new):** his first year in San Antonio, Dani pregnant with Ruby, he asked a gray-haired man from church with four grown kids to lunch. "This month's slammed. Catch me later." He never did, and decided it was the answer from everybody; he only sat with Wes because a customer dragged him to a breakfast. "He probably meant later. I made it forever." |
+| New continuity | **The mechanic says no (Wed May 19, 7:30 AM).** Behind the fellowship hall, the church van on ramps, the mechanic on a creeper. Wes brought coffee, black, one sugar, and said the whole sentence he'd practiced in the truck ("I've watched you three years... Would you let me buy you breakfast and ask you?"). **"No, thank you."** ("Just no?" "He said it nicer than that.") **"I'm not a talker, Wes. You know that. I'd be no good to you across a table."** Wes almost explained, didn't: "Okay. Thank you for thinking about it. I'll keep bringing your coffee." From under the van: **"Black. One sugar."** Then, rolling halfway out: **"Wes. You're not getting small."** Wes: a no to the table, maybe a yes to something else; he'll keep bringing the coffee. **Jonathon's nerves:** the card ("How did you stay?") still in his wallet. He rehearsed the ask on Dani Wednesday night in the kitchen; she stopped him at "You don't have to answer it": **"You're giving him the door before he's even in the room."** He cut it. Sunday plan: after the dishes, pour Dani's dad a cup on the back porch, ask right then, no warm-up ("It's his coffee. I'm pouring it. That counts in that house."). **Shane's garage (Wed May 19):** the Texas is "three feet of gray." Ruby didn't touch anything; Shane showed her one rivet on the back railing and let her glue it, **the first piece anyone but Shane has ever touched.** Ruby to Theo: "I built a battleship." **Wes's oldest (21), single check:** at lunch he asked his foreman (about 60), "How did you decide to stay with one outfit thirty years?" Foreman: **"Ask me tomorrow."** Wednesday he handed over a feed-store notepad page, both sides. Wes won't repeat it ("It's his") and said nothing about the son's job (E077 hold). **The Sunday-text dad (Thursday table):** still texting Sundays at eight (score, dog photo, "Love you. Dad."), still no reply. He asked a church elder in his late sixties whose own son went silent six years and came back (they sit together, third row): "I need to know how you waited." **"I'm sorry. I can't go back in those years. I hope you understand."** Unresolved: Sunday's text went out, nothing back. **Jonathon's old no (new):** his first year in San Antonio, Dani pregnant with Ruby, he asked a gray-haired neighbor (three doors down, four grown kids home every Sunday) to lunch. "This month's slammed. Catch me later." He never did, and decided it was the answer from everybody; he only met Wes because a customer dragged him to a breakfast, and it still took him three months to text Wes (canon: "the scariest text I ever sent a man"). "He probably meant later. I made it forever." |
 
 ## Title options
 
@@ -31,13 +31,9 @@ A paper coffee cup set on the bumper of a white church van, with work boots stic
 
 [CAM: WIDE]
 
-[CHAPTER: Slate]
-JONATHON: Episode forty. Friday, May twenty-first.
-WES: Field Notes. The Ask Report.
-
 [CHAPTER: Cold open]
 [CAM: WES MS]
-WES: Wednesday morning I took a cup of coffee, black, one sugar, to an eighty-one-year-old man working on a church van, and asked him how you get old without getting small.
+WES: Wednesday I took coffee to an eighty-one-year-old working on a church van and asked how you get old without getting small.
 [CAM: JON MS]
 JONATHON: What'd he say?
 [CAM: WES CU]
@@ -48,13 +44,23 @@ JONATHON: Just no?
 WES: He said it nicer than that. "No, thank you."
 [STING 3s]
 
+[CHAPTER: Intro]
+[CAM: 2S]
+(Walk Steadfast open written for E040. Same beats every week, new words. SHOW-BIBLE section 5.)
+JONATHON: This is Walk Steadfast. I'm Jonathon. I manage commercial air conditioning sales.
+[LOWER THIRD: Jonathon]
+WES: I'm Wes Hart. I'm better at asking men questions than answering them.
+[LOWER THIRD: Wes Hart]
+JONATHON: Friday we report. Steadfast Men, the book, and the video training live at walksteadfast.com.
+WES: Today we ask what you do when the answer is no.
+JONATHON: Episode forty.
+WES: Field Notes. The Ask Report.
+
 [CHAPTER: Check the box]
 [CAM: WIDE]
 WES: Check the box. Tuesday was name one man about twenty years ahead of you, and ask him one real question.
-[LOWER THIRD: Wes Hart]
 [CAM: JON MS]
 JONATHON: I need the whole thing.
-[LOWER THIRD: Jonathon]
 WES: Seven-thirty. He's got the van up on ramps behind the fellowship hall, and he's on a creeper, just his boots sticking out. And I stood there with the coffee till he rolled out. And he sat up, and took the coffee, and said, "Wes." And I said it. The whole sentence. I'd practiced it in the truck. "I've watched you three years. You're eighty-one and your world didn't get small. I'd like to know how you did that. Would you let me buy you breakfast and ask you?"
 [CAM: WES CU]
 WES: And he drank some coffee. And he looked at the van for a while. And he said, "No, thank you." (sips coffee) And then he said, "I'm not a talker, Wes. You know that. I'd be no good to you across a table." And he set the cup on the bumper and rolled back under.
@@ -94,7 +100,7 @@ WES: He said no. Kindly. He said, "I'm sorry. I can't go back in those years. I 
 JONATHON: That one's heavy. He picked the exact right man.
 WES: He picked the exact right man. That's what makes it hurt.
 [CAM: JON CU]
-JONATHON: Can I take the first part? Because I've been the no. I sell trucks. I've told a lot of people no, and most of the time, a no isn't about you. It's about the other guy's week. Or his budget. Or something he's carrying that you can't see. That older man in the third row, he said, "I can't go back in those years." That's not "you're not worth it." That's a man telling you where his wound is.
+JONATHON: Can I take the first part? Because I've been the no. I sell air-conditioning equipment to contractors. I tell people no all day. Price, delivery dates, credit. And most of the time, a no isn't about you. It's about the other guy's week. Or his budget. Or something he's carrying that you can't see. That older man in the third row, he said, "I can't go back in those years." That's not "you're not worth it." That's a man telling you where his wound is.
 WES: That's right.
 JONATHON: Six years his son didn't talk to him. He got him back. And he's probably terrified that if he goes back in those years, out loud, at a coffee shop, something comes loose. That's not a man rejecting you. That's a man protecting something that's still healing.
 [CAM: WES MS]
@@ -102,9 +108,9 @@ WES: So first, you did it right. The right man, the right way, out loud. The no 
 JONATHON: And pray for him.
 WES: Pray for him. He's got a son in the third row and a scar nobody sees.
 [CAM: JON CU]
-JONATHON: And then the hard one. Ask another man. And I'm going to confess something here, because I'm the guy who didn't. My first year in San Antonio, Dani was pregnant with Ruby, I didn't know anybody. There was a man at our church, gray hair, four kids, all grown, and they all still came home for Sunday lunch. I watched that for months. And one Sunday I finally asked him. "Could I take you to lunch sometime? I'm about to be a dad and I don't know what I'm doing."
+JONATHON: And then the hard one. Ask another man. And I'm going to confess something here, because I'm the guy who didn't. My first year in San Antonio, Dani was pregnant with Ruby, I didn't know anybody. There was a man three doors down, gray hair, four kids, all grown, and they all still came home for Sunday lunch. I watched that for months. And one Sunday I finally asked him. "Could I take you to lunch sometime? I'm about to be a dad and I don't know what I'm doing."
 WES: What'd he say?
-JONATHON: He said, "Oh, man, this month's slammed. Catch me later." And I never caught him later. I decided that was the answer. Not from him. From everybody. The only reason I ever sat across from you is a customer invited me to a breakfast and I couldn't think of an excuse fast enough. I didn't ask. I got dragged. (beat) He probably meant later. I made it forever.
+JONATHON: He said, "Oh, man, this month's slammed. Catch me later." And I never caught him later. I decided that was the answer. Not from him. From everybody. The only reason I ever sat across from you is a customer dragged me to a breakfast and I couldn't think of an excuse fast enough. And even then it took me three months to text you. (beat) He probably meant later. I made it forever.
 [pause 1s]
 [CAM: WES MS]
 WES: That's the part most of us skip. We get one no and decide it's the answer from God and everybody. It's not. It's one man on one Wednesday.
@@ -169,6 +175,11 @@ WES: See you at the table.
 JONATHON: Go walk it out.
 (Jonathon takes the index card out of his wallet, reads it, and puts it back. Wes slides the white mug an inch toward him without comment. Hold WIDE 2s. Cut.)
 
+[CLOSING MUSIC 3s]
+[CREDITS]
+(Wes, normal credits volume, read like a producer credit. No gap, no ducking. SHOW-BIBLE section 13.)
+WES: Produced with AI voice and video tools.
+
 ## Shorts (4)
 
 | # | Cut | Hook | Length |
@@ -187,11 +198,12 @@ Also: Dani catches Jonathon pre-apologizing in rehearsal, Ruby glues one rivet o
 
 Chapters
 00:00 Cold open
-00:30 Check the box
-05:00 From the table
-10:10 Tool on the table
-12:35 Carry this
-12:47 Outro
+00:21 Intro
+00:55 Check the box
+05:25 From the table
+10:38 Tool on the table
+13:04 Carry this
+13:16 Outro
 
 Scripture: Proverbs 15:22 (NIV)
 
@@ -206,8 +218,6 @@ Facebook  facebook.com/steadfastwalk
 TikTok  tiktok.com/@steadfastwalk
 Reddit  reddit.com/user/steadfastwalk
 LinkedIn  linkedin.com/company/steadfastwalk
-
-Walk Steadfast is made with AI-generated video and voices. Wes and Jonathon are characters, and their stories are composites drawn from real men's lives.
 
 Scripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.™ Used by permission. All rights reserved worldwide.
 
@@ -255,7 +265,7 @@ Scripture quotations taken from The Holy Bible, New International Version®, NIV
 ## Production notes
 
 - **The no is a no to the format, not to Wes.** Keep the mechanic's lines exactly as written. Don't add warmth around them; "You're not getting small" carries it. Wes keeps bringing the coffee, and later episodes can show the cup on the bumper with no comment.
-- **Jonathon carries weight.** He owns the "a no isn't about you" read (from selling trucks), the confession of his own old no, the divorced-dad answer to the Sunday-text man (kept on the man's terms, not as a mirror for Jonathon's father story, per round 6 Kevin), and the Dani's-rule tool line. His old no is consistent with "the turn": he never asked Wes; a customer dragged him to the breakfast.
+- **Jonathon carries weight.** He owns the "a no isn't about you" read (from selling HVAC equipment to contractors), the confession of his own old no, the divorced-dad answer to the Sunday-text man (kept on the man's terms, not as a mirror for Jonathon's father story, per round 6 Kevin), and the Dani's-rule tool line. His old no is consistent with "the turn": a customer dragged him to the breakfast, and he texted Wes three months later.
 - **The Sunday-text man.** This is his final allowed appearance under round 6 (at most once more, unresolved). Sunday's text went out with no reply. Do not resolve him on mic in a later episode without a new rule.
 - **Round 6: no host-to-host affirmation.** Wes's "That's true" answers a fact about other men, not Jonathon. Wes's "(quietly) She'll remember that her whole life" is about Ruby.
 - **Deadpan payoff:** "Just no?" / "He said it nicer than that. 'No, thank you.'" Only one.
@@ -263,7 +273,7 @@ Scripture quotations taken from The Holy Bible, New International Version®, NIV
 - **No number motifs.** Wes's oldest's question to the foreman ("thirty years") is the foreman's tenure, said once.
 - **Oldest son and E077.** Wes repeats nothing from the foreman's notepad and says nothing about the son's job. Hold for E077.
 - **Avoided overlap with ch14 and W14.** No "ride with me," no "mentor" wording rule, no standing-breakfast plan, no fixed term, no report-back assignment. The tool is a single coffee and a single question.
-- **Never on mic:** prices, dates beyond Tuesday's episode, AI disclosure. "Walksteadfast.com" only.
+- **Never on mic:** prices, dates beyond Tuesday's episode. "Walksteadfast.com" only.
 - **Setups for E041 (These Men Are My Brothers, Memorial Day week).**
   - Jonathon's porch question to Dani's dad (Sun May 23), "How did you stay?" The answer lands in E041.
   - Wes goes to Abilene Sat May 29 (report in E043 or later, small).

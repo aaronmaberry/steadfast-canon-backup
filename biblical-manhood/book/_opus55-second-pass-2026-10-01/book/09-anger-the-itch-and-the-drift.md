@@ -8,7 +8,7 @@ Ask Owen and he'd have called it a rough week and a short fuse. It was three esc
 
 ## Pain always moves
 
-You saw last chapter that an empty chair never stays empty. Pain is like that. It won't sit still in a man. It leaves, and it has three ways out.
+You've already seen that an empty chair never stays empty. Pain is like that. It won't sit still in a man. It leaves, and it has three ways out.
 
 Anger throws it outward. Appetite pulls it downward. Absence carries it off somewhere quiet. Under pressure a man grabs the escape he trusts, and after twenty years he calls it his personality. Way back, a boy figured out how to stop feeling something, and the trick became a groove. Block the groove he likes and the pain cuts a new one. Owen used all three in under a week.
 
@@ -18,7 +18,7 @@ I've felt every one of these tug at me. I won't soften any of them, and I won't 
 
 Absence is the soft escape. I keep the closest eye on it in men past their peak working years, because nothing looks wrong and nobody's sounding an alarm.
 
-The drifting man leaves without going anywhere. He shows up at home and at work. Nothing has exploded, nothing has been found out. He's just not there. His wife quit asking after the answers dried up into "fine." His kids learn that a father can occupy a couch and still be missing. Last chapter's chair, the one that looked occupied and wasn't, gets built exactly this way.
+The drifting man leaves without going anywhere. He shows up at home and at work. Nothing has exploded, nothing has been found out. He's just not there. His wife quit asking after the answers dried up into "fine." His kids learn that a father can occupy a couch and still be missing. The chair we looked at earlier, the one that looked occupied and wasn't, gets built exactly this way.
 
 There's usually an injury under it. Somewhere along the way, without saying so, he decided caring was too expensive. Or he was truly worn out, and resting turned by inches into withdrawing. Solomon watched it happen to a house.
 
@@ -44,7 +44,7 @@ but each person is tempted when they are dragged away by their own evil desire a
 
 Dragged. That's how it feels. Nobody plans on two in the morning. And the death at the end is rarely a headline. It's a slow leak. His attention dies, then his hunger for an actual woman, then his ability to hold his wife's gaze. She knows something's off long before she could name it.
 
-Paul's word to the church at Corinth was flee. Joseph sprinted out of a house because a woman inside wanted him. That's the speed. If this is your escape, the work starts with one brother and the full story: what, how often, how long, what it's cost. No hiding behind "I struggle with purity." This thing feeds on secrecy, and once another man knows, it begins to starve. Next, cut off the supply. Filters on every screen, passwords in his hands, your phone charging in the kitchen overnight. You'd do as much for a kid in middle school. Do it for the grown man who acts like one after everybody's asleep. Then go after the loneliness underneath, which was always the real issue. Brothers get their own chapter. Short version: a man who's known itches less.
+Paul's word to the church at Corinth was flee. Joseph sprinted out of a house because a woman inside wanted him. That's the speed. If this is your escape, the work starts with one brother and the full story: what, how often, how long, what it's cost. No hiding behind "I struggle with purity." This thing feeds on secrecy, and once another man knows, it begins to starve. Next, cut off the supply. Filters on every screen, passwords in his hands, your phone charging in the kitchen overnight. You'd do as much for a kid in middle school. Do it for the grown man who acts like one after everybody's asleep. Then go after the loneliness underneath, which was always the real issue. There's more on brothers further on. Short version: a man who's known itches less.
 
 ## Anger
 
@@ -104,7 +104,7 @@ Your escape has a name now, and you can hand a named thing to your Father. May H
 
 **Name it**
 
-Because you'll keep calling it your personality until you admit it's an escape. Write one complete sentence that begins "When things get heavy, I," and name yours: the drift, the itch, or anger.
+You'll keep calling it your personality until you admit it's an escape. Write one complete sentence that begins "When things get heavy, I," and name yours: the drift, the itch, or anger.
 
 :::notes
 _______________________________________________
@@ -114,7 +114,7 @@ _______________________________________________
 
 **Do this week**
 
-Because each escape has a first step that fits in seven days. For the drift, one dark-screen evening fully present, plus one question you wait out to the end. For the itch, one man who hears everything and holds the passwords. For anger, the mailbox walk, then the sentence under it.
+Each escape has a first step that fits in seven days. For the drift, one dark-screen evening fully present, plus one question you wait out to the end. For the itch, one man who hears everything and holds the passwords. For anger, the mailbox walk, then the sentence under it.
 
 :::notes
 _______________________________________________
@@ -124,7 +124,7 @@ _______________________________________________
 
 **Tell a brother**
 
-Because secrecy is what keeps these escapes alive. Tell him yours and the last time you used it. Ask for his. Neither of you is allowed to say "I'm fine."
+Secrecy is what keeps these escapes alive. Tell him yours and the last time you used it. Ask for his. Neither of you is allowed to say "I'm fine."
 
 :::notes
 _______________________________________________
