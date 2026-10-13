@@ -1,0 +1,93 @@
+# 12. A Man With No Brothers
+
+:::epigraph
+Two are better than one, because they have a good return for their labor: If either of them falls down, one can help the other up. But pity anyone who falls and has no one to help them up.
+Ecclesiastes 4:9-10
+:::
+
+The form wanted two names. It was a little past two in the morning, and Dale was sitting on the edge of an ER bed in a paper gown that didn't close. For three hours the tightness behind his ribs had seemed like the end of the world. Then the tests came back, and it was nothing. A nurse handed him the intake sheet on a clipboard and went to find a blanket. He wrote his wife's name on the first line without thinking. The second line asked for an emergency contact who wasn't his spouse. He held the pen over it. Nothing came.
+
+His phone had hundreds of contacts. Guys he sold to and bought from. Guys from deer camp. Guys from church. His wife's brother, a couple of states away. His pastor. Any of them would've shown up with a truck to help him move a couch. Not one was a man he could call at that hour and say, "I'm scared." Years later he told me about it, and his voice went flat. "I had no idea I was alone until the night I needed someone."
+
+If you're thinking this chapter's for some other guy, it's probably for you. Most men don't have brothers, not in the way that counts. They have buddies, and that's a different job. A buddy is the guy next to you while you're doing something, hunting, fishing, eighteen holes, a game on the big screen. Good men, good times, and none of it is the same as being known. In a lot of marriages the wife ends up as the only person who really knows her husband, and that's more than one person was ever meant to hold. Then he retires from the crew he saw every day, or he buries her, and finds out how quiet a house can get.
+
+Try this on. If your phone rang in the middle of the night, whose name could be on it, and whose number could you dial? Who has permission to tell you, face to face, that you're wrong? Who knows what actually scares you? Ask a room full of capable men and listen to it go quiet, even though every phone in there is full. None of this was the design. On the Bible's second page, the first thing God calls not good is a man by himself. His first answer was a wife, and she stays the first answer. But all through the story, men walk next to other men too. David had Jonathan. Jesus had twelve, and three of them closer still. The Teacher in Ecclesiastes says it plainest. Two are better than one, because when one falls the other can pick him up, and pity the man who falls with nobody there. That last line was Dale, pen in hand, on a gurney.
+
+Even Jesus asked. On His last night He took those three closest men along to pray, knowing one of them would swear he'd never met Him before sunup. He told them His soul was crushed with sorrow to the point of death, and He asked them to stay and keep watch with Him. The Son of God, who needed nothing from anybody, wanted three friends awake beside Him in the darkest hour He'd ever face. You don't get an exemption He turned down.
+
+:::break
+:::
+
+I've asked a lot of guys why that second line stays empty, and I've used most of their answers myself. "I'm fine." That's pride with a straight face. Nobody's fine. "I don't have time." You do, and nobody's asked you for a slice thin enough. "I don't want to be a burden." Under that there's often a boy who learned that needing people wasn't safe and decided he'd sink before he'd reach. "Men don't do this." For most of history they did, and when they quit, a slow, quiet dying set in that we decided to call independence. "I got burned." Some of you really did, and I'm sorry. But one bad meal is a thin reason never to eat again. "I've got my wife." Keep her close. She's called to know you, just never to be the only one, and carrying that by herself wears a woman down over the years. Ask her whether it has.
+
+David is on the run, a king hunting him, exhausted and hiding out in the woods. And somebody comes looking for him. Saul's own son Jonathan walks out to David at Horesh and helps him find his strength in God. Jonathan didn't bring an army, and he couldn't call off the hunt. The hunter was his own father. He walked out to Horesh regardless, and he pointed David back to God. That's the job. A brother can't fix your life. He can walk you back to the One who holds it.
+
+He also knows where you go when the day turns sour, whether that's anger or a screen or just going silent, and he asks about it. He doesn't steer around the locked rooms, the money, the marriage, the bedroom, whatever your eyes landed on this week, whether you've prayed. You tell him the truth because he asked. If the hospital calls at two in the morning, he's in the waiting room, because to him brother isn't a figure of speech. And when it's his turn, he tells you the truth, kindly, once, with no watered-down version. The Proverbs say iron sharpens iron, and one man sharpens another. Iron on iron throws sparks. Something he says is going to sting. You walk away with an edge. One man like that is plenty. Two, tops. He might send you to a counselor and still be your brother after. And the guy you have the most fun with isn't always the guy you can trust with the truth.
+
+Kenny found out what one man is worth the first year after his marriage ended. He was in a one-bedroom apartment with a mattress and a folding chair, and most of the friends had gone with the house. They'd mostly been hers, or the guys didn't know what to say. An older man from church started calling him once a week. Same time. He'd ask how things were, what was weighing on him, what Kenny planned to do before they talked again, and then he'd pray. Most weeks Kenny said "nothing." The man called again the next week anyway. These days, every Tuesday, Kenny calls his son. You can draw a line from that older man's phone to Kenny's. If you're divorced and your church has not known which row to put you in since, don't wait around for someone to fix the seating chart. You don't need a program. You need one man who calls.
+
+Most men want this. What they don't have is a version that fits the week they're actually living. Everything on offer is too big, a six a.m. breakfast, a group with workbooks, a weekend retreat. A guy with a newborn or a business going under looks at that, knows he can't, and does nothing. So shrink it. One man, twenty minutes, every week, on the same day at the same hour. The sameness matters, because a call you keep rescheduling eventually stops happening.
+
+You don't need a script, but you need a direction, or you'll be talking trucks and ball scores inside eleven minutes. Catch each other up on what actually mattered, not the highlight reel. Then get to the part that earns the call, what's heavy and the fear underneath it, while whoever's listening just listens, since fixing isn't tonight's job. Before you hang up, each of you says out loud one thing you'll do by next time, and next time that's the first thing you ask. Spend the last couple of minutes praying for each other, out loud. There'll be weeks when one of you is falling apart and the heavy part eats all twenty. Fine. That's why it's a floor, and the floor doesn't move. Twenty minutes fits inside April for an accountant, a double shift, a round of chemo, a funeral week. A dad with a newborn doesn't have thirty, which is why it's twenty. He can make the call with his hands in the dishwater. I've never known a guy who truly couldn't spare twenty. I've known lots who couldn't spare two hours, so they spared nothing.
+
+Look for someone who's mostly living what this book is about. He's probably already at your church or on your crew, and nobody's ever asked him anything real. A guy can share a kitchen with three roommates and still have nobody who knows him, so don't assume the one across the hall counts until you've asked. Skip your boss, anybody who reports to you, and your brother-in-law, because you need to say anything without a paycheck or a Thanksgiving riding on it. Then ask in plain English. "I'm working on growing up as a man, and I've realized nobody really knows me. Could we talk twenty minutes a week for three months and just see?" A three-month window makes yes easy, and makes stopping easy if it flops. Usually it doesn't. It'll be awkward, then it won't. He's been hoping somebody would ask. Men are lonely, and almost none of them will make the first move. You will. That's Go First, with a phone in your hand.
+
+:::break
+:::
+
+The man beside you is one half of it. The other half is the man ahead of you. When Travis was young, he had a theory that if you could catch a long-married man after church before he got to his truck, he could tell you how it was done in a sentence or two. One Sunday he tried it on Harlan, who'd been married longer than Travis had been alive. Travis caught him at his driver's door, and he still tells me he doesn't know where he got the nerve. Harlan studied him for a second, the way you size up a board before you cut it. Then he said, "Ride with me Saturday."
+
+So that Saturday Travis sat in the passenger seat of the truck Harlan hauled feed in and rode his whole route. Around noon Harlan pulled in for fuel and went to the pay phone. He called his wife and told her what town he was in and what time he'd be pulling into the driveway. Travis found out later he'd made that call every working day since they got married. Travis rode two more Saturdays. That cab taught him more about marriage than every sermon he'd sat through.
+
+There's a man somewhere around twenty years farther down your road. He's already been through what you're walking into, he's closer than you think, and both of you are probably waiting. The young man looks at the older guy and figures he's too busy, or that a man ought to figure out his own mess, or that going to somebody else admits the hole his dad left. The older man figures nobody wants an old man's opinion, or he's made so many mistakes he can't imagine anything in there worth handing on. So both wait, and boys grow into men with nobody a few miles ahead to tell them what the road does next. Nobody's going to pick you off the wall like a kid in gym class. Ask.
+
+Ask small. Don't open with the word mentor. It sounds like a job title, and an older man hears a promise he may not keep. Ask one narrow thing instead. What's kept your marriage together all these years? How did you know it was time to leave that job? If you got your kids' early years back, what would you do differently? What did the year after your divorce really cost you? Could I come watch you work sometime? If you're single, ask the marriage question before there's a ring, because a year of questions beats three years of learning by crashing. If there's a baby at your house, ask the early-years one now, while you can still use the answer. One question is a complete ask. If he hands you a pair of gloves, show up ready to be useful.
+
+You're looking for a man about two decades ahead who's living out what this book describes, unpolished. Not the most impressive guy in the building. Watch his wife while he talks. Thirty years with a faithful man and thirty years with a performance leave different marks on a woman's face. Be careful with the guy who only tells you about his wins. You're there for the scars, and for whatever his version of the noon phone call is. If no name comes to mind, you're looking too high. Maybe he's the deacon everybody thanks and nobody asks anything, or the retired guy who hangs around the hardware store counter a little longer than he needs to. If you're divorced, shame will tell you to skip this, and you need a man ahead as much as anyone. Then bring a real question every time, and try what he says, even once, and come back and tell him how it went. Plenty of older men have poured good advice into young men who nodded and changed nothing, and eventually they stopped pouring. Just don't ask him to be your dad. He can't fill the exact shape your father left. And thank him, out loud and specifically. Men his age can go years without hearing a sentence like that.
+
+About half of you reading this are the older man. In the middle years you face both ways, a man ahead you've never asked about the quiet house and a younger man behind you whose marriage is fraying. You're not finished. Even Paul, years into his ministry, wrote that he hadn't arrived and was still pressing on. The young man coming up doesn't need a clean record. He needs the truth about where you blew it, and the plain, everyday habits that held your house together anyway. Paul told Titus to encourage the young men to keep themselves under control, and to set them an example in everything by doing what's good. An example, with a few words alongside it, in an ordinary week. That's the whole plan. He probably won't come to you, so make yes easy. "I'm hanging a gate Saturday and could use a second set of hands, if you want to learn how." Once he's there, skip the speech. Ask, then be quiet. Tell him where you failed. When a young man hears somebody he respects admit he almost lost his marriage and that it was his own fault, something unlocks. Your scar is the lesson. If the badge or the hard hat is hanging on a hook now and the mornings are quiet, here's what they're for.
+
+Scripture pictures this as a chain. Moses went ahead of Joshua. Elijah went ahead of Elisha. Paul went ahead of Timothy, and he told Timothy to hand what he'd heard on to reliable men who could teach others after them. Four generations in one sentence. In a lot of churches and a lot of homes, the ends of that chain are just hanging loose. Your brother knows your trouble because he's standing in the same weather. The man ahead knows it because he walked out the other side and can tell you what's there. You need both, and one can't stand in for the other. That first summer turned into years of Saturdays in Harlan's truck. Hundreds of questions, Travis guesses, and a lot of the answers came as a downshift and a long look out the windshield. Harlan's been gone a while now. On Travis's wedding day he sat in the very last pew, and afterward he took Travis's hand and said, "Well. You paid attention." Somewhere down the road a man is waiting for your question. Ask it, and when he opens the passenger door, get in.
+
+:::break
+:::
+
+Dale has a brother now. It took him most of a year to ask. The man had been sitting a few pews over for twenty years, and in all that time they'd never had one real conversation. Now they talk Thursdays, on Dale's drive home. For the first month Dale was sure he'd signed up for the dumbest thing he'd ever done. Last spring he went in for a scheduled surgery and somebody handed him another clipboard. When he got to the second line, he didn't stop writing.
+
+Asking might be the most awkward sentence you'll ever say out loud, whether it's to the man beside you or the man ahead. But nearly every man who's said it gets some version of the same answer. "I was hoping somebody would ask." The Father who sets the lonely in families can give you the nerve to make the call, and put a brother within reach who shows up when it's bad. One man, twenty minutes, every week. Same hour, no matter what.
+
+## Your Turn
+
+**Name it**
+
+Fill in the line out loud. "If I fell tonight, I could call ___." Then write the name of a man about twenty years ahead of you whom you've never really asked anything. If the first line is blank, or the only name is your wife's, you know why this chapter found you.
+
+:::notes
+_______________________________________________
+_______________________________________________
+_______________________________________________
+:::
+
+**Do this week**
+
+Make one ask before Sunday. Tell a man nobody really knows you, and ask for twenty minutes a week for three months, with the day and the time settled before you hang up. Then put one honest question to the older man. Already the older man? Make it easy for one younger guy to say yes this week.
+
+:::notes
+_______________________________________________
+_______________________________________________
+_______________________________________________
+:::
+
+**Tell a brother**
+
+The brother you'd tell might not exist yet. If he does, show him the twenty minutes and start this week. If he doesn't, the ask is your whole assignment. Awkward is a good sign. It means you picked the right sentence.
+
+:::notes
+_______________________________________________
+_______________________________________________
+_______________________________________________
+:::
+
+**Carry this**
+
+One man, twenty minutes, every week. Same hour, no matter what.

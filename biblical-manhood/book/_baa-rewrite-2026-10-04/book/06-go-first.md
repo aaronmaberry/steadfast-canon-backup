@@ -1,0 +1,78 @@
+# 6. Go First
+
+:::epigraph
+When he has brought out all his own, he goes on ahead of them, and his sheep follow him because they know his voice.
+John 10:4
+:::
+
+Sometime after midnight a storm laid an old oak down across a residential street. By sunrise the root ball stood taller than a mailbox and the branches were sprawled over a neighbor's lawn. No power. One by one, people came to their front windows, looked at the tree, looked at the other houses, and you could almost hear everybody doing the same arithmetic. Who's going to handle this? For a good while, nobody. Every house cared, but caring had come loose from moving. Behind every curtain somebody was thinking that tree needs a man who knows a saw, and he's probably somebody else.
+
+Then a front door opened. One guy, sweatpants and an old coat, work gloves, a chainsaw. He didn't call a meeting on the lawn. He walked out to the trunk and started studying where to cut. For a long minute he had the street to himself. Then a second door. Fifteen minutes later there were six men, two saws, a truck at the curb, and coffee on a camp stove for the crew. That street had never been short on tools. It had been short on a door.
+
+I know the view from behind that glass. I've handed the job to a more experienced guy in my head and stayed put. This chapter is about the third of the four marks, Go First. Say leader and most men picture a title, the loud voice in the meeting, which gives us permission to stay inside. Going first is smaller and harder. It's the one man who moves while the block is still deciding, walking the open ground so everyone behind him has somewhere to go. It's what Jesus said a shepherd does. He brings His own sheep out and goes on ahead of them, and they follow because they know His voice. The flock isn't following an org chart. They follow a voice they trust, and that voice is already out in front.
+
+Before we get to you, look at Him. The letter to the Hebrews calls Jesus the pioneer of our faith, the man who goes into the hardest country first and cuts a trail the rest can walk. Jesus did that at the cross, alone, His friends scattered. And the writer tells you what pulled Him forward. For the joy set out ahead of Him, he says, Jesus endured the cross and thought nothing of its shame, and then He sat down beside His Father's throne. Joy, waiting at the end of a long road like a porch light. That's why Go First can't run on nerve. Nerve is a small tank, usually dry by the second door. What keeps a man moving is knowing what's waiting on the far side, and who. You don't go first to get God to take you in. If you belong to Christ, you're already His son. You step out because the One out ahead is trustworthy, and whatever it costs will turn out to be worth it.
+
+:::break
+:::
+
+He didn't only go first at the cross. He did it on an ordinary evening, with dirty feet. In the upper room, washing feet was the lowest job in the house, and all twelve were quietly hoping someone else would get stuck with it. Jesus tied a towel on, filled a basin, and got down on the floor. Afterward He explained. If their Lord and Teacher had washed their feet, they ought to wash each other's. He had given them an example, and they were to do what He'd done. Teaching humility from a chair would have cost Him less. He did the dirty job first and then said, your turn.
+
+Centuries before, Gideon stood over a sleeping army with three hundred men and gave them one order. "Watch me," he told them. Follow my lead, and when I get to the edge of the camp, do exactly what I do. Two words, most of what leadership is, and the reason so few of us volunteer. A podium protects you. Out front, nothing does. You're first into the cold creek. Guess wrong and everybody sees. If nobody follows, you're out there holding a plan by yourself. You go anyway, with the order and no guarantee.
+
+Most of the doors are closer and smaller than a tree in the road. Saying you're sorry, early and clean, is one. "I'm sorry I raised my voice." Period. Tack on "but you always" and the apology becomes a court case. I've done that and called the cease-fire peace. She hears the "but" coming before you get there. Divorced? Give your kids' mom the most honest apology you've got, and leave what she does with it to her. Praying out loud at supper is another. In a lot of homes the plates hit the table, there's a silence everybody understands, and the eyes drift to one chair. I've prayed for strangers without a flinch and gone mute in front of my own family. With a newborn, start over the crib, out loud, and again tomorrow.
+
+Naming the mess is a door too. Nehemiah walked the ruined wall alone in the dark first. Then he got everyone together and said out loud what all of them could see. You see the trouble we're in, he told them. The city's in ruins and the gates are burned, so come on, let's rebuild the wall. At your place it might be this. We haven't been to church in months. We're behind on the truck. Our son is drinking and we've all agreed to pretend he isn't. You can't rebuild what you won't name. Left unnamed, it turns into scenery.
+
+Then there's the first move in a cold marriage, where two people stand frozen, each waiting on the other. Go. Maybe she's more at fault this time. You're still the one called to move. That kitchen is twelve feet across and can feel like a mile. I've stood on my side and let the mile win. And there's pointing by walking. Nehemiah said "come" on his way to the wall. When a man decides his household is going to worship this Sunday, he doesn't give a speech. He's in the truck with it running while the kids are still looking for shoes. Single, you say Sunday matters and offer a buddy the ride.
+
+:::break
+:::
+
+A few fears keep the door shut, and I've fed every one. Looking stupid is the first. The prayer comes out clumsy, the apology sounds scripted, you reach the trunk and can't tell where to cut. Rejection is the next. You turn toward her and she stays turned away. Your son shrugs and shuts his door. Being wrong is another, so we pick nothing and call it humility. And then there's the cost, which is not imaginary. The first man out loses his morning. The first man to apologize loses the argument. Going first always gets the bill first.
+
+The Bible is honest about fear. It just never says to wait until it's gone. Paul wrote to Timothy, a young man with every reason to hang back, that the Spirit God gives us doesn't make us timid. He gives power, and love, and a mind that can govern itself. Scared and frozen is timidity. Scared and walking is courage. The man heading for that oak with his pulse in his ears isn't missing anything.
+
+Here's what changes the whole street. When Moses handed leadership to Joshua, there was a river ahead and fortified cities past it. Moses didn't say toughen up. He said who was already out ahead. The Lord Himself goes before you, he told Joshua. He'll be with you, and He won't leave you or forsake you, so don't be afraid. Every door you open, He opened first. Every hard conversation at your table, you're walking into a room He's already in. So you're never actually first. You're second in line. It still costs. But He's already out on the road, and He isn't heading back in.
+
+So have one sentence ready, not the whole conversation. Men who rehearse every line usually never say any of it. I know that stall. "I was wrong." "Can I pray for us?" "Son, I've noticed something." After that first sentence, the people in the room will carry more of it than you expect. Practice in small rooms. Wanting to lead the men's ministry while mute at your own table is backward. A man can run a team of forty and still be the last one to move in his own living room, because managing well and going first are different muscles. The truck, the kitchen, the group text with three close friends. Big rooms are made of small ones.
+
+Ask instead of announce. "What's this year of being married to me really been like?" Then wait. Not married? Ask a friend what's on him that you never asked about. A silent teenager gets one real question in the car. Older? Cross the lobby to the young guy, because he won't cross it first. And expect a gap. You go out, and for maybe eight seconds nobody else does. Most of us retreat at about four. The gap is just what first feels like. Stay.
+
+Storms are rare. Dinner is tonight. Nobody needs you to be the bravest man on the block. Open the door with your heart still banging, say your first sentence, and let the quiet after it be held for you until you hear a second door open. You won't be the first one out. He went out ahead of you. Your number is second.
+
+## Your Turn
+
+**Name it**
+
+Where in your life is everyone watching and nobody moving? That room is yours. Write down the room, who's in it, and what has to happen first.
+
+:::notes
+_______________________________________________
+_______________________________________________
+_______________________________________________
+:::
+
+**Do this week**
+
+Pick one door this week. Pray out loud at the table, or apologize without the "but you," or name the mess to the people living in it. On your own, say Sunday and drive, or cross the lobby to a younger man. The second door is always easier than the first.
+
+:::notes
+_______________________________________________
+_______________________________________________
+_______________________________________________
+:::
+
+**Tell a brother**
+
+Tell one man your first line before you say it. Then tell him how it went, gap and all. Once he's heard the plan, backing out gets harder.
+
+:::notes
+_______________________________________________
+_______________________________________________
+_______________________________________________
+:::
+
+**Carry this**
+
+He went out ahead of you. Your number is second.

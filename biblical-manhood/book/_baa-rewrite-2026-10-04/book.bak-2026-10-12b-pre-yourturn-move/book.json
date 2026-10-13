@@ -1,0 +1,104 @@
+{
+  "layout": "baa",
+  "note": "B-A-A rewrite 2026-10-04 (Aaron approved 28 chapters). Read by book/tools/make_ebook_pdf.py load_manifest().",
+  "chapters": [
+    "01-a-quiet-tuesday.md",
+    "02-you-are-not-crazy.md",
+    "03-the-four-marks.md",
+    "04-stop-waiting.md",
+    "05-pick-up-the-weight.md",
+    "06-go-first.md",
+    "07-work-for-gods-pay.md",
+    "08-the-empty-chair.md",
+    "09-anger-the-itch-and-the-drift.md",
+    "10-the-father-who-does-not-leave.md",
+    "11-when-home-never-handed-you-off.md",
+    "12-a-man-with-no-brothers.md",
+    "13-the-problem-inside.md",
+    "14-no-fixed-star.md",
+    "15-two-men-two-ways.md",
+    "16-destiny-is-not-a-vibe.md",
+    "17-if-there-is-no-wife-yet.md",
+    "18-know-her.md",
+    "19-lay-it-down.md",
+    "20-the-bed-is-a-covenant.md",
+    "21-your-daughter-is-watching.md",
+    "22-give-your-son-a-name-a-hill-and-a-day.md",
+    "23-you-were-made-for-a-work.md",
+    "24-feelings-are-the-dash-not-the-wheel.md",
+    "25-every-season-still-counts.md",
+    "26-what-you-are-building-when-nobody-claps.md",
+    "27-write-the-next-move.md",
+    "28-these-men-are-my-brothers.md"
+  ],
+  "parts": {
+    "1": [
+      "PART ONE",
+      "The Man You Were Built to Be"
+    ],
+    "8": [
+      "PART TWO",
+      "What You Inherited, and What Is Yours"
+    ],
+    "15": [
+      "PART THREE",
+      "The Story That Names You"
+    ],
+    "17": [
+      "PART FOUR",
+      "The House"
+    ],
+    "23": [
+      "PART FIVE",
+      "The Long Road"
+    ]
+  },
+  "figures": {
+    "3": "03-four-marks.png",
+    "27": "/workspace/biblical-manhood/book/_baa-rewrite-2026-10-04/art/27-man-plan.png"
+  },
+  "fig3_chapter": 3,
+  "manplan_chapter": 27,
+  "back_matter": [
+    [
+      "Your Turn",
+      "38-your-turn.md",
+      "yourturn"
+    ],
+    [
+      "Condensed Training",
+      "37-condensed-training.md",
+      "section"
+    ],
+    [
+      "Small-Group Guide",
+      "40-small-group-guide.md",
+      "section"
+    ],
+    [
+      "Twenty Minutes a Week",
+      "42-twenty-minutes.md",
+      "section"
+    ],
+    [
+      "Eight-Week Reading Plan",
+      "41-reading-plan.md",
+      "section"
+    ],
+    [
+      "Prayers for the Road",
+      "43-prayers.md",
+      "section"
+    ],
+    [
+      "Scripture Notes",
+      "39-scripture-notes.md",
+      "notes"
+    ],
+    [
+      "About the Author",
+      "36-about-the-author.md",
+      "section"
+    ]
+  ]
+}

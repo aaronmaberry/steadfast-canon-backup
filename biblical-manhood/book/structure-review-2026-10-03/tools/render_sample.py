@@ -1,6 +1,11 @@
 #!/usr/bin/env python3
 """Typeset the ch10 sample (and its back-of-book pages) in the 03d house style via headless Chrome."""
 import re, subprocess, html
+import pyphen
+HY = pyphen.Pyphen(lang='en_US', left=3, right=3)
+def shy(t):
+    # soft hyphens in long lowercase words only (no names), so justified lines stay even
+    return re.sub(r"(?<![&\w])([a-z]{7,})(?![\w;])", lambda m: HY.inserted(m.group(1), hyphen='\u00ad'), t)
 from pathlib import Path
 R = Path(__file__).resolve().parent.parent
 S = R / "sample"; OUT = R / "build"; OUT.mkdir(exist_ok=True)
@@ -39,31 +44,32 @@ CSS = f"""
   @bottom-right {{ content: "RUNHEAD"; font: italic 7.5pt Gara; color: #A8A49A; }} }}
 html {{ counter-reset: page FOLIO0; -webkit-print-color-adjust: exact; print-color-adjust: exact; background: #E6DDCC; }}
 body {{ margin: 0; font-family: Gara; font-size: 10.5pt; line-height: 14.4pt; color: #161C24; }}
-p {{ margin: 0 0 3.2pt 0; text-indent: 1.35em; break-inside: auto; orphans: 2; widows: 2; }}
+p {{ margin: 0; text-indent: 1.2em; text-align: justify; hyphens: manual; break-inside: auto; orphans: 2; widows: 2; }}
+.rule + p, .epi + p, .brk + p {{ text-indent: 0; }}
 .mark {{ width: 0.42in; display: block; margin: 0.22in 0 10pt 0; }}
 .chap {{ font: bold 8pt Libre; letter-spacing: 2.4pt; color: #134E4A; margin: 6pt 0 12pt 0; }}
 h1 {{ font: bold 20pt/24pt Play; color: #0B1F38; margin: 0 0 6pt 0; }}
 .rule {{ width: 42pt; height: 2.2pt; background: #134E4A; margin: 0 0 16pt 0; }}
-.epi {{ margin: 0 0.35in 18pt 0.35in; font: italic 9.5pt/12.6pt Gara; color: #464E58; }}
+.epi {{ margin: 0 0.35in 14.4pt 0.35in; font: italic 9.5pt/12.6pt Gara; color: #464E58; }}
 .epi .ref {{ display: block; font: 500 7pt Libre; letter-spacing: 1.4pt; text-transform: uppercase; color: #134E4A; margin-top: 4pt; font-style: normal; }}
-.brk {{ text-align: center; margin: 9pt 0 10pt 0; color: #134E4A; font-size: 9pt; letter-spacing: 6pt; }}
-.brk + p {{ text-indent: 0; }}
+.brk {{ height: 28.8pt; display: flex; align-items: center; justify-content: center; break-inside: avoid; break-after: avoid; }}
+.brk span {{ display: block; width: 4.2pt; height: 4.2pt; background: #134E4A; transform: rotate(45deg); }}
 .backhead {{ font: bold 8pt Libre; letter-spacing: 2.4pt; color: #134E4A; margin: 0.1in 0 6pt 0; }}
 h2 {{ font: 500 11pt/14pt Libre; color: #0B1F38; margin: 2pt 0 10pt 0; }}
 .box {{ background: #F4EFE4; border: 0.6pt solid #C0B8A8; border-radius: 3pt; padding: 12pt 14pt 0 18pt; position: relative; margin-left: 6pt; }}
 .box:before {{ content: ""; position: absolute; left: -6pt; top: -4pt; bottom: -14pt; width: 2.4pt; background: #2C2924; }}
 .lab {{ font: bold 7.5pt Libre; letter-spacing: 2pt; text-transform: uppercase; color: #7A4A32; margin: 10pt 0 5pt 0; }}
-.box p {{ text-indent: 0; font-size: 9.6pt; line-height: 12.8pt; }}
+.box p {{ text-indent: 0; text-align: left; font-size: 9.6pt; line-height: 12.8pt; }}
 .lines {{ border-top: 0.6pt solid #C0B8A8; height: 13pt; }} .lines + .lines {{ }}
 .carry {{ background: #ECE4D4; margin: 12pt -14pt 0 -18pt; padding: 1pt 14pt 12pt 18pt; }}
 .carry p {{ font: italic 12pt/15pt Gara; }}
-.note {{ text-indent: 0; margin: 0 0 5pt 0; font-size: 9.6pt; line-height: 12.6pt; padding-left: 1em; text-indent: -1em; }}
+.note {{ text-align: left; margin: 0 0 5pt 0; font-size: 9.6pt; line-height: 12.6pt; padding-left: 1em; text-indent: -1em; }}
 .tag {{ font: 500 6.5pt Libre; letter-spacing: 1.6pt; color: #7A4A32; text-transform: uppercase; margin-bottom: 8pt; }}
 """
 
 def page_doc(body, runhead, folio0):
     css = CSS.replace("RUNHEAD", runhead).replace("FOLIO0", str(folio0))
-    return f"<!doctype html><html><head><meta charset='utf-8'><style>{css}</style></head><body>{body}</body></html>"
+    return f"<!doctype html><html lang='en-US'><head><meta charset='utf-8'><style>{css}</style></head><body>{body}</body></html>"
 
 def chapter_html(md):
     lines = md.strip().split("\n")
@@ -77,9 +83,9 @@ def chapter_html(md):
             body = b.split("\n")[1:-1]
             out.append(f"<div class='epi'>{inline(' '.join(body[:-1]))}<span class='ref'>{inline(body[-1])}</span></div>")
         elif b.startswith(":::break"):
-            out.append("<div class='brk'>&#9670;&#9670;&#9670;</div>".replace("&#9670;&#9670;&#9670;", "·&nbsp;·&nbsp;·"))
+            out.append("<div class='brk'><span></span></div>")
         else:
-            out.append(f"<p>{inline(' '.join(b.split()))}</p>")
+            out.append(f"<p>{shy(inline(' '.join(b.split())))}</p>")
     return title, "\n".join(out)
 
 def yourturn_html(md):

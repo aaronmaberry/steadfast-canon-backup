@@ -62,13 +62,15 @@ def split_margins(text: str) -> tuple[str, list[str]]:
     """Return (prose with margin blocks removed, list of margin verse texts)."""
     verses, prose_lines, inside, cur = [], [], False, []
     for ln in text.splitlines():
-        if ln.startswith(":::margin"):
+        if ln.startswith(":::margin") or ln.startswith(":::epigraph"):
             inside, cur = True, []
             continue
         if inside:
             if ln.startswith(":::"):
                 inside = False
                 verses.append(" ".join(x.strip() for x in cur if x.strip() and not (x.startswith("**") and "NIV" in x)))
+                if verses and cur and ln.startswith(":::") and cur[-1].strip() and re.match(r"^[1-3]?\s?[A-Z][a-z]+ \d+:\d", cur[-1].strip()):
+                    verses[-1] = " ".join(x.strip() for x in cur[:-1] if x.strip())  # epigraph: drop the reference line
             else:
                 cur.append(ln)
             continue
@@ -119,15 +121,18 @@ def main() -> int:
     m.BOOK, m.ART, m.PRESS, m.FONTS = book, art, press, fonts
     m.FIGURES = {3: art / "03-four-marks.png", 34: art / "34-man-plan.png"}
     m.OUT, m.BUILD = out, build
+    manifest = m.load_manifest()  # B-A-A (2026-10-04): book.json repoints chapters, parts, figures, back matter
+    if manifest:
+        print(f"MANIFEST layout={m.LAYOUT} chapters={len(m.CHAPTER_FILES)} back={[b[1] for b in m.BACK_MATTER]}")
     print(f"BOOK {m.BOOK}\nART {m.ART}\nPRESS {m.PRESS}\nFONTS {m.FONTS}\nOUT {m.OUT}")
 
     ck = Checks()
     print("PREFLIGHT")
     need = ["00-copyright.md", "00-dedication.md", "00-contents.md", "00-introduction.md",
-            "36-about-the-author.md", "37-condensed-training.md", *m.CHAPTER_FILES]
+            *[b[1] for b in m.BACK_MATTER], *m.CHAPTER_FILES]
     missing = [f for f in need if not (book / f).exists()]
     ck.ok(not missing, "manuscript files present (CHAPTER_FILES + front/back matter)", ", ".join(missing))
-    for p in [m.FIGURES[3], m.FIGURES[34], press / "a-wrap.png", art / "opener-mark.png"]:
+    for p in [*m.FIGURES.values(), press / "a-wrap.png", art / "opener-mark.png"]:
         ck.ok(p.exists(), f"art present: {p.name}")
     front = press / "cloth-store" / "cover-front-walksteadfast-locked-2026-09-14.png"
     ck.ok(front.exists() and sha(front) == LOCKED_FRONT_SHA, "locked front cover unchanged (sha256)")
@@ -149,8 +154,9 @@ def main() -> int:
     spaced_dash = [v[:60] for v in verse_dash_texts if re.search(r"\s\u2014|\u2014\s", v)]
     ck.ok(not spaced_dash, "NIV em dashes are closed (no space beside them; NIV style)",
           " | ".join(spaced_dash[:3]))
-    h1_7 = (book / m.CHAPTER_FILES[6]).read_text(encoding="utf-8").splitlines()[0]
-    ck.ok(h1_7.strip() == f"# 7. {CH7_TITLE}", "ch7 H1 is '# 7. Work for God's Pay'", h1_7, warn=True)
+    if len(m.CHAPTER_FILES) >= 7:
+        h1_7 = (book / m.CHAPTER_FILES[6]).read_text(encoding="utf-8").splitlines()[0]
+        ck.ok(h1_7.strip() == f"# 7. {CH7_TITLE}", "ch7 H1 is '# 7. Work for God's Pay'", h1_7, warn=True)
 
     # ---- instrument the binder (no binder edits): page of each image, folio of each page ----
     events = {"images": [], "folios": {}}

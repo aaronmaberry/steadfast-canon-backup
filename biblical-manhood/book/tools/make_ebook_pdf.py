@@ -8,6 +8,7 @@ import json
 import os
 import re
 import shutil
+import sys
 import uuid
 from pathlib import Path
 
@@ -16,6 +17,12 @@ from reportlab.lib.units import inch
 from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
 from reportlab.pdfgen import canvas
+
+try:  # B-A-A typesetting (2026-10-04): soft hyphenation for justified body text
+    import pyphen
+    _HY = pyphen.Pyphen(lang="en_US", left=3, right=3)
+except Exception:  # pragma: no cover
+    _HY = None
 
 BOOK = Path("/workspace/biblical-manhood/book")
 ART = BOOK / "art"
@@ -139,6 +146,51 @@ FIG3_TRIGGERS = (
     "A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay",
     "Passivity. Responsibility. Courage. Reward.",  # pre-2026-10-01 manuscripts
 )
+
+
+# ---------------------------------------------------------------------------------------------
+# B-A-A layout (Aaron, 2026-10-04). A manuscript folder that carries `book.json` with
+# "layout": "baa" gets the approved ch10-sample v2 typesetting:
+#   - one NIV anchor verse (:::epigraph) under each chapter title; no verse boxes in the body
+#   - paragraphs: first-line indent 1.2em, NO space between paragraphs, justified with light
+#     pyphen hyphenation (lowercase words of 7+ letters, 3+3 letters, never two hyphens running
+#     past two lines), widows/orphans 2
+#   - no indent on the first paragraph after the title rule, the epigraph, a figure, or a break
+#   - :::break = exactly two body lines (28.8 pt) with a small centered teal diamond
+#   - Your Turn moves to a back-of-book section, one page per chapter (typeset closer_box)
+#   - Scripture notes at the back, keyed by phrase
+# Without book.json the binder behaves exactly as it did for 03d (classic layout).
+# ---------------------------------------------------------------------------------------------
+LAYOUT = "classic"
+BACK_MATTER = [
+    ("About the Author", "36-about-the-author.md", "section"),
+    ("Condensed Training", "37-condensed-training.md", "section"),
+]
+FIG3_CHAPTER = 3
+MANPLAN_CHAPTER = 34
+PARA_INDENT = 1.2 * 10.5  # 1.2em at BODY_SIZE
+CONTENTS_NOTE_PREFIXES = ("Every chapter ends", "Each chapter")
+
+
+def load_manifest() -> dict:
+    """Read BOOK/book.json (if present) and repoint chapter list, parts, figures, back matter."""
+    global LAYOUT, CHAPTER_FILES, PARTS, BACK_MATTER, FIG3_CHAPTER, MANPLAN_CHAPTER, FIGURES
+    mf = BOOK / "book.json"
+    if not mf.exists():
+        return {}
+    data = json.loads(mf.read_text(encoding="utf-8"))
+    LAYOUT = data.get("layout", "classic")
+    if data.get("chapters"):
+        CHAPTER_FILES = list(data["chapters"])
+    if data.get("parts"):
+        PARTS = {int(k): tuple(v) for k, v in data["parts"].items()}
+    if data.get("back_matter"):
+        BACK_MATTER = [tuple(x) for x in data["back_matter"]]
+    if data.get("figures"):
+        FIGURES = {int(k): ART / v for k, v in data["figures"].items()}
+    FIG3_CHAPTER = int(data.get("fig3_chapter", FIG3_CHAPTER))
+    MANPLAN_CHAPTER = int(data.get("manplan_chapter", MANPLAN_CHAPTER))
+    return data
 
 
 def no_em(s: str) -> str:
@@ -330,7 +382,7 @@ def parse_closer_sections(lines: list[str]) -> list[dict]:
                 else:
                     prompts.append(smart_quotes(clean_inline_md(nl)))
             if rules:
-                current["write_in"] = min(2, max(1, rules))
+                current["write_in"] = min(3, max(1, rules))  # 2026-10-04: Your Turn pages may carry 3
             elif prompts:
                 # prompt-only notes: still offer one write-in line
                 current["write_in"] = 1
@@ -403,6 +455,28 @@ def parse_md(path: Path) -> tuple[str, int, list[dict]]:
 
     while i < len(lines):
         line = lines[i]
+        if line.startswith(":::epigraph"):
+            flush()
+            i += 1
+            elines: list[str] = []
+            while i < len(lines) and not lines[i].startswith(":::"):
+                if lines[i].strip():
+                    elines.append(lines[i].strip())
+                i += 1
+            i += 1
+            # NIV anchor verse: verbatim, NO no_em(). Last line is the reference.
+            cite = elines[-1] if len(elines) > 1 else ""
+            body = elines[:-1] if len(elines) > 1 else elines
+            blocks.append({"type": "epigraph", "cite": smart_quotes(cite), "text": smart_quotes(" ".join(body)), "verse": True})
+            continue
+        if line.startswith(":::break"):
+            flush()
+            i += 1
+            while i < len(lines) and not lines[i].startswith(":::"):
+                i += 1
+            i += 1
+            blocks.append({"type": "break"})
+            continue
         if line.startswith(":::margin"):
             flush()
             i += 1
@@ -622,6 +696,133 @@ class Ebook:
             self.c.drawString(x, self.y - size, line)
             self.y -= leading
         self.y -= leading * after
+
+    # ----- B-A-A body typesetting (2026-10-04) -----
+    def _hyph_split(self, word: str, room: float, font: str, size: float):
+        """Split `word` so its head (with a hyphen) fits in `room`. Lowercase words only."""
+        sw = lambda t: self.c.stringWidth(t, font, size)  # noqa: E731
+        m = re.fullmatch(r"([a-z]+)-([a-z][a-z\-]*[a-z])([.,;:!?)\u2019\u201d'\"]*)", word)
+        if m and sw(m.group(1) + "-") <= room:  # existing compound hyphen
+            return m.group(1) + "-", m.group(2) + m.group(3)
+        m = re.fullmatch(r"([a-z]{7,})([.,;:!?)\u2019\u201d'\"]*)", word)
+        if not m or _HY is None:
+            return None
+        core, trail = m.group(1), m.group(2)
+        for pos in sorted(_HY.positions(core), reverse=True):
+            if sw(core[:pos] + "-") <= room:
+                return core[:pos] + "-", core[pos:] + trail
+        return None
+
+    def _set_lines(self, text: str, font: str, size: float, first_indent: float) -> list[list[str]]:
+        sw = lambda t: self.c.stringWidth(t, font, size)  # noqa: E731
+        sp = sw(" ")
+        words = text.split()
+        lines: list[list[str]] = []
+        cur: list[str] = []
+        hy_run = 0
+        width = lambda ws: sum(sw(w) for w in ws) + sp * max(0, len(ws) - 1)  # noqa: E731
+        i = 0
+        while i < len(words):
+            w = words[i]
+            limit = self.measure - (first_indent if not lines else 0)
+            if not cur or width(cur + [w]) <= limit:
+                cur.append(w)
+                i += 1
+                continue
+            slack = limit - width(cur)
+            piece = None
+            if slack > 2.2 * sp and hy_run < 2:
+                piece = self._hyph_split(w, slack - sp, font, size)
+            if piece:
+                cur.append(piece[0])
+                words[i] = piece[1]
+                hy_run += 1
+            else:
+                hy_run = 0
+            lines.append(cur)
+            cur = []
+        if cur:
+            lines.append(cur)
+        return lines
+
+    def para_baa(self, text: str, *, font: str = "EBGaramond", size: float = BODY_SIZE,
+                 leading: float = BODY_LEADING, color=INK) -> None:
+        text = clean_inline_md(text)
+        if not text:
+            return
+        indent = 0.0 if getattr(self, "_noindent", False) else PARA_INDENT
+        self._noindent = False
+        lines = self._set_lines(text, font, size, indent)
+        n, idx = len(lines), 0
+        sp = self.c.stringWidth(" ", font, size)
+        while idx < n:
+            k = int((self.y - (BOTTOM + 14) + 0.01) // leading)
+            rem = n - idx
+            if k <= 0:
+                self.advance()
+                continue
+            if rem <= k:
+                take = rem
+            elif k == 1:  # orphan: never leave one line of a paragraph at a page foot
+                self.advance()
+                continue
+            elif rem - k == 1:  # widow: never carry one line to the next page
+                if k >= 3:
+                    take = k - 1
+                else:
+                    self.advance()
+                    continue
+            else:
+                take = k
+            for j in range(idx, idx + take):
+                ws = lines[j]
+                x = self.left + (indent if j == 0 else 0)
+                avail = self.right - x
+                last = j == n - 1
+                nat = sum(self.c.stringWidth(w, font, size) for w in ws)
+                gap = sp if (last or len(ws) < 2) else (avail - nat) / (len(ws) - 1)
+                if not last and gap > 3.2 * sp:  # pathological loose line: set ragged
+                    gap = sp
+                self.c.setFillColorRGB(*color)
+                self.c.setFont(font, size)
+                for w in ws:
+                    self.c.drawString(x, self.y - size, w)
+                    x += self.c.stringWidth(w, font, size) + gap
+                self.y -= leading
+            idx += take
+            if idx < n:
+                self.advance()
+
+    def section_break(self) -> None:
+        """Quiet break: exactly two body lines with a small centered teal diamond."""
+        if self.y - 4 * BODY_LEADING < BOTTOM + 14:  # keep two text lines under the ornament
+            self.advance()
+        cx = (self.left + self.right) / 2
+        cy = self.y - BODY_LEADING + 2.6  # optical centre of the two-line slot (x-height)
+        r = 2.6
+        self.c.setFillColorRGB(*ACCENT)
+        pth = self.c.beginPath()
+        pth.moveTo(cx, cy + r); pth.lineTo(cx + r, cy); pth.lineTo(cx, cy - r); pth.lineTo(cx - r, cy); pth.close()
+        self.c.drawPath(pth, fill=1, stroke=0)
+        self.y -= 2 * BODY_LEADING
+        self._noindent = True
+
+    def epigraph(self, cite: str, text: str) -> None:
+        """Chapter anchor verse (NIV, verbatim) under the title rule."""
+        inset = 0.35 * inch
+        width = self.measure - 2 * inset
+        lines = self.wrap(text, "EBGaramond-Italic", 9.5, width)
+        self.c.setFillColorRGB(*INK_SOFT)
+        for ln in lines:
+            self.c.setFont("EBGaramond-Italic", 9.5)
+            self.c.drawString(self.left + inset, self.y - 9.5, ln)
+            self.y -= 12.6
+        if cite:
+            self.y -= 4
+            self.tracked(no_em(cite.upper()), self.left + inset, self.y - 7, "Libre-Medium", 7, ACCENT, 1.4)
+            self.y -= 9
+        self.y -= BODY_LEADING
+        self._noindent = True
 
     def margin_block(self, cite: str, text: str) -> None:
         pad = 8
@@ -1018,7 +1219,7 @@ class Ebook:
                 self.c.drawString(self.left, self.y - 10, label)
                 self.y -= 18
                 continue
-            if label.startswith("Every chapter ends"):
+            if label.startswith(CONTENTS_NOTE_PREFIXES):
                 self.ensure(28)
                 self.y -= 8
                 self.c.setFillColorRGB(*INK_SOFT)
@@ -1074,8 +1275,15 @@ class Ebook:
         self.c.setFillColorRGB(*ACCENT)
         self.c.rect(self.left, self.y, 42, 2.2, fill=1, stroke=0)
         self.y -= 18
+        self._noindent = True
         for block in blocks:
-            if block["type"] == "margin":
+            if block["type"] == "epigraph":
+                self.epigraph(block["cite"], block["text"])
+            elif block["type"] == "break":
+                self.section_break()
+            elif block["type"] == "p" and LAYOUT == "baa":
+                self.para_baa(block["text"])
+            elif block["type"] == "margin":
                 self.margin_block(block["cite"], block["text"])
             elif block["type"] == "h2":
                 self.heading(block["text"], level=2)
@@ -1095,15 +1303,7 @@ class Ebook:
         if not self.on_recto and _force_recto("section"):
             self.advance()
         self.page_map[title] = self.folio
-        self.tracked(label.upper(), self.left, self.y - 8, "Libre-Bold", 8, ACCENT, 2.4)
-        self.y -= 28
-        self.c.setFillColorRGB(*NAVY)
-        self.c.setFont("Playfair-Bold", TITLE_SIZE)
-        self.c.drawString(self.left, self.y - TITLE_SIZE, no_em(title))
-        self.y -= TITLE_SIZE + 8
-        self.c.setFillColorRGB(*ACCENT)
-        self.c.rect(self.left, self.y, 42, 2.2, fill=1, stroke=0)
-        self.y -= 18
+        self._section_head(label, title)
         for block in blocks:
             if block["type"] == "h2":
                 self.heading(block["text"], level=2)
@@ -1121,6 +1321,9 @@ class Ebook:
             if re.match(r"^(\d+\.|[-*])\s+", clean):
                 clean = re.sub(r"^[-*]\s+", "\u2022 ", clean)  # bullet glyph, not a hyphen
                 self.para(clean, indent=0, size=10, leading=13, after=0.08)
+                self._noindent = True
+            elif LAYOUT == "baa":
+                self.para_baa(clean)
             else:
                 self.para(clean)
 
@@ -1181,6 +1384,7 @@ class Ebook:
         self.c.setFillColorRGB(*ACCENT)
         self.c.rect(self.left, self.y, 42, 2.2, fill=1, stroke=0)
         self.y -= 18
+        self._noindent = True
 
 
     def closer_art(self, num: int) -> None:
@@ -1195,7 +1399,15 @@ class Ebook:
         if num == 35:
             self.closer_35 = True
 
-    def closer_box(self, num: int, lines: list[str]) -> None:
+    def closer_box(
+        self,
+        num: int,
+        lines: list[str],
+        body_size: float = 10,
+        body_leading: float = 13,
+        max_write: int = 3,
+        measure_only: bool = False,
+    ) -> float:
         """Gold-standard Your Turn closer for EVERY chapter (typeset, not PNG).
 
         Layout: light bone panel, dark left rail + ticks, header `NN · YOUR TURN`,
@@ -1205,7 +1417,7 @@ class Ebook:
         """
         sections = parse_closer_sections(lines)
         if not sections:
-            return
+            return 0.0
 
         pad_x = 12
         pad_t = 14
@@ -1214,8 +1426,6 @@ class Ebook:
         rail_inset = 8
         tick_w = 7
         label_size = 8
-        body_size = 10
-        body_leading = 13
         carry_size = 12
         carry_leading = 15
         header_size = 8.5
@@ -1243,7 +1453,7 @@ class Ebook:
             body_h = lead * len(body_lines)
             h += body_h
             prompt_h = 0
-            write_n = 0 if is_carry else int(sec.get("write_in") or 0)
+            write_n = 0 if is_carry else min(max_write, int(sec.get("write_in") or 0))
             if sec.get("prompt") and not is_carry:
                 prompt_h = 12
                 h += 6 + prompt_h
@@ -1265,6 +1475,8 @@ class Ebook:
             if i < len(sections) - 1:
                 h += rule_gap + 1 + section_gap
         h += pad_b
+        if measure_only:
+            return h
 
         # Prefer keeping the whole box on one page
         if self.y - h < BOTTOM + 18:
@@ -1370,7 +1582,7 @@ class Ebook:
         fig_done = False
         for block in blocks:
             if block["type"] == "closer":
-                if num == 34 and fig and not fig_done:
+                if num == MANPLAN_CHAPTER and fig and not fig_done:
                     # 2026-10-01: if most of the page is still free, shrink the man-plan to fit it
                     # instead of leaving the page ~80% empty. Never below 60% of full height.
                     full_h = PAGE_H - TOP - BOTTOM - 40
@@ -1380,6 +1592,12 @@ class Ebook:
                     fig_done = True
                 # Always typeset gold-standard closer box from markdown (never PNG split)
                 self.closer_box(num, block["lines"])
+                continue
+            if block["type"] == "epigraph":
+                self.epigraph(block["cite"], block["text"])
+                continue
+            if block["type"] == "break":
+                self.section_break()
                 continue
             if block["type"] == "margin":
                 self.margin_block(block["cite"], block["text"])
@@ -1394,9 +1612,12 @@ class Ebook:
                 self.heading(block["text"], level=3)
                 continue
             if block["type"] == "p":
-                self.para(block["text"])
+                if LAYOUT == "baa":
+                    self.para_baa(block["text"])
+                else:
+                    self.para(block["text"])
                 if (
-                    num == 3
+                    num == FIG3_CHAPTER
                     and fig
                     and not fig_done
                     and any(
@@ -1408,8 +1629,361 @@ class Ebook:
                 ):
                     self.image(fig, max_w=min(self.measure, 3.1 * inch), max_h=3.3 * inch)
                     fig_done = True
-        if fig and not fig_done and num == 3:
+                    self._noindent = True
+        if fig and not fig_done and num == FIG3_CHAPTER:
             self.image(fig, max_w=min(self.measure, 3.1 * inch), max_h=3.3 * inch, center_alone=True)
+
+    def _section_head(self, label: str, title: str) -> None:
+        self.tracked(label.upper(), self.left, self.y - 8, "Libre-Bold", 8, ACCENT, 2.4)
+        self.y -= 28
+        self.c.setFillColorRGB(*NAVY)
+        self.c.setFont("Playfair-Bold", TITLE_SIZE)
+        self.c.drawString(self.left, self.y - TITLE_SIZE, no_em(title))
+        self.y -= TITLE_SIZE + 8
+        self.c.setFillColorRGB(*ACCENT)
+        self.c.rect(self.left, self.y, 42, 2.2, fill=1, stroke=0)
+        self.y -= 18
+        self._noindent = True
+
+    def _open_section(self, label: str, title: str) -> None:
+        self.running = title
+        self.advance(blank_if_verso=_force_recto("section"))
+        if not self.on_recto and _force_recto("section"):
+            self.advance()
+        self.page_map[title] = self.folio
+        self._section_head(label, title)
+
+    @staticmethod
+    def _split_entries(raw: str) -> tuple[str, list[tuple[int, str, list[str]]]]:
+        """Split a back-matter file into (title, intro lines, [(num, chapter title, lines)])."""
+        lines = raw.splitlines()
+        title = re.sub(r"^#\s+", "", lines[0]).strip() if lines else ""
+        intro: list[str] = []
+        entries: list[tuple[int, str, list[str]]] = []
+        for ln in lines[1:]:
+            m = re.match(r"^##\s+(\d+)\.\s+(.+?)\s*$", ln)
+            if m:
+                entries.append((int(m.group(1)), smart_quotes(m.group(2)), []))
+            elif entries:
+                entries[-1][2].append(ln)
+            else:
+                intro.append(ln)
+        return title, intro, entries
+
+    def _intro_paras(self, intro: list[str]) -> None:
+        for chunk in re.split(r"\n\s*\n", "\n".join(intro)):
+            t = " ".join(x.strip() for x in chunk.splitlines()).strip()
+            if t:
+                self.para_baa(smart_quotes(no_em(t)))
+
+    def page_yourturn(self, label: str, filename: str) -> None:
+        """Back-of-book Your Turn: short intro, then one page per chapter (typeset closer_box)."""
+        title, intro, entries = self._split_entries((BOOK / filename).read_text(encoding="utf-8"))
+        self._open_section(label, title)
+        self._intro_paras(intro)
+        for num, ctitle, lines in entries:
+            self.running = "Your Turn"
+            self.advance()
+            self.page_map[f"yt-{num}"] = self.folio
+            self.tracked(no_em(f"CHAPTER {num}"), self.left, self.y - 8, "Libre-Bold", 7.5, ACCENT, 2.2)
+            self.y -= 22
+            self.c.setFillColorRGB(*NAVY)
+            for ln in self.wrap(no_em(ctitle), "Playfair-Bold", 14, self.measure):
+                self.c.setFont("Playfair-Bold", 14)
+                self.c.drawString(self.left, self.y - 14, ln)
+                self.y -= 18
+            self.y -= 8
+            # One page per chapter (2026-10-04): fit the box to the space left under
+            # the heading. Step down write-in lines (3 -> 2), then body size, before
+            # ever letting the box jump to a second page.
+            box_lines = ["## Your Turn", *lines]
+            avail = self.y - (BOTTOM + 18)
+            fit = dict(body_size=10, body_leading=13, max_write=3)
+            for opt in (
+                dict(body_size=10, body_leading=13, max_write=3),
+                dict(body_size=10, body_leading=13, max_write=2),
+                dict(body_size=9.5, body_leading=12.4, max_write=2),
+                dict(body_size=9.2, body_leading=11.8, max_write=2),
+                dict(body_size=9.2, body_leading=11.8, max_write=1),
+            ):
+                fit = opt
+                if self.closer_box(num, box_lines, measure_only=True, **opt) <= avail:
+                    break
+            else:
+                print(f"WARN: Your Turn {num} does not fit one page even at the tightest setting", file=sys.stderr)
+            self.closer_box(num, box_lines, **fit)
+            fig = FIGURES.get(num)
+            if num == MANPLAN_CHAPTER and fig:
+                self.advance()
+                self.image(fig, max_w=self.measure, max_h=PAGE_H - TOP - BOTTOM - 40, center_alone=True)
+
+    # ----- Small-Group Guide + Scripture Notes (2026-10-12e) -----
+    GUIDE_LABELS = (
+        ("Host's note.", "FOR THE HOST"), ("Open.", "OPEN"), ("Read aloud.", "READ ALOUD"),
+        ("Talk.", "TALK"), ("Going deeper.", "GOING DEEPER"), ("Before you leave.", "BEFORE YOU LEAVE"),
+    )
+
+    def _label_panel(self, rows, *, size=9.6, leading=12.6, measure_only=False) -> float:
+        """Your Turn-style panel (bone fill, iron rail, rust ticks + tracked labels, light rules).
+        rows: [(label, [(kind, text)])], kind 'p' body, 'i' italic note, 'n' numbered item."""
+        pad_t, pad_b, rail_inset, label_size, gap = 12, 10, 8, 7.6, 8
+        x0, x1 = self.left, self.right
+        tl = x0 + rail_inset + 12
+        tw = x1 - 12 - tl
+        hang = 12
+        meas = []
+        h = pad_t
+        for r, (label, items) in enumerate(rows):
+            top = h
+            h += label_size + 4
+            lines = []
+            for kind, text in items:
+                text = smart_quotes(no_em(clean_inline_md(text)))
+                if kind == "n":
+                    mm = re.match(r"^(\d+)\.\s+(.*)$", text)
+                    num, body = (mm.group(1) + ".", mm.group(2)) if mm else ("", text)
+                    for k, ln in enumerate(self.wrap(body, "EBGaramond", size, tw - hang)):
+                        lines.append(("EBGaramond", ln, tl + hang, num if k == 0 else ""))
+                else:
+                    f = "EBGaramond-Italic" if kind == "i" else "EBGaramond"
+                    for ln in self.wrap(text, f, size, tw):
+                        lines.append((f, ln, tl, ""))
+                lines.append(None)  # small gap between items
+            if lines:
+                lines.pop()
+            nh = sum(leading if l else 3 for l in lines)
+            h += nh
+            meas.append((top, label, lines, h))
+            if r < len(rows) - 1:
+                h += gap + 1 + gap
+        h += pad_b
+        if measure_only:
+            return h
+        top_y = self.y
+        c = self.c
+        c.setFillColorRGB(*CLOSER_PANEL); c.setStrokeColorRGB(*CLOSER_RULE); c.setLineWidth(0.7)
+        c.roundRect(x0, top_y - h, x1 - x0, h, 2, fill=1, stroke=1)
+        rx = x0 + rail_inset
+        c.setFillColorRGB(*CLOSER_RAIL)
+        c.rect(rx, top_y - h + 6, 1.6, h - 12, fill=1, stroke=0)
+        for r, (top, label, lines, bottom) in enumerate(meas):
+            yl = top_y - top - label_size
+            c.setFillColorRGB(*CLOSER_RAIL)
+            c.rect(rx - 0.5, yl + label_size * 0.35 - 1.1, 7, 2.4, fill=1, stroke=0)
+            self.tracked(label, tl, yl, "Libre-Bold", label_size, CLOSER_LABEL, tracking=1.5)
+            yy = yl - 4
+            for l in lines:
+                if l is None:
+                    yy -= 3
+                    continue
+                f, ln, x, num = l
+                yy -= leading
+                c.setFillColorRGB(*(INK_SOFT if f.endswith("Italic") else INK))
+                if num:
+                    c.setFont("Libre-Medium", size - 1.6)
+                    c.setFillColorRGB(*CLOSER_LABEL)
+                    c.drawString(tl, yy, num)
+                    c.setFillColorRGB(*INK)
+                c.setFont(f, size)
+                c.drawString(x, yy, ln)
+            if r < len(meas) - 1:
+                ry = top_y - bottom - gap
+                c.setStrokeColorRGB(*CLOSER_RULE); c.setLineWidth(0.6)
+                c.line(tl, ry, x1 - 12, ry)
+        self.y = top_y - h - 14
+        return h
+
+    def _fit_panel(self, rows, reserve: float = 0.0) -> None:
+        """Keep a panel whole: move to a new page if it won't fit; shrink type only if a full page can't hold it."""
+        full = PAGE_H - TOP - BOTTOM - 18 - reserve
+        opt = dict(size=9.6, leading=12.6)
+        for o in (dict(size=9.6, leading=12.6), dict(size=9.3, leading=12.0), dict(size=9.0, leading=11.4)):
+            opt = o
+            if self._label_panel(rows, measure_only=True, **o) <= full:
+                break
+        return opt
+
+    def _guide_session(self, head: str, paras: list[str]) -> None:
+        m = re.match(r"^Chapter\s+(\d+)\.\s+(.+?)(?:,\s+(first|second)\s+meeting)?(?:\s+\(class week (\d+)\))?\s*$", head)
+        num, title, meet, week = m.groups() if m else ("", head, None, None)
+        kicker = " · ".join(x for x in (f"CHAPTER {num}" if num else "", f"{meet.upper()} MEETING" if meet else "",
+                                         f"CLASS WEEK {week}" if week else "") if x)
+        rows, cur = [], None
+        for t in paras:
+            for pref, lab in self.GUIDE_LABELS:
+                if t.startswith(pref):
+                    rest = t[len(pref):].strip()
+                    cur = (lab, [])
+                    rows.append(cur)
+                    if rest:
+                        cur[1].append(("i" if lab in ("FOR THE HOST", "GOING DEEPER") else "p", rest))
+                    break
+            else:
+                if cur is None:
+                    cur = ("FOR THE HOST", []); rows.append(cur)
+                cur[1].append(("n" if re.match(r"^\d+\.\s", t) else "p", t))
+        title_lines = self.wrap(no_em(smart_quotes(title)), "Playfair-Bold", 14, self.measure)
+        head_h = 22 + 18 * len(title_lines) + 10
+        opt = self._fit_panel(rows, reserve=head_h)
+        need = head_h + self._label_panel(rows, measure_only=True, **opt)
+        if self.y - need < BOTTOM + 18:
+            self.advance()
+        self.tracked(no_em(kicker), self.left, self.y - 8, "Libre-Bold", 7.5, ACCENT, 2.2)
+        self.y -= 22
+        self.c.setFillColorRGB(*NAVY)
+        for ln in title_lines:
+            self.c.setFont("Playfair-Bold", 14)
+            self.c.drawString(self.left, self.y - 14, ln)
+            self.y -= 18
+        self.y -= 10
+        self._label_panel(rows, **opt)
+
+    def page_guide(self, label: str, filename: str) -> None:
+        """Small-Group Guide: leader intro, then one consistent panel per meeting, kept whole."""
+        raw = (BOOK / filename).read_text(encoding="utf-8").splitlines()
+        title = re.sub(r"^#\s+", "", raw[0]).strip()
+        secs: list[tuple[int, str, list[str]]] = [(0, "", [])]
+        buf: list[str] = []
+
+        def flush():
+            t = " ".join(x.strip() for x in buf).strip()
+            if t:
+                secs[-1][2].append(t)
+            buf.clear()
+
+        for ln in raw[1:]:
+            mm = re.match(r"^(#{2,3})\s+(.+?)\s*$", ln)
+            if mm:
+                flush(); secs.append((len(mm.group(1)), mm.group(2), [])); continue
+            if not ln.strip() or re.match(r"^(\d+\.|[-*])\s+", ln.strip()):
+                flush()
+            buf.append(ln)
+            if not ln.strip():
+                buf.clear()
+        flush()
+        self._open_section(label, title)
+        for t in secs[0][2]:
+            self.para_baa(smart_quotes(no_em(t)))
+        for lvl, head, paras in secs[1:]:
+            self.running = title
+            if lvl == 3:
+                self._guide_session(head, paras)
+                continue
+            pm = re.match(r"^(Part \w+):\s+(.+)$", head)
+            bullets = [p for p in paras if re.match(r"^[-*]\s", p)]
+            if pm:
+                self.advance()
+                self.tracked(no_em(pm.group(1).upper()), self.left, self.y - 8, "Libre-Bold", 8, ACCENT, 2.4)
+                self.y -= 24
+                self.c.setFillColorRGB(*NAVY)
+                for ln in self.wrap(no_em(pm.group(2)), "Playfair-Bold", 17, self.measure):
+                    self.c.setFont("Playfair-Bold", 17)
+                    self.c.drawString(self.left, self.y - 17, ln)
+                    self.y -= 21
+                self.y -= 4
+                self.c.setFillColorRGB(*ACCENT)
+                self.c.rect(self.left, self.y, 42, 2.2, fill=1, stroke=0)
+                self.y -= 16
+                self._noindent = True
+                for t in paras:
+                    self.para_baa(smart_quotes(no_em(t)))
+                self.y -= 16
+                continue
+            if bullets:
+                rows = []
+                for b in bullets:
+                    b = re.sub(r"^[-*]\s+", "", b)
+                    bm = re.match(r"^(.+?)\s+\((\d+ minutes)\)\.\s*(.*)$", b)
+                    if bm:
+                        rows.append((f"{bm.group(1).upper()} · {bm.group(2).upper()}", [("p", bm.group(3))]))
+                    else:
+                        rows.append(("", [("p", b)]))
+                opt = self._fit_panel(rows)
+                lead_in = sum(len(self.wrap(t, "EBGaramond", BODY_SIZE, self.measure)) for t in paras if not re.match(r"^[-*]\s", t))
+                if self.y - (40 + lead_in * BODY_LEADING + self._label_panel(rows, measure_only=True, **opt)) < BOTTOM + 18:
+                    self.advance()  # keep the heading, its lead-in and the panel together
+                self.heading(head, level=2)
+                self._noindent = True
+                for t in paras:
+                    if not re.match(r"^[-*]\s", t):
+                        self.para_baa(smart_quotes(no_em(t)))
+                self.y -= 8
+                self._label_panel(rows, **opt)
+                continue
+            if head.startswith("Twenty Minutes"):
+                self.advance()
+            self.y -= 6
+            self.heading(head, level=2)
+            self.y -= 3
+            self._noindent = True
+            for t in paras:
+                self.para_baa(smart_quotes(no_em(t)))
+            self.y -= 4
+
+    def page_scripture_notes(self, label: str, filename: str) -> None:
+        """Back-of-book Scripture notes (2026-10-12e): chapter kicker + title, opening verse set
+        apart, then a two-column list (phrase left, reference right), each chapter kept whole."""
+        title, intro, entries = self._split_entries((BOOK / filename).read_text(encoding="utf-8"))
+        self._open_section(label, title)
+        for chunk in re.split(r"\n\s*\n", "\n".join(intro)):
+            t = " ".join(x.strip() for x in chunk.splitlines()).strip()
+            if t:
+                self.para(smart_quotes(no_em(clean_inline_md(t))), font="EBGaramond-Italic", size=9.5, leading=12.6, indent=0, after=0.5, color=INK_SOFT)
+        c = self.c
+        fs, lead = 9.2, 11.6
+        for idx, (num, ctitle, lines) in enumerate(entries):
+            items = [" ".join(x.split()) for x in re.split(r"\n\s*\n", "\n".join(lines)) if x.strip()]
+            ref_w = 0.40 * self.measure
+            ph_w = self.measure - ref_w - 10
+            opening, rows = None, []
+            for it in items:
+                t = smart_quotes(no_em(clean_inline_md(it)))
+                om = re.match(r"^Opening verse:\s*(.+?)\.?$", t)
+                if om:
+                    opening = om.group(1)
+                    continue
+                sm = re.match(r"^(\u201c.+\u201d|\".+\"):\s*(.+?)\.?$", t)
+                rows.append((sm.group(1), sm.group(2)) if sm else (t, ""))
+            def row_lines(ph, ref):
+                return (self.wrap(ph, "EBGaramond-Italic", fs, ph_w), self.wrap(ref, "EBGaramond", fs, ref_w) if ref else [])
+            laid = [row_lines(*r) for r in rows]
+            body_h = sum(max(len(a), len(b)) * lead + 4 for a, b in laid)
+            head_h = 10 + 18 + (16 if opening else 0) + 8
+            pm = self.page_map.get(str(num)) if num else self.page_map.get("Introduction")
+            ensure_h = head_h + sum(max(len(a), len(b)) * lead + 4 for a, b in laid[:3])  # heading + first rows together
+            if self.y - ensure_h < BOTTOM + 14:
+                self.advance()
+            elif idx:
+                self.y -= 4
+                c.setStrokeColorRGB(*CLOSER_RULE); c.setLineWidth(0.6)
+                c.line(self.left, self.y, self.right, self.y)
+                self.y -= 12
+            kick = (f"CHAPTER {num}" if num else "BEFORE CHAPTER 1") + (f" · PAGE {pm}" if pm else "")
+            self.tracked(no_em(kick), self.left, self.y - 7, "Libre-Bold", 7, ACCENT, 1.8)
+            self.y -= 12
+            c.setFillColorRGB(*NAVY); c.setFont("Libre-Medium", 10.5)
+            c.drawString(self.left, self.y - 10.5, no_em(ctitle))
+            self.y -= 18
+            if opening:
+                c.setFillColorRGB(*CLOSER_LABEL)
+                self.tracked("OPENING VERSE", self.left, self.y - 8, "Libre-Bold", 6.8, CLOSER_LABEL, 1.4)
+                c.setFillColorRGB(*INK); c.setFont("EBGaramond", fs)
+                c.drawString(self.left + self._tracked_width("OPENING VERSE", "Libre-Bold", 6.8, 1.4) + 8, self.y - 8.5, opening)
+                self.y -= 16
+            self.y -= 2
+            for (a, b) in laid:
+                n = max(len(a), len(b))
+                self.ensure(n * lead + 2)
+                for k in range(n):
+                    yy = self.y - fs - k * lead
+                    if k < len(a):
+                        c.setFillColorRGB(*INK); c.setFont("EBGaramond-Italic", fs)
+                        c.drawString(self.left, yy, a[k])
+                    if k < len(b):
+                        c.setFillColorRGB(*NAVY); c.setFont("EBGaramond", fs)
+                        c.drawRightString(self.right, yy, b[k])
+                self.y -= n * lead + 4
+            self.y -= 4
 
     def page_back(self) -> None:
         self.show()  # finish last chapter page
@@ -1485,14 +2059,22 @@ def render_book(pdf_path: Path, asset_dir: Path, page_map_in: dict[str, int] | N
             book.part_page(pl, pt)
         book.chapter_open(num, title)
         book.render_chapter_blocks(num, blocks)
-    book.page_section("About the Author", "36-about-the-author.md")
-    book.page_section("Condensed Training", "37-condensed-training.md")
+    for label, fname, kind in BACK_MATTER:
+        if kind == "yourturn":
+            book.page_yourturn(label, fname)
+        elif kind == "notes":
+            book.page_scripture_notes(label, fname)
+        elif kind == "guide":
+            book.page_guide(label, fname)
+        else:
+            book.page_section(label, fname)
     book.page_back()
     book.save()
     return book
 
 
 def main() -> None:
+    load_manifest()
     register_fonts()
     BUILD.mkdir(parents=True, exist_ok=True)
     run_id = uuid.uuid4().hex[:10]
@@ -1517,7 +2099,8 @@ def main() -> None:
 
     # compact missing notes
     missing = [
-        "all 35 closers: shared typeset closer_box (CLOSER_ART empty; no PNG split)",
+        ("all closers: Your Turn back section, typeset closer_box" if LAYOUT == "baa"
+         else "all 35 closers: shared typeset closer_box (CLOSER_ART empty; no PNG split)"),
         "no two-Adams figure (ch 19) - not on disk",
     ]
 

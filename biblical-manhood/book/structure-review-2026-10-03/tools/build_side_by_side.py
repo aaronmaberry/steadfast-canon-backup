@@ -53,9 +53,9 @@ def spread(w, left_page, right_page, lab, ph_left=None, ph_right=None):
     p.merge_page(overlay(lab)); w.add_page(p)
 
 def cover(c):
-    c.setFillColorRGB(*NAVY); c.setFont("PlayB", 24); c.drawString(0.8 * inch, H - 1.1 * inch, "Chapter 10, current vs sample")
+    c.setFillColorRGB(*NAVY); c.setFont("PlayB", 24); c.drawString(0.8 * inch, H - 1.1 * inch, "Chapter 10, current vs sample (v2)")
     c.setFont("Libre", 10); c.setFillColorRGB(0.3, 0.3, 0.3)
-    c.drawString(0.8 * inch, H - 1.4 * inch, "Steadfast Men structure review, 2026-10-03. Left: Review Print 03d as printed. Right: the sample in the recommended approach.")
+    c.drawString(0.8 * inch, H - 1.4 * inch, "Steadfast Men structure review, 2026-10-03, re-rendered 2026-10-04. Left: Review Print 03d as printed. Right: the sample in the recommended approach.")
     c.drawString(0.8 * inch, H - 1.6 * inch, "Proposal only. The manuscript, the 03d print and Drive are unchanged.")
     rows = [("", "Current 03d", "Sample"),
             ("Verse boxes", "4", "0, plus one opening verse (Luke 15:20)"),
@@ -77,6 +77,7 @@ def cover(c):
               "Curtis in the pickup line carries the chapter from turn to turn. No titles stop the reader.",
               "The blessing and the charge live in the last paragraph. The protected line closes the chapter.",
               "The Name it, Do this week, Tell a brother and Carry this lines are unchanged. They move to a Your Turn page at the back.",
+              "Spacing fix (Oct 4): first-line indents only, no space between paragraphs, flush after the title and each break, even two-line breaks, justified and hyphenated.",
               "The sample is typeset to the 03d trim, fonts, size and measure by a different engine, so the page count is close, not exact."]:
         c.drawString(0.95 * inch, y, "·  " + t); y -= 0.28 * inch
 
