@@ -1,3 +1,10 @@
+2026-10-13 ~7:10 AM CT — daily 3-target backup OK.
+- Local: /workspace/backups/steadfast-canon/2026-10-13 (1.07GB, 3314 files); lean 2477 files / 9.6MB; changed=213 removed=38 (diff vs 2026-10-04 manifest) redactions=10 quarantined=0. Pruned 2026-10-01..10-04 (cutoff 2026-10-10; freed 3.92GB). Gap: no backups landed 2026-10-05 through 2026-10-12 (runs failed or never logged).
+- Origin: aaron-maberry/tmp-1571ddf978c2e3c0 main SHA 19d276de5c9cd3bd14676691b1049125899ea976 (bc-7d2ea3f8; 204 added, 9 modified, 38 deleted). Prior 6c06e8b5. 16 old logs/*.log|*.out left in repo (not in pack, not in removed list).
+- GitHub PRIVATE aaronmaberry/steadfast-canon-backup main SHA 0a63e94e15d7da4dbaf5abe012ee63508af4549a (box git push via gh auth, shallow clone in /tmp then removed; 204 A / 9 M / 38 D). Prior 85d85a01. Day was 251 paths so push_files skipped per BACKUP.md fallback. Public aaronmaberry/steadfast untouched.
+- Drive: steadfast-canon-2026-10-13.tgz id 1NkPgrfCHZr9MPqfc5yIEf4lWRghCdFiv in Steadfast Men/Backups 1IO1LcXoeTK3PuuuGGOK4LgM560U9qMpM. Trashed (not deleted) expired 10-01, 10-02, 10-03, 10-04 tarballs per expired helper; only 10-13 remains live.
+- Notion Desk Steadfast Men: status line 2026-10-13. Quiet — all three destinations OK.
+
 2026-10-04 ~7:05 AM CT — daily 3-target backup OK.
 - Local: /workspace/backups/steadfast-canon/2026-10-04 (1.07GB, 3148 files); lean 2311 files / 9.1MB; changed=442 removed=0 redactions=10 quarantined=0. Pruned 2026-09-30 + steadfast-full/2026-09-21 (cutoff 2026-10-01; freed 7.94GB).
 - Origin: aaron-maberry/tmp-1571ddf978c2e3c0 main SHA 6c06e8b5fea4d5b90b67111cad3f90fc0d3c81e3 (bc-6998e9c2; 442 files in commit). Prior 519a03f1.
