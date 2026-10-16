@@ -49,7 +49,7 @@ _______________________________________________
 
 **Do this week**
 
-Put the page on one sheet, ten lines at most, each one fitted to the season you're in. The worksheet on the next page is a place to start. Sign it and date it, and get the bottom line done before the week runs out. What never reaches paper never reaches Tuesday.
+Put the page on one sheet, ten lines at most, each one fitted to the season you're in. The worksheet just before this page is a place to start. Sign it and date it, and get the bottom line done before the week runs out. What never reaches paper never reaches Tuesday.
 
 :::notes
 _______________________________________________
