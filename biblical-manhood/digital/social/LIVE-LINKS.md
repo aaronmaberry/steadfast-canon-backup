@@ -1,3 +1,5 @@
+> **SUPERSEDED 2026-10-16.** Social banners are now locked to banner 09 "The walk" (logo-fixed): `aaronmaberry/steadfast` → `brand/social-banners-LOCKED/` (see `LOCKED.md`; source `studio/podcast-show/branding/banner-09-final/logo-fix/`). Older banner/cover/header references below are historical. No changes without Aaron sign-off.
+
 # Steadfast social — live landing links
 
 Source of truth for every bot. Reach updates this file when a seat hits **LIVE PROFILE**. Jarvis also drops the link in Aaron's chat. No posts until Aaron signs.
