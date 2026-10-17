@@ -1,3 +1,5 @@
+> **SUPERSEDED 2026-10-16.** Social banners are now locked to banner 09 "The walk" (logo-fixed): `aaronmaberry/steadfast` → `brand/social-banners-LOCKED/` (see `LOCKED.md`; source `studio/podcast-show/branding/banner-09-final/logo-fix/`). Older banner/cover/header references below are historical. No changes without Aaron sign-off.
+
 # Socials banner lock — Aaron 2026-09-15 (FULLBLEED)
 
 **Canon:** `youtube-banner.png` = `youtube-banner-fullbleed-v1.png`
