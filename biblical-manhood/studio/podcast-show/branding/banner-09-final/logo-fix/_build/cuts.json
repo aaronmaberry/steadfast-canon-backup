@@ -1,0 +1,177 @@
+{
+ "master-2560x1440.png": {
+  "size": [
+   2560,
+   1440
+  ],
+  "text_box": [
+   1336,
+   550,
+   1943,
+   883
+  ],
+  "figures_box": [
+   750,
+   693,
+   1113,
+   1364
+  ],
+  "safe": [
+   507,
+   508,
+   2053,
+   931
+  ],
+  "avoid": {},
+  "text_in_safe": true,
+  "avoid_hits": []
+ },
+ "x-header-1500x500.png": {
+  "size": [
+   1500,
+   500
+  ],
+  "text_box": [
+   821,
+   149,
+   1299,
+   351
+  ],
+  "figures_box": [
+   439,
+   89,
+   652,
+   482
+  ],
+  "safe": [
+   300,
+   60,
+   1440,
+   440
+  ],
+  "avoid": {
+   "avatar": [
+    0,
+    300,
+    420,
+    500
+   ]
+  },
+  "text_in_safe": true,
+  "avoid_hits": []
+ },
+ "facebook-cover-1702x630.png": {
+  "size": [
+   1702,
+   630
+  ],
+  "text_box": [
+   871,
+   129,
+   1349,
+   331
+  ],
+  "figures_box": [
+   498,
+   188,
+   740,
+   634
+  ],
+  "safe": [
+   272,
+   40,
+   1430,
+   590
+  ],
+  "avoid": {
+   "avatar_desktop": [
+    0,
+    270,
+    420,
+    630
+   ],
+   "avatar_mobile": [
+    761,
+    450,
+    941,
+    630
+   ]
+  },
+  "text_in_safe": true,
+  "avoid_hits": []
+ },
+ "linkedin-cover-1512x256.png": {
+  "size": [
+   1512,
+   256
+  ],
+  "text_box": [
+   872,
+   67,
+   1148,
+   170
+  ],
+  "figures_box": [
+   443,
+   30,
+   658,
+   426
+  ],
+  "safe": [
+   250,
+   20,
+   1300,
+   236
+  ],
+  "avoid": {
+   "logo": [
+    0,
+    150,
+    240,
+    256
+   ],
+   "lower_right": [
+    1300,
+    160,
+    1512,
+    256
+   ]
+  },
+  "text_in_safe": true,
+  "avoid_hits": []
+ },
+ "reddit-banner-1920x384.png": {
+  "size": [
+   1920,
+   384
+  ],
+  "text_box": [
+   955,
+   89,
+   1425,
+   265
+  ],
+  "figures_box": [
+   562,
+   35,
+   835,
+   538
+  ],
+  "safe": [
+   480,
+   30,
+   1440,
+   354
+  ],
+  "avoid": {
+   "avatar_mobile": [
+    0,
+    254,
+    300,
+    384
+   ]
+  },
+  "text_in_safe": true,
+  "avoid_hits": []
+ }
+}
