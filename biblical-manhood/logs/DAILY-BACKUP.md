@@ -1,3 +1,10 @@
+2026-10-17 ~7:05 AM CT — daily 3-target backup OK.
+- Local: /workspace/backups/steadfast-canon/2026-10-17 (1.09GB, 3333 files); lean 2486 files / 9.6MB; changed=0 removed=0 redactions=10 quarantined=0. Pruned 2026-10-13 (cutoff 2026-10-14; freed 1.10GB). Note: script diff showed 0 because the 2026-10-16 manifest was rebuilt by a later same-day run (Drive got steadfast-canon-2026-10-16-pm.tgz) that never reached Origin/GitHub; direct tree diff against both remotes found 16 sanitized files missing (6 new, 10 modified), pushed below.
+- Origin: aaron-maberry/tmp-1571ddf978c2e3c0 main SHA 055bcc0faffd77396944f338915d737988831df8 (bc-59f52d6e; 16 catch-up files from sanitized pack). Prior 37f92054.
+- GitHub PRIVATE aaronmaberry/steadfast-canon-backup main SHA 3eb79ab6a87a9d2c1409230539bb965a36a28e31 (connector push_files, 4 batches of 4: dfb7ae2, 6b5d823, 1b95ddd, 3eb79ab; 16 files from sanitized lean pack). Prior 418d74c4. Public aaronmaberry/steadfast untouched. Old remote leftovers (.backup-probe-2026-10-02.txt, STATUS-2026-10-09.md, training-RULES-2026-10-09.md) not in pack, left as-is.
+- Drive: steadfast-canon-2026-10-17.tgz id 1oUyfZqT512WU9GtTTx3UMpDfbIG-Hbxz in Steadfast Men/Backups 1IO1LcXoeTK3PuuuGGOK4LgM560U9qMpM. Trashed (not deleted) expired steadfast-canon-2026-10-13.tgz per expired helper. Live: 10-14, 10-15, 10-16, 10-16-pm, 10-17.
+- Notion Desk Steadfast Men: status line 2026-10-17. Quiet — all three destinations OK.
+
 2026-10-16 ~7:10 AM CT — daily 3-target backup OK.
 - Local: /workspace/backups/steadfast-canon/2026-10-16 (1.07GB, 3317 files); lean 2480 files / 9.6MB; changed=4 removed=0 redactions=10 quarantined=0. Prune cutoff 2026-10-13, nothing to prune.
 - Origin: aaron-maberry/tmp-1571ddf978c2e3c0 main SHA 37f92054bb8edb7de213280afd41e945dc3b23d7 (bc-c1d329d4; 1 added, 3 modified, 0 deleted). Prior 310969b9.
