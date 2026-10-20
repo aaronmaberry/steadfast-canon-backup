@@ -1,0 +1,34 @@
+# Steadfast training audio — index
+
+Locked-script recordings. Voice Wes Hart - Option D (krjoGt4x3CttlxSuoDYW), eleven_v4, pipeline training-ep01/locked (prep.py → eleven_v4 → post.sh/mix.sh → check.py + faster-whisper medium.en STT QA).
+Master WAVs are in Git LFS. Web MP3 = 96 kbps CBR 44.1 kHz mono (same format as live Lesson 1 audio). Times CT.
+
+| Session | Title | Runtime | Script sha256 | QA | Master WAV | Full MP3 (192k) | Web MP3 | 96k share MP3 |
+|---|---|---|---|---|---|---|---|---|
+| S03 | The Four Marks | 24:16 | `4b6e0b5dab2b01c23b89ba2c6167857626be1fa84e9191c0a460b66f0a2bea6c` | PASS | `training-ep01/locked/audio/S03/S03-The-Four-Marks-master.wav` | `training-ep01/locked/audio/S03/S03-The-Four-Marks-full.mp3` | `training-ep01/locked/audio/web/lesson-03.mp3` | `artifacts/S03-The-Four-Marks-locked.mp3` |
+
+## Not yet recorded
+
+- S01 A Quiet Tuesday — script sha256 `497e462c84a0f5cd1e9e9e6bd0e71e93ae9d74f785d81eb52f39b97eb08e32a4` — not recorded: ElevenLabs credits exhausted 2026-10-20 (~4:17 PM CT, 147 credits left); no credits purchased.
+- S02 You Are Not Crazy — script sha256 `93f03f8e13f7727505a47e663f0a0f82acbe23ebd8295f43668795ad438b4549` — not recorded: ElevenLabs credits exhausted 2026-10-20 (~4:17 PM CT, 147 credits left); no credits purchased.
+- S04 Stop Waiting — script sha256 `bb549caa749b760ca4d4547b1b9afd357709da79a9cf3272ae1f0c43cac8e53a` — not recorded: ElevenLabs credits exhausted 2026-10-20 (~4:17 PM CT, 147 credits left); no credits purchased.
+- S05 Pick Up The Weight — script sha256 `bf0de18288900ac35ded854b7987ac11651b645a380e2829b47dc61da9b962ce` — not recorded: ElevenLabs credits exhausted 2026-10-20 (~4:17 PM CT, 147 credits left); no credits purchased.
+- S06 Go First — script sha256 `49e3efde7f8bd41fbb1eb72bf4026c385d533399decab8689b8ee051fdd84bbe` — not recorded: ElevenLabs credits exhausted 2026-10-20 (~4:17 PM CT, 147 credits left); no credits purchased.
+- S07 Live For A Reward That Lasts — script sha256 `3ccd6fef195027580318bf95c9086d992fb178b9ec6b6b7ee6d732f19fbd1d2d` — not recorded: ElevenLabs credits exhausted 2026-10-20 (~4:17 PM CT, 147 credits left); no credits purchased.
+- S08 The Empty Chair — script sha256 `98eecf8e9c331f22a0d665f5b9bf9758d404792ec4e951aff6557a8ef3f0f9b6` — not recorded: ElevenLabs credits exhausted 2026-10-20 (~4:17 PM CT, 147 credits left); no credits purchased.
+- S09 Anger The Itch And The Drift — script sha256 `8561e0d9afe9e73920c3e39b7106f5aadd6e8990b8ea1af625bd507fccad0a07` — not recorded: ElevenLabs credits exhausted 2026-10-20 (~4:17 PM CT, 147 credits left); no credits purchased.
+- S10 The Father Who Does Not Leave — script sha256 `09397ee7f39ba3567bd6f441310a900e5cebd7dc5a529d3f5828add5f14430a3` — not recorded: ElevenLabs credits exhausted 2026-10-20 (~4:17 PM CT, 147 credits left); no credits purchased.
+- S11 When Home Never Handed You Off — script sha256 `b3ea28d2f8c609ebe7f3317f025036543989219fd9cd768b0efab4a944472138` — not recorded: ElevenLabs credits exhausted 2026-10-20 (~4:17 PM CT, 147 credits left); no credits purchased.
+- S12 A Man With No Brothers — script sha256 `d7da3d877813d705b921e5a47a3cbd3fdd40e3cae1f4f3722c86214eea3a0910` — not recorded: ElevenLabs credits exhausted 2026-10-20 (~4:17 PM CT, 147 credits left); no credits purchased.
+- S13 The Problem Inside — script sha256 `884a21a2cd32ca3ff9d015a73572115b53e9bd34aefff2e12ba2035eecb41827` — not recorded: ElevenLabs credits exhausted 2026-10-20 (~4:17 PM CT, 147 credits left); no credits purchased.
+- S14 How That Looks On A Man — script sha256 `038f0b7cc20178aeb3eacdb8d7960c1351dcec886784b777e0214206a2a0462e` — not recorded: ElevenLabs credits exhausted 2026-10-20 (~4:17 PM CT, 147 credits left); no credits purchased.
+- S15 No North Star — script sha256 `51bf92b67dd42b647bc42aac8400c1ad4f61d05281526d1177af602ea04e34c6` — not recorded: ElevenLabs credits exhausted 2026-10-20 (~4:17 PM CT, 147 credits left); no credits purchased.
+- S16 Before The Fall — script sha256 `4937f7785a29e095db8891fb00a7b4e5d73e023eb50fbdcdc80dbb771ab30506` — not recorded: ElevenLabs credits exhausted 2026-10-20 (~4:17 PM CT, 147 credits left); no credits purchased.
+- S17 Destiny Is Not A Vibe — script sha256 `fdb0a24d41c424563ef3bc5bf9e56212a175ca8a1d01f5bf842eef26afbb4f4b` — not recorded: ElevenLabs credits exhausted 2026-10-20 (~4:17 PM CT, 147 credits left); no credits purchased.
+- S18 If There Is No Wife Yet — script sha256 `bdec17869d0206c52dddd5cb3779314c06889015a2625b2308bc43234b10493c` — not recorded: ElevenLabs credits exhausted 2026-10-20 (~4:17 PM CT, 147 credits left); no credits purchased.
+- S19 Lay It Down — script sha256 `7bbd65006c60a716c3ad4f115f339b2206ef3416c35d75ac4e8254f5c00758e4` — not recorded: ElevenLabs credits exhausted 2026-10-20 (~4:17 PM CT, 147 credits left); no credits purchased.
+- S20 The Bed Is A Covenant — script sha256 `1fc7db3ba648774ee9560cede4501d446bbdff7477a41e73ad29926d3b3b2dff` — not recorded: ElevenLabs credits exhausted 2026-10-20 (~4:17 PM CT, 147 credits left); no credits purchased.
+- S21 Your Daughter Is Watching — script sha256 `2138461be9341438e38011d8939e20eef40add16289c380d37d93a46f37f0067` — not recorded: ElevenLabs credits exhausted 2026-10-20 (~4:17 PM CT, 147 credits left); no credits purchased.
+- S22 Give Your Son A Name — script sha256 `96731fb1a60fc5254252d92749ef3fbc83e801971a8ff271767b45df8efdfb65` — not recorded: ElevenLabs credits exhausted 2026-10-20 (~4:17 PM CT, 147 credits left); no credits purchased.
+- S23 Give Your Son A Hill — script sha256 `4c3e14275c9f634d26f41f835433ea85b2d0b087efc6d944a382e9ee2b549873` — not recorded: ElevenLabs credits exhausted 2026-10-20 (~4:17 PM CT, 147 credits left); no credits purchased.
+- S24 Give Your Son A Day — script sha256 `fd7af7e8ee062f0e00ad7519785930830b0e78dbe2b8a42c1334fb58e799d922` — not recorded: ElevenLabs credits exhausted 2026-10-20 (~4:17 PM CT, 147 credits left); no credits purchased.

@@ -1,0 +1,38 @@
+S03 audio QA 2026-10-20 CT — LOCKED script scripts-v7/S03-The-Four-Marks.txt sha256 4b6e0b5dab2b01c23b89ba2c6167857626be1fa84e9191c0a460b66f0a2bea6c
+S03-The-Four-Marks.txt: 3749 words, 13 sections, tags 4, hands 1, chuckles 4, out-of-range sections []
+
+Full-mix chunked medium.en vs script: script words 3753, transcript words 3712, matched 3685 (98.2%)
+lines <60% matched: 6
+inserted/replaced transcript runs >=4: []
+marker "cut screen": 0
+marker "section title": 0
+marker "room hands": 0
+marker "room chuckle": 0
+marker "creed board": 0
+marker "new angle": 0
+marker "full screen": 0
+marker "warmly": 0
+marker "key line": 0
+
+Re-check of every flagged line by targeted re-transcription of its window:
+OK  1.00 [588-594s] He ended up on dialysis.
+OK  0.90 [727-742s] like he'd, uh, used up his words for the month.
+OK  0.83 [727-742s] It didn't make the mornings shorter.
+OK  1.00 [727-742s] His dad didn't get any sweeter.
+OK  1.00 [727-742s] Nobody at church threw him a dinner.
+OK  1.00 [914-919s] Kind of sideways.
+ALL FLAGGED LINES OK
+
+Creed full sentence in script: 0x; spoken word for word in transcript: 0x (exact apostrophes 0x)
+banned "lewis": 0
+banned "rejects passivity": 0
+banned "reject passivity": 0
+banned "accepts responsibility": 0
+banned "accept responsibility": 0
+banned "leads courageously": 0
+banned "lead courageously": 0
+banned "greater reward": 0
+I:         -17.0 LUFS
+    Threshold: -28.1 LUFS
+Runtime 24:16 (1456.2 s), 13 sections
+QA RESULT: PASS (creed_ok=True, markers/banned ok=True, missing lines=0)
