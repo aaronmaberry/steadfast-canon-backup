@@ -1,0 +1,57 @@
+S02 REVIEW audio QA 2026-10-20 CT
+S02-You-Are-Not-Crazy.txt: 3759 words, 13 sections, tags 4, hands 2, chuckles 4, out-of-range sections []
+
+Full-mix chunked medium.en vs script:
+script words 3762, transcript words 3661, matched 3628 (96.4%)
+lines <60% matched: 22
+   (16, 1, 0.0, "If you're new,")
+   (19, 1, 0.0, 'Nobody in here is a guest.')
+   (20, 1, 0.0, "That hasn't changed.")
+   (21, 1, 0.0, "Here's what I'd bet happened.")
+   (22, 1, 0.0, 'You went home and hit an ordinary day,')
+   (23, 1, 0.0, 'and you meant to say the small yes.')
+   (25, 1, 0.0, 'do it this way.')
+   (26, 1, 0.0, 'And another voice said,')
+   (27, 1, 0.0, 'no, a real man does the opposite.')
+   (32, 1, 0.0, 'Not the day.')
+   (33, 1, 0.0, 'The noise on the day.')
+   (34, 1, 0.0, 'I want to say the claim first,')
+   (35, 1, 0.0, 'so you hear it plain.')
+   (36, 1, 0.0, 'You are not crazy.')
+   (92, 3, 0.5, 'Ephesians four, verse fourteen.')
+   (162, 4, 0.25, "He's, uh, twenty-two,")
+   (190, 5, 0.5, 'Genesis three, verse ten.')
+   (321, 7, 0.5, "you don't understand it.")
+   (375, 9, 0.4, 'Genesis one, verse twenty-seven.')
+   (386, 9, 0.5, 'No résumé.')
+   (538, 12, 0.43, 'And you can quit carrying the rest.')
+   (584, 13, 0.0, 'is how this part dies.')
+longest missing run 30 nobody in here is a guest that hasn't changed here's what i'd bet happened you went home and hit an ordinary day and you meant to say the small yes
+inserted/replaced transcript runs >=4: []
+marker "cut screen": 0
+marker "section": 0
+marker "warmly": 0
+marker "room hands": 0
+marker "room chuckle": 0
+marker "new angle": 0
+marker "full screen": 0
+marker "creed board": 0
+marker "key line": 0
+
+Hand re-check (targeted re-transcription, medium.en, word timestamps): every flagged line is present and in order.
+ 0:38-1:30 opening run 'If you're new ... You are not crazy.' all present; Ephesians 4:14 at 3:38; 'He's, uh, 22,' at 6:36; Genesis 1:27 at ~15:15; 'No resume' at ~15:42; others matched at 0.75-1.0.
+ Flags were caused by chunk-edge skips and digit renderings. One whisper hallucination at a chunk edge ('I'll see you in the next video') is not in the audio; the adjacent window shows continuous script speech.
+No marker text read aloud.
+sec01 100.419977 mean_volume: -21.5
+sec02 115.379932 mean_volume: -20.5
+sec03 119.709977 mean_volume: -20.8
+sec04 119.289932 mean_volume: -20.9
+sec05 115.229932 mean_volume: -20.6
+sec06 105.369955 mean_volume: -20.7
+sec07 107.199955 mean_volume: -20.3
+sec08 107.299955 mean_volume: -21.0
+sec09 120.519909 mean_volume: -20.7
+sec10 115.099977 mean_volume: -20.5
+sec11 108.970000 mean_volume: -20.9
+sec12 101.839977 mean_volume: -20.8
+sec13 126.569932 mean_volume: -21.0
