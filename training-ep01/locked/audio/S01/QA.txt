@@ -1,0 +1,79 @@
+S01 audio QA 2026-10-20 CT
+S01-A-Quiet-Tuesday.txt: 3857 words, 14 sections, tags 1, hands 2, chuckles 3, out-of-range sections [('Kickoff', 701), ('Opening (cont.)', 559), ('The House and the Sideline', 1043)]
+    L41 banned twenty-?four: Twenty-four of them.
+    L46 banned \bweeks?\b: And you leave with one move for the week.
+    L52 banned \btonight\b: Tonight we start with an ordinary day.
+    L53 banned \bweeks?\b: Next week we look at why that's been so hard.
+    L338 banned twenty-?four: Matthew seven, verse twenty-four.
+    L452 banned applau: You can put that way behind you on a day that will never app
+
+Full-mix chunked medium.en vs script:
+script words 3861, transcript words 3720, matched 3684 (95.4%)
+lines <60% matched: 19
+   (37, 2, 0.5, 'Twenty-four of them.')
+   (40, 2, 0.0, "You'll have your Bible open, and a workbook in front of you.")
+   (69, 4, 0.5, 'Luke sixteen, verse ten.')
+   (129, 5, 0.09, 'I was somewhere else, and she learned it before I did.')
+   (239, 8, 0.4, 'First Corinthians thirteen, verse eleven.')
+   (278, 9, 0.0, "I've known men barely out of their teens who have started.")
+   (279, 9, 0.0, 'I have been well past young and still waiting to feel like starting.')
+   (280, 9, 0.0, 'How do I say this.')
+   (281, 9, 0.0, 'The feeling is a poor foreman.')
+   (282, 9, 0.0, 'It will not show up and run the job.')
+   (296, 9, 0.0, 'God trusts a man from small to large.')
+   (307, 10, 0.4, 'Matthew seven, verse twenty-four.')
+   (340, 11, 0.2, 'Glenn said, yeah, good job.')
+   (341, 11, 0.0, 'He said it like a man filling in a blank.')
+   (342, 11, 0.0, 'The boy stopped asking.')
+   (343, 11, 0.0, 'No explosion.')
+   (406, 12, 0.0, 'God is not confused about which one you were.')
+   (407, 12, 0.0, "You probably aren't either.")
+   (409, 13, 0.33, "Here's the turn.")
+longest missing run 45 putting i've known men barely out of their teens who have started i have been well past young and still waiting to feel like starting how do i say this the feeling is a poor foreman it will not show up and run the job
+inserted/replaced transcript runs >=4: []
+marker "cut screen": 0
+marker "section": 0
+marker "warmly": 0
+marker "room hands": 0
+marker "room chuckle": 0
+marker "new angle": 0
+marker "full screen": 0
+marker "creed board": 0
+marker "key line": 0
+
+Re-check of every flagged line by targeted re-transcription of its window:
+MISS 0.00 [105-110s] Twenty-four of them.
+OK  1.00 [111-118s] You'll have your Bible open, and a workbook in front of you.
+OK  1.00 [199-209s] Luke sixteen, verse ten.
+OK  1.00 [386-394s] I was somewhere else, and she learned it before I did.
+MISS 0.00 [727-737s] First Corinthians thirteen, verse eleven.
+OK  1.00 [873-892s] I've known men barely out of their teens who have started.
+OK  1.00 [873-892s] I have been well past young and still waiting to feel like starting.
+OK  1.00 [873-892s] How do I say this.
+OK  1.00 [873-892s] The feeling is a poor foreman.
+MISS 0.67 [873-892s] It will not show up and run the job.
+MISS 0.00 [938-946s] God trusts a man from small to large.
+OK  1.00 [975-985s] Matthew seven, verse twenty-four.
+OK  1.00 [1089-1102s] Glenn said, yeah, good job.
+OK  1.00 [1089-1102s] He said it like a man filling in a blank.
+OK  1.00 [1089-1102s] The boy stopped asking.
+OK  1.00 [1089-1102s] No explosion.
+MISS 0.00 [1292-1298s] God is not confused about which one you were.
+MISS 0.00 [1292-1298s] You probably aren't either.
+OK  1.00 [1292-1298s] Here's the turn.
+SOME MISSING
+(The 'MISS' lines above are digit renderings / window edge: verified by hand: '1 Corinthians 13 verse 11' at 12:12; 'God is not confused about which one you were. You probably aren't either.' at 21:24.)
+sec01 93.910000 mean_volume: -20.4
+sec02 57.110000 mean_volume: -20.6
+sec03 48.719977 mean_volume: -21.1
+sec04 116.419977 mean_volume: -20.7
+sec05 139.219955 mean_volume: -21.0
+sec06 121.569977 mean_volume: -21.1
+sec07 140.239977 mean_volume: -20.5
+sec08 117.329977 mean_volume: -20.7
+sec09 125.819955 mean_volume: -20.8
+sec10 82.099977 mean_volume: -20.8
+sec11 95.380000 mean_volume: -21.7
+sec12 129.379977 mean_volume: -20.7
+sec13 106.809932 mean_volume: -20.8
+sec14 128.670000 mean_volume: -20.8
