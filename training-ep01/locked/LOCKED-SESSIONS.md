@@ -1,4 +1,11 @@
 # Locked lecture sessions (do not edit these scripts or recordings)
+
+## LOCKED FORMAT — Session 1 (2026-10-20, Aaron: "formatting locked in everywhere")
+Canonical source: rec/S01-v2/W01-script-v-kickoff-2026-10-20.md. The two plain copies (scripts-v7/S01-A-Quiet-Tuesday.txt and rec/S01-v2/S01-A-Quiet-Tuesday-v2-script.txt) must be byte-identical to each other and word-for-word + marker-for-marker identical to the .md:
+- 14 sections, `# SECTION: <title>` (Opening, Kickoff, Opening (cont.), A Plain Day, Missed the Girl, A Weather Report, Where Were You, The Four, Very Little, The House and the Sideline, Glenn, The Verb, One Small Yes, The Tables).
+- Spoken lines as `text|pause` (seconds); room cues as pause tokens `|ROOM_HANDS` (= [ROOM: hands]) and `|ROOM_CHUCKLE` (= [ROOM: laugh]).
+- `[warmly]` tag on the first line ("[warmly] Alright.").
+- Every [CUT SCREEN] marker (section titles, key line, scripture boards Luke 16:10 NIV / 1 Corinthians 13:11 / Matthew 7:24, creed board x2) as its own `# CUT SCREEN: ...` line with the exact .md text. Marker lines are video-only; prep.py/check.py skip them.
 - S01 — A Quiet Tuesday — locked; REPLACED 2026-10-20 with W01-script-v-kickoff-2026-10-20 (rec/S01-v2/W01-script-v-kickoff-2026-10-20.md), approved by Aaron 2026-10-20 1:01 PM CT. New four-mark names/creed approved; Robert Lewis on-camera credit removed; adds Kickoff section. (scripts-v7/S01-A-Quiet-Tuesday.txt; rec/S01-v2; prior versions saved as *.bak-20261020-preKickoff). Recording not yet redone for the new script.
 - S02 — You Are Not Crazy — locked (scripts-v7/S02-You-Are-Not-Crazy.txt; rec/S02-v1; Drive folder 1XQN0TbUj3Hof452O8F0dKE_yvwDWFzi0)
 - S03 — The Four Marks — locked 2026-09-30 ~4:15 PM CT (scripts-v7/S03-The-Four-Marks.txt; rec/S03-v2; Drive folder 1LfoYrRhuUnhnO2uMfB3zvL6rdKtBipuT)
