@@ -1,0 +1,26 @@
+== E004-field-notes-the-sentence-test.md
+Spoken words: 2000 (about 13:20 at 150 wpm)
+WES: 32 lines, 1093 words (55%)
+JONATHON: 29 lines, 907 words (45%), 2 under 12 words (6.9%)
+Format: Field Notes (spoken-word window 1900-2400)
+  Jonathon short lines:
+    [9] The gutter. Please tell me it was the gutter.
+    [11] And read it to somebody. Even if he asks, "Who's Wes?"
+Hook before first sting: 51 words (about 20 s)
+Segments (start times at 150 wpm):
+  00:00  OPEN (word for word)  (144 words)
+  00:58  SEGMENT 1 · Wes checks the box  (489 words)
+  04:13  SEGMENT 2 · Jonathon checks the box  (485 words)
+  07:27  SEGMENT 3 · From the Table  (539 words)
+  11:03  SEGMENT 4 · Tool on the Table  (262 words)
+  12:48  CLOSE (word for word)  (81 words)
+  13:20  END
+Board cues: 3
+  ok (idea) The man who reads your card might bring a ladder.
+  ok (NIV exact) Proverbs 28:13
+  ok (NIV exact) 2 Corinthians 5:17
+  scripture quote ok (Lamentations 3:22-23): "Because of the Lord's great love we are not consumed, for hi"
+Show notes: E004-show-notes.md
+  show notes ok checks done; 3 NIV quotes verified
+
+RESULT E004-field-notes-the-sentence-test.md: PASS (0 fail, 0 warn)

@@ -1,0 +1,28 @@
+== E003-nobody-ever-gave-you-the-sentence.md
+Spoken words: 2988 (about 19:55 at 150 wpm)
+WES: 42 lines, 1600 words (54%)
+JONATHON: 38 lines, 1388 words (46%), 1 under 12 words (2.6%)
+Format: main (spoken-word window 2800-3200)
+  Jonathon short lines:
+    [3] And I'm Jonathon.
+Hook before first sting: 49 words (about 20 s)
+Segments (start times at 150 wpm):
+  00:00  OPEN (word for word)  (132 words)
+  00:53  SEGMENT 1 · The bathtub  (369 words)
+  03:20  SEGMENT 2 · The receipt  (506 words)
+  06:43  SEGMENT 3 · Win the room  (555 words)
+  10:25  SEGMENT 4 · Pushback  (420 words)
+  13:13  SEGMENT 5 · The Word  (370 words)
+  15:41  SEGMENT 6 · Saying it out loud  (349 words)
+  18:00  SEGMENT 7 · This week's challenge  (200 words)
+  19:20  CLOSE (word for word)  (87 words)
+  19:55  END
+Board cues: 3
+  ok (NIV exact) Psalm 139:23
+  ok (idea) Most men never chose their sentence. They caught it.
+  ok (NIV exact) Ephesians 2:10
+  scripture quote ok (Genesis 1:27): 'So God created mankind in his own image, in the image of God'
+Show notes: E003-show-notes.md
+  show notes ok checks done; 3 NIV quotes verified
+
+RESULT E003-nobody-ever-gave-you-the-sentence.md: PASS (0 fail, 0 warn)

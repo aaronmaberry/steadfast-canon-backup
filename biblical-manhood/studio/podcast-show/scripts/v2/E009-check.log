@@ -1,0 +1,30 @@
+== E009-the-weight-with-your-name-on-it.md
+Spoken words: 2959 (about 19:44 at 150 wpm)
+WES: 39 lines, 1569 words (53%)
+JONATHON: 35 lines, 1390 words (47%), 2 under 12 words (5.7%)
+Format: main (spoken-word window 2800-3200)
+  Jonathon short lines:
+    [7] Dani and I don't have a will.
+    [3] And I'm Jonathon.
+Hook before first sting: 44 words (about 18 s)
+Segments (start times at 150 wpm):
+  00:00  OPEN (word for word)  (125 words)
+  00:50  SEGMENT 1 · The check-engine light  (568 words)
+  04:37  SEGMENT 2 · The dent  (301 words)
+  06:38  SEGMENT 3 · The Word  (517 words)
+  10:04  SEGMENT 4 · Pushback  (491 words)
+  13:21  SEGMENT 5 · Whose spreadsheet  (175 words)
+  14:31  SEGMENT 6 · What we actually did  (519 words)
+  17:58  SEGMENT 7 · This week's challenge  (186 words)
+  19:13  CLOSE (word for word)  (77 words)
+  19:44  END
+Board cues: 3
+  ok (NIV exact) Proverbs 13:22
+  ok (idea) Your duffel is yours. A couch needs your brothers.
+  ok (NIV exact) Exodus 20:12
+  scripture quote ok (Galatians 6:5): 'For each one should carry their own load.'
+  scripture quote ok (Galatians 6:2): "Carry each other's burdens, and in this way you will fulfill"
+Show notes: E009-show-notes.md
+  show notes ok checks done; 5 NIV quotes verified
+
+RESULT E009-the-weight-with-your-name-on-it.md: PASS (0 fail, 0 warn)

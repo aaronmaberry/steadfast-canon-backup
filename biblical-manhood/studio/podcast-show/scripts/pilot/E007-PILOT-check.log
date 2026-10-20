@@ -1,0 +1,34 @@
+== E007-PILOT.md
+Spoken words: 3145 (about 20:58 at 150 wpm)
+WES: 47 lines, 1666 words (53%)
+JONATHON: 36 lines, 1479 words (47%), 2 under 12 words (5.6%)
+  Jonathon short lines:
+    [3] And I'm Jonathon.
+    [10] Oh, man. In front of everybody. What'd you say back?
+Hook before first sting: 51 words (about 20 s)
+Segments (start times at 150 wpm):
+  00:00  OPEN (word for word)  (153 words)
+  01:01  SEGMENT 1 · The quiet  (445 words)
+  03:59  SEGMENT 2 · Who's paying  (542 words)
+  07:36  SEGMENT 3 · The Word  (386 words)
+  10:10  SEGMENT 4 · Pushback  (507 words)
+  13:33  SEGMENT 5 · The question  (465 words)
+  16:39  SEGMENT 6 · What we're actually doing  (411 words)
+  19:24  SEGMENT 7 · This week's challenge  (145 words)
+  20:22  CLOSE (word for word)  (91 words)
+  20:58  END
+Board cues: 5
+  ok (NIV exact) Jeremiah 6:14
+  ok (idea) Delay isn't free. Check whose name is on the bill.
+  ok (NIV exact) James 4:14
+  ok (idea) Patience has a reason and a date. Waiting has a mood and a "
+  ok (NIV exact) Proverbs 3:28
+  scripture quote ok (James 4:17): "If anyone, then, knows the good they ought to do and doesn't"
+  scripture quote ok (Matthew 5:23-24): 'First go and be reconciled to them; then come and offer your'
+  scripture quote ok (Matthew 5:23-24): 'your brother or sister has something against you.'
+  scripture quote ok (Psalm 27:14): 'Wait for the Lord.'
+  scripture quote ok (Psalm 27:14): 'Wait for the Lord; be strong and take heart and wait for the'
+Show notes: E007-show-notes.md
+  show notes ok checks done; 6 NIV quotes verified
+
+RESULT E007-PILOT.md: PASS (0 fail, 0 warn)

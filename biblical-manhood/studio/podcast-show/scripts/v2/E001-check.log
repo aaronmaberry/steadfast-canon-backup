@@ -1,0 +1,31 @@
+== E001-the-man-you-keep-saying-youll-be.md
+Spoken words: 3105 (about 20:42 at 150 wpm)
+WES: 40 lines, 1664 words (54%)
+JONATHON: 37 lines, 1441 words (46%), 1 under 12 words (2.7%)
+Format: main (spoken-word window 2800-3200)
+  Jonathon short lines:
+    [3] And I'm Jonathon.
+Hook before first sting: 54 words (about 22 s)
+Segments (start times at 150 wpm):
+  00:00  OPEN (word for word)  (162 words)
+  01:05  SEGMENT 1 · Who's at the table  (431 words)
+  03:57  SEGMENT 2 · Who's across from him  (502 words)
+  07:18  SEGMENT 3 · A quiet Tuesday  (480 words)
+  10:30  SEGMENT 4 · The Word  (342 words)
+  12:47  SEGMENT 5 · Pushback  (565 words)
+  16:33  SEGMENT 6 · What we actually did  (253 words)
+  18:14  SEGMENT 7 · What this is  (153 words)
+  19:15  SEGMENT 8 · This week's challenge  (135 words)
+  20:09  CLOSE (word for word)  (82 words)
+  20:42  END
+Board cues: 3
+  ok (NIV exact) Proverbs 20:6
+  ok (NIV exact) Psalm 90:12
+  ok (idea) Rest walks back in the door. Hiding waits for someone else t
+  scripture quote ok (1 Corinthians 13:11): 'When I was a child, I talked like a child, I thought like a '
+  scripture quote ok (1 Corinthians 13:11): 'I put the ways of childhood behind me.'
+  scripture quote ok (Luke 16:10): 'Whoever can be trusted with very little can also be trusted '
+Show notes: E001-show-notes.md
+  show notes ok checks done; 4 NIV quotes verified
+
+RESULT E001-the-man-you-keep-saying-youll-be.md: PASS (0 fail, 0 warn)
