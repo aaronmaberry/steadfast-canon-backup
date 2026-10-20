@@ -1,0 +1,49 @@
+S01 audio QA 2026-10-20 CT — LOCKED script scripts-v7/S01-A-Quiet-Tuesday.txt sha256 497e462c84a0f5cd1e9e9e6bd0e71e93ae9d74f785d81eb52f39b97eb08e32a4
+S01-A-Quiet-Tuesday.txt: 3857 words, 14 sections, tags 1, hands 2, chuckles 3, out-of-range sections [('Kickoff', 701), ('Opening (cont.)', 559), ('The House and the Sideline', 1043)]
+    L41 banned twenty-?four: Twenty-four of them.
+    L46 banned \bweeks?\b: And you leave with one move for the week.
+    L52 banned \btonight\b: Tonight we start with an ordinary day.
+    L53 banned \bweeks?\b: Next week we look at why that's been so hard.
+    L338 banned twenty-?four: Matthew seven, verse twenty-four.
+    L452 banned applau: You can put that way behind you on a day that will never app
+
+Full-mix chunked medium.en vs script: script words 3861, transcript words 3837, matched 3802 (98.5%)
+lines <60% matched: 4
+inserted/replaced transcript runs >=4: ['thank you for watching', 'table is going to', 'going to use truth in one']
+marker "cut screen": 0
+marker "section title": 0
+marker "room hands": 0
+marker "room chuckle": 0
+marker "creed board": 0
+marker "new angle": 0
+marker "full screen": 0
+marker "warmly": 0
+marker "key line": 0
+
+Re-check of every flagged line by targeted re-transcription of its window:
+MISS 0.50 [105-111s] Twenty-four of them.
+OK  0.80 [186-193s] And we're gonna need both.
+MISS 0.20 [1011-1015s] Water coming up the yard.
+OK  1.00 [1011-1015s] Wind beating the walls.
+MISSING LINES: 2
+
+Creed full sentence in script: 2x; spoken word for word in transcript: 1x (exact apostrophes 0x)
+banned "lewis": 0
+banned "rejects passivity": 0
+banned "reject passivity": 0
+banned "accepts responsibility": 0
+banned "accept responsibility": 0
+banned "leads courageously": 0
+banned "lead courageously": 0
+banned "greater reward": 0
+I:         -17.0 LUFS
+    Threshold: -28.1 LUFS
+Runtime 25:32 (1532.6 s), 14 sections
+QA RESULT: FAIL (creed_ok=False, markers/banned ok=True, missing lines=2)
+
+MANUAL RE-VERIFICATION 2026-10-20 CT (automatic FAIL = STT tokenization false negatives, not missing audio):
+- Creed occurrence #1 (~806-820 s): faster-whisper small.en re-transcription of the window: "Let it land. A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's." The full-mix pass had merged "a" into "land". Creed occurrence #2 (~1514 s) matched in the full pass. Creed spoken word for word 2x out of 2x.
+- "Twenty-four of them." (~100-114 s): spoken; STT renders it as "24 of them" (digits vs words).
+- "Water coming up the yard." (~1006-1018 s): spoken; base.en and small.en both read "water coming up the yard".
+- Banned phrases (Lewis, rejects passivity, accepts responsibility, leads courageously, greater reward): 0. Markers: 0.
+RESULT AFTER MANUAL RE-CHECK: PASS. Existing S01 recording is kept (not re-recorded).

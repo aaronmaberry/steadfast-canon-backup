@@ -5,12 +5,12 @@ Master WAVs are in Git LFS. Web MP3 = 96 kbps CBR 44.1 kHz mono (same format as 
 
 | Session | Title | Runtime | Script sha256 | QA | Master WAV | Full MP3 (192k) | Web MP3 | 96k share MP3 |
 |---|---|---|---|---|---|---|---|---|
+| S01 | A Quiet Tuesday | 25:33 | `497e462c84a0f5cd1e9e9e6bd0e71e93ae9d74f785d81eb52f39b97eb08e32a4` | PASS (kept; STT recheck + manual re-check 2026-10-20) | `training-ep01/locked/audio/S01/S01-A-Quiet-Tuesday-master.wav` | `training-ep01/locked/audio/S01/S01-A-Quiet-Tuesday-full.mp3` | `training-ep01/locked/audio/web/lesson-01.mp3` | `artifacts/S01-A-Quiet-Tuesday-locked.mp3` |
 | S02 | You Are Not Crazy | 24:40 | `93f03f8e13f7727505a47e663f0a0f82acbe23ebd8295f43668795ad438b4549` | PASS | `training-ep01/locked/audio/S02/S02-You-Are-Not-Crazy-master.wav` | `training-ep01/locked/audio/S02/S02-You-Are-Not-Crazy-full.mp3` | `training-ep01/locked/audio/web/lesson-02.mp3` | `artifacts/S02-You-Are-Not-Crazy-locked.mp3` |
 | S03 | The Four Marks | 24:16 | `4b6e0b5dab2b01c23b89ba2c6167857626be1fa84e9191c0a460b66f0a2bea6c` | PASS | `training-ep01/locked/audio/S03/S03-The-Four-Marks-master.wav` | `training-ep01/locked/audio/S03/S03-The-Four-Marks-full.mp3` | `training-ep01/locked/audio/web/lesson-03.mp3` | `artifacts/S03-The-Four-Marks-locked.mp3` |
 
 ## Not yet recorded
 
-- S01 A Quiet Tuesday — script sha256 `497e462c84a0f5cd1e9e9e6bd0e71e93ae9d74f785d81eb52f39b97eb08e32a4` — not recorded yet: generated 2026-10-20 after credit top-up; post-processing/QA/publish in progress via detached driver (rec/allrun/driver.sh).
 - S04 Stop Waiting — script sha256 `bb549caa749b760ca4d4547b1b9afd357709da79a9cf3272ae1f0c43cac8e53a` — not recorded yet: generated 2026-10-20 after credit top-up; post-processing/QA/publish in progress via detached driver (rec/allrun/driver.sh).
 - S05 Pick Up The Weight — script sha256 `bf0de18288900ac35ded854b7987ac11651b645a380e2829b47dc61da9b962ce` — not recorded yet: generated 2026-10-20 after credit top-up; post-processing/QA/publish in progress via detached driver (rec/allrun/driver.sh).
 - S06 Go First — script sha256 `49e3efde7f8bd41fbb1eb72bf4026c385d533399decab8689b8ee051fdd84bbe` — not recorded yet: generated 2026-10-20 after credit top-up; post-processing/QA/publish in progress via detached driver (rec/allrun/driver.sh).
