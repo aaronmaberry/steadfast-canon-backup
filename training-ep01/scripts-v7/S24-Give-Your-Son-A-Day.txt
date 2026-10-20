@@ -1,0 +1,695 @@
+# SECTION: Welcome
+[warmly] Hey. Good to see you in a chair.|0.6
+Come on, settle in.|0.45
+Uh, some of you fought the drive to get here.|0.5
+You came anyway.|0.55
+I'm glad.|0.8
+Last time we stayed with a hill.|0.65
+A real piece of work.|0.4
+The boy climbs.|0.35
+You stay near,|0.3
+and you don't steal it back.|0.75
+I went— I went home ready.|0.5
+Pointed at the lawn.|0.4
+My boy looked at the mower.|0.45
+Then at me.|0.4
+He said the lawn already has a guy.|0.5
+He meant me.|ROOM_CHUCKLE
+[dry] So today isn't a bigger chore.|0.65
+Today is a morning he can find later|0.4
+and say, that was when.|1.3
+If you're new in the chair, I'm Wes.|0.55
+Glad you sat down.|0.7
+Uh, some of you have a boy under your roof.|0.5
+Some of you have a grown son,|0.4
+and the calls stay short.|0.65
+Uh, some of you are still waiting on a sentence.|0.7
+Stay.|0.45
+If there is no son, you're not spare.|0.6
+A younger man in reach still has ears.|0.55
+You may be one of the men at his morning.|0.85
+A lot of us think we already marked it.|0.55
+We showed up.|0.35
+We paid for something.|0.4
+We stood in a picture.|0.6
+He still can't find the day later|0.4
+and say what changed.|0.8
+A picture proves he attended.|0.5
+It doesn't prove he was named.|0.65
+Uh, I have stood in those pictures.|0.55
+Smiled.|0.3
+Drove home.|0.35
+Nothing in the truck was different.|0.75
+I mean, love isn't a marker.|0.7
+You don't need a perfect speech.|0.5
+You need a morning that happened,|0.45
+and ordinary days that don't undo it.|0.8
+Stay with me.|0.5
+A day, in plain speech,|0.4
+is men around him.|0.45
+A word he can repeat.|0.45
+A weight in his hand.|0.5
+And a welcome that doesn't sound like the old voice.|0.85
+You can— you can love a boy for years|0.45
+and still leave him guessing|0.4
+what all that love was for.|0.8
+The day is the marker.|0.7
+The Tuesdays after it are the handoff.|0.75
+A stone with no story is only a rock.|1.3
+# SECTION: The marks
+[warmly] You've carried one sentence through this whole room.|0.65
+I have not improved it.|0.55
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.|1.4
+# CUT SCREEN: creed board — "A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's." — new angle after
+You've heard it in this room.|0.55
+Uh, I'm not rebuilding it today.|0.6
+Today that sentence gets a morning.|0.75
+Stop waiting, on this one,|0.45
+means you don't wait for him to invent the day.|0.7
+The rest of the line is what you say over him|0.45
+when you finally stand there.|0.8
+Uh, you can hang that sentence on a wall|0.5
+and still never aim it at a boy.|0.65
+I have nodded at it for a long time.|0.6
+Nodding is cheap.|0.45
+A morning costs you witnesses.|0.6
+It costs you a line you can't tidy later.|0.75
+That's why a man puts it off.|0.55
+He'd rather stay vague|0.4
+and call the vagueness humble.|0.8
+I'm— I'm not asking you to lecture him.|0.6
+Uh, he has heard lectures.|0.5
+I want a day he will not mix up|0.4
+with an errand.|0.7
+You've been putting three names on him.|0.55
+Mine.|0.35
+What you see.|0.4
+Man.|0.55
+Those stay.|0.45
+They are the floor.|0.6
+The fourth name is the one this morning is for.|0.7
+You're becoming a man.|0.5
+That's what today is.|0.45
+Here's what it means.|0.65
+Then you say the line, slow,|0.5
+like you mean every word.|0.75
+Uh, if your mouth has been casual with those three,|0.5
+the fourth will feel too big.|0.65
+Say it anyway.|0.55
+If those three names have been in your house,|0.5
+you are closer than you feel.|0.6
+The fourth isn't a new religion.|0.55
+It's the hour you stop hinting.|0.7
+Uh, a boy can survive a shaky voice.|0.55
+He doesn't survive a missing morning.|0.8
+And if the Father has already called you son,|0.5
+you're not inventing manhood in the driveway.|0.65
+You are handing on a word|0.4
+that started above you.|0.75
+God's pay isn't a room that felt moved.|0.65
+It's a boy who knows what he is,|0.45
+and a father who told him the truth.|1.25
+# SECTION: What the stones mean
+[quietly] Now listen.|0.5
+Put this in your ear.|0.45
+You'll see it in the workbook.|0.6
+Joshua four, verses six and seven.|0.7
+To serve as a sign among you.|0.55
+In the future, when your children ask you,|0.5
+What do these stones mean?|0.8
+Tell them that the flow of the Jordan|0.4
+was cut off before the ark of the covenant of the Lord.|0.7
+When it crossed the Jordan,|0.45
+the waters of the Jordan were cut off.|0.65
+These stones are to be a memorial|0.45
+to the people of Israel forever.|1.35
+What do these stones mean.|0.6
+That question is the gift.|0.55
+God wanted a marker his people could point at,|0.5
+so a son down the line would ask,|0.45
+and a father would have a true answer ready.|0.9
+Uh, not a mood he hoped the boy caught.|0.6
+A thing.|0.4
+A place.|0.4
+A sentence.|0.7
+Uh, Israel didn't trust the memory to stay warm by itself.|0.65
+They piled a sign,|0.4
+and they told the men what to say|0.4
+when the question came.|0.8
+Uh, a sign nobody can explain|0.45
+is just a pile.|0.55
+The telling is what makes it a memorial.|0.75
+You can leave a boy a house,|0.45
+a decent truck,|0.4
+a name he already carries,|0.5
+and if you never said what the men meant,|0.55
+he inherits objects.|0.5
+He doesn't inherit a story.|0.8
+Uh, most of our houses are thin on that for sons.|0.6
+I mean, we have birthdays.|0.4
+We have the end of a school year.|0.5
+We have a dinner where somebody gets thanked.|0.65
+We don't have a morning|0.4
+where the men say, plainly,|0.45
+you are a man, here is the meaning,|0.5
+and you belong with us.|0.9
+Uh, so he guesses.|0.55
+He will— he will pick a marker|0.45
+from whatever is lying around.|0.7
+I mean, he has to.|0.5
+A boy is going to decide when his life turned.|0.6
+If you don't hand him the day,|0.45
+he will crown one himself.|0.7
+And the one he crowns|0.4
+is usually smaller than he is.|0.8
+So try the question while he's still here.|0.6
+What do these stones mean.|0.55
+If you don't have an answer yet,|0.5
+you just found the work.|1.25
+# SECTION: Not a party
+[amused] I tried to borrow a ceremony once.|0.6
+End of a season.|0.4
+Team dinner.|0.4
+I had remarks.|0.45
+My boy spent the remarks folding his napkin.|0.55
+Into a smaller napkin.|ROOM_CHUCKLE
+[dry] On the way to the truck he asked what was for later.|0.7
+He had not stored a line.|0.65
+Uh, a room can be full|0.4
+and still have no before and no after.|0.8
+No word he can say back.|0.5
+No weight in his hand.|0.5
+No moment the men welcomed him in.|0.75
+He supplies his own if you skip it.|0.6
+Uh, I've watched a boy decide he crossed|0.5
+the day a boss used his last name.|0.65
+Another one folded a wad of cash|0.45
+like he had invented money.|0.6
+Another came home with a scar he was proud of,|0.5
+and a story that got bigger every telling.|0.75
+Scraps.|0.45
+He grabbed them|0.35
+because nobody put the real thing in his hand.|0.8
+None of those made him a man.|0.55
+They made him feel briefly tall.|0.6
+Uh, tall wears off.|0.5
+Then he goes hunting another scrap.|0.7
+Here's the thing.|0.5
+Uh, a party feels like you did your job.|0.6
+You know, people saw you.|0.4
+You spent some money.|0.45
+There was noise, so it must have mattered.|0.7
+It didn't— it didn't count,|0.45
+not if he can't tell you what changed.|0.8
+You know the test.|0.5
+A year later, ask him what that night was.|0.55
+If he remembers the food|0.4
+and not a sentence,|0.45
+you hosted.|0.4
+You didn't mark him.|0.8
+Ask him, when you're not performing,|0.5
+what he thinks the marker was.|0.6
+Then don't correct him.|0.55
+Uh, if it comes out small,|0.45
+believe him.|0.5
+He is reporting the size of the gift.|0.8
+I don't say that to shame a good dinner.|0.6
+Uh, eat with your boy.|0.45
+I'm for it.|0.5
+Just don't call the dinner a crossing|0.45
+when nothing in him was named.|0.8
+The crossing has men,|0.4
+a word,|0.3
+a weight,|0.3
+and a welcome.|0.7
+Leave one of those out|0.4
+and he's back to scraps.|1.25
+# SECTION: What I used
+[quietly] I built my own out of scraps.|0.6
+The day they stopped seating me with the little kids.|0.6
+The day my name showed up on a bill.|0.55
+The day I realized|0.4
+nobody was coming to tell me|0.4
+I could stop auditioning.|0.75
+Uh, I called those a ceremony.|0.55
+They were just the calendar moving.|0.7
+You know, my dad was good to me in a lot of ways.|0.6
+Uh, he worked.|0.4
+He stayed.|0.4
+He never sat me down and said what a man is,|0.55
+and that I was one.|0.7
+I kept— I kept waiting for the sentence.|0.65
+Uh, the waiting got comfortable.|0.55
+I got older,|0.35
+and I got skilled at looking finished.|0.7
+Then I caught my boy|0.4
+trying on other people's approval|0.45
+like a coat he hoped would fit.|0.75
+I heard myself in it.|0.7
+That coat was other men's laughter.|0.55
+A little status.|0.4
+A chair he didn't have to earn at home.|0.65
+Uh, I recognized the fit.|0.5
+I had worn the same one.|0.65
+Let me see your hands.|0.5
+How many of you can point to a morning|0.45
+when men told you what a man is,|0.45
+and told you that you were in?|0.7
+Go on.|0.4
+I'm not collecting names.|ROOM_HANDS
+[warmly] Look around.|0.5
+Uh, some of you have one.|0.5
+A lot of you don't.|0.6
+If your hand stayed down,|0.45
+you are in good company.|0.55
+You are not stuck with the scraps.|0.75
+Doubt that you can pass on|0.4
+what you never got.|0.5
+That doubt feels honest.|0.55
+It's also wrong.|0.6
+The giving reaches a place in you|0.45
+that the receiving would have reached.|0.8
+You don't have to feel qualified.|0.6
+You have to tell the truth,|0.45
+and stand there while he hears it.|0.85
+If you did get a day,|0.45
+don't get proud.|0.45
+Ask whether you've been living like it counted,|0.55
+or whether you framed it and walked off.|0.75
+You know, a framed morning can become another scrap.|0.7
+If you got a real one,|0.45
+ask whether the days after still agree.|1.25
+# SECTION: The shape
+[dry] So what does a day like that actually take.|0.65
+Not a program.|0.45
+A shape.|0.6
+When.|0.4
+You can feel the crossing, right?|0.55
+The voice starts to move.|0.45
+The shoulders change.|0.45
+He watches men the way he used to watch a game.|0.7
+That's your window.|0.55
+Uh, if you missed it, hold the morning anyway.|0.65
+Late is still a sentence.|0.6
+A missing one is just a hole.|0.75
+Uh, I have used late as a reason to stay quiet.|0.65
+Late was fear,|0.4
+wearing a practical face.|0.75
+Who.|0.4
+You,|0.3
+and a few men he already respects.|0.55
+Men who will still answer|0.4
+when the morning is old.|0.65
+Not a crowd.|0.45
+I mean, too many bodies and everybody starts performing.|0.7
+If you don't have those men yet,|0.5
+go get them before you pretend you have a date.|0.7
+You've learned, in rooms like this,|0.45
+how to ask a man to walk with you.|0.75
+Where.|0.4
+Outside, if you can.|0.45
+Early.|0.4
+A place that already cost him something.|0.65
+A field he got tired on.|0.45
+A road he knows in the dark.|0.5
+I mean, the arrival itself should ask a little.|0.6
+Not a rented room|0.35
+with a speaker in the corner.|0.7
+If the only spot you can picture serves food,|0.55
+you are planning a party.|0.6
+Move it.|0.45
+Put it where he has to arrive.|0.75
+Before you go,|0.4
+he knows— he knows a morning is coming.|0.55
+He doesn't get the script.|0.6
+You meet those men once.|0.5
+Each one brings a true thing.|0.55
+What a man is, from his own years.|0.6
+One failure, and what he did after.|0.6
+One charge, aimed at this boy.|0.65
+Tell them not to impress him.|0.5
+Uh, tell them to tell the truth.|0.6
+A boy can smell a speech|0.4
+that was built to sound like a man.|0.7
+Short enough that the boy can say it back.|0.7
+Uh, if a man can't tell the truth in that small a space,|0.55
+he's not ready for the morning.|0.8
+You'd rather have fewer men|0.4
+than a performance.|1.25
+# SECTION: The morning
+[quietly] I sat down to write the sentence.|0.55
+Uh, the real one.|0.4
+I ended up in the junk drawer.|0.5
+Rubber bands in a row.|0.45
+The rubber bands have never been safer.|ROOM_CHUCKLE
+[dry] The page was still blank.|0.65
+A tidy drawer will not raise him.|0.8
+Uh, so here's the morning, plain.|0.55
+You get there by going,|0.4
+and you go quiet,|0.45
+so the weight can sit on him|0.4
+before the words do.|0.8
+Uh, somebody reads.|0.45
+Short.|0.35
+A piece of Scripture you have actually lived.|0.65
+Joshua's question is enough|0.4
+if you can tell the story behind it.|0.75
+Then the men, in turn.|0.5
+He stands.|0.4
+He receives.|0.45
+Uh, he will remember more than you think.|0.7
+You go last among the words that name him.|0.6
+The three names.|0.45
+Then the fourth.|0.5
+You're becoming a man.|0.45
+That's what today is.|0.4
+Here's what it means.|0.6
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.|1.3
+# CUT SCREEN: creed board — "A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's." — new angle after
+Say which of the four you are weakest at.|0.6
+Uh, he already suspects.|0.5
+Your honesty will do more than your polish.|0.75
+Say it— say it in your own hand,|0.5
+on a page he can keep.|0.65
+The handwriting can be ugly.|0.5
+Ugly and true beats neat and borrowed.|0.75
+Uh, then the token.|0.45
+Something that feels serious in the hand,|0.5
+not something that shows what you spent.|0.65
+If you can't say the meaning when you pass it,|0.5
+it's a souvenir.|0.7
+Uh, then you pray.|0.45
+Hands on him.|0.4
+Yours last.|0.55
+If your voice goes, leave it where he can see.|0.7
+A son learns something|0.4
+when his father weeps and finishes anyway.|0.8
+Then the plain sentence.|0.5
+You are one of us.|0.7
+Uh, then you go eat.|0.45
+And at that table|0.35
+you talk to him the way you talk to a man.|0.7
+He will notice.|0.55
+He has been waiting to hear the difference.|1.25
+# SECTION: Dale
+[warmly] I'll call him Dale.|0.55
+His boy had reached the age|0.4
+where he studied men.|0.55
+Dale had— Dale had been kind in passing.|0.55
+Never a morning set aside.|0.75
+The boy took work at a feed store.|0.55
+Uh, the men there started saving him a stool.|0.6
+Dale heard him one night,|0.45
+laughing like he had finally been let in.|0.75
+Somebody else was doing the welcome.|0.7
+Dale sat on that.|0.5
+Then he got embarrassed enough to move.|0.65
+He asked a few men the boy already trusted.|0.6
+A neighbor who had paid him for summer work.|0.6
+And the man Dale met with on purpose.|0.7
+The ball field behind the old middle school.|0.6
+The boy had stood in that outfield|0.4
+till his legs shook.|0.6
+Dale said, be ready early.|0.45
+Didn't say for what.|0.55
+The boy got in the truck|0.4
+with a face like he was in trouble.|0.7
+The neighbor told about a bid he had padded,|0.5
+and the morning he went back|0.4
+and ate the cost in front of the customer.|0.75
+The other man said what he wished|0.4
+someone had put on him|0.35
+before he left home.|0.7
+Then Dale.|0.45
+The three names.|0.4
+Then the fourth.|0.45
+His writing was a mess.|0.5
+He handed the page over anyway.|0.65
+Then a hinge pin from a gate they had hung.|0.65
+Dale said a gate is only a wish|0.45
+until the pin is in.|0.6
+You are in a few lives now.|0.5
+Stay when it would be easier to slip out.|0.75
+They prayed.|0.4
+Dale's voice went.|0.45
+He finished.|0.55
+Then a diner, already full of working men.|0.6
+The neighbor didn't ask|0.4
+what position the boy used to play.|0.55
+He asked what they ought to do|0.4
+about a fence that kept going down.|0.6
+And he waited.|0.55
+The boy answered.|0.4
+They used the answer.|0.65
+Uh, Dale told me the ride home was a new kind of quiet.|0.7
+Like somebody had moved the boy's chair.|0.8
+Uh, next Tuesday Dale handed him a list|0.5
+for a side job|0.4
+and left the driveway.|0.55
+Didn't watch from the window.|0.6
+The boy botched the order of the stops.|0.55
+Called.|0.35
+Dale asked what he was going to do.|0.6
+The boy fixed it.|0.45
+That night Dale said,|0.4
+that's a man's mess, and a man's repair.|0.85
+The pin had a story.|0.5
+Before that Tuesday,|0.4
+it was only a piece of metal.|1.3
+# SECTION: The Tuesdays
+[quietly] The morning doesn't finish him.|0.7
+Uh, I need you to hear that.|0.55
+The day— the day is a marker.|0.6
+It isn't a spell.|0.65
+Uh, I have watched a man do the brave part,|0.5
+say the true thing,|0.4
+hand over something heavy,|0.45
+and then go back,|0.4
+on an ordinary day,|0.4
+to managing a boy.|0.75
+I mean, the son files the morning under a nice speech.|0.7
+Uh, what makes it real|0.4
+is the different treatment after.|0.75
+You give him work that belongs to a man.|0.6
+You ask what he thinks,|0.45
+and then you actually use it.|0.7
+You correct him the way you'd correct a man you respect.|0.7
+When he fails, the bar stays up,|0.5
+and so does the mercy.|0.75
+Skip that,|0.4
+and the token is a souvenir with a date on it.|0.8
+Uh, I know the slide.|0.55
+I had a real talk with my boy in the driveway.|0.6
+I thought we had turned something.|0.55
+We walked— we walked inside|0.4
+like the hard part was over.|0.6
+I asked if he had brushed his teeth.|0.55
+Same tone I use for a missing sock.|ROOM_CHUCKLE
+[dry] He heard the old voice|0.4
+before the door shut.|0.75
+Uh, the morning can't live next to that voice.|0.65
+Tuesday has to sound like the sentence you spent.|0.8
+Uh, Dale knew it.|0.5
+The list in the boy's hand was the handoff.|0.6
+Not a speech on top of a speech.|0.6
+A man's work,|0.4
+a man's miss,|0.4
+a man's repair,|0.45
+and a father who didn't grab the wheel back.|0.8
+You already know how to mark a finish at work.|0.6
+A send-off.|0.35
+A plaque.|0.35
+A word in front of people.|0.55
+Don't spend your ceremonies on the job|0.45
+and leave the boy with a guess.|0.75
+The day is the marker.|0.65
+The Tuesdays are the handoff.|0.7
+A stone with no story is only a rock.|1.35
+If the story stops on the morning,|0.5
+you gave him a rock.|0.6
+Give him the day.|0.45
+Then give him the days that agree with it.|1.25
+# SECTION: Every chair
+[warmly] Now the chair you are actually in.|0.6
+If you— if you never got a day, you can still give one.|0.7
+Uh, I'll call him Frank.|0.5
+His son was grown.|0.45
+Frank thought the chance had dried up.|0.65
+They were in an aisle, looking at paint.|0.55
+The son said,|0.35
+are we ever going to have the talk,|0.5
+or is the aisle the rest of it?|0.7
+Frank said, not by the paint.|0.55
+They sat in the truck, doors open.|0.6
+Frank had the sentence on a page.|0.5
+Couldn't get it into the air.|0.55
+So the son read it back, slow.|0.65
+Frank said, yes.|0.4
+That's the one.|0.4
+I'm just late.|0.75
+Uh, an older man Frank had asked along|0.5
+looked at Frank, not the boy.|0.6
+He said, you did right by him.|0.5
+And you are a man.|0.55
+The hour you missed didn't close.|0.8
+Frank almost left that man off.|0.55
+He didn't think he was allowed to need it too.|0.75
+You can ask for that after your boy's morning.|0.55
+A hand, and a true word.|0.6
+Uh, young, and nobody has marked you.|0.55
+Receive one if an older man will give it.|0.6
+If you can't set a son's day yet,|0.5
+spend one true thing on a younger man.|0.7
+Single.|0.4
+You are not a guest on this.|0.55
+Uh, be ready with one true thing.|0.65
+If you know a boy whose father isn't there,|0.55
+ask his mother first,|0.45
+in the light,|0.4
+before you build a thing.|0.75
+Uh, if the marriage came apart,|0.5
+you can still do this.|0.5
+Tell his mother the aim.|0.45
+The boy is the subject.|0.55
+Keep the old argument out of the morning.|0.7
+If no day is a wound, go slow.|0.6
+I will not make that funny.|0.5
+Tell a brother when you are ready.|0.65
+Uh, a baby in the house.|0.45
+You are not behind.|0.45
+Put a date on a page,|0.4
+and the sentence you mean to say|0.45
+when his shoulders start to change.|0.65
+A seed is still a stone.|0.7
+Grown son.|0.4
+He still has ears.|0.45
+Grandson.|0.35
+Offer to stand with his father.|0.6
+Never had a son.|0.45
+You are not the mascot in the corner.|0.6
+Stand at a morning.|0.45
+Bring one true thing.|0.6
+And if you have a daughter,|0.45
+she needs a marked word too.|0.55
+Her mother in the room.|0.5
+Who she is,|0.35
+and what a man owes her.|0.6
+Don't give him a morning|0.4
+and leave her in the quiet.|1.25
+# SECTION: To the tables
+[warmly] Let me land it.|0.55
+We've covered a lot of ground in this room.|0.65
+Today it comes down to a morning|0.45
+a boy can point at.|0.75
+I'm not opening another map.|0.55
+The work in front of you is a day.|0.7
+The day is the marker.|0.6
+The Tuesdays are the handoff.|0.65
+A stone with no story is only a rock.|1.3
+Uh, what I hope you walk out with|0.5
+isn't a warmer opinion about fathering.|0.65
+It's a date.|0.45
+And the names of men who will show up.|0.75
+Uh, you will know whether you got a day.|0.55
+You will know what you used if you didn't.|0.65
+You will know if your boy is guessing.|0.6
+And you will not leave|0.4
+having only agreed with an idea.|0.8
+Your workbook is where this gets particular.|0.65
+Uh, in a minute you'll sit at the tables|0.5
+and work this part together.|0.75
+Get the questions in your ear.|0.55
+Did you get a day,|0.4
+and if you didn't,|0.35
+what did you use instead?|0.75
+Does your son have one coming,|0.5
+or has he been guessing?|0.7
+Date, men, place, token.|0.55
+What goes on the calendar?|0.6
+Write the three names,|0.4
+and the fourth.|0.55
+A son in the house,|0.4
+or a younger man in reach.|0.5
+Both of you own the page.|0.7
+Uh, tell a brother.|0.45
+Ask him— ask him to be one of the men.|0.6
+Tell him what to prepare.|0.5
+One story.|0.35
+One failure.|0.35
+One charge.|0.55
+If he has a son,|0.4
+ask when that day is,|0.45
+and offer to stand.|0.7
+If there is no son,|0.45
+ask to stand at a morning,|0.5
+or ask a mother about a boy|0.45
+whose father isn't there.|0.6
+Do it in the light.|0.65
+Carry this,|0.4
+and write it where you'll see it.|1.25
+# CUT SCREEN: section title "The Last Chair" — new angle
+
+# SECTION: The Last Chair
+The day is the marker.|0.55
+The Tuesdays are the handoff.|0.6
+A stone with no story is only a rock.|0.9
+Give him the day.|0.5
+Then live the days that make it true.|1.0
+Before you go to those tables, give me a few more minutes.|1.0
+This is the last time we do this together.|0.6
+I want to say it plain.|1.2
+Think back to the first day.|0.5
+Folding chairs.|0.4
+A bunch of guys just checking it out.|0.5
+I told you about a bike tire I fixed in the dark, by myself.|0.5
+I did the job and missed the girl.|0.9
+And I told you a man's life gets decided on the days nobody photographs.|1.4
+Look at what you did since then.|0.6
+You kept showing up on ordinary days.|0.5
+You sat at a table and told the truth to men who could check on you.|0.5
+Some of you texted a brother, and he texted back.|0.5
+Some of you missed a move, and came back anyway.|0.6
+I mean, that last one counts the most.|1.2
+So let me put the four in front of you one more time, my own way.|0.6
+Don't wait on the feeling.|0.4
+Carry what's yours.|0.4
+Step out ahead of your people.|0.4
+And do it for the Father's reward, the inheritance he gives his kids, not the clapping.|1.0
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.|1.4
+# CUT SCREEN: creed board — "A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's." — new angle after
+That line isn't the end of anything.|0.5
+It's how you walk out of here.|1.3
+# CUT SCREEN: section title "Keep Walking" — new angle
+
+# SECTION: Keep Walking
+Now.|0.4
+The room ends.|0.4
+The walk doesn't.|0.9
+Go to walksteadfast.com.|0.6
+# CUT SCREEN: key line — "walksteadfast.com" — new angle after
+There's a podcast.|0.4
+Jonathon Hale and I sit down and talk this stuff through, new episodes Tuesdays and Fridays.|0.6
+There's a short daily walk, a few minutes, to start your morning.|0.5
+There's the Steadfast Men book, if you want all of this in one place on your nightstand.|0.5
+And if this room helped you, there's a free guide to start a small group of your own.|0.6
+You know a guy who needs a table.|0.5
+Be the one who saves him a chair.|1.2
+Find us at Steadfast Walk, wherever you already scroll.|0.5
+Follow along, subscribe, and pass it to a brother.|0.5
+Send it to your friends, your church, your small group, your men's ministry.|0.5
+That's how a man in another town, or another country, hears this.|0.6
+Your support, whether that's a share, a few dollars, or one guy you bring to a table, pushes this to men all over the world.|0.6
+The goal hasn't changed.|0.4
+Make steadfast men.|1.3
+Here's my charge.|0.5
+Go home and be there.|0.5
+In the room, not only the building.|1.0
+Let's pray.|1.0
+Father, these are your men.|0.6
+Give them strength for their ordinary days.|0.5
+Make their yes outlast the mood.|0.5
+Put them in front of their families, scared or not, and let them work for your reward.|0.6
+In Jesus' name, amen.|1.4
+[warmly] Men, thank you.|0.6
+Thank you for showing up, for telling the truth, and for doing the work, every time, all the way to the end.|0.6
+It's been an honor to sit with you.|1.2

@@ -14,6 +14,15 @@ Canonical source: rec/S01-v2/W01-script-v-kickoff-2026-10-20.md. The two plain c
 - S04 — Stop Waiting — REVIEW v2 (not locked; rec/S04-v2; Drive 1mVzqd3z_oXxwlp13GhX3yxQOkXroxSp6)
 Openers/closers used so far (never reuse): S01 "Alright. Hey. I'm glad you came" / tables + "Get out of that chair, and go sit with men."; S02 "Well. Look who came back" / "Go to your tables, and tell the truth."; S03 "Welcome back. Grab a seat" / "Go to your tables, and give your Father something to see."; S04 cold-open garage-tile confession / prayer + "somebody be the first to say his number."
 
+## LOCKED FORMAT — Session 24 (2026-10-20, Aaron approved 3:33 PM CT; exact words AND formatting in every copy)
+Canonical copy: scripts-v7/S24-Give-Your-Son-A-Day.txt (sha256 fd7af7e8ee062f0e00ad7519785930830b0e78dbe2b8a42c1334fb58e799d922, 24744 bytes). Mirror: aaronmaberry/steadfast-canon-backup at the same path, byte-identical.
+- 13 sections, `# SECTION: <title>`: Welcome, The marks, What the stones mean, Not a party, What I used, The shape, The morning, Dale, The Tuesdays, Every chair, To the tables, The Last Chair, Keep Walking.
+- Spoken lines as `text|pause`; room cues as pause tokens `|ROOM_HANDS` / `|ROOM_CHUCKLE`; `[warmly]` / `[dry]` tags at line start only.
+- `# CUT SCREEN:` marker lines (video only; prep.py/check.py skip them): creed board x3 (S01 wording), section titles "The Last Chair" and "Keep Walking", key line "walksteadfast.com".
+- Creed exactly as S01: "A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's."
+- S24 — Give Your Son A Day — locked 2026-10-20 3:33 PM CT (Aaron). Built from scripts-v6/S24 (removed after lock). Changes: new series close (The Last Chair / Keep Walking: series callback, creed, walksteadfast.com podcast/daily/book/Small-Group Guide, socials @steadfastwalk, support, charge, prayer, thank-you as final words); Lewis creed x2 replaced with the new creed + creed board; Robert Lewis name removed; "Reject passivity" -> "Stop waiting"; "Lewis's line" -> "the line"; "God's reward" -> "God's pay". Rename hold lifted for S24 by this approval. Not yet recorded.
+- Closer: "...It's been an honor to sit with you."
+
 
 ## RENAME HOLD (Aaron 2026-10-01)
 The four marks are renamed (Stop Waiting / Pick Up the Weight / Go First / Work for God's Pay; creed: A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.). The book is rewritten first; S01-S04 scripts and recordings change only AFTER the book is final. Pending then: S01 and S02 still credit Robert Lewis on camera and use the retired mark wording (edit only those lines, re-record only those sections, keep openers/closers); S03 v2 marks lines map onto the new names (re-record only changed sections); S04 v2 makes Stop Waiting its plainly named focus mark, replacing the old passivity-mark lines. Do not edit these files before then.
