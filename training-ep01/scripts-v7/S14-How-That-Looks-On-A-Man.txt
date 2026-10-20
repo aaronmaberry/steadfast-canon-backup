@@ -1,0 +1,743 @@
+# SECTION: Welcome
+[warmly] Hey.|0.5
+Good to see you.|0.8
+Uh, some of you came in talking.|0.4
+Some of you came in hoping|0.3
+the talking could wait a minute.|0.65
+Both of you sat down.|0.4
+That's the hard part.|ROOM_CHUCKLE
+Glad you kept the chair.|0.75
+If you're new with us, I'm Wes.|0.5
+You can catch this from the seat you're in.|0.9
+Last time we said a word|0.35
+most men sand down.|0.55
+I sinned.|0.6
+Some of you got it out whole.|0.5
+Some of you— some of you trimmed it|0.35
+on the way out of your mouth.|0.7
+You still said more|0.3
+than you said the time before.|0.75
+Keep that.|0.7
+Today the inside gets a shape.|0.6
+Sin puts clothes on a man,|0.45
+and the clothes can look|0.35
+like somebody you'd hand your keys to.|1.05
+Competence is not righteousness.|1.4
+The hidden place can still be eating.|0.9
+One sentence|0.45
+holds four marks of a real man.|0.7
+I won't, uh, pull them apart today.|0.65
+I want them in the air|0.35
+while we look at what sin wears.|0.75
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.|1.4
+# CUT SCREEN: creed board — "A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's." — new angle after
+Sin on a man does not always show up as a wreck.|0.65
+Uh, sometimes it shows up as a man|0.4
+people are glad to see.|0.6
+And under that,|0.3
+something is aimed the wrong way.|0.85
+If you don't know the shapes,|0.45
+you'll look at that man in the morning|0.4
+and tell him he's alright.|0.75
+I have— I have told him that.|0.55
+With a straight face.|0.7
+You know, I believed me.|0.9
+The shapes have names.|0.5
+Yours is on the list.|0.55
+You may feel two of them.|0.5
+Pick the one that had the most hours.|0.65
+The one that, uh, carried your keys.|0.8
+If you claim every name|0.35
+so none of them can land,|0.55
+[dry] that's a very thorough dodge.|ROOM_CHUCKLE
+One shape.|0.5
+The one with the hours.|0.65
+Don't hide in the list.|1.2
+# SECTION: A way that appears
+Proverbs fourteen, verse twelve.|0.6
+There is a way that appears to be right,|0.5
+but in the end it leads to death.|1.35
+[quietly] Appears.|0.7
+That's the word that does the work.|0.6
+A way can look sensible|0.35
+while you're standing in the middle of it.|0.7
+Uh, nobody picks a shape|0.35
+because he wants to rot.|0.6
+He picks it because it looks like sense.|0.55
+Like rest, you know.|0.4
+Like being the strong one.|0.45
+Like keeping everybody steady.|0.65
+And the end of that road|0.4
+is not the picture he had|0.4
+when he stepped onto it.|0.95
+A man stays late and calls it providing.|0.6
+The talk at home|0.35
+is the thing he was late to avoid.|0.65
+The lateness, uh, looks like love.|0.55
+It appears right.|0.6
+You will not feel the rot|0.35
+on the day you choose the shape.|0.6
+You feel the usefulness.|0.5
+The dead end shows up later,|0.45
+in a house that learned|0.35
+to live around you.|0.85
+I mean, that's why good men get fooled.|0.6
+The shape comes dressed for the job|0.4
+he already respects.|0.75
+Write this, uh, where you'll see it.|0.5
+Competence is not righteousness.|1.4
+A man can run the work in front of him|0.45
+with a steady hand|0.4
+and be dying in the place|0.35
+he will not open.|1.15
+Open the drawer|0.4
+before somebody else has to.|0.9
+I'm gonna give you the names.|0.45
+Short, first.|0.4
+Then we'll stay with them.|0.6
+The drawer.|0.4
+A second story, kept out of sight.|0.6
+The fortress.|0.4
+Strength that will not be helped.|0.65
+The scoreboard.|0.4
+Ranking the room in your chest.|0.65
+The podium.|0.4
+A good man, while somebody's watching.|0.7
+The throne.|0.4
+Every talk in the house has to be won.|0.7
+Contempt.|0.45
+The throne, with the sound turned down.|0.65
+The recliner.|0.45
+Rest that costs the house a man.|0.8
+Those are the ones I see.|0.5
+Uh, yours is in there.|0.55
+Hold your pick|0.35
+until we've looked them in the face.|1.2
+# SECTION: Drawer and fortress
+[amused] The drawer first.|0.5
+This is the hidden set.|0.45
+The life people greet,|0.3
+and the other one.|0.6
+Sometimes it's only the true sentence|0.4
+you will not say out loud.|0.7
+A habit of hiding what you really think|0.45
+is already a drawer.|0.6
+It does not have to hold a scandal|0.4
+to be locked.|0.55
+The lock, uh, is the problem.|0.7
+When nothing is hidden,|0.4
+you stop spending your strength|0.35
+defending a door.|0.85
+I kept— I kept a little spiral pad|0.45
+in the console of my car.|0.55
+Every time my wife and I missed each other,|0.45
+I wrote her line down.|0.4
+Not mine.|0.45
+I told myself I was trying to understand.|0.65
+Uh, I was building a file.|0.6
+Months on, uh, I found it|0.35
+under a stack of gas receipts,|0.45
+and my own handwriting made me sick.|0.8
+I almost tossed it|0.35
+and called that the end of it.|0.6
+Tossing it without naming it|0.4
+is just a cleaner lock.|0.7
+She never knew, uh, about the pad.|0.55
+That was the point.|0.45
+And it was the whole problem.|1.1
+The fortress is next.|0.5
+This is the man who brings the ladder|0.4
+and will not say his back hurts.|0.65
+You offer, uh, the other end.|0.4
+He says he's got it.|0.45
+He always says he's got it.|0.6
+People start believing him.|0.5
+He starts believing them.|0.65
+It looks like a man carrying weight.|0.55
+A responsible man can still be helped.|0.6
+This one can't,|0.35
+and he calls that mature.|0.9
+A man at my table asked what was heavy.|0.55
+I told him about a deadline.|0.5
+He waited.|0.45
+I told him, you know, about another one.|0.6
+He said, I didn't ask about the work.|0.7
+I laughed.|0.4
+Then I moved us over to his problem,|0.4
+which I was glad to hold.|0.65
+Mine stayed in my pocket.|0.8
+I went home proud of how little I needed.|0.6
+My house was not proud.|0.55
+They had a man who would fix a hinge|0.4
+and would not say he was tired.|1.25
+# SECTION: Scoreboard and podium
+The scoreboard.|0.5
+He walks into a room and, uh, he ranks it.|0.55
+Not with his mouth.|0.4
+In his chest.|0.55
+Who got the nod.|0.4
+Whose name people remember.|0.65
+He can't be glad|0.35
+when another man gets a win.|0.6
+And his own life never gives him|0.35
+a place to sit down.|0.75
+The score updates.|0.45
+It does not rest.|0.7
+It happens before you notice.|0.6
+I caught it in myself|0.4
+at a table like this one.|0.55
+A man told a small true thing about his boy,|0.45
+and the room got quiet in a good way.|0.65
+I felt it.|0.45
+Right under the feeling,|0.35
+I checked whether my story|0.35
+had landed the same.|0.6
+[dry] It had not.|ROOM_CHUCKLE
+That's the scoreboard.|0.55
+It can run during a good moment|0.4
+and steal it,|0.35
+and nobody hears a word.|0.9
+Gladness is part of a free man.|0.55
+If another man's win|0.35
+makes you smaller,|0.45
+uh, the board is still running.|0.65
+God's pay does not rank you|0.4
+against another man.|0.75
+The podium.|0.55
+This one dresses up like righteousness.|0.65
+He is patient where the room can see it.|0.55
+He is generous where it will be noticed.|0.6
+Then he gets to a place|0.35
+where nobody is grading him,|0.45
+and the patience is gone.|0.8
+Uh, the gap between those two men|0.45
+is the performance.|0.75
+What you only do when eyes are on you,|0.5
+that's the podium.|0.7
+I wrote— I wrote a man in my group|0.4
+a careful note.|0.5
+Warm.|0.3
+I took my time, uh,|0.35
+so he'd feel respected.|0.6
+Then I walked into my own kitchen|0.4
+and got short with my wife|0.4
+about the same kind of wait.|0.65
+She had been waiting on me too.|0.6
+The note got a thank-you later.|0.55
+She got the short version.|0.6
+I called the note leadership.|0.55
+It was a show.|0.45
+With decent handwriting.|0.9
+The fourth mark is God's pay, not the room's.|0.55
+The podium already took its pay|0.4
+from people who don't really know him.|0.75
+That account closes.|0.5
+Don't live for it.|1.2
+# SECTION: Throne, contempt, recliner
+[quietly] The throne.|0.55
+Every talk in the house has to be won.|0.6
+He wins it, uh, loud.|0.45
+Or he wins it by going quiet|0.4
+until the other person feels foolish.|0.65
+Or he wins it with a little cut|0.4
+that would pass for a joke|0.35
+if you weren't the one it landed on.|0.8
+He calls that, uh, leadership.|0.6
+Ask the people in that house.|0.5
+A lot of their care|0.35
+goes into not setting you off.|0.75
+I have won arguments that small.|0.55
+I didn't feel cruel.|0.45
+I felt correct.|0.55
+Correct was the costume.|0.8
+Uh, harsh still has your name on it|0.45
+when the volume stays low.|0.7
+If somebody in your house|0.35
+gets careful when you come in,|0.55
+fear can wear good manners.|0.75
+Get off the seat.|0.45
+Get low,|0.3
+in front of the people|0.3
+who have had to read you|0.35
+before you say, uh, good morning.|1.15
+Contempt is the throne|0.4
+with the sound turned down.|0.6
+A correction of her story|0.4
+at a birthday supper,|0.4
+one detail that didn't matter,|0.45
+said with a smile.|0.65
+A short laugh|0.3
+when a younger man admits he's scared.|0.65
+A look at the clock|0.35
+while your boy is still talking.|0.75
+You can thank God with your mouth|0.45
+and treat his image cheap|0.4
+with the same mouth.|0.7
+If both live there,|0.4
+the shape is already on you.|0.9
+The recliner.|0.55
+On most men it does not look lazy.|0.6
+It looks like a man who decided|0.4
+the hard part of the day is over,|0.5
+and the house can live|0.35
+on whatever he has left.|0.75
+He sits.|0.4
+The hours go.|0.45
+Know that chair, right?|0.55
+I have called it coming down off the day.|0.6
+The house called it|0.3
+a dad on the property|0.35
+and not in the room.|1.0
+How many of you heard a name|0.4
+and your stomach already answered.|0.65
+Let me see a show of hands.|0.5
+Go on.|ROOM_HANDS
+Yeah.|0.4
+You can put them down.|0.5
+That drop was information.|0.6
+Don't argue with it yet.|1.2
+# SECTION: Boyd
+I want to tell you about a man.|0.55
+I'll call him Boyd.|0.5
+Boyd kept the fields lined|0.4
+for a small school district.|0.55
+If a pipe broke, uh, on a Saturday,|0.45
+Boyd was who they called.|0.55
+He came.|0.4
+People handed him, uh, the keys,|0.4
+and then they stopped worrying.|0.85
+At home there was a wife,|0.4
+three kids,|0.35
+and a hall closet|0.35
+with the board games stacked on the floor.|0.65
+Behind the games,|0.4
+a yellow envelope.|0.6
+Short lines in pencil.|0.55
+Times she had sighed.|0.45
+Times a kid had pushed back.|0.5
+Times he had felt unseen.|0.75
+He told himself, uh,|0.3
+a steady man keeps the facts.|0.7
+The office thought, uh, he was a gift.|0.75
+[quietly] His middle girl|0.45
+asked her mom|0.35
+if the family was in trouble.|0.6
+Dad went to the closet after supper,|0.45
+she said,|0.3
+and came out with his jaw set.|0.85
+Mom didn't know about the envelope.|0.6
+She asked him.|0.45
+He said it was work papers.|0.65
+She let it go.|0.75
+A little later— a little later he told me,|0.45
+standing by his cooler at the field.|0.65
+He hadn't planned a confession.|0.55
+The girl had asked him too,|0.45
+and he heard his own lie|0.4
+in a child's mouth.|1.2
+I said, Boyd,|0.4
+that envelope is running your house.|0.75
+He got hot.|0.5
+Told me I didn't know what he carried.|0.75
+I said the pages were still his.|0.8
+He went quiet.|0.85
+Then he said the true thing.|0.6
+He was afraid.|0.5
+If he stopped writing it down,|0.45
+he'd have to admit he was harsh.|1.15
+He took the envelope to the kitchen|0.45
+the next evening.|0.6
+He didn't read her the list.|0.55
+He said, this was me building a case.|0.6
+I'm sorry.|0.9
+She put her hand on the envelope,|0.45
+and she cried.|0.85
+He told me afterward|0.45
+what undid him.|0.55
+The fields were still lined.|0.5
+The mowers still ran.|0.5
+Nobody at the school had a word of complaint.|0.75
+He had been using a good job|0.45
+as proof he was a good man.|0.85
+Those are two different proofs.|1.2
+# SECTION: What the mirror won't say
+[quietly] Boyd could keep a whole place looking right|0.5
+while a yellow envelope|0.4
+was teaching his kids|0.35
+to watch his jaw.|1.15
+That's the claim, in a house.|0.6
+Competence is not righteousness.|1.4
+A clean report will lie to you|0.45
+as long as the work is still getting done.|0.8
+Sin lies to the man who's wearing it.|0.65
+So you need a test|0.4
+that does not come, uh, from your own mirror.|0.8
+The hiding test.|0.5
+What would shame you|0.4
+if a brother from this room|0.35
+stood beside you while it was opened.|0.75
+The thing you angle away|0.4
+when somebody walks up.|0.6
+If there is a place like that,|0.45
+the place is already speaking.|0.65
+You don't have to wait|0.35
+until the thing inside it gets worse.|0.7
+Uh, the lock is the confession|0.4
+you haven't made.|0.8
+The no test.|0.5
+When was the last time|0.35
+somebody told you no|0.4
+and you let the no stand.|0.7
+If you can't find the day,|0.45
+you may be sitting on a throne|0.4
+and calling it standards.|0.85
+The watch test.|0.5
+What do you do only when people are looking.|0.65
+The man in the credited hour,|0.4
+and the man in the hour|0.3
+with no credit on it.|0.6
+Name the gap, uh, out loud.|0.5
+Don't dress it up.|0.7
+The fear test.|0.5
+Who in your house|0.35
+gets careful when you come through.|0.65
+If a name comes up,|0.45
+get off the seat|0.35
+the same day.|0.6
+In front of them.|0.5
+Before you build a speech.|0.8
+You don't have to run every test|0.4
+before you go home.|0.5
+One honest look|0.35
+beats a whole stack|0.3
+you only think about.|0.7
+And the one I want you to actually run.|0.55
+If you're married,|0.4
+ask her where she sees you hiding|0.45
+and where she sees you harsh.|0.7
+Pick an hour that isn't already a fight.|0.6
+If you ask her|0.3
+and then explain why she's reading it wrong,|0.5
+[dry] you ran a different test.|0.45
+The throne.|ROOM_CHUCKLE
+Hear the whole answer.|0.5
+Then thank her.|1.2
+# SECTION: I asked her
+I ran that ask.|0.5
+She was rinsing a cup at the sink.|0.55
+I said, where do you see me hiding,|0.45
+and where do I get harsh.|0.7
+She dried her hands.|0.55
+She said, you leave the room|0.35
+without leaving the house.|0.6
+And you get sharp when you're tired.|0.75
+I almost said,|0.35
+you don't know the day I had.|0.6
+That sentence was, uh, right there.|0.55
+My boy was in the next room.|0.5
+He didn't need my defense.|0.5
+He needed the thank you|0.35
+to be the last word.|0.7
+[quietly] So I set that sentence down.|0.6
+I said, thank you for saying it straight.|0.7
+She looked at me|0.35
+like she was waiting for the but.|0.65
+There wasn't one.|0.55
+That was the win.|0.5
+Small.|0.35
+And it was real.|0.9
+Uh, the next day I told a brother|0.45
+the two sentences she actually used.|0.6
+He said he'd ask me|0.4
+when he heard the sharp one coming.|0.8
+The thank you is the courage.|0.65
+Your chest can be hot.|0.45
+Say it anyway.|0.6
+Uh, if you're single,|0.45
+same test, different person.|0.55
+Ask the brother, uh, who knows you|0.4
+when you are not performing.|0.65
+Or ask your mother,|0.4
+if she's the one who has watched.|0.7
+Whole answer.|0.4
+No defense loaded in your head|0.4
+while she talks,|0.35
+or while he talks.|0.55
+Then thank them.|0.6
+Thanking is you leading|0.4
+when your pride wants a rebuttal.|0.85
+I mean, the rebuttal can sound holy.|0.55
+It can sound like context.|0.5
+Context can come later,|0.4
+as honesty.|0.45
+If it comes first,|0.35
+it's the throne keeping the chair.|0.9
+Then tell a brother what's in the drawer.|0.6
+Even if the drawer|0.3
+is only that habit|0.35
+of hiding what you really think.|0.7
+Give him permission.|0.5
+Permission to say you are the man|0.45
+when he sees the shape on you.|0.75
+That is a brother|0.35
+refusing to call a lock|0.35
+a personality.|0.8
+You need him.|0.45
+And some man in here|0.35
+needs you to be him.|0.6
+Love him enough|0.35
+to be specific.|1.2
+# SECTION: Whoever you are
+[warmly] Now let me walk the room.|0.55
+The shape does not wait on your season.|0.65
+Young men.|0.5
+You can build a drawer|0.35
+in a bedroom that still has|0.35
+your childhood in the closet.|0.7
+You can rank your friends|0.4
+before you have a title.|0.55
+You can perform for a very small crowd|0.45
+and call it growing up.|0.7
+A young man can hide a whole opinion|0.4
+behind a joke|0.35
+and call the joke his personality.|0.65
+That's a drawer.|0.45
+It starts before anybody hands you a bill.|0.7
+Uh, start while the thing is light.|0.55
+It gets heavier|0.35
+the longer you feed it.|0.8
+Single men.|0.5
+Watch the drawer,|0.35
+and watch the podium.|0.55
+Your unwatched, uh, hours.|0.5
+And the payoff of looking solid|0.4
+around church people.|0.65
+Let a brother in|0.35
+while the hidden thing|0.3
+is still a habit,|0.45
+before it becomes another room you live in.|0.8
+Marriage is, uh, good.|0.45
+It is not the morning you become honest.|0.65
+Don't hand a future wife|0.4
+a lock you refused to open|0.4
+while you were free to open it.|0.85
+Married men.|0.5
+She already knows|0.35
+more than your speech does.|0.6
+Listen.|0.4
+The speech you build, uh, in your head|0.4
+while she talks|0.35
+is the throne|0.3
+trying to keep its seat.|0.8
+If the house is loud with little kids|0.45
+and you are empty,|0.5
+empty is, uh, real.|0.55
+Harsh still has your name on it.|0.65
+The people closest to you|0.4
+are often spent past what you can see.|0.7
+Say the sorry the same day.|0.55
+Don't save it for a better mood.|0.55
+The better mood|0.3
+is a story the throne tells.|0.85
+If the marriage ended,|0.45
+watch the quiet tally.|0.55
+Who tried.|0.35
+Who left.|0.35
+Who looks settled on a Sunday.|0.6
+That tally will offer you a job|0.4
+every morning.|0.55
+It feels like staying awake.|0.5
+It is a scoreboard.|0.55
+Put it down.|0.45
+The Father who sees what is done in secret|0.5
+is not grading you against her life.|1.2
+# SECTION: Hurt, years, and a good report
+[quietly] If you came in hurt,|0.5
+hear this before anything else.|0.6
+The wound is real.|0.6
+I am not calling it something you invented.|0.7
+Naming the shape|0.4
+does not erase what was done to you.|0.7
+The wound— the wound does not get the pen|0.45
+for every hour from here on.|0.75
+You can be hurt|0.4
+and still be the one hiding.|0.65
+Both can sit in the same man.|0.6
+Be kind, uh, to the wound.|0.5
+Take the pen back.|0.8
+Older men, look hard at the fortress.|0.6
+A long road teaches some of us|0.4
+how to need nothing,|0.5
+and it can pass, uh, for wisdom.|0.7
+A man I'll call Reece.|0.5
+People sent the new guys to him.|0.5
+He showed up, uh, with soup.|0.45
+He changed tires in the dark.|0.55
+He never called anybody|0.35
+for his own trouble.|0.65
+When his knee went,|0.45
+he drove himself|0.35
+and told the table he was just stiff.|0.7
+Uh, a younger man followed him out|0.45
+and watched him take a long minute|0.4
+getting that leg into the car.|0.75
+Reece said, don't fuss.|0.55
+The younger man said, I'm here.|0.7
+Reece sat with the door open.|0.65
+Then he said,|0.4
+I forgot how to let a man stand next to me|0.5
+unless I was the one helping.|1.15
+He'd helped half the men at that table.|0.55
+He could not name a need of his own.|0.75
+That's a fortress with years on it.|0.6
+The table had the helper.|0.45
+They did not have the man.|0.7
+If you are the one|0.35
+people send the new guy to,|0.5
+let one of them actually know you.|0.65
+Needing help|0.35
+is a man who can still be helped.|0.8
+And if the work is going well,|0.5
+the job can be praised|0.4
+and the drawer can be rotting|0.4
+in the same stretch of days.|0.75
+I have watched a good report|0.45
+make a man deaf|0.4
+to the person across the table at supper.|0.8
+I have been that man.|0.5
+The report was true.|0.45
+The man was still hiding.|0.65
+Don't let a strong run at work|0.45
+talk you out of an honest look.|1.2
+# SECTION: Open it while you can
+I don't want you leaving|0.4
+with a list and no mercy.|0.7
+The shapes are a diagnosis.|0.55
+They are not the last word on you.|0.75
+First John one, verse nine.|0.6
+If we confess our sins,|0.4
+he is faithful and just|0.4
+and will forgive us our sins|0.45
+and purify us|0.3
+from all unrighteousness.|1.2
+[quietly] Confess.|0.55
+The sentence can be, uh, short.|0.5
+I sinned.|0.45
+Then the specific thing.|0.45
+Then stop.|0.7
+Don't spend the next breath|0.4
+building a case|0.35
+for why it was reasonable.|0.8
+The period is where forgiveness meets you.|0.75
+What it cost other people|0.4
+may still have to be faced.|0.65
+Your standing with God|0.4
+does not wait|0.35
+until that cost is finished|0.4
+being expensive.|0.95
+Proverbs twenty-eight, verse thirteen.|0.65
+Whoever conceals their sins does not prosper,|0.55
+but the one who confesses|0.35
+and renounces them|0.35
+finds mercy.|1.15
+Conceal is the drawer doing its job.|0.65
+Confess is you opening it|0.4
+while the hand on the lock|0.35
+is still yours.|0.9
+You can be found by a child's question.|0.55
+You can be found by a brother|0.4
+who loves you enough to be specific.|0.65
+You can get tired|0.35
+of keeping two stories straight|0.4
+until one of them slips.|0.75
+Choose, uh, the earlier door.|0.6
+Open it— open it while it's still your hand.|0.8
+The Lord Jesus|0.4
+was the same man with the door shut|0.5
+as he was in a crowded street.|0.65
+The Father had the whole of him.|0.7
+You are not asked to pretend|0.4
+you were always clean.|0.6
+You are asked to come into the light|0.45
+where he already is,|0.5
+and let him make the two versions|0.4
+into one man.|0.9
+Your wife, if you have one.|0.45
+Your brothers.|0.4
+God.|0.45
+They can look at you|0.35
+without you managing the angle.|0.7
+Because the thing that needed a lock|0.45
+has been named.|0.45
+And forgiven.|0.8
+Plain as that.|0.55
+Mercy meets a man at the period.|1.2
+# SECTION: To the tables
+[warmly] Let me land it.|0.55
+The inside has a shape.|0.55
+It can look right|0.4
+and still be leading somewhere dead.|0.75
+Competence is not righteousness.|1.3
+A man can be excellent|0.4
+at the thing people praise|0.45
+and be rotting|0.35
+where he will not look.|0.8
+Open the drawer|0.4
+before someone else does.|1.15
+What I hope— what I hope you walk out with|0.5
+is not a harsher opinion of yourself.|0.65
+I hope you've got, uh, the shape|0.45
+that has had your hours,|0.5
+and that the naming|0.35
+is not the end of you.|0.7
+There is mercy|0.35
+on the far side of the period.|0.95
+Your workbook is where this gets particular.|0.65
+So get the questions, uh, in your ear.|0.6
+Which shape is yours.|0.5
+Drawer.|0.3
+Fortress.|0.3
+Scoreboard.|0.3
+Podium.|0.3
+Throne.|0.3
+Contempt.|0.35
+Or recliner.|0.55
+One.|0.4
+The one with the hours.|0.65
+Where did it show|0.4
+in the days right behind you.|0.7
+One place.|0.45
+Say it out loud at the table.|0.65
+Who will you ask.|0.5
+The wife test,|0.35
+or the brother test.|0.5
+Where they see you hiding.|0.45
+Where you are harsh.|0.5
+Will you hear the whole answer|0.4
+without a defense,|0.45
+and will you thank them after.|0.8
+How many of you|0.35
+already know the person.|0.55
+Let me see, uh, your hands.|ROOM_HANDS
+Good.|0.45
+If your hand stayed down,|0.4
+pick before you stand up.|0.7
+And tell a brother about the drawer.|0.55
+Even if it's only the habit|0.4
+of hiding what you really think.|0.65
+Give him permission|0.4
+to say you are the man|0.4
+when he sees it.|0.75
+Carry this.|0.5
+Competence is not righteousness.|0.55
+Open the drawer before someone else does.|0.9
+The marks still stand over it.|0.55
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.|0.85
+# CUT SCREEN: creed board — "A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's." — new angle after
+Keep that line close.|0.55
+Today, use it on the shape.|0.6
+Tables are yours.|0.5
+Work that part of the workbook together.|0.65
+One shape.|0.4
+One ask.|0.4
+I'll be around.|1.2

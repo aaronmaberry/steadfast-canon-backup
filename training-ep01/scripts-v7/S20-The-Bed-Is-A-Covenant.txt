@@ -1,0 +1,818 @@
+# SECTION: Welcome
+[warmly] Good.|0.5
+Come on in.|0.4
+Find a chair.|0.55
+Uh, you don't have to earn it.|0.6
+I'm Wes.|0.4
+Glad you made it here.|0.8
+I put one word on a card|0.4
+so I would not dodge today.|0.6
+Bed.|0.5
+My boy saw it on the counter.|0.55
+He said, we getting a new one?|ROOM_CHUCKLE
+[dry] Different subject.|0.55
+He let it go.|0.5
+Uh, I almost did.|0.7
+Last time we talked about laying a grip down.|0.6
+And about asking what she actually needs.|0.65
+Keep both.|0.45
+They still stand.|0.85
+Today we walk into the room|0.4
+a lot of decent men will not name.|0.8
+How many of you felt the air change|0.45
+when you saw where this was headed?|0.6
+Hands.|0.35
+I'm not writing them down.|ROOM_HANDS
+Yeah.|0.4
+That's fair.|0.45
+Stay anyway.|0.65
+Before we walk around it,|0.4
+here is the whole thing.|0.55
+The bed is a vow|0.35
+kept with a body.|0.85
+A contract has two ends.|0.5
+A covenant has|0.45
+all of you.|1.45
+This is— this is not a craft talk.|0.6
+If all you take is try harder,|0.45
+you will nod at me|0.35
+and go home the same man.|0.75
+Uh, some of you share a house.|0.5
+Some of you don't.|0.4
+Some of you did,|0.35
+and the quiet there is not funny.|0.75
+You stay.|0.45
+Honored by all|0.4
+means the whole room.|0.7
+Give us a mower that won't start|0.45
+and we become a shop class.|0.55
+Say the word bed|0.4
+and half of us inspect a shoe.|ROOM_CHUCKLE
+Uh, I inspected that shoe.|0.5
+Uh, called it privacy.|0.55
+Uh, it was fear,|0.35
+with better manners.|0.7
+Some of you hoped|0.4
+I would talk around it.|0.55
+I won't.|0.45
+Uh, a man can carry this alone|0.5
+until he is tired|0.4
+and very good at the mask.|0.75
+The mask gets heavy.|0.5
+Uh, he calls it fine.|0.55
+Uh, we set it down.|0.55
+In this room.|0.4
+With brothers.|0.5
+You don't have to perform.|0.55
+You do have to be honest.|0.65
+No smirk in it.|0.45
+And no hiding.|0.5
+Here, with your brothers.|0.55
+You can hear a hard true thing|0.45
+and keep your seat.|1.25
+# SECTION: The four marks
+[warmly] These four marks are the sentence we keep coming back to.|0.65
+I have not improved them.|0.55
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.|1.4
+# CUT SCREEN: creed board — "A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's." — new angle after
+You've heard them in here.|0.55
+Uh, today they don't stay by the door.|0.6
+They come down the hall.|0.5
+Into the private hours,|0.4
+where nobody claps|0.35
+and nobody posts it.|0.75
+It is— it is the same man|0.4
+when the room gets small.|0.8
+Passivity, here,|0.4
+is going mute|0.35
+and calling the mute peace.|0.7
+You feel a distance.|0.45
+Uh, you tell yourself it settles.|0.55
+It doesn't settle.|0.45
+It sets.|0.75
+Responsibility|0.4
+is your eyes,|0.3
+your hurry,|0.3
+your distance,|0.35
+your silence.|0.65
+Uh, not a speech about what she owes.|0.75
+Some of you have been sinned against.|0.55
+Uh, I know that ache.|0.5
+Uh, the pain's real.|0.55
+It is still not a permission slip|0.45
+for a second life after dark.|0.85
+Courage is the talk|0.4
+you keep moving down the list.|0.55
+And the truth you put in a brother's hand|0.5
+Uh, before your mouth sands it.|0.75
+The real pay|0.45
+is not a secret that paid you|0.4
+for one night.|0.6
+God's pay.|0.55
+The Father sees the shut door.|0.6
+He is not embarrassed|0.4
+by a faithful hidden hour.|0.65
+He is not fooled|0.35
+by a clean face|0.3
+over a divided life.|0.9
+A man can be brave on the job|0.45
+and passive at his own table.|0.65
+Uh, he'll take the hard call.|0.55
+He will not answer his wife|0.4
+about this.|0.6
+Uh, that is not strength.|0.55
+That is courage that picked a favorite room.|0.8
+If you are young, or still single,|0.5
+there is no lobby|0.4
+where your body doesn't count yet.|0.7
+Passivity now|0.35
+will not become courage later.|0.65
+Hold the four while we talk.|0.55
+Reject the mute.|0.4
+Own what is yours.|0.45
+Go first.|0.4
+Want the reward that lasts.|1.3
+# SECTION: Two kinds of promise
+[dry] Let me separate two words|0.45
+men mix up on purpose.|0.7
+A contract is built|0.4
+so you can leave clean|0.45
+if the other person fails.|0.75
+A covenant is built for staying.|0.7
+Uh, I rented a little place once.|0.55
+Some years back now.|0.5
+The kind part of that paper|0.4
+was the last page.|0.6
+I could already picture the morning|0.45
+I handed the keys back|0.45
+and walked off down the block.|0.75
+The landlord and I|0.4
+both kept an eye|0.35
+on whether the other|0.35
+had slipped.|0.6
+That is a contract.|0.55
+You trade a service.|0.5
+You watch the other party.|0.55
+You keep a copy|0.4
+in case you need it.|0.7
+I liked that paper.|0.45
+Uh, I knew the day it ended.|0.55
+Nothing in it asked for my whole life.|0.65
+You can stare at an end date|0.45
+and feel, you know, oddly settled.|0.65
+A vow will not hand you that.|0.65
+A covenant is a different posture.|0.6
+You hand over yourself.|0.55
+Not a shift.|0.4
+Not a mood,|0.35
+if the mood holds.|0.6
+You.|0.5
+The bed is where that promise|0.45
+either gets a body|0.4
+or gets contradicted by one.|0.85
+I kept— I kept a last page warm|0.55
+in my own head|0.4
+during a hard stretch.|0.7
+Uh, I never packed.|0.5
+Uh, I rehearsed how reasonable I'd sound|0.55
+if I were finished with the hard part.|0.75
+Uh, I called it wisdom.|0.6
+It was a man|0.35
+keeping his name|0.4
+off a promise|0.35
+he had already made.|0.85
+You can— you can be polite for years|0.55
+and still be half gone|0.45
+on the inside.|0.7
+She can feel a man who is present.|0.55
+She can feel a man who is renting.|0.65
+Right?|0.55
+The promise did not come|0.4
+with a cancellation line.|0.7
+A hard season does not void it.|0.6
+You don't get yourself back|0.45
+as a refund for decent behavior.|0.8
+Uh, here is the sentence again.|0.55
+The bed is a vow kept with a body.|0.65
+A contract has two ends.|0.5
+A covenant has all of you.|1.3
+# SECTION: What God made
+Now the page,|0.4
+before the arguments.|0.65
+Genesis two,|0.4
+verses twenty four and twenty five.|0.7
+That is why a man|0.35
+leaves his father and mother|0.45
+and is united to his wife,|0.45
+and they become one flesh.|0.7
+Adam and his wife were both naked,|0.5
+and they felt no shame.|0.95
+Stay with me.|0.45
+One flesh.|0.45
+Nothing hidden.|0.4
+No shame in it.|0.6
+Uh, and the One who made them|0.45
+called that good.|0.8
+The loud story around us|0.45
+calls this a hobby.|0.6
+Two adults.|0.35
+A free evening.|0.4
+No tomorrow owed.|0.6
+Then everybody goes home.|0.65
+Some of us learned the other story|0.5
+in a church voice,|0.45
+lowered,|0.4
+like you talk about a spill.|0.65
+It was something you got through|0.45
+and did not mention.|0.55
+A little bit wrong,|0.4
+even inside a marriage.|0.75
+Uh, I carried it|0.5
+longer than I'll admit.|0.6
+I could joke at almost anything.|0.55
+Uh, this one,|0.35
+I cleared my throat|0.4
+and found a new subject.|0.7
+Uh, both are lies.|0.6
+God made this|0.4
+before anything was broken.|0.65
+He was— He was not embarrassed|0.55
+by the man and the woman.|0.7
+He is still not.|0.6
+Hebrews thirteen, verse four.|0.65
+Marriage should be honored by all,|0.5
+and the marriage bed kept pure,|0.5
+for God will judge the adulterer|0.45
+and all the sexually immoral.|0.95
+Honored.|0.45
+Not snickered at.|0.5
+Not handled like a spill you hide.|0.7
+Kept pure|0.45
+does not mean grim,|0.4
+or rare,|0.35
+or a prize for looking impressive.|0.7
+It means kept for what it is,|0.5
+between the two people it belongs to,|0.55
+and treated as holy|0.45
+because He said so.|0.75
+He made it.|0.4
+He guards it.|0.65
+If you are not married,|0.45
+don't drift.|0.5
+Honored by all is your line.|0.6
+Uh, your body's already speaking|0.5
+about a promise|0.4
+you may not have made.|0.75
+Uh, we won't borrow the hobby.|0.55
+We will not borrow the embarrassment.|0.65
+We take Him at His word.|1.25
+# SECTION: Exclusive and generous
+So what does keeping it look like|0.45
+once there is a bed.|0.7
+Exclusive.|0.5
+All the way in.|0.6
+Not the woman at work.|0.5
+Not a memory you keep warming up.|0.65
+Not a screen in the dark.|0.6
+Matthew five, verse twenty eight.|0.65
+Anyone who looks at a woman lustfully|0.5
+has already committed adultery|0.4
+with her in his heart.|0.9
+[quietly] A husband can stay home|0.45
+and still be gone.|0.65
+I called— I called it nothing,|0.55
+in a stretch I hate to name.|0.65
+Uh, my body was home.|0.5
+Uh, my attention had another address.|0.65
+I told myself it did not count.|0.55
+I had not walked through a wrong door.|0.7
+She did not have proof to set on the table.|0.6
+She had a husband|0.4
+who was somewhere else|0.4
+while he ate.|0.75
+That is a split promise.|0.6
+The Father had already named it.|0.6
+I had to catch up.|0.65
+Then generous.|0.55
+First Corinthians seven, verse four.|0.7
+The wife does not have authority|0.4
+over her own body|0.35
+but yields it to her husband.|0.65
+In the same way,|0.45
+the husband does not have authority|0.4
+over his own body|0.4
+but yields it to his wife.|0.95
+Uh, men love the first sentence.|0.55
+Uh, they go quiet on it.|0.6
+The second one|0.4
+turned an old world over.|0.65
+You are for her joy.|0.55
+Uh, getting yourself finished|0.5
+is the smaller aim.|0.7
+Ask how she is made.|0.5
+Ask what would bless her.|0.55
+Then believe her,|0.45
+even if the pace|0.35
+is not the one you brought.|0.7
+Uh, I've treated the end of a night|0.55
+like an errand|0.4
+Uh, so I'd sleep.|0.55
+Uh, she knew when I'd come to be with her.|0.6
+Uh, and when I'd come to be done.|0.7
+I mean, those are different nights.|0.65
+Rushing her|0.4
+takes the gift back|0.4
+while you act like you offered it.|0.8
+A patient kindness|0.45
+is the promise|0.4
+Uh, with your hands in it.|0.7
+Loyal in public,|0.4
+and selfish when the door shuts,|0.55
+is a story,|0.4
+not a vow.|1.25
+# SECTION: Curtis
+[quietly] I know the pleasant man|0.45
+who is already gone.|0.6
+I have been him|0.4
+in my own kitchen.|0.65
+Let me— let me tell you about another.|0.55
+I'll call him Curtis.|0.55
+He ran a small engine shop.|0.55
+One night after close|0.45
+we sat on two overturned buckets.|0.6
+Uh, the light hummed.|0.45
+He kept folding the same shop rag.|0.65
+He said his wife had started|0.45
+sleeping faced to the wall.|0.55
+Uh, he had it solved.|0.55
+She's tired.|0.4
+Uh, that's all of it.|0.6
+He could tell you|0.4
+when her car was due for oil.|0.6
+He could tell you the ball schedule|0.5
+without looking down.|0.55
+He could not tell me|0.45
+when he had last sat down|0.45
+only to hear her.|0.75
+He called the useful things|0.45
+being a family man.|0.65
+I asked when he had last|0.45
+put a hand on her shoulder|0.45
+that wasn't reaching past her.|0.7
+He folded the rag.|0.5
+He said he didn't watch that.|0.65
+A little later|0.45
+she said it at the sink.|0.55
+Calm.|0.4
+You are a good worker.|0.5
+I miss my husband.|0.95
+Uh, he listed the day.|0.5
+The shop.|0.35
+The boy.|0.35
+What he had carried.|0.6
+The list was true.|0.5
+Uh, he heard it|0.4
+while it was leaving his mouth.|0.5
+Uh, it sounded like a defense.|0.7
+He stopped.|0.6
+What he changed|0.4
+was small enough to sneer at|0.55
+if you want a grand repair.|0.7
+Phone in a drawer before supper.|0.55
+One question.|0.4
+He did not improve her answer.|0.6
+A hand on her shoulder|0.45
+while she rinsed a plate.|0.55
+He left it there.|0.45
+Uh, no plan behind it.|0.65
+He kept doing it.|0.5
+He told me the closeness came back.|0.6
+It started at that sink,|0.5
+not in the other room.|0.7
+He had been trying to fix|0.45
+the last room in the house.|0.65
+The promise had worn thin|0.5
+Uh, where lights were on.|0.8
+If your bed has gone quiet,|0.55
+Uh, don't use quiet to win.|0.65
+Don't make distance do your arguing.|0.7
+Uh, find what thinned.|0.5
+Uh, it usually started earlier,|0.5
+and it usually started bigger.|1.3
+# SECTION: Say it
+Uh, most of us never get a sentence out|0.55
+about any of this.|0.65
+Uh, we hint.|0.45
+We sigh.|0.4
+Then we are hurt|0.35
+that she did not translate it.|0.75
+[amused] I can explain a gutter|0.45
+like somebody assigned it.|0.55
+The honest question,|0.4
+uh, I would rather go check the gutters.|ROOM_CHUCKLE
+Uh, she's watched me|0.45
+get handy|0.4
+right when a talk gets close.|0.7
+Handy is a good gift.|0.5
+It is a cheap place to hide.|0.7
+So if you are married,|0.45
+here is the keep.|0.55
+One gentle conversation.|0.5
+Honest.|0.4
+Not in the bed.|0.5
+Not in the bruise|0.4
+right after you have disappointed each other.|0.7
+I mean, in the daylight.|0.55
+Ask what she wants more of.|0.55
+Ask what she wants less of.|0.6
+Then get quiet|0.4
+long enough to actually hear it.|0.75
+How many of you are married,|0.45
+and you cannot remember|0.4
+that talk,|0.35
+calm,|0.3
+away from the bed?|0.6
+Hands.|0.35
+No speeches attached.|ROOM_HANDS
+Yeah.|0.4
+You know why it's on the page.|0.65
+You don't wait until you feel ready.|0.55
+You do it|0.35
+because you already promised.|0.75
+And then the ordinary nearness.|0.65
+Uh, beds go quiet from neglect|0.55
+a long time before age does it.|0.75
+If your hand only arrives|0.45
+when you want the night to go somewhere,|0.65
+you are teaching her a meaning.|0.6
+She will believe you.|0.6
+A hand on her back|0.45
+in an ordinary evening,|0.5
+a kiss that is not a down payment,|0.6
+sitting close because you are glad|0.45
+she is in the room,|0.55
+that is the vow|0.4
+on an ordinary evening.|0.75
+Uh, I've been brave about trash.|0.55
+Uh, I've been a coward|0.5
+about that plain touch,|0.5
+the one with nothing clipped to it.|0.8
+Reject the distance.|0.5
+It feels like peace.|0.5
+It is a slow shut door.|0.7
+Lead with a calm ask in the light.|0.6
+Not with a speech in the dark|0.5
+when you are already mad.|0.7
+The bed will tell on|0.45
+what the rest of the house|0.4
+has been practicing.|1.25
+# SECTION: The screen
+Now the other bed.|0.55
+The one that fits in a pocket.|0.7
+It never has a hard day.|0.55
+It never needs you kind.|0.55
+It never asks you to stay|0.45
+after you are finished.|0.75
+Uh, that is why it beats|0.4
+a real woman|0.4
+on a tired night.|0.65
+A real woman can be hurt.|0.5
+A real woman can say not now.|0.6
+Uh, a picture says nothing|0.5
+but yes.|0.65
+Every time you go there,|0.5
+you practice a body|0.4
+that belongs to nobody.|0.75
+You also practice a lie.|0.55
+The lie says she is what is missing.|0.65
+What is missing|0.4
+is that you left.|0.7
+I have— I have gone there.|0.55
+Uh, looked steady in rooms like this.|0.6
+Lost hours|0.35
+I would not want quoted.|0.6
+I called it stress.|0.5
+Uh, I called it small.|0.55
+It was a small betrayal|0.45
+that knew the way back.|0.75
+The fight— the fight changed|0.55
+when it stopped being a rule|0.45
+I could shrink until it fit.|0.7
+It had her name.|0.55
+A living promise.|0.5
+Uh, a woman who trusted me|0.5
+with ordinary days.|0.75
+Uh, I can trim rules|0.5
+until my excuse survives.|0.65
+I cannot trim a wife.|0.7
+You know the difference,|0.4
+once you stop arguing with yourself.|0.65
+So the tools stay plain.|0.55
+One brother.|0.4
+The whole truth,|0.4
+not the tidied one.|0.6
+What it is.|0.4
+How often.|0.4
+Since when.|0.65
+Uh, a filter,|0.4
+and he holds the password.|0.6
+You don't.|0.45
+The phone charges in the kitchen,|0.55
+where morning can see it.|0.55
+Not in the dark|0.4
+by your head.|0.7
+That is you done waiting.|0.6
+You stop managing a secret|0.45
+and calling the management a win.|0.75
+That is responsibility.|0.55
+Your eyes.|0.4
+Your thumb.|0.5
+That is leading.|0.5
+The key goes|0.35
+in a hand that loves you|0.45
+and is not impressed.|0.75
+The reward you are after|0.45
+is God's.|0.5
+Not the cheap hit|0.4
+a lit screen pays|0.4
+when the house has gone still.|0.8
+Secrecy feeds it.|0.55
+Light starves it.|0.6
+Tell him|0.4
+before you clean the story up.|1.25
+# SECTION: The shape it takes
+The promise does not change.|0.55
+Uh, the shape of keeping it does.|0.75
+[quietly] When we brought a baby home,|0.55
+the nights went thin.|0.55
+She was spent.|0.45
+Healing.|0.4
+I started measuring the gap,|0.5
+like a man waiting on a part|0.5
+to land at the counter.|0.65
+That little measurement|0.45
+turned her healing into a test.|0.65
+She did not need a referee|0.45
+standing in the doorway.|0.6
+She needed— she needed a husband|0.45
+whose hands could be kind|0.45
+and want nothing back|0.45
+for a long stretch.|0.8
+When she was ready,|0.5
+the way back was slow.|0.55
+A question in it.|0.45
+Room to stop.|0.6
+The trust you keep while she is weak|0.55
+is the trust you stand on later.|0.75
+Sickness does not shelve what you promised.|0.65
+It changes the errand.|0.6
+Uh, bring the water.|0.5
+You sit.|0.4
+You stay|0.35
+when closeness|0.35
+will not look like it used to.|0.75
+Kindness that never goes further|0.5
+is still you keeping faith.|0.75
+In the middle of a life|0.5
+her body will do|0.4
+something it has not done before.|0.65
+Don't— don't call it rejection|0.55
+before she has said a word.|0.75
+Ask.|0.45
+Go with her.|0.5
+Be a man who can hear a change|0.5
+without building a case.|0.75
+And if you have some years on you,|0.55
+hear this.|0.5
+Faithfulness can slow|0.45
+and still be sweet.|0.7
+If a day comes|0.4
+when that part of loving her|0.5
+cannot happen anymore,|0.6
+you did not stop being her husband.|0.75
+Learn what the bottles are for.|0.55
+Uh, sit where she can see you.|0.6
+Keep your word|0.4
+with a gentleness|0.4
+that has nowhere else to go.|0.8
+The room can be still.|0.5
+You are still hers.|0.65
+If the bed itself is hurt,|0.55
+pain,|0.35
+or an old harm|0.4
+that makes a touch feel unsafe.|0.65
+Uh, don't grit your teeth at a page|0.6
+and name that faith.|0.65
+A doctor.|0.4
+A pastor.|0.4
+Uh, a man who can hear it|0.45
+and stay.|0.55
+Go slow.|0.5
+An empty side of a bed|0.45
+is not a joke in this room.|1.3
+# SECTION: If she is not there
+Uh, some aren't in a marriage bed.|0.65
+Stay put.|0.5
+How many of you figured|0.4
+this hour was for husbands?|0.6
+Hands up.|0.4
+I want to see them.|ROOM_HANDS
+Yeah.|0.45
+[warmly] This hour has your name on it.|0.7
+If you are single|0.4
+and you hope to marry,|0.55
+uh, your body is already casting a vote.|0.7
+You are building a covenant.|0.55
+Or you are spending one|0.4
+that does not exist yet.|0.75
+First Thessalonians four.|0.6
+Learn to control your own body|0.5
+in a way that is holy|0.4
+and honorable.|0.8
+Learn means practice,|0.45
+not a mood you wait on.|0.65
+If you stay nearly promised|0.45
+and never actually vow,|0.5
+careful men slip right there.|0.7
+A shut door is a poor chaperone.|0.6
+Don't call that nerve.|0.55
+When your life can hold a wife,|0.5
+and she is the one,|0.45
+ask her.|0.5
+If you are single again,|0.55
+single again is still single.|0.7
+Uh, a first marriage|0.4
+did not hand you a softer law.|0.7
+I'll call him Doyle.|0.55
+He moved a woman into the house|0.55
+and told the crew at work|0.45
+that the lonely part was handled.|0.75
+His girl set her bag down.|0.55
+Saw the extra coat.|0.5
+Asked him plain.|0.45
+Does she live here.|0.5
+Are you married.|0.75
+Uh, he laughed it off right there.|0.6
+He had told that girl,|0.45
+for years,|0.4
+that a promise is a real thing.|0.75
+He asked the woman to leave.|0.6
+The house went quiet.|0.55
+He told me the quiet|0.45
+was cleaner|0.4
+Uh, than what he'd nearly taught.|0.8
+Your kids learn what a man does|0.5
+when he is lonely.|0.6
+No shared address|0.4
+dressed up as a vow.|0.65
+Same brother.|0.4
+Same filter.|0.4
+Same phone where morning can see it.|0.7
+If she has died,|0.55
+I will not joke about that long quiet.|0.7
+He is not asking you|0.45
+to pretend the house feels full.|0.65
+Uh, keep yourself clean.|0.6
+Uh, he didn't forget those years.|0.65
+He is near through these years.|1.25
+# SECTION: What it tells
+Paul puts the one-flesh line down,|0.55
+then he says a strange thing.|0.7
+Ephesians five, verse thirty one.|0.65
+For this reason a man|0.4
+will leave his father and mother|0.5
+and be united to his wife,|0.5
+and the two will become one flesh.|0.8
+This is a profound mystery.|0.6
+Uh, he is talking about Christ|0.45
+and the church.|0.9
+So your bed is saying something|0.5
+about somebody,|0.45
+even if you never meant to.|0.7
+Uh, she learns it from your body,|0.5
+not from a speech you meant well.|0.65
+A wife is not only learning you.|0.55
+She is catching a glimpse|0.45
+of whether real love stays|0.45
+when it costs a man something.|0.75
+When a man is only hers,|0.5
+when he stays,|0.4
+when he is patient,|0.45
+when he will not punish her|0.45
+with silence or with pressure,|0.7
+she gets a small true look|0.5
+at a love that does not quit.|0.8
+Faithful on purpose.|0.5
+Glad she is his.|0.55
+In it for good.|0.7
+Break that|0.4
+with your body|0.4
+or with your eyes,|0.5
+and you lie|0.4
+about how Christ loves His people.|0.9
+That weighs more|0.45
+than a private embarrassment.|0.7
+It is also why coming back matters.|0.65
+[quietly] A lot of good men|0.45
+have failed right here|0.45
+and told no one.|0.65
+If that is you,|0.45
+don't polish it|0.4
+on the way to the table.|0.65
+First John one, verse nine.|0.65
+If we confess our sins,|0.5
+He is faithful and just|0.45
+and will forgive us our sins|0.5
+and purify us|0.4
+from all unrighteousness.|0.95
+Uh, say it to God for real.|0.6
+Say it to a brother|0.4
+who will not sand it down.|0.7
+Uh, hidden shame keeps its job.|0.6
+Spoken shame can be forgiven|0.5
+and set down.|0.65
+You can start again today.|0.6
+Not when you feel stainless.|0.55
+Begin again today.|0.55
+He is not holding out|0.4
+for a man who never missed.|0.65
+He meets the man who tells the truth|0.5
+and keeps the promise again.|1.25
+# SECTION: At the tables
+[warmly] Let me land this,|0.5
+and then the tables are yours.|0.7
+The bed is a vow kept with a body.|0.7
+A contract has two ends.|0.5
+A covenant has all of you.|1.35
+Uh, hope you leave|0.5
+with the thin place named,|0.5
+if there is one,|0.45
+and one clear way|0.4
+you will keep the vow.|0.7
+Not a louder effort.|0.5
+A truer one.|0.65
+Your workbook is open for this.|0.6
+Take the questions|0.4
+the way I say them.|0.6
+Where is the crack,|0.45
+if there is one?|0.75
+Have you been building,|0.45
+or have you been spending?|0.8
+What will you keep.|0.5
+The conversation,|0.4
+the filter,|0.35
+or the phone on the kitchen charger.|0.85
+Name it.|0.5
+On the page.|0.45
+Out loud to God|0.45
+Uh, while you're still here.|0.65
+Eyes.|0.35
+A screen.|0.35
+Hurry.|0.35
+A grudge you feed|0.4
+when nobody is looking.|0.6
+A silence.|0.4
+A long neglect.|0.5
+Or say it plain.|0.45
+Building.|0.4
+Or spending.|0.6
+Uh, then the keep.|0.5
+If you are married,|0.45
+Uh, one honest conversation|0.55
+about the bed.|0.45
+Not in the bed.|0.55
+Ask what she wants more of.|0.5
+Ask what she wants less of.|0.6
+Uh, hear it all.|0.55
+If you are single,|0.4
+or single again,|0.45
+get the filter in place.|0.55
+Uh, let him hold the password.|0.65
+Charge the phone in the kitchen.|0.6
+Tell a brother the crack.|0.6
+If it is the screen,|0.45
+tell him all of it.|0.55
+What.|0.35
+How often.|0.4
+Since when.|0.6
+Uh, don't shave it down.|0.6
+Let him keep that password.|0.65
+Uh, if he's at your table,|0.55
+begin with him.|0.55
+If you came by yourself,|0.5
+you still owe one man the truth.|0.7
+Write his name|0.4
+before you get up.|0.65
+Carry this line,|0.45
+and write it once.|0.55
+The bed is a vow kept with a body.|0.65
+A contract has two ends.|0.5
+A covenant has all of you.|1.15
+That is the work in front of you.|0.6
+Uh, open this part of the workbook.|0.6
+Do it together.|0.55
+Name the crack.|0.45
+Name the keep.|0.55
+Uh, a man who says it here|0.55
+can say it at home.|0.7
+Go on.|1.2

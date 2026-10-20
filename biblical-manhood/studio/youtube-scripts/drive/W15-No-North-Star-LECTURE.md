@@ -32,9 +32,9 @@ He keeps a two-foot level on the dryer. When he hangs a shelf in the laundry roo
 
 [Slide: the four marks]
 
-A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
-Write it down. Today the marks confront drift dressed as a reasonable way to go. Reject passivity that will not open the Word. Accept responsibility for a fixed point. Lead your house by a lamp for the next step. Quit steering by success as your reward.
+Write it down. Today the marks confront drift dressed as a reasonable way to go. Stop the waiting that will not open the Word. Pick up the weight of naming a fixed point. Lead your house by a lamp for the next step. Quit steering by success as your reward.
 
 ---
 
@@ -138,7 +138,7 @@ Before application, walk the chapter again so the string stays in your hand.
 
 Level on the dryer. Bubble settles. Wall wrong. Plumb line. Gravity without opinions. Judges: everyone did as they saw fit. Moving stars: father, other men, culture, feelings, success. Appears to be right. Amos plumb line. Lamp for feet. Teaching, rebuking, correcting, training. Thoroughly equipped. Excuses: do not know how, homework, no time, no feeling. How to read: Mark, Proverbs, Psalms, one question, brother, out loud. Master story bigger than your stretch. Seasons and their favorite stars. House on rock. Hears and does.
 
-The four marks on a fixed point. Reject passivity: open the book when the phone is easier. Accept responsibility: measure your wall, not your neighbor's. Lead courageously: read out loud and do the next step. Expect God's reward: quit letting success pay you in full for a crooked week.
+The four marks on a fixed point. Stop waiting: open the book when the phone is easier. Pick up the weight: measure your wall, not your neighbor's. Go first: read out loud and do the next step. Work for God's pay: quit letting success pay you in full for a crooked week.
 
 Seats, blunt. Young man: the truck laugh is not a star. Single man: Mark before the apps. Married man: ten minutes before you evaluate her in the dark. Father: feelings lie when you are tired. Divorced seat: put the other walls down. Older man: string over decade. High performer: success is not plumb. Wounded man: your father's moving star does not have to be yours.
 
@@ -183,7 +183,7 @@ Matthew seven. Hears and puts into practice. Rock. Rain comes. Holds. Hears only
 
 I measured by early closes and called the house fine. The bubble would have disagreed if I had let it speak. Out loud Mark on the drive did not feel holy. It felt like a level on a dryer. Then the shelf of my week showed itself off, and I could finally rehang what mattered.
 
-Four marks again. Reject passivity: open the book. Accept responsibility: your wall, your string. Lead: read and do in front of your people. Greater reward: success is a small check; the Father who speaks in the Word is the fixed payout.
+Four marks again. Stop waiting: open the book. Pick up the weight: your wall, your string. Lead: read and do in front of your people. God's pay: success is a small check; the Father who speaks in the Word is the fixed payout.
 
 Seats again with assignments. Young: Mark before the group chat. Single: one question before the scroll. Married: ten minutes before the dark evaluation. Father: Word before you trust the mood. Divorced: string on your wall only. Older: string over nostalgia. High performer: success is not plumb. Wounded: father's star can be honored and still retired.
 
@@ -254,7 +254,7 @@ The four marks, once more.
 
 [Slide: the four marks]
 
-A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
 Session sixteen next week doubles: Before the Fall, and Two Men, Two Ways.
 

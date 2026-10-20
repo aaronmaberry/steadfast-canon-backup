@@ -38,7 +38,7 @@ The chair at the end of the table never stays empty. Pain does not sit still in 
 
 [Slide: the four marks]
 
-A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
 Write it down. Today the marks confront the exits. Passivity often looks like drift. Courage often looks like ninety seconds and a true sentence. Responsibility looks like telling the truth about the numbers instead of slamming the dishwasher.
 
@@ -112,7 +112,7 @@ The man locked in the bathroom with his phone was not chasing pleasure, mostly. 
 
 Flee, Paul tells the Corinthians. Not manage. Not moderate. Flee, the way Joseph ran from a house with a woman in it who wanted him. If the itch is your exit, here is what is yours. Tell one man the whole truth: not I struggle with purity, but what, how often, since when, and what it is costing. The itch lives on secrecy and starts to die the day a brother knows. Cut the supply: filters on every device, the password in that brother's hands, the phone charging in the kitchen overnight. A child's rule, yes, for a man acting like one at two in the morning. And deal with the loneliness, because that is what this is. There is a whole stretch on brothers later in this course, and its first line belongs here: the itch shrinks in men who are known.
 
-I will not decorate this. If your home exit is the itch, the four marks are not a soft pep talk. Rejects passivity means you stop managing the secret. Accepts responsibility means you say the whole truth to one man. Leads courageously means you put the password in his hands before you feel ready. Expects God's reward means you quit collecting the small check the screen pays in the moment.
+I will not decorate this. If your home exit is the itch, the four marks are not a soft pep talk. Stops waiting means you stop managing the secret. Picks up the weight means you say the whole truth to one man. Goes first means you put the password in his hands before you feel ready. Works for God's pay means you quit collecting the small check the screen pays in the moment.
 
 Movement two, summarized. Write this down: the itch is relief that refuses to be known. Secrecy is the fuel. A brother is the extinguisher.
 
@@ -177,13 +177,13 @@ May He meet you at the mailbox, the screen, and the couch, and give you one smal
 
 Let me put the exits back under the four marks before you leave.
 
-Rejects passivity: drift is passivity in a respectable coat. Fine and whatever you think are not peace. They are absence.
+Stops waiting: drift is passivity in a respectable coat. Fine and whatever you think are not peace. They are absence.
 
-Accepts responsibility: anger that blames the dishwasher is refusing the numbers. The itch that stays secret is refusing to be known. Name what is under the exit.
+Picks up the weight: anger that blames the dishwasher is refusing the numbers. The itch that stays secret is refusing to be known. Name what is under the exit.
 
-Leads courageously: ninety seconds and a true sentence. Whole truth to a brother. One evening with screens dark. Those are first doors inside your own house.
+Goes first: ninety seconds and a true sentence. Whole truth to a brother. One evening with screens dark. Those are first doors inside your own house.
 
-Expects God's reward: the screen pays now. The storm feels like power now. The couch costs nothing now. God's reward funds the harder presence that does not numb.
+Works for God's pay: the screen pays now. The storm feels like power now. The couch costs nothing now. God's pay funds the harder presence that does not numb.
 
 Owen is not a character to pity. He is a mirror. Three exits in a week because the home exit was blocked and the pain found the next door. Block yours on purpose this week and watch where the pain tries to go. Take it to the Father instead.
 
@@ -271,7 +271,7 @@ The four marks, once more.
 
 [Slide: the four marks]
 
-A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
 Session ten, The Father Who Does Not Leave, next week.
 

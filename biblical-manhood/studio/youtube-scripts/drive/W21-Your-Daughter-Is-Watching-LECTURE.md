@@ -32,9 +32,9 @@ I stand at the front at weddings, so I see the thing the guests cannot. At the e
 
 [Slide: the four marks]
 
-A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
-Write it down. Today the marks are a definition she will carry. Whatever she sees you do with those four is what the word man will mean to her. Reject passivity that will not delight on purpose. Accept responsibility for the face you show when she fails. Lead by honoring her mother where she can see it. Expect God's reward over the cheap approval of being the fun dad who never stays.
+Write it down. Today the marks are a definition she will carry. Whatever she sees you do with those four is what the word man will mean to her. Stop the waiting that will not delight on purpose. Pick up the weight of the face you show when she fails. Lead by honoring her mother where she can see it. Work for God's pay over the cheap approval of being the fun dad who never stays.
 
 ---
 
@@ -278,7 +278,7 @@ The four marks, once more.
 
 [Slide: the four marks]
 
-A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
 Session twenty two next week: Give Your Son a Name.
 

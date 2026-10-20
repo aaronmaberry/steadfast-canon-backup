@@ -32,9 +32,9 @@ Mitch sat in my office and said the thing husbands say when the bed has gone qui
 
 [Slide: the four marks]
 
-A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
-Write it down. Today the marks show up in the dark. Reject passivity that will not talk gently about the bed. Accept responsibility for eyes and screen and hurry and scoreboard. Lead by putting the ledger down. Expect God's reward over novelty and secrecy. He owns what his eyes do, and he trusts the Father who sees what is done in secret and keeps every faithful night on the books.
+Write it down. Today the marks show up in the dark. Stop the waiting that will not talk gently about the bed. Pick up the weight of eyes and screen and hurry and scoreboard. Lead by putting the ledger down. Work for God's pay over novelty and secrecy. He owns what his eyes do, and he trusts the Father who sees what is done in secret and keeps every faithful night on the books.
 
 ---
 
@@ -114,7 +114,7 @@ Movement two. The screen, in the covenant frame.
 
 You have been given tools already in this course: one brother with the whole truth, a filter he holds the password to, the phone charging in the kitchen. But the frame changes the fight. You are not fighting pornography because it is against a rule. You are fighting it because you made a covenant with a real woman, and every image is a small breaking of it. The victim sleeps next to you. It trains an appetite for novelty. It rewires what your body answers to. It lies to you that the problem is her not being enough when the problem is you not being present.
 
-The four marks show up here, in the dark. Reject passivity that will not tell a brother. Accept responsibility for what the eyes do. Lead by handing over the password. Expect God's reward: the Father who sees what is done in secret and keeps faithful nights on the books.
+The four marks show up here, in the dark. Stop the waiting that will not tell a brother. Pick up the weight of what the eyes do. Lead by handing over the password. Work for God's pay: the Father who sees what is done in secret and keeps faithful nights on the books.
 
 If the crack is the screen, say the whole truth to a brother: what, how often, since when. Let him hold the password. Charge the phone in the kitchen tonight. Secrecy is the fuel. Light is the kill.
 
@@ -272,7 +272,7 @@ The four marks, once more.
 
 [Slide: the four marks]
 
-A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
 Session twenty one next week: Your Daughter Is Watching.
 

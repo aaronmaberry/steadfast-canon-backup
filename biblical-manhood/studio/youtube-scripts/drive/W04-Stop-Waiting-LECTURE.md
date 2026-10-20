@@ -24,7 +24,7 @@ This is the spoken script for the lecture. Stage and slide directions are in squ
 **MAX:**
 Sit down. You are on time.
 
-Last week I handed you the four marks and asked you which one was faintest. Some of you wrote the card. Some of you asked a brother. Today we take the first mark into an ordinary weekday, because rejects passivity is easy to admire and hard to practice when the thing that needs doing has been waiting for years.
+Last week I handed you the four marks and asked you which one was faintest. Some of you wrote the card. Some of you asked a brother. Today we take the first mark into an ordinary weekday, because stops waiting is easy to admire and hard to practice when the thing that needs doing has been waiting for years.
 
 This is Steadfast Men. The Way of Godly Men. My name is Max. Session four of twenty four. Same shape. Claim. Text. Movements. Application. Close. One session. Do the work. Come back. Notes by hand.
 
@@ -34,15 +34,15 @@ Ask him and he will tell you he is going to get to it. He means it, and that is 
 
 The stair is the least of it. What worries me is what it is teaching everyone who lives with him, which is that a man can know a thing is broken, know how to fix it, and step around it for years. And it is not the only thing being stepped around in that house. There is a conversation with his wife he is going to get to. A brother he has not called since the funeral. A number on a statement he does not open. A son who went quiet about the time his voice changed. A church he is going to start showing up at again. He is going to get to all of it. He has been going to for years, and the years are the story.
 
-The first mark of a man is that he rejects passivity. I want to show you what that looks like on an ordinary weekday, because the word makes most men picture somebody on a couch with the blinds down, and that is not the man I am worried about. The man I am worried about is up before the sun. He is tired and useful and working hard at nearly everything except the four or five things that matter most. On those he is waiting, and he has waited so long it does not feel like waiting anymore. It feels like the floor.
+The first mark of a man is that he stops waiting. I want to show you what that looks like on an ordinary weekday, because the word makes most men picture somebody on a couch with the blinds down, and that is not the man I am worried about. The man I am worried about is up before the sun. He is tired and useful and working hard at nearly everything except the four or five things that matter most. On those he is waiting, and he has waited so long it does not feel like waiting anymore. It feels like the floor.
 
 I need that picture stuck behind your eyes before we state the claim. The man on the couch with the blinds down is easy to diagnose. The man stepping over the stair while coaching on Saturdays is harder, because he looks like the opposite of passive. Last week we named marks. This week we watch the first mark fail in respectable clothes. If you are a high performer, this session is aimed at your chest. If you are wounded, hear this too: survival waiting and comfort waiting can look the same from the outside, and only one of them is still protecting you.
 
 [Slide: the four marks]
 
-A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
-Write it down. Today's weight is on the first mark. Rejects passivity. Stop waiting is what that mark sounds like when the drill is still hanging in the garage.
+Write it down. Today's weight is on the first mark. Stops waiting. That is what the mark sounds like when the drill is still hanging in the garage.
 
 ---
 
@@ -59,7 +59,7 @@ Write that down. Define waiting the way the book means it. Waiting here is not t
 
 What the claim does not say. It does not say every quiet season is sin. It does not say you should create conflict for sport. It does not say preparation is always a costume. It says when you know the good you ought to do and you keep stepping over it, you are not neutral. You are training everyone who lives with you.
 
-The kids skipping the stair is not a cute detail. It is discipleship. Households learn manhood from what a man steps over as much as from what he says at the table. That is why the first mark matters on a weekday and not only in a crisis. A crisis will get you off the couch. A stair will tell the truth about whether you reject passivity when nobody is filming.
+The kids skipping the stair is not a cute detail. It is discipleship. Households learn manhood from what a man steps over as much as from what he says at the table. That is why the first mark matters on a weekday and not only in a crisis. A crisis will get you off the couch. A stair will tell the truth about whether you stop waiting when nobody is filming.
 
 Hold that. Scripture under it.
 
@@ -237,7 +237,7 @@ The stair is still speaking when you step on it. Silence it with two screws. If 
 
 One more word for the man who says he is waiting on more information. You almost never are. You are waiting on a feeling. Ready. Brave. Sure. Those arrive after the first screw, not before. The chapter is blunt about that because men hide in research forever. If you already know the conversation, the call, the stair, the truck question, information is not the missing piece. Obedience is. Put the podcast down. Pick up the drill. Dial. Ask. Before noon. Then tell a brother so next week has a witness.
 
-Take inventory of the house one more time before you leave. Stair. Conversation. Brother since the funeral. Statement. Quiet son. Church. Which one has the longest how long. That is your one. Not the dramatic one. The longest one. Meaning it has never fixed a stair. Before noon has. The first mark is rejects passivity. Stop waiting is how that mark walks down a hallway with a drill. If you only remember the costumes, you will diagnose other men and skip your own skip. Name your costume. Name your stair. Turn the screw. Answer Where are you on your feet.
+Take inventory of the house one more time before you leave. Stair. Conversation. Brother since the funeral. Statement. Quiet son. Church. Which one has the longest how long. That is your one. Not the dramatic one. The longest one. Meaning it has never fixed a stair. Before noon has. The first mark is stops waiting. That is how the mark walks down a hallway with a drill. If you only remember the costumes, you will diagnose other men and skip your own skip. Name your costume. Name your stair. Turn the screw. Answer Where are you on your feet.
 
 ## 8. APPLICATION: NAME THE STEP [27:30]
 
@@ -281,7 +281,7 @@ The four marks, once more.
 
 [Slide: the four marks]
 
-A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
 Session five, Pick Up the Weight, next week.
 

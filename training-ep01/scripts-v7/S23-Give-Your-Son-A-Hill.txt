@@ -1,0 +1,660 @@
+# SECTION: Welcome
+[warmly] Hey. Come on and sit if you're still standing.|0.55
+Good to see you.|0.7
+Uh, the day was already full before you got here.|0.55
+You came in anyway.|0.7
+I'm glad for that.|0.9
+Last time we stayed with a boy's name.|0.6
+The sentence a father puts on him.|0.5
+What he starts to answer to|0.4
+Uh, when the house goes quiet.|0.85
+I tried mine.|0.4
+Had it ready before the driveway.|0.6
+He met me at the door with a cup.|0.5
+Said the milk was gone.|0.55
+I told him a man can handle a little lack.|0.65
+He looked in the cup.|0.4
+He said, so this is water.|ROOM_CHUCKLE
+[dry] So the blessing stayed in the truck.|0.75
+Today that name needs somewhere to stand.|0.7
+If you haven't caught my name yet, I'm Wes.|0.55
+Glad you took a chair.|0.8
+Here's the thing.|0.45
+A name without a hill is only a compliment.|1.45
+You can— you can call a boy capable|0.45
+over breakfast, and mean it.|0.6
+If he never climbs something that proves the word,|0.5
+Uh, it stays kind.|0.45
+Kind is not the same as true in his hands.|0.85
+The name gets true in him|0.45
+when the hard thing matches the word.|0.8
+Uh, a lot of boys are not short on fight.|0.55
+They're short on ground.|0.7
+Somebody has to hand them a piece of it|0.45
+and then stay low enough to let them climb.|0.85
+Pick the right hill.|0.5
+Stay on the step.|0.55
+Say the right thing when he comes down.|0.9
+That's the whole job in one breath.|0.7
+We'll walk it slow.|0.55
+The step is not a mood.|0.5
+It's a place.|0.45
+Close enough that he can see you.|0.5
+Far enough that the work stays his.|0.8
+Uh, most of us got one or the other.|0.55
+A soft house,|0.4
+Uh, or a man who took the work back.|0.65
+I have been both.|0.55
+I can talk about the step|0.4
+without pretending I enjoy it.|0.75
+Uh, if there is no son in your house,|0.5
+don't drift.|0.45
+A nephew.|0.35
+The boy you coach.|0.4
+The kid who hangs around after.|0.6
+He has ears, and he has never been handed ground.|0.75
+You are on this page with the rest of us.|1.2
+# SECTION: The marks
+[warmly] These four marks are the sentence we keep coming back to.|0.7
+Same words you've heard in this room.|0.55
+I have not improved them.|0.6
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.|1.45
+# CUT SCREEN: creed board — "A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's." — new angle after
+I'm not rebuilding all four.|0.55
+Today they stand on the ground.|0.7
+Uh, stop waiting.|0.5
+On this, passivity can look like a busy man.|0.55
+You take his hill because you're faster,|0.45
+everybody exhales,|0.4
+Uh, and he learns his hands were optional.|0.85
+Pick up the weight.|0.5
+The size of the hill is yours to pick.|0.55
+Too small is pretend.|0.45
+Too big is a crush.|0.5
+The next piece is the one you owe him.|0.8
+Go first.|0.5
+Courage, here, is staying put|0.4
+when every part of you wants the tool.|0.75
+Work for God's pay.|0.5
+Not the room's.|0.55
+The peace of a boy who never struggles|0.45
+is a thin peace.|0.6
+The Father sees the man who kept his hands open.|0.85
+Uh, I know the pull.|0.5
+Empty hands feel like you walked off.|0.6
+They are not a walk-off.|0.55
+They are the work.|0.7
+Here's what I want plain.|0.5
+Uh, boys do not turn into men|0.4
+because the house was soft enough.|0.7
+A little past him,|0.4
+with a man in sight who is slow to rescue,|0.55
+that is how the word you spoke gets a body.|0.9
+Pad every hard thing|0.45
+and the strength you hoped to save|0.4
+never shows up.|0.8
+I mean, love can do that.|0.55
+Love with no climb leaves him unseen.|0.75
+He will go find ground.|0.5
+The ground he finds on his own|0.45
+runs worse,|0.4
+or he quits looking|0.4
+and lives in his room with the door almost shut,|0.55
+because the world looks like a slope|0.4
+and the bottom of it is empty.|0.9
+Uh, stay with me.|0.5
+The answer is not a harder speech.|0.55
+The answer is a real hill,|0.45
+and a father who can sit still.|1.25
+# SECTION: What a hill is
+[warmly] Let me tell you what counts,|0.45
+because a boy can tell the other kind.|0.7
+Uh, five tests.|0.5
+You don't need a fancier list.|0.6
+Real is the first.|0.5
+Somebody besides him needs the thing done.|0.6
+If it fails, the house feels it,|0.45
+or a neighbor feels it,|0.4
+or a person he loves feels it.|0.7
+He can— he can tell a made-up task|0.45
+before he picks up the tool.|0.65
+You built it so he would grow.|0.5
+Uh, he did not ask for it,|0.4
+nobody else needs it,|0.45
+and he will not respect it.|0.8
+A little past him is the second.|0.55
+Past what he pulled off yesterday.|0.5
+Short of a weight that would flatten him.|0.65
+If he can do it half asleep,|0.45
+it is not a hill.|0.55
+If it would break him,|0.4
+he decides hills are for other people,|0.5
+and he steps around the next one.|0.75
+The third is risk you already measured.|0.6
+He may fail.|0.4
+He may pick up a small hurt.|0.5
+Uh, he may come down|0.4
+with the thing still open|0.4
+and the day still honest.|0.7
+You are not rolling dice with his life.|0.55
+You looked at the real danger first,|0.45
+and that part is already off the table.|0.8
+Uh, the fourth is the ending.|0.55
+He does not get to stop at I tried.|0.6
+Either it is finished,|0.4
+or he can say the next move|0.45
+out loud,|0.4
+and then go do it.|0.7
+That is a man owning a result.|0.65
+I tried, forever,|0.4
+is a boy waiting to be excused.|0.8
+And a name after it.|0.5
+That's the fifth.|0.5
+Uh, he comes down,|0.4
+win or mess,|0.45
+and you speak.|0.55
+The word you gave him before the climb|0.45
+starts to fit the boy in front of you,|0.55
+or you tell the truth about what still needs work,|0.55
+without turning the mess into his name.|0.85
+Five, if you want them in your pocket.|0.55
+Real.|0.3
+A little past him.|0.4
+Risk you already measured.|0.45
+An ending he owns.|0.45
+Your voice when he comes down.|0.7
+Miss one,|0.4
+and you handed him dirt with a nice story on it.|1.3
+# SECTION: By his age
+[warmly] The hill changes as he does.|0.6
+The five tests don't.|0.65
+Uh, small years.|0.5
+A job the house actually feels.|0.55
+You're loading the car.|0.45
+The cooler is his, both hands,|0.45
+from the kitchen to the trunk.|0.6
+It bangs his shin.|0.45
+You want it.|0.4
+You don't take it at the curb.|0.6
+You tell him the lunch is in the back|0.45
+because he carried it.|0.75
+School years, he needs ownership,|0.5
+not a string of favors.|0.6
+The mail is his.|0.45
+Rain included.|0.5
+If it sits out and a bill curls up wet,|0.5
+Uh, that outcome is his.|0.6
+You don't sneak down the walk|0.4
+and spare him the mistake.|0.75
+Uh, as he stretches toward his teens,|0.55
+put him under a man who is not you.|0.6
+A neighbor.|0.4
+A boss with no interest in your feelings.|0.65
+That man can look at the work|0.45
+and say it isn't done.|0.55
+You do not walk over and make it pretty.|0.7
+And at least one climb|0.4
+he takes while you are in sight|0.45
+and you are not coming.|0.75
+You know, high school is where it gets expensive.|0.65
+A shift he can lose.|0.45
+Money he can spend wrong.|0.5
+He blows the first check on something foolish.|0.6
+You do not refill the wallet|0.45
+Uh, to protect him from the sting.|0.7
+A decision you do not overrule|0.45
+just because you can see the ditch.|0.8
+Then he is out on his own.|0.55
+The hill is the life he is building.|0.6
+Your part gets smaller.|0.5
+Answer when he calls.|0.55
+Don't drive over|0.4
+and take the tool out of his hand.|0.75
+Uh, if you only keep one of these,|0.5
+keep the man who is not you.|0.6
+Your praise is too easy for him to bargain with.|0.75
+Don't skip to the later years|0.45
+and call the early ones a warm-up.|0.65
+The man he is at twenty|0.45
+Uh, was built on the cooler,|0.45
+the wet mail,|0.4
+and the wallet you left alone.|0.7
+Skip those,|0.4
+and you are hoping a stranger will form him|0.5
+on a schedule you don't control.|1.25
+# SECTION: Encourage, comfort, urge
+[warmly] Put this in your ear.|0.55
+It's in your workbook.|0.6
+First Thessalonians two,|0.4
+verses eleven and twelve.|0.7
+For you know that we dealt with each of you|0.5
+as a father deals with his own children,|0.6
+encouraging, comforting and urging you|0.55
+to live lives worthy of God,|0.5
+who calls you into his kingdom and glory.|1.45
+Encouraging.|0.45
+Comforting.|0.45
+Urging.|0.6
+A father does all three,|0.45
+and they are not the same move.|0.75
+Uh, encourage is the true word.|0.55
+Tied to a thing he actually did.|0.55
+Not a cloud of praise.|0.5
+Uh, not a mood you were in.|0.55
+You saw the work.|0.45
+You name what you saw.|0.7
+Comfort is presence.|0.55
+He can look back|0.4
+and you are still there.|0.6
+Comfort is not you taking the hill|0.45
+because his face got tight.|0.7
+A boy who is safe,|0.4
+and watched,|0.4
+learns he can do the thing.|0.65
+A boy who is rescued while he is safe|0.45
+learns he needs a rescue.|0.8
+Urge is the hill itself,|0.5
+aimed somewhere.|0.55
+Paul does not say urge them to be busy.|0.6
+He says urge them to live a life|0.45
+worthy of the God who called them.|0.8
+Uh, if all you hand him is a harder chore,|0.55
+he can nod,|0.4
+sweat a little,|0.4
+and never be aimed at anything.|0.75
+Sweat is not the same as a worthy life.|0.7
+The hill has to matter,|0.45
+and the mattering has to point past your driveway.|0.8
+I mean, toughness with no God in it|0.5
+just makes a harder boy.|0.65
+We are not collecting harder boys.|0.6
+We are raising sons who can carry a real thing|0.5
+and still know who they belong to.|0.85
+Say it plainer,|0.45
+in case the verse went by too clean.|0.65
+Encourage means you tell the truth|0.45
+Uh, about what you watched him do.|0.7
+Comfort means you stay in sight|0.45
+and you don't grab it.|0.65
+Urge means the hill is aimed|0.45
+at a life God would call worthy,|0.55
+not at your need to see him busy.|0.8
+Stay with that order.|0.5
+Encourage.|0.4
+Comfort.|0.4
+Urge.|0.5
+The word,|0.35
+the man who stayed,|0.4
+and the ground under his feet.|1.25
+# SECTION: Two ways to miss
+[warmly] There are two ways to leave him with no hill,|0.55
+and both of them feel like love.|0.75
+Uh, you protect him from every hard thing.|0.6
+Or you do the hard thing yourself.|0.65
+Protect him long enough|0.4
+and he starves.|0.55
+The muscle you meant to save|0.45
+Uh, never gets used,|0.4
+and then you are surprised|0.4
+when a small weight drops him.|0.8
+Do it yourself,|0.45
+and he never climbs.|0.55
+You were faster.|0.4
+The job looks better.|0.45
+He was standing right there,|0.4
+holding nothing.|0.7
+I have— I have done the second one|0.5
+more times than I want in this room.|0.75
+Closet door stuck.|0.5
+I told him it was his.|0.5
+Go find a screwdriver.|0.45
+While he was in the junk drawer,|0.45
+I popped the pin,|0.4
+Uh, shaved the high spot,|0.45
+and had it swinging.|0.6
+He came back proud he'd found the tool.|0.6
+I said, already handled it.|0.55
+He said thanks.|0.5
+I took the thanks.|0.65
+What he learned was simple.|0.5
+Dad finishes.|0.45
+Boys look for screwdrivers.|0.7
+I thought— I thought faster was faithful.|0.65
+Faithful would have been the step.|0.6
+How many of you have finished a job your boy started,|0.45
+because you were faster,|0.4
+and you called it help?|0.65
+Go ahead. Let me see them.|ROOM_HANDS
+[dry] Yeah.|0.4
+Mine was up.|0.35
+I tried to make it look like a stretch.|ROOM_CHUCKLE
+Your boy did not need a faster man.|0.6
+Uh, he needed the man to stay off the work.|0.75
+Look at your hands a second.|0.6
+If those hands close every hard thing in the house,|0.55
+his hands stay smooth,|0.45
+and yours stay sure,|0.45
+and sure starts to look like love.|0.8
+It isn't.|0.55
+Not on his hill.|0.6
+Sitting there with empty hands|0.45
+will feel like neglect the first dozen times.|0.7
+It is training.|0.55
+His mother may feel the wait sooner than you do.|0.6
+Lead that talk.|0.45
+Lead it kindly.|0.5
+You are on the same side of the boy.|1.2
+# SECTION: Dirt
+[warmly] Some of what we hand them is just dirt.|0.65
+It looks like a hill from the driveway.|0.6
+It doesn't climb.|0.7
+Uh, one version is the sport as his whole life.|0.65
+I could tell you the order he batted.|0.55
+I could not tell you the last hard thing|0.45
+the house had trusted him with.|0.7
+There wasn't one.|0.5
+If the game went well,|0.4
+I felt like a father.|0.6
+A game can get rained out.|0.5
+A boy still has to be formed on a quiet day,|0.55
+when nobody is keeping score.|0.8
+Another version is rules with no cause under them.|0.7
+I got serious about standards.|0.5
+Made a list.|0.4
+Typed it clean.|0.45
+I laminated it.|ROOM_CHUCKLE
+Uh, hung it where the shine could preach.|0.65
+He could recite every line.|0.55
+I asked him what it was for.|0.5
+He said, so I don't get in trouble.|0.75
+That's a fence around an empty lot.|0.65
+He knew what to avoid.|0.5
+He did not know what he was for.|0.75
+Uh, another version is a job that never ends|0.5
+because it was never his.|0.6
+You start a shelf|0.4
+and leave him the sanding,|0.45
+so he'll learn.|0.55
+He knows whose project it is.|0.6
+Your name is on the idea.|0.45
+His name is on the dust.|0.65
+Uh, no finish line.|0.45
+No coming down.|0.55
+Just a nod when you walk by.|0.7
+Or you make the boy the whole assignment.|0.65
+You sit him down|0.4
+to talk about his attitude.|0.6
+He nods at the right times.|0.55
+Nobody at that table needs a thing from him|0.5
+but a better mood.|0.65
+He was the project.|0.5
+Boys learn to perform a project like that.|0.75
+Or you hand him nothing.|0.5
+Rides, snacks, a soft house,|0.45
+and no ground at all.|0.7
+You know, that one feels like kindness.|0.6
+It is an empty bottom.|0.65
+Uh, he will go looking.|0.5
+A stunt somebody talks him into filming.|0.6
+A crew that lets him in|0.4
+if he takes what isn't his.|0.65
+Or the door almost shut,|0.45
+for a long time,|0.4
+because nobody ever showed him|0.4
+he could climb a real thing.|1.25
+# SECTION: Keith
+[warmly] Let me tell you about a man I'll call Keith.|0.65
+Good father.|0.45
+Uh, shows up.|0.5
+His boy was getting his height,|0.5
+old enough to want money that wasn't allowance.|0.75
+Keith's brother kept an old pop-up camper|0.5
+under a tree, crooked,|0.45
+and a reunion was coming.|0.6
+Uh, the hitch light was dead.|0.55
+Keith told his boy the light was his.|0.6
+If it doesn't blink, we don't pull it.|0.7
+Uh, the boy had the little manual open on his phone.|0.6
+He was tracing the wire|0.4
+the slow way,|0.45
+the way a man learns.|0.7
+Keith watched.|0.45
+Then his knee was in the gravel|0.45
+and the strippers were in his hand,|0.5
+because he could smell the short|0.45
+and the afternoon was leaving.|0.75
+The boy held the light.|0.5
+Shifted his feet.|0.45
+Didn't argue.|0.55
+The brother walked up,|0.4
+saw Keith under the tongue of the trailer,|0.55
+and said, good, you got it.|0.7
+Uh, he thanked the wrong pair of hands.|0.65
+On the drive, the boy said,|0.45
+you like it better when I hold the light.|0.8
+Keith told me he turned the radio up.|0.6
+He felt it anyway,|0.45
+sitting there like a stone on his chest.|0.8
+He almost— he almost argued.|0.55
+He didn't.|0.5
+Said he was afraid if he opened his mouth|0.45
+he'd make a speech|0.4
+and bury the sentence.|0.75
+Next day the boy's bike was flat.|0.55
+They weren't late for anything.|0.6
+Keith sat on the tailgate.|0.5
+Hands under his legs.|0.55
+The boy pinched the tube in the bead|0.5
+Uh, and had to start over|0.45
+with a couple of spoons from the kitchen.|0.7
+A neighbor slowed his car|0.45
+like he might stop and save the morning.|0.6
+Keith shook his head|0.4
+and stayed where he was.|0.7
+The tire held.|0.5
+The boy pressed it,|0.4
+didn't trust it,|0.4
+pressed it again.|0.6
+Keith said,|0.35
+you found where it pinched,|0.45
+and you started over.|0.55
+That tire is yours.|0.5
+I'm glad I stayed off it.|0.8
+Uh, the boy rode to the stop sign and back.|0.6
+Didn't say much.|0.5
+The ride was the proof.|1.25
+# SECTION: Stay, ask, name
+[quietly] The step is the hard obedience.|0.7
+Staying there is the part that burns.|0.75
+You already know you are faster, right?|0.65
+Uh, watch him struggle anyway.|0.6
+A miss and a do-over are allowed.|0.65
+Pull him off while he is still safe,|0.5
+and you teach him to wait for you.|0.75
+Let the cost stay small|0.45
+while it still fits in a day.|0.65
+He loses a shift|0.4
+because the alarm never got set.|0.6
+That sting is a mercy.|0.55
+Uh, leave the habit alone,|0.45
+and the cost shows up|0.4
+where you cannot catch it.|0.8
+Uh, when he comes down, ask.|0.55
+Not a speech while the sweat is still on him.|0.65
+You ask— you ask what happened.|0.5
+What he learned.|0.45
+What changes before he tries again.|0.7
+Then quiet,|0.4
+so his own answer has room.|0.7
+Then name what you saw.|0.55
+You stayed with it.|0.5
+I watched the work hold.|0.75
+No true word at the bottom,|0.45
+and he won't know what to keep.|0.75
+Next time, raise it a little.|0.55
+Not a cliff.|0.45
+Uh, a little past the last one.|0.75
+Colossians three, verse twenty-one.|0.65
+Fathers, do not embitter your children,|0.5
+or they will become discouraged.|1.35
+A cliff on the first try does that.|0.6
+So does your old dream,|0.45
+dressed up as his future.|0.65
+He is not the fix for your regret.|0.75
+So does the easy rescue.|0.55
+You replace what he broke|0.45
+before he has to face the man.|0.6
+You apologize for him|0.4
+while he is still in the car.|0.65
+He hears one thing.|0.45
+This is past you.|0.7
+Uh, shame does the rest.|0.55
+You retell the miss until it's a good story.|0.65
+He will route around anything|0.45
+he might fail where people can see.|0.8
+Don't— don't build the first hill like a cliff,|0.55
+and don't enjoy the fall.|0.75
+I made myself sit on a cooler once.|0.55
+Hands under my legs.|0.45
+A chain kept hopping off a bike.|0.65
+Uh, my wife stepped into the driveway,|0.5
+looked at my face,|0.4
+and asked who had made me mad.|0.65
+I said, the bike.|ROOM_CHUCKLE
+I was trying to stay seated.|0.5
+It had climbed up into my face.|0.75
+If you grew up under shame, go slow.|0.65
+Don't settle that score through your son.|0.7
+Kind, and not a tyrant.|0.6
+Uh, if you have been leaving the step for years,|0.6
+he is not used up.|0.55
+A late hill still counts.|0.65
+Hand one, and stay.|1.25
+# SECTION: Every chair
+[warmly] Hear the chair you are actually in.|0.65
+Uh, if your boy is in his first year,|0.55
+the three a.m. feed is not dirt.|0.6
+It is also not the whole hill.|0.65
+Uh, show up tired.|0.5
+Don't make him pay for your sleep|0.5
+with a short temper you call standards.|0.75
+The yard you keep not finishing|0.45
+is not manhood by itself.|0.65
+Name which one you have been calling the hill.|0.8
+If the marriage came apart,|0.55
+Uh, don't sand the hard thing off the visit|0.5
+so he will like your place.|0.7
+It is not ground.|0.55
+He needs— he needs one job that is his|0.5
+when he is with you,|0.45
+left unfinished on purpose,|0.5
+so the work is why he comes back.|0.75
+Daughters at home, and no son.|0.55
+They are owed real work.|0.5
+Don't skip them.|0.55
+If a boy is in reach,|0.45
+a nephew, the kid who stays late,|0.5
+this page is still yours.|0.75
+Young, and the house is still just you.|0.6
+You already stand for something,|0.45
+Uh, or you don't.|0.5
+A wife later will not hand you this skill.|0.7
+If the job is going well,|0.5
+a calm boy can still be an untested one.|0.75
+Older men.|0.45
+A grown son still needs a place to stand,|0.55
+and he needs your hands off it.|0.7
+Never had a son?|0.45
+You are not decoration in this room.|0.7
+Let me tell you about a man I'll call Silas.|0.65
+Uh, no kids of his own.|0.5
+A boy across the breezeway.|0.5
+Mother on a late shift.|0.5
+Father not in the picture.|0.6
+The scooter brake rubbed,|0.45
+and the boy was mostly kicking it.|0.65
+Silas told the mother first.|0.55
+Uh, then he set a wrench on the open walk,|0.55
+where any neighbor could see,|0.5
+and he took the stair.|0.65
+He said, that brake is yours.|0.5
+I'm here if you get stuck.|0.65
+The boy's hand slipped.|0.45
+Grease under the nail.|0.55
+Silas stood up.|0.4
+Sat back down.|0.55
+You stay— you stay where people can see you.|0.65
+Not a closed room.|0.45
+Not a secret kindness.|0.6
+The brake eased.|0.55
+Silas said it so the walk could hear,|0.55
+you stayed after it slipped.|0.55
+Uh, it stops now because you didn't give it back.|0.8
+Grandfathers.|0.45
+You may have the patience|0.4
+a tired father has not grown yet.|0.65
+Don't spend that patience by being faster.|0.7
+Point him at one real job.|0.5
+Sit.|0.4
+Say the true thing while it is still warm.|1.25
+# SECTION: To the tables
+[warmly] Let me land it.|0.55
+A name without a hill is only a compliment.|1.3
+You can bless a boy|0.4
+and still leave the word with nowhere to live.|0.75
+Pick the right hill.|0.5
+Then stay on the step until he comes down,|0.55
+and tell him what you saw.|0.7
+What I hope— what I hope you walk out with|0.55
+is not a mood about fathering.|0.65
+It's one hill you have actually named,|0.55
+and a decision to keep your hands off it|0.5
+until he comes down.|0.8
+If there is no son,|0.45
+Uh, it's one boy,|0.4
+one real job,|0.4
+and you where he can see you.|0.75
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.|1.35
+# CUT SCREEN: creed board — "A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's." — new angle after
+Keep that line close.|0.6
+Today it means you don't climb it for him,|0.5
+you don't hide him from it,|0.5
+and you trust God with the slow work.|0.8
+Your workbook is where this gets particular.|0.65
+Uh, in a minute you'll sit at the tables|0.5
+and work this part together.|0.7
+Get the questions in your ear.|0.55
+Does he have a hill right now?|0.7
+Something real,|0.4
+a little past him,|0.4
+with an ending he owns.|0.75
+If he doesn't,|0.45
+Uh, which miss is it?|0.5
+Have you been protecting him,|0.45
+or have you been doing it yourself?|0.8
+What hill will you hand him,|0.5
+and will you stay on the step?|0.75
+Say it out loud at the table.|0.6
+A son in the house,|0.4
+or a younger man in reach.|0.55
+Both of you own the page.|0.7
+If the boy is brand new,|0.5
+say it straight.|0.45
+The night feed,|0.4
+or the yard you keep not finishing.|0.55
+Which one have you been calling the hill?|0.75
+Tell a brother the hill,|0.45
+Uh, and how hard it was to stay put.|0.65
+Ask what hills his father gave him.|0.55
+Ask what he is giving now.|0.65
+No son?|0.4
+You still tell one man.|0.5
+Name the younger man out loud.|0.7
+Carry this,|0.4
+and write it where you'll see it.|0.65
+A name without a hill is only a compliment.|0.7
+Pick the right hill.|0.5
+Stay on the step.|0.55
+Say the right thing when he comes down.|0.85
+Then go to your tables.|0.5
+Work this part of the workbook together.|1.25

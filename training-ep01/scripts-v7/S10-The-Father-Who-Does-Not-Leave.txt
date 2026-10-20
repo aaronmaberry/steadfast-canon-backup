@@ -1,0 +1,654 @@
+# SECTION: Glad you came back
+[warmly] Hey.|0.5
+Good to see you.|0.75
+Uh, a few of you found your spot from last time|0.4
+without even looking up.|0.55
+That's alright.|0.5
+You came back.|0.9
+A couple of you promised somebody this would be quick.|0.55
+[dry] Quick does not come with a workbook this thick.|ROOM_CHUCKLE
+You came in anyway.|0.5
+I'll take that.|0.85
+Last time you named, uh, the way you leave|0.4
+when the weight gets real.|0.6
+Anger.|0.35
+The itch.|0.35
+The drift.|0.8
+Some of you said the true word.|0.45
+Some of you, uh, got most of the way there.|0.6
+You told the truth about the exit.|0.85
+You know, an exit can get a man out of a room.|0.5
+It cannot father him.|1.15
+The ache needs a Father.|1.5
+If you're new with us, I'm Wes.|0.5
+Glad you sat down.|0.75
+Now listen.|0.45
+Uh, the word father does something in a room like this.|0.6
+For some of you, you know, it sits easy.|0.45
+For some of you it, uh, catches.|0.65
+I know that catch.|0.5
+We will not, uh, make a joke out of it.|0.6
+And we will not spend this hour|0.35
+building another list of what was missing.|0.7
+You've already, uh, told the truth about the man.|0.6
+Some of you are tired of the list.|0.55
+That tiredness makes sense.|0.5
+Uh, you can be the strong one for years.|0.55
+Run the day.|0.35
+Pay what's due.|0.4
+Keep everybody steady.|0.5
+And still be listening for a man|0.4
+to finish one sentence.|0.8
+I mean, I know that listen.|0.55
+It dresses up as faith.|0.5
+You call it patience.|0.45
+Under the nicer word,|0.35
+there's a boy at the window.|0.7
+He has been there a long time.|0.6
+Today we walk him|0.4
+to a Father who is already in the room.|0.85
+We will— we will go slow.|0.55
+Uh, if the word scrapes on the way out,|0.55
+you are in the right room.|0.6
+Receiving is the door.|0.55
+You don't have to feel ready first.|0.65
+We'll stay with you while you learn to say it.|0.75
+Today is who is here.|1.15
+A Father who does not leave.|1.35
+# SECTION: Who you're in front of
+[warmly] One sentence|0.4
+holds four marks of a real man.|0.65
+You've heard them, uh, in this room.|0.55
+I'll say them again.|0.4
+I won't pull them apart today.|0.75
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.|1.4
+# CUT SCREEN: creed board — "A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's." — new angle after
+That last line only holds|0.35
+if the God you picture is the real one.|0.7
+A man will not rest his life|0.35
+on a father he thinks might walk off.|0.85
+So today the marks can sit in your mouth.|0.5
+The question under them is simpler.|0.55
+Who have you been living them in front of?|1.15
+Here's the thing.|0.45
+You have been reading God through your dad.|0.7
+You know, every man does it.|0.5
+His was the first picture of a father you had,|0.45
+so you held it up|0.3
+and figured heaven matched.|0.75
+I have— I have done that for years.|0.65
+Scripture turns the picture around.|0.6
+God is the Father.|0.45
+The man you learned the word from|0.35
+was never the definition.|0.7
+You learn the man by looking at Jesus.|0.55
+You don't learn Jesus by staring at the man|0.4
+until he turns into God.|0.9
+He will— he will not.|0.55
+Uh, give him more years.|0.4
+He is still a man.|1.15
+If you can still call yours, call him.|0.55
+Honor him.|0.4
+That call is love.|0.5
+That call is a different page than this one.|0.75
+You know, a lot of men will give God|0.4
+the work and the worry|0.4
+and keep one room inside|0.35
+for a human who might still come through.|0.75
+Uh, that room stays hungry.|0.55
+I've— I've fed it by being the capable one.|0.6
+I've fed it by being needed.|0.55
+Neither one ever said the sentence.|0.75
+A paycheck can clap you on the back.|0.5
+A full house can need you.|0.45
+The sentence you're hungry for|0.4
+does not live in either place.|0.8
+This page is the Father who stays.|1.3
+# SECTION: The picture you held up
+Let me name the pictures|0.35
+without making you live in them all afternoon.|0.7
+Uh, some of you had a father who was a rumor.|0.55
+You could talk about him.|0.4
+You could not reach him.|0.6
+So God feels like a number|0.35
+you were given|0.3
+and never told how to dial.|0.75
+You pray,|0.3
+and you don't expect a ring.|0.8
+Uh, some of you had a man in the house.|0.5
+He was two feet away|0.35
+and the only words were about the work.|0.6
+Hand me that.|0.35
+Move that.|0.35
+We're done.|0.55
+You learned, uh, that near can still be mute.|0.7
+Your prayers go out like work orders|0.4
+and come back with no voice on them.|0.85
+Some of you, uh, learned the house|0.35
+by the way the front door shut.|0.6
+You knew the night|0.3
+before anybody spoke.|0.6
+You still pray like a man|0.35
+listening for which God walked in.|0.55
+You're fairly sure|0.3
+the mad one came for you.|0.9
+[quietly] And some of you, I mean, had a good man.|0.55
+I did.|0.4
+He showed up.|0.35
+He paid what needed paying.|0.5
+There was still a sentence|0.35
+that never quite got said.|0.7
+So you thank God easily,|0.4
+and you leave the need out,|0.4
+because needing sounds ungrateful.|0.8
+You held one of those pictures up to heaven.|0.6
+Maybe more than one.|0.5
+It has been doing your praying for you.|0.8
+Right?|0.45
+You didn't frame it and hang it on purpose.|0.6
+You just, uh, grew up inside it|0.4
+and carried it into every prayer.|0.7
+A rumor teaches you not to expect much.|0.6
+A mute house teaches you to keep it short.|0.65
+A hard door teaches you to come in small.|0.65
+A good man with a missing sentence|0.45
+teaches you to be grateful and still alone.|0.8
+Name yours before we leave this part.|0.55
+Uh, hold it loose.|0.45
+We'll need the plain name later.|0.6
+How many of you can already name yours?|0.55
+Just a hand.|0.4
+The story can wait.|ROOM_HANDS
+Yeah.|0.4
+Keep the name of it.|0.45
+We'll use it at the tables.|1.25
+# SECTION: Thanks without the need
+Uh, I want to tell on myself|0.4
+before I say another word about your picture.|0.7
+My boy asked me what my dad was like.|0.55
+I hurried.|0.4
+He was a good man.|0.4
+We're good.|0.55
+Some of you heard me own that speed.|0.6
+Here is the part under it.|0.55
+I got, uh, very good at thanks.|0.5
+I am slow at need.|0.6
+A decent dad can teach you that|0.4
+without ever meaning to.|0.65
+You don't want to sound like a complaint|0.4
+against a man who tried.|0.7
+So you pray, you know, the highlights.|0.45
+The health.|0.3
+The work.|0.3
+The day going fine.|0.55
+And you carry the heavy part yourself|0.4
+and call it respect.|0.8
+It isn't respect.|0.5
+It's a son who never practiced being carried.|1.1
+Uh, I can say Lord all afternoon.|0.5
+I can say God.|0.4
+Uh, Father is the word that sticks.|0.6
+Father means somebody close enough|0.35
+to hand the weight to.|0.7
+I wasn't sure I was allowed.|0.85
+You can— you can believe every true sentence|0.4
+about God|0.3
+and still pray like a man|0.3
+who plans to handle it.|0.8
+That was me.|0.45
+A lot of mornings, uh, it still is.|0.7
+So the move today is small and hard.|0.55
+Set the picture down.|0.65
+Some of you are still hoping|0.4
+the next visit is the one.|0.6
+He'll be softer.|0.4
+Uh, he'll finally see you.|0.6
+I hope you get a kind hour with him.|0.6
+Take the hour.|0.45
+Love him in it.|0.5
+Just don't make him God|0.4
+while you're waiting on the hour.|0.75
+Say it in your chest if you have to.|0.55
+You know, the hope is tender.|0.55
+I have lived in that hope.|0.5
+It gets heavy when a man has to be God too.|0.75
+I have been asking a man to do God's job.|0.7
+Stop running the test|0.35
+where a human man finally becomes God|0.4
+if you wait him out,|0.4
+or impress him,|0.35
+or need less.|0.75
+He will stay the size he is.|0.6
+The place you've been asking him to fill|0.4
+was made for your Father.|1.3
+# SECTION: Anyone who has seen me
+John fourteen, verse nine.|0.55
+Anyone who has seen me|0.35
+has seen the Father.|0.6
+How can you say,|0.35
+Show us the Father?|1.3
+Whatever Jesus is like,|0.4
+the Father is like.|0.65
+Not whatever your dad was like.|0.55
+Whatever Jesus is like.|0.7
+That is the correction.|1.05
+Stay with one thing, uh, He shows.|0.5
+The Father comes toward you.|0.7
+You know the friend|0.35
+who texts that he's in the driveway|0.4
+while you're still editing the message|0.4
+that asks him to come.|0.7
+You hadn't decided you were allowed to need him.|0.55
+He was— he was already there.|0.8
+You don't have to show up cleaned up.|0.55
+You don't have to have the speech ready.|0.65
+Uh, I've rewritten prayers in the truck|0.45
+until I sounded like a man who had recovered.|0.7
+Then I called the wait respect.|0.6
+He wants the man you actually are|0.45
+on the day you actually have.|0.7
+That is the shape.|0.5
+I do the opposite, and it's small,|0.4
+and it tells on me.|0.6
+Uh, I was in a hardware aisle|0.4
+with a bolt I couldn't name.|0.55
+The man in the vest was right there.|0.5
+I nodded like I knew the size.|0.45
+[dry] I did not know.|ROOM_CHUCKLE
+I paid.|0.35
+I went home.|0.4
+The bolt fit nothing I own.|0.6
+Uh, I still didn't go back.|0.55
+Asking felt louder than being wrong.|0.9
+That is a silly story|0.35
+until you hear it in your prayers.|0.65
+You tidy, uh, the sentence.|0.4
+You wait until you sound like a man|0.35
+who has it mostly together.|0.6
+You call the tidying reverence.|0.55
+A lot of the time it's fear.|0.7
+Bring— bring Him the unfinished man.|0.65
+Uh, the bolt was a small confession.|0.55
+The prayers were the bigger one.|0.6
+A son gets to come in unfinished.|0.7
+The Father is not standing back|0.4
+until your speech is good enough.|0.65
+He comes toward a son|0.4
+who is still a mess in the mouth.|1.25
+# SECTION: Before you did a thing
+Matthew three, verse seventeen.|0.6
+And a voice from heaven said,|0.45
+This is my Son, whom I love;|0.5
+with him I am well pleased.|1.5
+Uh, hear where it sits.|0.45
+Before the sermons.|0.4
+Before a healing.|0.4
+Before anybody in the towns|0.3
+had a reason to clap.|0.7
+The Father said the sentence first.|0.65
+My Son.|0.45
+That is belonging.|0.55
+Whom I love.|0.45
+That is His heart toward him.|0.6
+With him I am well pleased.|0.55
+That is delight,|0.4
+and it landed before the resume.|0.8
+Uh, most of us got the order backwards,|0.45
+if we got the words at all.|0.65
+Do enough.|0.35
+Then maybe you'll hear it.|0.6
+The Father reversed that order|0.45
+on the day His Son stepped into the water.|0.85
+Blessing first.|0.45
+The work after.|0.75
+If you have been performing for a voice|0.45
+you only hear after a win,|0.55
+hear the order one more time.|0.6
+The name came first.|0.55
+You know, the work was handed out after.|0.7
+You can stop trying to earn your own name.|0.75
+Your own father may have made you earn|0.4
+words that were supposed to be a gift.|0.7
+This Father gives them.|0.6
+If needing that voice feels like weakness,|0.5
+stay with the Son.|0.55
+The beloved Son heard it anyway.|0.7
+You are not more mature than He is|0.4
+for going without.|1.15
+I have tried, uh, to earn breakfast.|0.55
+List first.|0.35
+Food if the list behaved.|0.6
+[amused] Nobody was grading the eggs.|ROOM_CHUCKLE
+I was, though.|0.45
+In my head, uh, every morning.|0.65
+A son eats because he is a son.|0.55
+The shift comes after the name.|0.7
+If you are in Christ,|0.4
+that sentence is already over you.|0.75
+You don't assemble it by a better month.|0.6
+If you're not sure you're in Christ,|0.5
+don't dress it up.|0.45
+Tell Him you're not sure.|0.55
+He is not hiding from a man|0.4
+who will say the plain thing.|1.0
+Mine.|0.4
+Loved.|0.4
+Well pleased.|0.6
+Before the proof.|1.3
+# SECTION: He stays in it
+He carries you.|0.6
+He knows the need|0.35
+before you get a word on it.|0.65
+Your needing does not make Him lean away.|0.85
+I watched a brother once, you know,|0.45
+get an arm under a sick friend|0.45
+outside a clinic|0.4
+and just walk him to the door.|0.65
+No speech.|0.4
+No tally at the end.|0.55
+Uh, the sick one kept apologizing.|0.55
+The other one kept walking.|0.65
+That is nearer your Father|0.45
+than the scorekeeping a lot of us pray with.|0.85
+Stay with that picture|0.4
+if you grew up apologizing|0.4
+for taking up space.|0.6
+Uh, let the apologizing rest.|0.55
+He is— he is walking you in.|0.7
+Your Father is not keeping score on the walk.|0.7
+If needing was, uh, dangerous in your house,|0.5
+don't rush past that.|0.55
+I mean, sit in it a minute.|0.6
+The Father you have|0.35
+is not tired of the weight.|0.7
+He stays.|1.3
+John fourteen, verse eighteen.|0.55
+I will not leave you as orphans;|0.5
+I will come to you.|1.3
+He used that word|0.35
+because those men were about to feel it.|0.6
+Some of you have felt it, uh, since you were a boy.|0.65
+Hear the other half.|0.45
+I will come to you.|1.2
+Hebrews thirteen, verse five.|0.55
+Never will I leave you;|0.45
+never will I forsake you.|1.35
+And if the season is hard, you know,|0.45
+hear this before you decide He left.|0.7
+Hebrews twelve, verse seven.|0.55
+Endure hardship as discipline;|0.45
+God is treating you as his sons.|1.2
+[quietly] Discipline and rage|0.4
+were never the same thing.|0.8
+A hard stretch can mean He stayed.|0.65
+The man who learned to flinch|0.35
+needs that said slow.|0.7
+Rage throws you out.|0.45
+A Father's correction keeps you in the house.|0.9
+He is not a trick|0.35
+for feeling better before supper.|0.7
+He stays in the hurt with you.|0.65
+The hurt gets a hearing.|0.5
+It does not get the throne.|0.75
+You can tell Him what the man did.|0.5
+You can tell Him what you did.|0.5
+You still belong to Him.|1.25
+# SECTION: Calvin in the bay
+Let me tell you about a man I sat with.|0.55
+Uh, I'll call him Calvin.|0.6
+He worked on diesel trucks.|0.5
+He was the man you called.|0.7
+He had a rule he never wrote down.|0.55
+Don't be the one who needs.|0.8
+His old man was in the house|0.4
+and hard to bother.|0.55
+Calvin learned to solve a thing|0.35
+before anybody had to wake up to it.|0.7
+It looked like strength.|0.5
+It was a boy keeping the peace|0.4
+by needing nothing.|0.85
+One afternoon a starter was half out of a truck.|0.6
+Uh, Calvin's back locked.|0.55
+His legs, uh, quit the argument.|0.7
+A younger guy on the crew|0.4
+didn't make a speech.|0.45
+He got an arm under Calvin's chest|0.4
+and took the weight.|0.75
+Calvin told me later|0.4
+he came an inch from shoving him off.|0.65
+The pain wasn't the reason.|0.5
+Being the one held|0.35
+felt like losing in front of his own men.|0.9
+He had stood alone so long|0.4
+that help felt like an insult.|0.9
+He didn't go in the house right away.|0.6
+Uh, sat in the driveway with the engine off.|0.65
+Tried to pray the usual list.|0.5
+Jobs.|0.3
+Money.|0.3
+His boy's grades.|0.55
+The list ran out|0.4
+and the back was still wrong.|0.7
+He said the word he had been avoiding.|0.6
+Father.|0.55
+Then one sentence.|0.5
+I can't get myself to the door.|1.1
+He told me it felt foolish,|0.45
+like he'd picked up a word|0.35
+from a house he didn't live in.|0.8
+He kept at it, uh, on the drive to work.|0.55
+Father.|0.4
+One plain sentence about the day.|0.7
+After a string of those mornings,|0.5
+his boy had a truck that wouldn't turn over.|0.65
+Calvin's whole body, uh, went for the wrench.|0.55
+He stopped his hand.|0.6
+He asked the boy what he heard.|0.55
+He held the light.|0.45
+He let the boy find it.|0.8
+Later he said,|0.4
+I have been the arms my whole life.|0.6
+I didn't know a son was allowed to be carried.|0.7
+And my boy needed to see me allow it|0.45
+more than he needed a running truck.|1.2
+[quietly] That's the hard part in this room.|0.6
+A lot of you have fathered yourselves|0.4
+since you were young.|0.55
+You can nod at every verse I just read|0.45
+and still lock up|0.35
+when it's time to be a son.|0.8
+Help feels like stepping off a ladder|0.45
+you've been standing on for years.|0.65
+The ground has been there.|0.5
+Your feet don't believe it yet.|1.3
+# SECTION: Say it where you can hear it
+So, uh, practice the receiving.|0.55
+Say Father where your own ears take it in.|0.65
+Keep God and Lord|0.3
+for your other prayers if you want.|0.55
+Give this one the name.|0.6
+Romans eight, verse fifteen.|0.55
+The Spirit you received|0.35
+brought about your adoption to sonship.|0.6
+And by him we cry,|0.4
+Abba, Father.|1.3
+Abba is, you know, a little kid's word.|0.55
+You're allowed to sound like that.|0.65
+It'll— it'll feel clumsy.|0.55
+Say it while it still does.|0.7
+First time I said it in the truck,|0.5
+I checked both mirrors,|0.4
+[dry] like somebody might report me.|ROOM_CHUCKLE
+I said it again, uh, the next morning.|0.6
+Awkward counted.|0.55
+How many of you have never said it out loud,|0.45
+where you could hear yourself?|0.6
+Go on.|ROOM_HANDS
+Alright.|0.45
+Capable men.|0.4
+The word can feel late.|0.5
+A son can start today.|1.05
+Bring Him, uh, the thing still messy.|0.55
+Before you polish it for a brother.|0.6
+Father, I am about to go cold|0.35
+on the people in my house.|0.7
+Father, I am headed back|0.35
+toward the thing I already told a man I quit.|0.85
+He can hear it uncleaned.|0.6
+Telling Him is not a pass to keep the exit.|0.65
+You already named the way you leave.|0.5
+He can hear it|0.3
+and still tell you to put it down.|0.85
+Then let Him, uh, tell you who you are.|0.6
+Read a sentence He has said about His sons.|0.55
+Answer it as true of you,|0.45
+because if you are in Christ,|0.4
+it is.|0.7
+A man who never heard his name|0.4
+needs it more than once.|0.6
+The Father has the patience for that.|0.8
+Let Him carry you, uh, in a way you can feel.|0.6
+Sometime soon, uh, something will be too heavy,|0.45
+and your reflex will be to grind it alone.|0.7
+Say the other sentence.|0.5
+This is past me.|0.4
+Father, hold it.|0.55
+Then let a brother in.|0.6
+Ask him to pray for you out loud,|0.45
+right there,|0.35
+and let him finish.|0.7
+Being prayed over|0.35
+is practice at being carried.|0.9
+Your pride will, you know, call it small.|0.5
+It is the ladder step.|0.65
+Stay where His voice actually is.|0.6
+His Word, on a plain day.|0.5
+His people, when you'd rather slip out.|0.55
+Prayer, when you have nothing impressive to report.|0.75
+A man who only shows up|0.35
+when something is on fire|0.4
+never learns the voice|0.35
+on an ordinary Tuesday.|1.25
+# SECTION: Around the room
+Let me walk the room, slow.|0.55
+Uh, if you're young,|0.4
+learn this while you still think|0.35
+you don't need another father.|0.65
+You will save yourself years of looking|0.4
+for a man who can finish the sentence.|0.75
+If you're single,|0.45
+don't put the Father on layaway.|0.6
+Uh, I watched a younger man try to wait it out.|0.55
+I'll call him Ben.|0.5
+Single.|0.35
+Early in his working life.|0.55
+He told me he'd get serious about God as Father|0.45
+once he had a wife and a couple of kids,|0.5
+because that's when a man needs the pattern.|0.75
+I told him the order runs the other way.|0.6
+You are a son before you are anybody's husband.|0.7
+A wife will not be the voice from heaven.|0.65
+If you hand her that job,|0.4
+you will wear her out|0.35
+and stay a boy with a plan.|0.75
+Ben didn't need more life first.|0.5
+He needed the word|0.35
+while the apartment was still quiet.|0.8
+If you're married, I mean,|0.45
+your wife can be a gift|0.4
+and still not be your Father.|0.65
+You've heard me on this.|0.5
+I have handed her a job that was never hers.|0.6
+I still catch myself doing it.|0.55
+Take it— take it back.|0.5
+Let her be a wife.|0.7
+[quietly] If the word was used to harm you,|0.6
+hear this kindly.|0.5
+God is not that man.|0.75
+You don't have to shrink the harm|0.4
+before you're allowed to say Father.|0.85
+Uh, if you're older,|0.45
+you are not late to be a son.|0.65
+The word may feel foolish the first mornings.|0.6
+Say it anyway.|0.55
+Foolish and true can share a mouth.|0.8
+And if the job is going well,|0.5
+don't bring a good report|0.4
+to a hunger it cannot feed.|0.7
+I had a stretch like that, you know.|0.55
+Somebody told me the work was strong.|0.55
+I said thanks.|0.4
+I sat in the truck after,|0.4
+and I was still hungry.|0.65
+A nod at work|0.35
+is not, with him I am well pleased.|0.9
+Once this Father is, uh, fathering you,|0.5
+your own dad gets smaller in the right way.|0.65
+You can honor what was good in him.|0.55
+You can name what harmed you|0.4
+and put the rage down.|0.7
+Forgiveness gets room|0.4
+when you quit waiting on him|0.35
+to pay a debt only God can pay.|0.8
+Some of you can still move toward him.|0.55
+Love can make that call.|0.5
+The call still cannot make him God.|1.25
+# SECTION: At the tables
+[warmly] Let me land it.|0.55
+Here is the whole thing.|0.55
+You learned the word father from a man.|0.6
+Jesus shows you the Father|0.4
+that word was always about.|0.7
+He comes toward you.|0.5
+He names you before you perform.|0.55
+He stays.|0.55
+He does not leave.|1.4
+What I hope you walk out with|0.45
+is not a fixed childhood before supper.|0.65
+I hope you walk out|0.35
+knowing which picture|0.3
+you have been holding up to heaven,|0.55
+and one true thing Jesus shows|0.4
+about the Father who is actually there.|0.8
+Then I hope you say the word|0.4
+before you feel ready.|0.7
+The marks, once more,|0.4
+so they're in the room|0.3
+when you stand up.|0.6
+You've carried them through this room.|0.55
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.|1.2
+# CUT SCREEN: creed board — "A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's." — new angle after
+Today those marks sit in front of a Father|0.45
+who does not leave.|0.7
+That is the difference.|1.0
+Uh, get with the men at your table.|0.55
+Pull in.|0.4
+Open your workbook to this part.|0.55
+Work it, uh, out loud together.|0.7
+Three questions.|0.5
+Which picture have you been holding up to heaven?|0.9
+What one thing does Jesus show|0.4
+the Father is actually like?|0.95
+Can you say Father out loud seven mornings,|0.45
+before your feet hit the floor,|0.4
+one sentence to Him about the day,|0.45
+without waiting to feel it first?|1.15
+Then tell a brother|0.4
+which false father you have been praying to.|0.6
+Ask him to pray for you out loud,|0.45
+right there,|0.3
+and let him.|0.65
+If he rushes you,|0.4
+ask him to sit still.|0.55
+The Father stays.|0.5
+A brother can stay with you too.|0.8
+First John three, verse one.|0.55
+See what great love the Father has lavished on us,|0.5
+that we should be called children of God!|0.55
+And that is what we are!|1.4
+Say Father badly if you have to.|0.55
+Say it again.|0.5
+He has stayed through worse|0.4
+than an awkward morning.|1.15
+You are a son.|0.55
+The Father who said so does not leave.|1.3

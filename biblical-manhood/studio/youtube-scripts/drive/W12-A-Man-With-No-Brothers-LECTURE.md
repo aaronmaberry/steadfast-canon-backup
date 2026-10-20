@@ -37,9 +37,9 @@ Most men in this room are Dale with a full phone and an empty second line. And s
 
 [Slide: the four marks]
 
-A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
-Write it down. Today the marks confront lonely independence dressed as strength. Reject passivity that will not ask. Accept responsibility for the twenty minutes and the question. Lead first into the awkward sentence. Quit waiting on a brother to volunteer as your reward.
+Write it down. Today the marks confront lonely independence dressed as strength. Stop the waiting that will not ask. Pick up the weight of the twenty minutes and the question. Lead first into the awkward sentence. Quit waiting on a brother to volunteer as your reward.
 
 ---
 
@@ -163,7 +163,7 @@ Before application, hold the double together.
 
 A brother knows the week. The man ahead knows the road. Pity the man with no second line. Entrust the chain. Twenty minutes: what happened, what's heavy, what's next, prayer. Ask one real question. When he says ride with me, go. Older men: go first with a gate and a question and your scars.
 
-The four marks land on both. Reject the passivity of waiting for someone to volunteer. Accept responsibility for the sentence and the report back. Lead into the awkward ask and the Saturday cab. Expect God's reward instead of independence as your payout.
+The four marks land on both. Stop waiting for someone to volunteer. Pick up the weight of the sentence and the report back. Lead into the awkward ask and the Saturday cab. Work for God's pay instead of independence as your payout.
 
 Dale's pen stopped stopping. Harlan's noon call taught more than sermons. Jonathan helped David find strength in God. Paul told Timothy to keep the chain going. Jesus asked three men to stay. You need both titles in one week. Brother beside. Man ahead. Do not split them into two courses you will take later.
 
@@ -190,7 +190,7 @@ Do not let the double become two half-obediences. Ask the brother and ask the ma
 Last line before the job. Pity the man who falls with no one to help him up. Find a brother. Give him twenty. Ask the man. When he says ride with me, go. Be the man who asks and the man who offers. The chain has been broken long enough.
 
 
-I want the high performer to hear this without flinching. Your competence filled the phone. It did not fill the second line. I want the wounded man to hear that asking after being burned is not stupidity. It is refusing to let one bad meal end eating. I want the married man to hear that protecting your wife from the weight of being your only brother is accepting responsibility, not cheating her out of intimacy. Brothers take a weight she was never built to carry alone. That frees her to be a wife.
+I want the high performer to hear this without flinching. Your competence filled the phone. It did not fill the second line. I want the wounded man to hear that asking after being burned is not stupidity. It is refusing to let one bad meal end eating. I want the married man to hear that protecting your wife from the weight of being your only brother is picking up the weight, not cheating her out of intimacy. Brothers take a weight she was never built to carry alone. That frees her to be a wife.
 
 Do not confuse twenty minutes with a program. The seed is the point. Some of you will grow it into Saturday mornings. Some of you will keep it at twenty forever, and that is enough. Dale thought it was dumb for a month. Then the pen moved. Harlan barely preached. He called home at noon. The teaching was the steadiness.
 
@@ -236,7 +236,7 @@ The four marks, once more.
 
 [Slide: the four marks]
 
-A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
 Session thirteen next week: The Problem Inside.
 

@@ -24,7 +24,7 @@ This is the spoken script for the lecture. Stage and slide directions are in squ
 **MAX:**
 Sit down. You are on time.
 
-Last week I asked you to name the stair you have been stepping over and to put the first screw in before noon. Some of you dialed. Some of you still have the drill across your knees. Stay in the chair. Today we take the second mark. Accepts responsibility. Pick up the weight.
+Last week I asked you to name the stair you have been stepping over and to put the first screw in before noon. Some of you dialed. Some of you still have the drill across your knees. Stay in the chair. Today we take the second mark. Picks up the weight.
 
 This is Steadfast Men. The Way of Godly Men. My name is Max. Session five of twenty four. Same shape every week. Claim. Text. Movements. Application. Close. One session. Do the work. Come back. Notes by hand.
 
@@ -34,15 +34,15 @@ You can open up the kitchen without it, but only if you put something else under
 
 Every house has weight that has to land somewhere. So does every family, and every job, and every life. Nobody asks whether the wall thinks it is fair. The weight is where the weight is.
 
-The second mark of a man is that he accepts responsibility. A man looks at the weight in his life, the part that is his, and says, that lands on me. Not because he caused all of it. Not because the arrangement is fair. Because he is the wall, and if he steps back, everyone upstairs finds out.
+The second mark of a man is that he picks up the weight. A man looks at the weight in his life, the part that is his, and says, that lands on me. Not because he caused all of it. Not because the arrangement is fair. Because he is the wall, and if he steps back, everyone upstairs finds out.
 
-Last week's stair was the first mark. This week's wall is the second. They belong together. A man can reject passivity on a job and still refuse weight at home by building a beautiful case for why the weight is unfair. Do not leave session four's screw in the wall and skip session five's sentence. That is mine has to follow stop waiting, or you become a man who moves once and then argues.
+Last week's stair was the first mark. This week's wall is the second. They belong together. A man can stop waiting on a job and still refuse weight at home by building a beautiful case for why the weight is unfair. Do not leave session four's screw in the wall and skip session five's sentence. That is mine has to follow stop waiting, or you become a man who moves once and then argues.
 
 [Slide: the four marks]
 
-A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
-Write it down. Today's weight is on the second mark. Accepts responsibility.
+Write it down. Today's weight is on the second mark. Picks up the weight.
 
 ---
 
@@ -157,7 +157,7 @@ for each one should carry their own load.
 
 Carry each other's. Carry your own. Both, because he is using two different words. The first means a crushing weight, more than one back was built for. The second is a soldier's pack, a ship's cargo, the load a man is issued and expected to carry himself. Jesus used that second word when He said His burden is light.
 
-A man who accepts responsibility can tell the two apart. He shoulders his own load without a speech about it, and when a brother goes down under the crushing kind, he gets under it without being asked. Neither is optional, and neither is weakness.
+A man who picks up the weight can tell the two apart. He shoulders his own load without a speech about it, and when a brother goes down under the crushing kind, he gets under it without being asked. Neither is optional, and neither is weakness.
 
 Some men would rather lose a finger than make two trips from the car, and they carry their lives the same way: a wife's happiness, the children's every choice, the church's health, their own salvation, all on one arm, because setting any of it down feels like failure.
 
@@ -245,13 +245,13 @@ If you only remember three lines from today, remember these. Fault is not respon
 
 I have watched men hear this chapter and immediately pick up three new weights that were never theirs, because guilt feels like action. Do not do that. Guilt is not the second mark. Clarity is. The wall carries what the joists require. It does not invent extra floors for the sake of looking strong.
 
-Young father: your worn out wife's sleep is in your field this season. Midlife man: the fifth weight you set down years ago may still be callable. Older man: grown children still hear whether the floor holds when you speak. Single man: carry yourself like someone is upstairs even when the apartment is quiet. High performer: the bonus for disappearance is a fake reward. God's reward is the beam nobody thanks, seen by the Father.
+Young father: your worn out wife's sleep is in your field this season. Midlife man: the fifth weight you set down years ago may still be callable. Older man: grown children still hear whether the floor holds when you speak. Single man: carry yourself like someone is upstairs even when the apartment is quiet. High performer: the bonus for disappearance is a fake reward. God's pay is the beam nobody thanks, seen by the Father.
 
 That is the bridge into next week. Weight accepted becomes courage required. You will need to go first while carrying. Session six is the door.
 
 The gun safe from week three and the wall from this week are the same teaching. Weight commits you. Halfway down the hallway you cannot redefine the load. Say that is mine early enough that the hallway still has room to finish. The bedroom door that stops latching is never only about a door. It is about a year of sag. Pick up the weight while the latch still works. You are not asked to hold up the world. You are asked to hold up your corner of it and to stop pointing when it gets heavy. May He make you steady under what is yours, honest about what is not, and may your house learn that the floor holds.
 
-One last pass on that is mine, because the period is the whole fight. That is mine, but she also. That is mine, because of what they did. That is mine, if everyone else does their part. Those are Adam sentences. The wall does not get a clause. Say the two words. Close your mouth. Then do the non money provision so the sentence has feet. A meal. A front row seat. A question heard to the end. Or if you live alone, the bill, the doctor, the Bible, the habit you have outsourced to a future version of yourself. Accepts responsibility is not a mood. It is a period and a provision.
+One last pass on that is mine, because the period is the whole fight. That is mine, but she also. That is mine, because of what they did. That is mine, if everyone else does their part. Those are Adam sentences. The wall does not get a clause. Say the two words. Close your mouth. Then do the non money provision so the sentence has feet. A meal. A front row seat. A question heard to the end. Or if you live alone, the bill, the doctor, the Bible, the habit you have outsourced to a future version of yourself. Picking up the weight is not a mood. It is a period and a provision.
 
 Responsibility without a noun is just a feeling about being overwhelmed. Fill each of the five with a concrete noun before you sleep. Then put feet on the noun that scares you most. That is usually the fifth weight or the empty chair.
 
@@ -291,7 +291,7 @@ The four marks, once more.
 
 [Slide: the four marks]
 
-A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
 Session six, Go First, next week.
 

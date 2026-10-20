@@ -24,7 +24,7 @@ This is the spoken script for the lecture. Stage and slide directions are in squ
 **MAX:**
 Sit down. You are on time.
 
-Last week I asked you for a that is mine sentence with a period on it. Some of you provided something that was not money. Today, the third mark. Leads courageously. Go first.
+Last week I asked you for a that is mine sentence with a period on it. Some of you provided something that was not money. Today, the third mark. Goes first.
 
 This is Steadfast Men. The Way of Godly Men. My name is Max. Session six of twenty four. Same shape. Claim. Text. Movements. Application. Close. One session a week. Notes by hand. Do not binge.
 
@@ -38,13 +38,13 @@ Then the second door opens. Within a quarter hour there are six men, two saws, a
 
 I want you to feel the stretch of seconds when he is the only man in the street. That stretch is the whole chapter. Most men quit at four seconds and call it wisdom. Leadership is staying through eight. Last week we picked up weight. This week we move while carrying it. The third mark is not louder than the second. It is earlier.
 
-The third mark of a man is that he leads courageously. Most men hear leadership and picture the head of the table, the title, the biggest voice in the room. That is not it. Leadership is the first door open. It is the man who moves while everyone is still looking, and takes the stretch alone, so the second man has somewhere to go.
+The third mark of a man is that he goes first. Most men hear leadership and picture the head of the table, the title, the biggest voice in the room. That is not it. Leadership is the first door open. It is the man who moves while everyone is still looking, and takes the stretch alone, so the second man has somewhere to go.
 
 [Slide: the four marks]
 
-A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
-Write it down. Today's weight is on the third mark. Leads courageously.
+Write it down. Today's weight is on the third mark. Goes first.
 
 ---
 
@@ -179,7 +179,7 @@ fixing our eyes on Jesus, the pioneer and perfecter of faith. For the joy set be
 
 Pioneer. The one who goes first through the worst of it and cuts the trail so the rest can walk. He was alone in the street a lot longer than eight seconds. His friends slept, then scattered. And the writer tells you how He did it: for the joy set before Him. He went first with His eyes on a reward.
 
-This is why session seven comes next and why the fourth mark keeps showing up inside the others. Rejects passivity needs a reward beyond comfort. Accepts responsibility needs a Father who sees the beam. Leads courageously needs a pioneer already in the street. Without God's reward, going first becomes a dare you can only win on adrenaline.
+This is why session seven comes next and why the fourth mark keeps showing up inside the others. Stops waiting needs a reward beyond comfort. Picks up the weight needs a Father who sees the beam. Goes first needs a pioneer already in the street. Without God's pay, going first becomes a dare you can only win on adrenaline.
 
 Movement three, summarized. You are the second door open. Write this down: the Lord goes before you.
 
@@ -243,7 +243,7 @@ I am going to end the teaching bridge the way the book ends the chapter, because
 
 If your hand is still on the door and not opening, name the fear from the four. Foolish. Turned down. Wrong. Cost. Say which one out loud. Fear named is smaller than fear vague. Then open anyway. Timid is afraid and still. Courageous is afraid and moving. The Lord Himself goes before you. You are never actually first. You are the second door open. That is the carry. That is the street. That is the week.
 
-Leads courageously is not a personality upgrade. It is a door on an ordinary day while your heart is loud and His is already in the street. Write the opening words. Tell a brother. Take the eight seconds. Listen for the second door. Then come back next week ready to talk about a reward that lasts longer than the clap that never came.
+Going first is not a personality upgrade. It is a door on an ordinary day while your heart is loud and His is already in the street. Write the opening words. Tell a brother. Take the eight seconds. Listen for the second door. Then come back next week ready to talk about a reward that lasts longer than the clap that never came.
 
 Let me say it without poetry. Leadership is the answer to one question: who goes first. Everybody on the block already knows the tree should move. Everybody in the kitchen already knows the turn should happen. Everybody at the table already knows someone should pray. The shortage is not insight. The shortage is a door.
 
@@ -293,7 +293,7 @@ The four marks, once more.
 
 [Slide: the four marks]
 
-A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
 Session seven, Live for a Reward That Lasts, next week.
 

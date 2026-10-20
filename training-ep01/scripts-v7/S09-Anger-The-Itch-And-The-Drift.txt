@@ -1,0 +1,728 @@
+# SECTION: Welcome
+[warmly] Hey.|0.5
+Good to see you in the room.|0.8
+Uh, I got here a little early.|0.45
+Straightened a stack of books|0.3
+that was already straight.|0.5
+Then I left them alone.|0.45
+They were fine.|ROOM_CHUCKLE
+[dry] Yeah.|0.4
+I know that move.|0.45
+Give me a small job|0.3
+so I don't have to walk into a real one.|0.85
+Some of you, uh, did a cousin of that|0.35
+out in your truck.|0.4
+Uh, hands on the wheel.|0.35
+Coming through the door is the harder job.|0.8
+Glad you took it.|1.05
+Uh, last time we named the chair.|0.55
+What sat there was handed to you.|0.55
+What you do with it is yours.|0.8
+I'm not— I'm not gonna walk that road again.|0.65
+Today is the fruit.|0.6
+What comes out of a man|0.35
+when the ache gets heavy|0.4
+and he will not carry it.|1.15
+Pain does not sit still in you.|0.6
+It moves.|0.45
+It finds a way out.|1.2
+I have a way.|0.4
+You have a way.|0.5
+Uh, most of us named it after ourselves.|0.55
+Called it personality.|0.5
+You know, that sounds cleaner.|0.55
+Temperament.|0.4
+Just how I'm built.|0.65
+It isn't how you're built.|0.5
+It's how— it's how you learned|0.35
+not to feel a thing.|0.9
+The ache leaves three ways.|0.55
+Out, and it looks like anger.|0.5
+Down, and it looks like appetite.|0.55
+Away, and the man is simply gone.|0.8
+Anger.|0.35
+The itch.|0.35
+The drift.|1.15
+You don't need all three on your record.|0.55
+One of them answers|0.35
+before you've held a meeting.|0.75
+That one is yours.|1.1
+If the chair talk is still settling in you,|0.4
+you're not late to this.|0.55
+Every man in here has an ache|0.4
+and a way he spends it.|0.65
+A lot of men will swear they don't.|0.55
+They get quiet.|0.4
+They get— they get reasonable.|0.5
+They get, uh, very productive.|0.6
+You know, same door.|0.45
+If a hard stretch|0.35
+sends you through more than one,|0.5
+you probably blocked the favorite.|0.55
+The ache went looking.|0.6
+Name the one you live in.|0.55
+Today we name the way.|1.25
+# SECTION: The Marks
+[warmly] One sentence|0.4
+puts four marks down|0.35
+for what a real man is.|0.75
+I have not found a cleaner list.|0.8
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.|1.35
+# CUT SCREEN: creed board — "A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's." — new angle after
+Uh, you've heard them in this room.|0.55
+I'm not gonna tour the whole list.|0.6
+Today they stand over the fruit.|0.6
+Not over the old seat.|1.1
+Uh, passivity has a quiet costume|0.4
+and a loud one.|0.6
+The drift is passivity|0.35
+with your body still in the house.|0.75
+The itch is passivity|0.35
+that would rather not be known.|0.8
+Anger can look like the opposite.|0.55
+A man running the room.|0.45
+Sometimes it's a refusal|0.35
+to say what's under the heat.|0.85
+Uh, responsibility is that sentence.|0.6
+The exit,|0.3
+and the thing beneath it.|0.75
+Uh, courage is the next move|0.4
+while it still costs you.|0.7
+I mean, the exits all pay fast.|0.65
+Anger pays a rush that feels like power.|0.6
+The itch pays relief.|0.5
+The drift pays a cheap peace.|0.7
+None of those hold in the morning.|0.75
+God's pay is a man who stayed|0.45
+and told the truth.|1.0
+I watched a man get praised for being even|0.5
+while his people lived on scraps of him.|0.65
+Even is not the same as present.|0.6
+Uh, a calm face can still be an exit.|0.65
+Passivity will wear a compliment|0.4
+if you let it.|0.7
+Here's the claim.|0.5
+Your main exit is not your personality.|0.75
+It is— it is an old way|0.4
+of not feeling something,|0.45
+and it still answers to your name.|1.15
+Uh, shame will try to run the hour.|0.55
+Don't let it do the teaching.|0.55
+Uh, shame makes every exit stronger.|0.65
+I will not shame you.|0.5
+I will not pat the fruit|0.35
+and pretend it is only a wound.|0.8
+The old hurt may explain the door.|0.55
+You still decide|0.35
+whether you walk through it today.|1.25
+# SECTION: Anger
+[dry] Anger is the exit a lot of men trust.|0.55
+It looks like strength.|0.75
+Get under it, though.|0.5
+Uh, most days you'll find fear there.|0.5
+Or shame.|0.4
+Or a helplessness you cannot stand.|0.8
+You got talked over, and you smiled.|0.55
+Uh, your boy is struggling,|0.35
+and you have no lever.|0.6
+You said a thing yesterday|0.35
+you can't unsay,|0.4
+and it's still in the room.|0.85
+Uh, every one of those feels like weakness.|0.6
+Anger feels like power.|0.5
+So a man— so a man grabs it|0.4
+the way he grabs the loudest thing in reach.|0.8
+Uh, the moment in front of him|0.4
+didn't build the heat.|0.5
+It just walked in while he was already hot.|0.9
+You've felt that, right?|0.7
+Uh, the size of it doesn't match the spark.|0.75
+How many of you get a sharp sentence|0.4
+in your mouth|0.3
+before you've named the real thing?|0.65
+Hands.|0.35
+Nobody's collecting them.|ROOM_HANDS
+Yeah.|0.45
+That's a lot of loaded sentences|0.4
+walking around in here.|0.8
+The heat picks a target fast.|0.5
+A tone in your voice.|0.45
+A driver who moved over.|0.5
+A backpack in the doorway.|0.55
+Uh, the target is almost never|0.4
+the thing that actually hurt.|0.65
+You can feel it in the jaw first.|0.5
+Then the hands.|0.4
+Then a sentence you'll wish you could catch.|0.7
+Uh, let me tell on myself.|0.5
+I have fixed things that were not the problem.|0.6
+A hinge that squeaked a little.|0.5
+I stood there with a screwdriver|0.4
+while a real conversation|0.3
+waited on the other side of the door.|0.75
+[amused] That hinge has never been quieter.|0.45
+The conversation is still waiting.|ROOM_CHUCKLE
+That's not a fix.|0.45
+That's an exit|0.3
+with a tool in its hand.|0.8
+Uh, I looked useful.|0.45
+I was leaving.|0.6
+If you remember one line from this part,|0.45
+remember this.|0.4
+The loud thing is often a cover|0.4
+for a man who feels small.|1.25
+# SECTION: Before Sundown
+[quietly] I came through my own door already tight.|0.55
+Bad day.|0.4
+I was not gonna talk about it.|0.6
+Uh, there were shoes in the hall.|0.45
+Not a crisis.|0.4
+I picked them up|0.3
+like they'd insulted the house.|0.6
+My voice got particular.|0.55
+Uh, a kid of mine watched the shoes,|0.45
+not my face.|0.55
+He was learning what to do with his shoulders|0.45
+when I come in hot.|0.85
+Uh, I caught it.|0.4
+Not fast.|0.45
+I went out to the back step|0.4
+and stood there|0.3
+until my hands changed.|0.7
+Then I came in and said it.|0.5
+It's not the shoes.|0.45
+I'm wound up,|0.3
+and I brought it home.|0.8
+Something in the day had made me feel small.|0.6
+The shoes were a thing I could win.|0.85
+Uh, listen to the verse on this.|0.5
+Ephesians four,|0.35
+verses twenty-six and twenty-seven.|0.7
+In your anger do not sin.|0.55
+Do not let the sun go down|0.35
+while you are still angry,|0.45
+and do not give the devil a foothold.|1.15
+The verse doesn't ban the anger.|0.55
+It meets you in it.|0.5
+Then it sets a clock.|0.45
+Sundown.|0.55
+Then it names the danger.|0.5
+A place for the enemy to stand.|0.8
+He doesn't need a scene.|0.45
+He needs you to lie down still holding it,|0.5
+and pick it up again in the morning.|0.8
+Leave it there.|0.5
+The house starts to plan around you.|0.65
+People get careful when you come in.|0.55
+Uh, that's a foothold learning the rooms.|0.7
+So here's the move.|0.45
+When the heat hits,|0.35
+don't spend the sentence you've got loaded.|0.7
+Step out.|0.4
+Back step.|0.3
+End of the hall.|0.35
+The far side of the driveway.|0.55
+Uh, stop feeding it with your mouth.|0.6
+The surge will crest,|0.4
+and if you let it,|0.3
+it starts to drop.|0.75
+Then you walk— you walk back in|0.4
+and you say the thing under it.|0.7
+I'm scared.|0.4
+I'm ashamed.|0.4
+I felt small,|0.3
+and I spent it on you.|0.8
+Settle it before the sun is down.|0.65
+Don't take it to sleep with you.|1.2
+# SECTION: The Itch
+[quietly] The second exit goes down.|0.55
+Appetite.|0.5
+Uh, sex has the strongest grip,|0.45
+so I won't pretend it's a side note.|0.75
+The same itch runs other places, though.|0.6
+Uh, a drink you keep where nobody checks.|0.55
+A box on the porch|0.35
+you didn't need,|0.35
+slid into the garage before anyone sees it.|0.7
+A game you keep refreshing|0.4
+because the next play might settle your chest.|0.75
+A screen that will sit with you|0.4
+as long as you want|0.35
+and never once ask your name.|0.9
+Comfort now.|0.45
+No cost you have to say out loud.|0.55
+No witness.|0.7
+Uh, you didn't put it on a calendar.|0.55
+It just— it just took the night,|0.45
+or the drive,|0.3
+or whatever scrap of the day was left.|0.75
+And you were not hunting joy,|0.4
+not mostly.|0.45
+You were hunting relief.|0.6
+Uh, relief from the day.|0.45
+Relief from a room|0.3
+where somebody might need the real you.|0.85
+That's the pull.|0.55
+The lie sits right beside it.|0.6
+Being needed,|0.35
+and being known,|0.4
+is the road that actually helps a man.|0.7
+Block this door|0.35
+and don't be shocked|0.3
+if the ache tries another.|0.55
+You shut the appetite|0.4
+and the temper shows up.|0.5
+Or you go quiet.|0.45
+Uh, that is one ache|0.4
+hunting a way not to be felt.|0.65
+The day a brother can describe the habit,|0.5
+it has to shrink|0.35
+or get honest.|0.6
+A hidden stretch will not build you.|0.7
+I mean, it asks nothing,|0.4
+and that's why it feels like mercy.|0.65
+It isn't mercy.|0.55
+Uh, watch what goes first.|0.5
+Your attention thins out|0.4
+around the people who love you.|0.6
+Then your want for a real person thins out.|0.65
+Then you get clever|0.35
+at looking past them.|0.7
+She can feel the gap|0.4
+before she can name it.|0.55
+If there's no wife,|0.4
+a brother can feel it too.|0.55
+You start answering from far away.|0.6
+The life is still on the schedule.|0.5
+You are harder to find.|1.25
+# SECTION: Flee
+There's a line for this|0.4
+in Second Timothy,|0.35
+chapter two,|0.3
+verse twenty-two.|0.65
+Flee the evil desires of youth,|0.45
+and pursue righteousness, faith, love, and peace,|0.55
+along with those who call on the Lord|0.4
+out of a pure heart.|1.1
+Flee.|0.5
+Not manage.|0.45
+Not a tidier plan.|0.55
+Run.|0.6
+And the verse does not send you out alone.|0.6
+Along with those who call on the Lord.|0.65
+That's a man in it with you.|0.7
+So if this is your exit,|0.45
+here is the work.|0.5
+Tell one man what you actually do.|0.55
+Uh, how often it has you.|0.45
+How long it's been the door.|0.5
+What it's costing.|0.6
+Uh, don't hand him a soft label|0.4
+he can't picture.|0.55
+Hand him the real thing.|0.65
+Then put the way back in his hands.|0.55
+The password.|0.5
+If he holds the way in,|0.4
+you have to face a man to get to it.|0.75
+Uh, set the kind of rule|0.35
+you'd set for your own son|0.4
+without an argument.|0.6
+The screen doesn't sleep next to you.|0.55
+It lives out where a life is happening.|0.8
+I have— I have sat in my own driveway|0.45
+with the engine off.|0.45
+House lit.|0.35
+Somebody moving around in there.|0.5
+Me in the dark with a phone,|0.4
+calling it a minute to come down.|0.65
+[amused] I knew the score|0.3
+of a game I don't even follow.|ROOM_CHUCKLE
+The house was right there.|0.5
+The phone was easier.|0.6
+Uh, when I was younger|0.4
+and a day went wrong,|0.4
+I bought food I didn't want.|0.5
+Ate it in the truck.|0.45
+Music up.|0.4
+Then walked in ready to play normal.|0.7
+Uh, the sack was not dinner.|0.5
+It was a few quiet minutes|0.35
+where nobody needed a man out of me.|0.8
+Same door as the darker stuff.|0.55
+Comfort now.|0.4
+No witness.|0.4
+No cost I had to say.|0.75
+So find the man.|0.45
+Uh, tell him the real habit|0.4
+before you talk yourself down.|0.65
+The itch shrinks in a man who is known.|0.6
+It does not shrink in a man|0.4
+with a better hiding spot.|1.25
+# SECTION: The Drift
+[dry] The third exit is the quiet one.|0.6
+Uh, I worry about it|0.35
+because the house still looks alright.|0.65
+Nobody calls it a crisis.|0.6
+You leave without taking a step.|0.6
+Your body stays.|0.45
+You answer from somewhere else.|0.65
+The people who love you|0.4
+learn to stop bringing you the real thing,|0.55
+because the answers got small.|0.8
+Uh, a kid learns|0.35
+that a father can be home|0.35
+and still be hard to find.|0.85
+Under it, almost every time,|0.45
+there is a hurt.|0.55
+Uh, somewhere you made a rule|0.4
+you never said out loud.|0.6
+I will not want a thing|0.35
+that can be taken from me.|0.7
+Or you were— or you were honestly empty,|0.5
+and a rest turned,|0.35
+inch by inch,|0.35
+into a way of being gone.|0.85
+Uh, I have lived the small version.|0.55
+Sat at my own table.|0.45
+Nodded through a whole story.|0.55
+Caught the last sentence.|0.45
+Answered the last sentence.|0.55
+The middle had already been said.|0.6
+I asked a question|0.35
+the middle had already finished.|ROOM_CHUCKLE
+She didn't need a sharper reply.|0.55
+She needed a man|0.35
+who was in the story|0.35
+while she was telling it.|0.9
+Scripture puts a finger on this|0.45
+without raising its voice.|0.55
+Deuteronomy six.|0.4
+Talk about them when you sit at home.|0.75
+Sitting under the same roof|0.4
+is not the same as being home.|0.7
+You can share a kitchen|0.4
+and never sit down|0.3
+inside the conversation.|0.85
+If this is your exit,|0.45
+say it.|0.45
+To your wife, if you have one.|0.55
+To a brother, if you don't.|0.6
+You had my body.|0.45
+You did not have me.|0.5
+I'm sorry.|0.8
+Then give the room an evening back.|0.6
+Screens dark.|0.45
+One real question.|0.5
+You wait until the answer is finished,|0.45
+not until you've got your line ready.|0.75
+A house can thin out|0.4
+one quiet question at a time.|0.65
+Uh, nobody writes that up.|0.55
+That is a man coming back|0.4
+into his own house.|1.25
+# SECTION: Lonnie
+[quietly] I'll tell you about a man I know.|0.55
+Uh, I'll call him Lonnie.|0.5
+Steady.|0.4
+The kind of dad other men point at|0.4
+when they want to say calm.|0.7
+He stood the fence at his boy's games|0.45
+with his arms loose,|0.4
+like he had all day.|0.65
+Uh, one game, between innings,|0.4
+he said he was getting a water.|0.55
+He didn't make it back.|0.5
+I, uh, found him down the line,|0.45
+working a splinter in the rail|0.4
+with his thumb,|0.35
+eyes on the dirt.|0.65
+I told him he was missing it.|0.55
+He said— he said he could hear it from there.|0.65
+He couldn't.|0.5
+His boy made a play|0.4
+and looked down the fence for his dad.|0.6
+The spot was empty.|0.7
+Uh, after the game we sat on the tailgate.|0.55
+I said, he looked for you.|0.55
+Lonnie got quiet in a way I recognized.|0.65
+Uh, a while back he had helped with a team of boys.|0.55
+One of them took a bad fall.|0.5
+Lonnie had told him to shake it off|0.4
+before he knew what he was looking at.|0.7
+The boy was hurt worse than that.|0.6
+Lonnie decided,|0.4
+and he never announced it,|0.45
+that leaning in close|0.35
+was how you got somebody broken.|0.75
+So he practiced being a step outside his life|0.5
+and called it steady.|0.7
+You know, the other dads liked him for it.|0.6
+His boy inherited the distance.|0.75
+I didn't have a speech on that tailgate.|0.55
+I asked what his boy|0.35
+had been trying to hand him.|0.7
+Lonnie went and found him.|0.5
+Asked him to tell the play again.|0.55
+The boy said, you were there.|0.55
+Lonnie said,|0.35
+I was down the fence.|0.45
+Tell me anyway.|0.6
+And he waited|0.35
+until the boy was done talking.|1.0
+Nobody threw a thing.|0.45
+The day looked ordinary from the bleachers.|0.6
+A boy told a story|0.35
+to a spot on the fence|0.4
+where a man should have been.|0.8
+That's the drift.|0.55
+The refusal was a second ask,|0.45
+and staying for the whole answer.|1.25
+# SECTION: Same Ache
+[quietly] Lonnie didn't look like a man in trouble.|0.6
+Uh, that is why the drift fools a room.|0.7
+Let me put another man next to him.|0.55
+Different door.|0.45
+Uh, I'll call him Gus.|0.5
+We were after a bracket|0.45
+in a hardware aisle.|0.5
+Small thing.|0.4
+The clerk couldn't find it.|0.55
+Gus's voice got big.|0.5
+People turned.|0.4
+The clerk's face went red.|0.6
+Uh, outside, Gus's hands were shaking.|0.6
+He said he didn't know|0.35
+why a bracket did that.|0.65
+I asked what the morning had already taken.|0.7
+His brother had called,|0.4
+asking for money again.|0.55
+Gus had felt like a fool for hoping.|0.7
+The clerk was just the first person|0.4
+Gus could beat.|0.6
+Under the volume was shame.|0.65
+The bracket never had a chance.|0.8
+Same ache.|0.45
+Lonnie stepped off the fence.|0.5
+Gus filled an aisle.|0.55
+Two exits.|0.4
+One move underneath.|0.55
+Get away from the feeling.|0.8
+Uh, you can trace it.|0.45
+The angry man learned|0.4
+that fear made him look weak,|0.45
+so he picked a feeling|0.3
+that passed for power.|0.7
+The man with the itch learned|0.45
+he could get comfort|0.35
+that never asked his name.|0.65
+The drifting man learned|0.4
+that caring had a price,|0.4
+and he stopped paying it|0.35
+where anybody could see.|0.8
+That explains— that explains the exit.|0.55
+It does not excuse the fruit.|0.65
+I mean, you can tell the old story|0.45
+and keep the foothold.|0.6
+If all you bring is the wound,|0.45
+you will get sympathy,|0.4
+and you will keep the door.|0.75
+Kind is not a pass.|0.55
+Present sin still counts.|0.7
+Both men had a softer name for it.|0.55
+Uh, the softer name is how an exit stays.|0.65
+Block the exit you favor|0.45
+and watch.|0.45
+The ache will try the next door.|0.65
+That is not proof|0.35
+you are a special kind of broken.|0.6
+It is proof the ache moves.|0.65
+Don't tour all three|0.4
+so you never have to refuse one.|1.25
+# SECTION: Every Man Here
+[warmly] The exit changes clothes|0.4
+depending on the life you're in.|0.6
+It does not close.|0.7
+Uh, young men.|0.5
+The itch will call itself normal.|0.55
+The early drift will call itself|0.4
+you being your own man.|0.65
+Headphones through a whole evening.|0.55
+A day you sleepwalk|0.35
+and still get paid.|0.55
+Numb, at your age,|0.4
+is not peace.|0.55
+It's a man already leaving.|0.75
+Uh, if you're single,|0.45
+hear this clean.|0.5
+A wife— a wife will not starve this.|0.65
+Don't put the fight on layaway|0.4
+until there's a ring.|0.6
+Marriage is good.|0.45
+It is not a cure|0.35
+you get to wait on.|0.65
+You already have a life.|0.5
+Tell a brother now.|0.7
+Uh, husbands.|0.45
+She already knows the exit.|0.6
+You don't owe her a speech|0.4
+about your childhood|0.35
+as the whole offering.|0.65
+You can tell the old story.|0.5
+You may not use it as rent|0.4
+while the door stays open.|0.75
+She can work with a true sentence.|0.55
+She cannot build a life|0.35
+with a man who keeps leaving in place.|0.75
+New dads.|0.5
+The heat will catch you|0.4
+when you are empty|0.35
+and the house is loud.|0.6
+Then say it.|0.4
+I'm emptied out.|0.45
+Uh, I'm scared of my own tone.|0.65
+She can stand with that.|0.5
+She can't stand with a man|0.4
+who treats the noise as an attack.|0.75
+Dads of daughters.|0.5
+She is learning|0.35
+what a man's anger does in a room,|0.5
+and what his absence does.|0.55
+Don't make her guess|0.4
+which one she gets today.|0.75
+Uh, if you were hurt,|0.5
+I am not rushing you.|0.55
+What was done to you is real.|0.65
+The fruit on the tree now is still yours.|0.7
+If the marriage ended,|0.5
+all three doors can swing|0.4
+in the same stretch of days.|0.65
+Anger with her name still on it.|0.55
+Appetite, because the place got quiet.|0.6
+Absence,|0.3
+because caring is what got you cut.|0.7
+Get one man who will ask again.|0.6
+Don't hand him a speech|0.35
+and call the work done.|0.6
+The exit is still his.|0.45
+The refusal is still his.|1.2
+# SECTION: One Door
+[dry] Older men, stay with me.|0.55
+You may have, uh, stopped yelling.|0.55
+Watch the leftover heat.|0.55
+A cold silence|0.35
+is still an exit|0.4
+people have to live beside.|0.75
+And watch the drift.|0.5
+Uh, mellow is not the same word as refused.|0.7
+A calm man can be gone a long time|0.45
+and get credit for peace.|0.8
+Uh, if the work is going well,|0.5
+don't relax.|0.45
+Competence is not repentance.|0.65
+Ambition can be a foothold.|0.55
+Ease can be one too.|0.6
+You can win the day|0.4
+and spend the ache after dark.|0.65
+The people in your house|0.4
+do not experience your resume.|0.55
+They experience|0.3
+whether you came back in.|0.75
+If the kids are grown|0.4
+and the house has gone quiet,|0.5
+the drift will call that your reward.|0.6
+It isn't.|0.4
+She is still there.|0.5
+Uh, ask her something real.|0.5
+Then wait it out.|0.55
+Bring her the man,|0.35
+not the leftovers of him.|0.7
+How many of you already know your exit,|0.45
+and you've been calling it personality?|0.65
+Let me see them.|ROOM_HANDS
+Yeah.|0.45
+I figured.|0.5
+That knowing is not the refusal.|0.6
+It's the start of one.|0.75
+So pick the home door.|0.55
+Not a tour.|0.45
+If you name all three,|0.4
+you can leave here feeling honest|0.4
+and still feed every one of them.|0.8
+One exit.|0.45
+Write it like a man who means to stop.|0.7
+Uh, on the drive after this,|0.45
+if the heat comes up in the truck,|0.55
+you already know the move.|0.6
+You don't spend the sharp sentence|0.4
+on the steering wheel,|0.4
+or on the first person you see.|0.6
+You hold it.|0.4
+You say the true thing|0.35
+to the person it belongs to.|0.7
+If the pull is the itch,|0.45
+you don't negotiate with it in the cab.|0.6
+You tell the man|0.35
+who is allowed to know.|0.65
+If the pull is to go vague,|0.45
+you come back into the room|0.4
+before the evening is gone.|0.75
+One door.|0.4
+One refusal.|0.55
+That's the work.|1.25
+# SECTION: To the Tables
+[warmly] Let me land the whole thing.|0.55
+Pain moves.|0.45
+Out, as anger.|0.45
+Down, as the itch.|0.45
+Away, as the drift.|0.7
+Uh, a man calls his favorite one personality.|0.6
+It is an old way|0.35
+of not feeling something,|0.45
+and it leads out of the house.|1.05
+What I hope— what I hope you carry|0.45
+is not a cleaner opinion of yourself.|0.6
+I hope you walk out|0.35
+with one exit named,|0.45
+and one refusal you will actually do.|0.9
+Uh, your workbook is the place it gets particular.|0.65
+In a minute you'll get with your table|0.45
+and work this part together.|0.75
+Uh, so hear the questions.|0.55
+When things get heavy, I blank.|0.6
+Finish it out loud.|0.5
+Anger, the itch, or the drift.|0.6
+One full sentence.|0.55
+Not a list.|0.5
+What is under the last time|0.4
+you took that exit?|0.65
+Not the version that makes you the hero.|0.55
+The thing you were trying not to feel.|0.8
+And what is the first move that matches it?|0.75
+If it's anger,|0.4
+get out of the room|0.35
+until the heat starts down,|0.45
+then say what is under it,|0.45
+before the sun is down.|0.7
+If it's the itch,|0.45
+tell one man the whole truth|0.4
+and let him hold the password.|0.7
+If it's the drift,|0.45
+give the room an evening,|0.4
+screens dark,|0.4
+and one real question you wait for.|0.75
+Tell him your exit|0.4
+and the last time you took it.|0.55
+Ask him his.|0.5
+Uh, neither of you gets to say you're fine.|0.75
+Carry this when you stand up.|0.55
+Out, down, or away,|0.4
+every exit leads out of the house.|0.65
+The pain does not need an exit.|0.55
+It needs a Father.|1.15
+The marks still stand over it.|0.6
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.|0.85
+# CUT SCREEN: creed board — "A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's." — new angle after
+Own the fruit.|0.55
+Tables are yours.|0.5
+Do this part of the workbook together.|0.6
+I'll be close by.|1.2

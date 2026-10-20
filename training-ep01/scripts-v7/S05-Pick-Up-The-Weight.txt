@@ -1,0 +1,655 @@
+# SECTION: Welcome
+[warmly] Hey, men.|0.55
+Good to see you in the room.|0.85
+Last time, you named a thing you'd been putting off.|0.5
+Some of you moved.|0.45
+Some of you— some of you moved it onto a cleaner list.|0.8
+I know that list.|0.4
+Uh, I invented a few.|0.75
+Real quick.|0.45
+There's a sheet in the back for who brings what.|0.4
+I looked at the chili.|0.3
+I looked at the brisket.|0.35
+I wrote my name by the napkins.|ROOM_CHUCKLE
+[dry] Yeah.|0.4
+I've been picking the light thing for years|0.3
+and calling it service.|0.9
+I'm Wes.|0.4
+You already know.|0.35
+I'll skip the long hello.|0.85
+Here's where we're headed today.|0.6
+Stay with me.|0.4
+One sentence|0.35
+gives us four marks for a real man.|0.5
+I mean, I'm not improving on them.|0.75
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.|1.3
+# CUT SCREEN: creed board — "A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's." — new angle after
+Last time was that first mark.|0.55
+You got on your feet.|0.4
+Uh, I'm glad you did.|0.7
+Standing there is not the same as carrying.|1.35
+Today we stay on the second mark.|0.6
+Picks up the weight.|1.4
+Here's the whole thing, plain.|0.55
+The weight that has your name on it|0.4
+does not move|0.5
+until you put a hand on it.|1.6
+You can talk about it.|0.35
+You can explain it.|0.3
+You can wait until it feels fair.|0.65
+And, you know, it still sits there.|0.85
+A hand has to land on it.|1.25
+So the name for today is simple.|0.45
+You pick up the weight.|0.9
+One weight.|0.35
+Your name on it.|0.35
+Your hand.|0.8
+We'll get to a sentence you can finish.|0.5
+We'll sort what is yours,|0.3
+uh, from what was never yours.|0.75
+I want the man who's winning at work|0.35
+in the same room as the man who feels behind.|0.65
+Same mark.|0.4
+Uh, same sentence.|0.6
+You don't get to watch your own life from the curb.|0.85
+Some of you walked in tired.|0.45
+You still made it in.|0.5
+Good.|0.4
+This is for you too.|0.75
+If your name is on it,|0.4
+it's yours to pick up.|1.2
+# SECTION: Whose hands
+Blame is an old move.|0.55
+A man sets his weight down|0.3
+and points at whoever is standing closest.|0.75
+It makes the afternoon easier.|0.7
+Uh, I know the move.|0.5
+I made it over a school form on the counter.|0.65
+One of my kids needed it signed.|0.4
+The school needed it that day.|0.55
+I had— I had a clean explanation.|0.6
+The note went to my wife,|0.25
+the site was a mess,|0.25
+uh, somebody should've told me twice,|0.3
+I had the whole list ready.|0.7
+All of it was true enough|0.3
+to say at a normal volume.|0.6
+Uh, Friday came.|0.5
+The form was still blank.|0.55
+My kid was the one standing there without it.|1.15
+She was not the problem.|0.5
+I was fine letting her be the one who noticed.|1.0
+You can be right about the cause|0.35
+and still be the man who left it sitting.|0.7
+Right?|0.55
+A storm you didn't order|0.3
+can still drop branches in your yard.|0.65
+You didn't vote for the branches.|0.45
+They're in the grass, uh, in the morning anyway.|0.9
+A boss can change a schedule in an office you'll never see.|0.55
+Your boy can still need a ride on Saturday.|0.6
+Nobody in that office is coming down your street.|1.05
+Fault asks who started it.|0.55
+Responsibility asks a smaller question.|0.45
+Whose hands is it in now?|1.45
+Fairness is how a boy thinks|0.35
+when the whistle blows and he wants the call.|0.7
+A man can love a fair call|0.3
+and still bend down|0.35
+and pick up what's in front of him.|1.1
+Uh, hear me on this.|0.5
+I am not saying you caused every heavy thing in your life.|0.8
+Some of you are standing under weather you did not make.|0.75
+This is not me handing you somebody else's share.|0.6
+How many of you walked in today|0.35
+already explaining a weight|0.3
+you've been holding in your mouth|0.35
+instead of in your hands?|0.6
+Go on.|0.3
+I'm not taking names.|ROOM_HANDS
+[dry] Yeah.|0.45
+That's most of us.|0.4
+Uh, me included.|0.85
+If your only sentence starts with yeah but,|0.4
+the weight is still in the air.|0.55
+It has not landed on you.|0.5
+And until it lands,|0.3
+you can't carry it.|0.4
+You can only describe it.|1.2
+# SECTION: The period
+So here's the sentence.|0.55
+You're gonna need it at the table,|0.35
+so learn it in the room.|0.7
+That is mine.|1.5
+Three words.|0.4
+Then a period.|0.45
+Then you stop.|1.1
+The minute you add but,|0.35
+you've started a second speech,|0.4
+and the person in front of you hears the weight slide.|0.9
+I practiced a short apology in the truck.|0.5
+Uh, no defense in it.|0.5
+I liked it.|0.4
+Uh, I texted, on my way,|0.35
+from the driveway.|0.45
+Which is, uh, technically true.|ROOM_CHUCKLE
+By the back door,|0.35
+[amused] I'd added— I'd added a paragraph about my day.|0.8
+She heard the paragraph.|0.55
+The first sentence didn't survive it.|1.25
+I mean, she didn't need my afternoon.|0.55
+She needed the period.|0.9
+A but is how the weight jumps|0.3
+to the nearest person.|0.7
+A because does the same job|0.35
+in a nicer shirt.|0.75
+Context can be true|0.3
+and, you know, still be a slide out of the sentence.|0.85
+Own how it landed,|0.35
+not how hard you meant to.|0.8
+Effort is a story you tell about yourself.|0.55
+The result is what the other person lived.|1.15
+If you said you'd call,|0.35
+the call is the result.|0.45
+The busy afternoon is just the story.|0.9
+Your people are not required|0.3
+to frame your intentions.|0.7
+Look, I'm not against an explanation later.|0.5
+Later is fine.|0.4
+Later is not the first sentence.|0.85
+First sentence.|0.4
+That is mine.|0.7
+Period.|1.2
+If you're married,|0.35
+she has heard the but.|0.45
+She can hear a period too,|0.35
+if you actually finish.|0.8
+Uh, if you're young,|0.4
+you don't need a long speech to be grown in this.|0.6
+You need one finished line.|0.9
+Uh, hear how fast the but tries to sneak in.|0.75
+Say it in your head.|0.4
+The way you'd say it to a man you respect.|0.65
+Short.|0.35
+No rescue clause at the end.|0.7
+That is mine.|0.6
+Then close your mouth|0.35
+and let the quiet do the rest.|1.25
+# SECTION: Life and house
+Five things have your name on them.|0.6
+Uh, not everything in the world.|0.5
+These five.|0.5
+Your season changes the shape of the work.|0.45
+It does not take your name off it.|1.15
+First one.|0.4
+Your life.|1.2
+There's a bag by our front door.|0.45
+It's been there so long|0.3
+the dog thinks it's furniture.|ROOM_CHUCKLE
+[dry] I step over it.|0.4
+And I call that a plan.|0.85
+Nobody is coming to live your life for you.|0.65
+Your word, when nobody's writing it down.|0.5
+The habit you break by lunch|0.3
+after you swore it off at night.|0.6
+What you do with your body|0.3
+when the house is quiet.|0.55
+Whether you talk to God,|0.35
+uh, or you only talk about talking to God.|0.85
+Uh, that bag is yours.|0.55
+Step over it long enough|0.3
+and you've made a decision.|0.8
+If you're young, hear this.|0.5
+Before you carry a girl,|0.3
+or a title,|0.25
+or a bunch of younger guys who look up to you,|0.45
+carry yourself.|1.15
+If you're single,|0.35
+the life is already yours.|0.6
+You don't get a pass|0.3
+until somebody else moves in.|0.7
+If you live— if you live alone,|0.45
+nobody's grading the evening.|0.55
+You can go dark inside your own walls|0.4
+and the lights still come on.|1.05
+Uh, second weight.|0.5
+Your house, if you share one.|0.7
+The state of that marriage, from your side,|0.4
+is not a mystery you're waiting out.|0.85
+I mean, she needs you in the room.|0.6
+Not just on the account.|0.7
+I can fund a month|0.3
+and still be a guest at my own table,|0.45
+uh, keys in my hand,|0.35
+while they eat.|0.8
+Six thirty does not care|0.35
+what the scoreboard at work said at four.|1.15
+Kids don't collect speeches.|0.45
+They collect what you do when you're tired,|0.4
+whether you look up,|0.35
+whether a man is actually at the table.|0.9
+If the marriage already came apart,|0.5
+I'm not relitigating papers in this room.|0.6
+Your kids still need a father|0.35
+who stays put on his days.|1.0
+That share is still in your hands.|1.2
+# SECTION: Work, people, wrong
+Third.|0.4
+The work in front of you today.|0.65
+Uh, do it straight.|0.5
+Not for show.|0.4
+The man who needs it from you, you know,|0.45
+doesn't need a forecast.|0.55
+He needs a day he can count on.|0.8
+Don't hand him a forecast.|0.45
+Cloudy.|0.35
+Out of your hands.|0.5
+Uh, a forecast sounds kinder than a date.|0.6
+Say the date anyway.|0.65
+Finish it all the way.|0.45
+Half-done is a story.|0.4
+Done is what the other man can use.|1.1
+Uh, fourth.|0.5
+The people tied to you.|0.6
+Not every name on a screen.|0.45
+Uh, the man two chairs over|0.4
+you keep meaning to check on.|0.6
+The nephew who only gets you on the big days.|0.75
+You can't rescue him.|0.45
+You also don't get to pretend you didn't see him.|1.1
+How many of you are the first call|0.35
+when something breaks for somebody else,|0.4
+and the last man to sit down|0.3
+at your own table?|0.6
+You can be honest.|0.35
+This room can hold it.|ROOM_HANDS
+[dry] Yeah.|0.4
+I have been that man.|0.85
+Fifth, and this is the one we drop first.|0.6
+What you— what you did wrong.|1.3
+Not what was done to you.|0.55
+The sharp answer you gave a kid|0.35
+who didn't have it coming.|0.65
+The promise about Saturday you let die quiet.|0.7
+The thing you still haven't said|0.3
+to the person who was in the room.|0.85
+Leave it unsaid|0.3
+and it doesn't stay where you hid it.|0.6
+It leaks.|0.45
+The people near you end up wearing a mood|0.35
+you wouldn't name.|1.1
+[quietly] Some of you were handed things|0.4
+that were never yours to carry.|0.7
+What was done to you matters.|0.5
+I'm not brushing past it.|0.45
+Go slow.|0.4
+This page is the one that still has your name,|0.4
+the part you can actually pick up.|1.15
+An older man I sat with, Leon,|0.45
+held his phone most of one evening.|0.55
+His son was grown.|0.35
+They hadn't talked straight in a long while.|0.65
+Leon didn't build a speech.|0.4
+Uh, he called.|0.5
+The son didn't answer.|0.6
+Leon set the phone down.|0.4
+He said, I'll try again.|0.7
+If you want back in,|0.35
+ask.|0.35
+Start that small.|0.55
+One true sentence.|0.4
+Then wait it out.|0.45
+No closing argument.|1.15
+# SECTION: Wade
+[warmly] Let me tell you about a man I sat with a long time.|0.7
+I'll call him, uh, Wade.|0.65
+Wade was the first yes in the group text.|0.5
+You needed a trailer, he was already backing up.|0.55
+A man was in a waiting room, Wade brought supper.|0.6
+Something broke on a job, he was in the truck.|0.65
+Guys said, that is a responsible man.|0.6
+They weren't wrong about the part they could see.|0.95
+His girl asked him to dinner.|0.5
+Uh, not a crisis.|0.45
+A Thursday.|0.4
+Her place.|0.3
+She was cooking for him, first time,|0.4
+and she texted a picture of the table|0.35
+as if it was a holiday.|0.7
+He said yes that morning.|0.55
+Uh, he meant it.|0.5
+That afternoon a buddy's truck died|0.4
+on the side of a road,|0.3
+maybe ten minutes from Wade's place.|0.6
+Dead battery.|0.4
+Wade looked at the clock.|0.45
+He told himself, this is what men do.|0.65
+He texted her, start without me.|0.7
+He went to the truck.|0.6
+He told me— he told me it fired on one tap.|0.8
+One tap.|1.35
+She had already eaten.|0.6
+With her roommate.|0.45
+No scene.|0.35
+Just a finished plate and a dad who didn't make it.|1.15
+Wade wasn't a cruel man.|0.5
+He was a useful man.|0.45
+Useful to whoever was loudest.|0.9
+Helping a buddy is good.|0.45
+Uh, hear that.|0.45
+Wade wasn't wrong to care.|0.55
+He was wrong about which weight had his name that hour.|0.8
+The buddy had other men he could call.|0.5
+His girl had one dad.|1.25
+He thought she might not ask again.|0.6
+I would've, uh, thought the same.|0.55
+She did ask.|0.45
+Uh, smaller.|0.4
+A shelf she couldn't hold and reach at the same time.|0.7
+He said, I'm coming.|0.45
+He silenced the phone.|0.5
+Uh, he went.|0.55
+They ate what she had left over.|0.5
+He washed the plate.|0.55
+He didn't give a speech about being a father.|0.6
+He was just there.|0.5
+The truck could wait.|1.15
+That's the turn I don't want you to miss.|0.55
+The loud thing was easy,|0.35
+and he called it duty.|0.55
+The quiet thing had his name on it,|0.4
+and he set it down.|1.3
+# SECTION: Two words
+Now listen.|0.45
+Wade's story can get heard wrong.|0.55
+A man can, uh, walk out of it|0.4
+thinking he should never help anybody.|0.65
+[dry] That's not what I said.|0.65
+Paul writes two lines, close together,|0.4
+and at first they seem to argue.|0.75
+Galatians six, verse two.|0.55
+Carry each other's burdens,|0.35
+and in this way you will fulfill the law of Christ.|0.95
+Uh, a few lines down.|0.45
+Verse five.|0.45
+For each one should carry their own load.|1.45
+It's not— it's not a contradiction.|0.6
+In the language he wrote in,|0.35
+those are two different words.|0.8
+A load is the share with your name on it.|0.55
+Sized for you.|0.4
+You put it on.|0.3
+You don't make a speech about it.|0.85
+A burden is the crushing kind.|0.5
+One back wasn't made for it.|0.75
+Picture it this way.|0.4
+Your spare tire, you change that yourself,|0.4
+on the shoulder,|0.3
+Uh, no audience.|0.55
+Right?|0.5
+A transmission on the garage floor,|0.4
+you call a man.|0.45
+You don't call that quitting.|0.5
+You call that sense.|0.9
+So get your own load on first.|0.6
+Then get under a brother|0.3
+when the thing on him is crushing him.|0.85
+You don't wait for a polished invite|0.35
+when a man is actually down.|0.8
+And you don't skip the thing with your name on it|0.4
+so you can be seen helping somewhere else.|0.85
+The people in your house, uh, can tell.|0.7
+If the order is backwards,|0.35
+you can be everybody's answer|0.3
+and a ghost where your name is.|1.1
+When the crushing part is yours, ask.|0.6
+Ask God.|0.4
+Ask two or three men|0.35
+to get under the piece that's flattening you.|0.8
+Uh, you're still the one who owns your load.|0.6
+Handing off the part that would break you|0.35
+is not the same as setting it down.|1.15
+Name the weight out loud.|0.45
+Hand the crushing piece to men who can hold it with you.|0.75
+Uh, don't perform the struggle alone|0.4
+and call that strength.|0.75
+It may be the most responsible hour you spend.|1.25
+# SECTION: Not your share
+Pride will strap a weight on you|0.35
+that God never put in your hands,|0.55
+because an empty hand can shame a man.|0.9
+Uh, I know that pull.|0.5
+You've felt that pull.|0.6
+Whether the men at the job think well of you.|0.55
+A buddy's sobriety,|0.3
+as if you could want it into him.|0.7
+The way your sister runs her house|0.35
+when she didn't ask you to run it.|0.75
+The mood of a whole holiday,|0.35
+uh, as if you were in charge of everyone's peace.|0.9
+That's not— that's not devotion.|0.7
+That's a man who doesn't trust God|0.35
+with the people he loves.|1.15
+You can care.|0.4
+You can pray.|0.4
+You can show up.|0.45
+You are not in charge of another adult's peace.|1.2
+Leave their soul where it belongs.|0.55
+Love them, uh, with your feet,|0.4
+not with a harness.|0.8
+Some of you set your own stuff down|0.35
+and call it being lowly.|0.65
+Some of you pick up everybody's stuff|0.35
+and call it being strong.|0.75
+Both of those are a way around the sentence.|1.05
+The sentence is still, that is mine,|0.4
+about the one thing that is.|0.7
+I mean, clarity is the mark.|0.5
+Uh, guilt is not.|0.55
+If you leave here and pick up three new weights|0.4
+just so you feel you did something,|0.5
+you missed me.|0.8
+One.|0.4
+The one with your name.|1.1
+[quietly] And if you're the man who got crushed|0.4
+by what somebody else chose,|0.5
+don't you pick their sin up|0.3
+and call it your assignment.|0.8
+Grieve it.|0.4
+Tell God the truth about it.|0.5
+Tell a brother, when you can.|0.55
+Then come back to the load|0.3
+that is still yours to carry today.|1.15
+I'm talking to the strong man and the tired man|0.45
+in the same breath.|0.55
+Uh, both of you want a loophole.|0.65
+There isn't one that takes your name off your own stuff.|0.9
+Your habits.|0.35
+Your word.|0.3
+The people actually tied to you.|0.45
+The wrong that has your fingerprints,|0.4
+not somebody else's.|1.2
+# SECTION: In the room
+One more thing, and it's where a lot of good men slip.|0.65
+We think providing is, uh, a transfer.|0.55
+Uh, money moves.|0.4
+We did our part.|0.6
+I kept a house running on time.|0.5
+Trash day never slipped.|0.4
+The truck, uh, got its oil.|0.45
+Nobody was late on the calendar.|0.6
+I had the records to prove I was doing fine.|0.7
+My wife said, one night,|0.4
+she was— she was lonely in a house that ran on time.|1.05
+I almost handed her a maintenance report.|ROOM_CHUCKLE
+[quietly] She was talking about lonely.|1.3
+The report would've been accurate.|0.5
+It would've also been a way to disappear|0.4
+while looking responsible.|0.95
+Write this where you can see it|0.4
+when you get to the page.|0.55
+Provision that costs your presence is not provision.|0.85
+It is a very expensive way to disappear.|1.7
+Presence is not a prize you buy|0.35
+after the bills are, you know, perfect.|0.75
+Presence is part of what you owe|0.35
+the people under your roof,|0.4
+and the people who still look for you|0.35
+even if the roof changed.|0.9
+So give something money can't.|0.55
+Put the phone face down|0.3
+and leave it there until they're done talking.|0.75
+Take the walk around the block with your kid.|0.5
+Uh, no headphones.|0.5
+Be at the ordinary meal,|0.35
+and stay through the cleanup.|0.8
+If you live alone,|0.35
+take back one thing you've been handing off.|0.6
+The call you've been letting your mom make.|0.5
+The hard talk with the landlord you keep forwarding.|0.6
+Uh, the plan you let a roommate carry|0.35
+so you don't have to decide.|0.8
+Carry it yourself.|0.6
+Today.|0.7
+A scoreboard can be honest|0.35
+and still be the wrong room.|0.6
+Your people don't eat a scoreboard.|0.55
+If your people are little,|0.4
+get down where they are for a few minutes.|0.55
+Uh, their game does not care about your day.|0.7
+If your people are grown,|0.4
+send the plain text.|0.45
+Don't decorate it.|0.65
+They eat a man who stayed.|1.2
+# SECTION: Say it plain
+How do you pick it up?|0.55
+Uh, not in theory.|0.45
+In a real room, with a real person.|0.75
+Look at the one it concerns.|0.5
+Say it— say it to their face if you can.|0.65
+That is mine.|1.4
+Not the polished version.|0.5
+Not, I hear you, and here's the history.|0.7
+History can be true.|0.4
+History can also be the but,|0.35
+wearing a tie.|0.75
+Say the three words.|0.5
+Then stop.|0.55
+If you hear a but coming,|0.35
+you already left.|0.5
+Start over.|0.45
+That is mine.|0.8
+Period.|1.15
+Uh, own the result.|0.5
+Not the speech about the result.|0.7
+Then do one thing with your hands|0.35
+that matches the sentence.|0.65
+A sentence with no feet|0.3
+is just a mood.|0.75
+If the person isn't standing there,|0.45
+call.|0.35
+Or write it and send it the same day.|0.55
+Uh, don't store the sentence in a note|0.4
+and call that done.|0.7
+If you live alone,|0.35
+say it about your own life,|0.4
+to God,|0.3
+and then to one man who will ask you.|0.8
+And if it's too heavy,|0.4
+you already know the other half.|0.45
+You ask.|0.5
+You don't pretend.|0.55
+There's a Man who did this|0.4
+in a way none of us can copy clean.|0.6
+I mean, I don't want to rush past Him.|0.8
+[quietly] Jesus carried a cross He did not owe.|0.75
+In the garden He asked if another way was open.|0.6
+Then He got up and went.|0.55
+He told the Father the truth about the weight.|0.55
+He did not hand it back.|0.75
+Nobody honest could look at Him and say,|0.4
+that wreck was yours to cause.|0.75
+Uh, he didn't point.|0.5
+He didn't add a but.|0.5
+He took it.|1.3
+You and I are not the rescue.|0.55
+We don't save a house by acting large.|0.6
+He already carried what we could not carry.|0.75
+That's why a forgiven man|0.35
+can face his own load|0.3
+without using the load as a way to pay God back.|0.9
+Forgiveness is settled.|0.5
+Uh, the load is what's left|0.35
+for a son to pick up.|1.2
+So don't point.|0.45
+Don't perform.|0.4
+Put your hand on the one weight|0.35
+that has your name,|0.4
+and leave it there.|1.25
+# SECTION: To the tables
+[warmly] So let me say it plain, one more time.|0.65
+The big idea is not complicated.|0.5
+The weight with your name on it|0.35
+does not move|0.45
+until your hand is on it.|1.45
+Uh, fault is a real question.|0.5
+It is not the last question.|0.6
+Say that is mine,|0.4
+and stop at the period.|0.7
+Carry your own load.|0.45
+Get under a brother's crushing weight|0.35
+when it's actually crushing.|0.6
+Ask when the piece would break you.|0.55
+And be, uh, in the room.|0.55
+Money without you|0.3
+is a costly way to vanish.|1.1
+What I hope you walk out with today|0.45
+is not a feeling about being a better man.|0.6
+Feelings fade, uh, in the truck.|0.6
+I hope you walk out with one true sentence,|0.4
+a period on the end,|0.35
+and your hand still on the thing you named.|1.3
+When you get to your tables,|0.4
+open the workbook to this part.|0.55
+Three questions.|0.45
+Uh, stay on them.|0.55
+Can you say that is mine|0.35
+about one weight,|0.3
+without a but after it?|1.0
+Where have you been providing|0.3
+everything for the house|0.3
+except yourself?|0.9
+If you live alone,|0.3
+ask it this way.|0.4
+Where have you been letting somebody else carry you?|0.85
+And what is one provision that isn't money,|0.4
+one you'll do every day?|0.9
+The page calls it a non-money provision.|0.6
+One.|0.35
+Not ten.|0.7
+Write the line.|0.4
+That is mine.|0.45
+Period.|0.4
+Say it out loud, uh, at the table.|0.65
+If a silent but is still hanging on the end,|0.4
+cross the but out before you get up.|0.85
+Say the five once, so they stick.|0.5
+My life.|0.35
+My house.|0.3
+My work.|0.3
+My people.|0.35
+What I did wrong.|0.85
+Tell a brother the sentence|0.35
+and what you did with it.|0.55
+Ask him to check on you.|0.5
+Give him something real to ask about.|0.7
+If you're working this, uh, alone,|0.45
+still tell one man.|0.45
+Same day.|0.8
+Here's the thing.|0.4
+One line— one line, and then a period.|0.7
+Provision that costs your presence is not provision.|0.6
+It is a very expensive way to disappear.|1.15
+Put a hand on what's yours.|1.4
+Go to your tables.|0.4
+Work that part of the workbook together.|1.25

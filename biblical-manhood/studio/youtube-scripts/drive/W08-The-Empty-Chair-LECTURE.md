@@ -38,7 +38,7 @@ This stretch of the course sorts what you inherited from what is yours. The four
 
 [Slide: the four marks]
 
-A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
 Write it down. Today the marks land on inheritance and ownership. Inherited, and still yours.
 
@@ -137,7 +137,7 @@ What sat in that chair is what you inherited. Nobody asked a boy in grade school
 
 What you do with it now is yours. The short fuse with your kids can be shaped like your father's absence and still be yours. Your wife does not live with your father's absence. She lives with your fuse. A wound can explain a man forever and never once change him. Plenty of men have worked out precisely why they are the way they are and stayed that way, because understanding felt like progress and it was not.
 
-This is where mark two lands hard. Accepts responsibility. Not accepts blame for what was done to you. Accepts the day that is still in front of you. The chair explains. It does not excuse. God treats you like a man who can do something with what happened to him, because you are one.
+This is where mark two lands hard. Picks up the weight. Not the blame for what was done to you. The day that is still in front of you. The chair explains. It does not excuse. God treats you like a man who can do something with what happened to him, because you are one.
 
 That dignity is a gift, not a verdict. The wounded man needs to hear that naming the chair is not the same as camping in it. The older man needs to hear that it is not too late to sit differently in the seats that are his now. The young father needs to hear that fear when you hold your son is not proof you will repeat the chair. It is proof you are looking, which the men who repeat the chair never did.
 
@@ -183,19 +183,19 @@ And the man whose father died before the conversation: write the letter anyway. 
 
 Hand off the handle. Next Saturday language. Nobody ever sat in this seat for me. I am learning it while you learn that. You've got it. That is not a parenting tip. That is a man refusing to let an empty inheritance become an empty presence.
 
-Passivity here looks like I do not really think about it. Responsibility looks like naming the chair and owning the fuse. Courage looks like grief without managing it into a tidy insight. God's reward looks like trusting that the Father to the fatherless is not a slogan while you sit down at your own table tonight and stay.
+Passivity here looks like I do not really think about it. Responsibility looks like naming the chair and owning the fuse. Courage looks like grief without managing it into a tidy insight. God's pay looks like trusting that the Father to the fatherless is not a slogan while you sit down at your own table tonight and stay.
 
 May the Father who sets the lonely in families receive you the way David said He would, and may you sit down at your own table tonight and stay.
 
 Let me walk the chair through the four marks so this does not stay a sad story.
 
-Rejects passivity: stop saying you do not really think about it. The chair runs the house from wherever you hid it. Name it.
+Stops waiting: stop saying you do not really think about it. The chair runs the house from wherever you hid it. Name it.
 
-Accepts responsibility: the fuse is yours even when the shape of it is inherited. Your wife lives with your fuse. Own it.
+Picks up the weight: the fuse is yours even when the shape of it is inherited. Your wife lives with your fuse. Own it.
 
-Leads courageously: grief is courage for many of you. So is taking your hand off the handle and saying You've got it on purpose. So is showing up through months of nothing if you are the divorced seat.
+Goes first: grief is courage for many of you. So is taking your hand off the handle and saying You've got it on purpose. So is showing up through months of nothing if you are the divorced seat.
 
-Expects God's reward: the Father to the fatherless is not a consolation prize. He is who He is. Psalm sixty eight is ontology, not poetry. Bring the empty chair to Him and let truth sit down where the lie has been sitting.
+Works for God's pay: the Father to the fatherless is not a consolation prize. He is who He is. Psalm sixty eight is ontology, not poetry. Bring the empty chair to Him and let truth sit down where the lie has been sitting.
 
 The parking lot is the whole chapter in one frame. No picture of calm in the passenger seat. Handle clamped. Wrong word. Then the next Saturday: truth told, hand on his own knee, first fatherly sentence on purpose. The boy will remember the man who stayed in the seat.
 
@@ -279,7 +279,7 @@ The four marks, once more.
 
 [Slide: the four marks]
 
-A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
 Session nine, Anger, the Itch, and the Drift, next week.
 

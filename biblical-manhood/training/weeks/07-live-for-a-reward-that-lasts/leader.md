@@ -9,7 +9,7 @@ Wes Hart
 
 **Read this week:** Chapter 7, Live for a reward that lasts.
 
-**Aim:** Expect the greater reward, God's reward. Every man lives for a reward. The only question is which one.
+**Aim:** Work for God's pay, not the room's. Every man lives for a reward. The only question is which one.
 
 **One job:** Name which small reward has been steering you, and where.
 
@@ -17,7 +17,7 @@ Wes Hart
 
 **Time:** about an hour. Church, small group, or a man alone.
 
-A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
 Say it. Tonight is the fourth mark. Then Part 1 is in his mouth.
 
@@ -44,7 +44,7 @@ Every man already lives for a reward. Applause. Money. Being wanted. Being right
 
 Jesus did not endure because pain is holy. He endured for the joy set before him. The Father who sees in secret rewards. The reward is not a bonus check separate from Him. It is Him. Well done. Come and share your master's happiness.
 
-Wanting that is not mercenary. A man who can do good nobody sees, lose an argument, stay through a hard decade, take the low place, and forgive is a man who expects a greater reward. The local scoreboard is not the game.
+Wanting that is not mercenary. A man who can do good nobody sees, lose an argument, stay through a hard decade, take the low place, and forgive is a man who works for God's pay. The local scoreboard is not the game.
 
 Point at Chapter 7. Then shut up. Do not open Part 2.
 
@@ -58,7 +58,7 @@ Three. Wait.
 2. Where have you been performing so someone would think well of you?
 3. What is one good thing you will do that no one will ever know about?
 
-Young: check who you are performing for. Single: a wife is a gift, not the greater reward. Married: she is a person, not a prize. Hurt: vindication may never come this side; let it go as your reward. Older: being remembered is too small to live for. The job going well: the office claps on cue; competence is not the greater reward.
+Young: check who you are performing for. Single: a wife is a gift, not your pay. Married: she is a person, not a prize. Hurt: vindication may never come this side; let it go as your reward. Older: being remembered is too small to live for. The job going well: the office claps on cue; competence is not God's pay.
 
 ---
 

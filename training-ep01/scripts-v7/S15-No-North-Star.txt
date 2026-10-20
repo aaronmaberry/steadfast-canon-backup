@@ -1,0 +1,703 @@
+# SECTION: Welcome
+[warmly] Good to have you here.|0.65
+Sit if you're still sorting your keys.|0.5
+Uh, a man near the door|0.35
+checked the clock,|0.3
+checked his phone,|0.3
+and checked the clock again,|0.4
+as if one of them might take his side.|ROOM_CHUCKLE
+[dry] Neither one did.|0.5
+I've lost that vote.|0.75
+Good you came in.|0.65
+If we haven't met, I'm Wes.|0.5
+That's plenty.|0.8
+Last time we named a shape|0.4
+a man's days can take.|0.6
+Some of you said yours plain.|0.5
+Some of you, uh, walked around it.|0.75
+Today I want the heading under the days.|1.15
+Now listen.|0.45
+A lot of us can tell the clock.|0.55
+What time we roll out.|0.4
+What time we have to be back.|0.55
+Ask a man what— ask a man what he is for,|0.5
+and the fog comes up.|0.8
+I mean, the schedule is sharp.|0.5
+The aim is smoke.|0.7
+He can run a whole day on that smoke.|0.55
+I have.|0.45
+Things get done.|0.4
+The list gets checked.|0.45
+He can, uh, tell you he was useful.|0.55
+Ask him the point of it,|0.4
+and he hands you the list again.|0.7
+He still can't say|0.35
+what he was aiming at|0.35
+when he started.|0.75
+Here's the thing.|0.45
+Most of us steer by lights that sit close.|0.6
+A porch light.|0.35
+The glow on the next task.|0.45
+Whatever is lit in your hand.|0.55
+Those lights are real.|0.45
+They help you miss a ditch.|0.55
+They also move when you move.|0.65
+You head toward one,|0.35
+and it slides,|0.4
+because it was never fixed overhead.|0.8
+A north star stays.|0.55
+You turn around,|0.35
+and it's still there.|0.7
+Nearby light will carry a hard afternoon.|0.6
+It cannot tell you which way is north.|1.15
+That's the trouble.|0.5
+A man can feel sure|0.4
+and be aimed wrong.|0.65
+Uh, the sure part came from a light|0.45
+that was moving with him.|0.6
+So he never, you know, felt the slide.|0.75
+We're gonna name those lights.|0.5
+Then we look at the one that doesn't move.|1.25
+# SECTION: The four marks
+[warmly] These marks are the sentence we keep coming back to.|0.65
+I have not improved them.|0.55
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.|1.4
+# CUT SCREEN: creed board — "A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's." — new angle after
+You've heard them in this room.|0.55
+I'm not opening all four from the ground up.|0.65
+Today they need a heading,|0.45
+or a man aims them at whatever is glowing.|0.85
+Uh, I can say them clean|0.4
+and still chase the nearest light.|0.65
+I have— I have done that|0.45
+with a steady voice and a crooked aim.|0.8
+Stop waiting.|0.5
+That includes the kind|0.35
+that will not look up|0.35
+from the light in its hand.|0.7
+A man, uh, stays busy.|0.45
+He calls the busy faithful.|0.55
+He never asks where it's pointed.|0.7
+I watched a man live the marks|0.45
+and still not know what they served.|0.65
+He wanted God pleased.|0.6
+Uh, ask him pleased by what,|0.45
+and he named a nearby light.|0.6
+An old rule from his father.|0.5
+A number on a page.|0.45
+The sense that he was behind.|0.65
+The marks were honest.|0.45
+The heading was— the heading was borrowed.|0.65
+That's how a decent man|0.4
+travels a long way off|0.4
+without a scandal to point at.|0.75
+He stayed faithful|0.4
+to a light that had been sliding.|0.75
+Pick up the weight.|0.55
+The heading is yours to name.|0.55
+You don't get to blame the fog|0.4
+if you never looked for north.|0.75
+Go first.|0.5
+Courage aimed at a moving light|0.45
+is just a fast circle.|0.65
+A man can be brave|0.4
+and still take his house|0.35
+the wrong direction.|0.75
+And the pay.|0.45
+God's pay.|0.55
+Not the nod from the closest light.|1.1
+If the only prize you trust can walk off,|0.55
+you will follow it.|0.7
+[quietly] The marks are not the heading.|0.55
+They tell a man how to walk.|0.5
+They still need a star that stays.|1.25
+# SECTION: Nearby lights
+Let me say what a nearby light is.|0.55
+It is anything close enough|0.35
+to make you feel aimed.|0.65
+Uh, it can be decent.|0.5
+A father can be a good man.|0.55
+A friend can be worth hearing.|0.5
+The talk around you notices real things.|0.6
+A feeling can tell you you're tired.|0.55
+A win can mean the work was actually good.|0.7
+None of that belongs in the trash.|0.55
+The trouble starts|0.35
+when a man makes one of them north.|0.8
+I mean, he quits checking it|0.4
+against anything that holds still.|0.7
+Then the light moves,|0.4
+and he moves with it,|0.4
+and the drift stays hidden,|0.45
+because his mark drifted too.|0.9
+You've, uh, felt the look-up.|0.5
+The place you meant to stand|0.4
+is not the place you're standing.|0.65
+You were careful.|0.4
+You just can't point to the turn.|0.75
+There was no loud moment.|0.55
+It felt sensible the whole way.|0.85
+Picture a county road after dark.|0.55
+Porch lights.|0.35
+The bright lot by the store.|0.5
+Uh, they keep a tire out of the grass.|0.6
+They will not tell you|0.4
+that you turned the wrong way|0.45
+back at the last crossing.|0.7
+You can thank a light|0.4
+and still be headed away|0.4
+from the people you meant to reach.|0.85
+[dry] Sensible is what drift wears|0.45
+while it's still moving.|0.75
+A north star is ruder than that.|0.6
+It will not flatter the way you already chose.|0.65
+It just stays.|0.5
+If you will look at it,|0.4
+you can tell you've slid.|1.1
+Five lights do this to men.|0.55
+A father.|0.35
+Other men.|0.35
+The culture around him.|0.45
+His feelings.|0.4
+His success.|0.6
+You probably have a favorite.|0.55
+I did.|0.45
+How many of you can feel which one,|0.45
+and you'd rather keep it foggy?|0.5
+Hand up.|0.35
+I'm not writing it down.|ROOM_HANDS
+Yeah.|0.4
+Hold it.|0.4
+We'll put a true name on it|0.4
+before you work the page.|1.2
+# SECTION: A father's nod
+For a lot of us the first light was a father.|0.7
+What he praised,|0.35
+that was manhood.|0.45
+What he ignored,|0.35
+a man could skip.|0.6
+Uh, that gets in early.|0.55
+Then you grow,|0.35
+and you find he was aiming too.|0.6
+He had lights of his own.|0.5
+Some, uh, were good.|0.45
+Some moved.|0.65
+If he was hard to find,|0.45
+in the house or out of it,|0.5
+you can steer by the gap.|0.6
+The gap is not a star.|0.55
+It just feels like one,|0.4
+because you keep checking it.|0.75
+Take what was true in him.|0.5
+Don't hang your course on him.|1.15
+[quietly] I caught myself a while back.|0.55
+Something came up with one of my kids.|0.5
+A tone I was about to use.|0.55
+Before I asked what was right,|0.45
+I checked a face.|0.45
+My dad's.|0.5
+Not the real one on the phone.|0.45
+The one I keep for a quick grade.|0.7
+I stood there with the words ready.|0.55
+My kid was waiting to learn|0.4
+which man he was about to get.|0.65
+And I was polling somebody|0.4
+who was not in the house.|0.7
+You know, the small version hides better.|0.55
+A purchase.|0.35
+A short tone with my wife.|0.5
+A yes I gave too fast at work.|0.55
+First listener was his face.|0.5
+Not because he asked for the seat.|0.55
+Because I had set him as north.|0.75
+I was not— I was not asking God.|0.55
+I was asking if the old man would nod.|0.8
+I love him.|0.45
+He has also been wrong about things.|0.6
+I hung a choice on a nod|0.4
+he was not in the room to give.|0.75
+That was unfair to him.|0.5
+It was worse for my kid.|0.7
+Uh, a father's praise is a gift.|0.55
+It is a bad north star.|0.65
+If the hurt is what you've been using,|0.55
+hear me kind.|0.45
+The hurt is real.|0.5
+The hurt is not north.|1.15
+You can honor the man|0.45
+and still take him off the heading.|0.7
+A son can love a father|0.4
+without orbiting him.|1.25
+# SECTION: Other men
+Other men are the next light.|0.6
+Uh, this one feels sharp,|0.45
+because you can see them.|0.55
+You can feel where you rank, right?|0.6
+At least you think you can.|0.65
+I kept— I kept a quiet score|0.45
+with a man I worked near.|0.55
+He never agreed to play.|0.6
+If I was ahead in my own head,|0.45
+I went home feeling like a man.|0.6
+If he got the nod and I didn't,|0.5
+I spent the ride rewriting the day.|0.7
+I mean, same hours.|0.4
+New grade.|0.35
+His day,|0.3
+not mine.|0.65
+[dry] I was losing a contest|0.4
+he had not entered.|ROOM_CHUCKLE
+He would have been confused.|0.55
+He thought we were fine.|0.5
+We were fine.|0.45
+I was the one holding a bent stick|0.45
+and calling it a ruler.|0.75
+Some of you did that|0.4
+with a man already in this room.|0.6
+You sized him up before you sat.|0.55
+I mean, not out loud.|0.45
+Behind him, you feel small.|0.5
+Ahead of him, you feel free to coast.|0.65
+He did not volunteer.|0.55
+Uh, a church will offer another.|0.55
+The man who talks easy.|0.45
+The man whose house looks lined up.|0.6
+You borrow him as the measure|0.45
+and never ask if he is true.|0.7
+A fine-looking man can still be off.|0.6
+You don't need his life.|0.45
+You need a mark that isn't a man.|0.75
+Here's what that stick can't do.|0.55
+Two men can both be off.|0.5
+The one who is less off|0.4
+is still off.|0.65
+You can come out ahead of every man you see|0.55
+and still be aimed at the wrong thing.|0.8
+Uh, a comparison will let you feel clean|0.45
+without ever looking up.|0.7
+Take him off the heading.|0.55
+Not his name.|0.4
+His job as your star.|0.65
+You were not built to circle him.|0.55
+He was not built to hold still for you.|0.75
+So ask a harder thing.|0.5
+Not, am I ahead of him.|0.5
+What am I actually measuring,|0.45
+on a day nobody hands out nods?|1.25
+# SECTION: What moves
+Culture is a light somebody can swap.|0.65
+Uh, what a room of men rewards|0.45
+does not stay put.|0.55
+The sign in front of a store gets changed.|0.6
+For a while it tells a man to be hard.|0.55
+Later it tells him the hard was the problem.|0.7
+Noticing is allowed.|0.5
+You are in a ditch|0.4
+if you borrow your manhood from the sign.|0.7
+They will change it.|0.45
+You will rebuild.|0.5
+And you will call the rebuild growth,|0.45
+when you only grabbed a newer light.|0.8
+I have sat at a table of men|0.45
+while everybody nodded.|0.55
+The nod felt like north,|0.5
+because nobody pushed back.|0.65
+Uh, a room that agrees|0.4
+is not north.|0.5
+It is a row of nearby lights|0.4
+wearing one color.|0.7
+Feelings step up next.|0.5
+They sound holy|0.4
+if you give them the mic.|0.6
+Something in me is against this,|0.45
+so it must be wisdom.|0.55
+I feel it strong,|0.4
+so it must be the Lord.|0.65
+Sometimes it is.|0.45
+Sometimes you are wrung out,|0.45
+or sore,|0.3
+or still hot from a sentence at lunch.|0.7
+Give me a hard afternoon|0.45
+and a quiet house after,|0.45
+and I can feel a ruling|0.4
+I would not sign at breakfast.|0.7
+The ruling sounds deep.|0.5
+It is just late.|0.65
+[amused] I came in once|0.4
+with the day still on my shoulders.|0.55
+By the time the house went quiet,|0.5
+I had— I had a full verdict.|0.6
+The whole life was off.|0.5
+I was sure.|0.45
+I slept.|0.45
+Morning would not sign it.|0.65
+The verdict would not stand.|0.6
+I had nearly steered by it.|0.7
+Uh, I have called a mood a leading.|0.55
+The mood had a lot of confidence.|ROOM_CHUCKLE
+A feeling can report the wind.|0.5
+It cannot choose the road.|0.6
+I mean, it spins when the day spins.|0.65
+Steer by it,|0.35
+and you will name the spin discernment.|0.7
+It isn't.|0.4
+It's weather.|0.55
+And weather is a nearby light|0.4
+with a serious voice.|1.25
+# SECTION: A clean win
+Success says if it worked, it was right.|0.7
+The bill, uh, got paid.|0.45
+The problem got handled.|0.45
+Nobody sent a complaint.|0.55
+So the man must be sound.|0.7
+Uh, that is a receipt.|0.5
+A receipt proves you paid.|0.5
+It does not prove you bought the right thing.|0.75
+I had a run where the work showed.|0.55
+People could, you know, see it.|0.5
+I carried that into the evening|0.45
+the way a man carries a passing grade.|0.7
+My boy was out front.|0.5
+He had a small thing to show me.|0.55
+Nothing that would impress a stranger.|0.55
+He wanted, uh, a man to look.|0.65
+He'd been out there a while.|0.5
+I saw it when I got close.|0.5
+The thing was in his hands.|0.45
+I don't even remember what it was.|0.6
+I remember the wave,|0.4
+because it cost me nothing|0.45
+and I counted it— I counted it as showing up.|0.7
+Uh, a wave is not presence|0.45
+from a man already inside his own story.|0.65
+He went around the side|0.45
+before I reached the good part.|0.6
+That walk should have graded the day.|0.6
+The win graded it instead.|0.7
+He did not need the story.|0.5
+He needed the front yard.|0.65
+The win had already smiled on me.|0.55
+The yard had not.|0.6
+I let the smile be the measure.|0.75
+[quietly] I have done smaller copies of that|0.5
+more times than I want said back to me.|0.7
+A thing people can see goes right,|0.5
+and I let it cover|0.35
+the hidden thing I skipped.|0.8
+You can be trusted on the job|0.5
+and missing where it counts,|0.5
+and the job will not turn you in.|0.75
+Success likes you.|0.5
+It will walk a long way beside a wrong aim|0.55
+and keep saying you're fine.|1.15
+If the days look strong|0.45
+and the people closest to you have gone quiet,|0.6
+don't ask the win.|0.5
+The win is a fan.|0.5
+A fan is not a star.|1.25
+# SECTION: What holds still
+There is a word that does not move when you do.|0.75
+Not your father's.|0.45
+Not the room's.|0.45
+God's.|0.65
+Proverbs twenty-nine, verse eighteen.|0.75
+Where there is no revelation,|0.5
+people cast off restraint;|0.55
+but blessed is the one|0.4
+who heeds wisdom's instruction.|1.3
+Stay on that opening.|0.5
+Where there is no revelation.|0.7
+No word, uh, from outside you.|0.6
+Then the lines come off.|0.55
+A man does what seems workable|0.45
+in the hour he is standing in.|0.7
+He calls it, you know, freedom.|0.55
+It is a life with the heading torn off.|0.8
+Restraint is not a mood you work up.|0.6
+It is a man who keeps the lines on|0.45
+when a nearer light says he may drop them.|0.7
+Uh, the blessing in that verse|0.45
+is not a rush of clarity.|0.55
+It is a man who hears|0.4
+and actually heeds.|0.7
+Uh, revelation here|0.4
+is God saying what is true|0.4
+while your lights argue.|0.7
+Blessed is the man who heeds it.|0.6
+He pays attention|0.35
+to a word he did not write.|0.8
+The prophets already said how long it holds.|0.65
+Isaiah forty, verse eight.|0.7
+The grass withers and the flowers fall,|0.55
+but the word of our God|0.45
+endures forever.|1.3
+[quietly] Grass goes.|0.4
+Flowers go.|0.45
+The big scenery, uh, goes.|0.55
+His word stays.|0.7
+A mood, uh, passes.|0.45
+A good run at work passes.|0.5
+A whole crowd's opinion passes.|0.6
+That word does not pass.|1.15
+You don't have to— you don't have to understand|0.45
+why a thing does not move|0.4
+to be saved by it.|1.25
+I can't explain a star.|0.5
+I can set a course by one.|0.65
+You can fuss at a mile marker|0.45
+because you wish the road bent.|0.6
+The marker will not bend.|0.55
+That is how it keeps you|0.4
+from handing away ground|0.4
+you did not mean to hand away.|0.8
+God's Word is that kind of fixed.|0.6
+It will not take a vote|0.45
+from the light you like best.|1.25
+# SECTION: One stretch
+So what does a man do.|0.55
+You are not drawing a whole map today.|0.65
+Uh, I have tried to draw the map first.|0.6
+I wanted the place,|0.35
+the work,|0.3
+the years ahead,|0.4
+all of it clear,|0.35
+before I would take one step.|0.7
+That felt serious.|0.5
+It was waiting with a notebook.|0.75
+Here's the practice.|0.5
+Open Mark.|0.45
+One stretch.|0.4
+Out loud, if you can stand your own voice.|0.65
+One question— one question while you read.|0.55
+What does this say a man does?|0.7
+Write the answer in one line.|0.6
+Then do the thing the line named.|0.7
+Not the whole route.|0.45
+The next step you can actually take.|0.8
+Some men leave it shut|0.4
+because nobody showed them.|0.55
+They opened it, got lost,|0.45
+and decided it belonged to a smarter room.|0.7
+That is a gap in practice.|0.55
+It is not a stamp on you.|0.6
+Start with Mark.|0.45
+Stay until you can see the Man you say you follow.|0.8
+Some of you want a feeling before you'll trust it.|0.65
+I have shut it|0.35
+because I felt nothing,|0.45
+and the nothing felt like failure.|0.7
+[dry] I have stared at one blank line|0.45
+as if it had insulted my whole education.|ROOM_CHUCKLE
+The line was fine.|0.45
+I wanted a thrill.|0.5
+Uh, the word is not there to thrill you.|0.6
+It is there to tell the truth|0.4
+while your feelings are still spinning.|0.75
+And some of you will say the day has no room.|0.6
+A man who finds room for every nearby light,|0.55
+and no room for the one thing that holds still,|0.55
+has already picked his star.|0.65
+He just has not said the name.|0.7
+I mean, the calendar already confessed.|0.65
+Uh, don't wait until you feel ready.|0.55
+You can do it tomorrow,|0.45
+before the day starts handing out stars.|0.65
+Write the line where your own eyes will hit it.|0.7
+One stretch.|0.4
+One question.|0.35
+One line.|0.35
+Then do it.|0.55
+Enough for the next honest step.|1.25
+# SECTION: Carl
+Let me tell you about a man named Carl.|0.65
+I have known him a long time.|0.55
+Good hands.|0.4
+Bills paid.|0.4
+If a thing broke, he was already walking toward it.|0.7
+People, uh, trusted him with the hard jobs.|0.6
+Uh, his wife had mostly quit|0.4
+bringing him the heavy sentences.|0.55
+She would start.|0.35
+"We're fine" was already loaded.|0.65
+He did not mean to close her out.|0.55
+Fine felt, you know, honest,|0.45
+because nothing in the work was burning.|0.75
+His boy asked him to come see something he'd made.|0.65
+Small.|0.35
+The boy was proud of it anyway.|0.6
+That morning a problem showed up.|0.55
+Other men could have taken it.|0.5
+Carl, uh, went.|0.45
+In the light he was using,|0.4
+a man who is needed is a man.|0.7
+He sent a text.|0.4
+Start without me.|0.6
+One word came back.|0.45
+Ok.|0.85
+He told it to me later|0.45
+the way you tell a knot in the schedule.|0.65
+Two good things, he said.|0.55
+I asked what he used to grade the day.|0.6
+The problem got handled,|0.4
+he said,|0.3
+and his name stayed clean.|0.7
+I asked what the boy used.|0.55
+[quietly] Carl went quiet.|0.75
+We opened Mark right there.|0.55
+He read it slow, out loud.|0.6
+Mark one, verse thirty-five.|0.65
+Very early in the morning,|0.4
+while it was still dark,|0.45
+Jesus got up,|0.35
+left the house|0.35
+and went off to a solitary place,|0.5
+where he prayed.|0.9
+Carl wrote on the back of an envelope.|0.6
+A man meets God|0.4
+before he runs toward whoever is calling.|0.8
+He did that the next morning.|0.6
+He said, uh, it felt flat.|0.55
+Then he found his boy,|0.45
+who had already put the thing away,|0.5
+and he asked to see it anyway.|0.65
+The boy got it out of a closet.|0.6
+Four minutes.|0.55
+Carl told me those four minutes|0.45
+had been waiting on him|0.4
+longer than the problem ever waited.|0.8
+The job never said he was off.|0.55
+The verse did.|0.45
+Then the boy did.|1.25
+# SECTION: Whoever you are
+Let me walk this room.|0.55
+If you're young,|0.4
+don't wait on a finished plan.|0.6
+Uh, I knew a young man named Eddie.|0.5
+Out on his own.|0.45
+He would not open Mark|0.4
+until the whole route was drawn.|0.6
+The work.|0.3
+The town.|0.3
+A woman he had not met.|0.55
+He called the waiting wisdom.|0.6
+It was a nearby light|0.4
+with the name someday.|0.65
+One morning he read a stretch|0.45
+and wrote, a man follows.|0.65
+He still had no town picked.|0.5
+He had a step.|0.4
+He took it.|0.8
+If you're single,|0.45
+Hear this plain.|0.55
+A wife you hope for is not the star.|0.7
+She would be, uh, a poor north.|0.6
+She is a person.|0.45
+She moves,|0.3
+and she is allowed to move.|0.6
+Your life has a heading|0.4
+before she has a name.|0.75
+If you're married,|0.45
+she is not the measure either.|0.65
+Love her.|0.4
+Don't make her hold north for the house.|0.7
+I have— I have set her there,|0.5
+then felt cheated|0.35
+when she could not be God.|0.75
+If the house is tired,|0.5
+a late feeling will offer|0.4
+to judge the whole marriage.|0.65
+Don't let it write the ruling.|0.55
+Read first.|0.4
+Then talk to her.|0.65
+If the marriage came apart,|0.5
+some other man's life|0.35
+will try to grade you.|0.55
+His peace.|0.35
+His, uh, new start.|0.5
+That grade moves.|0.5
+Your Father is not using that man's score|0.5
+on you.|0.7
+[quietly] If you're hurt,|0.5
+the wound is not north.|0.65
+Don't steer by the pain|0.4
+and give the pain a holy name.|0.75
+If you've been around a long time,|0.55
+years of nearby lights are, uh, still fog.|0.7
+The years did not freeze them.|0.65
+And if the job is going well,|0.5
+a strong run is not a heading.|0.6
+A crowded calendar isn't either.|0.55
+You can be booked from morning on|0.5
+and still aimed nowhere that stays.|0.7
+Uh, full will swear it is north.|0.55
+It is only full.|0.5
+Be grateful for a good run.|0.5
+Then look higher than the run.|1.25
+# SECTION: To the tables
+[warmly] Let me say the whole thing plain,|0.5
+and then I'll get out of the way.|0.7
+A man can know the clock|0.45
+and still have no north.|0.7
+Nearby lights are real.|0.5
+They move.|0.45
+A father.|0.3
+Other men.|0.35
+The culture.|0.35
+Feelings.|0.35
+Success.|0.55
+Any one of them will steer you|0.45
+and hide the drift,|0.4
+because it drifts along with you.|0.8
+God's Word does not drift.|0.6
+You don't have to understand|0.4
+why it holds still|0.4
+to be saved by it.|1.2
+I hope you— I hope you leave|0.45
+able to name the light|0.4
+you have actually been using.|0.65
+Not the one you respect from far off.|0.55
+The one that has been grading your days.|0.85
+Your workbook has the room for it.|0.6
+In a minute you, uh, sit at the tables|0.5
+and work this part together.|0.75
+So put the questions in your ear|0.45
+the way you will say them.|0.7
+What have you actually been measuring|0.45
+your life against this year?|0.7
+Father, other men, culture,|0.45
+feelings, or success.|0.65
+A full sentence.|0.45
+Out loud.|0.4
+Today.|0.75
+Where did that moving star|0.45
+pull you this month?|0.8
+Name the pull.|0.45
+A real place it took you.|0.7
+And will you open Mark tomorrow|0.5
+and write one line?|0.7
+One stretch.|0.35
+What it says a man does.|0.55
+Then you do it.|0.6
+Uh, tell a brother the star you named.|0.6
+Read him one verse from what you read.|0.55
+Tell him what it said a man does,|0.5
+and whether you did it.|0.75
+If all you tell him is that you've been busy,|0.55
+he can, you know, nod,|0.45
+and you stay in the fog.|0.8
+How many of you already know the light,|0.5
+and want to keep the sentence soft?|0.55
+Hand up.|0.35
+Nobody is collecting them.|ROOM_HANDS
+Alright.|0.45
+Don't drop it on the walk to the table.|0.65
+You've carried the marks through this room.|0.55
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.|1.3
+# CUT SCREEN: creed board — "A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's." — new angle after
+Name the star.|0.45
+Open Mark.|0.4
+Take the step.|0.55
+Tables.|0.4
+Work that part of the workbook together.|0.65
+Start, uh, with what you've been measuring.|0.55
+Say it plain.|1.25

@@ -1,0 +1,698 @@
+# SECTION: Welcome
+[warmly] Good to see you.|0.7
+Come on and sit if you're still standing there.|0.5
+Uh, I watched a man on his way in.|0.4
+He read the page.|0.35
+He looked at the door.|0.4
+Then he sat down real slow,|0.3
+like the chair might file a report.|ROOM_CHUCKLE
+Glad you stayed.|0.65
+If you slipped in late, I'm Wes.|0.55
+Last time we sat with a Father who doesn't walk off.|0.6
+That still stands.|0.5
+Today is the house that raised you.|0.55
+Whether anybody in it|0.3
+ever looked you in the face|0.35
+and told you that you could go.|1.05
+Uh, some of you have a truck that starts,|0.45
+and the day still bends toward their table.|0.6
+You drive over.|0.3
+Uh, you wait on a sentence|0.35
+that has not come.|0.85
+Some of you left hard|0.4
+and called it finished.|0.5
+The fight climbed in beside you anyway.|0.85
+I have been— I have been both of those men.|0.7
+You can't— you can't hand yourself off.|1.35
+If that house never did it,|0.4
+the Father already has,|0.45
+and He keeps men close enough to say it.|0.8
+When you come back, you knock.|1.05
+One sentence|0.4
+puts four marks on a real man.|0.65
+Here they are.|0.4
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.|1.35
+# CUT SCREEN: creed board — "A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's." — new angle after
+Passivity is the hand that will not let go.|0.65
+Reject that.|0.45
+The life is already yours to carry.|0.8
+Responsibility is the honor still owed,|0.5
+and the leaving still yours to do.|0.65
+Courage is the ask,|0.35
+the telling,|0.3
+and the walk up to the door|0.4
+while your heart is still loud.|0.9
+The reward is not your father's apology.|0.7
+If the sentence comes, receive it.|0.5
+If it never comes,|0.3
+you are not unpaid.|0.7
+God's pay.|0.4
+That's the one a steadfast man works for.|1.15
+Uh, look at your own hand.|0.45
+See which side of the door it's on.|1.2
+# SECTION: A Man, a Word
+Let me say what a handoff actually is.|0.6
+For a long time,|0.3
+men did this on purpose.|0.55
+An older man took a younger one|0.4
+through something hard.|0.45
+He told him what a man is.|0.5
+He laid a man's weight on him.|0.5
+Uh, then he brought him into the company.|0.7
+The boy didn't announce himself.|0.5
+Uh, the men said so,|0.35
+and they meant it.|0.7
+He woke up in their company|0.4
+because they had said his name.|0.55
+Not a feeling he worked up alone.|0.85
+Four pieces.|0.4
+A man.|0.35
+A word.|0.35
+A weight.|0.35
+A welcome.|1.25
+I watched this once,|0.4
+Uh, on a fence line.|0.55
+An older man had his nephew out there all day.|0.55
+Not as a guest.|0.4
+Uh, not as an audience.|0.5
+Near the end he handed him the digger|0.4
+for the last holes.|0.45
+Told him the line had to stay straight.|0.55
+Stood there while the boy did it.|0.6
+Uh, didn't take the tool back|0.35
+when it got crooked.|0.55
+Then he said,|0.35
+you can run a day like this.|0.45
+Come in the morning.|0.4
+You're with us.|1.1
+That was a man.|0.4
+Uh, the uncle, standing there.|0.55
+That was a word.|0.4
+You can run a day.|0.45
+The line stays straight.|0.6
+That was a weight.|0.4
+Those last holes were the boy's to get right.|0.7
+And that was a welcome.|0.45
+Come in the morning.|0.4
+You're with us.|1.15
+[dry] Most of us did not get the set.|0.65
+Some of you got the weight and no word.|0.55
+Chores.|0.3
+Bills.|0.3
+Figure it out.|0.4
+Nobody ever called it a man's work.|0.75
+Uh, it was just what needed doing,|0.4
+and you were the one standing there.|0.8
+Some of you got a soft word|0.4
+and nothing to carry.|0.5
+Nice voice.|0.3
+No weight in it.|0.7
+And some of you got silence.|0.55
+A roof, maybe.|0.4
+A ride, sometimes.|0.4
+Uh, no sentence you could find later|0.4
+when you went looking.|0.9
+The want does not die when the word is missing.|0.65
+You go hunting.|0.45
+And what you find|0.3
+is usually a substitute|0.35
+with a man's shape|0.3
+and none of the pieces.|1.15
+# SECTION: The Substitutes
+[dry] I have built a few substitutes.|0.6
+They looked solid from the driver's seat.|0.75
+One of them is noise.|0.5
+The night you finally said it all|0.4
+at somebody's table,|0.4
+drove home feeling huge,|0.45
+and called that the night you became a man.|0.8
+Uh, nobody older received you.|0.5
+You just got loud.|0.7
+Uh, loud can pass for a ceremony.|0.55
+It wears off by morning.|0.8
+Another one is miles.|0.5
+You moved.|0.35
+You got your own place.|0.4
+You put your name on a lease|0.4
+and you thought the miles were the moment.|0.75
+Moving your stuff— moving your stuff is real.|0.55
+It is not a handoff.|0.8
+I mean, a boy can change zip codes|0.45
+and stay a boy.|0.7
+Another one is a title.|0.5
+Your name goes on the schedule.|0.45
+People ask you what to do.|0.5
+Uh, that can happen to a boy.|0.55
+Being in charge is not the same|0.4
+as being sent.|0.75
+And the quiet one.|0.45
+The long circle.|0.5
+You stay close.|0.35
+You stay useful.|0.4
+Uh, you keep hoping the house will finally say it.|0.7
+And because, you know, you're not sure you're a man,|0.5
+you won't pick up a man's weight anywhere else.|0.7
+You're waiting to be told it's yours.|1.05
+I did a small version of that circle|0.45
+in a store aisle.|0.55
+I called— I called my dad before I picked.|0.5
+Uh, it was a hose.|0.45
+He lives in another town.|0.45
+He has never seen this hose.|0.55
+Uh, I still wanted him to rule on it.|0.7
+I was waiting on a verdict|0.4
+for a hose.|ROOM_CHUCKLE
+He was kind about it.|0.45
+Uh, confused, mostly.|0.5
+The kindness didn't make me a man.|0.6
+It just showed me whose voice|0.35
+I was still borrowing.|0.9
+None of that had the four pieces.|0.55
+No man giving a true word.|0.45
+Uh, no weight that was actually mine.|0.45
+No welcome into a company.|0.7
+A handoff is received.|0.5
+Men give it.|0.4
+A boy takes it.|0.5
+He does not invent it on the drive home, right?|0.9
+You already know.|0.4
+You've tried.|1.15
+# SECTION: Already a Son
+So hear the Father before you hear anybody else.|0.65
+If you start in another place,|0.4
+it will give way under you.|0.85
+Luke two, verse forty-nine.|0.55
+His parents have been searching the roads.|0.6
+He asks them,|0.4
+why were you searching for me?|0.5
+Didn't you know I had to be|0.35
+in my Father's house?|1.15
+Uh, he wasn't being cruel.|0.5
+His life was already ordered|0.4
+by his Father.|0.6
+And a few verses on,|0.4
+he went down with them|0.35
+and was obedient to them.|0.9
+Center in the right house.|0.5
+Honor still intact.|0.45
+No scene on the way home.|1.05
+Some of you have parents|0.35
+still walking the old roads,|0.45
+looking for a boy they understand.|0.65
+Meanwhile the Father|0.35
+has already put you about His business.|0.9
+If you belong to Christ,|0.45
+that word is not still pending.|0.8
+Galatians four.|0.45
+Because you are his sons,|0.4
+God sent the Spirit of his Son|0.35
+into our hearts,|0.4
+the Spirit who calls out, Abba, Father.|0.85
+So you are no longer a slave,|0.4
+but God's child.|0.5
+And since you are his child,|0.4
+God has made you also an heir.|1.2
+[quietly] That's a word.|0.4
+Son.|0.45
+Not slave.|0.5
+That's a weight.|0.4
+Heir.|0.45
+Something is actually yours.|0.55
+That's a welcome.|0.4
+Abba.|0.5
+You can come in.|1.1
+When our first child was born,|0.45
+Uh, my dad sent a short note.|0.55
+Congrats.|0.35
+Your mother wants to know when to come.|0.7
+I stood in the hall outside the room|0.45
+and read it twice,|0.4
+looking for a line that wasn't on it.|0.8
+Uh, I wanted somebody to tell me|0.35
+I could do the thing I was already in.|0.75
+You know, the note couldn't say it.|0.55
+I went back in anyway.|0.6
+Uh, the baby didn't know about the note.|0.55
+That weight was already in my arms.|1.15
+If you're— if you're in Christ,|0.45
+the Father has already said son over you.|0.7
+Uh, your dad's sentence is a gift|0.4
+when it comes.|0.45
+It is not the floor.|1.2
+# SECTION: Ask Out Loud
+Then you ask a man to say it where you can hear it.|0.65
+It will feel— it will feel clumsy.|0.55
+Ask anyway.|0.7
+Find a man older than you|0.4
+who is actually living this,|0.5
+and tell him the truth.|0.65
+Nobody ever told me I was a man.|0.55
+Would you tell me what you see?|0.85
+If he'll put a hand on your shoulder,|0.45
+let him.|0.55
+Uh, then take the answer.|0.6
+All of it.|0.5
+If he only flatters you,|0.4
+ask him for the true part.|0.55
+A handoff with no truth in it|0.4
+is just a nice noise.|0.75
+If he names a fault,|0.4
+don't dodge.|0.45
+That may be the first time|0.35
+the word man came with a spine.|0.9
+I practiced my ask in the car.|0.5
+Uh, more than once.|0.45
+The man in the next spot|0.4
+looked over|0.3
+as if I was fussing at him.|0.55
+I was fussing at a steering wheel.|ROOM_CHUCKLE
+Uh, when I finally said it to a man I trusted,|0.55
+he didn't give me a trophy.|0.6
+He said, I see a man who can carry a house,|0.45
+and who still checks home|0.35
+before he trusts his own yes.|0.85
+It stung.|0.5
+I took it.|0.55
+That was closer to a handoff|0.4
+than anything I'd been hunting.|0.9
+Mark the day.|0.5
+Not a mood you might feel later.|0.55
+A day you can point at.|0.6
+The day you asked.|0.4
+The day he said it.|0.4
+Uh, the day you stopped waiting.|0.65
+Put it where your eyes will hit it.|0.75
+A man with no day to point at|0.45
+keeps checking his own pulse|0.4
+to see if he turned into one.|1.0
+[quietly] And if you're the older man,|0.45
+you are the other half of this.|0.65
+Pick one younger man.|0.45
+Tell him one thing|0.3
+you have watched him do|0.35
+that a man does.|0.6
+A thing he already did.|0.65
+I watched you stay|0.3
+and tell the truth about your own part.|0.55
+That's a man's move.|0.45
+I see a man.|0.8
+How many of you can point to a day|0.45
+when a man said it to your face|0.4
+and you knew he meant you?|0.6
+Let me see them.|ROOM_HANDS
+Yeah.|0.45
+A lot of hands stayed down.|0.6
+So we ask.|0.4
+And we say it.|1.15
+# SECTION: Russ
+There was a man in a group I sat in.|0.55
+I'll call him Russ.|0.5
+Uh, he ran a bread route.|0.5
+Up before the street was awake.|0.5
+Good at it.|0.4
+People knew the truck.|0.55
+At home he had a wife|0.35
+and a little girl|0.3
+who was glad when he came through the door.|0.7
+And he still couldn't pick a Sunday|0.4
+without his mother's hand on it.|0.85
+He had a cooler in the trunk.|0.5
+Her containers.|0.35
+He was afraid to bring them back empty,|0.45
+and afraid to throw the food out.|0.6
+Uh, so they stayed back there|0.35
+until they were past saving,|0.45
+and then he felt guilty twice.|0.9
+His wife stopped coming in.|0.55
+She'd sit with the baby,|0.4
+windows cracked,|0.35
+and she didn't pick a fight.|0.65
+One Sunday she said, quiet,|0.45
+she's asleep.|0.4
+I'm taking her home.|0.4
+You can come|0.3
+when you're done asking permission.|1.0
+Russ stood in the driveway|0.4
+with a dish in his hands.|0.55
+He told me he almost got mad.|0.5
+Uh, then he got honest.|0.45
+She was right.|0.8
+Next morning he said it out loud at the table.|0.6
+An older man was there.|0.45
+Uh, I'll call him Hugh.|0.55
+Hugh doesn't waste words.|0.55
+He asked,|0.35
+what day did your dad tell you|0.35
+you were a man?|0.7
+Russ let out one short laugh.|0.5
+He didn't.|0.55
+Hugh nodded.|0.4
+He'd expected that.|0.6
+Then stop waiting on that house to say it.|0.55
+I'll tell you what I see.|0.5
+I see a man|0.3
+who's scared of a quiet phone.|0.6
+I also see a man|0.35
+who can feed his own family|0.35
+at his own table.|0.55
+Both of those are true.|0.5
+Go do the second one.|1.05
+He didn't— he didn't add a sermon.|0.55
+He asked, when.|0.5
+Russ said, this Sunday.|0.65
+He called the day before.|0.45
+Voice unsteady.|0.5
+Mom.|0.3
+We love you.|0.4
+We're eating at our place.|0.8
+Silence.|0.45
+His dad on the other line.|0.5
+Suit yourself.|1.15
+Uh, Russ burned the rolls.|0.5
+His girl thought it was funny.|0.55
+[quietly] He told me it was the first meal|0.4
+that was finally his.|0.8
+He still goes to see them.|0.45
+He calls first.|0.4
+He doesn't go hunting a sentence.|0.6
+Uh, his dad is still his dad.|0.5
+The visit is a visit now.|0.45
+Not a verdict he's waiting on.|1.2
+# SECTION: Knob or Slam
+[dry] Now look at the door itself.|0.6
+Genesis two, verse twenty-four.|0.55
+That is why a man leaves|0.35
+his father and mother|0.4
+and is united to his wife,|0.45
+and they become one flesh.|1.05
+A man leaves.|0.5
+God said that,|0.35
+not a kid with a bag by the door.|0.7
+And it comes before he is united to his wife.|0.6
+So if you're single,|0.4
+this is already yours.|0.55
+Leaving is not a married man's verb only.|0.85
+Uh, two ways to miss it.|0.5
+Your hand stays on the knob.|0.55
+Or you slam it|0.35
+and call the noise freedom.|0.8
+Both of those men|0.35
+are still in the doorway.|0.7
+They just face different directions.|0.9
+Here's the knob,|0.4
+and it's mine before it's yours.|0.65
+My mother had a real opinion|0.4
+about when the kids should be down.|0.55
+I would agree on the phone.|0.45
+Uh, then I'd walk back in|0.35
+and move our whole evening.|0.6
+Uh, I called it peace.|0.55
+My wife didn't fight me.|0.45
+She looked at me|0.35
+the way you watch a man|0.35
+agree to a house he didn't live in.|0.85
+She wasn't the problem.|0.45
+I hadn't left.|0.7
+If a comment from your father|0.4
+can still empty you out,|0.45
+and you build your choices|0.35
+as a fence against that comment,|0.55
+you are still home.|0.5
+I mean, you just sleep somewhere else.|0.85
+If every big yes|0.35
+still has to be voted on|0.35
+at their table,|0.4
+you moved your furniture.|0.45
+You did not leave.|0.8
+Uh, now the slam.|0.55
+I got sharp with my dad on the phone|0.45
+over something small.|0.5
+I ended it on a short, cold word,|0.5
+and I felt tall for an hour.|0.65
+By supper I had won the argument again.|0.5
+Out loud.|0.35
+To a bowl of green beans.|ROOM_CHUCKLE
+Anger keeps a seat for him.|0.6
+You think you threw him out.|0.5
+He rides into the next room anyway.|0.7
+Uh, your day bends around the man|0.4
+you are not speaking to.|0.55
+What you avoid.|0.35
+What you rehearse.|0.4
+Who you're still proving it to.|0.9
+And your kids are learning a method.|0.55
+They will know how to leave you,|0.45
+because you showed them.|1.2
+# SECTION: Office and Man
+[quietly] Honor is not pretending.|0.65
+Hear that.|0.5
+You do not have to call a hard man kind.|0.6
+Scripture never asks you to lie about him.|0.75
+Uh, honor is how you treat the place|0.4
+God gave him in your life.|0.55
+The office of father.|0.5
+Not a grade you hand in|0.35
+on his performance.|0.9
+You can— you can use the name Dad|0.45
+without giving a toast that rewrites him.|0.7
+You can make sure he's looked after|0.4
+when he's old,|0.4
+even if he never did that for you.|0.7
+You can pass him the bread|0.4
+and skip the speech.|0.55
+Uh, then, on the drive,|0.35
+you can tell the truth to God,|0.45
+or to a brother,|0.4
+with no sneer in it.|0.9
+I mean, mockery is a slam|0.45
+you can do from another state.|0.7
+Uh, it passes for honesty.|0.5
+It's a boy still swinging.|0.75
+Ephesians six, verse two.|0.5
+Honor your father and mother.|0.8
+That includes a mother who raised you alone.|0.6
+In your house, if you have a wife,|0.45
+she comes first.|0.55
+You can love your mother|0.4
+and still not let her run the evening.|0.75
+Uh, pray his name.|0.5
+Pray hers.|0.4
+Even if the prayer is clumsy.|0.6
+Uh, mine has come out this way.|0.5
+Father, You see him clearer than I do.|0.55
+I don't want to keep carrying this.|0.8
+He hears a prayer that small.|0.6
+Forgiveness sits inside the honor.|0.6
+It is not a speech that says|0.4
+it didn't matter.|0.55
+It mattered.|0.5
+God knows how much.|0.65
+Uh, and it is not the same as trust.|0.6
+You can forgive a man|0.4
+and still refuse|0.3
+to leave your children with him|0.45
+if that house is not safe.|0.85
+Some tables do not get put back.|0.6
+That is not a failure of nerve.|0.7
+Distance can be wisdom.|0.65
+A curse you keep warm in your mouth|0.45
+is still a slam.|1.0
+First Peter two, verse twenty-three.|0.55
+When they hurled their insults at him,|0.45
+he did not retaliate.|0.45
+Instead, he entrusted himself|0.4
+to him who judges justly.|1.15
+Hand Him the debt.|0.6
+Uh, your peace can stop waiting|0.4
+on an apology that may never come.|0.8
+Paying that man back|0.35
+was never your job.|1.25
+# SECTION: The Knock
+If your father is alive,|0.4
+and it is safe to go near him,|0.5
+there may be a knock you've been postponing.|0.75
+I will not send you|0.35
+into a house that is still dangerous.|0.65
+Some talks only tear open|0.4
+a wound God is already closing.|0.6
+Leave those alone.|0.7
+But a lot of men|0.35
+have had the words ready for years|0.5
+and have never gone to the door.|0.9
+I mean, keep it short.|0.5
+A speech gives him something to swat.|0.55
+Uh, say what you needed and did not get.|0.5
+One sentence.|0.45
+Say one true thanks.|0.5
+A way of getting up early.|0.4
+A roof.|0.45
+Not a performance.|0.6
+Say what you've decided.|0.45
+I'm not gonna build my house on this grudge.|0.5
+I'm done making you pay me.|0.55
+Then stop.|0.5
+Don't charge an apology|0.35
+as the price of the next visit.|0.65
+Uh, what he does with it is his weight.|0.85
+I knew a man.|0.4
+Uh, I'll call him Pete.|0.55
+A holiday went bad and he stopped calling.|0.55
+He told us he was free.|0.6
+[quietly] Then his own boy,|0.4
+mad about something small,|0.4
+looked at him and said,|0.35
+I don't have to talk to you,|0.45
+and shut a door.|0.85
+Pete heard his own rule in a child's mouth.|0.75
+Uh, he started saying his father's name on the drive.|0.6
+He said the name was gravel in his mouth.|0.75
+He had a box in the garage.|0.45
+Old road maps.|0.35
+His dad's.|0.4
+He'd taken them on the way out,|0.45
+a little prize from the fight.|0.65
+He drove over with the box.|0.45
+Knocked before he could build the speech.|0.6
+These are yours.|0.4
+I took them to prove a point.|0.4
+I'm done proving it.|0.75
+His father held the box.|0.45
+You kept these.|0.5
+Pete said,|0.3
+I don't need them for a fight anymore.|0.7
+The door stayed open|0.35
+long enough to set the box inside.|0.6
+No apology came.|0.5
+Pete didn't chase one.|0.55
+He told me,|0.3
+I gave back what I'd been using as a weapon.|0.55
+That was the knock.|1.15
+Uh, if your father is gone,|0.45
+or you cannot go near him,|0.5
+say it anyway.|0.55
+Say it to God.|0.4
+Say it to a brother.|0.55
+The words still have to leave your chest,|0.5
+even if they cannot reach him.|1.2
+# SECTION: Whoever You Are
+Let me walk the room for a minute.|0.55
+Uh, young men.|0.45
+The test is whether your yes is yours.|0.65
+You can love them and still decide.|0.55
+Uh, if every yes gets sanded down|0.4
+at their table until it isn't yours,|0.5
+you haven't left.|0.55
+You're borrowing a life.|0.8
+If you're single,|0.4
+don't wait on a wife to make this true.|0.65
+You already have a life to aim.|0.6
+Decide, then tell them,|0.4
+and let the telling carry your love.|0.7
+Don't poll them until the choice is gone.|0.8
+If you're married, you leave.|0.5
+You don't send her in|0.35
+to say the hard thing you were afraid to say.|0.75
+And when a baby shows up,|0.4
+Uh, you'll leave again,|0.4
+in front of people who love hard.|0.6
+Say it in your own voice.|0.45
+This is how our house is gonna run.|0.55
+I love you.|0.35
+I'm not asking you to carry it.|0.85
+If the house got quiet,|0.4
+if the papers are signed,|0.45
+the pull is back toward her table,|0.5
+because she'll make room.|0.6
+Don't hide there from building a life.|0.65
+The Father's word was not torn up|0.4
+when the marriage was.|0.8
+If the house was dangerous, stay away.|0.55
+That can be wisdom.|0.5
+A curse you keep warm is still a slam.|0.85
+[quietly] Older men.|0.45
+The years did not hand you off.|0.55
+If you still need the word, ask for it.|0.6
+A younger man is in reach.|0.45
+You are the one who starts.|0.6
+A grudge with years on it is not wisdom.|0.7
+If your son slammed, or he drifted,|0.5
+be the one who goes toward him.|0.55
+Make the call that doesn't get answered.|0.6
+If you failed him, say it once.|0.5
+If he knocks, there's a place for him.|0.8
+And if the work is going well,|0.4
+a title— a title is not a departure.|0.7
+You can be the man they call when it breaks|0.45
+and still be a boy at that table.|1.1
+How many of you are still getting|0.35
+a real decision cleared|0.35
+by a house you don't live in?|0.55
+Go ahead. Be honest.|ROOM_HANDS
+Yeah.|0.4
+Uh, that one's for the steady-looking men.|0.6
+I was in it with the hose.|0.5
+You know what to do with it now.|1.15
+# SECTION: To the Tables
+[warmly] Let me bring this down to the table.|0.6
+Nobody hands himself off.|0.6
+If you are his,|0.35
+the Father already handed you off.|0.6
+What I hope— what I hope you walk out with|0.45
+is which side of the door you've been on,|0.5
+and one move with a day on it.|1.0
+Uh, your workbook is where this gets particular.|0.6
+So get the questions in your ear.|0.7
+Who handed you off, and when?|0.55
+Or will you say the bare line.|0.45
+Nobody ever told me I was a man.|0.8
+Did you slam,|0.35
+or did you keep orbiting?|0.6
+If the leaving is the sharper edge,|0.45
+say knob or slam,|0.45
+and name what it has cost.|0.6
+Your wife, if you have one.|0.4
+Your kids.|0.35
+Your own days.|0.75
+If you're the younger man,|0.45
+which older man will you ask|0.4
+whether he sees a man in you?|0.55
+And will you take whatever he says?|0.75
+If you're the older man,|0.45
+which younger man will you tell,|0.45
+and what have you watched him do|0.4
+that a man does?|0.7
+On the leaving.|0.45
+What is one decision|0.35
+you will make|0.3
+without clearing it first,|0.45
+and then tell them,|0.35
+with love in it?|0.65
+Or will you pray for your father by name,|0.5
+day by day,|0.45
+and if he is alive and it's safe,|0.45
+what day will you go knock?|0.9
+Tell a brother all of it.|0.55
+Whether you were handed off.|0.5
+The date you are going to write|0.35
+inside your Bible.|0.55
+Which side of the door|0.35
+you have been standing on.|0.5
+And if the knock is coming,|0.4
+when.|0.75
+If you skip the brother,|0.4
+the day stays imaginary.|0.7
+Carry this.|0.55
+A man, a word, a weight, and a welcome.|0.6
+Nobody hands himself off.|0.55
+The Father already handed you off,|0.45
+and He keeps men ready to say it out loud.|0.7
+Honor the office.|0.45
+Tell the truth about the man.|0.5
+Hand the debt to God.|0.5
+And knock when you come home.|1.15
+The marks still stand.|0.5
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.|0.8
+# CUT SCREEN: creed board — "A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's." — new angle after
+Tables are yours.|0.45
+Work this part of the workbook together.|0.6
+I'm not going far.|1.2

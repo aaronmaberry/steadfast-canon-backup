@@ -17,7 +17,7 @@ Wes Hart
 
 **Time:** about an hour. Church, small group, or a man alone. Two chapters. Not two sermons.
 
-A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
 Say it. Do not unpack it. Tonight is the year you are in, then the hour nobody grades.
 
@@ -51,7 +51,7 @@ A man can spend a whole decade as a tourist in his own house. He was there. He w
 
 Then the unseen hour. The street strip is not evil. The tell is what you do with the gate. A man who only builds what can be seen is a performer. Paul is talking to men whose work would never trend. The Lord is in the room. You are not working for the clap. You are working for Christ.
 
-Busy can be a strip. Twelve visible tasks, none of them the lean. "Nobody noticed" is not a reason to stop. That was the point of the hour. God's reward is not the mention. Build the part that will still be standing when the mention is gone.
+Busy can be a strip. Twelve visible tasks, none of them the lean. "Nobody noticed" is not a reason to stop. That was the point of the hour. God's pay is not the mention. Build the part that will still be standing when the mention is gone.
 
 Point at both chapters. Then shut up.
 

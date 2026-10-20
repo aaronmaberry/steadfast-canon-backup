@@ -1,0 +1,548 @@
+# SECTION: The Tile
+[amused] I've got to start with a confession about my garage.|0.5
+There's a stack of floor tile out there.|0.4
+Enough to redo our downstairs bathroom.|0.5
+I bought it on sale.|0.3
+Forty percent off.|0.4
+Which, at the time, felt like the hard part.|0.6
+It's been out there long enough|0.3
+that nobody in my house calls it the tile anymore.|0.4
+We call it the table.|0.4
+My wife sets the groceries on it.|0.45
+[dry] The tile has become furniture.|ROOM_CHUCKLE
+Last month she put a lamp on it.|0.4
+I think we're past the point of no return.|0.9
+Anyway. It's good to be in a room with you guys again.|0.6
+Pull your chair in a little.|0.3
+Closer than feels natural.|0.6
+If today's your first one, jump right in.|0.4
+Nothing we said before is a test you missed.|1.0
+Here's where we left it.|0.4
+We laid four marks on the table,|0.3
+the kind of things people can see on a man|0.3
+because he keeps doing them.|0.6
+And we stayed a long time with the last one.|0.4
+Doing the good thing and letting God be the one who notices.|0.5
+Some of you have been doing one quiet thing since then|0.35
+and not telling anybody.|0.5
+Good. Don't tell me either.|0.5
+That was kind of the point.|1.0
+Today we go back to the front of the line.|0.45
+The first mark.|0.5
+And I'll put it plainly, because it's the whole hour.|0.5
+A steadfast man stops waiting.|0.6
+In kitchen words, he won't sit his own life out.|1.1
+That stack of tile is a small picture of it.|0.4
+It's not broken. It's not lost.|0.4
+It's just waiting on me.|0.5
+And I've let it wait so long|0.3
+it quit looking like a decision.|1.2
+I'd bet every man in here has a stack of tile somewhere.|0.4
+Yours might not be in the garage.|0.4
+Yours might be a conversation you keep, uh, walking around.|1.2
+# SECTION: Full Days
+Now, when you hear the word passive,|0.35
+you probably picture a guy on a couch.|0.4
+Remote on his chest. Blinds down.|0.5
+He's not the one I'm worried about.|0.45
+Everybody can see him. Including him.|0.8
+Honestly, that guy's got a better shot than most of us.|0.4
+At least he knows he's on the couch.|0.9
+The man I'm worried about is up before the alarm.|0.4
+He's good at his job.|0.3
+He's the one people call.|0.4
+His truck has jumper cables and a tarp and a spare everything.|0.6
+If your car dies in a parking lot, he's the guy you want walking by.|0.6
+And there's still a short list in his life|0.3
+he's been going to get to for years.|0.6
+Not the gutters.|0.3
+The big ones.|0.5
+The call back to the doctor.|0.3
+The apology he owes his sister.|0.3
+The friend who's drinking again,|0.3
+and doesn't know that he knows.|0.9
+Let me see a hand.|0.3
+How many of you have got one of those|0.3
+sitting in your head right now?|0.4
+No details. Just a hand.|ROOM_HANDS
+Yeah. Keep it up a second and look around.|0.5
+That's not a room full of lazy men.|0.45
+That's a room full of busy ones.|0.6
+Men who'd drive across town at midnight for a buddy with a flat.|0.6
+You can put your hands down.|0.6
+And busy is the best hiding place I know of.|0.5
+Nobody ever gets in trouble for being needed.|0.5
+Busy gets you thanked.|0.4
+Busy gets you a plaque.|0.6
+I've never seen anybody get a plaque for finally calling his brother.|0.8
+I answer work email in about ninety seconds.|0.4
+I'm, uh, kind of proud of that.|0.5
+My brother left me a voicemail back in the spring.|0.4
+I still haven't called him back.|0.9
+I've listened to it six times.|0.4
+That's six times I could've just called him.|1.2
+# SECTION: Where Are You
+I want to read you one of the first questions God ever asked a man.|0.5
+Genesis three, verse nine.|0.6
+But the Lord God called to the man, Where are you?|1.2
+Here's what gets me about that.|0.4
+God wasn't lost.|0.4
+He wasn't out there squinting through the trees going, Adam? Buddy?|0.6
+He knew exactly where the man was standing.|0.5
+So the question wasn't for God.|0.4
+It was for the man.|0.9
+And notice who He called to.|0.4
+Not the serpent. Not the tree.|0.4
+The man.|0.8
+He came looking for the one He'd put in charge of that garden.|0.5
+Uh, that's still how it works.|0.4
+When something's drifting in a house,|0.3
+God doesn't usually start by asking the kids.|0.9
+You only ask a question you already know the answer to|0.3
+for one reason.|0.3
+You want the other guy to hear himself say it.|0.8
+It's not about information.|0.3
+It's about ownership.|0.8
+I do it with my kids.|0.3
+Where are your shoes?|0.4
+I know where they are.|0.4
+They're in the middle of the hallway,|0.3
+right where I'm about to step in the dark.|0.6
+I'm not asking for directions.|0.4
+I'm asking them to walk over there and deal with it.|0.5
+You with me?|1.0
+That's how God comes after a man who's parked.|0.4
+He doesn't send a lecture.|0.3
+He sends a question.|0.5
+A lecture, you can argue with.|0.3
+A question, you have to answer.|0.6
+And it isn't a trick.|0.4
+It's an invitation to quit standing behind all the good stuff|0.3
+and answer from where you actually are.|0.9
+Some of you are standing in a very full life.|0.4
+And on one thing,|0.3
+you haven't moved in years.|0.6
+Not because you don't care.|0.3
+Because moving would cost you something, and standing still hasn't sent a bill yet.|0.6
+He knows which thing.|0.4
+You— you already know it too.|1.2
+# SECTION: Nicer Names
+Here's the tricky part.|0.4
+Waiting hardly ever calls itself waiting.|0.4
+It borrows a better word.|0.8
+Something that sounds good on a Sunday.|0.8
+Most days, it goes by patience.|0.4
+I'm giving it time.|0.4
+Sometimes that's true.|0.3
+Some things do need a minute.|0.5
+A fence post needs a minute to set.|0.5
+But a lot of the time|0.3
+a man's asking the calendar to do a job only he can do.|0.5
+The calendar can't apologize to your sister.|0.4
+It just turns the page.|0.9
+And your sister's still sitting on the other side of it.|0.9
+Or it goes by peace.|0.4
+That one sounds almost holy.|0.4
+I don't want to stir anything up.|0.4
+So the house stays calm.|0.3
+Calm, and a little lonely.|0.5
+[dry] Like a waiting room with nice magazines.|ROOM_CHUCKLE
+If you're married, you know this one.|0.35
+There's a thing she brought up once.|0.3
+Maybe twice.|0.3
+And you nodded, and you said, yeah, we should talk about that.|0.5
+That was, uh, three Christmases ago.|0.5
+She hasn't brought it up since.|0.4
+Not because it got fixed.|0.3
+Because she figured out where it goes when she does.|0.5
+You're calling that peace.|0.4
+She's calling it something else.|1.0
+I mean, peace is when a thing gets settled.|0.4
+This is when a thing gets shelved.|1.0
+Listen.|0.3
+Some of you went quiet for a reason.|0.3
+Maybe you grew up in a loud house,|0.3
+where the next thing said out loud was always the wrong thing.|0.4
+You spoke up once, and it went bad,|0.3
+and quiet started to feel like the smart play.|0.5
+I'm not gonna bark at you for that.|0.4
+It kept you safe once. I get that.|0.5
+But if the danger's gone and the quiet stayed,|0.3
+that's not wisdom anymore.|0.4
+It's just a habit with good manners.|1.2
+# SECTION: Getting Ready
+Sometimes it goes by humility.|0.4
+Who am I to bring it up?|0.5
+I'm not the expert.|0.3
+Somebody else is closer to it.|0.5
+You're her husband. That's who.|0.4
+You're his dad.|0.3
+You're the guy who saw it.|0.8
+If you saw it, you're already in it.|1.0
+And sometimes it goes by getting ready.|0.4
+This one's mine.|0.5
+I researched kayaks for about two years.|0.4
+Read the reviews. Watched the videos.|0.3
+Knew the weight of every model down to the ounce.|0.5
+I own zero kayaks.|0.4
+[dry] I have never been more prepared to not be on a lake.|ROOM_CHUCKLE
+I could tell you which paddle to buy.|0.3
+I just couldn't tell you what the water feels like.|0.8
+A man can get really good at studying a thing he never does.|0.6
+And that's fine for kayaks.|0.3
+It's not fine for your marriage.|0.4
+Or your kid.|0.3
+Or the friend who's drinking.|0.8
+I know guys who've read three books on being a dad|0.3
+and haven't asked their kid a real question since spring.|1.0
+Some guys do this with church, too.|0.4
+They're gonna come back.|0.3
+They're looking at, uh, a few places.|0.4
+They've been looking at a few places for three years.|1.0
+If you're young, or you're single,|0.3
+there's a special version of this one.|0.4
+It sounds like, once I.|0.5
+Once I get the better job.|0.3
+Once I find the right girl.|0.3
+Once I've got a little money saved.|0.3
+Once I've got my, uh, head on straight.|0.5
+And somehow that sentence never gets to the second half.|0.8
+I mean, nobody's coming with a permission slip|0.3
+that says you can start your own life now.|0.5
+You started it a while ago.|0.4
+And the man you'll be in ten years is getting built right now,|0.3
+on the days you keep calling practice.|0.6
+It's already running.|1.2
+# SECTION: How Long
+And then there's the one with the best excuse of all.|0.4
+Faith.|0.5
+I'm waiting on the Lord.|0.9
+Look.|0.3
+Scripture tells us to wait on the Lord, and I won't take that from you.|0.5
+It's all over the Psalms.|0.4
+Some of you honestly don't know the next step.|0.4
+That's real.|0.4
+Ask Him. Ask a brother.|0.3
+Stay on your feet while you ask.|1.0
+But there's another kind.|0.4
+Where the next step is sitting right there,|0.3
+and we pin God's name on the delay.|0.9
+That's a heavy name to pin on something.|0.4
+He never signed it.|0.9
+Joshua eighteen, verse three.|0.6
+So Joshua said to the Israelites:|0.3
+How long will you wait|0.3
+before you begin to take possession of the land|0.3
+that the Lord, the God of your ancestors,|0.3
+has given you?|1.2
+Hear that last part.|0.4
+Has given you.|0.5
+The land was already theirs.|0.4
+God had done his part.|0.4
+The promising part. The going-ahead part.|0.3
+All of it.|0.4
+They were camped out waiting to feel like it.|0.9
+Not waiting on God.|0.3
+Waiting on themselves.|0.9
+Sound familiar?|0.9
+So here's a test, and it isn't clever.|0.4
+You can do it in the truck.|0.4
+When you say you're waiting on God,|0.3
+ask whether some piece of it already has your name on it.|0.5
+If it does, do that piece.|0.5
+The piece you can see.|0.3
+Not the whole map.|0.5
+You can trust Him for the rain|0.3
+and still put the seed in the ground.|0.9
+And ask yourself Joshua's question.|0.4
+How long.|0.5
+Not a mood. A number.|0.4
+Months. Years.|0.5
+I did this with the tile, by the way.|0.3
+Eleven months.|0.4
+For tile.|0.4
+A thing I could've finished in a weekend.|0.4
+I had to go dig up the, uh, order confirmation.|0.9
+Be honest, because rounding down is just one more way to wait.|0.5
+Fair?|1.2
+# SECTION: The Shelf
+I didn't see this next part coming.|0.4
+The people near you learn your wait.|0.4
+Even if you never say a word about it.|0.8
+My daughter asked me to put a shelf up in her room.|0.4
+Simple job.|0.3
+Two brackets, one board.|0.4
+I've hung heavier things with worse tools.|0.4
+I said, this weekend, kiddo.|0.4
+I said it a few weekends in a row.|0.3
+Well, more than a few.|0.8
+One morning my phone buzzes.|0.4
+Middle of a meeting.|0.4
+It's a calendar invite.|0.4
+From my own kid.|0.4
+Subject line. Dad, the shelf.|0.5
+Saturday, ten a.m.|0.4
+[dry] She even set a reminder.|ROOM_CHUCKLE
+Fifteen minutes before.|0.5
+I laughed. And then I didn't.|0.5
+Because she's twelve years old,|0.3
+and she'd already figured out|0.3
+that asking me wasn't enough.|0.4
+She had to manage me.|0.9
+And she's good at it.|0.3
+[dry] She's better at it than my boss.|0.8
+That's what a wait does to the people around you.|0.4
+They start guessing.|0.3
+They're quiet about it.|0.3
+Is he mad? Is he tired?|0.3
+Does he even care about this?|0.5
+And the answer is yes, I did care.|0.3
+I just cared from a distance.|0.8
+And after a while they quit guessing|0.3
+and just build their life around the hole where you should be.|0.9
+Kids do it. Wives do it.|0.3
+Friends do it fastest.|0.4
+A friend who can't reach you just, uh, stops trying and calls it being busy too.|0.9
+I put the shelf up that Saturday.|0.4
+Ten a.m.|0.3
+She stood in the doorway the whole time,|0.3
+handing me screws like a surgical nurse.|0.6
+It took twenty minutes.|0.5
+It's— it's twenty minutes.|0.5
+And the shelf wasn't really the point.|0.4
+She didn't need a shelf that bad.|0.4
+She needed to know that when she asked, I'd move.|0.8
+That's what I'd been protecting for a month.|1.2
+# SECTION: Curtis
+Let me tell you about a man I'll call Curtis.|0.45
+Curtis coached youth baseball for close to twenty years.|0.4
+If you had a kid in that town,|0.3
+Curtis probably taught him to quit flinching at a fastball.|0.5
+Good man. Honest man.|0.3
+Showed up to every practice with a bucket of balls and a thermos.|0.9
+A few years before I met him,|0.3
+his wife asked if they could go see a counselor.|0.4
+Nothing was on fire.|0.3
+She just felt like they'd turned into roommates.|0.3
+Nice roommates.|0.8
+Curtis said, sure.|0.3
+After the season.|0.6
+And he meant it.|0.9
+Then fall ball started.|0.3
+Then a travel team needed a coach.|0.3
+Then spring came back around, the way it does.|0.6
+Every time she asked, he had a real answer.|0.4
+The kids needed him.|0.3
+And they did.|0.9
+He told me the worst day wasn't a fight.|0.4
+The worst day was the day she quit asking.|0.6
+He came home one night, and she'd— she'd moved her things into the guest room.|0.5
+No yelling.|0.3
+She just said, I'm tired of waiting on the season to be over.|1.2
+Curtis sat on that for a couple of days.|0.4
+He told me he kept waiting to feel ready.|0.4
+Like there'd be a morning he'd wake up|0.3
+knowing exactly what to say.|0.5
+That morning never showed up.|0.8
+What showed up was a Thursday.|0.4
+He got to the field early, like always.|0.3
+Sat down in the dugout with his phone in his hand.|0.5
+And he called the counselor's office.|0.4
+Ball bag at his feet.|0.8
+He said his hands were sweating so bad|0.3
+he almost dropped the phone in the dirt.|0.6
+The lady on the line said, we've got Monday at four.|0.4
+He said, I've got practice.|0.5
+And then he heard himself.|0.6
+He said, no. We'll be there.|0.9
+He told his wife that night.|0.3
+She didn't cry. She didn't hug him.|0.4
+She just said, okay.|0.5
+That was it.|0.9
+The first appointment was, his word, awful.|0.4
+Long silences.|0.3
+He said he'd rather take a line drive off the shin.|0.6
+But they went back.|0.3
+And they kept going back.|0.9
+About a year in, she told him something he wrote down.|0.4
+She said, I quit waiting on you a long time ago.|0.5
+I'm glad you came anyway.|1.3
+# SECTION: Ready Comes Second
+Stay with me here, because I don't want you to miss it.|0.4
+Curtis wasn't short on love.|0.4
+He was short on the first move.|0.5
+And he'd been calling that shortage by a nice name.|0.4
+The kids need me.|0.9
+He waited to feel ready,|0.3
+and ready never came first.|0.4
+It doesn't.|0.5
+Ready shows up after you move.|0.4
+Usually a while after.|0.4
+Sometimes a year after.|0.9
+And late still counted.|0.4
+I want the guys who feel late to hear that.|0.4
+Late isn't the same thing as too late.|0.5
+Curtis made that call three years behind.|0.4
+It still mattered.|0.9
+And here's the other part.|0.4
+The call took four minutes.|0.5
+Three years of waiting,|0.3
+and the move itself was four minutes on a dugout bench.|0.8
+Most of what you're waiting on is like that.|0.4
+The dread is huge.|0.3
+The move is small.|0.5
+It's, what's the word, it's lopsided.|0.5
+We just, you know, never measure the move.|0.4
+We only measure the dread.|1.2
+James doesn't give us a soft place to land on this.|0.4
+James four, verse seventeen.|0.6
+If anyone, then, knows the good they ought to do|0.3
+and doesn't do it, it is sin for them.|1.2
+That's a hard verse.|0.4
+It takes away the middle.|0.5
+We like to think there's a middle.|0.3
+Not doing the wrong thing,|0.3
+not doing the right thing,|0.3
+just sort of, uh, holding.|0.6
+James says there isn't one.|0.4
+If you know it, and you're sitting on it,|0.3
+God has a word for that.|0.4
+And the word isn't careful.|0.9
+So here's what we do with it.|0.4
+Name the thing small enough that a morning could hold it.|0.4
+Your whole marriage is too big for a Thursday.|0.4
+A four-minute phone call isn't.|0.6
+Then find the smallest move that's still a real move.|0.4
+Pulling up the number isn't it.|0.3
+Hitting call is.|0.6
+And do it before noon.|0.4
+I know myself.|0.3
+By about three in the afternoon,|0.3
+my excuses have had all day to get dressed.|0.5
+They sound very responsible by then.|0.4
+Right?|0.8
+And expect it to feel wrong.|0.4
+You've practiced waiting for years.|0.3
+The first real move is gonna feel like you cut in line.|0.5
+You didn't.|0.4
+You just finally took your turn.|1.2
+# SECTION: Every House
+Okay. The same wait shows up in every kind of house.|0.4
+It just changes its name at the door.|0.6
+In a young man's apartment, it's called someday.|0.4
+Someday's a busy guy.|0.3
+He's never home.|0.6
+With a new baby, it's called when things settle down.|0.4
+They won't. I checked.|0.6
+With a big career, it's called next quarter.|0.4
+And next quarter has a next quarter.|0.6
+For the guy who's worn out at church, it's called let somebody else.|0.4
+There's always a somebody else.|0.3
+Until one day there isn't.|0.8
+After a divorce, it's called when I'm not so angry.|0.6
+Some of you are still waiting to feel fair about it.|0.4
+You might wait a long time.|0.6
+And I'll say this one gently.|0.3
+If you're hurting, go slow.|0.3
+One small true thing is plenty.|0.4
+A text. A coffee.|0.3
+Frozen isn't the same as healed,|0.3
+but you don't have to thaw all at once.|0.9
+For the older men, it's called nobody asked me.|0.4
+The job's done. The kids are grown.|0.3
+And you're waiting on somebody to invite you to matter.|0.5
+They're not going to.|0.3
+Not because you don't matter.|0.3
+They just don't think to.|0.4
+Younger men don't know how to knock.|0.5
+So go find one.|0.3
+Ask him how he's actually doing,|0.3
+and then, uh, stay for the answer.|1.0
+I know a man in his seventies who got tired of waiting to be asked.|0.4
+He just started showing up early to set out the chairs.|0.4
+Within a month, three young guys were showing up early too.|0.4
+They didn't come for the chairs.|1.0
+Different houses.|0.3
+Same wait.|0.6
+And I'll tell you who's got every right to wait on you.|0.4
+Your Father.|0.5
+He's the only one in the house who's allowed to.|0.4
+And He's been more patient than any of us deserve.|1.2
+# SECTION: Off the Table
+Let me bring this in.|0.4
+If you only hold on to one thing, hold on to this.|0.4
+Waiting almost always wears a nicer name.|0.4
+Patience. Peace. Humility. Getting ready. Even faith.|0.5
+And under the nice name there's something you already know is yours,|0.3
+and you haven't touched it.|1.0
+You could find it with the lights off.|1.0
+We've been circling four marks.|0.3
+A man who won't let his life idle.|0.3
+Who shoulders his own load.|0.3
+Who walks into the hard thing ahead of the people he loves.|0.3
+Who's content to be paid by God.|0.6
+Today was the first one.|0.4
+A steadfast man stops waiting.|0.5
+And it's the one the other three get stuck behind.|1.0
+What I want you walking out with isn't guilt.|0.4
+Guilt is heavy, and it doesn't move anything.|0.5
+It just sits there with you.|0.5
+I want you walking out with one name and one move.|0.4
+Small enough to do before lunch.|1.0
+Not a new you.|0.3
+Just one thing you quit walking past.|1.0
+The tile's coming off the table this Saturday, by the way.|0.4
+My wife has heard that before.|0.4
+More than once.|0.3
+So now I've got a room full of witnesses.|1.0
+[warmly] Let me pray for us, and then the rest of this hour belongs to you.|1.0
+Father, you heard every name that went through every head in here.|0.4
+You know how long.|0.5
+Some of us have waited so long it feels like furniture.|0.5
+Give us four minutes of courage.|0.3
+On a real day, before lunch.|0.3
+Give us the first move before we feel ready,|0.3
+and meet us on the other side of it.|0.5
+And if a man in here isn't sure about you yet,|0.3
+be patient with him the way you've been patient with us.|0.5
+And let him see you're worth moving toward.|0.5
+Amen.|1.2
+# SECTION: Your Table
+Your workbook has three questions for this part.|0.4
+You'll work them with the men around you, not with me.|0.8
+I'll be around, but I'm not gonna hover.|0.8
+The first one is simple, and it isn't easy.|0.4
+What's the one thing you've been going to get to the longest?|0.4
+And put a number on how long.|0.9
+Whatever's true, not whatever sounds better.|0.9
+The second one is about the people near you.|0.4
+Who's guessing right now, because you won't move?|0.4
+Say the name at the table.|0.3
+Not the whole story. Just the name.|0.9
+And the third one is the one that matters Monday morning.|0.4
+What's the smallest real move you can make on it before noon?|0.4
+Not the whole conversation.|0.3
+The first sentence. The first call.|1.0
+When a man at your table says his number out loud,|0.3
+don't flinch, and don't fix it.|0.4
+And don't top it with your own.|0.4
+He just did the hard part.|0.9
+You don't have to agree it's a big deal.|0.3
+You just have to hear it.|0.9
+If you're working through this on your own,|0.3
+same three questions.|0.4
+Write them out. Don't just think them.|0.4
+Then text one man your move, and ask him to check on you.|1.0
+Do it before you pull out of the parking lot.|0.4
+The drive home is where good intentions go to take a nap.|1.0
+In the back of this part there's a line to copy out in your own hand.|0.5
+Where are you? He already knows. Answer Him on your feet.|1.0
+Put it where you'll see it before noon.|0.4
+The bathroom mirror works.|0.4
+Unless your bathroom's still waiting on tile.|1.0
+Alright. That's me done talking.|0.4
+Chairs up. Find your men.|0.5
+Pull them in close.|0.5
+And at every table,|0.3
+somebody be the first to say his number.|1.4
+

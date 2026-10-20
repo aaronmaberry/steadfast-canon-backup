@@ -13,11 +13,11 @@ Wes Hart
 
 **One job:** Name which of the four is faintest on you right now, in a full sentence, and why.
 
-**Pitfall:** Do not lecture the book back. Do not unpack passivity, responsibility, courage, or reward tonight. Do not improve the line. Get the faint mark named and the four on a card. A mark is what he does over and over, not what he feels.
+**Pitfall:** Do not lecture the book back. Do not unpack the wait, the weight, going first, or God's pay tonight. Do not improve the line. Get the faint mark named and the four on a card. A mark is what he does over and over, not what he feels.
 
 **Time:** about an hour. Church, small group, or a man alone.
 
-A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
 Say it with them. Do not swap a word.
 

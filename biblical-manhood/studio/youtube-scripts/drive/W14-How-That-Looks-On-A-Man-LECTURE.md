@@ -32,9 +32,9 @@ You have a face that works in the foyer. It asks about the sermon. It finds the 
 
 [Slide: the four marks]
 
-A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
-Write it down. Today the marks confront the shapes that invert them while the foyer still claps. Reject passivity that stays on the roof. Accept responsibility that ends at the period. Lead out of the trees. Quit living for the next hour as your reward.
+Write it down. Today the marks confront the shapes that invert them while the foyer still claps. Stop the waiting that stays on the roof. Pick up the weight and end at the period. Lead out of the trees. Quit living for the next hour as your reward.
 
 ---
 
@@ -68,7 +68,7 @@ In the spring, at the time when kings go off to war, David sent Joab out with th
 
 Three observations. Take them down.
 
-First. Nobody would have called staying home a sin. He had earned a rest. Man with nothing in his hands, walking the roof in the evening. He sees her. Asks about her. Hears she is married. Sends for her anyway. Every mark inverted in a single afternoon. Did not reject passivity; drifting since the army left. Did not accept responsibility; war to Joab, conscience to appetite. Did not lead courageously; used power, the coward's substitute, and took what a woman could not refuse from a king. Not living for God's reward. Living for the next hour.
+First. Nobody would have called staying home a sin. He had earned a rest. Man with nothing in his hands, walking the roof in the evening. He sees her. Asks about her. Hears she is married. Sends for her anyway. Every mark inverted in a single afternoon. Did not stop waiting; drifting since the army left. Did not pick up the weight; war to Joab, conscience to appetite. Did not go first; used power, the coward's substitute, and took what a woman could not refuse from a king. Not working for God's pay. Living for the next hour.
 
 Second. The locked drawer. She is pregnant. He calls her husband home, gets him drunk, tries to pass the child off. Uriah will not; too honorable to sleep in a bed while his brothers are in the field. David sends him back with a sealed order. Uriah dies. David marries the widow. Everything covered. Second Samuel eleven, twenty seven: the thing David had done displeased the LORD. Kingdom kept running. Wars kept getting won. Nobody knew. Competence is not righteousness. Psalm thirty two is that year from the inside: bones wasting, hand heavy. That is what a locked drawer does even when the drawer is working.
 
@@ -85,7 +85,7 @@ Four movements. Let's go.
 **MAX:**
 Movement one. The seven shapes. Find yours.
 
-Locked drawer. Everything bad that ever happens to a man happens in that room. Fortress. Looks like accepting responsibility; built to keep out exactly what the man needs. Scoreboard. Saul had this; it drove him to try to kill the young man who had just won a battle for him. A man always measuring can never be glad for another man's win and can never rest in his own. Podium. Jesus hated it more than any other kind. Already paid in full from people who do not really know them. Throne. Colossians three, nineteen: Husbands, love your wives and do not be harsh with them. God saw it coming. Fence in a single sentence. Contempt, the throne's quieter brother. Recliner. On a man it does not look like laziness. It looks like a fellow who has earned his evening, and it costs his house the rafters.
+Locked drawer. Everything bad that ever happens to a man happens in that room. Fortress. Looks like picking up the weight; built to keep out exactly what the man needs. Scoreboard. Saul had this; it drove him to try to kill the young man who had just won a battle for him. A man always measuring can never be glad for another man's win and can never rest in his own. Podium. Jesus hated it more than any other kind. Already paid in full from people who do not really know them. Throne. Colossians three, nineteen: Husbands, love your wives and do not be harsh with them. God saw it coming. Fence in a single sentence. Contempt, the throne's quieter brother. Recliner. On a man it does not look like laziness. It looks like a fellow who has earned his evening, and it costs his house the rafters.
 
 I have worn more than one. The fortress was my favorite work shirt for years. Ask how the hospital job went and I was fine. Ask what I needed and I needed nothing. Crews leaned on me. Home got the weather. I called it strength. It was a corner post with no foundation, and the people nearest me paid for the lean.
 
@@ -100,7 +100,7 @@ Movement one, summarized. Write this down: name the shape before you call yourse
 **MAX:**
 Movement two. David on the roof, and why competence lied.
 
-If it could take the best man of his generation it can take you. It starts with passivity that does not look like sin. Earned rest. Empty hands. Roof. Appetite. Power instead of courage. Next hour instead of God's reward. Then the drawer works for months. Kingdom runs. Surfaces clean. Bones waste anyway.
+If it could take the best man of his generation it can take you. It starts with passivity that does not look like sin. Earned rest. Empty hands. Roof. Appetite. Power instead of courage. Next hour instead of God's pay. Then the drawer works for months. Kingdom runs. Surfaces clean. Bones waste anyway.
 
 I watched a superintendent run three sites clean for a year while his marriage rotted in a locked phone and a second set of books. Early closes. Owner love. Kids reading his truck the way Uriah's brothers never got to read a king coming home honest. Nobody at church knew. Competence is not righteousness. A man can run a kingdom, a church, a household, while he rots.
 
@@ -148,7 +148,7 @@ Before application, hold the chapter together.
 
 Seven shapes. Roof. Drawer that works. Nathan's four words. Five words back. Tests. No drawer Man. Foyer and cab. Competence lying. Bones wasting. Standing restored when the drawer opens.
 
-The four marks inverted and restored. Passivity on the roof becomes Rise later in another garden, but this week it becomes get off the recliner and out of the fortress. Responsibility refused becomes I have sinned, period. Coward power becomes courageous lead into the light. Next-hour reward becomes God's reward and a man with nothing to defend.
+The four marks inverted and restored. Passivity on the roof becomes Rise later in another garden, but this week it becomes get off the recliner and out of the fortress. Responsibility refused becomes I have sinned, period. Coward power becomes courageous lead into the light. Next-hour reward becomes God's pay and a man with nothing to defend.
 
 Seats, blunt. Young man: your podium is already training you. Single man: passwords with a brother this week. Married man: wife test without defense. Father: same-night apology for harshness. Divorced seat: scoreboard down. Older man: say what you need. High performer: your kingdom can run while you rot. Wounded man: the fortress is not healing; it is hiding.
 
@@ -189,7 +189,7 @@ Nathan's job description for the brothers in this room: tell a story if you have
 
 Five words practice until they are muscle. I have sinned against the LORD. No but. No context first. Context can come later as honesty, not as defense. The period is the courage. Forgiveness meets men at periods, not at explanations.
 
-Tests as a week plan, not as theory. Pick two. Drawer and wife, or no and podium, or throne and brother. Write the day you will ask. Write the thank you you will say even if the answer stings. Listening without defending is accepting responsibility in real time. Thanking is leading courageously when your pride wants a rebuttal.
+Tests as a week plan, not as theory. Pick two. Drawer and wife, or no and podium, or throne and brother. Write the day you will ask. Write the thank you you will say even if the answer stings. Listening without defending is picking up the weight in real time. Thanking is going first when your pride wants a rebuttal.
 
 Single seat again. Passwords. Unwatched hours. Podium at church. Kill the drawer while it is still a habit of hiding thoughts, before it holds a second life. Married seat: wife test this week, quiet moment, whole answer, thank you. Baby house: same-night apology for harshness, every time, no earned rest excuse. Divorced seat: scoreboard is theft; put it down; Father who sees in secret is not scoring you against her table. Older seat: fortress is expensive; answer what do you need from us even if the answer is small.
 
@@ -197,7 +197,7 @@ Jesus with no drawer is not an unreachable aesthetic. It is the destination of c
 
 I want the high performer to hear that your early closes and clean inspections can coexist with a rotting drawer. I want the wounded man to hear that the fortress is not the healing you think it is. I want the young father to hear that exhaustion is not a license for the throne. I want the older man to hear that needing nothing has cost the table more than he has admitted.
 
-Four marks on the shapes. Reject passivity: get off the roof and the recliner. Accept responsibility: five words, period. Lead courageously: let Nathan speak and be Nathan. Expect God's reward: quit living for the next hour and the foyer clap; the Father who sees in secret is the audience that frees you from the podium.
+Four marks on the shapes. Stop waiting: get off the roof and the recliner. Pick up the weight: five words, period. Go first: let Nathan speak and be Nathan. Work for God's pay: quit living for the next hour and the foyer clap; the Father who sees in secret is the audience that frees you from the podium.
 
 If you leave with a circled shape and no test date, you took notes and skipped the glass. If you leave with a thank you planned for someone who has been watching, you started opening the drawer. Next week a plumb line will ask what you steer by. Bring a named shape so the string has a wall to touch.
 
@@ -260,7 +260,7 @@ The four marks, once more.
 
 [Slide: the four marks]
 
-A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
 Session fifteen next week: No North Star.
 

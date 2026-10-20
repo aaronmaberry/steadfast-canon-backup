@@ -1,0 +1,643 @@
+# SECTION: Opening
+[warmly] Welcome back.|0.6
+Grab a seat and get settled.|0.9
+A few of you brought your own coffee from home.|0.4
+[dry] Smart.|0.3
+You've had church coffee before.|ROOM_CHUCKLE
+If this is your first time, you're in the right room.|0.45
+You didn't miss anything you can't catch up on.|0.5
+Sit by somebody you don't know yet.|1.0
+I see a few of you went straight for the back row again.|0.4
+That's fine.|0.3
+I sat back there for about ten years.|0.5
+I know every excuse you're using.|0.9
+Last time we said something plain.|0.5
+You are not crazy.|0.7
+The orders you were handed fight each other,|0.4
+and wanting one clear word about what a man is for|0.35
+is a good want.|1.0
+So today I want to put some handles on it.|0.5
+Well, four handles.|0.6
+And then we're gonna grab one of them|0.35
+and hold on longer than you'd expect.|1.1
+Here's what I'm not gonna do.|0.45
+I'm not gonna give you twelve things to fix|0.35
+before you make it back to your car.|0.6
+You've had those lists.|0.4
+I've written those lists.|0.4
+I've, uh, lost most of those lists.|0.8
+A list feels great for about a day.|0.45
+Then Tuesday shows up,|0.35
+and the list is on the counter under the mail.|1.0
+I found one of mine the other day.|0.4
+Seven things.|0.35
+I'd done one of them.|0.5
+And the one I'd done was buy stamps.|1.0
+I didn't even mail anything.|0.4
+I just owned stamps now.|0.9
+So no list.|0.4
+Just four handles,|0.3
+and one of them,|0.35
+held long enough that it gets into your hands.|0.6
+I'd rather you walk out with one thing you actually do|0.35
+than ten things you agree with.|1.0
+But before the four, I need one word.|0.45
+Because the whole thing hangs on it.|0.6
+If you miss the word,|0.3
+the four turn into a poster.|0.5
+And you've got enough posters.|0.9
+The word is mark.|1.3
+# SECTION: The Pantry Door
+There's a doorframe in our house|0.35
+nobody's allowed to paint.|0.7
+It's the pantry door.|0.4
+The inside edge.|0.6
+Every birthday since my daughter could stand,|0.35
+she's backed up against that wood,|0.3
+and I've laid a book flat on her head|0.35
+and made a pencil line.|0.6
+Her name. The date.|0.4
+A little crooked some years.|0.9
+Now, here's what's strange about those lines.|0.45
+You never see her grow on a Tuesday.|0.5
+Not once.|0.4
+You see her every single day,|0.3
+and every single day she looks like yesterday.|0.8
+Then you open the pantry for the peanut butter,|0.35
+and there it is.|0.4
+Six inches you never watched happen.|1.0
+Her grandparents see it.|0.35
+They come twice a year and say,|0.3
+look how tall she's gotten.|0.5
+And you want to say, has she?|0.4
+I've been standing right here.|1.0
+That's how a mark works on a man too.|0.4
+The people closest to it|0.3
+are the last ones to notice.|0.9
+One year there's a note next to the line,|0.35
+in her handwriting.|0.4
+It says, Dad pushed the book down.|0.6
+[dry] I did not push the book down.|0.4
+She was on her tiptoes.|ROOM_CHUCKLE
+That's what I mean by a mark.|0.5
+It's not what you feel on a good morning.|0.45
+It's not a title somebody hands you at a banquet.|0.5
+A mark is what's left on a man|0.3
+by what he does over and over.|1.0
+Most days it doesn't look like anything.|0.45
+You'd swear nothing's happening.|0.5
+And then somebody who lives with you|0.3
+opens a door and sees six inches.|0.8
+Or six inches of the wrong thing.|0.6
+A man who's short with his kids at supper|0.3
+doesn't feel like he's making a mark.|0.45
+It's one bad night.|0.4
+Then it's a lot of one bad nights.|0.6
+His kids are holding the pencil.|0.9
+It cuts both ways, fair?|1.2
+# SECTION: Four Handles
+So a real man has marks.|0.45
+Things you can see on him,|0.3
+because he did them enough times|0.35
+that they quit being a mood.|1.0
+There are four I keep coming back to.|0.45
+Men have been handing them to each other for a long time,|0.4
+because they hold up on an ordinary day.|0.6
+I've laid them over my own life for years.|0.45
+They're not always kind to me.|0.4
+They've always been right.|1.0
+Here's how I'd say them across a kitchen table.|0.6
+A real man doesn't sit on his hands|0.35
+when something's his to do.|0.6
+He picks up what's his,|0.3
+even when somebody else dropped it.|0.6
+He goes first,|0.3
+scared or not.|0.6
+And he's working for God's pay,|0.35
+not the room's.|1.5
+Four marks.|0.4
+Every one of them is something you do.|0.6
+Not one of them is a feeling you wait for.|0.5
+You can't get a mark by agreeing with me.|0.45
+You get one by doing it on a day you don't want to.|1.0
+The first three will each get a day of their own.|0.5
+I'm not gonna crack all four open today|0.35
+and send you home with four sermons and no practice.|0.8
+Today I want to stay with one.|0.45
+The one men skip.|0.6
+It's the last one on the list,|0.35
+and a lot of us read it like the fine print.|0.5
+You know, the part you skim to get to the signature.|1.0
+Stay with me, because this part surprised me.|0.45
+A decent man can do the first three|0.35
+for a long time without God in it at all.|0.6
+Plenty of men do.|0.4
+They move. They carry the load. They go first.|0.7
+I respect every one of them.|0.8
+But the fourth mark is where you find out|0.35
+who a man is actually working for.|0.7
+And, uh, most of us have never really asked.|1.3
+# SECTION: He Rewards
+Hebrews eleven, verse six.|0.6
+And without faith it is impossible to please God,|0.45
+because anyone who comes to him|0.35
+must believe that he exists|0.45
+and that he rewards those who earnestly seek him.|1.5
+Two things.|0.4
+That he is.|0.4
+And that he rewards.|0.9
+Most men in a room like this|0.3
+would sign the first one without blinking.|0.5
+God exists. Sure.|0.6
+It's— it's the second one we get funny about.|0.5
+Reward sounds a little, I don't know,|0.35
+mercenary.|0.4
+Like you're only good for the paycheck.|0.5
+Like the kid who asks what he gets|0.3
+before he'll take out the trash.|0.8
+But the verse doesn't blush.|0.45
+It says a man who comes to God|0.3
+has to believe God pays.|0.6
+Not maybe.|0.3
+Must.|1.0
+And here's what that does to a regular day.|0.45
+If you believe God pays,|0.3
+you can do a thing that costs you|0.35
+and not need the room to settle up.|1.0
+Listen.|0.4
+Every man in here works for some kind of pay, right?|0.5
+Every one of us.|0.4
+Nobody does the hard thing over and over|0.35
+for nothing at all.|0.8
+So the question was never,|0.3
+do you want a reward.|0.5
+The question is who you're expecting it from.|1.0
+And if it isn't God,|0.3
+you'll go collect it somewhere else.|0.6
+The guy you report to.|0.35
+A good review.|0.3
+The group text.|0.35
+A nod from your brother-in-law.|0.9
+Those aren't evil.|0.4
+Thanks is a gift.|0.45
+It just makes a lousy wage.|0.9
+Because when thanks is your wage,|0.35
+you'll quit the day it stops coming.|0.6
+And it stops.|0.4
+It always stops.|0.5
+People get busy.|0.35
+They get used to you.|0.5
+The good you do turns into furniture.|0.6
+Nobody thanks the couch.|0.9
+So a man needs a pay|0.3
+that doesn't run out.|1.3
+# SECTION: The Desk
+I'll tell on myself.|0.45
+My daughter needed a desk a while back.|0.4
+The flat-pack kind.|0.35
+About a thousand pieces and one tiny wrench.|0.6
+I built it after she went to bed.|0.4
+Took me till almost one in the morning.|0.5
+Put a lamp on it.|0.3
+Squared up the chair.|0.3
+Even hid the leftover screws,|0.35
+because you know there are always leftover screws.|1.0
+Next morning I'm in the kitchen,|0.3
+doing a thing I'm not proud of.|0.5
+I'm hovering.|0.6
+Coffee in my hand,|0.3
+standing right where I can see her door.|0.5
+Waiting.|0.6
+I refilled that coffee, uh, twice.|0.4
+I didn't want coffee.|0.4
+I wanted a reason to be standing there.|1.0
+My wife walked through|0.3
+and read the whole situation in about a second.|0.5
+She patted my arm.|0.4
+Didn't say a word.|0.9
+Then my daughter comes out,|0.3
+walks straight past the desk,|0.35
+and asks if we have any more of the good cereal.|1.0
+And I felt this little drop.|0.45
+Grown man.|0.3
+Pouting over particleboard.|0.7
+I actually said, out loud, to nobody,|0.35
+huh, looks like somebody's got a new desk.|1.0
+Now, she did thank me.|0.4
+Later that day, sweet as could be.|0.6
+But I'd already learned something I didn't want to know.|0.5
+I hadn't built that desk for her.|0.45
+Not all the way.|0.5
+Part of me built it for the moment she'd see it.|0.6
+And when the moment didn't show up on time,|0.35
+I wanted a refund.|1.0
+How many of you have done some hovering?|0.4
+Fixed something, and then hung around|0.3
+waiting for somebody to find it?|0.5
+Go ahead.|ROOM_HANDS
+Yeah.|0.35
+That's a lot of hovering.|1.0
+That's a man working for the wrong pay.|0.5
+It looks exactly like a good dad.|0.5
+It just runs out a lot faster.|1.2
+# SECTION: Lonnie
+Let me tell you about a man named Lonnie.|0.5
+I sat in a group with him for years.|0.6
+Lonnie was not a talker.|0.4
+Big hands.|0.3
+Quiet voice.|0.4
+The kind of man who fixes your mower|0.3
+and won't let you pay him.|0.6
+He sat in the same corner every time.|0.35
+Said about four sentences a night,|0.35
+and every one of them was worth waiting for.|1.0
+Lonnie's dad got sick.|0.35
+Kidney trouble.|0.3
+He ended up on dialysis.|0.5
+Monday, Wednesday, Friday.|0.4
+Six in the morning.|0.7
+Lonnie drove him.|0.4
+Every one of those mornings,|0.3
+for a little over four years.|0.8
+Four hours in the chair each time.|0.4
+Lonnie'd go to work after,|0.3
+and make up the hours on the back end.|0.5
+His wife held the house together those mornings.|0.45
+He'd tell you that first.|1.0
+At first, people noticed.|0.4
+Folks at church asked how his dad was holding up.|0.45
+Somebody brought a casserole.|0.4
+A good one, he said.|0.3
+Chicken and rice.|0.5
+A couple of guys told him he was a good son.|0.8
+And that helps.|0.4
+I'm not gonna pretend it doesn't.|1.0
+By the second year, nobody asked.|0.5
+Not because they were cold.|0.4
+It just stopped being news.|0.8
+And his dad wasn't an easy man.|0.45
+Never had been.|0.5
+He'd complain about the route.|0.35
+The radio station.|0.3
+The way Lonnie took the turn into the clinic lot.|0.7
+Four years of that.|0.4
+I don't think he heard thank you twice.|0.8
+Now, I want to be fair to his dad.|0.4
+The man was sick and scared and hooked to a machine.|0.6
+I'd probably complain about the turn too.|1.0
+One night in group, Lonnie said,|0.35
+it's not the driving.|0.5
+I can do the driving.|0.6
+I'm, uh, just the only one who knows I'm doing it.|1.4
+# SECTION: One Does
+Then he told us what happened next,|0.35
+and I've never forgotten it.|0.8
+One of those mornings,|0.3
+he got to the clinic early.|0.4
+Doors weren't open yet.|0.4
+His dad was dozing in the passenger seat.|0.5
+Engine running. Heater on.|0.5
+Still dark out.|0.6
+The lot lights were buzzing.|0.4
+A nurse was sitting in her car two spots over,|0.35
+eating a breakfast sandwich,|0.35
+waiting on the doors same as him.|0.9
+And Lonnie said he just started talking to God.|0.5
+Not a pretty prayer.|0.4
+He said, Lord, nobody knows I'm here.|0.7
+And right in the middle of that sentence,|0.35
+it hit him.|0.5
+That's not true.|0.5
+One does.|1.3
+He said he sat there till the lights came on inside.|0.45
+Didn't say anything else.|0.4
+Just knew it.|0.8
+He told us all that in maybe six sentences.|0.4
+Then he went quiet again,|0.35
+like he'd, uh, used up his words for the month.|1.0
+It didn't make the mornings shorter.|0.45
+His dad didn't get any sweeter.|0.4
+Nobody at church threw him a dinner.|0.8
+But something changed in that truck.|0.5
+He quit driving for a thank you|0.35
+he was never gonna get.|0.5
+He started driving for a Father|0.35
+who was already watching.|1.1
+His dad passed a while after that.|0.5
+At the service,|0.3
+nobody said a word about the driving.|0.5
+Not one person.|0.8
+I asked him about it later.|0.4
+I figured it'd sting.|0.5
+He just shrugged, and he said,|0.35
+Wes, I didn't need them to say it.|0.6
+It's already written down.|1.6
+Lonnie didn't get that mark by feeling holy.|0.5
+Most of those mornings he felt tired and a little mad.|0.6
+He got it by pulling into that lot|0.35
+something like six hundred times.|0.7
+That's a mark.|1.3
+# SECTION: Close the Door
+Matthew six, verse six.|0.6
+But when you pray, go into your room,|0.4
+close the door and pray to your Father,|0.4
+who is unseen.|0.5
+Then your Father,|0.35
+who sees what is done in secret,|0.45
+will reward you.|1.5
+Close the door.|0.6
+Jesus just assumes you've got a life behind a door.|0.5
+A part nobody claps for.|0.9
+And he doesn't treat that part like it's second string.|0.5
+He says that's where the Father is paying attention.|0.9
+Your Father sees.|0.4
+And your Father rewards.|0.5
+Same verse.|0.3
+Same breath.|1.0
+Look, the door is not a hiding place.|0.45
+Last time we talked about men who hide.|0.45
+This is different.|0.5
+Hiding is closing the door on what you did wrong.|0.45
+This is closing the door on what you did right,|0.4
+so nobody pays you for it but him.|1.1
+Okay, let's make this practical.|0.45
+Most of what makes a man|0.3
+happens behind some kind of door.|0.6
+A kitchen at five-thirty.|0.35
+The drive home, when you decide|0.3
+which version of you walks in the house.|0.5
+The apology nobody else knew you owed.|0.5
+The text you sent a man who's been quiet too long.|0.45
+The screen you didn't open.|1.0
+So I'm gonna ask you something,|0.35
+and I need you to not raise your hand.|0.6
+How many of you did something good this month|0.35
+that nobody knows about?|0.7
+Keep it down.|0.35
+You'll ruin it.|ROOM_CHUCKLE
+That's the fourth mark.|0.4
+Right there.|0.5
+The hand you just kept in your lap.|0.8
+Some of you are thinking,|0.3
+well, it wasn't that big a deal.|0.5
+It doesn't have to be big.|0.4
+It just has to be his.|1.0
+Behind the door is not the small part of your life.|0.5
+It might be the, uh, realest part.|0.6
+Your Father's been watching that part the whole time.|1.3
+# SECTION: The Receipt
+I'll be honest about my own.|0.45
+If you asked me which of the four|0.35
+is thinnest on me,|0.4
+it's this one.|1.0
+I'll— I'll do the good thing.|0.4
+I'm pretty reliable, actually.|0.5
+But then I check for the receipt.|0.8
+I mention it.|0.35
+Kind of sideways.|0.4
+I'll say, man, long day,|0.3
+had to run over and jump Jim's battery.|0.5
+Which is true.|0.35
+I just didn't need to say it.|0.5
+I'm fishing.|0.7
+And the worst part is,|0.3
+I usually catch something.|0.5
+Somebody says, man, that was good of you.|0.45
+And I feel great for about ten minutes.|1.0
+My wife has a look for it.|0.4
+It's not a mean look.|0.4
+It's the look you give a dog|0.3
+who brings you the same stick for the fourth time.|ROOM_CHUCKLE
+I've done it at church too.|0.4
+I've, uh, stacked chairs a little louder than I needed to.|0.5
+Clang.|0.3
+Anybody see this?|0.3
+Clang.|0.9
+That's the tell.|0.4
+If you need the good thing to be seen,|0.35
+you'll find a way to be seen doing it.|1.0
+And here's what I've figured out about fishing.|0.45
+Every time I cash the reward in early,|0.35
+at the kitchen table,|0.35
+I get the small one.|0.8
+I trade what the Father was keeping for me|0.35
+for a nod over supper.|0.9
+That's a bad trade.|0.4
+And I make it, you know, all the time.|1.0
+So when I say the fourth mark is faint on me,|0.35
+I don't mean I don't do good things.|0.5
+I mean I keep making sure|0.3
+I get paid down here.|0.9
+Maybe you're the same.|0.4
+Maybe yours is one of the others.|0.5
+Either way, there's a reason I'm telling you mine first.|0.5
+It's easier to be honest in a room|0.35
+when somebody else already went.|1.3
+# SECTION: The Proper Time
+Galatians six, verse nine.|0.6
+Let us not become weary in doing good,|0.45
+for at the proper time|0.35
+we will reap a harvest|0.4
+if we do not give up.|1.5
+Paul says weary like he's met you.|0.5
+He knows doing good gets old.|0.5
+Not bad.|0.3
+Old.|0.8
+The same drive.|0.3
+The same dishes.|0.3
+The same prayer for the same kid|0.3
+who doesn't seem to be listening.|0.8
+Paul's not scolding you for being tired.|0.4
+He's telling you tired isn't the end of the story.|1.0
+And notice what he doesn't say.|0.4
+He doesn't say you'll see the harvest right away.|0.5
+He says, at the proper time.|0.6
+Which means not your time.|0.5
+Which means sometimes, uh, not in this life at all.|1.1
+I've got a prayer like that.|0.4
+Same man in my family, same request, a long time now.|0.5
+Some mornings I say it|0.3
+and it feels like I'm talking to the ceiling.|0.6
+I say it anyway.|0.5
+That's not me being holy.|0.4
+That's me believing the proper time is his to pick.|1.0
+That's the pencil line on the pantry door.|0.45
+You don't see anything on a Tuesday.|0.5
+You'd swear nobody's growing.|0.6
+The proper time is when somebody opens the door.|0.8
+You with me?|1.0
+If we do not give up.|0.5
+That's the whole condition.|0.45
+Not if you do it perfect.|0.4
+Not if you feel it.|0.5
+If you don't quit.|1.1
+And here's why this one holds the others up.|0.45
+Every one of the other marks will cost you|0.35
+on a day when nobody says thank you.|0.6
+Moving when you'd rather wait.|0.35
+Picking up what's yours.|0.35
+Going first in a room that's gone quiet.|0.8
+Without the fourth mark,|0.3
+those are just good habits.|0.5
+And good habits quit when the pay stops.|0.9
+With it, you've got a reason to keep going|0.35
+that doesn't care who's watching.|1.3
+# SECTION: Every Chair
+Now, this lands different depending on your chair.|0.6
+If you're young,|0.3
+you're gonna do a lot of good|0.3
+that nobody older ever sees.|0.5
+Your boss won't.|0.35
+Your folks might not.|0.5
+Do it anyway.|0.4
+You're building a man nobody's met yet.|0.9
+If you're single,|0.3
+don't wait for somebody to share a house with|0.35
+before the hidden stuff counts.|0.5
+It counts now.|0.4
+An apartment has a door too.|0.9
+If you're a new dad,|0.3
+most of your best work happens at three in the morning,|0.4
+with nobody awake but you and a very small critic.|0.9
+If you're married,|0.3
+she doesn't owe you a parade for being her husband.|0.5
+And if she says thank you, take it.|0.4
+Just don't build the house on it.|0.5
+Love her like the Father's the one keeping score.|0.5
+Because he is.|0.9
+If you've been hurt,|0.3
+maybe nobody ever saw you.|0.45
+Not your dad.|0.3
+Not anybody.|0.7
+I'm not gonna rush past that.|0.45
+I'll just say it plain.|0.4
+Your Father has never once looked away from you.|0.6
+You're not invisible to him.|0.4
+You never were.|1.1
+If you're older,|0.3
+and it feels like the world quit handing you credit,|0.45
+that might be the best news you've had in a while.|0.6
+You finally get to do the work|0.3
+for the only one who was ever really paying.|0.5
+And somebody younger is watching how you handle that.|1.0
+And if the job's going great,|0.35
+listen close.|0.4
+You're getting paid a lot down here.|0.45
+Be careful it doesn't turn into the only pay you want.|0.6
+A strong year at work|0.3
+isn't the same thing as a faithful man.|0.9
+I've known men with both.|0.4
+I've known a few with, uh, only the first one.|0.5
+They were the loneliest guys at the cookout.|1.3
+# SECTION: Carry This
+Let me land it.|0.4
+And then I'll get out of your way.|0.8
+[warmly] Here's the one big idea.|0.5
+A mark is the thing you keep doing|0.3
+until people can see it on you.|0.6
+Not a feeling.|0.4
+Not a title.|1.0
+And the mark that keeps the others going|0.35
+is the one most of us skip right over.|0.5
+A steadfast man works for God's pay,|0.4
+not the room's.|1.1
+God exists.|0.4
+And he rewards.|0.6
+He sees what's done behind the door.|0.6
+And the harvest comes at the proper time,|0.35
+if you don't give up.|1.1
+What I hope you carry out of here|0.35
+isn't guilt for wanting to be thanked.|0.5
+We all want to be thanked.|0.4
+I mean, I hovered over a desk.|0.9
+I hope you walk out of here|0.3
+with a different place to send the bill.|1.1
+The late night.|0.3
+The early drive.|0.3
+The dishes.|0.4
+The good thing nobody saw.|0.6
+None of it was wasted.|0.45
+And none of it went unseen.|1.0
+Lonnie had it right.|0.45
+Somebody's keeping the record.|0.8
+I think about that a lot.|0.4
+Not a program.|0.3
+Not a toast at your retirement.|0.4
+Somebody better.|1.1
+So here's what I'm asking.|0.4
+Not all four marks.|0.4
+One.|0.5
+Find the one that's faintest on you,|0.35
+and hold that one for a while.|1.0
+If it's the fourth one, like me,|0.35
+start small.|0.4
+Do one good thing a day that you never mention.|0.5
+Not even sideways.|0.4
+Not at supper.|0.3
+Not in the group text.|0.8
+It'll feel strange.|0.4
+Like leaving money on the table.|0.6
+It isn't.|0.4
+It's putting it somewhere safe.|0.5
+Where nothing can, uh, get at it.|1.0
+So quit fishing for the receipt.|0.45
+Close the door.|0.4
+Do the good.|0.4
+And let your Father be the one who pays you.|1.3
+# SECTION: The Tables
+The tables are ready.|0.5
+Open your workbook and work this part together.|0.6
+Don't explain the chapter to each other.|0.45
+And don't talk a man out of his answer.|0.5
+Let it sit there a minute.|0.6
+Nobody at your table needs a good answer.|0.4
+They need your real one.|0.6
+And if the man next to you says something true,|0.35
+don't fix it.|0.4
+Just thank him.|0.4
+That kind of thanks is allowed.|1.0
+Three questions.|0.5
+First.|0.3
+Which of the four marks is faintest on you right now,|0.35
+and why?|0.6
+A full sentence.|0.35
+Not the one that makes you sound humble.|0.45
+The one that actually fits.|0.6
+If you picked the fourth one with me,|0.35
+pull up a chair.|0.4
+It's a big table.|0.9
+Second.|0.3
+Where would those four have to work,|0.35
+on an actual person,|0.35
+or they're only a hobby?|0.6
+Give it a name.|0.35
+A face.|0.4
+Your wife. Your roommate.|0.35
+The guy at work who gets under your skin.|0.6
+If they never have to work on a real human being,|0.35
+you don't have a life under it.|0.4
+You've got a line you like.|0.9
+Third.|0.3
+If a brother at your table|0.3
+named a different faint mark for you,|0.35
+would you look again?|0.6
+Let him— let him finish.|0.35
+Then answer.|1.0
+If you're doing this by yourself,|0.3
+you still name it today,|0.35
+and you still tell one man.|1.0
+Write the four on a card, in your own hand.|0.45
+They're in the front of your workbook.|0.45
+Visor. Mirror. The dash.|0.5
+Somewhere a plain morning will find it.|1.0
+The line for your handwriting is this.|0.5
+Nobody saw it.|0.45
+My Father did.|0.65
+Write it once.|0.8
+Then do one good thing before the day's out,|0.35
+and tell nobody.|0.5
+Not your wife.|0.3
+Not the guys.|0.3
+Not me.|0.9
+Go to your tables,|0.3
+and give your Father something to see.|1.25

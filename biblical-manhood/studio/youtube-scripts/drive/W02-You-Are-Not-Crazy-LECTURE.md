@@ -42,9 +42,9 @@ Here is the course in one sentence. You will hear it every session, word for wor
 
 [Slide: the four marks]
 
-A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
-Write it down. Four marks. Rejects passivity. Accepts responsibility. Leads courageously. Expects the greater reward, God's reward. Next week we take that sentence apart mark by mark. This week we deal with the noise that makes the sentence hard to hear. Because a lot of you heard it last week, and by Wednesday the manuals were louder than the marks.
+Write it down. Four marks. Stops waiting. Picks up the weight. Goes first. Works for God's pay, not the room's. Next week we take that sentence apart mark by mark. This week we deal with the noise that makes the sentence hard to hear. Because a lot of you heard it last week, and by Wednesday the manuals were louder than the marks.
 
 ---
 
@@ -128,7 +128,7 @@ Movement two. What the crossed maps do to a man.
 
 I have watched those maps do three things to men. You have probably felt all three.
 
-They make a man wait. When you do not know what a man is supposed to do, the safest move is no move. A lot of male passivity is not laziness. It is a man standing very still because every direction he could go has been declared wrong by somebody. He is not on the tailgate because he is lazy. He is on the tailgate because he is confused, and he has decided confused men should not drive. That is the first mark touching down early. Rejects passivity. Passivity often starts as confusion wearing a safety vest.
+They make a man wait. When you do not know what a man is supposed to do, the safest move is no move. A lot of male passivity is not laziness. It is a man standing very still because every direction he could go has been declared wrong by somebody. He is not on the tailgate because he is lazy. He is on the tailgate because he is confused, and he has decided confused men should not drive. That is the first mark touching down early. Stops waiting. Passivity often starts as confusion wearing a safety vest.
 
 They make a man perform. If you cannot find the real target, you learn to hit whatever target the room wants. You are one man at church and another at work and another with your buddies and another with your wife, and none of them is quite you, and the costume changes wear you out. A performer is not a liar exactly. He is a man who never got a stable picture and learned to borrow one from whoever was watching.
 
@@ -184,7 +184,7 @@ I am not going to pretend next week will feel like a finish line. A sentence you
 
 Before you leave tonight, hear the book's last word on this chapter. The tiredness you feel is not failure. It is the tiredness of a man who has been carrying a contradiction, strength spent on the wrong load. If the hum has been under your life a long time, let it get quieter tonight. Not because you have solved anything, but because you have seen the maps for what they are. Set them down. Soon you will have something that holds.
 
-The fourth mark already peeks through here. Expects the greater reward, God's reward. Rest from carrying what was never yours is part of that reward. Courage to pick up what is comes next.
+The fourth mark already peeks through here. Works for God's pay, not the room's. Rest from carrying what was never yours is part of that reward. Courage to pick up what is comes next.
 
 May God give you rest from carrying what was never yours to carry, and the courage to pick up what is. That is the book's blessing at the end of the chapter, and I am not going to improve it.
 
@@ -213,7 +213,7 @@ For the single man. Your manuals are often louder because there is no wife and n
 
 For the older man. You may think the manuals are a young man's problem. They are not. The grandchildren's screens are handing them new maps every day, and you are one of the few men in the room with evidence about which old pieces were true. Your sentence this week is not nostalgia. It is sorting. Write what still holds.
 
-That is what accepting responsibility looks like before we name the second mark formally. This one is mine to see clearly. The maps too.
+That is what picking up the weight looks like before we name the second mark formally. This one is mine to see clearly. The maps too.
 
 ---
 
@@ -240,7 +240,7 @@ The four marks, once more, and then you are dismissed.
 
 [Slide: the four marks]
 
-A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
 Session three, The Four Marks, next week.
 

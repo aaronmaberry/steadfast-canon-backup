@@ -1,0 +1,768 @@
+# SECTION: Welcome
+[warmly] Good to see you.|0.6
+Come on and sit.|0.5
+Uh, a man near the back|0.35
+patted the chair|0.3
+before he trusted it.|0.5
+It held.|0.4
+They usually do.|ROOM_CHUCKLE
+Uh, if we haven't met, I'm Wes.|0.5
+Glad you took a seat.|0.75
+Some of you know this room.|0.45
+Some of you, uh, found it today,|0.45
+and you're still deciding.|0.6
+Deciding counts.|0.45
+You stayed.|0.75
+Last time we said purpose|0.4
+is not a mood you wait on.|0.55
+It's a work you carry|0.35
+in the place you're already standing.|0.8
+I mean, the place.|0.4
+The people.|0.35
+The hours already in your hands.|0.7
+Keep that.|0.55
+Today that place gets a name.|0.75
+Some of you are doing the days|0.4
+and calling them a warm-up.|0.65
+The real part,|0.35
+you figure,|0.3
+starts when a woman says yes.|0.8
+Some of you heard yes a long time ago.|0.6
+She's in the house.|0.4
+You know the order of her morning.|0.55
+You still don't know her.|0.85
+Same trouble.|0.5
+A man standing beside his own life|0.45
+and calling the gap close enough.|0.9
+I have— I have done both.|0.7
+Before there was a wife in my house,|0.45
+I treated the days like a hallway.|0.6
+After there was,|0.4
+I learned her shortcuts|0.4
+and missed her.|0.75
+So let me say the thing plain,|0.5
+and then we'll walk it.|0.6
+If there is no wife yet,|0.45
+you are not waiting to start.|0.75
+You are a man with a garden,|0.45
+and it needs working today.|1.35
+If she is already beside you,|0.5
+standing near her will not know her.|0.65
+You study her.|0.4
+You write it down.|0.7
+A ring is a gift.|0.5
+It is not the moment you become a man.|0.8
+And a shared roof is not a study.|0.6
+Bring the man you are.|0.55
+Stay with that.|0.45
+Both halves are for this room.|0.55
+Uh, the single man stays for all of it.|0.6
+The husband stays for all of it.|0.6
+Nobody here is sitting out.|1.2
+# SECTION: The four marks
+Uh, these marks are the sentence we keep coming back to.|0.65
+I have not improved them.|0.55
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.|1.35
+# CUT SCREEN: creed board — "A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's." — new angle after
+You've heard them in this room.|0.55
+I'm not gonna build all four from the ground up.|0.65
+Today they have to land|0.4
+on two refusals I know from the inside.|0.8
+Uh, the first is a man who will not live|0.45
+until somebody else arrives.|0.7
+The second is a man who stopped learning|0.4
+the woman already there.|0.75
+Stop waiting.|0.55
+Uh, passivity can sound holy.|0.55
+A man says he is waiting on God|0.45
+while the day in front of him|0.4
+already has his name on it.|0.75
+That includes the hover.|0.45
+The almost-ask.|0.4
+The life you keep calling temporary.|0.6
+It also includes a husband|0.35
+who quit asking|0.35
+because he thinks he already finished.|0.8
+Pick up the weight.|0.55
+The place is yours.|0.45
+The knowledge is yours.|0.5
+You don't get to blame a missing ring|0.45
+for a garden you would not touch.|0.7
+And you don't get to blame her quiet|0.45
+if you filled every quiet with a fix.|0.8
+Go first.|0.55
+Courage is not volume.|0.5
+I mean, it is speaking up|0.45
+when your voice would rather stay vague.|0.7
+Courage here is a plain ask,|0.45
+or a clean release.|0.55
+Courage is also the question|0.4
+you have been walking around|0.4
+in your own kitchen.|0.75
+And the pay.|0.45
+God's pay.|0.55
+Not the feeling that life finally started|0.45
+because a woman said yes.|0.65
+Not the comfort of saying|0.4
+you know her pretty well.|0.8
+[quietly] I have— I have wanted both of those prizes.|0.7
+They pay fast.|0.45
+They do not keep.|0.7
+The marks are how a man walks|0.45
+in the life he has already been given.|1.25
+# SECTION: Already assigned
+Uh, let me put a verse under that.|0.55
+First Corinthians seven, verse seventeen.|0.7
+This is the NIV.|0.45
+Nevertheless,|0.3
+each person should live as a believer|0.45
+in whatever situation|0.35
+the Lord has assigned to them,|0.55
+just as God has called them.|0.6
+This is the rule I lay down|0.4
+in all the churches.|0.9
+Assigned.|0.45
+Called.|0.4
+Live in it.|0.7
+I mean, today.|0.5
+Not when the place looks like|0.4
+the one you keep picturing.|0.7
+Uh, the situation you are in|0.4
+is not a dress rehearsal|0.4
+for a better one.|0.7
+It is the ground with your name on the gate.|0.7
+If there is no wife yet,|0.45
+that is an assignment,|0.4
+not a pause.|0.8
+A wife, if the Lord gives you one,|0.5
+walks into work you have already begun.|0.75
+Hear this other line.|0.5
+Proverbs nineteen, verse fourteen.|0.65
+Houses and wealth are inherited from parents,|0.55
+but a prudent wife is from the Lord.|1.15
+From the Lord.|0.55
+A gift.|0.4
+Not a promotion into manhood.|0.8
+You don't— you don't level up|0.45
+on the day of a vow.|0.65
+You bring a man to the vow,|0.45
+or you bring a boy in a good shirt.|0.8
+Uh, I ate standing up for a long stretch|0.45
+in a place that was already mine.|0.6
+Over the sink.|0.4
+Like a chair might make it official.|ROOM_CHUCKLE
+[dry] The chair was never the holdup.|0.55
+I was.|0.6
+I called the place temporary|0.45
+so I would not have to keep it.|0.7
+How many of you have said some version of,|0.45
+when life starts,|0.35
+then I'll live like a man?|0.6
+Hand up.|0.35
+I'm not collecting names.|ROOM_HANDS
+Yeah.|0.4
+I figured.|0.55
+Uh, that sentence can wear a nice coat.|0.55
+It can sound patient.|0.5
+It can sound humble.|0.55
+Under it is a man|0.35
+refusing the days he has.|0.8
+The garden does not wait|0.4
+until somebody else moves in.|0.7
+Weeds don't check your status.|0.6
+They just take the ground you leave.|1.25
+# SECTION: Three men
+Uh, single is not one man.|0.6
+There are three,|0.4
+and they are not having the same year.|0.75
+Uh, stay with me on this.|0.5
+If you're married,|0.4
+don't drift.|0.45
+Uh, you'll need the second half,|0.4
+and you need to hear these men|0.4
+as brothers,|0.35
+not as a preface.|0.7
+The first man has never married.|0.6
+You may ache for a wife.|0.45
+You may be half in.|0.4
+You may— you may have quit looking.|0.6
+With nobody real in the picture,|0.45
+uh, you can invent a woman|0.45
+no living woman can match.|0.75
+If you're young,|0.4
+hear this without a sneer in it.|0.6
+A girlfriend is not the stamp.|0.65
+She does not make you a man|0.4
+by standing next to you.|0.6
+These years are already the work.|0.6
+A place you inhabit.|0.4
+Money you can explain.|0.45
+A brother.|0.35
+A clean conscience.|0.55
+That is most of a husband's weight.|0.6
+The wife is the part still missing.|0.75
+The second man,|0.4
+the marriage ended.|0.6
+You are not waiting on something you never had.|0.65
+You are grieving what you lost,|0.45
+or what you broke,|0.4
+or both.|0.6
+Maybe between two houses.|0.55
+Maybe a church that goes clumsy|0.4
+when you walk in.|0.65
+[quietly] Something died.|0.6
+If you will not name it,|0.45
+you will stack the next thing|0.4
+on a silence,|0.4
+and the silence will crack it.|0.85
+Say your part.|0.5
+I did this.|0.55
+Leave her piece off the end of the sentence.|0.7
+Your children come before any new woman.|0.65
+Stay among the men|0.4
+even if it's awkward.|0.55
+Do not sprint at another marriage|0.45
+to make the pain sit down.|0.7
+The third man buried his wife.|0.65
+You lived the life,|0.4
+and then the house went quiet|0.4
+in a way the younger men|0.35
+cannot picture.|0.75
+Uh, people go short on words.|0.55
+I won't.|0.45
+Stay in the work.|0.5
+Stay with us.|0.6
+Her last day was not the end|0.45
+of your assignment.|1.25
+# SECTION: What you build
+So what does a man build|0.4
+when his is the only name on the place.|0.7
+Uh, he makes a home he actually inhabits.|0.6
+Not a storage unit he sleeps in.|0.55
+A floor you can see.|0.45
+A meal you cooked.|0.45
+Bills that don't scare you|0.4
+when they show up.|0.7
+Uh, I have opened my own fridge|0.4
+and been greeted by hot sauce|0.4
+and a mystery.|ROOM_CHUCKLE
+[amused] That is not a home.|0.5
+That is a man hiding from his own kitchen.|0.75
+Set a table.|0.5
+Feeding people did not arrive with a ring.|0.65
+Cook for one more man|0.4
+than you planned on.|0.55
+A younger one who is drifting.|0.5
+An older one the room|0.35
+has gotten used to overlooking.|0.65
+Leave the place better|0.35
+than you found it.|0.7
+Get men around you.|0.55
+You need— you need them.|0.55
+A quiet place will not notice|0.4
+the stretch where you vanish.|0.65
+Find one man ahead of you.|0.55
+Do not hand your drift a long runway.|0.75
+Give the Lord the hours|0.4
+this stretch actually holds.|0.65
+A house full of little kids|0.4
+cannot spend an evening the way you can.|0.65
+If you burn those hours on waiting,|0.5
+you spent the one advantage|0.4
+this assignment gave you.|0.8
+Father somebody.|0.55
+There are boys around your church|0.45
+who are short a man.|0.55
+You have the afternoon.|0.5
+Sit with one while he does a hard thing.|0.6
+Show him how to keep a word he gave.|0.65
+The shape of fathering can change.|0.5
+The work does not.|0.65
+And keep yourself clean.|0.55
+The marriage bed is a covenant,|0.5
+and the keeping starts|0.35
+before there is a wife to share it.|0.75
+Your eyes and your hands|0.4
+are either storing something|0.4
+for that covenant|0.35
+or spending it early.|0.75
+First Timothy five, verse two.|0.65
+Treat younger women as sisters,|0.5
+with absolute purity.|0.9
+That covers every woman|0.4
+outside a covenant with you.|0.55
+Including the one|0.35
+you hope might enter one.|1.25
+# SECTION: If you want a wife
+[dry] Uh, most of you want a wife.|0.55
+Good.|0.45
+Uh, the want is not the problem.|0.65
+Find is a moving word.|0.55
+I mean, look at what will still be true|0.45
+when the face changes.|0.7
+Does she fear the Lord.|0.55
+Does she tell the truth.|0.5
+Is she kind when nobody is clapping.|0.7
+Attraction is real.|0.5
+Weigh it last,|0.4
+after those.|0.65
+Then ask in the open.|0.55
+A named evening.|0.45
+A reason she can hear.|0.6
+Uh, a long fog of almost-plans is a stall.|0.65
+So is a string of messages|0.4
+that never becomes a time and a place.|0.75
+She can tell a man moving toward her|0.45
+from a man who wants the feeling|0.4
+and not the risk.|0.75
+I called— I called it careful.|0.6
+There was a woman,|0.4
+before my wife,|0.4
+and I stayed vague on purpose.|0.6
+I never named an evening.|0.5
+I never said what I wanted.|0.55
+She finally asked|0.4
+if I was ever going to.|0.65
+I felt caught.|0.5
+I had been passive,|0.4
+and I had given it a gentle voice.|0.85
+Then decide.|0.55
+A few days is too fast for a life.|0.65
+A long stretch with no decision|0.45
+spends years that are hers.|0.75
+If you know her character|0.45
+and you are still circling,|0.5
+the true name for that is passive.|0.8
+A real man rejects that.|0.5
+He walks toward a covenant,|0.45
+or he sets her free|0.4
+in a way that leaves her dignity whole.|0.8
+Let an older man meet her.|0.6
+How she is with her father,|0.45
+and with her friends,|0.4
+will tell you the truth|0.4
+a good evening can hide.|0.75
+Keep your hands off her.|0.6
+Sex before the covenant|0.45
+clouds your judgment,|0.45
+and it trains both of you|0.4
+to treat the vow as optional.|0.85
+Uh, I have sat with men|0.4
+who crossed that line early.|0.55
+They don't brag about it.|0.6
+Marry when you can carry the weight.|0.65
+A feeling called ready|0.45
+will not carry it.|0.6
+You need work you can explain,|0.45
+a home, brothers,|0.4
+a kept body,|0.4
+and a Father you talk to.|0.65
+If those are in place,|0.45
+and she fears God,|0.45
+and the older men say go,|0.5
+then go.|0.6
+Pick it up.|1.2
+# SECTION: Nolan
+Uh, let me tell you about a man named Nolan.|0.65
+I have known him a long time.|0.55
+Never married.|0.45
+Good worker.|0.4
+Uh, he rented a small place|0.4
+with a strip of dirt out back.|0.65
+You know, he called it the someday patch.|0.6
+When he had a wife,|0.4
+he said,|0.3
+they would decide what went in it.|0.65
+So he mowed around it.|0.55
+Weeds took the middle.|0.55
+The shovel in the shed|0.4
+had never touched dirt.|0.65
+Uh, I stood out there with him|0.45
+one afternoon.|0.55
+I told him the weeds|0.35
+were not waiting on a wedding.|0.7
+He did not enjoy that.|0.6
+Uh, an older man in our group|0.45
+had been after him.|0.5
+Quit living like a visitor|0.4
+on ground that already has your name.|0.75
+Nolan went quiet.|0.6
+That same afternoon|0.4
+he turned the soil.|0.55
+A neighbor had two tomato starts|0.45
+he was gonna toss.|0.5
+Nolan put them in.|0.55
+Then he put two chairs on the step|0.45
+and had men over.|0.6
+A young man with empty afternoons|0.45
+took one of them.|0.55
+Nolan asked how the day had gone.|0.65
+The part that stayed with me|0.45
+came after.|0.55
+He has a sister.|0.5
+They talked weather.|0.45
+They talked their mother's appointments.|0.6
+Uh, he asked her one real question.|0.6
+What's been heavy,|0.45
+and don't give me the short one.|0.7
+She started.|0.45
+He almost— he almost explained her life back to her.|0.7
+He caught it.|0.45
+Hands on his knees.|0.5
+He waited.|0.65
+She said she was scared|0.4
+she was the only one noticing|0.45
+their mother getting smaller.|0.8
+He told me later|0.45
+he had known her his whole life|0.5
+and had never asked.|0.75
+[quietly] He said,|0.4
+I thought a wife would walk me into my life.|0.7
+She would have walked in|0.4
+on a man still saving a bare patch|0.5
+for a day he was already standing in.|0.9
+The plants did not get him married.|0.6
+They got him present.|0.6
+And his sister showed him|0.45
+he did not yet know how to hear a woman.|0.75
+He started there,|0.4
+before there was a wife to fail.|1.25
+# SECTION: Near is not knowing
+Now the other half.|0.55
+Uh, you can share a house|0.4
+and not know the woman in it.|0.75
+Proximity is not knowledge.|0.8
+Uh, I knew a husband named Mitch.|0.6
+Good man.|0.4
+Uh, he could tell you the order of the morning,|0.55
+her coat on the third hook,|0.5
+the sigh she made at the mail.|0.65
+He thought the sigh was the woman.|0.7
+One evening she said,|0.45
+you haven't asked me anything|0.4
+you don't already have an answer for.|0.8
+He sat on that.|0.55
+He asked what she was afraid of|0.45
+in that season.|0.6
+The first answer was ordinary.|0.55
+School stuff.|0.4
+A schedule.|0.45
+He almost— he almost nodded|0.4
+and went to fix a meeting.|0.6
+He stayed.|0.55
+The next thing she said|0.4
+was that she was afraid|0.4
+he had decided who she was|0.4
+a long time ago,|0.45
+and he liked that woman better.|0.9
+He wrote it on a scrap|0.4
+in the truck.|0.5
+He kept the scrap.|0.55
+He told me it scared him,|0.5
+how much of his knowing|0.4
+was memory of a younger wife.|0.85
+That is the work in front of a lot of you.|0.65
+Proverbs twenty, verse five.|0.7
+The purposes of a person's heart|0.45
+are deep waters,|0.5
+but one who has insight|0.4
+draws them out.|1.15
+Deep waters.|0.55
+The deep thing does not volunteer.|0.6
+You draw it up.|0.55
+That work belongs to the husband.|0.65
+It costs attention.|0.5
+It costs time.|0.45
+It costs a decision|0.4
+that she is worth knowing|0.4
+past what you already decided.|0.9
+First Peter three, verse seven.|0.7
+Husbands, in the same way|0.4
+be considerate|0.35
+as you live with your wives,|0.55
+and treat them with respect|0.45
+as the weaker partner|0.45
+and as heirs with you|0.4
+of the gracious gift of life,|0.55
+so that nothing will hinder your prayers.|1.3
+[quietly] Live with her according to knowledge.|0.7
+Respect.|0.4
+Heirs together.|0.5
+And the line a lot of us skip.|0.55
+Your prayers sit in the same room|0.45
+as your knowledge of her.|0.7
+Neglect the one,|0.4
+and the other goes thin.|1.2
+# SECTION: What you study
+[quietly] Uh, so what is there to know.|0.55
+Uh, learn her story.|0.5
+How she was fathered,|0.45
+and what that taught her about men.|0.65
+What happened before you|0.4
+that she has never told all the way.|0.7
+I mean, learn the fears she actually has.|0.6
+Ask what frightens her most right now,|0.55
+then stay quiet.|0.7
+Learn what fills her|0.4
+and what empties her.|0.6
+Uh, a full room wakes one woman up|0.45
+and wrings another out.|0.65
+Learn how love lands on her.|0.6
+A lot of us give the kind|0.4
+we would want back.|0.55
+Doing.|0.3
+Fixing.|0.3
+Handling it.|0.5
+Some wives receive that.|0.5
+Some need words.|0.4
+Some need an hour with no job in it.|0.6
+Some need a touch|0.35
+that is not on its way to the bedroom.|0.65
+Ask her— ask her when she has felt most loved by you.|0.7
+Then do that again.|0.65
+Learn her body|0.4
+without getting cute about it.|0.6
+Her cycle,|0.4
+so you carry more|0.35
+in the stretch she has less.|0.65
+A pregnancy.|0.45
+The long haul after a birth.|0.55
+The changes that come later,|0.45
+that a husband can sail past.|0.65
+Learn her walk with God.|0.55
+How she prays.|0.4
+What she is wrestling.|0.45
+The promise she is standing on.|0.6
+Then you can pray a real need|0.45
+instead of a prayer that could fit anybody.|0.8
+I could tell you the score|0.4
+of a game I didn't care about,|0.5
+and not what my wife|0.35
+was asking God for.|0.7
+I spent the attention|0.4
+where a crowd would notice.|0.75
+Learn the ordinary day.|0.55
+You know, the middle of the afternoon.|0.55
+The kids.|0.4
+The hard hour of her work.|0.6
+A man who has never asked|0.4
+will say a sentence that lands wrong|0.5
+and then blame the quiet.|0.75
+Learn her people.|0.5
+Her friends.|0.35
+Her mother.|0.4
+What those ties cost.|0.55
+Learn what she still wants,|0.45
+what she set down,|0.4
+what she quit saying|0.35
+because nobody asked.|0.7
+Look for a way to hand one back.|0.6
+She will trust a man who does.|1.2
+# SECTION: Draw it out
+Uh, how a man learns her|0.4
+is plainer than we make it.|0.65
+Ask,|0.3
+then wait.|0.6
+Most of us ask|0.35
+and start building the reply|0.4
+before she finishes the first sentence.|0.75
+When she goes quiet,|0.45
+she is often not done.|0.6
+The real sentence|0.4
+usually shows up|0.35
+one breath later.|0.75
+You know, I showed up once with a whole plan.|0.55
+She had shown up with a sentence.|0.6
+I was early|0.35
+to the wrong meeting.|ROOM_CHUCKLE
+[dry] Uh, she did not need my columns.|0.55
+She needed a husband|0.35
+who could stay in the chair.|0.75
+Hear her before you repair anything.|0.65
+Your body will want a solution.|0.55
+Hold it.|0.5
+Tell her you're still in it,|0.45
+and ask for the rest.|0.65
+Fix her every time|0.4
+and she will stop bringing you|0.4
+the real thing.|0.65
+Stay with her,|0.4
+and she may trust you with the rest.|0.75
+Write the small things.|0.55
+Uh, I wrote notes about my work|0.45
+for years.|0.45
+Parts.|0.3
+Dates.|0.3
+What a man needed from me.|0.55
+I would not— I would not write one line about my wife,|0.65
+because it felt odd,|0.45
+like I was turning her into a task.|0.7
+Then I missed something|0.4
+she had told me once,|0.45
+about her father's appointment,|0.55
+and the odd thing|0.35
+was that I had forgotten.|0.75
+I started a card.|0.5
+One line.|0.4
+I still miss things.|0.5
+I miss fewer.|0.65
+Ask her what you get wrong.|0.6
+Skip the defense.|0.55
+If a baby is new in the house,|0.55
+uh, the woman across from you|0.4
+is under a weight you cannot see.|0.7
+Ask what she needs|0.4
+before the next hour,|0.45
+not the next year.|0.6
+Notice if she has eaten,|0.4
+been outside,|0.35
+laughed.|0.55
+If she pulls back from touch,|0.5
+believe the load.|0.65
+Watch for a darkness|0.4
+that is more than tired.|0.6
+It has a name.|0.4
+It is common.|0.45
+A doctor can help.|0.5
+If she is not herself|0.4
+for a long stretch,|0.4
+or she says things about herself|0.45
+that scare you,|0.45
+go with her.|0.6
+That is a man who knows his wife|0.45
+and keeps her.|1.25
+# SECTION: The seats you have
+Uh, let me walk the room|0.45
+before I send you to the tables.|0.7
+If the marriage ended,|0.5
+and the truth is you did not know her,|0.55
+put that inside the sentence|0.4
+I did this.|0.7
+Uh, you still have to know their mother|0.45
+well enough to parent|0.4
+without a war.|0.65
+Uh, what she fears for the kids.|0.55
+What sets it off.|0.45
+What calms it.|0.6
+If God gives you another wife,|0.5
+start knowing her|0.4
+while the days are still new.|0.75
+If she died,|0.5
+grieve out loud,|0.45
+for as long as it takes.|0.7
+Keep a hand on the work,|0.45
+one brother,|0.4
+and a seat in this room.|0.65
+A widower can call the slow fade rest.|0.65
+It is drift|0.35
+with a soft voice.|0.7
+Whether you marry again|0.45
+sits with you,|0.35
+with God,|0.3
+with your grown children,|0.45
+and with her,|0.35
+if there is a her.|0.7
+Some men do.|0.45
+Some never do.|0.5
+The years can still be full.|0.7
+[quietly] If I say yet,|0.45
+and that is your chair,|0.45
+yet is not a taunt.|0.7
+I am not waving a life you lost|0.45
+over your head.|0.6
+I am saying the life still in your hands|0.5
+is a real assignment.|0.8
+If you never married,|0.45
+and the years have stacked up,|0.5
+you are not the mascot in here.|0.65
+A long obedience|0.4
+is not the same as being current.|0.65
+You can be faithful|0.35
+and still be saving a bare patch.|0.75
+If you're single,|0.45
+this page is yours.|0.55
+Ask your mother|0.4
+or your sister|0.35
+one real question,|0.45
+and wait for the whole answer.|0.65
+No fixing.|0.4
+No flirting.|0.5
+A man who can hear a sister|0.45
+can learn how to hear a wife.|0.75
+If the work is going well,|0.5
+look again.|0.45
+A beautiful place|0.35
+can still be a place you only sleep in.|0.75
+And if you're married,|0.45
+she already knows|0.4
+whether you are a student|0.4
+or a visitor.|0.65
+You can feel that, right?|0.6
+She knew before I said it.|1.2
+# SECTION: To the tables
+[warmly] If there is no wife yet,|0.45
+you are not waiting to start.|0.7
+You are a man with a garden,|0.45
+and it needs working today.|0.85
+And proximity is not knowledge.|0.7
+Study her.|0.45
+Write it down.|1.2
+I hope you— I hope you leave here|0.5
+done treating your life like a hallway,|0.55
+and done calling a guess a marriage.|0.8
+Uh, in a minute you sit at the tables|0.5
+and work this part together.|0.7
+Which of the three men are you,|0.5
+and have you been living|0.4
+as though life has not started?|0.8
+Never married.|0.4
+Single again because it ended.|0.5
+Single again because she died.|0.65
+If you're married, say so,|0.45
+and still name whether the knowing|0.4
+ever really started.|0.7
+What area do you know least|0.45
+about your wife?|0.6
+Name the thin place.|0.55
+If you're single,|0.4
+what would a sister practice expose?|0.7
+And what will you build,|0.45
+or what will you ask?|0.7
+If you have never married,|0.45
+pick one build|0.35
+and do it.|0.55
+If you are single again,|0.45
+pick one,|0.35
+and tell God one true sentence|0.45
+about the grief|0.35
+and one about your part.|0.65
+If you are married,|0.4
+ask one question from the thin place,|0.55
+hear the whole answer,|0.45
+write it down,|0.4
+and start the page.|0.6
+Uh, tell a brother|0.4
+which man you are|0.4
+and which thing you picked.|0.6
+If you're divorced|0.35
+and thinking about dating,|0.45
+tell him that,|0.4
+and ask whether you are ready.|0.65
+If you're married,|0.4
+tell him what you found out|0.4
+that you did not know.|0.65
+Do not let either of you say|0.45
+I know her pretty well.|0.8
+How many of you|0.35
+already had that sentence ready|0.4
+on the way in?|0.55
+Hand up.|0.35
+Keep it honest.|ROOM_HANDS
+Alright.|0.45
+That one stays retired.|0.6
+You've carried the marks through this room.|0.55
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.|1.3
+# CUT SCREEN: creed board — "A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's." — new angle after
+Tables.|0.4
+Open the workbook.|0.45
+Do this part together.|1.2

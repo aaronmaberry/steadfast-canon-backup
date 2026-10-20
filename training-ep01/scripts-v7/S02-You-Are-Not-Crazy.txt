@@ -1,0 +1,614 @@
+# SECTION: Opening
+[warmly] Well. Look who came back.|0.6
+Good to see you.|0.9
+Last time we sat with a quiet Tuesday.|0.5
+Tuesday is where a man is made,|0.35
+or he settles.|0.8
+We said the four marks out loud.|0.4
+We talked about one small yes,|0.35
+the kind that's still standing after the feeling goes home.|0.6
+And I sent you out of here to go sit with men.|0.55
+Some of you did.|0.4
+Some of you, uh, sat near men.|0.45
+That counts too.|1.0
+And some of you are in the exact same chair as last time.|0.4
+Nobody assigned seats in here.|0.4
+Men just do that.|0.35
+Sit somewhere once, and it's yours for life.|ROOM_CHUCKLE
+If you're new,|0.3
+you didn't miss the only door in.|0.45
+Grab a seat and stay a while.|0.5
+Nobody in here is a guest.|0.4
+That hasn't changed.|1.0
+Here's what I'd bet happened.|0.45
+You went home and hit an ordinary day,|0.35
+and you meant to say the small yes.|0.5
+And somewhere in there, a voice in your head said,|0.35
+do it this way.|0.4
+And another voice said,|0.3
+no, a real man does the opposite.|0.9
+So you stood there.|0.4
+Tuesday in one hand,|0.3
+two sets of orders in the other.|1.1
+That's what we're after today.|0.5
+Not the day.|0.3
+The noise on the day.|1.0
+I want to say the claim first,|0.35
+so you hear it plain.|0.6
+You are not crazy.|1.6
+I mean the man who wants a straight answer|0.3
+about what a man is for,|0.35
+and can't get two people to agree on it.|0.7
+That want is a good want.|0.9
+And the mess you feel about it|0.3
+isn't coming from a broken head.|0.55
+It's coming from somewhere.|0.4
+Let's go find where.|1.3
+# SECTION: Two Orders
+So let me tell on myself first.|0.55
+Years ago, well, more years than I'd like,|0.35
+a man I worked around told me,|0.35
+if you're serious, the work gets the first of you.|0.4
+Your family gets what's left.|0.35
+If you're decent, what's left is enough.|0.85
+I nodded.|0.35
+I heard grit in it.|0.7
+Same stretch of my life,|0.3
+an older man in a group I sat in|0.3
+said the exact opposite.|0.6
+He said, if your people get the leftovers,|0.35
+you already answered the question.|0.4
+You just answered it small.|1.0
+So I tried to obey both of them.|0.4
+Same night.|0.6
+Stayed late, so the first man could be proud.|0.45
+Came home loud and helpful,|0.3
+so the second man could be proud too.|0.7
+I unloaded the dishwasher like I was on the clock,|0.35
+trying to win the evening back.|0.6
+My wife watched me from the doorway.|0.4
+She didn't argue.|0.4
+She didn't have to.|0.65
+I'd turned helping into a little show,|0.35
+and she could hear the show.|0.6
+[dry] Nothing says I'm right here with you|0.3
+like slamming the silverware drawer.|ROOM_CHUCKLE
+Two men I wanted proud of me.|0.45
+Neither one of them lived in my house.|0.9
+She didn't need the contest.|0.4
+She needed a man who was actually in the room.|0.75
+I went to bed sure I'd failed them both.|0.5
+And, uh, I probably had.|1.05
+One voice calls you selfish if you stay with the work.|0.4
+Another calls you soft if you leave it.|0.7
+You can hear both before supper|0.3
+and still not know which door is yours.|0.75
+You've run that one, right?|0.8
+Here's the part that'll mess with you.|0.45
+Both men meant well.|0.4
+Both of them were half right.|0.6
+And a man can't live by two half-rights|0.35
+that won't sit at the same table.|0.8
+So you pick one on Monday,|0.3
+the other one on Thursday,|0.35
+and feel guilty both days.|1.2
+# SECTION: Every Wind
+Ephesians four, verse fourteen.|0.6
+Then we will no longer be infants,|0.4
+tossed back and forth by the waves,|0.4
+and blown here and there by every wind of teaching|0.4
+and by the cunning and craftiness of people|0.35
+in their deceitful scheming.|1.4
+Tossed back and forth.|0.5
+Blown here and there.|0.8
+Paul doesn't pretend the wind isn't blowing.|0.5
+He names it.|0.4
+Every wind of teaching.|0.6
+Some of it honest and wrong.|0.4
+Some of it not so honest.|0.8
+Now, notice who gets tossed in that verse.|0.45
+It isn't a wicked man.|0.4
+It's an infant.|0.4
+A man nobody finished raising.|0.9
+And hear this part.|0.4
+A boat getting thrown around|0.3
+doesn't mean the boat is crazy.|0.6
+It means there's weather.|0.5
+You with me?|0.9
+Last time we talked about a boy|0.3
+putting his childish ways behind him on purpose.|0.5
+Here Paul comes at it from the other side.|0.45
+Part of growing up|0.3
+is learning to stand in the wind|0.35
+without deciding the wind is your fault.|1.1
+Listen.|0.4
+Most of us didn't invent the fight in our heads.|0.45
+We inherited it,|0.35
+and then we picked up a few more on the way.|1.0
+There was a time the work sat where a boy could see it.|0.45
+He stood next to a man,|0.3
+and the knowing was in the man's hands.|0.75
+Now the work is across town.|0.4
+Or it's down the hall on a laptop, uh, with the door shut.|0.55
+The boy sees his dad leave,|0.3
+and he sees him, you know, come home tired.|0.55
+Everything in the middle is a rumor.|1.05
+So nobody hands him one sentence|0.3
+for both places a man has to live.|0.6
+He grabs pieces.|0.4
+An uncle at a cookout hands him one.|0.4
+A group text hands him the other.|0.45
+And he nods at both.|0.8
+Then he grows up and tries to obey the whole pile.|0.5
+And when it won't add up,|0.3
+he figures the problem must be him.|1.25
+# SECTION: A Pile, Not a Path
+Then a lot of rooms got shy.|0.5
+Saying God made a man on purpose|0.3
+started to feel risky.|0.7
+The old words got treated like a problem.|0.5
+Provide. Protect. Decide. Stay.|0.6
+A man could feel accused just for carrying them.|0.75
+Then the same world turned right around|0.3
+and mocked the guy who wouldn't grow up.|0.45
+Wouldn't stay. Wouldn't decide.|0.7
+It gave both orders.|0.4
+It just never said so out loud.|1.05
+You can hear the fight on your phone,|0.35
+if you can stand it.|0.5
+One clip says strong makes you a threat.|0.4
+The next one says if you aren't strong, you're finished.|0.6
+Same afternoon.|0.3
+Same pocket.|0.9
+A coach tells a young man, take the room.|0.4
+Be first. Be loud.|0.4
+His first boss tells him, don't make a ripple.|0.4
+The guys who last around here are the quiet ones.|0.7
+He's, uh, twenty-two,|0.35
+and he's already got a headache.|0.6
+And nobody stops to admit|0.3
+they handed him both.|1.0
+And I'm not here to swing at the church.|0.4
+I'm in it.|0.45
+We got, we got nervous about a plain sentence.|0.5
+So we handed out soft words,|0.3
+or we handed out loud ones.|0.55
+Neither one told a man what to do|0.3
+when he came home already used up.|0.9
+He got a pile.|0.35
+He needed a path.|1.2
+Let me see where this sits in here.|0.45
+How many of you could name two instructions|0.35
+about being a man|0.25
+that can't both be true?|0.6
+Go on. Just a hand.|ROOM_HANDS
+Yeah.|0.35
+Look at that.|0.45
+That's most of the room.|1.0
+So hear me.|0.4
+If you can name two orders that fight,|0.35
+you're not confused because you're slow.|0.55
+You're confused because you were listening.|0.8
+That's not a defect.|0.4
+That's a man paying attention|0.35
+to voices that should've agreed and didn't.|1.3
+# SECTION: So I Hid
+Genesis three, verse ten.|0.6
+He answered,|0.35
+I heard you in the garden,|0.4
+and I was afraid because I was naked;|0.45
+so I hid.|1.5
+That's the first man.|0.45
+Right after the first wrong turn.|0.5
+God comes walking in the cool of the day,|0.35
+calling for him,|0.4
+and the man's answer is afraid, and covered, and hid.|1.0
+Stay with me, because that's still what men do|0.35
+when the orders won't agree.|0.7
+The fight does three things to a man.|0.45
+I've watched all three.|0.4
+I've done all three.|0.5
+And I'd bet you have too.|0.9
+First, he hides by waiting.|0.8
+If every direction has been scolded by somebody,|0.4
+standing still starts to look polite.|0.7
+You call it patience.|0.4
+You call it not wanting to wreck the thing.|0.75
+I know the move.|0.45
+I stood at my own kitchen sink once and hid.|0.55
+I had a true sentence ready for my wife.|0.4
+It was about a bill we'd been dodging.|0.45
+Not a crisis.|0.3
+A decision with both our names on it.|0.6
+The plate in my hand was already dry.|0.45
+I kept drying it.|0.4
+For a good five minutes.|0.35
+Maybe ten.|0.6
+Then I asked if we were out of dish soap.|ROOM_CHUCKLE
+Soap had an answer.|0.4
+The sentence didn't.|0.6
+And the bill didn't leave the house.|0.4
+It sat down at the table and got heavier.|0.65
+And she learned to quit waiting on the sentence.|0.45
+She stopped bringing it up.|0.4
+Not because it got settled.|0.4
+Uh, because soap was the only answer she ever got.|0.7
+I told myself I was being careful.|0.5
+Careful can be a stall with a clean shirt on.|1.1
+How many of you went quiet|0.3
+because quiet felt safer than picking a side?|0.6
+Hands, if you're willing.|ROOM_HANDS
+Yeah. I see them.|0.45
+Me too.|1.2
+# SECTION: Covered
+Second, he covers by performing.|0.8
+The first thing that man did in the garden|0.35
+was sew something to hide behind.|0.65
+If nobody ever handed you one steady way,|0.35
+you start fitting whatever room you're standing in.|0.65
+I got good at the fit.|0.5
+An easy laugh when the guys were loose.|0.4
+A serious nod when the talk turned heavy.|0.4
+The man who had it handled|0.3
+if somebody important walked through.|0.7
+I wasn't trying to fool anybody.|0.4
+I was trying to match the temperature,|0.35
+and I got real good at matching.|0.7
+I've answered the same question two ways in one hour.|0.5
+Once on the back steps with a buddy,|0.35
+you know, the easy version.|0.45
+Once in the kitchen, a little later.|0.55
+Same facts.|0.3
+Different man talking.|0.6
+The buddy got one version.|0.35
+The kitchen got the other.|0.55
+Nobody asked me to switch.|0.4
+I offered.|0.85
+[dry] I've been a whole committee of men|0.35
+before the porch light came on.|0.45
+One set of keys.|ROOM_CHUCKLE
+None of those men was quite me.|0.45
+They were, what's the word.|0.45
+Rented.|0.8
+And a rented man goes back at the end of the day.|0.5
+Here's the tender part.|0.45
+That man isn't a villain.|0.5
+Nobody gave him one way and stayed with it.|0.55
+So he studies the room, and he copies.|0.55
+Copying will wear you out.|0.45
+It just doesn't look like wear from the outside.|0.6
+People call it competence.|0.8
+If that's you, you can stop auditioning.|0.5
+The room can survive the real man.|0.55
+It might even be glad he showed up.|0.9
+Look, a performance can get you through a lot of rooms.|0.5
+It can't get you through your own front door.|0.6
+The people who live with you|0.3
+already know which one is you.|1.25
+# SECTION: Ray
+Third, and I want to go slower here.|0.6
+He carries shame.|1.1
+Hand a man orders he can't meet,|0.35
+orders that argue with each other,|0.4
+and he usually doesn't blame the orders.|0.55
+He puts himself on trial.|0.7
+And he won't bring it up,|0.35
+because saying it out loud feels like making it official.|0.75
+So he carries it down the hardware aisle,|0.35
+through the, uh, school pickup line,|0.3
+and into the dark of his own room.|0.55
+He calls that being realistic.|0.8
+Call it what it is.|0.4
+A good man prosecuting himself|0.35
+for a contradiction he didn't write.|0.9
+I've carried one of those.|0.4
+I thought if I said it,|0.3
+it'd be the last word on me.|0.55
+So I smiled and kept moving.|1.0
+I knew a man.|0.45
+I'll call him Ray.|0.4
+Not his name.|0.5
+We weren't close.|0.35
+I mean, I knew his truck better than I knew him.|0.6
+We ended up side by side at a parts counter one afternoon,|0.35
+both of us waiting on a belt for a dryer.|0.6
+The clerk went in the back.|0.35
+Ray's hands were nicked up from the day.|0.45
+He kept his eyes on the counter.|0.5
+I could hear boxes moving back there.|0.35
+Neither of us was in a hurry to fill the air.|0.75
+It was one of those counters|0.3
+where the calendar on the wall is three years old.|0.6
+Ray looked wrung out.|0.4
+And it had nothing to do with laundry.|0.85
+Out of nowhere he told me|0.3
+he'd been saving up rules since he was a kid.|0.6
+His old man said, a man doesn't explain himself.|0.4
+You do the thing, and you keep moving.|0.6
+His first boss said, if you can't explain it,|0.35
+you don't understand it.|0.35
+So speak up.|0.7
+Two rules.|0.3
+Both of them sure of themselves.|0.45
+They'd never have shared a table.|1.25
+# SECTION: The Scrap
+Then he got married.|0.4
+His wife asked him not to go quiet on her.|0.55
+His brother told him, don't you give up the wheel.|0.4
+A man who gives it up is already done.|0.85
+Now, I want to be careful.|0.4
+I'm not siding with the brother,|0.35
+and I'm not making her the problem.|0.55
+I'm telling you the orders.|0.45
+I mean, both of them loved him.|0.4
+They fought.|0.75
+Ray pulled out his wallet|0.3
+and slid a scrap of paper out of it.|0.5
+Two lines, in his own printing.|0.45
+The crease had gone white.|0.4
+Years of folding will do that.|0.35
+Or years of reading.|0.65
+He said he read it in the cab of his truck|0.35
+before he walked into his own house.|0.7
+One line said, speak.|0.45
+The other said, don't you make a fuss.|0.9
+He looked at me and said,|0.3
+Wes, if I was smarter, these would fit.|1.5
+I had— I had a little speech ready.|0.45
+I wanted to fix it fast.|0.4
+That's an old habit of mine.|0.4
+A speech, a point, a bow on top.|0.6
+I heard myself start,|0.3
+and I shut it down.|0.6
+He didn't need my speech.|0.4
+He needed the truth in a smaller size.|0.75
+So I said, Ray, you're not slow.|0.45
+Those two lines were never gonna shake hands.|0.6
+You've been carrying a fight in your wallet|0.35
+and calling it a personal failure.|1.0
+He didn't rebuild his life at a parts counter.|0.45
+The clerk came back with the, uh, wrong belt, actually.|0.6
+But Ray put that scrap away a little different.|0.45
+Like it was smaller than it had been.|0.7
+He folded it once instead of twice.|0.45
+I noticed that.|0.6
+Sometimes that's where it starts.|0.5
+You see the fight was handed to you,|0.4
+and you quit treating your own name as the charge, fair?|1.35
+# SECTION: What God Made
+Okay.|0.45
+I don't want any of this resting on my opinion,|0.35
+or on a scrap of paper in a man's wallet.|0.7
+So go back before the hiding.|0.45
+Two chapters back.|0.4
+Before anybody was afraid of anything.|0.9
+Genesis one, verse twenty-seven.|0.65
+So God created mankind in his own image,|0.45
+in the image of God he created them;|0.45
+male and female he created them.|1.5
+Created.|0.45
+Not assembled by committee.|0.4
+Not left to chance.|0.8
+Male and female is on purpose in that sentence.|0.6
+God made us that way.|0.4
+In his image.|0.7
+And the man had nothing to show for himself yet.|0.4
+No résumé.|0.35
+No, um, track record.|0.5
+God called the making good anyway.|0.9
+He wasn't embarrassed of what he made.|0.5
+We got embarrassed later.|0.45
+That's on us.|0.9
+And it didn't happen all at once.|0.4
+We just got quieter about it,|0.35
+one careful sermon at a time.|0.9
+So that sense you've got,|0.3
+that being a man is a real thing,|0.4
+that sense is right.|0.75
+It's not a costume you try on.|0.45
+It's not a flaw in how he built you.|0.6
+It's one way the image of God|0.3
+walks around in an actual life.|0.6
+It was his idea.|0.45
+He wasn't guessing.|1.1
+And your other sense is right too.|0.5
+The orders you've been handed don't agree.|0.6
+If you got turned around,|0.35
+look hard at what you were handed.|0.5
+Your own mind isn't the first suspect.|1.0
+The Book hasn't been silent.|0.5
+We got embarrassed, or busy,|0.35
+or we got clever and called a pile a path,|0.5
+and we quit handing a sentence down.|0.7
+So wanting a plain word about what a man is for,|0.35
+that's a good hunger.|0.55
+Don't apologize for it.|0.7
+Bring it to the table.|0.4
+That hunger is part of how he made you.|1.3
+# SECTION: Own Both
+Here's the thing, though.|0.5
+And a man will want to skip this part.|0.55
+Part of the gap is yours.|0.45
+Part of it was handed to you.|0.5
+You have to own both.|1.0
+If you only own the world's part,|0.35
+the confusion turns into a hiding place.|0.6
+I know, because I've, uh, rented that place.|0.55
+If the orders fight,|0.3
+then nobody can say I missed mine.|0.6
+I called that being humble.|0.45
+It was a way to stay untested.|0.9
+You know, a hiding place with a humble sign on the door.|0.95
+Some of you went the other direction.|0.45
+You pleaded guilty to the whole mess.|0.5
+You confessed to being broken,|0.35
+when mostly you were worn out by a contradiction.|0.75
+That's a man swinging at himself|0.3
+with somebody else's stick.|1.05
+Where you checked out, say so.|0.5
+Where the orders fought, name the orders.|0.55
+Keep both on the table.|0.4
+One will try to swallow the other.|0.45
+Don't— don't let it.|0.8
+I've seen men do both in the same afternoon.|0.4
+Blame everybody at lunch,|0.3
+and blame themselves by supper.|0.6
+Neither one is honest.|0.4
+Both are easier than the truth.|1.0
+I watched a shrug get passed off as wisdom once.|0.5
+A younger man at a men's breakfast asked, plain,|0.35
+what's a man supposed to be for?|0.6
+An older man I trusted leaned his chair back.|0.4
+He said, shoot, nobody really knows.|0.4
+Just don't be a jerk.|0.8
+The younger man looked relieved,|0.35
+like the test got called off.|0.65
+And I get why the older man said it.|0.4
+He was tired of loud opinions.|0.6
+But that young man walked out poorer|0.3
+than when he walked in.|0.65
+A shrug can pass for peace.|0.45
+A younger man will copy it.|0.5
+It won't hold him up.|0.7
+A sentence will.|1.3
+# SECTION: Every Chair
+Now, where you're sitting changes the bruise.|0.55
+Look around for a second.|0.4
+You're not the only man in your kind of chair.|0.5
+Somebody two seats down|0.3
+is carrying the same fight in, uh, a different shirt.|1.0
+If you're young,|0.3
+the guessing isn't proof you're behind.|0.6
+You got handed a loud pile early, that's all.|0.8
+If you're single,|0.3
+a wife is not the starting line of manhood.|0.55
+You can aim a life before anybody shares your name.|0.8
+A quiet apartment doesn't grade you.|0.4
+It's just quiet.|0.8
+If you're married,|0.3
+providing is a real weight.|0.4
+Honor it.|0.35
+It's just not the whole of you.|0.8
+If you've been hurt, I'll go slow.|0.5
+You can be wounded and still not be crazy.|0.5
+Naming the bad orders isn't a dodge of what you owe.|0.5
+It gets the clutter off the table,|0.35
+so you can see which weight is yours.|0.9
+If you're older,|0.3
+the years don't retire you from this.|0.55
+Somebody younger needs you to sort the pile with him,|0.4
+and leave the true pieces standing.|0.8
+Some of what you were handed still holds a family up.|0.9
+And if the job's going great,|0.3
+hitting every room's target|0.3
+isn't the same as knowing who to be in your own kitchen.|1.1
+So what do you do with a pile.|0.6
+You don't need a taller one.|0.5
+You need one sentence that holds weight|0.35
+on a day when nobody's handing out credit.|0.8
+It's the one we said last time.|0.4
+You've already got it in your hand,|0.35
+and I'm not gonna unpack it today.|0.5
+You'll hear it before you leave.|0.9
+It's simpler than the pile.|0.45
+You can say it without notes.|0.6
+And it's harder than the pile,|0.4
+because you have to live it on a flat afternoon,|0.4
+when the feeling's gone home.|1.2
+# SECTION: Carry This
+Let me land it.|0.35
+And then I'll get out of your way.|0.8
+[warmly] Here's the big idea, one more time.|0.55
+The confusion is in the world.|0.5
+You were handed orders that fight each other.|0.6
+And you are not crazy|0.35
+for wanting one clear word about what a man is for.|1.1
+The wind is real.|0.4
+Every wind of teaching.|0.6
+And the hiding is real too.|0.5
+Afraid, so I hid.|0.7
+We wait.|0.3
+We perform.|0.3
+We carry the shame and call it realistic.|0.9
+But before any of that,|0.35
+God made a man on purpose.|0.5
+And he wasn't guessing.|0.6
+He made you.|0.4
+Male and female, in his image, on purpose.|0.6
+It was never a costume.|0.4
+And it was never a mood.|1.0
+So own both.|0.4
+Name the orders that fought.|0.4
+Own the part that's yours.|0.9
+Don't use the world as a blanket.|0.4
+And don't swing at yourself|0.3
+with somebody else's stick.|1.0
+What I hope you carry out of here is relief.|0.5
+Not the kind that lets you off the hook.|0.45
+The kind that finally lets you pick up the right thing.|1.0
+You're not the confusion.|0.5
+Your part is still yours.|0.55
+And you can quit carrying the rest.|0.7
+The rest was never yours.|0.5
+Somebody handed it to you,|0.3
+and you were too decent to put it down.|1.2
+Last time I told you to go sit with men.|0.45
+Today I'm asking you to tell them the truth once you sit down.|0.6
+Not the committee.|0.35
+Not the rented man.|0.4
+You.|1.0
+Tell them the orders you were handed.|0.4
+Tell them which one you've been obeying.|0.5
+And tell them the one sentence you'd actually stand on.|1.3
+# SECTION: The Tables
+The tables are ready.|0.5
+Open your workbook and work this part together.|0.6
+Don't polish it for me.|0.4
+Ugly and true will do.|0.85
+Don't explain the chapter to each other.|0.45
+And don't rescue a man from the question with advice.|0.5
+Advice can be a nice way to leave.|0.9
+Three questions.|0.5
+First.|0.3
+Name two instructions you were handed about being a man|0.35
+that contradict each other.|0.45
+Where did each one come from?|0.6
+Home. A job. A screen. A church. A buddy.|0.55
+One sentence each.|0.8
+Second.|0.3
+Which one is closer right now.|0.4
+You wait.|0.3
+You perform for the room.|0.35
+Or you carry a quiet hum of shame.|0.7
+Say the true one.|0.35
+Not the flattering one.|0.8
+Third.|0.3
+In one sentence,|0.3
+what do you believe a man is supposed to do?|0.65
+Don't write the one you wish.|0.35
+Write the one you'd say if nobody was grading you.|0.8
+Then read it to a brother at your table.|0.4
+Ask for his.|0.35
+Don't explain first.|0.5
+Explaining is how a man hides.|1.0
+If you're doing this by yourself,|0.3
+you still write the sentence today,|0.35
+and you still read it to one man.|0.4
+A private project you mean to finish later|0.35
+is how this part dies.|1.0
+The line for your handwriting is this.|0.5
+The confusion is in the world.|0.4
+I'm not crazy for wanting one clear word.|0.65
+Write it once.|0.75
+I'll say the four, like I promised,|0.35
+and then I'm done talking.|0.65
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.|1.15
+# CUT SCREEN: creed board — "A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's." — new angle after
+Set down what God never asked you to carry.|0.5
+Pick up what's actually yours.|0.65
+Name the orders.|0.35
+Own your part.|0.35
+Write your sentence.|0.35
+Then go say it out loud to a man who'll say his back.|0.9
+Go to your tables,|0.3
+and tell the truth.|1.25

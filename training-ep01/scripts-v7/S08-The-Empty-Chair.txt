@@ -1,0 +1,649 @@
+# SECTION: Welcome
+[warmly] Hey.|0.5
+Good to see you.|0.7
+Uh, glad you took a chair.|0.55
+Last time we talked about going first.|0.5
+Some of you did.|0.4
+Some of you went first to the snack table|0.3
+and called it leadership.|ROOM_CHUCKLE
+I have led from a snack table.|0.45
+More than once.|0.8
+If you came in late, I'm Wes.|0.45
+You already know the voice.|0.6
+Glad you took a chair.|0.85
+Today is quieter than last time.|0.5
+I want to go slow.|0.45
+Uh, some of you are already bracing.|0.5
+You think I came to put your dad on trial.|0.65
+I didn't.|0.55
+I have loved a man|0.35
+and still needed a sentence he never spent.|0.75
+Both can be true.|0.6
+If you need to breathe, breathe.|0.55
+We'll tell the truth,|0.35
+and we'll be kind while we do it.|0.9
+Some of you can thank your father.|0.5
+Stay in the room.|0.45
+Some of you still brace when his name comes up.|0.6
+Stay.|0.5
+Uh, I am not ranking chairs from up here.|0.65
+I mean, if this was simple,|0.4
+most of us would have said it years ago.|0.6
+We didn't.|0.45
+So we say it here.|0.75
+We're gonna name a chair.|0.6
+Not the one under you.|0.4
+The one that raised you.|1.2
+You know, a boy reads a man|0.35
+long before he can explain him.|0.6
+Who sat at the end of the table.|0.4
+Who never did.|0.4
+Whether a voice in that house|0.3
+could actually be reached.|0.8
+You took in a lot of manhood|0.35
+while your feet still missed the floor.|0.85
+That is not a case against your dad.|0.55
+It is just where a man starts|0.35
+if he is gonna tell the truth.|0.8
+Uh, I have skipped this|0.35
+for years in rooms like this.|0.55
+I can talk— I can talk about courage all afternoon|0.4
+and stay foggy about the man|0.3
+who first showed me what a man was.|0.75
+Fog felt like loyalty.|0.5
+A lot of the time it was fear|0.35
+with a clean shirt on.|0.8
+So I'll set one line down.|0.45
+What sat in that chair was handed to you.|1.15
+What you do with the chair|0.4
+is yours.|1.3
+# SECTION: The Four Marks
+[warmly] One sentence|0.4
+holds four marks of a real man.|0.55
+I have not found a cleaner list.|0.7
+Here they are.|0.4
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.|1.35
+# CUT SCREEN: creed board — "A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's." — new angle after
+You've heard that list in here, right?|0.55
+I'm gonna say it,|0.3
+and I am not gonna tour it.|0.65
+Today is the chair.|1.1
+The marks do not erase what you inherited.|0.55
+They tell a man he still has a life to live|0.4
+on the far side of that chair.|0.8
+Stay with the second line a second.|0.5
+Picks up the weight.|0.65
+Uh, hear what it does not mean.|0.5
+It does not— it does not mean|0.35
+the empty place was your fault.|0.6
+It does not mean God shrugs|0.35
+at what a boy had to live near.|0.65
+It means the day in front of you|0.35
+still has your name on it.|0.9
+A wound can explain a man for a long time|0.45
+and never once move him.|1.15
+I mean, I know that from the inside.|0.5
+I have gotten very clear|0.35
+about why I am the way I am,|0.4
+and then I have gone home|0.3
+and been that same man.|0.75
+Uh, clarity felt like progress.|0.5
+My wife could tell you|0.3
+it was just a better speech.|0.7
+You know, a man can sound healed|0.4
+and still be camped in the explanation.|0.75
+The explanation is comfortable.|0.45
+Nothing in the room has to change.|0.7
+Passivity sounds polite on this one.|0.5
+I stay off the subject.|0.4
+I call that respect.|0.55
+Uh, the chair does not stay off you|0.4
+just because you stayed off it.|0.8
+So here is the line, plain.|0.5
+What sat in the chair was handed to you.|1.1
+What you do with the chair is yours.|1.3
+If you remember one thing from this part,|0.4
+remember that understanding|0.35
+is not the same thing as owning.|1.05
+We'll tell the truth about what you were handed.|0.5
+We will not use it as a couch.|1.2
+# SECTION: What Belonged There
+Paul names what belonged in a father's place.|0.55
+Ephesians six, verse four.|0.6
+This is the NIV.|0.45
+Fathers, do not exasperate your children.|0.5
+Instead, bring them up|0.3
+in the training and instruction of the Lord.|1.25
+Uh, stay with that.|0.45
+He does not ask for a perfect man.|0.5
+He asks— he asks for a father.|0.55
+A voice a boy can actually get to.|0.65
+Training.|0.35
+Instruction.|0.4
+The Lord in the room.|0.5
+Not only a paycheck.|1.2
+A paycheck can keep a roof up.|0.45
+It cannot raise a child.|0.55
+A boy can be fed|0.3
+and still be hungry for a man who will look at him.|0.7
+That hunger is not drama.|0.5
+Uh, it's the thing Paul just put in the chair.|0.6
+A voice you can get to.|0.55
+If that voice was thin in your house,|0.45
+or missing,|0.35
+you are not inventing a wound.|1.05
+You are telling the truth about a gap.|0.75
+[quietly] My dad was not a storm.|0.55
+I need you to hear that.|0.45
+He came home.|0.35
+He kept things running.|0.45
+When I was scared of something ordinary,|0.4
+a tryout, a hard teacher,|0.3
+the first time I had to talk|0.3
+where people could see me,|0.5
+I would get— I would get one sentence out.|0.55
+He would hand me a plan.|0.45
+What time to leave.|0.3
+What to say first.|0.3
+What to do with my hands.|0.6
+Uh, the plan was love.|0.45
+I can see that now.|0.5
+It was also a shut door|0.3
+on the part of me that was scared.|0.75
+Uh, I learned a man handles fear|0.35
+by getting useful.|0.65
+Uh, I still do it.|0.5
+My wife will ask how I am,|0.35
+and I will brief her on the gutters.|0.6
+The gutters are fine.|0.4
+That was not the question.|0.85
+If your house had the plan|0.3
+and not the man you could reach,|0.45
+you are allowed to say so.|0.55
+I have watched a man defend his father|0.4
+so hard he couldn't tell the truth.|0.65
+Love can do that.|0.5
+Uh, love does not ask you to lie|0.4
+about the place he couldn't go.|0.75
+Gratitude and a gap|0.3
+can sit in the same sentence.|1.15
+Don't sand one of them off to save the other.|1.2
+# SECTION: Which Chair
+Now the chairs are not all the same.|0.55
+Do not sand yours until it matches mine.|0.65
+Uh, some never arrived.|0.5
+There was no name for the line|0.35
+where a father goes,|0.4
+and you learned to say, it's just us,|0.4
+so fast it sounded like a preference.|0.75
+Some, you know, left.|0.45
+He said he'd be back when the work eased,|0.4
+and it never eased,|0.35
+and nobody finished the story.|0.8
+Some died,|0.35
+and a plate still gets set.|0.5
+A coat stays on a hook|0.3
+because moving it would make the quiet louder.|0.75
+Some came home already gone.|0.55
+Body in the house.|0.35
+The rest of him loaned out|0.35
+until the house learned not to knock.|0.8
+Some were a storm.|0.5
+You learned the rooms by his volume.|0.45
+Uh, some of you made yourselves hard to notice.|0.5
+Some of you stepped in front of it|0.35
+so a smaller kid wouldn't have to.|0.75
+And some of you had a good man there.|0.5
+I mean, I am glad.|0.4
+He showed up.|0.3
+He paid what needed paying.|0.4
+There is still a place he could not reach.|0.6
+You are not ungrateful for noticing.|0.8
+[quietly] Every man here inherited something.|1.1
+You may have to look harder for yours.|0.5
+Looking harder is not betrayal.|0.65
+I still carry mine into my own house.|0.55
+Uh, I come in from the day,|0.35
+and I stop in the doorway|0.35
+before I walk into a full table.|0.7
+My daughter caught it.|0.45
+She said, you always stop.|0.6
+She wasn't scolding.|0.4
+She was, you know, reporting.|0.65
+I told her I left something in the truck.|0.5
+I hadn't.|0.5
+The old chair walks in with me.|0.45
+For a second I don't want it on my face.|0.7
+Stopping is human.|0.45
+Living in the doorway is a choice.|1.15
+How many of you have a true sentence|0.35
+about your father|0.3
+you have never said out loud?|0.55
+Take your time.|ROOM_HANDS
+All right.|0.4
+You are not strange for having it.|0.65
+You won't shout it at this whole room.|0.5
+You will say it at a table.|0.55
+You are not the only one carrying a chair.|1.25
+# SECTION: What Sat Down
+A boy will not leave a hole that size empty.|0.6
+Somebody, or something, ends up in it.|0.55
+And whatever ends up there helps raise him.|1.15
+Uh, sometimes the boy climbs in himself.|0.55
+He writes a private manual.|0.45
+Never ask twice.|0.35
+Never look like you need a ride.|0.4
+Never let them see you stuck.|0.65
+Uh, some real strength comes out of that.|0.55
+So does a man nobody can father anymore.|0.5
+Not a brother.|0.3
+Not the Lord.|0.6
+An honest question starts to feel like a test.|0.75
+I have a note in my phone|0.35
+called things I don't need.|0.45
+The note needs its own drawer.|ROOM_CHUCKLE
+That note is the manual.|0.4
+Still open.|0.35
+Still hiring.|0.65
+For a lot of boys a hard rule takes the seat.|0.55
+Need somebody, and you will pay for it.|0.55
+So he grows up, you know, wanting nothing.|0.5
+He tells his people he's simple.|0.45
+He believes it.|0.45
+They can live beside him for years|0.35
+and still not know what he'd love.|0.8
+Uh, other boys become the family news.|0.5
+Who is upset.|0.3
+Who needs smoothing.|0.35
+Who must not— who must not be bothered.|0.6
+Ask him how he is,|0.3
+and he briefs you on everybody else.|0.7
+His own insides don't get a vote.|0.75
+Or, I mean, a crowd takes the seat.|0.5
+He keeps a list of men who think he's solid.|0.55
+He says yes to the crew,|0.3
+the setup,|0.25
+the job nobody wanted,|0.4
+because a nod feels like a father.|0.7
+The years stack up.|0.4
+He is still collecting nods.|0.6
+And sometimes the seat holds|0.35
+the man he swore he'd never be.|0.65
+He promises he will never go quiet|0.4
+the way his father went quiet.|0.5
+Uh, so he talks.|0.35
+Advice.|0.3
+Commentary.|0.35
+He fills every quiet in the house|0.4
+so nobody will feel left.|0.6
+His kids cannot find a man who listens.|0.65
+The promise was love.|0.45
+It also became his whole picture.|0.6
+[quietly] Name what took your seat.|1.15
+The manual.|0.3
+The shrug.|0.3
+The news report.|0.35
+The nod.|0.3
+The promise.|0.45
+You can thank what kept you alive|0.4
+and still tell it the seat is closed.|1.2
+# SECTION: Dean
+Let me tell you about a man I sat with a long time.|0.6
+I'll call him, uh, Dean.|0.55
+If a couch had to move, Dean was already there.|0.55
+Guys trusted him.|0.45
+I did too.|0.65
+At his house, one chair at the table had a job.|0.55
+It held the mail.|0.5
+Not for a messy night.|0.4
+For years.|0.5
+His wife set supper at the counter.|0.5
+The boy did homework on the rug,|0.4
+because the table was Dad's papers.|0.7
+Dean would say— Dean would say|0.35
+he'd clear it when life eased up.|0.6
+Life did not ease up.|0.5
+He was home.|0.35
+He called it providing.|0.5
+The chair at the end stayed hired.|0.75
+One evening the boy asked|0.35
+if they could eat at the table|0.35
+like his buddy's family.|0.6
+Dean said the table was how a man stays ahead.|0.65
+The boy said okay.|0.4
+He did not ask again.|0.75
+Later the boy started taking his plate down the hall.|0.55
+Door mostly shut.|0.45
+Dean got hot.|0.4
+He called it disrespect.|0.5
+He told us with his jaw tight.|0.6
+I asked him who taught that boy|0.4
+a shut door was a normal supper.|1.05
+Dean went still.|0.65
+He looked at his hands.|0.45
+He said he needed to go home.|0.9
+A few days later he moved the mail.|0.55
+No speech.|0.35
+Into a crate on the floor.|0.5
+He wiped the chair and sat down.|0.6
+His knee bumped the table,|0.4
+because his body wasn't used to that seat.|0.7
+He called down the hall.|0.45
+The boy looked at the chair|0.35
+like it might be a trick.|0.65
+Dean said, sit down.|0.4
+I'm here.|0.65
+They ate soup.|0.4
+The boy talked about a kickball fight.|0.55
+Dean felt a speech coming.|0.45
+He swallowed it.|0.5
+He said, then what happened.|0.65
+The boy kept going.|0.55
+Dean told me the soup went lukewarm.|0.55
+First meal in that chair he could remember on purpose.|0.8
+He had been home every night.|0.5
+His son still had a blank chair.|0.6
+He had filled it with paper|0.35
+and called the paper love.|1.1
+[quietly] The habit explained him.|0.5
+It did not excuse the next supper.|0.65
+What he did with the chair, once he saw it, was his.|0.7
+His boy was not asking for a philosophy.|0.55
+He was asking if that chair could hold a father.|0.7
+Dean did not fix his childhood that day.|0.55
+He sat down.|0.45
+That was the owning.|1.25
+# SECTION: Still Yours
+Now listen.|0.4
+This is where a man slips.|0.55
+The chair explains you.|0.5
+It does not excuse you.|1.3
+Nobody handed a boy a vote|0.4
+on whether his father would stay,|0.4
+or soften,|0.3
+or ever look up.|0.65
+Uh, it happened.|0.4
+It shaped you.|0.45
+God knows the lines of it.|0.5
+He is not bored by your story.|0.75
+From here, what you do with it is yours.|1.1
+The people near you|0.3
+do not live in the house you grew up in.|0.6
+They live with the man who walks in now.|0.65
+If you go sharp, you know, they meet the sharp.|0.5
+If you go gone, they meet the gone.|0.55
+They did not sign up|0.3
+for a house they never lived in.|0.75
+The sharp tone can be shaped like his silence|0.5
+and still be yours today.|0.6
+I mean, she meets the voice in the room now.|0.55
+Not the old house.|0.6
+Owning it is not blaming the boy you were.|0.55
+Owning it is refusing|0.35
+to make them pay for that house now.|0.8
+I have used— I have used a clear story|0.4
+like it was a changed life.|0.6
+Uh, you sound wise.|0.35
+The room stays the same.|0.7
+[dry] My boy asked me once|0.4
+what my dad was like.|0.5
+I said, he was a good man, we're good,|0.4
+so fast I almost pulled something.|ROOM_CHUCKLE
+He wasn't asking for a verdict.|0.5
+He was asking if the subject|0.3
+was allowed in our house.|0.7
+I closed it.|0.4
+I called the speed respect.|0.55
+It was fear.|1.05
+Uh, I have also tried|0.35
+to set the whole chair in my wife's lap.|0.55
+One night I walked her through my childhood|0.45
+like she had agreed to finish it.|0.65
+She was, uh, kind.|0.4
+She was not my father.|0.45
+She was not the Lord.|0.5
+When she couldn't make me feel done,|0.45
+I went quiet.|0.4
+I called it, she doesn't get it.|0.7
+What she got|0.3
+was a chair she was never meant to hold.|1.05
+She can know the story.|0.45
+She should not have to be the chair.|1.15
+You can father with a hole.|0.5
+You don't get to hand her the hole|0.4
+and call it honesty.|1.2
+# SECTION: Say It Plain
+[quietly] So what does a man do with this.|0.6
+Two things.|0.4
+I'm gonna stop at two.|0.5
+There is more mercy ahead|0.35
+than we are opening here.|0.6
+Today is not the day we patch the hole|0.4
+and call the feeling finished.|0.75
+Today we tell the truth about the chair.|1.1
+First, he says it.|0.5
+Uh, out loud.|0.35
+Where his own ears can hear it.|0.65
+Not a— not a documentary.|0.45
+One sentence.|0.5
+He was gone before I had words for it.|0.55
+He ate at our table,|0.35
+and I still don't know what he thought of me.|0.7
+I learned the house|0.3
+by whether it was safe to breathe.|0.65
+He was good to us,|0.35
+and I am still waiting on one sentence.|1.0
+If yours starts with,|0.3
+we don't really go there,|0.45
+that sentence already went there.|0.75
+Second, he lets it weigh what it weighs.|0.6
+Men will, you know, trade almost anything to skip this.|0.6
+Uh, we get insightful.|0.4
+We find a clean line|0.35
+and feel grown|0.3
+because it didn't cost us anything.|0.75
+Grief is not a hobby you pick up.|0.55
+Grief is telling the truth|0.35
+about the size of what never came.|1.1
+A voice you needed.|0.4
+A man who would stay in the question.|0.5
+Words you waited on as a boy|0.35
+and, uh, still catch yourself listening for.|0.75
+Let it be as heavy as it actually was.|0.7
+A tidy line will not carry that weight.|0.65
+If you skip the weight,|0.4
+you will keep leaking it|0.35
+on people who did not dig the hole.|0.75
+I sat down once|0.35
+to write my father a letter|0.4
+I was not going to send.|0.55
+I mean, I cheated early.|0.45
+I made headings.|0.4
+What he did well.|0.35
+A little box I called growth areas,|0.4
+like he was up for a promotion.|0.5
+My dad is not on my staff.|ROOM_CHUCKLE
+A pile of thanks.|0.4
+Not one line about what I needed.|0.6
+Thanks can be true|0.3
+and still be a place to hide.|0.75
+Uh, I went back.|0.4
+I wrote the plain line.|0.5
+Shorter.|0.3
+It cost more.|1.2
+# SECTION: Warren
+[quietly] An older man sat with us a long time.|0.55
+I'll call him Warren.|0.5
+His father died|0.35
+before they ever talked straight.|0.6
+Uh, Warren had made the visits.|0.45
+Rain.|0.25
+The garden.|0.3
+Whether the old truck had another year.|0.6
+He kept— he kept meaning|0.35
+to say the real thing next time.|0.6
+Next time was a funeral.|0.8
+He stood in a line of people|0.4
+who said his dad was a good man.|0.6
+Warren nodded.|0.45
+He told me later he wanted to say,|0.4
+good is not the same as known.|0.7
+He didn't say it in that line.|0.65
+Uh, he told me he felt foolish,|0.4
+writing to a man who couldn't read it.|0.65
+Uh, he wrote the page anyway.|0.55
+What he needed.|0.35
+What never came.|0.35
+One thing he was honestly glad of.|0.65
+Nowhere to send it.|0.5
+He kept it.|0.45
+Then he brought one sentence to the group.|0.55
+His voice, you know, shook.|0.4
+He didn't decorate it.|0.6
+A younger guy started with, at least.|0.55
+Warren lifted a hand.|0.4
+He said, don't.|0.55
+Not mean.|0.3
+Just finished being smoothed.|0.7
+I mean, I backed him.|0.4
+Another man said, I'm sorry.|0.55
+Then nobody hurried.|0.65
+Warren said the sentence got lighter|0.45
+once a second man heard it|0.4
+without trying to bury it.|1.05
+He folded the page into a book he actually opens.|0.6
+Not a shrine.|0.4
+A place his hands already go.|0.55
+He didn't need a reply from the grave.|0.55
+He needed the sentence said|0.4
+where another man stayed put.|0.8
+If you are older, hear me.|0.5
+A door can close|0.35
+before the talk does.|0.6
+Death can get there first.|0.45
+Distance can.|0.4
+You can still say what needed saying.|0.6
+Uh, write it.|0.35
+Read one sentence to a brother.|0.5
+The words need a chair to land in,|0.4
+even if your father cannot hear them.|1.0
+And if a man starts curing you,|0.4
+you can say, not yet.|0.55
+He can hear you.|0.4
+He cannot sit in that chair for you.|1.2
+# SECTION: The Whole Room
+[warmly] Let me walk the room,|0.4
+because one picture will not fit all of you.|0.7
+Uh, young men.|0.45
+Stop waiting for a ghost to sit down|0.4
+before you become a man.|0.65
+Tell the truth about the chair|0.35
+and still grow up.|0.55
+An empty seat is not a pass|0.35
+to stay a boy.|0.85
+Uh, if you're single,|0.4
+hear this clean.|0.45
+A future wife cannot sit in that chair.|0.65
+She can love you.|0.35
+She cannot be your father.|0.6
+Don't hand her a job she was never given.|0.65
+And don't park your life|0.35
+until some seat fills.|0.55
+You already have a life.|0.45
+Live it as a man who tells the truth.|0.8
+Husbands.|0.4
+You can— you can father with a hole in you.|0.6
+You must not dump that chair in her lap.|0.65
+Your kids are not a project|0.35
+you use to finish your own childhood.|0.6
+They are not a stage|0.3
+for the old weather either.|0.75
+If the days are split between houses,|0.5
+your kids are reading the chair you sit in|0.4
+on the day that is yours.|0.6
+Not the speech about the schedule.|0.55
+Uh, show up in the ordinary hours.|0.5
+That is a man taking the chair he has now.|0.75
+If he is alive and still hard to reach,|0.5
+don't wait on his growing up|0.4
+before you start yours.|0.8
+If the chair was, you know, cruel,|0.45
+cruel is not the same as empty.|0.55
+Both are real.|0.5
+You don't owe us a soft version.|0.55
+You also don't have to build a monster|0.4
+before you're allowed to speak.|0.7
+Kind.|0.3
+Slow.|0.35
+Name what was.|0.65
+And if you think this hour|0.35
+is only for a sadder man,|0.5
+look again.|0.45
+A good chair can still leave a gap.|0.6
+You are in this too.|0.7
+If the work is going well,|0.45
+don't let the hours fool you.|0.55
+Hours will not father you.|0.5
+They will not father your kids|0.4
+if all they get|0.3
+is the last ten minutes.|1.0
+A full calendar is just another way|0.4
+to be gone inside your own house.|0.8
+I have, uh, hidden in being useful.|0.5
+Useful gets praised.|0.45
+Useful can still miss a boy in the hall.|1.15
+# SECTION: To the Tables
+[warmly] Let me bring this home.|0.55
+The chair at the end of the table|0.4
+taught you more than you asked to learn.|0.6
+It explains you.|0.45
+It does not excuse you.|0.65
+What sat in the chair was handed to you.|1.05
+What you do with the chair is yours.|1.3
+What I hope— what I hope you carry|0.4
+is not a finished healing.|0.55
+I hope you leave having named the chair|0.45
+in plain words,|0.4
+and knowing the naming counts.|0.7
+You are not stuck as the boy in the story.|0.55
+You are a man who can tell the truth|0.4
+about what happened|0.35
+and still decide the next thing.|1.0
+That is dignity.|0.5
+It is not a shove.|0.65
+The marks still stand.|0.45
+I won't tour them.|0.5
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.|0.95
+# CUT SCREEN: creed board — "A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's." — new angle after
+Your workbook is where this gets particular.|0.6
+Uh, in a minute you sit at the tables|0.4
+and work this part together.|0.65
+Get the questions in your ear.|0.55
+Finish this out loud.|0.45
+The chair at the end of my table was blank.|0.75
+If blank is not, you know, your word,|0.4
+put the true word there.|0.55
+Then, what one thing did that chair teach you?|0.8
+And can you say one true sentence|0.35
+about your father,|0.3
+without a speech?|1.0
+Write your— write your father a letter you will not send.|0.55
+Tell him what you needed,|0.35
+what you did not get,|0.35
+and what you're grateful for, if anything.|0.6
+Uh, keep it where you can find it.|0.55
+You'll want it later.|0.65
+I mean, tell a brother the sentence.|0.45
+Not the letter, unless you want to.|0.55
+Let him say, me too,|0.35
+or, I'm sorry.|0.45
+Don't hurry past either one.|0.75
+If he starts a cure, stop him.|0.5
+Uh, he can hear you.|0.4
+He cannot sit there for you.|0.7
+Carry this.|0.4
+What sat in the chair was handed to you.|0.55
+What you do with the chair is yours.|1.1
+Tables are yours.|0.45
+Work that part of the workbook together.|0.6
+I'll be around.|1.2

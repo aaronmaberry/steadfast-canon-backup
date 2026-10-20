@@ -42,7 +42,7 @@ Here is the course sentence. You know it. Today you learn why it holds.
 
 [Slide: the four marks]
 
-A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
 Write it down again. Slower this time. Four marks. Not four moods. Not four qualities you either have or do not. Four things a man does, which over time leave four things you can see on him, the way you can see the grooves on that bench. I did not invent this sentence. Men have been handing it to one another for years because it holds. I have held it up against my own life and against the lives of men in every season I can name, and I have never found a place where it lies.
 
@@ -59,7 +59,7 @@ Chapter three is titled The Four Marks. Here is the claim.
 
 [Slide: Marks are grooves left by what a man does, not moods he feels.]
 
-A real man is known by four marks left by what he does on ordinary days: he rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man is known by four marks left by what he does on ordinary days: he stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
 Write that under the marks. Define the word mark. A mark is evidence in the wood. It is not a vibe. It is not a brand. It is not a personality type. If your manhood only exists when you feel inspired, you do not have marks. You have weather.
 
@@ -94,16 +94,16 @@ Fourth, and I will press this. The verse is not a mood board. Have the same mind
 
 Say it with me. A mark is what gets left on you by what you have done, over and over, for a long time.
 
-Read the four marks again in your notes before we move. Rejects passivity. Accepts responsibility. Leads courageously. Expects the greater reward, God's reward. Everything in the next twenty weeks hangs on one of those four hooks. Today we touch all four on purpose.
+Read the four marks again in your notes before we move. Stops waiting. Picks up the weight. Goes first. Works for God's pay, not the room's. Everything in the next twenty weeks hangs on one of those four hooks. Today we touch all four on purpose.
 
 Four movements. One mark each. Let's go.
 
 ---
 
-## 4. MOVEMENT ONE: HE REJECTS PASSIVITY [10:00]
+## 4. MOVEMENT ONE: HE STOPS WAITING [10:00]
 
 **MAX:**
-Movement one. He rejects passivity.
+Movement one. He stops waiting.
 
 Every town has a man on a tailgate. He is not a bad man. He has opinions about the weather and the school board and the way the city runs the water department, and he will share every one of them while the work he came to do waits behind him. He is waiting for the right time, or the right price, or the right feeling, and he has waited so long that the waiting has started to look like wisdom.
 
@@ -111,47 +111,47 @@ Passivity is a man's default setting. It almost never looks like laziness. It lo
 
 The first man in the Bible was passive in exactly this way. When the serpent came into the garden and started twisting the one command God had given, Genesis says the man was with her. He did not grab the fruit and he did not argue for it. He stood there, and his standing there was enough to break the world.
 
-Rejecting passivity does not mean getting loud, or pushy, or mistaking volume for strength. It means that when something needs doing, and you know it, and you are the one standing there, you get off the tailgate. You bring up the hard conversation instead of hoping it gets brought up. You do not wait for a feeling before you start. Next week, Stop Waiting, looks at this closely. Today I need you to see the mark.
+Refusing to wait does not mean getting loud, or pushy, or mistaking volume for strength. It means that when something needs doing, and you know it, and you are the one standing there, you get off the tailgate. You bring up the hard conversation instead of hoping it gets brought up. You do not wait for a feeling before you start. Next week, Stop Waiting, looks at this closely. Today I need you to see the mark.
 
 Taxonomy of the tailgate, briefly, so you can spot yourself. Waiting for the right time. Waiting for the right price. Waiting for the right feeling. Waiting for someone else to bring it up. Waiting until the kids are older. Waiting until work calms down. Waiting until you have read one more book about the conversation you will not have. Every one of those can sound responsible. Every one of them can be a man standing very still while the work waits behind him.
 
-For the wounded man. Rejecting passivity is not the same as blaming yourself for what was done to you. It is refusing to let the wound become a permanent reason to stay on the tailgate when something in front of you is yours to do now.
+For the wounded man. Refusing to wait is not the same as blaming yourself for what was done to you. It is refusing to let the wound become a permanent reason to stay on the tailgate when something in front of you is yours to do now.
 
 Illustration from my own life. I once let a hard conversation with a project owner wait for eleven days because I told myself I was being wise. I was not being wise. I was on the tailgate with better vocabulary. The delay cost the crew a week and cost me a piece of trust I had to rebuild the hard way. Passivity dressed as prudence still leaves a groove. The wrong kind.
 
-Here is the teaching point. The first mark is not a personality transplant. Quiet men reject passivity. Loud men can sit on a tailgate and call it strategy. The question is not how much sound you make. The question is whether the thing that needed doing got a man while you were standing there. Adam did not shout. He stood. Standing was enough to break the world.
+Here is the teaching point. The first mark is not a personality transplant. Quiet men stop waiting. Loud men can sit on a tailgate and call it strategy. The question is not how much sound you make. The question is whether the thing that needed doing got a man while you were standing there. Adam did not shout. He stood. Standing was enough to break the world.
 
 Movement one, summarized. Passivity looks like wisdom until the work behind you starts to rot. Write this down: get off the tailgate.
 
 ---
 
-## 5. MOVEMENT TWO: HE ACCEPTS RESPONSIBILITY [15:00]
+## 5. MOVEMENT TWO: HE PICKS UP THE WEIGHT [15:00]
 
 **MAX:**
-Movement two. He accepts responsibility.
+Movement two. He picks up the weight.
 
 The second mark is weight. I helped a friend move a gun safe one August, four hundred pounds of steel down a narrow hallway in heat that made the air thick. There is a moment with a load like that when you are committed. You have lifted it, he has lifted it, and the only way through is through. You cannot set it down in the hallway. You cannot decide halfway along that this is not really your safe. You carry it to where it is going, and then you set it down.
 
 That is what responsibility feels like on a man. A boy waits for responsibility to be assigned, then argues about whether the assignment was fair. A man looks at what is in front of him and says that is mine, even when it is not his fault and nobody would blame him for walking past. The bill nobody wants to open is his. The kid nobody is talking to is his. The apology nobody is making is his.
 
-Lamentations says it is good for a man to bear the yoke while he is young. Good, not merely tolerable. The weight shapes him. Session five, Pick Up the Weight, shows how to take it without being crushed by it. Today see the mark: accepts responsibility.
+Lamentations says it is good for a man to bear the yoke while he is young. Good, not merely tolerable. The weight shapes him. Session five, Pick Up the Weight, shows how to take it without being crushed by it. Today see the mark: picks up the weight.
 
 Hear the difference between fault and responsibility before we leave this movement, because good men get stuck here. Fault asks who caused it. Responsibility asks whose it is now. A man can be at no fault for the layoff, the diagnosis, the father who left debts, and every one of those can still be his to carry. Fairness is a fine question for a courtroom. It is a useless one for a wall. The book will use a load bearing wall image in chapter five. The safe is today's image. Same idea. The weight lands somewhere.
 
-For the single man. Your safe is mostly yourself right now, and it is heavier than you think, because nobody is home to notice when you set it down. Accepting responsibility starts with your body, your money, your word, your habits, the state of your soul.
+For the single man. Your safe is mostly yourself right now, and it is heavier than you think, because nobody is home to notice when you set it down. Picking up the weight starts with your body, your money, your word, your habits, the state of your soul.
 
 I will tell on myself. There was a year I treated my kids' bedtime like staff work my wife ran. I provided the house. I told myself that was the weight. It was part of the weight. It was not the whole weight. The hallway still needed a man in it. When I finally said that is mine out loud, the safe did not get lighter. I got clearer.
 
-The book will warn you later that some weight is not yours. Moses asked for seventy elders. We will get there in session five. Do not use that warning today as a way back to the tailgate. Today the mark is accepts responsibility. A man looks at what is in front of him and says that is mine. The refinement of what is not yours comes after you stop pointing.
+The book will warn you later that some weight is not yours. Moses asked for seventy elders. We will get there in session five. Do not use that warning today as a way back to the tailgate. Today the mark is picks up the weight. A man looks at what is in front of him and says that is mine. The refinement of what is not yours comes after you stop pointing.
 
 Movement two, summarized. Fault asks who caused it. Responsibility asks whose it is now. Write this down: that is mine.
 
 ---
 
-## 6. MOVEMENT THREE: HE LEADS COURAGEOUSLY [19:30]
+## 6. MOVEMENT THREE: HE GOES FIRST [19:30]
 
 **MAX:**
-Movement three. He leads courageously.
+Movement three. He goes first.
 
 Somewhere there is a cold stock tank and a bunch of boys on the bank. The water is colder than any of them expected, and everybody is waiting for somebody to go first. That is leadership. Not the title. Not the corner office. Being the one who goes into the cold water first so the others can follow.
 
@@ -159,34 +159,34 @@ Somebody has to go first, in every house and every crew and every church. Somebo
 
 Courage is not the absence of fear. If you were not afraid, it would not take courage to move. Courage is a man who is afraid putting his boots on anyway and walking. When God told Joshua to be strong and courageous, He did not tell him to stop being afraid. He told him what to do while he was afraid, and why he could do it. Session six, Go First, is about that.
 
-Where first happens in ordinary life, so you do not wait for a stock tank. First to apologize clean. First to pray at your own table. First to name the rubble everyone can see and nobody is saying. First to turn across a cold kitchen. First to say come and then walk, not go while you watch from the porch. Those are chapter six's rooms. Today you only need the mark: leads courageously means somebody moves while everyone else is still looking.
+Where first happens in ordinary life, so you do not wait for a stock tank. First to apologize clean. First to pray at your own table. First to name the rubble everyone can see and nobody is saying. First to turn across a cold kitchen. First to say come and then walk, not go while you watch from the porch. Those are chapter six's rooms. Today you only need the mark: goes first means somebody moves while everyone else is still looking.
 
 For the older man. Going first may be walking across a church lobby toward a younger man who will never cross it toward you. The cold water is different. The mark is the same.
 
 On a job once, a pour was going wrong and every superintendent on the call was waiting for someone else to stop it. I was the one who finally said stop. My voice shook. The crew heard it. We still saved the slab. Leadership that day was not a speech. It was a man stepping into cold water while his heart was loud.
 
-Cowardice almost always travels under a nicer name. Discernment. Timing. Not my place. Keeping the peace. Sometimes those words are true. Often they are a man hanging back while the stock tank waits and the boys on the bank learn that nobody goes first. The third mark cuts that in half. Leads courageously. Afraid and moving.
+Cowardice almost always travels under a nicer name. Discernment. Timing. Not my place. Keeping the peace. Sometimes those words are true. Often they are a man hanging back while the stock tank waits and the boys on the bank learn that nobody goes first. The third mark cuts that in half. Goes first. Afraid and moving.
 
 Movement three, summarized. Leadership is the first man into the cold so the others can follow. Write this down: go first while afraid.
 
 ---
 
-## 7. MOVEMENT FOUR: HE EXPECTS THE GREATER REWARD [24:00]
+## 7. MOVEMENT FOUR: HE WORKS FOR GOD'S PAY [24:00]
 
 **MAX:**
-Movement four. He expects the greater reward.
+Movement four. He works for God's pay.
 
 The last mark is the one that separates a good man from a godly one. It is the one most men skip, so the book puts it last on purpose.
 
 Pecan trees do not hurry. Plant one this fall and you will water it for years before it gives you a single nut worth cracking. Every man who ever planted a pecan orchard was planting for somebody else. You do not plant pecans because you intend to eat pecans. You plant them because you believe in a harvest you will not hold in your own hands, and you are willing to spend your strength on it anyway.
 
-That is the fourth mark. A real man expects the greater reward, God's reward, and that expectation changes what he does with ordinary days more than anything else in this book. He can do the right thing when nobody is looking. He can stay married through a hard decade. He can give money that will not come back and time that will not be thanked, because he believes a Father sees what is done in secret.
+That is the fourth mark. A steadfast man works for God's pay, not the room's, and that changes what he does with ordinary days more than anything else in this book. He can do the right thing when nobody is looking. He can stay married through a hard decade. He can give money that will not come back and time that will not be thanked, because he believes a Father sees what is done in secret.
 
 I have come to believe the fourth mark is what makes the other three possible. Nerve runs out. Applause runs out. A harvest you are sure of does not. That is why the book saves it for last on purpose, and why skipping it turns the first three into a gym program for the ego.
 
 Hebrews says anyone who comes to God must believe that He exists and that He rewards those who earnestly seek Him. He rewards, and God is not embarrassed by that word. The man who does not expect a reward from God will go looking for one somewhere else: applause, money, women, a bigger truck, a boy's approval, his own father's approval. Session seven will go deeper. Today see why four, and why these.
 
-I planted a thing like this wrongly for years. I did the first three marks when they paid in applause and went quiet when they paid in secret. That is not four marks. That is three marks with a fake fourth. God's reward is what makes unseen faithfulness possible when the room stops clapping.
+I planted a thing like this wrongly for years. I did the first three marks when they paid in applause and went quiet when they paid in secret. That is not four marks. That is three marks with a fake fourth. God's pay is what makes unseen faithfulness possible when the room stops clapping.
 
 Each mark answers a specific way men break. Passivity is how a man breaks by doing nothing. Blame and evasion are how he breaks by refusing weight. Cowardice, which almost always travels under a nicer name, is how he breaks by hanging back. Living for the wrong reward is how he breaks slowly, across a whole working life, while looking successful. I have never met a man in trouble whose trouble did not trace back to one of those four.
 
@@ -196,7 +196,7 @@ Same four marks in every season. The ground changes. The marks do not. A young m
 
 Before you turn the page in your head to next week, hear the book's counsel. You have the sentence. Do not try to fix all four this week. Find the mark that is faintest on you and hold that one for a while. The men I have watched change did not change all at once. They worked one mark on one ordinary day, then did it again. May the Father who made you in His image show you which mark He wants to press into you first, and may He be patient with you while it takes, the way He has been patient with me.
 
-Movement four, summarized. Without God's reward the other three become a hustle. Write this down: plant pecans on purpose.
+Movement four, summarized. Without God's pay the other three become a hustle. Write this down: plant pecans on purpose.
 
 ---
 
@@ -213,11 +213,11 @@ Not all four. One. Passivity, responsibility, courage, or reward. Full sentence.
 
 Then, because a sentence in a book stays in the book until you put it where your eyes go, write the four marks on an index card in your own handwriting and put it on the truck visor or the shaving mirror, somewhere you will see it on an ordinary morning this week.
 
-I did the card this week. Mine sits on the visor. The faintest mark I named out loud to my wife was expects the greater reward. I can reject passivity on a job when money is on the line. I go quiet on unseen faithfulness when nobody is clapping. That is the groove I am watching.
+I did the card this week. Mine sits on the visor. The faintest mark I named out loud to my wife was the fourth, works for God's pay. I can stop waiting on a job when money is on the line. I go quiet on unseen faithfulness when nobody is clapping. That is the groove I am watching.
 
 For the single man. Your card still goes where your eyes go. Nobody else will put it there for you.
 
-For the older man. Your faintest mark may be lead courageously toward a younger man in the lobby. The badge is gone. The marks are not.
+For the older man. Your faintest mark may be going first toward a younger man in the lobby. The badge is gone. The marks are not.
 
 For the high performer. Your life may already look grooved from the outside. Ask which groove is missing when nobody is watching. That is usually the fourth mark, or the first one dressed as busyness.
 
@@ -248,7 +248,7 @@ The four marks, once more, and then you are dismissed.
 
 [Slide: the four marks]
 
-A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
 The men I have watched change did not change all at once. They worked one mark on one ordinary day, then did it again.
 
@@ -260,7 +260,7 @@ I'm Max.
 
 Get off the tailgate. Write the card before you sleep.
 
-Session four begins the first mark in weekday clothes. Session five puts weight in your hands. Session six opens a door. Session seven funds the whole thing with God's reward. Tonight you only need the sentence on a card and the faintest mark named. Do not try to graduate the course in one evening. Grooves are cut by repetition, not by intensity. If your brother names a different faintest mark than you did, believe him long enough to look again. Other men can see grooves you have stopped feeling. That is why tell a brother is not optional small talk. It is part of how marks get pressed.
+Session four begins the first mark in weekday clothes. Session five puts weight in your hands. Session six opens a door. Session seven funds the whole thing with God's pay. Tonight you only need the sentence on a card and the faintest mark named. Do not try to graduate the course in one evening. Grooves are cut by repetition, not by intensity. If your brother names a different faintest mark than you did, believe him long enough to look again. Other men can see grooves you have stopped feeling. That is why tell a brother is not optional small talk. It is part of how marks get pressed.
 
 One mark. One ordinary day. Then again. That is how grooves get cut.
 
@@ -287,10 +287,10 @@ Timestamps (edit to match final cut):
 00:00 Open
 04:30 Claim
 07:00 Text
-10:00 Rejects passivity
-15:00 Accepts responsibility
-19:30 Leads courageously
-24:00 Expects the greater reward
+10:00 Stops waiting
+15:00 Picks up the weight
+19:30 Goes first
+24:00 Works for God's pay
 27:30 Application
 29:30 Close
 

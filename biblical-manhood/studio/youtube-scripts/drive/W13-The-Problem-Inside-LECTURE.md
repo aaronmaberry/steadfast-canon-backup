@@ -34,9 +34,9 @@ The problem is you, and me, and every man who has ever lived, and Scripture has 
 
 [Slide: the four marks]
 
-A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
-Write it down. All four start here, with a man who quits painting and says the word. Reject passivity that will not name what is yours. Accept responsibility for what walked through the door. Lead into confession instead of Adam's excuse. Expect God's reward instead of a life spent blaming the inheritance.
+Write it down. All four start here, with a man who quits painting and says the word. Stop the waiting that will not name what is yours. Pick up the weight of what walked through the door. Lead into confession instead of Adam's excuse. Work for God's pay instead of a life spent blaming the inheritance.
 
 ---
 
@@ -152,7 +152,7 @@ Before application, walk the chapter once more so it does not stay abstract.
 
 You inherited real things. Empty chairs. Missing handoffs. No brothers. No man ahead. Those shaped you. They are not the whole problem. Adam had none of those wounds and still hid and blamed. Paint on the fender. Rust on the back. Soft words for hard places. Struggle instead of sin. Shame instead of guilt. Trying harder instead of turning. Silence wasting bones. One honest sentence. Brother who says thank you for telling me. Steadfast spirit asked for, not performed.
 
-The four marks start here. You cannot reject passivity while you are still painting. You cannot accept responsibility while the sentence ends with but she or but he. You cannot lead courageously while the drawer stays locked. You cannot expect God's reward while you are living for the relief of never being the problem.
+The four marks start here. You cannot stop waiting while you are still painting. You cannot pick up the weight while the sentence ends with but she or but he. You cannot go first while the drawer stays locked. You cannot work for God's pay while you are living for the relief of never being the problem.
 
 Put the body man language on your card. Coming from the inside. I sinned. Not I struggle with. Guilt, not shame. Turn. Brother. Pure heart. Steadfast spirit. Then get back to work on an ordinary Tuesday with the right fix.
 
@@ -199,7 +199,7 @@ Ask for the steadfast spirit as a daily sentence this week, not as a mood. Creat
 
 Seasons again with dirt on them. Single man: the tool you learn now is the tool a wife should not have to invent for you. New father: when you go small on your kid the way you used to go small, name it the same night. Divorced seat: her part and your part are two sentences. Say yours without stapling hers to it. Middle life: the competent outside can hide a decade of bubbles. Older man: unison confession on Sunday is good and not enough; say your name and your deed in the cab.
 
-The four marks again without decoration. Reject passivity: stop sanding and call the body man. Accept responsibility: I sinned, period. Lead courageously: tell a brother before the dark closes. Expect God's reward: the cure is already paid; quit living for the reward of never being at fault.
+The four marks again without decoration. Stop waiting: stop sanding and call the body man. Pick up the weight: I sinned, period. Go first: tell a brother before the dark closes. Work for God's pay: the cure is already paid; quit living for the reward of never being at fault.
 
 If you leave this session still protecting Adam's excuse, you will paint through the rest of the course. If you leave with one specific sentence and a brother's prayer, you will enter next week's shapes with clean eyes. The foyer face can wait. The glass cannot.
 
@@ -247,7 +247,7 @@ The four marks, once more.
 
 [Slide: the four marks]
 
-A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
 Session fourteen next week: How That Looks on a Man.
 

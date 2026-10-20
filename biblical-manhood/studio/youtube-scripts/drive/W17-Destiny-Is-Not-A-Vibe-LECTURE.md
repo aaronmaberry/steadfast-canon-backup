@@ -35,7 +35,7 @@ I know that dock. I have been the young man who set the paper down. I have also 
 
 [Slide: the four marks]
 
-A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
 Write it down. Today we will not parade the marks through every paragraph. Destiny has its own sentence. The marks still hang over the room. Open and close. The body of this session stays on the slip.
 
@@ -265,7 +265,7 @@ The four marks, once more.
 
 [Slide: the four marks]
 
-A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
 Session eighteen next week doubles: If There Is No Wife Yet, and Know Her.
 

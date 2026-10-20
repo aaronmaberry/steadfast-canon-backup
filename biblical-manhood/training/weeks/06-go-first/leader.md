@@ -9,15 +9,15 @@ Wes Hart
 
 **Read this week:** Chapter 6, Go first.
 
-**Aim:** Lead courageously. Go first when going first will cost you.
+**Aim:** Go first, even when going first will cost you.
 
 **One job:** Name the room, the people, and the thing that needs to happen first.
 
-**Pitfall:** Do not preach the wait. Do not preach the load. Do not unpack reward. Do not baptize a bully. Do not let managing pass as leading. One room. One door. Eight seconds.
+**Pitfall:** Do not preach the wait. Do not preach the load. Do not unpack God's pay. Do not baptize a bully. Do not let managing pass as leading. One room. One door. Eight seconds.
 
 **Time:** about an hour. Church, small group, or a man alone.
 
-A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
 Say it. Do not unpack it. Tonight is the third mark.
 

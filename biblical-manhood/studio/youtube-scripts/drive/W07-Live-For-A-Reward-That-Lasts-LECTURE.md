@@ -32,13 +32,13 @@ I want to put a picture in front of you before I state the claim. A folding tabl
 
 I do not tell you that to make you sad. I tell you because every one of those was once a reward a man lived for, and it worked. For a night, it worked. That is the thing about rewards you can hold. They all work, for a while, and then you need another one.
 
-The fourth mark of a man is that he expects the greater reward, God's reward. It is the one that makes the other three hold. Rejecting passivity, picking up weight, and going first all cost something now. Take this mark away and the other three turn into a brave face on a bad deal. Why get up off the step if no one is keeping score? Why say that is mine when blame costs nothing later? Why open the door first if this street is all there is? The other three marks are questions until this one answers them.
+The fourth mark of a man is that he works for God's pay, not the room's. It is the one that makes the other three hold. Refusing to wait, picking up the weight, and going first all cost something now. Take this mark away and the other three turn into a brave face on a bad deal. Why get up off the step if no one is keeping score? Why say that is mine when blame costs nothing later? Why open the door first if this street is all there is? The other three marks are questions until this one answers them.
 
 [Slide: the four marks]
 
-A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
-Write it down. Today's weight is on the fourth mark. Expects the greater reward, God's reward.
+Write it down. Today's weight is on the fourth mark. Works for God's pay, not the room's.
 
 ---
 
@@ -49,15 +49,15 @@ Chapter seven is titled Live for a Reward That Lasts. Here is the claim of the c
 
 [Slide: Every man lives for a reward. The only question is which one.]
 
-Every man lives for a reward. The only question is which one. Live for the reward that lasts, God's reward, or you will spend a life collecting checks that clear for a night and end up with a box on a folding table.
+Every man lives for a reward. The only question is which one. Live for the reward that lasts, God's pay, or you will spend a life collecting checks that clear for a night and end up with a box on a folding table.
 
 Write that down under the four marks. I am going to define the terms so you do not hear this loosely.
 
 A reward is whatever a man is actually steering toward when nobody is preaching at him. Not what he says he values on Sunday. What he checks on the drive in. What he will burn an evening to collect. What he will quit for when it stops paying.
 
-God's reward is not a health plan and not a bigger house. It is the Father who sees in secret, the inheritance Colossians names, the Well done and Come and share your master's happiness that Matthew records. Welcome. More entrusted. His joy thrown open. A son who wants his Father glad he came home.
+God's pay is not a health plan and not a bigger house. It is the Father who sees in secret, the inheritance Colossians names, the Well done and Come and share your master's happiness that Matthew records. Welcome. More entrusted. His joy thrown open. A son who wants his Father glad he came home.
 
-What the claim does not say. It does not say applause, money, being wanted, being right, a father's nod, comfort, or being remembered are evil. Most are good in their place. It says every one of them has a bottom, and every one of them is not God. It does not say working for God's reward is mercenary. Look at what the reward is. It is Him.
+What the claim does not say. It does not say applause, money, being wanted, being right, a father's nod, comfort, or being remembered are evil. Most are good in their place. It says every one of them has a bottom, and every one of them is not God. It does not say working for God's pay is mercenary. Look at what the reward is. It is Him.
 
 Hold that. Scripture under it.
 
@@ -141,7 +141,7 @@ Moses understood the trade. He grew up in the palace, with the biggest treasure 
 
 Looking ahead. That is the whole posture. Not gritting his teeth. Looking past the treasure room to something worth more, and choosing accordingly. A man can walk away from almost anything if he is looking at something better. He cannot walk away from much of anything if all he can see is what he is leaving.
 
-Be clear about what this does not promise, because the counterfeit is loud. God's reward is not a health plan. It is not a bigger house or a smoother year or a guarantee that your kids turn out. It does not promise the man who stays a warmer marriage by spring, or the man who forgives an apology back. Men who preached that have left wreckage. Paul, who had been beaten and shipwrecked, put it this way in Second Corinthians four. Our light and momentary troubles are achieving for us an eternal glory that far outweighs them all. So we fix our eyes not on what is seen, but on what is unseen.
+Be clear about what this does not promise, because the counterfeit is loud. God's pay is not a health plan. It is not a bigger house or a smoother year or a guarantee that your kids turn out. It does not promise the man who stays a warmer marriage by spring, or the man who forgives an apology back. Men who preached that have left wreckage. Paul, who had been beaten and shipwrecked, put it this way in Second Corinthians four. Our light and momentary troubles are achieving for us an eternal glory that far outweighs them all. So we fix our eyes not on what is seen, but on what is unseen.
 
 Light and momentary. From a man with scars. He could say it because he had done the math with the right numbers, and the troubles were not being subtracted. They were achieving something. The reward does not cancel the hard years. It is what the hard years are building.
 
@@ -154,7 +154,7 @@ Movement three, summarized. Write this down: Well done is a welcome, not a bonus
 **MAX:**
 Movement four. What it does to a man, and how to live for it.
 
-You can tell a man who is living for God's reward without asking him. He does good that nobody sees and does not mention it later. He loses arguments he could win. He stays when leaving would be easier. He takes the low place at the table and the low job on the crew without checking who noticed. He forgives, not because the other man deserves it but because the account he cares about is not the one between him and that man. And he plants what he will not taste. He prays for grandchildren who do not exist yet. He teaches a boy to work who will teach his own boy after he is gone.
+You can tell a man who is working for God's pay without asking him. He does good that nobody sees and does not mention it later. He loses arguments he could win. He stays when leaving would be easier. He takes the low place at the table and the low job on the crew without checking who noticed. He forgives, not because the other man deserves it but because the account he cares about is not the one between him and that man. And he plants what he will not taste. He prays for grandchildren who do not exist yet. He teaches a boy to work who will teach his own boy after he is gone.
 
 None of that makes sense if the payout is here. All of it makes sense if it is there.
 
@@ -177,7 +177,7 @@ Seats, blunt. Young man: your applause addiction will train you to quit when the
 Movement four, summarized. Write this down: steadfast is four marks with eyes on a reward the curb cannot claim.
 Before application, I want to walk the fourth mark one more time so it does not stay abstract.
 
-The other three marks ask a man to pay now. Reject passivity on a Tuesday when the couch is easier. Accept responsibility when blame would be cheaper. Lead courageously when the window face is safer. If there is no greater reward, those payments are a bad deal, and eventually a man stops making them. That is why this chapter sits where it sits. It funds the course.
+The other three marks ask a man to pay now. Stop waiting on a Tuesday when the couch is easier. Pick up the weight when blame would be cheaper. Go first when the window face is safer. If there is no God's pay, those payments are a bad deal, and eventually a man stops making them. That is why this chapter sits where it sits. It funds the course.
 
 Say it plainly for the seats. Young man: you are being trained to live for applause that dies in the parking lot. Trade up before the habit hardens. Single man: being wanted will steer your evenings unless a better treasure sits higher. Married man: being right has already cost you intimacy you cannot buy back with flowers. Father: the nod you never got will make you either harsh or hollow with your kids unless you take that account to the Father. Older man: being remembered is already writing your speeches. Plant trees you will not sit under. Wounded man: small rewards feel like justice. They are still too small. High performer: you have been paid in full more times than you admit, and you are still hungry. That hunger is evidence, not failure.
 
@@ -185,7 +185,7 @@ Rehearse the vault language until it is yours. Moths. Vermin. Thieves. Secret. F
 
 I want you to feel the difference between a reward that needs an audience and a reward that requires you to lose the audience. The first makes you a performer of manhood. The second makes you a son at work. Site Max can collect the early close. Home Max still has to decide who the dishes are for. The invoice can be for the Lord. The diaper can be for the Lord. The spreadsheet can be for the Lord. Colossians did not reserve the inheritance for men with microphones.
 
-Do not confuse God's reward with a prosperity slogan. Paul had scars when he said light and momentary. The hard years are not a bug in the system. They are achieving something if your eyes are fixed on what is unseen. That does not make pain good. It makes pain not wasted.
+Do not confuse God's pay with a prosperity slogan. Paul had scars when he said light and momentary. The hard years are not a bug in the system. They are achieving something if your eyes are fixed on what is unseen. That does not make pain good. It makes pain not wasted.
 
 If last week's first door felt expensive, this week tells you why you can keep opening doors. The clap may never come. The Father still sees. The yard sale still cannot touch what He keeps.
 
@@ -199,7 +199,7 @@ Let me say the fourth mark without poetry one more time so nobody leaves with a 
 
 Every man lives for a reward. Applause. The number. Being wanted. Being right. The father's nod. Comfort. Being remembered. Name yours. Trade up. Store treasure where moths cannot reach. Lose the audience on purpose. Work the invoice and the diaper as unto the Lord. Want Well done as welcome, not as a bonus. Look ahead like Moses. Fix your eyes daily. Do one secret good. Rehearse Well done on the thankless drive home. Notice when you are performing. Pray past Thursday. That is the chapter. That is the mark. That is how the other three keep paying.
 
-If you try to reject passivity without a greater reward, you will eventually decide the couch is smarter. If you try to accept responsibility without a greater reward, blame will look like wisdom. If you try to go first without a greater reward, the eight seconds will feel like stupidity. The fourth mark is not decorative. It is structural.
+If you try to stop waiting without God's pay, you will eventually decide the couch is smarter. If you try to pick up the weight without God's pay, blame will look like wisdom. If you try to go first without God's pay, the eight seconds will feel like stupidity. The fourth mark is not decorative. It is structural.
 
 I have watched men stay in hard marriages, hard churches, and hard towns because they were looking ahead, and I have watched more gifted men leave easier fights because the only reward they could see was comfort. Looking ahead is not denial. It is math with eternal numbers. Second Corinthians says the troubles are achieving something. That sentence can hold a man when the yard sale cannot.
 
@@ -213,13 +213,13 @@ One last pass for the man who will try to keep both vaults open.
 
 You cannot. The heart follows treasure. Matthew six is not suggesting a balanced portfolio. Where your treasure is, there your heart will be also. If the number is still the treasure, your heart will be on the drive in. If the Father who sees is the treasure, your heart can stay in a secret driveway before dawn.
 
-Steadfast is the old word for the man who rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward, with his eyes off the curb box. Live for a reward that lasts. Then get back to work. Secret good this week. Small reward named to a brother. Card sentence in the morning. That is the job.
+Steadfast is the old word for the man who stops waiting, picks up the weight, goes first, and works for God's pay, not the room's, with his eyes off the curb box. Live for a reward that lasts. Then get back to work. Secret good this week. Small reward named to a brother. Card sentence in the morning. That is the job.
 
 I will not add a fifth small reward to chase called spiritual reputation. If you do the secret good and then fish for a way to be seen as the kind of man who does secret goods, you have been paid. The Father who sees in secret is enough audience. Keep the secret. Name the small reward to a brother. Carry the question which reward. Come back next week ready for the empty chair, because many small rewards are attempts to fill what a chair left empty.
 
 Last line before the job. Every man lives for a reward. The only question is which one. If yours has been small, you took the nearest one because it paid tonight. Trade up. The Father who sees in secret does not lose the account. Fix your eyes. Do the secret good. Tell the brother the small reward, not the secret. Then get back to work on an ordinary Tuesday with heaven in view.
 
-Session eight will ask about the empty chair. Hear the link now. Many small rewards are a man trying to collect from applause, numbers, and nods what a father never put in his chest. Trade up anyway. The greater reward is not a substitute dad. It is God. Still trade up.
+Session eight will ask about the empty chair. Hear the link now. Many small rewards are a man trying to collect from applause, numbers, and nods what a father never put in his chest. Trade up anyway. God's pay is not a substitute dad. It is God. Still trade up.
 
 ---
 
@@ -261,7 +261,7 @@ The four marks, once more.
 
 [Slide: the four marks]
 
-A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
 Session eight, The Empty Chair, next week.
 

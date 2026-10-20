@@ -37,9 +37,9 @@ Most men could not. They crossed from boy to man the way a river crosses a count
 
 [Slide: the four marks]
 
-A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
-Write it down. Today the marks confront orbit and slam. Reject passivity that keeps your hand on the knob. Accept responsibility for the honor you still owe. Lead up the walk. Quit waiting on a father's apology as your reward.
+Write it down. Today the marks confront orbit and slam. Stop the waiting that keeps your hand on the knob. Pick up the weight of the honor you still owe. Lead up the walk. Quit waiting on a father's apology as your reward.
 
 ---
 
@@ -178,7 +178,7 @@ Four-part conversation for the man who slammed or froze on the porch. What I nee
 
 Older men in the room: you are not spectators. Utility sink handoffs are the job. I have watched you. You are a good man. I would trust you with anything I own. Say it. Young fathers: you can hand off what you never received, and the giving heals something. Divorced seat: the Father's word was not revoked in a courtroom. Single man: decide, then tell. Do not clear every major turn with the old kitchen.
 
-The four marks land on both chapters. Reject the passivity of the knob. Accept responsibility for honor still owed. Lead up the walk. Expect God's reward instead of a father's apology as your payout.
+The four marks land on both chapters. Stop waiting at the knob. Pick up the weight of honor still owed. Lead up the walk. Work for God's pay instead of a father's apology as your payout.
 
 You are allowed in. You always were, because the Father said so first. Now go find a man who will say it out loud, and then go be a man who does. Walk out gently. Pull the door shut without a sound. When you come back, knock. Build a house with a door your son can knock on someday.
 
@@ -252,7 +252,7 @@ The four marks, once more.
 
 [Slide: the four marks]
 
-A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
 Session twelve next week doubles again: A Man with No Brothers, and Ask the Man.
 

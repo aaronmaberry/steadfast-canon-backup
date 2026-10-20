@@ -9,15 +9,15 @@ Wes Hart
 
 **Read this week:** Chapter 4, Stop waiting.
 
-**Aim:** Reject passivity. Waiting is not peace. A man answers on his feet.
+**Aim:** Stop waiting. Waiting is not peace. A man answers on his feet.
 
 **One job:** Name the one thing you have been going to get to the longest, and how long.
 
-**Pitfall:** Do not lecture the book back. Do not unpack responsibility, courage, or reward tonight. Do not scold a wounded man into motion. Name one wait. Get one move on paper with a day and a noon.
+**Pitfall:** Do not lecture the book back. Do not unpack the weight, going first, or God's pay tonight. Do not scold a wounded man into motion. Name one wait. Get one move on paper with a day and a noon.
 
 **Time:** about an hour. Church, small group, or a man alone.
 
-A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
 Say it with them. Do not swap a word. Tonight is only the first mark.
 

@@ -35,9 +35,9 @@ And then a man stands in the strip of dirt along the garage after the kids are i
 
 [Slide: the four marks]
 
-A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
-Write it down. Today the marks stop being a list of qualities and become a portrait. Reject passivity is Rise, let us go. Accept responsibility is not as I will. Lead courageously is went out. Expect God's reward is for the joy set before Him. The marks are Jesus in the worst hour of His life.
+Write it down. Today the marks stop being a list of qualities and become a portrait. Stop waiting is Rise, let us go. Pick up the weight is not as I will. Go first is went out. Work for God's pay is for the joy set before Him. The marks are Jesus in the worst hour of His life.
 
 ---
 
@@ -171,7 +171,7 @@ Do not split the double into blueprint class and gospel class. The packet tells 
 
 If you have never asked Him to move you out of Adam, ask tonight. If you have, pick tomorrow's garden and His sentence before your feet hit the floor. Brothers need to hear which man you are in. That is the most important question in this book.
 
-Four marks last time without list energy. Reject passivity: speak when the word is twisted; get up; go out. Accept responsibility: not as I will; me not them; I did this. Lead courageously: face in the dirt then toward the mob. Expect God's reward: joy set before; it is finished; far side of the cross.
+Four marks last time without list energy. Stop waiting: speak when the word is twisted; get up; go out. Pick up the weight: not as I will; me not them; I did this. Go first: face in the dirt then toward the mob. Work for God's pay: joy set before; it is finished; far side of the cross.
 
 Last line before the job. You were made to work it and keep it. The four marks are Jesus in Gethsemane. Two men. Two ways. Be in Him. Walk His way through your small garden. Ask Him to move you if you never have. Then stand up.
 
@@ -194,7 +194,7 @@ Small gardens catalog. Kitchen unfair sentence. Phone at midnight. Baby cry. Wor
 
 I chased the next place and called it calling. Blueprint said place. I took Adam's silence in a kitchen and called it keeping the peace. It was not peace. It was the first garden with modern lighting. The second Man's sentences are short on purpose. Tired men can say them.
 
-Four marks as portrait one more time. Reject passivity: with her and speaking. Accept responsibility: cup and me not them. Lead: out toward the worst thing. Greater reward: joy beyond the cross, not fruit in the hand.
+Four marks as portrait one more time. Stop waiting: with her and speaking. Pick up the weight: cup and me not them. Lead: out toward the worst thing. God's pay: joy beyond the cross, not fruit in the hand.
 
 Do not leave half done. Read Genesis one and two. Name bent piece. Name last garden and way. Morning sentence. Tell a brother which man you are in. That is both chapters in one obedience.
 
@@ -261,7 +261,7 @@ The four marks, once more.
 
 [Slide: the four marks]
 
-A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
 Session seventeen next week: Destiny Is Not a Vibe.
 

@@ -1,0 +1,726 @@
+# SECTION: Welcome
+[warmly] Hey.|0.5
+Good to see you sitting down.|0.8
+Uh, I got here a little early.|0.45
+Room was already quiet.|0.4
+So I stood in the back|0.35
+and nodded at a man who wasn't there.|ROOM_CHUCKLE
+[dry] Yeah.|0.4
+I will manage a doorway|0.35
+before I will start a true thing.|0.75
+Some of you, you know, ran a cousin of that|0.4
+out where the cars are.|0.5
+One more song.|0.3
+One more text that could've waited.|0.55
+Then you came in.|0.5
+I'm glad.|1.05
+Last time we talked about not doing this alone.|0.6
+A man you could call|0.35
+if you went down.|0.5
+A man out ahead,|0.35
+if you'd ask him.|0.7
+Some of you asked.|0.45
+Some of you, uh, still have the name|0.4
+and not the talk.|0.7
+I'm not— I'm not gonna walk that road again.|0.7
+You can have a good man in your corner|0.45
+and still wreck the next room you enter.|1.05
+You can leave a hard house|0.4
+and set the same man down|0.35
+in a kinder kitchen.|0.9
+That's what we're on.|0.55
+The problem inside.|1.15
+If you're new, I'm Wes.|0.45
+You're in the right chair.|0.8
+Now listen.|0.45
+A man can tell a true story|0.4
+about what was done to him.|0.6
+I want that story told|0.35
+where it belongs.|0.65
+He can still be hiding|0.4
+what he himself did|0.35
+before breakfast.|0.9
+Both can be true.|0.55
+Only one of them|0.35
+is his to hand to God.|1.2
+# SECTION: The marks
+[warmly] One sentence|0.45
+gives us four marks|0.4
+for what a real man is.|0.7
+I have not improved them.|0.6
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.|1.3
+# CUT SCREEN: creed board — "A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's." — new angle after
+You've heard them in this room.|0.55
+I'm not gonna tour the list.|0.6
+Today they stand over what's in you.|0.75
+Not over the old story alone.|1.05
+Uh, passivity, today,|0.4
+is a soft word|0.35
+where a true one belongs.|0.7
+Responsibility is a sentence|0.4
+that can end|0.3
+without a second author.|0.75
+Courage is letting another man hear it|0.45
+while your face is still hot.|0.8
+And God's pay|0.4
+is not the relief|0.35
+of never being the problem.|0.9
+His pay|0.35
+is a man made new.|1.15
+Here's the claim.|0.55
+The trouble is not only|0.35
+what was done to you.|0.6
+The trouble is in you.|0.7
+It's in me.|0.55
+It has a name.|0.45
+The name has a cure.|0.5
+And the cure|0.3
+has already been paid for.|1.2
+If I only soak the wound,|0.45
+you leave with sympathy|0.4
+and a full alibi.|0.8
+I won't do that to you.|0.65
+I mean, the wound can be real.|0.55
+We'll say that plain.|0.5
+It still does not get|0.35
+to write the rest of your days.|1.15
+# SECTION: What you carry in
+You can change the house.|0.55
+You can change the street.|0.5
+You cannot drop yourself off|0.4
+at the last place|0.35
+and drive away clean.|0.9
+I know the speech.|0.45
+If they had been better,|0.4
+I would be better.|0.7
+Some of that is true.|0.55
+It is not the whole wound.|1.15
+Uh, let me tell on myself.|0.5
+A while back I got home late.|0.45
+Not a crisis.|0.4
+I just didn't want the kitchen.|0.55
+The noise.|0.3
+The questions.|0.4
+The ordinary ask of being a husband.|0.7
+So I rode around.|0.45
+I told my wife I was finishing something.|0.6
+I wasn't.|0.5
+When it came up later,|0.4
+I had a softer line ready.|0.5
+I said, I haven't been my best.|0.65
+[quietly] That sentence was true|0.4
+and it was a cover.|0.8
+Haven't been my best|0.4
+can mean anything.|0.5
+It let me skip the part|0.35
+where I chose a lie|0.4
+so I could stay out.|0.85
+The day was long.|0.45
+The day did not pick the route.|0.55
+I did.|1.1
+You know, I wanted the old story|0.45
+to carry that hour.|0.55
+My people.|0.35
+My pace.|0.35
+My tired.|0.5
+Some of those are real.|0.55
+None of them sent the text|0.4
+that said I was still working.|0.8
+Stay with that.|0.5
+You cannot repent|0.35
+of another man's sin.|0.7
+You can repent of yours.|0.65
+That is not a harsher life.|0.55
+That is the first thing|0.35
+God actually has in His hands.|1.25
+# SECTION: Even a kind house
+Now, don't hear a trick.|0.5
+I'm not saying a hard house|0.4
+did nothing.|0.55
+It did.|0.45
+Some of you are still bleeding|0.4
+from a man who should've stayed|0.4
+and didn't.|0.7
+I will not talk over that.|0.8
+Hear the other half.|0.55
+Say the house had been steady.|0.5
+Say he knew your name|0.35
+and used it kindly.|0.5
+Say he came back|0.3
+when he said he would.|0.65
+I still would not hand you|0.4
+a clean heart|0.35
+at the end of that story.|1.1
+Something in a man|0.4
+leans the wrong way|0.4
+even in a kind room.|1.15
+Uh, I learned that in my own kitchen,|0.5
+on a Saturday that was fine.|0.6
+My boy mouthed off.|0.45
+Not a crime.|0.4
+A boy, tired,|0.3
+testing the edge.|0.55
+I corrected him|0.35
+at a volume|0.3
+that was about me.|0.6
+Somebody from the street|0.35
+could've heard.|0.45
+I didn't want to be the man|0.4
+who couldn't hold a Saturday.|0.7
+Later I told myself|0.4
+I just care about respect.|0.65
+[dry] Respect was not the volume.|0.7
+Embarrassment was.|0.85
+My wife didn't pile on.|0.45
+She looked at me.|0.5
+She didn't have to build a case.|0.6
+I already knew the sentence.|0.55
+I sinned.|0.4
+I used my son's ear|0.35
+to settle my pride.|0.9
+A calmer childhood|0.4
+would not have pulled that volume|0.4
+out of my mouth.|0.6
+The volume was mine.|1.1
+You can be handed a hard pattern.|0.55
+You are still the one|0.35
+who runs it today.|1.2
+# SECTION: Desire is not delivery
+[warmly] Paul tells on a man|0.4
+who loves God|0.35
+and still finds a law in himself|0.45
+that will not obey.|0.8
+He is not performing despair.|0.6
+He is telling the truth.|0.7
+Romans seven, verse eighteen.|0.6
+For I know that good itself|0.35
+does not dwell in me,|0.45
+that is, in my sinful nature.|0.7
+For I have the desire|0.35
+to do what is good,|0.45
+but I cannot carry it out.|1.3
+Desire is not delivery.|1.15
+A clean intention|0.4
+is not a clean heart.|0.9
+Uh, you can want|0.35
+to be a gentle man at supper|0.45
+and still hear your own voice cut.|0.75
+You can want the true sentence|0.4
+and feel the smoother one win.|0.8
+I have wanted the right thing|0.45
+and watched my feet|0.35
+go the other way.|0.7
+You know that split.|0.55
+It is not rare in this room.|0.7
+And it is not the proof|0.4
+that you don't love God.|0.65
+Paul loved God|0.35
+and wrote the split down.|0.7
+Here's where men get fooled.|0.55
+They think more wanting|0.4
+will finish the job.|0.6
+Or more managing.|0.45
+A cleaner schedule.|0.4
+A stricter morning.|0.45
+I mean, those can be good.|0.5
+They are not new metal in a man.|0.7
+They are coaching.|0.55
+You can be coached|0.35
+into looking fine.|0.6
+Looking fine|0.3
+is a surface.|0.5
+You need to be made new.|1.2
+Hold the verse one more time,|0.45
+because it's kinder than it sounds.|0.6
+He has the desire.|0.45
+He cannot carry it out.|0.7
+That honesty|0.3
+is where God starts.|0.55
+Not where He shames a man|0.4
+for wanting good|0.35
+and missing it.|1.15
+# SECTION: Say the word
+The word is sin.|1.0
+Men dodge it two ways.|0.6
+Some reach for a softer word,|0.45
+because sin sounds too hard|0.4
+for a decent life.|0.65
+Uh, I had a whole set.|0.45
+I'm in a season.|0.45
+I'm working on my tone.|0.5
+I haven't been my best.|0.55
+I told a man I was in process.|0.5
+He said, toward what.|ROOM_CHUCKLE
+A struggle is something|0.35
+that happens to you.|0.55
+A sin is something you do.|0.65
+You manage a struggle.|0.5
+You repent of a sin.|0.8
+Soft words keep the room polite.|0.55
+They also keep the real thing employed.|0.9
+Other men dodge it|0.4
+because somebody swung that word|0.4
+when they were boys.|0.6
+Loud.|0.35
+To win.|0.4
+You got small,|0.35
+and you decided|0.3
+you would never let that word|0.35
+near you again.|0.8
+[quietly] I am not here|0.35
+to borrow his volume.|0.65
+When God says sin,|0.45
+He is naming a sickness,|0.5
+not beating a child.|0.7
+A true name|0.3
+is how a sick man|0.35
+finds the doctor.|0.8
+So here is the job.|0.55
+Say it about yourself.|0.45
+Out loud.|0.4
+To God.|0.45
+Specific.|0.5
+I sinned.|0.4
+I blank.|0.7
+Not, I struggle with.|1.0
+The act has to be in the sentence.|0.65
+If the sentence could fit any man,|0.45
+it isn't yours yet.|0.8
+A younger guy in our circle,|0.45
+I'll call him Barry.|0.5
+Sharp mouth with his friends.|0.5
+He said he got it honest.|0.45
+His dad talked that way,|0.4
+so the cut wasn't really his.|0.7
+He texted me later.|0.45
+I sinned.|0.35
+I cut those men down at the table,|0.45
+and I liked the laugh.|0.55
+The laugh was mine.|0.9
+That's the sentence.|0.55
+No costume on it.|1.15
+# SECTION: Guilt, then a turn
+How many of you|0.4
+have a softer word ready|0.4
+for something you did?|0.55
+Go on.|0.35
+I'm not collecting them.|ROOM_HANDS
+Yeah.|0.4
+That's most of us.|0.55
+I carried one for years|0.4
+and called it humility.|0.75
+Keep two things apart,|0.45
+or the second one|0.3
+will steal the confession.|0.7
+Guilt says,|0.35
+I did a wrong thing.|0.65
+Shame says,|0.35
+I am a wrong thing.|0.8
+Guilt can be spoken.|0.5
+Then it can sit down.|0.65
+Shame will not sit.|0.5
+It keeps a man up,|0.4
+and it sends him back|0.35
+to whatever quiets the noise.|0.75
+The old cover|0.3
+was built for that feeling.|0.6
+If you only feel bad,|0.45
+shame is still running the hour.|0.8
+[dry] I once apologized|0.4
+to a door I had shut too hard.|0.55
+The door forgave me immediately.|ROOM_CHUCKLE
+The people on the other side|0.4
+were not a door.|0.7
+Feeling sorry is cheap|0.4
+when nothing in you turns.|0.75
+A man can ache about a thing|0.45
+for a long time|0.4
+and keep his feet|0.3
+pointed the same direction.|0.8
+That ache is not repentance.|0.7
+Repentance is the feet.|1.05
+You say it.|0.4
+You repair what can be repaired.|0.6
+You make the easy repeat|0.4
+harder next time.|0.6
+You go back to your work.|0.55
+And when you miss,|0.4
+you turn again.|0.7
+That is not a failed life.|0.55
+That is a Christian one,|0.45
+from the inside.|0.65
+A man keeps coming back|0.4
+to the Father he keeps leaving.|0.6
+And the Father|0.3
+keeps taking him in.|1.2
+# SECTION: The but on the end
+Let me show you the but.|0.55
+I have worn it.|0.5
+Uh, I got short with my wife|0.4
+on a morning that was already tight.|0.6
+Kids, clocks,|0.3
+a tone from me|0.35
+that didn't need to be there.|0.6
+I came back with a sorry|0.4
+that looked like a sorry.|0.55
+I'm sorry I got short,|0.4
+but you know how that morning went.|0.75
+The but ate it.|0.6
+I had hired her|0.35
+as the second author|0.4
+of my sin.|0.7
+She didn't need the essay.|0.5
+She needed the period.|0.75
+I had to go back.|0.45
+Same kitchen.|0.4
+Smaller voice.|0.45
+I sinned.|0.35
+I took a tight morning|0.35
+and I spent it on you.|0.6
+No because.|0.5
+You know, my mouth hated that.|0.55
+It wanted the context.|0.5
+Context can be true|0.4
+and still be a hiding place.|0.75
+If her name|0.3
+is the last word|0.3
+of your confession,|0.5
+you have not confessed.|0.6
+You have filed a complaint.|1.05
+[quietly] Married men,|0.45
+she is not the problem|0.4
+on this page.|0.6
+I don't know your whole house.|0.55
+I know this.|0.45
+If the only sentence you can build|0.45
+starts with her,|0.45
+you are still outside the work.|0.9
+Same if the last word|0.4
+is your boss,|0.35
+your dad,|0.35
+or the pressure.|0.6
+Pressure is real.|0.45
+Pressure did not choose|0.4
+the cruel line.|0.55
+You did.|1.0
+Say the sentence|0.35
+until it can stand|0.35
+without a crutch.|0.7
+Then, and only then,|0.4
+you may tell the rest of the truth|0.45
+about what was hard.|0.65
+The order matters.|1.15
+# SECTION: Owen
+A man I stood with,|0.4
+I'll call him Owen.|0.55
+His boy and mine|0.35
+ended up on the same field|0.4
+for a stretch of Saturdays.|0.6
+We weren't close at first.|0.5
+We just both stayed|0.3
+after the other dads left,|0.45
+picking up water bottles|0.4
+like it was a job.|0.65
+Owen could talk about his father|0.45
+without raising his voice.|0.6
+The man had been cruel.|0.45
+Not a cartoon.|0.4
+A real chronic meanness|0.4
+about what Owen cost him.|0.7
+I believe Owen.|0.5
+The story held.|0.55
+He had a patient wife|0.4
+and a decent little house,|0.45
+and from the outside|0.35
+he had gotten out.|0.7
+What he would not say|0.4
+was in a note on his phone.|0.6
+Lines about her.|0.4
+A cabinet left open.|0.4
+A tone she used when she was tired.|0.6
+He called it memory,|0.4
+so he wouldn't get spun.|0.65
+One Saturday he read me three lines,|0.5
+quiet,|0.3
+like he was explaining the marriage.|0.7
+I heard a man building a file.|0.65
+I said, Owen,|0.4
+that note isn't helping you remember.|0.55
+It's helping you win.|0.8
+He told me not to say it like that.|0.6
+We finished the bottles.|0.45
+We didn't fix it there.|0.7
+A few days on, he called.|0.5
+He said, I need a sentence,|0.4
+and I need you not to tidy it.|0.7
+I sinned.|0.45
+I have been collecting her faults|0.45
+so I would never have to look at mine.|1.1
+He thought I'd be done with him.|0.6
+I asked what he was gonna do next.|0.6
+Delete the note.|0.4
+Tell her he had kept it.|0.5
+And ask one man|0.35
+to ask him|0.3
+if the note came back.|0.7
+I prayed.|0.45
+He didn't need my speech.|0.55
+He told me later|0.4
+the hard part|0.3
+was his own voice|0.35
+saying I sinned|0.4
+with no because on the end.|0.8
+He slept.|0.45
+The next disagreement was shorter.|0.55
+He didn't have a list.|1.2
+# SECTION: Already paid
+[warmly] If I stopped there,|0.45
+you'd leave heavier,|0.45
+and I would have failed you.|0.8
+The name without the cure|0.45
+is just a brighter despair.|0.9
+Don't do that with this.|0.65
+First John one,|0.4
+verses eight and nine.|0.65
+If we claim to be without sin,|0.45
+we deceive ourselves|0.4
+and the truth is not in us.|0.7
+If we confess our sins,|0.45
+he is faithful and just|0.4
+and will forgive us our sins|0.45
+and purify us|0.35
+from all unrighteousness.|1.3
+Faithful.|0.4
+Just.|0.45
+Forgive.|0.45
+Purify.|0.7
+Not, coach him|0.35
+until the outside looks managed.|0.75
+Purify.|0.55
+That is inside work.|0.7
+Titus three, verse five.|0.6
+He saved us,|0.4
+not because of righteous things|0.4
+we had done,|0.45
+but because of his mercy.|0.65
+He saved us|0.35
+through the washing of rebirth|0.45
+and renewal by the Holy Spirit.|1.2
+Not because you finally sounded honest.|0.6
+Because of His mercy.|0.7
+Rebirth.|0.4
+Renewal.|0.55
+You are not being asked|0.4
+to decorate a man.|0.55
+You are being made new.|1.05
+Uh, the cure was paid|0.4
+before your sentence got brave.|0.7
+He did not wait|0.35
+until your story was tidy.|0.6
+He knew what was in you|0.4
+and He carried it anyway.|0.9
+So when you say I sinned,|0.5
+you are not informing God.|0.55
+You are agreeing with Him.|0.6
+And agreement|0.3
+is where the mercy lands.|1.1
+Proverbs twenty-eight, verse thirteen.|0.6
+Whoever conceals their sins|0.4
+does not prosper,|0.45
+but the one who confesses|0.4
+and renounces them|0.4
+finds mercy.|1.15
+Conceal.|0.4
+Or confess and renounce.|0.6
+Those are the two roads.|0.55
+Only one of them|0.35
+has mercy on it.|1.2
+# SECTION: Whoever is in the chair
+[quietly] Let me walk the room.|0.6
+Young men.|0.5
+You are not only your dad.|0.6
+If the sharp sentence|0.35
+came out of your mouth,|0.45
+it is also you.|0.65
+You can tell the truth|0.4
+about the house you learned it in|0.5
+and still own the cut you made.|0.75
+Honor what was hard.|0.5
+Don't hide inside it.|0.7
+If you're single,|0.45
+do not make a woman|0.35
+you have not met|0.4
+into your priest.|ROOM_CHUCKLE
+God can hear you today.|0.55
+A brother can hear you today.|0.6
+You do not need a wedding|0.4
+to tell the truth.|0.8
+If you're married,|0.45
+I said it,|0.3
+and I'll say it once more.|0.5
+She is not the assignment.|0.55
+This page is yours.|0.7
+If the house got quiet,|0.45
+if the papers are signed,|0.55
+I will not stand up here|0.4
+and total the whole wreck|0.4
+as yours.|0.65
+God saw every mile.|0.5
+So did the two of you.|0.6
+Your part is still yours.|0.6
+It has to be allowed to finish.|0.55
+I did this.|0.45
+Period.|0.5
+If her name is glued on the end,|0.5
+that is a different speech.|0.75
+[warmly] If you were wounded,|0.5
+hear this slow.|0.55
+Naming what is inside you|0.45
+does not make the wound fake.|0.7
+It happened.|0.45
+Naming your sin|0.35
+keeps his sin|0.3
+from becoming your alibi|0.4
+for the rest of a life.|0.9
+Older men.|0.5
+Some of you can tell the old story|0.45
+with real skill.|0.55
+It is polished.|0.4
+It is mostly true.|0.6
+If I asked what you did yesterday|0.45
+that needs the word sin,|0.5
+the account gets thin.|0.7
+A long story about him|0.4
+and a short story about you|0.45
+is still a place to hide.|1.15
+# SECTION: Before you sleep
+And if the work is going well,|0.5
+don't take a bow in this part.|0.6
+They trust you.|0.45
+The meeting.|0.35
+The crew.|0.35
+The hard call.|0.5
+Trusted is not the same as well.|0.75
+A clean record at work|0.45
+can sit on top|0.35
+of a man who hasn't told the truth|0.45
+in his own house|0.4
+in a long time.|0.9
+Uh, competence is a gift.|0.5
+It is not righteousness.|0.8
+So here is what you do with it.|0.6
+Not a program.|0.45
+A sentence,|0.35
+and then a habit of sentences.|0.7
+Before you sleep,|0.5
+name that day's sins|0.4
+by name.|0.55
+Out loud.|0.4
+To God.|0.5
+I sinned.|0.35
+I blank.|0.6
+Then thank Him.|0.5
+In Christ,|0.35
+the forgiveness|0.3
+is already yours.|0.7
+You are not paying it off|0.4
+with the naming.|0.55
+You are agreeing|0.35
+with a mercy|0.3
+that got there first.|0.8
+Watch what shame tries to do|0.45
+with the quiet after.|0.6
+It will want the last word.|0.55
+I am the wrong thing.|0.5
+Don't hand it that.|0.6
+Guilt told the truth.|0.45
+Shame is a liar|0.4
+on a true stage.|0.7
+And tell a brother one of them.|0.65
+To his face,|0.4
+or on the phone.|0.55
+Not a hint.|0.4
+The sentence.|0.5
+Tell him what you're gonna do next.|0.6
+Then let him pray.|0.65
+You don't need a perfect circle|0.45
+before you open your mouth.|0.6
+Sin does not wait|0.35
+until your friendships feel impressive.|0.75
+How many of you|0.4
+can already feel the sentence,|0.45
+and it still wants a because|0.4
+on the end?|0.55
+Hands.|0.35
+Be honest.|ROOM_HANDS
+Yeah.|0.45
+Leave the because|0.35
+in the chair|0.3
+when you go to the table.|1.15
+# SECTION: To the tables
+[warmly] Let me land this.|0.55
+The problem is in you.|0.6
+Not only in what was done to you.|0.65
+The wound can be real|0.4
+and still not be the author.|0.7
+Desire is not delivery.|0.55
+A soft word|0.3
+will keep the surface polite|0.4
+and keep the sin employed.|0.75
+Say, I sinned,|0.4
+and put the act in it.|0.6
+Not, I struggle with.|0.7
+Guilt tells the truth|0.4
+and then it can sit.|0.55
+Shame lies,|0.4
+and it will send you back|0.4
+to the cover.|0.65
+Turn.|0.4
+Repair what you can.|0.45
+Tell a brother.|0.45
+And remember the cure|0.4
+was paid before you were brave.|1.05
+What I hope you walk out with|0.5
+is one sentence|0.4
+you stopped decorating,|0.5
+and a Father|0.3
+who already knew it|0.4
+and stayed.|1.1
+Your workbook|0.35
+is where it gets particular.|0.65
+In a minute you'll sit at the tables|0.45
+and work this part together.|0.8
+Get the questions in your ear.|0.65
+Say it.|0.4
+I sinned.|0.35
+I blank.|0.5
+Not, I struggle with.|0.75
+What soft word|0.35
+have you been using on it?|0.7
+And who is gonna hear|0.4
+one of them?|0.65
+Before you sleep,|0.4
+name the day's sins by name.|0.55
+Thank Him|0.3
+that forgiveness is already yours|0.45
+in Christ.|0.5
+Notice what shame does|0.4
+when the room gets quiet.|0.65
+Tell a brother one.|0.5
+What you'll do next.|0.45
+Let him pray.|0.7
+Carry this,|0.4
+and write it where you'll see it.|0.6
+The problem inside has a name.|0.55
+The name has a cure.|0.5
+The cure has been paid for.|1.05
+The marks still stand.|0.55
+You've carried one sentence through this room.|0.55
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.|0.9
+# CUT SCREEN: creed board — "A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's." — new angle after
+Today the passive thing|0.4
+is the soft word.|0.5
+Say the true one.|0.55
+Tables are yours.|0.45
+Work this part of the workbook together.|0.65
+I'm not going far.|1.2

@@ -17,7 +17,7 @@ Wes Hart
 
 **Time:** about an hour. Church, small group, or a man alone. Two chapters. One hit. Not two sermons.
 
-A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
 Say it. Do not unpack it. Tonight is the work, then who is steering.
 

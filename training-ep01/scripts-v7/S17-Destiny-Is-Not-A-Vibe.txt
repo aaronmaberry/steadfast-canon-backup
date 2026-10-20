@@ -1,0 +1,735 @@
+# SECTION: Welcome
+[warmly] Hey. Good to see you sitting down.|0.65
+If you came in quiet, that's fine.|0.5
+Uh, a man on the aisle|0.3
+tried his chair,|0.3
+didn't trust it,|0.35
+and tried the next one.|0.45
+He sat.|0.3
+Then he eyed the chair|0.35
+like it had turned him in.|ROOM_CHUCKLE
+[dry] I've been that man.|0.5
+Glad you stayed in yours.|0.8
+If this voice is new, I'm Wes.|0.45
+You've got the name.|0.7
+Last time we named what was given|0.4
+before anything in a man broke.|0.6
+Design first.|0.4
+Then the fork.|0.55
+Some of you said your piece plain.|0.5
+Some of you, uh, carried it out|0.35
+and left it in a pocket.|0.7
+Today I'm not walking that ground again.|0.55
+I want the work the ground was for.|1.15
+Now listen.|0.45
+Ask a man what— ask a man what he is for.|0.55
+Watch his eyes, uh, hunt a window.|0.65
+He knows the hours.|0.4
+He knows, uh, the route.|0.5
+Ask him why the route matters,|0.4
+and the answer gets thin.|0.75
+I mean, he is not lost on the schedule.|0.5
+He is, uh, busy.|0.4
+Busy is not a why.|0.75
+I have stacked whole days|0.4
+and still couldn't name|0.35
+the person they were for.|0.8
+Here's the thing.|0.45
+Plenty of us, uh, hunt a feeling|0.4
+and call that feeling destiny.|0.7
+A warmth in the chest.|0.4
+A click that says, this one counts.|0.6
+The click fades.|0.45
+We decide the work faded with it.|0.8
+[quietly] Destiny is not a vibe.|1.4
+It is serving God's purpose|0.4
+in your own generation,|0.4
+in the place he put you,|0.4
+for the people he gave you,|0.45
+until it is finished.|1.45
+How many of you are still waiting|0.4
+on a feeling|0.35
+before you'll treat today as the work?|0.65
+Hand up.|0.3
+Nobody is collecting them.|ROOM_HANDS
+Yeah.|0.4
+Mine, uh, stayed down a long time.|0.55
+The life still matched the hands that went up.|0.85
+Stay with me.|0.4
+We're gonna name what the wait has been for.|0.6
+Then what God already put in reach.|1.25
+# SECTION: The marks over it
+[warmly] One sentence|0.4
+hands us four marks.|0.55
+I have not improved them.|0.5
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.|1.4
+# CUT SCREEN: creed board — "A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's." — new angle after
+You've heard them in this room.|0.55
+I'm not opening all four from the floor.|0.6
+Uh, today they stay where they belong.|0.5
+Over the work.|0.45
+Not in place of it.|0.65
+Feeling is not the fire.|1.15
+Say that where you can hear it.|0.6
+A man can recite the marks|0.45
+and still wait for his chest|0.4
+to approve the day.|0.75
+I have done that|0.4
+with a calm voice|0.4
+and, uh, a full calendar.|0.7
+I called the wait, uh, wisdom.|0.55
+It was passivity|0.4
+wearing a clean shirt.|0.85
+The marks tell a man how to walk.|0.55
+They do not hand him a mood.|0.65
+You can say stop waiting|0.45
+and still be waiting on a feeling.|0.7
+That wait is the passivity.|0.75
+You can talk about the weight|0.45
+and never touch the person|0.4
+already standing in front of you.|0.8
+I'm not gonna walk all four again.|0.55
+What I want in your ear|0.45
+is the sentence they stand over.|0.75
+A purpose from God.|0.5
+Your own generation.|0.45
+A real place.|0.4
+People with names.|0.5
+A finish.|0.65
+If the only proof you trust|0.45
+can fade before supper,|0.55
+you will chase the proof|0.45
+and call the chase a life.|1.1
+So let me set the sentence down bare.|0.55
+Destiny is not a vibe.|0.7
+It is serving God's purpose|0.4
+in your own generation,|0.4
+in the place he put you,|0.4
+for the people he gave you,|0.45
+until it is finished.|1.35
+I have— I have let a feeling drive,|0.45
+and called the ride discernment.|0.75
+Uh, it was delay.|0.5
+Delay with a softer name.|0.6
+It kept me seated.|0.55
+Seated can feel like patience.|0.6
+It isn't.|0.5
+The softer name did not do the work.|1.2
+# SECTION: His own generation
+Acts thirteen, verse thirty-six.|0.7
+The story reaches a king named David.|0.55
+Here is the line.|0.6
+Now when David had served God's purpose|0.45
+in his own generation,|0.5
+he fell asleep.|0.55
+He was buried with his ancestors,|0.45
+and his body decayed.|1.35
+Stay with the verbs.|0.5
+Served.|0.45
+Not stumbled onto.|0.45
+Not felt his way toward.|0.6
+Served God's purpose.|0.75
+The purpose was God's.|0.55
+Uh, a man can have plenty of wants.|0.5
+David did.|0.45
+The wants that start in us|0.4
+do not automatically bless|0.4
+the people in our care.|0.75
+The purpose this verse keeps|0.45
+is the one that came from God.|0.85
+In his own generation.|0.65
+Not the crowd behind him.|0.5
+Not a better century|0.4
+he wished he'd been handed.|0.7
+The people alive while he was alive.|0.8
+Think about, uh, how small that circle feels|0.5
+when you say it at your own table.|0.7
+A kid.|0.35
+A wife, if she's there.|0.45
+The men who already know your voice.|0.6
+That is a generation.|0.65
+Not a crowd you have not met.|0.7
+Then the sentence ends him.|0.55
+He fell asleep.|0.45
+Buried.|0.4
+The body decayed.|0.8
+Uh, that ending is doing work.|0.6
+If the point had been|0.4
+David staying famous,|0.5
+the line could have stopped earlier.|0.7
+It doesn't.|0.45
+He served.|0.4
+Then he was done.|0.5
+What mattered kept going|0.4
+without his body in the room.|1.3
+[quietly] You are not asked to become a monument.|0.65
+You are asked to serve|0.4
+while your people are still here.|1.15
+You don't, you know, have to be|0.45
+the man they name later.|0.6
+You have to be the man|0.4
+who served while they could see you.|0.85
+The verse does not, uh, check his mood.|0.6
+It checks his service.|0.55
+It names his generation.|0.5
+It tells you he came to an end.|1.15
+You can obey that|0.4
+on a day that feels like errands,|0.55
+with no click in your chest at all.|1.25
+# SECTION: Waiting to feel it
+Here is a lie that steers quiet men.|0.6
+You'll know the work when you feel it.|0.65
+Somewhere ahead, uh, sits a life|0.4
+that finally feels right,|0.5
+and the discomfort|0.4
+is proof you haven't found it yet.|0.85
+I told my wife I was seeking clarity.|0.55
+What I found was the trash.|ROOM_CHUCKLE
+Same kitchen.|0.45
+Different hour.|0.5
+I have— I have stood at the sink|0.45
+with a plate that was already clean,|0.5
+still rubbing it,|0.4
+because I did not feel|0.35
+like a man with anything worth saying.|0.75
+My boy was in the doorway|0.45
+with a question about a teacher.|0.6
+I said, give me a minute.|0.5
+Uh, the minute was a feeling.|0.55
+The feeling did not come.|0.6
+He, uh, went down the hall.|0.55
+I still remember the plate|0.4
+clearer than the question.|0.95
+That's the lie with soap on its hands.|0.65
+A feeling may tell you|0.4
+you're tired,|0.35
+or sore,|0.35
+or glad the day ended.|0.6
+It is a poor boss.|0.7
+I mean, it will change its mind|0.45
+before the work is done,|0.5
+and then blame you|0.4
+for a job it never assigned.|0.85
+I have held an apology|0.45
+until I felt humble enough|0.45
+to walk it over.|0.65
+Humble never knocked.|0.55
+Uh, the apology was the humble thing.|0.7
+I kept waiting,|0.4
+and my wife got silence|0.4
+with a spiritual name on it.|0.85
+Some of you won't pray out loud|0.45
+with a kid in the room|0.4
+until your voice feels steady.|0.7
+The kid is not waiting on a performance.|0.6
+He's waiting on you.|0.8
+Go do the thing.|0.5
+A calm chest might show up after.|0.55
+It might stay noisy.|0.55
+The work does not grade you on that.|1.15
+[quietly] If you have been parked|0.45
+until the inside agrees,|0.55
+that park has a name.|0.6
+It's a destiny lie.|0.65
+Name it while you're still in the chair.|0.7
+The chest is not the one who assigns.|1.25
+# SECTION: It has to be large
+Another lie says the real one is large.|0.65
+A life people retell.|0.5
+A name that travels past your street.|0.65
+So a man, uh, looks at faithful years|0.45
+and files them under keeping things running.|0.85
+I hunted a sense of significance|0.45
+for a whole Saturday.|0.5
+One of my kids needed cleats.|0.55
+I checked the garage.|0.4
+I checked the hall.|0.45
+The cleats were under my seat.|ROOM_CHUCKLE
+I had walked past the work|0.45
+looking for a better story.|0.75
+Uh, I kept— I kept calling it maintenance,|0.5
+the long stretch where I just showed up.|0.65
+Showed up for the kids.|0.45
+Showed up for the job in front of me.|0.55
+Showed up for a man who was sinking|0.45
+and needed a ride|0.4
+so he could tell the truth.|0.8
+None of it looked like a tale|0.45
+anybody would repeat.|0.6
+I wanted, uh, the tale.|0.55
+The people did not need my tale.|0.6
+They needed a man in the car.|0.9
+Luke sixteen, verse ten.|0.65
+Whoever can be trusted with very little|0.45
+can also be trusted with much,|0.5
+and whoever is dishonest with very little|0.45
+will also be dishonest with much.|1.3
+Hear the measure.|0.5
+Very little.|0.6
+A lunch you pack|0.4
+and nobody posts.|0.5
+A ride across town|0.4
+that never becomes a story.|0.6
+A budget you hold|0.4
+so the house doesn't shake.|0.65
+God is not waiting|0.45
+for a crowd, uh, to agree|0.4
+that those counted.|0.75
+A man who shrugs at the little|0.45
+will fumble a louder day too,|0.55
+because his hands already learned|0.45
+to despise what they were given.|0.85
+Big things, you know, do happen.|0.5
+Sometimes.|0.45
+The lie is that the plain day|0.45
+is just the lobby|0.4
+where you wait for the real room.|0.8
+If your days look ordinary,|0.5
+you may be in the work,|0.45
+not beside it.|0.7
+Don't file a generation under maintenance.|1.2
+# SECTION: Somewhere else
+Another lie moves the address.|0.65
+The real purpose is somewhere else.|0.7
+After a wedding.|0.4
+After the kids, uh, are up and gone.|0.5
+After the job lets go of you.|0.55
+In a town you have not walked.|0.7
+The door keeps shifting.|0.5
+Uh, you stay in the hall|0.4
+of your own actual life.|0.8
+I have refreshed a route on my phone|0.45
+while the car sat in park|0.4
+in my own driveway.|0.7
+A place I'd never stood.|0.5
+Uh, pretty pictures.|0.45
+I called it vision.|0.6
+My wife asked if vision|0.4
+was gonna fix the hinge|0.4
+that had cried for months.|0.7
+I said life would settle,|0.45
+and then I'd get to the hinge.|0.7
+The hinge was the assignment.|0.75
+The real life was— the real life was always|0.45
+one picture past the one I was in.|0.85
+I fixed the hinge that night.|0.55
+No speech.|0.4
+The door shut clean.|0.55
+I did not feel like a man on a mission.|0.65
+I felt like a man with a screwdriver.|0.7
+That was the step.|0.55
+I had labeled it later.|0.8
+Proverbs sixteen, verse nine.|0.7
+In their hearts humans plan their course,|0.5
+but the Lord establishes their steps.|1.25
+You can plan a fine course|0.45
+all afternoon.|0.55
+God is already in the step|0.4
+under your shoes.|0.75
+Uh, that does not mean you never move.|0.55
+If he moves you,|0.4
+it will be more than a restless night|0.45
+and a picture on a screen.|0.75
+Until then,|0.4
+this town is not a hallway|0.45
+you endure on the way to living.|0.7
+This job is not a holding pen.|0.6
+This house is not a rehearsal set.|0.75
+I mean, a man can spend his good years|0.5
+getting ready to arrive|0.4
+at an address he does not have.|0.9
+You've felt that pull, right?|0.6
+The noble reason to be anywhere but here.|0.85
+[quietly] Here already has names.|0.7
+Write those|0.4
+before you write the someday town.|1.25
+# SECTION: Already laid out
+So the feeling can lie.|0.5
+The size, uh, can lie.|0.45
+The elsewhere can lie.|0.55
+What is left.|0.6
+An assignment.|0.6
+Ephesians two, verse ten.|0.7
+For we are God's handiwork,|0.45
+created in Christ Jesus|0.45
+to do good works,|0.45
+which God prepared in advance|0.5
+for us to do.|1.3
+Prepared in advance.|0.65
+You are not out digging|0.4
+for a hidden biography.|0.65
+You are not one mood away|0.45
+from becoming the real version.|0.75
+The works were laid down|0.45
+before you walked into the day.|0.8
+That frees you|0.4
+from the fear of the wrong trail.|0.75
+Uh, if there's one secret purpose|0.45
+and you might miss it forever,|0.55
+every ordinary yes feels like a trap.|0.8
+If the work was prepared,|0.5
+you can do the thing|0.4
+already sitting in your hands.|0.85
+You don't— you don't find it|0.45
+by tearing through a neighbor's garage|0.5
+for a key that's in your pocket.|0.9
+Second Corinthians five, verse fifteen.|0.7
+And he died for all,|0.45
+that those who live|0.4
+should no longer live for themselves|0.5
+but for him who died for them|0.45
+and was raised again.|1.3
+There's the aim inside the work.|0.6
+Not for yourself.|0.55
+For him.|0.6
+A purpose that never costs you|0.45
+for somebody else|0.4
+is still about you.|0.65
+You just gave it church words.|0.75
+The people are how it looks|0.45
+before supper.|0.7
+Her name, if a wife is yours.|0.55
+The kids' names, if kids are yours.|0.6
+Uh, the man on your shift|0.4
+who already knows your face.|0.65
+The church row that would notice|0.45
+if your chair stayed empty.|0.8
+You were not handed a private legend.|0.6
+You were handed people.|0.65
+Your purpose has an address.|0.55
+It is local on purpose.|0.7
+If you can't say the names,|0.5
+you are still, uh, hunting a legend.|0.7
+A legend has no address.|0.55
+Say the names before you leave the chair.|1.2
+# SECTION: Brought to a finish
+A mood will not finish a thing.|0.7
+Remember that when the click is gone|0.5
+and the work is only half done.|0.8
+Colossians four, verse seventeen.|0.7
+See to it that you complete|0.45
+the ministry you have received|0.5
+in the Lord.|1.25
+Complete.|0.55
+Not feel lit up by it.|0.55
+Not announce it.|0.45
+Complete it.|0.75
+Uh, I know the half-done pile.|0.55
+Good words I meant to say|0.45
+and, uh, left sitting in my mouth.|0.65
+A promise to one of my kids|0.45
+I kept loose,|0.4
+ready if I felt generous,|0.45
+easy to drop if I didn't.|0.8
+That is not a finish.|0.6
+That is a man keeping an exit.|0.85
+Some of us start ten good things|0.5
+and bring none of them to the end,|0.6
+and we call the pile potential.|0.75
+I mean, potential is not the ministry|0.45
+you were handed.|0.65
+Complete means the younger man|0.45
+heard the whole truth,|0.5
+not just the warm intro.|0.7
+Complete means the kid|0.4
+got the conversation,|0.45
+not another rain check.|0.7
+Complete means the job in front of you|0.45
+got to the last honest page,|0.55
+not the page where you got bored.|0.8
+A finish can look dull.|0.55
+Uh, the same lunch made again.|0.5
+The same hard talk|0.4
+you don't dodge.|0.5
+The same man you keep meeting|0.45
+until the truth has a chair.|0.8
+It will not get framed.|0.55
+It still closes a real work.|0.85
+[quietly] Faithfulness is what finishes.|1.15
+Heat visits.|0.5
+Heat leaves.|0.5
+Faithfulness clocks back in.|0.75
+You can feel flat|0.4
+and still bring a thing to an end.|0.7
+I have felt flat and quit.|0.55
+I have felt flat and stayed.|0.6
+Only one of those|0.4
+left something done|0.4
+for somebody else.|0.9
+When it's over,|0.45
+God is the one still looking.|0.65
+He will not ask what the day felt like.|0.6
+Inspired fades by morning.|0.55
+Finished is still finished.|0.6
+He will know what you finished.|1.25
+# SECTION: Five lines on a card
+So how do you see the work|0.45
+without hunting a secret.|0.7
+You write a card.|0.55
+Not a speech, uh, for the mirror.|0.55
+Not a poster for the wall.|0.6
+One card.|0.5
+Five lines.|0.6
+I wrote the word impact on a card once.|0.6
+Impact did not have a phone number.|ROOM_CHUCKLE
+[dry] Yours needs names.|0.75
+The card is— the card is five clues|0.5
+you can actually touch.|0.7
+Place.|0.45
+The town, uh, you're standing in.|0.5
+The work you already do.|0.45
+The street.|0.4
+The church that has your face.|0.65
+If God moves you later, he moves you.|0.65
+Until then, this ground is yours to work.|0.8
+People.|0.45
+Names, not roles.|0.6
+If there's a wife, her name.|0.5
+Not the word family.|0.55
+Kids by their names.|0.5
+The man you would skip|0.4
+if the day got tight.|0.65
+Uh, those names are the generation.|0.75
+Hands.|0.45
+What you can actually do|0.45
+with the hands you've got.|0.6
+Not the gift you wish was louder.|0.7
+Maybe you fix what's broken.|0.5
+Maybe you stay calm|0.4
+when a room starts to tilt.|0.6
+Maybe you can sit with a man|0.45
+and not flinch when he tells the truth.|0.75
+Use that.|0.5
+This stretch.|0.5
+The season you are actually in.|0.55
+Not the chapter you're rewriting|0.45
+into something easier to admire.|0.75
+A house with a baby in it.|0.5
+A place of your own and no one in it.|0.6
+A tired heart and two front doors.|0.6
+Uh, quiet mornings.|0.45
+A good run at the job.|0.6
+Serve this one.|0.6
+Don't sand it into a better life first.|0.8
+And the first shape.|0.55
+Last time we named the design,|0.45
+what a man was given|0.4
+before anything broke.|0.6
+You don't need me to rebuild it.|0.6
+Put one line of it on the card,|0.5
+the part you keep leaving off.|0.65
+One line under each clue.|0.55
+Then one of those lines|0.4
+has to leave the card|0.4
+and become a thing you did.|0.75
+If the card stays pretty|0.45
+and nothing in your hands moves,|0.55
+you kept a feeling|0.4
+and skipped the service.|1.15
+# SECTION: Reed
+Let me tell you about a man.|0.55
+I'll call him Reed.|0.6
+He sat in rooms like this|0.4
+and got quiet when purpose came up.|0.65
+He'd say he was between things.|0.6
+He wasn't.|0.45
+He had a wife,|0.4
+a shift he was good at,|0.45
+and a son who built shelves that leaned.|0.75
+By Reed's back door,|0.45
+on a nail,|0.35
+hung a cap from a town|0.4
+he had driven through once.|0.6
+Uh, not his town.|0.45
+The town he had decided was the real one.|0.75
+Uh, he would— he would take the cap down|0.45
+when he talked about getting there,|0.55
+and rub the brim|0.4
+like it might warm up.|0.75
+I stopped by his place one afternoon.|0.6
+The boy, uh, came out|0.4
+with sawdust on his socks,|0.5
+holding a shelf that leaned|0.4
+like it had an opinion.|0.65
+He said, Dad, come look|0.4
+before it gets stuck in the garage.|0.7
+Reed had the cap in his hand.|0.55
+He said, hang on,|0.4
+my head's somewhere else.|0.65
+The somewhere else was the cap.|0.7
+The boy set the shelf against the wall,|0.5
+careful,|0.4
+like it might still get seen.|0.6
+It didn't.|0.5
+Reed hung the cap back on the nail.|0.9
+A good while later|0.45
+we were putting chairs up|0.4
+in a room like this.|0.65
+He said it quiet.|0.5
+I keep thinking the real work|0.4
+is in that town.|0.55
+My kid stopped bringing me|0.4
+the crooked stuff.|1.15
+[quietly] I told him the town on the cap|0.5
+had never asked him for a thing.|0.7
+His boy had.|0.75
+The brim did not need another rub.|0.6
+The boy needed a dad in the yard.|0.85
+Reed didn't move towns.|0.55
+He asked his son|0.4
+to show him the next crooked thing|0.5
+on purpose.|0.65
+They fixed, uh, a gate|0.45
+that was never gonna be a story.|0.7
+A friend of the boy|0.4
+started coming by,|0.4
+uh, because a dad was actually home.|0.8
+Reed told me later|0.5
+it still doesn't feel like a calling.|0.65
+The yard is full anyway.|1.15
+The generation had been hanging on a nail|0.55
+by his own back door.|1.3
+# SECTION: Whoever is sitting here
+Let me walk the room as it actually is.|0.65
+If you're young,|0.4
+stop waiting for a perfect map.|0.65
+The next faithful turn is the work.|0.65
+Uh, a full route that finally feels exciting|0.5
+is just a polished way to stay parked.|0.8
+Open the road you already have.|0.55
+Take the turn.|0.65
+If you're single,|0.45
+a future wife is not the assignment.|0.75
+I'll call him Shane.|0.5
+Good man.|0.4
+He told me his purpose|0.4
+would switch on when he had a wife.|0.7
+Meanwhile his nephew|0.4
+kept asking him to show up at a game,|0.55
+and a younger guy at work|0.4
+had asked him how to pray.|0.65
+Shane said he'd get to both|0.45
+when his life started.|0.75
+A wife is— a wife is a gift|0.45
+when God gives one.|0.6
+She is not the ignition.|0.75
+The nephew already has a name.|0.65
+If you're married,|0.45
+put names on the card.|0.5
+Not a vibe.|0.6
+Her name first.|0.5
+If you write the family|0.4
+and can't say who you mean,|0.55
+you wrote a fog.|0.8
+If the house has a baby in it,|0.5
+that child is not a pause|0.4
+in your purpose.|0.6
+That child is on the card.|0.75
+If the marriage came apart,|0.5
+the purpose did not close with it.|0.7
+The next faithful thing|0.4
+still has somebody's name on it.|0.8
+[quietly] If you're hurt,|0.5
+hear this slow.|0.6
+The worst thing done to you is real.|0.7
+It is not a job title.|0.65
+God can bring good through a wound.|0.65
+The wound does not get to name the purpose.|0.8
+A scar is a record.|0.55
+It is not a commission.|0.7
+Build the whole life|0.4
+around what broke you,|0.5
+and you will call the break a calling.|0.65
+You will miss the people|0.4
+still standing in front of you.|1.15
+If you've been at this a long time,|0.55
+your generation is not behind you.|0.7
+It's the men, you know, still in reach of your voice.|0.75
+A name in your phone|0.4
+you only scroll past,|0.45
+uh, that name is unfinished work.|0.8
+And if the job is going well,|0.55
+be glad.|0.45
+An early close is a skill.|0.6
+It is not a destiny.|0.7
+You can shut the day down,|0.45
+feel complete,|0.4
+and still hand the people at home|0.45
+whatever energy is left.|0.7
+When the close starts pretending|0.45
+it was the purpose,|0.5
+you've swapped a skill for a calling.|1.2
+# SECTION: To the tables
+[warmly] Let me say the whole thing plain,|0.5
+and then the tables are yours.|0.75
+Destiny is not a vibe.|0.7
+It is serving God's purpose|0.4
+in your own generation,|0.45
+in the place he put you,|0.4
+for the people he gave you,|0.45
+until it is finished.|1.45
+I hope you walk out of here|0.45
+done hunting a feeling|0.5
+and able to say, with real names,|0.55
+what God's purpose looks like|0.45
+where you already live.|0.85
+Your workbook has the lines for it.|0.6
+In a minute you'll sit down together|0.5
+and work this part.|0.7
+So put these questions in your mouth|0.5
+the way you're gonna ask them.|0.75
+Which destiny lie|0.4
+have you been living under?|0.7
+The one that says you'll feel it|0.45
+when it's real.|0.5
+The one that says it has to be large.|0.6
+Or the one that keeps moving the address.|0.75
+Say which one.|0.5
+Out loud.|0.4
+Today.|0.85
+In one sentence, with names in it,|0.55
+what does God's purpose|0.4
+in your own generation look like?|0.9
+Names.|0.5
+Not a mood you hope shows up.|0.7
+What is one line|0.4
+from the five-clue card|0.45
+you will do?|0.7
+Place.|0.3
+People.|0.3
+Hands.|0.3
+This stretch.|0.35
+The first shape.|0.55
+One line.|0.45
+Then do that thing.|0.75
+And what have you been waiting to feel,|0.55
+and for how long?|0.7
+Tell a brother.|0.5
+Read him the card.|0.5
+Ask him what he sees|0.4
+God's purpose looking like|0.45
+in your life right now.|0.85
+Uh, if all you give him|0.4
+is that you want more purpose,|0.55
+he can nod,|0.4
+and you leave still hunting a click.|0.9
+How many of you already know the lie|0.5
+and want the sentence kept soft?|0.6
+Hand up.|0.35
+I'm not writing it down.|ROOM_HANDS
+Alright.|0.45
+Don't drop it walking to the table.|0.7
+You've carried the marks through this room.|0.6
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.|1.35
+# CUT SCREEN: creed board — "A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's." — new angle after
+What I hope— what I hope you carry|0.5
+is a purpose you can serve|0.45
+with no vibe attached to it.|0.75
+Do what's already in your hands.|0.6
+Do it where he put you.|0.5
+Do it for the people he gave you.|0.6
+See it through.|0.65
+Tables.|0.45
+Work that part of the workbook together.|0.65
+Start with the lie.|0.5
+Say it plain.|1.25

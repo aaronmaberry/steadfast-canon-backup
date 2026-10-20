@@ -11,9 +11,9 @@ Wes Hart
 
 ---
 
-### The line (unchanged)
+### The line
 
-A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
 Write it once. Feeling is not the fire.
 

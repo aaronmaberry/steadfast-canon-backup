@@ -1,0 +1,703 @@
+# SECTION: Welcome
+[warmly] Hey. Come on and sit.|0.55
+Good to see you in a chair.|0.7
+Uh, some of you are still wearing the day.|0.5
+You sat down anyway.|0.55
+I'm glad.|0.85
+I rehearsed a gentle hello|0.4
+on the drive over here.|0.55
+I have— I have done that in my own driveway.|0.65
+Walked in full of it.|0.4
+Kind voice.|0.3
+Patient face.|0.4
+First thing I actually said|0.35
+was about the shoes.|ROOM_CHUCKLE
+She looked at the shoes.|0.45
+Uh, then she looked at me.|0.6
+The hello was still out in the truck.|0.9
+Last time we stayed with a husband and his wife.|0.65
+What a man keeps,|0.35
+and what he withholds,|0.4
+when the promise is ordinary.|0.8
+Hold that.|0.55
+Today the girl who has been watching the two of you|0.5
+gets the hour.|0.8
+If there is no girl,|0.4
+stay in the chair.|0.5
+I'll get to you.|0.6
+You are in this.|0.65
+Sons in the house and no girl, stay.|0.55
+A man on his own, stay.|0.6
+Uh, this hour still has your name on it.|0.7
+I'm Wes.|0.45
+I go to work,|0.3
+I go home,|0.35
+Uh, and I have a daughter|0.4
+who files things I thought were private.|0.8
+Here's what I want you to hear.|0.55
+She is not waiting on the speech you meant.|0.6
+She is reading the man who arrived.|1.3
+The face.|0.35
+The tone.|0.35
+The way you treat her mother|0.4
+when you are tired|0.4
+and you think nobody's taking notes.|0.75
+Somebody is.|0.6
+Uh, she has been in school on you|0.5
+longer than you have been trying to teach.|0.75
+Before you felt ready.|0.5
+You know, before you had a plan.|0.55
+A lot of what she believes about a man|0.45
+got decided on an ordinary afternoon.|0.7
+You know the one.|0.45
+Boots off.|0.3
+Mind still back at the job.|0.55
+The one where you came through the door|0.45
+already spent.|0.6
+If you already feel behind,|0.5
+Uh, I'm with you on plenty of days.|0.65
+This hour is for telling the truth|0.45
+about what she has been learning,|0.5
+and for putting a truer thing|0.4
+where she can actually see it.|1.2
+# SECTION: The marks
+[warmly] One sentence puts four marks on a real man.|0.7
+I have not improved them.|0.55
+Here they are.|0.45
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.|1.35
+# CUT SCREEN: creed board — "A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's." — new angle after
+You've heard them in this room.|0.55
+We are not— we are not rebuilding the list today.|0.75
+We're setting them down|0.4
+over a girl who is already watching.|0.85
+Stop waiting.|0.5
+A glad face is a decision|0.4
+you make while you still have one.|0.7
+Pick up the weight.|0.5
+Whatever your face is teaching|0.45
+has your name on it.|0.7
+Go first.|0.5
+Honor her mother out loud,|0.45
+where your daughter can hear it,|0.5
+including the hour it costs you.|0.75
+Work for God's pay.|0.55
+The fun dad gets the photo.|0.5
+The ordinary face|0.35
+gets the Father's eye.|0.7
+That is the reward that lasts.|1.2
+Say them over your own kitchen.|0.55
+A girl can tell a poster from a man, right?|0.65
+I mean the man who actually lives there.|0.7
+Now the claim, plain.|0.55
+Your daughter is watching.|0.65
+If you want to know|0.4
+what kind of man she will marry,|0.55
+look at how you have been treating her mother.|0.8
+That is the man.|1.55
+Uh, she is taking in three things|0.5
+whether you meant to teach or not.|0.7
+What a man is.|0.45
+What a woman should be able to count on.|0.6
+What she herself is worth.|0.8
+Uh, you don't get to shelve it|0.45
+until you feel like a finished father.|0.7
+It is already running.|0.5
+In the kitchen.|0.35
+In the truck.|0.4
+In the tone you use|0.35
+Uh, when somebody asks you for the tape.|0.75
+How many of you are fairly sure|0.4
+your face stays neutral?|0.6
+Go on.|0.35
+Nobody's grading the hands.|ROOM_HANDS
+Yeah.|0.4
+I had mine up on the inside.|0.6
+Neutral is usually just unexamined.|0.65
+She examined it.|0.7
+And, you know, she was probably right.|1.2
+# SECTION: Four places
+[quietly] Put your ear on this.|0.55
+Deuteronomy six, verse seven.|0.75
+Impress them on your children.|0.55
+Talk about them when you sit at home|0.45
+and when you walk along the road,|0.5
+when you lie down|0.4
+and when you get up.|1.35
+Sit.|0.3
+Walk.|0.3
+Lie down.|0.3
+Get up.|0.6
+That is the school.|0.55
+The ride will do the teaching.|0.5
+The sink will do it.|0.45
+The minute before anybody is impressive|0.45
+will do it.|0.75
+She is collecting you there.|0.65
+First thing she collects.|0.5
+What a man is.|0.55
+You are the early picture.|0.5
+The men who come after|0.4
+get set next to what she saw.|0.75
+Uh, pictures teach before speeches do.|0.7
+If you are steady when you're tired,|0.5
+steady starts to feel like a man.|0.65
+If you vanish into a screen|0.4
+the minute you sit,|0.4
+absence starts to feel like a man.|0.75
+Uh, if you stay gentle on a hard day,|0.5
+a harsh voice will strike her|0.4
+as something that doesn't belong in the house.|0.75
+She will notice.|0.5
+You know, if you go harsh when the day runs long,|0.55
+she may call the harshness normal|0.5
+and go looking for a house that sounds like it.|0.7
+Or she may spend years braced|0.4
+every time a man sighs.|0.65
+Uh, choose the picture on purpose.|0.55
+The four marks,|0.4
+lived where she can see them,|0.5
+become the word in her head.|1.15
+Let me tell on a sigh.|0.5
+My wife asked where the tape was.|0.55
+Simple question.|0.4
+Uh, I produced this long breath,|0.45
+like the tape had personally offended me.|0.7
+An hour later, from the hall,|0.45
+my daughter aimed that same breath|0.4
+at her brother.|0.5
+Same length.|0.35
+Same verdict.|0.5
+I have never been quoted more accurately.|ROOM_CHUCKLE
+Uh, she wasn't mocking the room.|0.45
+She was, you know, taking notes.|0.65
+A man, inconvenienced, sounds like that.|0.6
+I thought— I thought a sigh stayed in the kitchen.|0.7
+It walked down the hall.|0.5
+It became a definition.|1.25
+# SECTION: Her mother
+[amused] Second thing she collects.|0.55
+What a woman should be able to count on.|0.7
+She will not lift that|0.4
+out of a fine talk about respect.|0.7
+She lifts it from the way her mother is treated|0.5
+in the rooms they share with you.|0.85
+Proverbs thirty-one, verse twenty-eight.|0.7
+Her children arise and call her blessed.|0.55
+Her husband also,|0.4
+and he praises her.|1.3
+The praise is supposed to be audible.|0.65
+Uh, thanks she can hear.|0.5
+Her idea, left in her mouth,|0.45
+until she is actually done.|0.6
+Your hand, gentle,|0.35
+where a child sees it|0.4
+and doesn't have to guess.|0.7
+She also writes down the small cut.|0.55
+The quiet you carry|0.4
+until the house steps around you.|0.7
+The man she trusts later|0.45
+will look a lot like those notes.|0.8
+You want a forecast, right?|0.6
+Think about the last hard evening|0.45
+you and her mother were both tired.|0.6
+The tone you actually used.|0.5
+That is the forecast.|1.25
+I learned it turned around in a van,|0.5
+Uh, both kids in the back.|0.55
+I was right about the road.|0.5
+I said so|0.3
+in the tone of a man handing down a verdict.|0.7
+My wife went quiet.|0.55
+At the next light|0.4
+my daughter repeated the correction|0.45
+back to her mother.|0.5
+Word for word.|0.4
+Trying to help.|0.6
+I heard my own voice in a girl's mouth|0.55
+Uh, and I wanted the seat to take me.|0.75
+I have been right about a turn|0.45
+and wrong about a whole minivan.|ROOM_CHUCKLE
+I mean, being right was cheap.|0.5
+What she carried home cost more.|0.75
+She will— she will practice on her mother|0.5
+whatever you practice first.|0.8
+If the house has two addresses,|0.55
+hear this kindly.|0.5
+A true complaint|0.4
+still doesn't belong in your daughter's ear.|0.7
+When you cut her mother down,|0.5
+the girl feels it land on her.|0.65
+She is standing close to both of you.|0.55
+Miles don't move her off that spot.|1.2
+# SECTION: What she's worth
+[quietly] Third thing.|0.5
+What she is worth.|0.6
+She reads it when you look at her,|0.5
+and when your eyes stay somewhere else.|0.75
+Approval pays for a thing she did.|0.6
+Delight pays for the person she is.|1.15
+Uh, a girl can collect approval|0.45
+and still go to bed hungry,|0.5
+because the hunger was never about the prize.|0.8
+God is clear on the difference.|0.6
+Psalm one forty-nine, verse four.|0.7
+For the Lord takes delight in his people.|0.6
+He crowns the humble with victory.|1.35
+Delight.|0.45
+A gladness that she is His,|0.5
+before she has earned a thing.|0.65
+Yours can be a smaller echo.|0.55
+A true one.|0.5
+Be a gladness she can actually see.|0.6
+On an ordinary walk in the door.|0.6
+You know the look she gives you.|0.55
+Hand that look something true.|0.6
+Uh, if she has to buy your attention|0.5
+with a result,|0.4
+she learns her worth rides with the result.|0.75
+The result slips,|0.4
+and something in her slips with it.|0.7
+Uh, if the gladness shows|0.4
+because she walked into the room,|0.55
+the question was settled|0.4
+before she performed.|0.85
+I got this backward in the garage.|0.6
+My daughter built a birdhouse.|0.5
+Crooked.|0.35
+Full of pride.|0.45
+I went straight to the hinge.|0.55
+I had, uh, opinions.|0.5
+She waited.|0.4
+Then she said,|0.35
+do you like that I made it.|0.7
+I had reviewed a hinge.|ROOM_CHUCKLE
+The hinge was fine.|0.45
+Uh, she was asking about herself.|0.7
+Approval talked about the wood.|0.55
+Delight would have answered her.|1.15
+Look up.|0.4
+Let her see the gladness.|0.6
+If it stays— if it stays private,|0.55
+she has nothing to read,|0.45
+and she is reading anyway.|0.75
+Uh, say her name like you're glad|0.45
+it belongs to somebody alive in the room.|0.7
+Set the thing in your hands down|0.45
+before she finishes the first sentence.|0.65
+That is a man done waiting|0.5
+with his actual face.|1.25
+# SECTION: Harlan
+[quietly] Let me tell you about a man.|0.6
+I'll call him Harlan.|0.55
+Uh, I've known him a long time.|0.55
+He keeps the mowers running|0.45
+up and down his street.|0.6
+His girl sang in the back row at church.|0.6
+Uh, not a solo.|0.4
+A robe that ran long.|0.55
+One morning she caught the hem,|0.5
+lost the words,|0.4
+and her mouth kept moving|0.4
+over nothing.|0.65
+She found him.|0.45
+Third row.|0.35
+Hymnal open.|0.5
+He wanted the song to go well for her.|0.6
+His face tightened.|0.55
+She saw it.|0.65
+In the truck she said,|0.45
+you looked like I broke something.|0.65
+He told her she did fine.|0.55
+She said, your mouth did.|0.5
+Your face filed a complaint.|1.2
+He sat with that in the driveway|0.55
+until the cab got warm.|0.65
+He had wanted a standard.|0.5
+She had received a wince.|0.7
+He almost— he almost explained|0.5
+that he was only pulling for her.|0.65
+Uh, she already had the data.|0.65
+After that she stopped telling him|0.5
+about the things she might miss.|0.6
+He heard about them|0.4
+once they were safely over.|0.7
+He asked why.|0.5
+She said, I got tired|0.4
+of watching you watch me miss.|1.15
+That landed.|0.55
+He changed one practice.|0.55
+Before she left the house|0.45
+for anything that could go wrong,|0.55
+he said the glad sentence in the kitchen,|0.55
+with nothing on the line.|0.65
+I'm glad you're my girl.|0.55
+The rest can be whatever it is.|0.75
+He still gets the face wrong|0.45
+when he is tired.|0.5
+Uh, he repairs it faster now.|0.55
+She can tell a repair|0.4
+from a performance.|0.65
+He told me she called|0.45
+after a class that had gone badly.|0.6
+First words were, I'm okay.|0.5
+You don't have to build a funeral.|0.7
+Uh, he laughed when he said it.|0.5
+Then he went quiet.|0.5
+The stretch where she didn't call|0.5
+was the stretch that scared him.|0.7
+She calls again.|0.5
+That is a face|0.4
+she is willing to look for.|1.3
+# SECTION: Names and time
+[dry] The names come next.|0.55
+They are cheaper than we pretend,|0.5
+and she spends them anyway.|0.7
+She grows toward the name you give her.|0.65
+I wrote my daughter a long note once.|0.55
+Left it on the counter.|0.45
+I also— I also called her the messy one|0.55
+a few times that same afternoon,|0.55
+like it was a cute fact about the house.|0.75
+At supper she quoted the nickname.|0.55
+She did not quote the note.|0.6
+Uh, the nickname won.|0.65
+A line she hears in passing|0.45
+beats a paragraph she has to go find.|0.75
+So ask it straight.|0.5
+What have your words been calling her?|0.65
+Even if the true answer is nothing.|0.6
+Uh, nothing is a name.|0.5
+A blank gets filled|0.4
+by whatever is loud nearby.|0.7
+Give her one particular gladness|0.5
+about who she is.|0.5
+The way she notices the quiet kid.|0.55
+And tell her you love her|0.45
+on a day she didn't win a thing.|0.75
+Somebody will hand her those same words|0.5
+with a hook in them.|0.55
+If she has only heard them|0.4
+when a man wanted something,|0.5
+the hook is harder to see.|0.8
+Uh, words still need minutes under them.|0.6
+A fine sentence in the truck|0.45
+dies if you never sit down.|0.65
+I mean the unhurried minutes.|0.55
+The puzzle on the counter|0.4
+you leave unfinished until she is there.|0.65
+The tailgate,|0.35
+while she talks about people|0.4
+you will never meet,|0.45
+and you stay past the point|0.4
+where you've heard enough.|0.75
+There is also a stretch|0.45
+where her answers get short|0.45
+and her shoulder gets in the way.|0.65
+Some men match the quiet|0.45
+and call it respect.|0.55
+Uh, often it is just relief.|0.6
+Let the short answers be hers.|0.55
+Keep the ride.|0.4
+Keep her chair.|0.45
+Say you're for her,|0.4
+then show it|0.35
+without a speech every time she looks up.|0.75
+On the far side of that stretch|0.5
+she will know who stayed.|1.25
+# SECTION: Awake
+[warmly] She needs a man who is awake.|0.6
+Awake, and kind about it.|0.65
+You know who she is with.|0.5
+You have said why.|0.45
+Uh, you told her, before she needs it,|0.55
+that if a boy gets careless|0.45
+she can call|0.35
+and you will come.|0.5
+The ride back will be a rescue,|0.5
+not a second ordeal she has to survive.|0.8
+You don't hand her off|0.4
+to a young man you have never met.|0.65
+You also— you also don't make a house|0.5
+she has to sneak out of|0.45
+just to feel like a person.|0.75
+And you keep her safe from you.|0.6
+The temper.|0.4
+The line that gets a laugh|0.4
+and leaves a mark.|0.55
+A hard day that picks her|0.45
+as the place it lands.|0.7
+A girl who spends her night|0.45
+managing a man's mood|0.45
+learns a sad job.|0.6
+She may go looking for a life|0.45
+that feels like that job.|0.6
+She may go numb|0.4
+so the job can't find her.|0.75
+Stay with me on the eyes.|0.55
+She is learning what you think a woman is for.|0.7
+The line you stand in.|0.45
+The picture that loads and holds you.|0.55
+The extra second|0.35
+when somebody passes the work.|0.6
+If your eyes go hunting,|0.5
+she files herself in that same drawer.|0.7
+If your eyes come home to her mother,|0.55
+she files a faithful man under possible.|0.8
+Uh, that is a sane hope.|0.6
+Let her hear you pray her name.|0.6
+Her actual name,|0.4
+aimed at God,|0.4
+and then you tell her you did.|0.65
+A girl who has heard that|0.45
+will recognize the shape later.|0.6
+A man on his knees|0.4
+is different from a man|0.4
+who only talks about kneeling.|0.75
+One warning, and I mean this.|0.6
+She can read guilt on a face.|0.6
+Don't carry this room home on your brow|0.5
+and call the weight sincerity.|0.7
+Tell the Father the truth.|0.5
+Tell a brother.|0.45
+Then let her catch you glad|0.45
+she walked into the kitchen.|0.65
+A repaired man|0.4
+is allowed to smile at his girl.|1.25
+# SECTION: Still watching
+[quietly] Some of you are past the years|0.5
+when she lived down the hall.|0.65
+Uh, the window did not close|0.5
+when she got her own key.|0.65
+She is still watching.|0.55
+Uh, grown does not mean done.|0.6
+She reads the man who shows up now.|0.65
+Have you changed.|0.5
+Will you show up now|0.4
+in the places you were thin.|0.7
+If she has little ones,|0.45
+they are learning the same man.|0.55
+They will trust what she already suspects.|0.75
+Your blessing does not retire|0.5
+because her address did.|0.65
+If you failed her,|0.5
+Uh, say it in plain words.|0.6
+Leave the defense off the end.|0.6
+A defense is how a man|0.4
+keeps the comfort|0.35
+and hands her the weight.|0.7
+If you have never said|0.4
+you are proud of who she is,|0.55
+the call feels late.|0.5
+Make it.|0.55
+It can close a crack|0.4
+she stopped mentioning.|0.7
+If you failed— if you failed her young,|0.65
+you are not hunting a time machine.|0.6
+You are telling the truth,|0.45
+then becoming a man she can call.|1.15
+Some of you keep two houses.|0.6
+Uh, you will miss hours.|0.45
+That loss is real.|0.5
+It is not a permit.|0.6
+Don't speak against her mother.|0.55
+Not when your daughter baits you.|0.5
+Not when the complaint is accurate.|0.55
+Not when you are wrung out.|0.6
+Uh, show up for the hours that are yours.|0.6
+Ask cleanly for a few more,|0.5
+without making her the rope|0.45
+between two adults.|0.7
+Uh, call in a rhythm she can count on.|0.6
+Including the stretches|0.4
+where she says she's fine|0.45
+Uh, and the call stays short.|0.65
+The long talk|0.4
+gets purchased by the short ones.|0.7
+Give her a place that stays hers.|0.6
+Her sweatshirt on a hook.|0.5
+A drawer you don't empty|0.4
+when the visit ends.|0.6
+Uh, the split shook the floor under her.|0.6
+A father who shows up,|0.45
+stays clean,|0.4
+and is still growing|0.45
+is ground she can use|0.45
+while it shakes.|1.25
+# SECTION: No daughter
+[warmly] Some of you have no daughter.|0.6
+Stay.|0.45
+This hour is yours too.|0.7
+I mean it.|0.4
+A girl in reach is enough.|0.6
+Uh, stay for her sake.|0.55
+How many of you is that?|0.5
+Let me see you.|0.45
+I want you in it.|ROOM_HANDS
+Good.|0.4
+Hold your seat|0.4
+when the page sounds like another man's house.|0.75
+A niece.|0.4
+A girl at church.|0.45
+Your brother's girl.|0.5
+The one waiting in a hall|0.4
+while her mom hunts the keys.|0.65
+She is already reading the men around her.|0.65
+Let one of them be good,|0.45
+and let her see it.|0.65
+I'll call him Curtis.|0.55
+No kids in his house.|0.5
+Uh, he holds a door after the service|0.5
+while families sort coats and kids.|0.65
+A girl who waited on her mom|0.5
+started handing him the extra bulletin,|0.55
+like he belonged to the job.|0.65
+Her mom caught him one day.|0.55
+She said, my girl told me on the way home.|0.6
+You thank the women who fold the programs.|0.65
+She noticed.|0.55
+Curtis looked at me|0.45
+like I'd accused him of a crime|0.5
+he didn't know he had committed.|0.7
+Uh, he said, I didn't know I was teaching.|0.6
+I was trying not to be a fool in a hallway.|0.75
+That was enough.|0.55
+A girl saw a man|0.4
+treat women as if they mattered,|0.5
+where anybody could watch,|0.5
+and she kept it.|0.65
+Uh, do it where you can be seen.|0.55
+Be honorable on purpose.|0.55
+Don't slip off alone|0.45
+with a girl who is not yours.|0.7
+Part of the gift|0.4
+is that a good man can be safe.|0.75
+Honor a mother, or a sister,|0.5
+once, where a girl can watch the honor|0.55
+instead of hearing about it later.|0.75
+And young men, hear this|0.45
+before you get clever.|0.55
+A girlfriend is not a daughter to practice on.|0.7
+Uh, she is not the page.|0.5
+She is a woman.|0.45
+That is a different trust.|0.6
+You can— you can become a man|0.5
+a girl could trust someday|0.5
+without using a woman as the drill.|1.2
+# SECTION: Every chair
+[dry] A room like this|0.4
+is never one kind of man.|0.7
+Let me walk a few chairs.|0.55
+If you are young,|0.45
+and no child lives with you,|0.5
+you are not parked.|0.55
+The face is already being built.|0.6
+Uh, the way you speak about a woman|0.5
+after she leaves|0.4
+is already being learned.|0.65
+Some girl at your church|0.45
+catches the tone,|0.45
+even when the joke|0.35
+felt like it stayed with the men.|0.75
+If you are married|0.4
+and the girl is still under your roof,|0.55
+Uh, she hears the tone|0.4
+louder than the speech.|0.6
+You can nail a prayer at bedtime|0.5
+and undo it|0.35
+by the way you answer her mother|0.45
+from the other room.|0.75
+If she came to you later,|0.5
+through a marriage,|0.45
+the early years you missed|0.45
+are not a pass.|0.6
+You have the years in your hands.|0.6
+She is learning whether those are safe.|0.7
+Some of you learned, as boys,|0.5
+to scan a father's face|0.45
+before you spoke.|0.6
+Uh, I will not make light of that.|0.55
+The ache is real.|0.5
+It does not license you|0.45
+to hand the same scan|0.4
+to a girl who trusts you.|0.7
+You can be the man|0.4
+where that pattern stops.|0.6
+Get a brother next to you|0.45
+while you learn a different face.|0.7
+If she is grown,|0.45
+don't let a polite quiet|0.45
+pretend it is peace.|0.65
+You know, quiet can be distance|0.4
+with good manners on it.|0.6
+And if the work is going well,|0.55
+you can pay for the whole calendar.|0.55
+The class.|0.3
+The shoes.|0.3
+The trip.|0.4
+You can still miss the minute in the car|0.5
+when she was ready to talk|0.45
+and you were ready to be efficient.|0.75
+A receipt cannot look her in the eye.|0.7
+Uh, I have hidden inside being useful.|0.6
+Useful can feel like care.|0.5
+She needed a man who looked up.|0.65
+One true sentence.|0.45
+One honor she can see.|0.5
+One face you choose|0.4
+before the moment shows up.|1.2
+# SECTION: To the tables
+[warmly] Let me set it down|0.4
+where you can carry it.|0.65
+Your daughter is watching.|0.6
+She is learning what a man is,|0.5
+what a woman should be able to count on,|0.55
+and what she is worth.|0.65
+A lot of that school|0.4
+is the sitting and the walking,|0.45
+the lying down and the getting up.|0.7
+The speech can wait.|0.55
+The face cannot.|0.7
+What I hope you take from the chair|0.55
+is a face you can name,|0.5
+one sentence of delight about who she is,|0.55
+and one honor a girl actually sees.|0.75
+Your workbook has this part.|0.55
+In a minute you will sit at the tables|0.5
+Uh, and work it together.|0.7
+Get the questions in your ear.|0.6
+What has your face been teaching,|0.55
+and what have your words been calling her,|0.6
+even if the honest answer is nothing?|0.8
+Say it out loud.|0.55
+Uh, a blank is an answer.|0.6
+Which of the three lessons|0.45
+have you been teaching badly?|0.7
+Name it.|0.45
+Leave the flattering one alone.|0.6
+What are you going to do?|0.55
+One delight sentence about who she is.|0.6
+Honor her mother where she can see it,|0.55
+day by day, while she can hear you.|0.7
+Uh, if she is grown,|0.4
+make the call you keep postponing.|0.6
+Say what you assumed she already owned.|0.65
+If you have no daughter,|0.45
+honor a mother or a sister|0.45
+where a girl can see it.|0.65
+Tell a brother the three lessons|0.5
+and the one you have taught badly.|0.6
+Ask him what his girl is taking from him.|0.65
+If there is no girl,|0.4
+ask what a girl nearby would learn|0.5
+from the way he treats women.|0.7
+Write the line where you will see it.|0.6
+If you want to know|0.35
+what kind of man your daughter will marry,|0.55
+look at how you have been treating her mother.|0.7
+That is the man.|1.2
+Same four marks you've carried all along.|0.6
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.|1.05
+# CUT SCREEN: creed board — "A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's." — new angle after
+Don't leave— don't leave the gladness in the truck.|0.7
+Let her catch you glad.|0.6
+Go on to your tables.|1.25

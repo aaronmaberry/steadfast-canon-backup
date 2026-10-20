@@ -1,0 +1,667 @@
+# SECTION: Welcome
+[warmly] Hey. Come on in and sit.|0.55
+Good to see this room.|0.7
+Uh, some of you walked in still wearing the day.|0.5
+You came anyway.|0.55
+I see you.|0.9
+Last time we stayed with a daughter who's watching.|0.65
+How you treat her mother.|0.45
+What she learns to trust.|0.75
+A few of you went home|0.35
+and got profound at the table.|0.5
+She asked for the salt.|0.4
+You gave her a speech.|0.45
+She still wanted the salt.|ROOM_CHUCKLE
+[dry] I've given that speech.|0.5
+So. Today the boy.|0.65
+If you still need it, I'm Wes.|0.5
+Glad you made the chair.|0.8
+Uh, some of you have a boy|0.35
+who still fits under your arm.|0.6
+Uh, some of you have a grown one|0.4
+who lets the phone ring.|0.65
+Some of you are still waiting|0.4
+for a man to tell you who you are.|0.8
+Stay in the chair.|0.55
+All of you have a mouth.|0.5
+That's the tool today.|0.9
+Uh, you don't have to feel ready to use it.|0.6
+Most of us didn't.|0.5
+Uh, we learned it on a day that felt ordinary.|0.75
+Some of you will say it to your own boy|0.5
+before supper.|0.55
+Some of you will say it|0.4
+to a boy who is not yours,|0.45
+and it counts the same.|0.85
+Here's what I want sitting in the room.|0.55
+A boy answers to whatever he is called.|1.25
+If you don't name your son,|0.45
+the world will.|0.65
+It has a label ready before lunch,|0.5
+and most of those labels are cheap.|0.85
+You can— you can be around him all day|0.45
+and still be a quiet stranger|0.4
+to the boy who carries your name.|0.8
+There's a name on the mailbox.|0.55
+The one I'm after|0.4
+is the sentence he lives under|0.45
+when nobody is performing.|0.85
+Uh, this is a habit.|0.5
+Catch one true thing he did.|0.45
+Call it by its right name.|0.55
+Put a hand on his head|0.4
+and say what you actually see.|0.75
+Uh, if there is no son in the house,|0.5
+there is a younger man in reach.|0.55
+He has ears.|0.55
+You are on this with the rest of us.|1.2
+# SECTION: The marks
+[warmly] These four marks are the sentence we keep coming back to.|0.7
+I have not improved them.|0.55
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.|1.35
+# CUT SCREEN: creed board — "A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's." — new angle after
+You've heard them in this room, right?|0.6
+Uh, I am not rebuilding all four today.|0.65
+Today is the mouth.|0.6
+The marks tell you what the word man has to hold|0.5
+when you finally say it over a boy.|0.85
+Stop waiting.|0.5
+Uh, that includes a father|0.35
+who lets every other voice name his son|0.5
+and calls the quiet peace.|0.8
+Pick up the weight.|0.5
+Uh, the sentences in your house are yours,|0.45
+including the ones you did not rehearse.|0.8
+Go first.|0.45
+Say the true thing out loud,|0.45
+where it could sound soft,|0.4
+and say it anyway.|0.75
+Work for God's pay.|0.5
+Not the room's.|0.55
+The easy quiet you get from never blessing him|0.5
+is a thin peace.|0.6
+The Father sees the man who opens his mouth.|0.9
+Uh, I have loved the quiet.|0.5
+Uh, nobody argues.|0.4
+Nobody gets blessed either.|0.65
+That quiet can look like peace|0.45
+from the driveway.|0.7
+Here's the claim under the marks.|0.6
+A boy lives toward the name he hears most.|1.3
+Uh, you can provide, and drive, and show up,|0.5
+and still hand him a small name.|0.75
+Or you can love him|0.4
+by giving him one he can stand on.|0.8
+Uh, I know which one I drift toward.|0.55
+Ask me what time practice is.|0.45
+I have it.|0.4
+Ask me who my boy is becoming,|0.5
+and I start talking about|0.35
+what we're out of at the house.|0.7
+Milk.|0.4
+We were out of milk.|ROOM_CHUCKLE
+Uh, logistics feel like fathering.|0.55
+They even fit on a list.|0.7
+A list is not a name.|0.65
+Uh, stay with me on this.|0.5
+The name comes first.|0.5
+The errand can come along after it.|0.6
+You already know how to handle a list.|0.55
+Today you learn the sentence.|1.2
+# SECTION: Summoned by name
+[quietly] Put this verse in your ear.|0.55
+You'll see it in the workbook.|0.6
+Isaiah forty-three, verse one.|0.7
+But now, this is what the Lord says.|0.55
+He who created you, Jacob,|0.45
+he who formed you, Israel.|0.6
+Do not fear,|0.4
+for I have redeemed you.|0.55
+I have summoned you by name.|0.6
+You are mine.|1.4
+Summoned you by name.|0.5
+You are mine.|0.7
+Uh, a father who will not open his mouth|0.5
+leaves a hole shaped like that sentence.|0.75
+Uh, holes do not stay empty.|0.6
+Some other name moves in.|0.75
+Uh, I learned the hole at my own house.|0.6
+I could tell you his shoe size.|0.5
+I could tell you what he was late on.|0.6
+From the hall I called the mess.|0.5
+Shoes.|0.35
+The thing on the floor.|0.65
+He'd answer before I finished,|0.45
+already making his case.|0.75
+I thought— I thought I was running a house.|0.6
+I was teaching him his name|0.45
+was whatever was wrong.|0.9
+Uh, other mouths are already at work.|0.65
+School has a label ready.|0.55
+Uh, not always mean.|0.45
+The one who can't keep still.|0.5
+The one who reads late.|0.55
+A teacher says it sideways,|0.45
+and a boy close enough|0.4
+will rent that word for years.|0.8
+The air around him gets nervous about boys.|0.6
+It talks about him like a spill|0.45
+somebody ought to wipe up|0.4
+before he spreads.|0.75
+He hears it.|0.4
+He gets smaller,|0.4
+or he decides to become the warning.|0.8
+Uh, his own misses will name him|0.45
+if no man steps in.|0.65
+He quits a job halfway.|0.5
+Nobody pulls the act off the boy.|0.55
+I don't finish.|0.4
+That's just how I am.|0.8
+Hardware aisle.|0.45
+Uh, my boy handed me the wrong bolt.|0.55
+I said, use your head,|0.45
+and the tone meant, you're the slow one.|0.75
+He set it back on the hook|0.45
+like he'd taken something.|0.7
+I left with the right bolt.|0.5
+I did not leave with the sentence repaired.|0.7
+I still know the aisle.|0.75
+How many of you have a shortcut like that.|0.55
+A noise from one bad afternoon|0.45
+that stuck because it was easy.|0.7
+Go on. I'm in it with you.|ROOM_HANDS
+[dry] Yeah. I figured.|0.4
+Fast names.|0.4
+Slow blessings.|ROOM_CHUCKLE
+An easy name is still a name.|0.6
+He will answer to it.|0.65
+You are mine is how a father answers back.|0.7
+A floor under whatever else gets said.|1.25
+# SECTION: You are mine
+[warmly] So the first name you give him, on purpose, is mine.|0.75
+You are my son.|0.5
+I am staying.|0.55
+He has not earned that sentence.|0.55
+He does not have to.|0.6
+No bad afternoon evicts him from it.|0.85
+Uh, say it when the day went well.|0.55
+Say it— say it when the day was a wreck.|0.7
+If you only say it on the good days,|0.5
+he learns that belonging is a wage.|0.85
+Uh, I waited for a mood.|0.5
+The mood where I felt like|0.4
+the patient man in a picture.|0.65
+The mood did not show up.|0.55
+Uh, moods are terrible managers.|0.55
+The boy still needed the sentence|0.45
+on a tired Thursday|0.4
+when he was loud and I was done.|0.8
+You are my son.|0.5
+I am in this with you.|0.6
+That is the whole speech some evenings.|0.65
+It is enough to start a floor.|0.8
+Uh, say it again the next evening.|0.55
+Same words.|0.4
+He starts to trust the repeat.|0.7
+The Father does not wait on a résumé.|0.65
+Isaiah says summoned.|0.45
+Then mine.|0.5
+Belonging goes first.|0.7
+A boy who is sure of you|0.45
+can miss a tryout,|0.4
+miss a friendship,|0.4
+miss a grade,|0.4
+and still find the table.|0.8
+A boy who is not sure|0.45
+spends his life reading faces for a yes.|0.75
+A coach.|0.35
+A boss.|0.3
+A room that goes quiet when he walks in.|0.65
+Somebody he is trying hard to impress.|0.75
+Uh, I have watched a grown man|0.45
+still auditioning in a room like this.|0.65
+He laughs a little late.|0.5
+He's checking the faces.|0.6
+That habit starts young,|0.45
+and it starts at home.|0.75
+If you are the son who never heard mine,|0.6
+hear me kindly.|0.5
+Uh, this is not a bit about your old man.|0.65
+Some of you are still waiting|0.4
+on a sentence that did not come.|0.7
+You can tell the truth about that.|0.55
+You can also give the sentence you did not get.|0.7
+Don't leave the chair|0.4
+because the house you came from was thin on words.|0.7
+Your mouth is still yours.|1.25
+# SECTION: What I see
+[quietly] The second name is what you see in him.|0.7
+The person.|0.4
+Character, spoken while the scoreboard is still blank.|0.8
+You catch him being the thing God is forming,|0.55
+and you say the word|0.4
+before he has a name for it.|0.75
+Uh, then growth has a direction.|0.7
+He stays on a messy job|0.4
+after the others have wandered off.|0.65
+You say, that's faithfulness.|0.5
+I see it.|0.4
+You didn't leave the hard part|0.4
+for somebody else.|0.75
+He steps between a smaller kid|0.4
+and a joke that turned mean.|0.6
+You say, that's courage.|0.5
+You used your size to cover him.|0.7
+Uh, call it often enough,|0.45
+and a cheap shot starts to feel wrong in his hands.|0.8
+If the only word he hears is the miss,|0.5
+he has nothing to push off of.|0.7
+Name the character,|0.4
+and the miss has a road home.|0.75
+Judges six.|0.5
+Gideon is hiding.|0.5
+He is threshing wheat in a winepress|0.5
+so the Midianites won't see the food.|0.75
+And the angel says,|0.4
+Judges six, verse twelve,|0.55
+The Lord is with you, mighty warrior.|1.3
+Mighty warrior.|0.5
+While the man is underground with the grain.|0.75
+The name arrives before the proof.|0.7
+God does that.|0.5
+A father does a small, steady copy.|0.65
+You see the faithful man|0.4
+while the boy still feels like the kid who hid.|0.8
+Uh, don't invent a compliment he can't cash.|0.6
+False names make him distrust the real ones.|0.7
+You saw a real act.|0.45
+You name that act.|0.5
+You tie it to the man he is becoming.|0.8
+Uh, I have swallowed this.|0.55
+School line, cars inching.|0.5
+My boy had stayed beside a kid|0.45
+who was getting left out of the game.|0.65
+I had— I had the sentence.|0.5
+I'm proud of the way you stayed.|0.6
+What came out was,|0.35
+buckle up, we're behind.|0.7
+He buckled.|0.4
+The other sentence is still mine.|0.55
+I didn't spend it.|0.6
+A name you keep in your mouth|0.45
+is a name you did not give.|1.25
+# SECTION: The word man
+[warmly] The third name is the one a lot of us missed.|0.75
+Man.|0.6
+Somewhere he can still remember,|0.5
+he needs his father to say,|0.45
+you are becoming a man,|0.5
+and here is what that word holds.|0.8
+Then you give him the marks.|0.55
+From your mouth.|0.45
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.|1.3
+# CUT SCREEN: creed board — "A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's." — new angle after
+Uh, he is already asking.|0.5
+Am I one yet.|0.65
+If you stay quiet,|0.4
+some other voice will be glad to answer.|0.8
+Uh, I have watched the substitutes.|0.55
+A scoreboard that finally lights up.|0.6
+A crew that lets him in|0.4
+if he learns to be cruel enough.|0.7
+A look from somebody he wanted,|0.45
+and he takes the look as a verdict.|0.75
+A number in an account|0.4
+that makes him feel finished.|0.75
+Those will name him.|0.55
+They are happy to do it.|0.7
+Uh, he will be called a man by somebody.|0.6
+Decide that the somebody is you.|0.75
+Say it early.|0.5
+You don't have to wait|0.4
+for a ceremony you keep moving down the calendar.|0.8
+I can tell you what was expected of me as a kid.|0.6
+Chores.|0.35
+Grades.|0.3
+Don't embarrass the family.|0.65
+I cannot hand you a sentence|0.4
+where a man told me what a man is.|0.75
+Uh, so I borrowed.|0.5
+Work.|0.35
+Being hard to rattle.|0.5
+Keeping my mouth shut|0.4
+and calling the silence strength.|0.75
+Uh, it carried me a long way.|0.6
+It did not tell my son who he is.|0.75
+I'm not building a case against the house I grew up in.|0.7
+I'm telling you the gap is real.|0.6
+A gap does not raise a boy.|0.55
+A sentence does.|0.7
+Uh, say it before the substitutes do.|0.6
+Fill the word while it is still good news.|0.65
+He is listening for a definition.|0.6
+You answer.|0.45
+On purpose.|0.4
+More than once.|0.5
+Until the word man, in his ear,|0.5
+sounds like those four marks|0.45
+and he can say them back.|1.2
+# SECTION: Habit
+[warmly] A habit does this work.|0.6
+A speech on a big day cannot carry it.|0.75
+Each day, catch one act a man would recognize,|0.55
+and say the name of it.|0.65
+Uh, he took the smaller piece|0.4
+and didn't announce himself.|0.55
+That's humility.|0.55
+He finished the job after you left the garage.|0.6
+That's faithfulness.|0.6
+It takes less time than finding your keys.|0.6
+Uh, it may be the richest thing you spend on him.|0.8
+Then one evening you already decided.|0.6
+Not when you feel holy.|0.5
+Uh, hand on his head.|0.5
+Three sentences.|0.65
+You are my son.|0.4
+I love you.|0.4
+I am in your corner.|0.7
+Here is what I saw.|0.45
+Name the real thing.|0.45
+Tie it to the man.|0.65
+God made you on purpose.|0.5
+There is good work that fits you.|0.5
+I will help you look for it.|0.8
+Uh, the first time, it will feel strange.|0.6
+Mine did.|0.45
+I put a hand on his head|0.45
+and it felt like a play,|0.5
+so I turned it into a hair ruffle|0.45
+and a good job.|0.6
+He got a pat.|0.45
+He needed a sentence.|0.65
+The pat was easier on me.|0.6
+Uh, easy is how a boy stays unnamed.|0.8
+Another evening I got the three sentences out.|0.6
+He waited.|0.4
+Then he said,|0.3
+am I in trouble.|ROOM_CHUCKLE
+When he fails, pull the act off the boy.|0.65
+Don't hand him the failure as a name.|0.7
+Say he shoved a smaller kid|0.4
+to get a laugh from the older ones.|0.65
+You don't close the file with, you're a bully.|0.7
+You say— you say, you are my son.|0.55
+Using somebody smaller for a laugh was cruel.|0.7
+Here is the next move my son makes.|0.55
+You go back.|0.4
+You make it right with that boy,|0.5
+and I stand there with you.|0.8
+Uh, praise where people can hear it.|0.55
+Correct behind a door.|0.6
+At the table,|0.35
+this is my son,|0.4
+and he kept his word.|0.6
+The wrong thing does not get an audience.|0.65
+Shame in a crowd sticks as a name.|0.6
+Praise in a crowd lifts as one.|1.2
+# SECTION: Troy
+[warmly] Let me tell you about a man I'll call Troy.|0.65
+He sat with a few of us.|0.5
+Good man.|0.4
+Showed up.|0.55
+His boy was about twelve,|0.45
+youngest in a pile of cousins|0.45
+who treated every job like a contest.|0.75
+They were building a low ramp|0.45
+for a woman at their church|0.4
+who couldn't manage the steps.|0.7
+Older boys had work with names.|0.55
+Measure.|0.3
+Cut.|0.3
+Drive the screws.|0.6
+Troy's boy got sent.|0.45
+Water.|0.3
+The other board.|0.35
+The bit somebody lost in the grass.|0.75
+Uh, when the boy got waved off,|0.45
+Troy laughed with them.|0.55
+He told me he laughed|0.4
+because everybody else did,|0.45
+and he didn't want to be the heavy|0.4
+on a kind afternoon.|0.8
+That night he heard his boy|0.45
+on the back steps,|0.4
+talking to a kid from down the street|0.45
+who had come to watch.|0.65
+The neighbor kid said,|0.4
+what do you do out there.|0.55
+Troy's boy said,|0.4
+I go get stuff.|0.55
+He said it like a job he had accepted.|0.7
+Proud, and small, in the same breath.|0.8
+Troy stood in the kitchen|0.45
+and felt sick.|0.5
+At his own laugh.|0.7
+The next afternoon they were back on the ramp.|0.6
+The bracket wouldn't sit.|0.5
+Older boys hit the snag|0.4
+and went for the cooler.|0.6
+The boy stayed.|0.45
+Knuckles scraped.|0.4
+No crowd he was playing to.|0.7
+Troy walked over.|0.45
+The cousins could hear.|0.5
+He almost— he almost made a joke,|0.5
+because the joke was right there.|0.65
+He said,|0.35
+you stayed with the hard piece.|0.5
+That's steadiness.|0.45
+That's a man's kind of patience.|0.8
+The boy didn't know where to put his face.|0.65
+One of the cousins snorted.|0.5
+Troy didn't pick it up.|0.5
+He said it again, quieter,|0.45
+just to his son.|0.45
+I meant that.|0.8
+Some time later|0.4
+that neighbor kid had quit his own chore,|0.5
+embarrassed.|0.45
+Troy's boy told him,|0.4
+come back.|0.35
+Staying is the part that counts.|0.55
+You don't have to be fast.|0.75
+Troy didn't assign that speech.|0.55
+The boy had a word,|0.4
+and he spent it on somebody smaller.|0.75
+Uh, the old pattern didn't die before supper.|0.6
+Patterns are stubborn.|0.55
+The boy stopped describing himself|0.45
+as the one who goes and gets.|0.65
+He had a better sentence,|0.45
+and it came from his father,|0.45
+out loud,|0.35
+where the other males could hear it.|1.25
+# SECTION: Every chair
+[warmly] Hear me on the chair you are actually in.|0.65
+If the boy in your house is still a baby,|0.55
+start.|0.45
+He cannot use the words yet.|0.5
+He knows the voice.|0.55
+When you lift him in the dark,|0.45
+say, you are my son.|0.65
+Uh, new fathers feel useless with an infant.|0.6
+The name is the work.|0.6
+Uh, if the marriage came apart,|0.5
+he may be hearing other names across town.|0.65
+You cannot run that house.|0.55
+He is not the mail between two adults.|0.65
+When you have him, give him a sentence he can count.|0.65
+You are my son.|0.4
+I love you.|0.4
+The address does not change it.|0.75
+Daughters at home, and no son.|0.55
+You still have boys in reach.|0.5
+A nephew.|0.35
+The boy you coach.|0.4
+The kid who stays because his ride is late.|0.7
+Last time was the girl.|0.45
+A boy can hear you on this.|0.7
+Young, and nobody has named you yet.|0.6
+You are not late.|0.45
+Uh, you are not sitting this out.|0.6
+Spend a true name on a younger man|0.5
+while you are still growing into yours.|0.8
+If the work is going well,|0.5
+your name may be on a door.|0.55
+The boy still gets a hey from the hall.|0.6
+He will— he will believe the door|0.45
+until your mouth tells him who he is.|0.85
+Older men.|0.45
+A grown son still has ears.|0.55
+If you never said what you see in him,|0.55
+say it.|0.45
+Late is still a gift.|0.7
+I'll call him Len.|0.5
+His son was past thirty,|0.45
+doing better, quiet about it.|0.65
+Len had told everybody but the son.|0.6
+They were loading mulch into a car.|0.55
+Len said, I'm proud of the man you've become.|0.7
+The son held the bag.|0.45
+Didn't look up.|0.45
+Then he said,|0.35
+I wasn't sure you thought I made it.|0.85
+Uh, Len told me he was glad the bag was heavy.|0.6
+He needed somewhere for his hands.|0.75
+Never had a son.|0.5
+You are not the mascot in the corner.|0.6
+Uh, see a boy do a man's thing.|0.5
+Say it where the other boys can hear.|0.65
+One true sentence, in the light.|0.75
+If you were named by a wound,|0.55
+go slow.|0.5
+I will not make that funny,|0.5
+and I will not make the wound your whole name.|0.7
+A younger man in reach still has ears.|1.25
+# SECTION: The name that holds
+[quietly] What you speak over him|0.45
+is a small copy|0.4
+of what God speaks over sons.|0.75
+Mine.|0.4
+What he sees.|0.45
+A man, under Christ.|0.7
+He says that kind of claiming|0.45
+over every man who is in Christ.|0.65
+Over you.|0.5
+Whether a father ever managed the words or not.|0.85
+Isaiah again.|0.5
+I have summoned you by name.|0.55
+You are mine.|0.7
+That was not invented for a hallway.|0.6
+It holds over a son.|0.5
+It holds over the man|0.4
+who never heard it at home.|0.85
+Uh, you can receive it today,|0.5
+even if the first voice in your life|0.45
+never got around to it.|0.75
+A boy can survive a hard day.|0.55
+A house with no sentence in it|0.45
+is the harder thing.|0.7
+Say it while he is still in reach.|0.6
+Out loud beats a plan you keep.|0.65
+You will fail at this.|0.6
+You will spend the cheap name when you are tired.|0.7
+Come back.|0.45
+Uh, repair the sentence.|0.6
+A repaired sentence teaches him something|0.5
+a spotless record never could.|0.7
+It teaches him that a man returns.|0.8
+And you will not be here forever.|0.65
+Uh, your voice is a covering.|0.55
+It is meant to point past you.|0.65
+Aim him at the Father who does not leave.|0.7
+That is the best use of your name.|0.85
+If you are the son who never received this,|0.6
+you are still allowed to give it.|0.7
+I kept— I kept waiting|0.45
+to feel like the kind of man|0.4
+who could put a hand on a head|0.45
+without feeling like a fraud.|0.75
+Uh, the feeling did not lead.|0.55
+The sentence did.|0.6
+I became a little more of that man|0.5
+by saying the thing|0.4
+before I felt qualified.|0.8
+Uh, start before you feel ready.|0.6
+Let the words work on both of you.|0.75
+Uh, he is asking who he is.|0.55
+On a lot of ordinary days.|0.6
+You may be holding the answer|0.45
+he will actually keep.|0.7
+Give him one|0.4
+he can plant his feet on|0.45
+long after your voice goes quiet.|1.25
+# SECTION: To the tables
+[warmly] Let me land it.|0.55
+A boy answers to whatever he is called.|0.7
+If you don't name your son,|0.45
+the world will,|0.4
+and the world has no good names for boys.|1.2
+Three names, from your mouth, on repeat.|0.65
+Mine.|0.4
+What I see in you.|0.5
+Man.|0.65
+Mine is belonging.|0.5
+He has not earned it,|0.4
+and he is not up for eviction.|0.75
+What I see is character,|0.45
+tied to a real act,|0.45
+spoken while he is still growing into it.|0.8
+Man is the word filled on purpose.|0.65
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.|1.25
+# CUT SCREEN: creed board — "A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's." — new angle after
+Keep that line close.|0.6
+What I hope you walk out with|0.5
+is a mouth that has decided.|0.7
+You know what he has been hearing.|0.55
+You know the name you mean to give.|0.6
+Your workbook is where this gets particular.|0.65
+Uh, in a minute you'll sit at the tables|0.5
+and work this part together.|0.75
+Get the questions in your ear.|0.6
+What has your son been hearing from you,|0.55
+even if the honest answer|0.4
+is a sigh or an eye roll?|0.8
+What names have you been giving|0.45
+without meaning to?|0.7
+Where will you catch him,|0.45
+and where will you put a hand on his head|0.5
+and say the three sentences?|0.8
+A son in the house,|0.4
+or a younger man in reach.|0.55
+Both of you own the page.|0.7
+Tell a brother the names|0.4
+you have been giving without meaning to.|0.65
+Ask what his father called him.|0.55
+Ask what he is calling his own son.|0.7
+If there is no son,|0.4
+you still tell one man.|0.5
+Name the younger man out loud.|0.6
+Each day, catch one thing a man does|0.5
+and give it its name.|0.6
+One night,|0.35
+hand on his head,|0.4
+three sentences.|0.6
+No son in the house?|0.45
+Name one act you watched a boy do,|0.5
+out loud,|0.35
+where it can land.|0.75
+Carry this,|0.4
+and write it where you will see it.|0.65
+A boy answers to whatever he is called.|0.65
+If you don't name your son,|0.45
+the world will,|0.4
+and the world has no good names for boys.|0.9
+Give him one he can stand on.|0.65
+Then go to your tables.|0.5
+Work this part of the workbook together.|1.25

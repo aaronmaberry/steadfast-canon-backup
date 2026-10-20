@@ -9,15 +9,15 @@ Wes Hart
 
 **Read this week:** Chapter 5, Pick up the weight.
 
-**Aim:** Accept responsibility. The weight that is yours does not move until you put a hand on it.
+**Aim:** Pick up the weight. The weight that is yours does not move until you put a hand on it.
 
 **One job:** Write one line that starts with That is mine and ends at the period. No but.
 
-**Pitfall:** Do not preach last week's wait. Do not preach courage or reward. Do not dump a second verse as a second sermon. Do not let him hide in other men's crises. One sentence. One period. One hand.
+**Pitfall:** Do not preach last week's wait. Do not preach going first or God's pay. Do not dump a second verse as a second sermon. Do not let him hide in other men's crises. One sentence. One period. One hand.
 
 **Time:** about an hour. Church, small group, or a man alone.
 
-A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
 Say it. Do not unpack it. Tonight is the second mark.
 

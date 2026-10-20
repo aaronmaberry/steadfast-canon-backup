@@ -1,0 +1,645 @@
+# SECTION: Welcome
+[warmly] Hey.|0.5
+Good to see you.|0.8
+Uh, some of you took the same chair as last time.|0.45
+Didn't even look around.|0.4
+I don't blame you.|0.35
+These other chairs have a reputation.|ROOM_CHUCKLE
+Glad you sat down.|0.55
+You're in the right place.|0.85
+Last time we sat with the weight.|0.55
+The part that has your name on it.|0.5
+You don't slide that onto somebody else|0.3
+and then call it peace.|0.9
+Today is about who moves first.|0.55
+The weight stays.|0.4
+Somebody still has to start.|1.15
+If you slipped in after we started, I'm Wes.|0.55
+Glad you're in the chair.|0.75
+Now listen.|0.4
+I don't want this to sound like I'm mad at the room.|0.45
+I'm not.|0.5
+A lot of you care.|0.45
+You care about your house.|0.35
+Your kids, if you have them.|0.35
+The men around you.|0.3
+The work in front of you.|0.7
+Caring was never the shortage.|0.85
+I have cared and— I have cared and stalled in the same hour.|0.6
+Uh, I can see the thing that needs a man|0.35
+and still wait,|0.3
+hoping somebody braver will, you know, walk into it.|0.7
+I have hoped that for years.|0.55
+Sometimes, uh, he shows up.|0.4
+A lot of times he doesn't,|0.35
+because he's in his own chair|0.3
+doing the same math.|0.85
+Everybody in the room can already see the thing.|0.5
+Seeing it was never the hard part.|0.75
+So the move has a plain name.|0.5
+Go first.|1.45
+Some of the men I trust most|0.35
+would rather skip the microphone.|0.5
+They just, uh, hate leaving people stuck.|0.8
+That's the courage I'm talking about.|0.55
+Uh, a man who will start the thing|0.4
+even when he'd rather stay in the chair.|0.75
+You move while it still costs you.|0.55
+You move while your heart is loud.|0.55
+And you move knowing,|0.3
+I mean, you are not alone out front.|1.1
+I'll put a picture on it.|0.4
+Then I'm gonna ask you for one real door.|0.45
+In a real room.|0.4
+With real people.|1.2
+# SECTION: The Marks
+[warmly] One sentence|0.35
+holds four marks of a real man.|0.55
+I have not found, uh, a cleaner list.|0.8
+Here they are.|0.45
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.|1.35
+# CUT SCREEN: creed board — "A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's." — new angle after
+You've heard this list in here already.|0.5
+Last time was that second line,|0.4
+picks up the weight.|0.7
+Today the line in front of us is the next one.|0.5
+He goes first.|1.3
+Stay with me on that word.|0.45
+First.|0.6
+Uh, I used to think it meant I felt steady.|0.5
+I don't feel steady.|0.5
+The men I have watched go first|0.35
+usually look a little uneasy doing it.|0.65
+Not a show.|0.35
+Just a man who would rather sit,|0.35
+and doesn't.|0.85
+You don't wait around to feel brave.|0.5
+You move,|0.3
+and the feeling can come later,|0.4
+or never come at all.|0.6
+Let me say what I think the word means|0.4
+with jobs and houses and ordinary days.|0.75
+Courageous leading is a move,|0.45
+not a mood you sit and wait on.|0.6
+It is going— it is going first|0.4
+when going first will cost you.|1.35
+I mean the kind of first that other people can see.|0.5
+You step into the thing the room is avoiding,|0.45
+and you stay there long enough|0.35
+that another man has somewhere to stand.|0.9
+A title, uh, can sit perfectly still.|0.55
+A loud voice can fill a building|0.4
+and still be waiting on somebody else.|0.75
+I have done both.|0.5
+Uh, I have looked like I was leading|0.35
+because I was the one talking,|0.4
+and the whole time, uh, I was hoping|0.3
+the hard sentence belonged to somebody else.|0.9
+So if you remember one line from this part, remember this.|0.55
+Go first when going first will cost you.|1.5
+That's the mark.|0.45
+The rest is us getting honest about where we've been standing.|1.2
+# SECTION: Watch the Life
+[dry] Men hear the word leadership|0.4
+and a picture shows up.|0.55
+For some of you, uh, it's a microphone.|0.45
+For some of you it's a name on an office door.|0.5
+For some of you it's the man who sends the schedule|0.35
+and keeps the list.|0.7
+I have wanted every one of those|0.4
+on days I, you know, wanted cover.|0.8
+Cover feels like leading.|0.45
+You can send a— you can send a very clear message|0.35
+about what everybody else ought to do.|0.6
+From over here, I am very inspiring.|ROOM_CHUCKLE
+My own message, I, uh, leave in draft.|0.8
+That's managing.|0.45
+The list moves.|0.3
+You don't.|0.7
+And hear this, because some men get it twisted.|0.5
+Going first is not taking over.|0.45
+It is not winning the room,|0.35
+or making everybody smaller so you can feel large.|0.7
+That is fear dressed up like force.|0.6
+If people leave smaller because you moved,|0.45
+You used them.|0.9
+Jesus, uh, does this a different way.|0.55
+John ten, verse four.|0.65
+When he has brought out all his own,|0.4
+he goes on ahead of them,|0.45
+and his sheep follow him|0.35
+because they know his voice.|1.4
+He goes on ahead.|0.55
+They follow a voice they already trust.|0.8
+Uh, stay with that.|0.45
+The people around you already know your voice.|0.5
+They have heard it when the money was tight.|0.4
+They have heard it when you were angry.|0.4
+They have heard it when your attention left the room|0.35
+and your body stayed.|0.75
+If that voice and the direction don't match,|0.45
+they may nod,|0.3
+and they will not follow.|0.9
+So the question under the verse is simple.|0.5
+Can they watch how you do the hard thing,|0.4
+and walk the same way?|1.15
+If they can't, you're dispatching.|0.45
+You're sending them at something|0.3
+while you stay covered.|0.7
+Leading is you already in it,|0.4
+with room beside you.|1.25
+# SECTION: Emmett
+There was a man in a group I sat in for a long time.|0.55
+Quiet man.|0.4
+Uh, I'll call him Emmett.|0.6
+His dad died,|0.35
+and the dad had a storage unit full of a life.|0.55
+Tools.|0.3
+A workbench taken apart.|0.35
+Boxes the sons had, uh, been meaning to open.|0.75
+Every brother had the code.|0.5
+Uh, that was as far as it went.|0.7
+They would text about getting over there.|0.45
+Somebody would say this ought to happen.|0.4
+Then the thread would turn into ballgame scores.|0.65
+I have sent that text.|0.45
+I am undefeated at the group text that feels like work.|ROOM_CHUCKLE
+Emmett stopped sending them.|0.7
+One Saturday, uh, he drove over by himself.|0.5
+He didn't ask if it was a good day for it.|0.55
+He told me later, uh, his hand was clumsy on the lock.|0.5
+The lock stuck on him.|0.4
+He almost shut it and left.|0.6
+He got it open anyway.|0.8
+The heat came out with the dust.|0.55
+He didn't make a— he didn't make a speech at the doorway.|0.45
+He started lining his dad's wrenches up on the floor,|0.4
+the way the old man had kept them on the bench.|0.85
+Then he took a picture of the wrenches.|0.45
+Sent it.|0.35
+No paragraph under it.|0.7
+A younger brother was there|0.35
+before the first box was finished.|0.5
+Walked up and said, you started.|0.55
+Emmett said, somebody had to.|1.15
+They stayed until the light was gone.|0.6
+Another brother showed up and just started carrying boxes.|0.55
+Nobody thanked Emmett, uh, with a speech.|0.5
+[quietly] Here's what I want you to see.|0.5
+Those men were not short on love.|0.45
+They were short on a man already inside,|0.4
+with his hands dirty,|0.35
+where the rest of them could stand.|1.2
+That's courageous leading.|0.5
+A first pair of hands.|0.55
+The storage unit got empty|0.4
+because one man opened it|0.35
+while it was still easier to leave it shut.|1.25
+# SECTION: Your Table
+Your version is probably smaller than a storage unit.|0.6
+That's good news, and it's also the trap.|0.55
+Small rooms are easier to postpone,|0.4
+because, you know, nothing looks urgent.|0.8
+I learned that at my own table.|0.55
+I got, uh, smooth.|0.4
+We'd sit down to eat,|0.35
+and I'd look at one of my kids and say,|0.4
+one of you thank the Lord.|0.6
+They learned, uh, the cue.|0.45
+I called it— I called it raising them.|0.5
+Uh, giving them a chance to grow.|0.7
+One of them finally looked at me|0.4
+[quietly] and said, you never do it.|1.15
+Wasn't angry.|0.4
+Just, you know, reporting.|0.7
+I prayed that meal with my ears hot.|0.5
+The words came out clumsy.|0.45
+The roof stayed on.|0.75
+That was me going first|0.35
+in a room that could check my work.|1.05
+I kept praying at that table after.|0.5
+Short ones.|0.3
+Clumsy ones.|0.35
+One of the kids smirked once.|0.45
+I stayed.|0.6
+Uh, that smirk was the test.|0.5
+If you quit there, the old cue comes right back.|0.8
+A big room will let a man fake the voice.|0.5
+Your people will not.|0.75
+If you want to be steady up front|0.4
+and you go quiet where they know you,|0.45
+the sizes are backward.|0.8
+If you live on your own,|0.4
+the check is still there.|0.5
+It's the friend who actually knows your life,|0.45
+or the drive toward worship|0.35
+when nobody is riding with you.|0.7
+You don't wait on a wife.|0.4
+Your life already needs a man who starts.|0.85
+Start where your voice can be checked.|0.5
+Your table.|0.35
+Your car.|0.3
+The few men who would notice if you hid.|0.9
+A question can be, uh, you going first,|0.4
+if you are actually in it.|0.55
+Where have I made your life heavier.|0.5
+Where have I gone quiet on you.|0.55
+You ask it,|0.3
+and you keep your hand on the door|0.35
+while they answer.|0.9
+What you don't do|0.3
+is borrow their courage|0.3
+and call it training.|1.2
+# SECTION: A Clean Sorry
+[amused] I have also, uh, built apologies with a hinge in them.|0.55
+I'm sorry I was short with you,|0.35
+but you don't know the day I had.|0.7
+The sorry walks in.|0.4
+Then the but— then the but sits down|0.3
+and takes the stand back.|0.75
+She can hear the hinge|0.35
+before I finish the sentence.|0.7
+I once sat, uh, in my own driveway|0.4
+and practiced the clean version out loud.|0.5
+No but.|0.3
+No day.|0.3
+No explanation.|0.55
+I gave the whole thing to the dashboard.|0.45
+The dashboard forgave me immediately.|ROOM_CHUCKLE
+Then I walked toward the house,|0.4
+and the but tried to come with me.|0.65
+I stood there and I— I almost let it.|0.8
+The courageous part was leaving it in the car.|1.1
+What I almost carried inside|0.35
+was a whole account of my day.|0.5
+The drive.|0.3
+The pressure.|0.3
+How I get when I'm tired.|0.55
+None of it belonged in the apology.|0.7
+Uh, she did not need the story of my day.|0.5
+She needed the sorry to stop.|0.8
+I have owed that same clean sentence to a friend.|0.5
+I withheld it|0.3
+and called the silence kindness.|0.65
+Kindness was me staying comfortable.|0.8
+A clean apology ends.|0.5
+I'm sorry.|0.4
+I was wrong.|0.4
+I was short, or I was gone, or I was harsh.|0.55
+And then you stop talking.|0.8
+You do it, uh, early,|0.35
+while you could still win the argument|0.4
+by waiting her out.|0.75
+I have waited her out.|0.45
+My wife could tell you.|0.4
+I called the silence, uh, a cool-down.|0.5
+It was me protecting a win.|0.9
+If the marriage already broke,|0.4
+the same door still exists.|0.5
+Maybe the straightest apology you've ever managed,|0.45
+said to the mother of your kids,|0.5
+and then you leave what she does with it|0.35
+in her hands.|0.9
+You don't control the answer.|0.45
+You do decide who opens.|1.1
+Uh, history can be real.|0.4
+You still go first.|0.55
+Slow, if slow is honest.|0.45
+First anyway.|1.25
+# SECTION: Decent Names
+There's another door, and it, uh, looks like nothing.|0.55
+It's the true thing everybody can see|0.4
+and nobody will say.|0.8
+We had a slow leak under the bathroom sink.|0.5
+I became, uh, the man who emptied the bowl.|0.45
+Every morning.|0.4
+Very faithful.|0.55
+Uh, I would not say the sentence.|0.5
+The trap is shot.|0.4
+We have to open the cabinet and deal with it.|0.75
+Emptying the bowl felt— emptying the bowl felt like handling it.|0.55
+It was me refusing to name it.|0.9
+Your house, uh, has a version.|0.5
+The money nobody will look at straight.|0.5
+The temper everybody works around.|0.5
+A habit the whole place steps past.|0.55
+Or you stopped gathering with God's people,|0.4
+and the house treats that quiet as normal.|0.8
+Once it has a name, you can do something.|0.5
+Leave it unnamed|0.3
+and it just becomes the way the place looks.|0.85
+So we give the waiting a decent name.|0.7
+Let me see a show of hands.|0.45
+How many of you have given your hiding|0.35
+a respectable word?|0.55
+Go on. This room can handle it.|ROOM_HANDS
+[dry] Yeah.|0.4
+Put them down.|0.35
+I'm in there too.|0.8
+One decent name, uh, is humility.|0.5
+I don't want to be the man who always decides.|0.45
+Sometimes that sentence is true.|0.45
+A lot of times it is me,|0.3
+afraid to be wrong,|0.35
+so I pick nothing|0.3
+and call it character.|0.85
+Another name is coaching.|0.5
+I'll just ask questions|0.3
+and let them get there.|0.55
+A real question is a door you hold open.|0.5
+Coaching, the way a lot of us use it,|0.4
+is a seat that never stands up.|0.6
+You look involved.|0.35
+You never set a direction,|0.3
+and you never name a wrong.|0.8
+And another name,|0.35
+letting her lead.|0.55
+Sometimes that is respect.|0.45
+Sometimes she has been leading|0.3
+because you would not,|0.4
+and you started calling your absence a gift.|1.0
+Right?|0.7
+If the decent name is the only thing keeping the door shut,|0.45
+drop the name.|1.25
+# SECTION: Afraid and Moving
+I want to be honest, uh, about why the hand stays put.|0.6
+I have given in, uh, to all of this.|0.7
+You are afraid of looking foolish.|0.5
+The prayer comes out younger than you are.|0.45
+Your voice, you know, does a weird little turn,|0.4
+and you hear it,|0.35
+and you want the sentence back|0.3
+while you are still saying it.|0.85
+You are afraid of being refused.|0.55
+You offer the true thing|0.35
+and the other person stays where they are.|0.5
+You stepped out,|0.3
+and nobody stepped with you.|0.8
+That sting is real.|0.5
+I will not talk you out of it.|0.75
+You are afraid of being wrong.|0.5
+So you keep, uh, every option open.|0.45
+A man can feel very open-minded|0.35
+while he refuses to choose.|0.8
+And you are afraid of the cost,|0.4
+because there is one.|0.6
+First pays.|0.5
+You might give up the argument you were winning.|0.45
+You might give up the picture of yourself|0.35
+as the steady man who never starts the hard thing.|0.9
+Count the cost.|0.4
+Then go anyway.|1.15
+Scripture does not tell a man|0.35
+to wait until the fear leaves.|0.7
+Second Timothy, chapter one, verse seven.|0.65
+For the Spirit God gave us|0.35
+does not make us timid,|0.45
+but gives us power,|0.3
+love and self-discipline.|1.35
+[quietly] Timid means the fear got the last word|0.4
+and you stayed put.|0.7
+Courage means you moved|0.35
+while the fear was still talking.|1.45
+I have waited for my pulse to settle|0.4
+over a sentence as small as,|0.35
+can we talk before you head out.|0.7
+Uh, the pulse did not settle.|0.5
+It still doesn't.|0.45
+You talk with the noise in your ears.|1.1
+At work, uh, we sat in a meeting|0.4
+and the plan had a hole in it.|0.5
+I saw the hole.|0.4
+I looked at the man running the meeting,|0.4
+and I waited.|0.55
+He moved on.|0.4
+I told myself it— I told myself it wasn't my place.|0.6
+The hole left with all of us.|0.55
+What I called respect|0.35
+was me keeping my own quiet safe.|1.25
+# SECTION: Already Ahead
+Here's the part that, uh, changes the door.|0.6
+You are not the first one through it.|0.7
+Uh, I forget this|0.3
+when my hand is actually on the handle.|0.55
+I start acting— I start acting like the whole thing|0.35
+depends on my nerve.|0.6
+My nerve is a poor engine.|0.75
+Rehearsing the whole talk is just delay|0.4
+with a serious face on it.|0.65
+Uh, what moves a man through the doorway|0.4
+is not a surge of nerve.|0.55
+It's remembering who is already in the room.|0.9
+He is not shocked by a shaking voice.|0.55
+He is not waiting on you to feel qualified.|0.65
+You can be the first human through that door|0.4
+and still be second.|0.85
+Deuteronomy thirty-one, verse eight.|0.7
+The Lord himself goes before you|0.45
+and will be with you.|0.5
+He will never leave you|0.35
+nor forsake you.|0.55
+Do not be afraid.|0.4
+Do not be discouraged.|1.4
+Goes before you.|0.6
+Your hard sentence|0.35
+lands in a room where He is already standing.|0.8
+The clumsy prayer.|0.4
+The apology with the hinge left outside.|0.45
+The true thing you have been walking past.|0.55
+You are walking into a presence,|0.4
+not into an empty quiet.|1.1
+[warmly] You are never actually first.|0.6
+You are the second door open.|1.5
+It still costs.|0.45
+You are still out in the open.|0.55
+He is not leaving.|1.1
+There's another mark on that list.|0.5
+Works for God's pay.|0.4
+Not the room's.|0.7
+Uh, that one is real.|0.45
+I'm leaving it where it is today.|0.55
+I only need you to know why a man can move|0.4
+when his nerve is thin.|0.6
+Somebody already went ahead of him.|0.5
+And that Somebody can be trusted|0.35
+with what the moving costs.|1.15
+Uh, nerve runs out.|0.45
+The promise does not.|0.7
+So you don't have to become a fearless man|0.4
+before you are allowed to start.|0.6
+You have to be a man who will move|0.35
+behind a Lord who is already there.|1.25
+# SECTION: Eight Seconds
+Men, uh, hide by trying to write the whole conversation|0.4
+before they open their mouths.|0.65
+I have written some— I have written some beautiful ones in my head.|0.5
+I mean, they went on for a while.|0.55
+Uh, very fair to me.|0.4
+Very understanding on the other end.|0.55
+And then I never had the real one.|0.85
+You need a first sentence.|0.5
+Not the speech.|0.55
+One line,|0.3
+and then you stop trying to manage|0.35
+what they do with it.|0.9
+You can borrow these if you need them.|0.5
+I was wrong this morning.|0.55
+Before we eat, I'm gonna pray.|0.55
+Something in this house is breaking,|0.4
+and I don't want us to walk past it.|0.7
+Can I ask you a thing I've been avoiding?|0.8
+Pick the line that fits your actual room.|0.5
+Say it.|0.4
+Then do the part we skip.|0.8
+There is a gap after a true sentence.|0.55
+It feels longer than it is.|0.6
+Uh, your body wants to fill it.|0.45
+Explain.|0.3
+Add the second half.|0.35
+Laugh it off.|0.3
+Take it back.|0.55
+Don't.|1.15
+Stay eight seconds.|0.7
+Count them in your head|0.35
+if you need a rail to hold.|0.6
+Eight.|0.45
+You can live through eight seconds.|1.2
+I have not always.|0.5
+I have bailed on my own sentence|0.4
+and then stood there confused|0.35
+about why the room didn't change.|0.9
+He is already in the room.|0.55
+Stay anyway.|1.1
+And do it on an ordinary day.|0.55
+Not when a crisis removes your choices.|0.6
+A regular meal.|0.4
+A regular ride.|0.35
+Uh, a regular morning|0.3
+when letting it slide would be easy.|1.15
+[quietly] I had one of my kids in the car|0.4
+and a real question in my mouth.|0.5
+The kind you only get|0.3
+while the road is doing some of the work.|0.65
+I asked what they wanted from the drive-through.|0.5
+We laughed.|0.35
+We got home.|0.4
+The real question rode back with me,|0.35
+still unsaid.|1.0
+I think about that ride|0.35
+more than I want to.|1.25
+# SECTION: Whoever You Are
+How many of you already know the sentence,|0.4
+and you've just been saving it?|0.6
+Let me see them.|ROOM_HANDS
+Yeah.|0.45
+That sentence is probably your door.|1.05
+Uh, young men.|0.45
+If you have been hoping she will decode you,|0.5
+Ask her plainly.|0.4
+Say where you're headed.|0.55
+A woman should not have to guess the man.|0.9
+If there's no wife in the house,|0.4
+you are not stuck in a hallway|0.35
+waiting on permission.|0.65
+You already have a life.|0.45
+Set a direction for it.|0.5
+Be the one who treats worship as real|0.4
+and then is already in the car.|0.6
+Marriage is good.|0.4
+Courage starts in the life you have.|0.85
+Uh, husbands.|0.45
+She should not have to file a request|0.35
+for your attention.|0.6
+You go first.|0.55
+I'm talking to my own pocket when I say the phone can wait.|0.9
+[quietly] If you took a real hit,|0.4
+if the house went quiet,|0.35
+if the papers are signed,|0.45
+go slow, and go first anyway.|0.75
+The door is still yours to open.|0.85
+Uh, older men.|0.5
+The younger man is not gonna start the walk.|0.55
+You are.|0.4
+Whatever room you are both standing in,|0.45
+you speak first.|0.8
+And if the job is going well,|0.4
+and the room keeps nodding,|0.45
+don't confuse a nod with courage.|0.65
+If you can see the thin place in the plan,|0.45
+say it while saying it still helps.|0.75
+First costs more than a nod.|0.9
+I watched an older man go first in a small way.|0.5
+I'll call him Harlan.|0.55
+He came early to a room where a few of us met.|0.5
+Stood by the doorway on purpose.|0.5
+Watching for the quiet one.|0.65
+He spoke first.|0.45
+How's it going on the inside.|0.6
+One morning a younger guy tried to slide by|0.35
+with, fine.|0.55
+Harlan said, try that again.|0.45
+I'm not in a hurry.|0.7
+They stood there.|0.45
+The younger man talked.|0.6
+Uh, Harlan didn't have a title on his shirt.|0.5
+He had a first sentence,|0.4
+and he did not rescue the quiet after it.|1.05
+The younger man was never gonna start that.|0.5
+Harlan knew.|0.45
+So he went first.|1.25
+# SECTION: To the Tables
+[warmly] Let me bring this home.|0.55
+Here is, uh, the whole thing.|0.5
+A man goes first|0.35
+when he walks into the thing|0.3
+everybody else is waiting on,|0.45
+and he stays through the quiet after,|0.5
+because the Lord himself goes before him.|1.4
+What I hope— what I hope you carry out of the chair|0.45
+is one room,|0.35
+the people in it,|0.35
+and the words you are gonna open with.|0.9
+Uh, your workbook is where this gets particular.|0.6
+In a minute you'll sit at the tables|0.4
+and work this part together.|0.75
+So get the questions, uh, in your ear.|0.55
+What is the room?|0.45
+Who are the people in it?|0.45
+And what has to happen first?|0.9
+What decent name have you given|0.35
+for holding that door shut?|0.55
+Humility.|0.35
+Coaching.|0.35
+Letting her lead.|0.5
+Say the one you have actually been using.|0.85
+What are the opening words?|0.5
+And will you stay through the eight seconds?|1.15
+Name it out loud at the table.|0.5
+Write the words where your eyes will find them.|0.75
+Then one door.|0.45
+Pray out loud, in the room that knows you.|0.5
+Or a clean apology, and let it end.|0.5
+Or say the broken thing|0.3
+the people have been walking past.|0.55
+Or a Sunday drive, and you are the one who goes.|0.55
+Or walk toward a younger man.|0.4
+He is not gonna be the one who starts.|0.8
+Stay the eight seconds.|0.7
+I mean, tell a brother the exact words|0.35
+before you use them.|0.5
+Afterward, tell him how it went.|0.45
+Include those eight seconds.|0.55
+If he can't ask you whether you hid,|0.4
+you told the wrong man.|0.95
+And write this where you'll see it.|0.5
+The Lord himself goes before you.|0.55
+You are never actually first.|0.5
+You are the second door open.|1.4
+The marks still stand.|0.45
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.|0.8
+# CUT SCREEN: creed board — "A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's." — new angle after
+Today, lead.|0.45
+Go first.|0.55
+Tables are yours.|0.5
+Work that part of the workbook together.|0.6
+I'll be around.|1.2

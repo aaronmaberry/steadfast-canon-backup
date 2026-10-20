@@ -1,0 +1,802 @@
+# SECTION: Welcome
+[warmly] There you are.|0.6
+Come on and settle in.|0.5
+Uh, I already said hello to one of you twice.|0.45
+Same man.|0.35
+He was gracious about it.|ROOM_CHUCKLE
+If we're just meeting, I'm Wes.|0.5
+Uh, glad you found a seat.|0.75
+Last time we talked about a house that never said go,|0.4
+and about walking out|0.3
+without making the door a weapon.|0.65
+Keep that.|0.45
+It still matters.|0.85
+Today is a quieter trouble.|0.7
+You can look steady from where I'm standing.|0.5
+Uh, people know your name.|0.4
+You answer when a need goes around.|0.6
+Then the day ends.|0.45
+You lock up.|0.35
+You sit a minute.|0.5
+And there is not a man|0.35
+you would call|0.3
+and tell the truth to.|0.9
+I have— I have lived right there.|0.65
+I had, uh, language for it.|0.5
+I called it a private life.|0.55
+Private meant nobody was allowed in.|0.75
+I, uh, protected it.|0.45
+Called the quiet peace.|0.5
+It was a shut door|0.35
+with a nice name on it.|0.75
+Some of you are young,|0.4
+and you figure this arrives later,|0.35
+when the life gets bigger.|0.6
+It doesn't.|0.7
+Uh, some of you are married,|0.4
+and you figure she covers it.|0.55
+She loves you.|0.4
+She was never built|0.3
+to be the only one|0.3
+who knows when you're sinking.|0.85
+Some of you, the work went well.|0.45
+The day looked clean.|0.4
+You still couldn't say|0.35
+who has you.|0.75
+Look around.|0.45
+Uh, good men.|0.4
+Men other people count on.|0.55
+And a gap|0.3
+running through the middle.|0.8
+So here's the aim.|0.5
+We're gonna name that aloneness.|0.55
+Then we're gonna make an ask.|0.6
+A brother beside you.|0.45
+A man out ahead of you.|0.55
+Uh, same obedience.|0.4
+You go first.|0.7
+Nobody drafts you off a wall|0.4
+because you looked ready.|0.75
+If you fell,|0.4
+the man you could call|0.35
+might still be a blank.|0.9
+We'll look that blank in the face|0.45
+uh, before you leave the room.|0.6
+A name,|0.3
+or the honesty of no name.|0.55
+That's the work in front of us.|1.25
+# SECTION: The Marks
+[warmly] One, uh, sentence|0.45
+puts four marks on a real man.|0.6
+I still haven't found a cleaner list.|0.7
+Uh, here they are.|0.4
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.|1.3
+# CUT SCREEN: creed board — "A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's." — new angle after
+Uh, you've heard that in this room.|0.5
+I'm not gonna walk all four out today.|0.55
+I want them pointed|0.3
+at the man who has you,|0.4
+and at the man you haven't asked.|0.8
+Passivity can look like patience.|0.55
+You wait to be chosen.|0.45
+You call the waiting humility.|0.5
+Uh, it is often just fear|0.35
+with a calm face.|0.7
+Now listen.|0.45
+A man can hit his numbers|0.4
+and still be passive|0.35
+where it actually counts.|0.65
+Nobody at the job|0.35
+is gonna ask him|0.3
+if he has a brother.|0.6
+That question is his.|0.55
+The ask— the ask|0.35
+does not wait on a mood.|0.65
+The mood shows up later,|0.45
+after the sentence|0.3
+is already out.|0.7
+So you say it scared.|0.6
+The ask belongs to you.|0.6
+Accept that.|0.45
+Uh, set the time.|0.35
+Say the sentence.|0.4
+That is responsibility|0.3
+with a phone in your hand.|0.7
+Courage sounds smaller than men think.|0.55
+It is saying the awkward thing|0.4
+before you feel ready.|0.75
+And God's pay|0.4
+is a life God can actually help.|0.7
+I mean, privacy can feel like a prize.|0.55
+It pays you in being untouched.|0.5
+His pay is a man who can be helped,|0.45
+and who can turn around and help.|0.8
+Hold them on this.|0.55
+If you fell,|0.35
+somebody's name ought to be ready.|0.7
+And somewhere near you|0.35
+is a man about twenty years ahead,|0.45
+living a stretch you've never asked him about.|0.75
+Both of those silences|0.4
+are the same passivity.|0.6
+You don't outgrow them|0.35
+by getting busier.|0.55
+You break them|0.3
+by going first.|1.2
+# SECTION: If a Man Falls
+[quietly] Ecclesiastes four, verse ten.|0.6
+If either of them falls down,|0.4
+one can help the other up.|0.55
+But pity anyone who falls|0.4
+and has no one to help them up.|1.45
+Uh, read that slow.|0.5
+A man can be strong|0.35
+and still go down.|0.6
+Strength was never the promise|0.35
+that you wouldn't fall.|0.65
+The promise in the verse|0.4
+is a hand.|0.55
+Uh, somebody close enough|0.35
+to get under you.|0.8
+Pity, in this verse,|0.4
+is a warning|0.35
+with mercy in it.|0.7
+You can have a full calendar|0.4
+and still be that man.|0.65
+People like you.|0.4
+They count on you.|0.45
+None of that is a hand|0.35
+on the day you go down.|0.8
+Falling doesn't always|0.35
+look like a scene.|0.55
+Sometimes it is a slow slide.|0.6
+The temper.|0.4
+The secret.|0.4
+The distance at the table.|0.65
+You know, most men|0.4
+don't announce it.|0.5
+They just get harder to find.|0.7
+A hand— a hand can still reach that,|0.5
+if a man is close enough|0.4
+to notice.|0.85
+Stay with me.|0.45
+Proverbs thirteen, verse twenty.|0.55
+Walk with the wise and become wise,|0.45
+for a companion of fools suffers harm.|1.2
+So the man you tie yourself to|0.4
+is gonna leave a mark.|0.6
+Uh, company is not neutral.|0.55
+Walk with a wise man|0.35
+and his counsel gets into your feet.|0.65
+Walk with a man who only nods,|0.4
+and you will go farther|0.3
+down a bad road|0.35
+feeling supported.|0.8
+You know, a lot of us|0.4
+have plenty of agreement.|0.5
+What we're short on|0.3
+is a man who loves us|0.35
+enough to disagree|0.4
+and then stay.|0.9
+That's the brother.|0.55
+He can tell you the truth.|0.45
+He is still there after it.|0.7
+Christ stays the Savior.|0.5
+The Father stays the Father.|0.55
+A brother stands with you|0.4
+on a day you can't find God,|0.5
+until you can hear Him again.|0.9
+Uh, one man like that.|0.45
+Two, if God is kind.|0.5
+A crowd is a different animal.|0.55
+You don't need the crowd|0.35
+to stop living unknown.|1.25
+# SECTION: Not a Buddy
+A buddy is a good thing, right?|0.55
+He's the man beside you|0.35
+while something gets done,|0.4
+or while something gets enjoyed.|0.6
+Uh, you split a lunch.|0.4
+You loan a ladder.|0.4
+You both show up|0.3
+when a family needs a hand.|0.65
+Uh, keep those men.|0.5
+Thank God for them.|0.55
+A brother is a different seat.|0.7
+He knows what you do|0.35
+when a day goes sour.|0.55
+Whether you pick a fight,|0.4
+or you go polish a thing|0.3
+that was already fine,|0.4
+or you get real helpful|0.3
+and real gone.|0.7
+He can ask about the money.|0.45
+About the way you spoke at home.|0.5
+About the late hour.|0.4
+About whether you prayed,|0.35
+or just performed a prayer.|0.65
+And you tell him.|0.5
+He says the hard sentence once,|0.45
+with love,|0.35
+and he doesn't sand it down.|0.6
+Then he shows up the next time|0.4
+like the sentence didn't end you.|0.75
+[dry] I have been very known|0.4
+on the subject of sauce.|ROOM_CHUCKLE
+My text thread can settle that.|0.45
+It cannot settle me.|0.7
+Uh, I learned the difference|0.4
+the slow way.|0.55
+I'd come in the door,|0.4
+set my keys down the same way,|0.45
+and my wife could read the whole day|0.4
+off that sound.|0.7
+I called it— I called it being easy.|0.6
+Uh, low maintenance.|0.45
+What it was,|0.3
+she was carrying the weight|0.35
+of being the only person|0.3
+who knew me.|0.75
+I mean, she is my wife.|0.5
+That is a gift.|0.45
+It was never supposed to be|0.35
+her whole assignment.|0.7
+How many of you, honest,|0.45
+don't have a man's name ready|0.4
+if you went down?|0.6
+Your wife doesn't fill this blank.|0.45
+Go ahead.|ROOM_HANDS
+Yeah.|0.4
+Look at that.|0.45
+Capable men.|0.4
+Still reaching.|0.85
+Uh, the men at your work|0.4
+can respect you|0.35
+and never hear|0.3
+what you're afraid of.|0.65
+A good crew is still a gift.|0.55
+You need one man|0.35
+who is allowed all the way in.|1.2
+# SECTION: Why We Stay Alone
+You know what we tell ourselves.|0.55
+We say we're fine.|0.5
+I've said it|0.3
+with a straight face|0.35
+on days I was not fine.|0.65
+Fine is pride|0.3
+that learned manners.|0.7
+We say there's no time.|0.55
+Uh, there is time.|0.4
+What there hasn't been|0.35
+is an ask small enough|0.4
+to fit inside a real life.|0.75
+We say we don't want to be a weight.|0.6
+Uh, under that, a lot of us|0.4
+learned early|0.3
+that needing somebody cost extra.|0.65
+So we would rather go under|0.4
+than reach.|0.7
+We say men don't do this.|0.55
+Men did this|0.3
+long before we started|0.35
+treating a sealed-up life|0.4
+as the mature one.|0.75
+And some of you tried.|0.5
+You opened your chest|0.35
+and a man used what he heard.|0.7
+I am not gonna shrink that.|0.55
+Uh, that wound is real.|0.6
+It can still try to run you.|0.55
+One man who failed you|0.4
+does not get to lock|0.3
+the rest of your years.|0.8
+[quietly] There was a man at our church,|0.45
+uh, older than me,|0.4
+always by the coat rack|0.35
+when the room emptied.|0.6
+I had questions.|0.45
+How a house stays kind|0.35
+when the money gets thin.|0.6
+I walked— I walked past him|0.4
+for a long time.|0.65
+I told myself he looked busy.|0.55
+He was putting an arm through a sleeve.|0.6
+That is not a crowded hour.|0.55
+That is a man|0.3
+with half a minute|0.35
+and nowhere he had to be yet.|0.75
+I still walked past.|0.7
+You know, I had him cast|0.4
+as too important to bother.|0.6
+He was waiting on a jacket.|0.65
+The fear dressed itself up|0.4
+as respect.|0.55
+I nodded.|0.35
+I left.|0.4
+And I kept my questions|0.35
+right where they were.|0.6
+Uh, I still think about that sleeve.|0.65
+A man within reach,|0.45
+and I walked by|0.35
+as if he were scenery.|0.7
+He might have said no.|0.55
+I never gave him the chance.|0.65
+A no would've been cleaner|0.45
+than another stretch|0.35
+of guessing on my own.|1.2
+# SECTION: Twenty Minutes
+Uh, most men I know|0.35
+already want a brother.|0.55
+What they don't have|0.35
+is a picture small enough|0.4
+to survive the life they live.|0.75
+The pictures we hand them are huge.|0.6
+A standing breakfast before daylight.|0.5
+A retreat with notebooks.|0.45
+A circle that needs a secretary.|0.65
+A man with a baby in the house,|0.45
+or a stretch where the work is eating him,|0.5
+looks at those|0.3
+and does nothing.|0.7
+So take a smaller picture.|0.55
+Twenty minutes.|0.45
+Uh, one man.|0.4
+The same day.|0.35
+The same hour.|0.55
+A plan that floats|0.35
+is a plan that dies.|0.7
+Pick a man|0.35
+you can tell the whole truth,|0.45
+with no paycheck in the room.|0.7
+Spend it on a few plain things,|0.45
+and then pray.|0.6
+What happened.|0.45
+Not a report.|0.4
+The few things that actually counted.|0.65
+What's heavy.|0.5
+This is the one that earns the time.|0.6
+Uh, name the load.|0.4
+Name the fear under it.|0.55
+Both of you tell the truth.|0.6
+The man listening has one job.|0.5
+He listens.|0.45
+Fixing can wait.|0.65
+What's next.|0.45
+Each of you names one move|0.4
+before you talk again,|0.4
+out loud,|0.35
+so a man heard it.|0.6
+The next time,|0.35
+you start with whether it got done.|0.7
+Leave room at the end.|0.45
+Pray out loud.|0.4
+You for him.|0.35
+Him for you.|0.65
+Uh, some days one of you is a wreck,|0.5
+and the heavy thing|0.3
+takes the whole twenty minutes.|0.65
+That is what the time is for.|0.6
+The floor does not move.|0.55
+Uh, without those questions,|0.45
+two men will talk weather|0.35
+until the clock dies|0.4
+and nobody was known.|0.8
+I learned that by failing it.|0.6
+[amused] A man started telling me what was heavy,|0.5
+and I handed him three ideas|0.4
+before he finished the sentence.|0.65
+He went quiet.|0.55
+I heard myself.|0.45
+I said, I just did the thing.|0.5
+You don't need a plan from me.|0.45
+I'm here.|0.6
+He talked a little longer.|0.55
+I almost— I almost ruined it|0.4
+by being helpful.|0.8
+Help can wait.|0.45
+A brother stays in the chair.|1.2
+# SECTION: Hollis
+I knew a man in a room like this.|0.55
+Uh, I'll call him Hollis.|0.6
+Hollis ran the meal list|0.4
+when a family hit a hard stretch.|0.6
+He showed up in other men's trouble|0.4
+like it was his trade.|0.65
+What he didn't have|0.35
+was a man in his own.|0.7
+At home there was a boy|0.4
+who had started shutting a door|0.4
+harder than the door deserved.|0.65
+Hollis would stand in the hall,|0.45
+hand on the frame,|0.4
+and come up empty.|0.7
+His wife said one sentence.|0.5
+Uh, not loud.|0.4
+I'm tired of being the only one|0.35
+who knows when you're not alright.|0.8
+He nodded,|0.35
+like she'd mentioned the weather.|0.6
+Uh, she didn't smile.|0.55
+He sat on that sentence for months.|0.7
+He told me later|0.35
+he lined— he lined up men in his head|0.45
+and talked himself out of each one.|0.65
+There was a neighbor.|0.5
+He didn't want the fence|0.3
+between their yards|0.3
+to get heavy.|0.7
+Then he stayed late|0.35
+to put chairs up,|0.4
+and a quieter man was still there,|0.45
+rinsing the coffee pot.|0.6
+The one who never worked the room.|0.55
+Hollis heard his own mouth.|0.5
+I'm trying to be a better man,|0.4
+and I don't have a brother.|0.55
+Would you talk with me,|0.35
+twenty minutes,|0.3
+same time,|0.3
+and see if it holds.|0.75
+The man looked at the pot.|0.5
+I water the garden most evenings.|0.5
+Call while I do that.|0.45
+Don't build a program out of it.|0.7
+The first few calls,|0.4
+Hollis reported on other people's suppers.|0.65
+Uh, the man let him.|0.55
+One evening Hollis said,|0.4
+I'm short with my boy,|0.4
+and I don't know the next sentence.|0.75
+The man didn't hand him a speech.|0.55
+He said, say it again next time,|0.45
+and tell me if you caught it sooner.|0.8
+[quietly] Hollis told me what actually moved him.|0.6
+If he didn't call,|0.4
+the man noticed.|0.55
+Just one man,|0.4
+expecting him.|0.55
+That's a brother.|1.3
+# SECTION: The Man Ahead
+A brother knows the stretch you're in.|0.6
+You also need a man|0.35
+who has come out the other side.|0.7
+About twenty years ahead of you.|0.6
+He has already walked|0.4
+ground you are just entering.|0.7
+Uh, the younger man waits.|0.5
+He figures the older one is busy,|0.45
+or that a real man|0.3
+sorts his own mess,|0.45
+or that asking|0.3
+would admit his father never said it.|0.75
+The older man, uh, waits too.|0.55
+He figures a young man|0.35
+doesn't want an old opinion,|0.5
+or that his mistakes|0.3
+disqualified him.|0.65
+So they wait each other out, right?|0.65
+Boys become men|0.35
+with nobody ahead|0.3
+telling them what's coming.|0.8
+Second Timothy two, verse two.|0.55
+Paul tells Timothy|0.4
+to take what he heard|0.35
+in front of many witnesses|0.45
+and entrust it|0.3
+to reliable people,|0.4
+who can teach others too.|0.8
+That chain does not mend itself.|0.65
+Uh, somebody has to open his mouth.|0.6
+Don't lead with a big title.|0.55
+Uh, I did.|0.45
+I used a word|0.3
+that sounded like a job.|0.55
+The man got a look|0.35
+like I'd handed him a uniform|0.4
+he hadn't agreed to wear.|0.7
+I backpedaled so hard|0.4
+I nearly took the question with me.|0.65
+What I meant— what I meant was smaller.|0.6
+One real question.|0.5
+Can I ask you one thing.|0.45
+He said, ask it.|0.55
+I drove home lighter.|0.7
+[dry] I had practiced a whole speech.|0.5
+He got a lot of throat|0.35
+and the word so.|ROOM_CHUCKLE
+One question is a complete ask.|0.65
+What did you quit|0.35
+that kept your house in one piece.|0.6
+How did you know|0.3
+a good offer was the wrong one.|0.6
+Or can I work beside you|0.35
+and mostly keep quiet.|0.6
+If he says come by,|0.4
+you go.|0.45
+If he says call,|0.35
+you call.|0.55
+How many of you|0.4
+have a man that far ahead|0.4
+you've never really asked?|0.55
+Let me see them.|ROOM_HANDS
+Yeah.|0.4
+He's closer than the excuse.|1.2
+# SECTION: Do It and Come Back
+Uh, once he answers,|0.45
+bring a real question|0.35
+when you come again.|0.6
+The question is the honor.|0.6
+If you only show up to hang around,|0.5
+he will drift.|0.55
+A man his age|0.35
+has had younger men nod|0.4
+and change nothing.|0.6
+Do the thing he said,|0.45
+at least once.|0.45
+Then go back|0.3
+and tell him what happened.|0.65
+That report|0.3
+is what earns the next talk.|0.7
+Don't make— don't make him your father.|0.65
+He can give you a great deal.|0.5
+He cannot fill|0.3
+the particular hole|0.35
+your father left.|0.75
+Thank him out loud.|0.5
+Uh, be specific.|0.45
+I did what you said|0.35
+about supper,|0.35
+and I stayed in the room.|0.65
+Now if you're the older man,|0.5
+uh, half this room is.|0.55
+You are unfinished.|0.55
+That is normal.|0.45
+Nobody graduates.|0.55
+A younger man|0.3
+is walking into country|0.35
+you already crossed.|0.6
+He doesn't need your clean record.|0.6
+He needs the truth|0.35
+about where you failed,|0.45
+and the ordinary things you kept|0.4
+that held the house anyway.|0.8
+Titus two.|0.45
+Encourage the young men|0.35
+to be self-controlled.|0.45
+In everything|0.3
+set them an example|0.35
+by doing what is good.|0.75
+He will not start it.|0.5
+You make him nervous,|0.4
+and he has decided you're busy.|0.6
+Give him a yes he can take.|0.6
+I'm replacing a faucet.|0.4
+Come hold the light|0.3
+if you want to see|0.3
+how an old man learns patience.|0.65
+Uh, then skip the lecture.|0.5
+Ask him what the work is doing to him.|0.55
+How it is at home.|0.45
+What's heavy.|0.6
+Leave him a little quiet|0.4
+after you ask.|0.7
+[amused] A younger man asked me|0.4
+if I had wisdom for him.|0.55
+I told him, give me a second.|0.5
+That second is still open.|ROOM_CHUCKLE
+He didn't need my highlight reel.|0.6
+The highlight reel is how a man hides.|0.65
+I told him the truth instead.|0.55
+Uh, I missed a pile of ordinary nights|0.45
+and called the missing a season.|0.7
+His shoulders dropped|0.4
+when I quit performing.|0.65
+Your miss|0.3
+is often the useful part.|1.15
+# SECTION: Mack
+[warmly] Another man, I'll call him Mack.|0.6
+Mack had been the older face in the room|0.5
+so long|0.3
+he figured his record|0.35
+had retired him.|0.65
+Uh, he was kind.|0.4
+He was done— he was done offering.|0.6
+A younger man, new around there,|0.45
+asked him, uh, what the hard years|0.4
+at home had cost.|0.65
+Mack almost waved him off.|0.6
+I mean, he had the wave ready.|0.55
+Then he told the truth.|0.6
+He said he had given his best hours|0.4
+to the job|0.35
+and called it love,|0.45
+and the house got what was left.|0.75
+Uh, he didn't dress it.|0.5
+The young man came back|0.4
+after a stretch of days.|0.55
+He said he had left his phone|0.4
+in the other room for supper|0.45
+and stayed inside the talk.|0.65
+That was the whole assignment.|0.6
+Mack told me afterward,|0.5
+he thought he was the one giving.|0.55
+Mostly that young man|0.35
+was keeping him awake to his own life.|0.8
+If your mornings have gotten quiet,|0.55
+this is a worthy way to spend them.|0.65
+God keeps putting men near each other|0.45
+and then waiting|0.3
+to see who will speak.|0.7
+You can be the one.|0.6
+Now the younger side.|0.5
+How you pick the man ahead,|0.45
+if you're the younger one,|0.5
+stays plain.|0.5
+About twenty years up the road.|0.55
+Living those four marks|0.35
+most of the time.|0.55
+Leave the impressive man|0.35
+for the people|0.3
+who need impressing.|0.6
+You need a man|0.3
+still standing|0.3
+at the far end|0.3
+of a road like yours.|0.65
+Watch whether he tells on himself.|0.6
+A man with only wins|0.4
+can't take you|0.3
+where you need to go.|0.65
+You came for the scar|0.4
+and for the habit he kept anyway.|0.7
+And pick a man you can actually reach.|0.6
+If no name comes,|0.45
+you're looking too high.|0.6
+He may be the man|0.3
+everybody thanks|0.35
+and nobody asks.|0.65
+Your silence|0.35
+has been part of his life too.|1.25
+# SECTION: Whoever You Are
+[warmly] Let me walk the room.|0.55
+Uh, young men.|0.5
+Awkward is allowed.|0.55
+You are not late.|0.5
+The sentence will feel|0.35
+too big for your mouth.|0.55
+Say it anyway.|0.6
+Waiting until you feel smooth|0.45
+is how a boy stays a boy|0.4
+with a paycheck.|0.7
+If you're single— if you're single,|0.5
+don't store this|0.3
+until a wedding.|0.55
+You already have a life|0.4
+that needs a brother in it.|0.6
+Ask a married man|0.35
+how a house is kept,|0.45
+before you have one.|0.6
+The men you share a roof with|0.4
+can be good company|0.35
+and still not know you.|0.6
+Uh, add the twenty minutes.|0.55
+If you're married,|0.45
+tell her you asked.|0.5
+Don't hand her the job|0.35
+of being the wise man.|0.6
+She is your wife.|0.55
+If the marriage ended,|0.5
+shame is gonna tell you|0.35
+to sit this out.|0.55
+Uh, ask anyway.|0.55
+Find a man|0.3
+who has walked through a marriage ending,|0.55
+or a long-married man|0.35
+who will not put you on display.|0.7
+If you've been burned,|0.5
+hear me.|0.4
+Asking is not groveling.|0.6
+Uh, that is courage,|0.45
+not a loss of dignity.|0.7
+Older men,|0.45
+be easy to stop.|0.5
+A younger man is already talking himself out of you.|0.65
+Walk across the room|0.4
+and give him something|0.3
+he can say yes to.|0.6
+If you're in the middle,|0.45
+look both directions.|0.55
+A man ahead|0.3
+you've never asked|0.35
+about a house that got quiet.|0.55
+A younger man behind you|0.35
+you've watched|0.3
+and never spoken to.|0.65
+The chain needs you looking both ways.|0.75
+If the work is going well,|0.5
+ask a man|0.3
+who does not report to you.|0.6
+A full day|0.3
+can still leave you unknown.|0.7
+And if the season is tight,|0.5
+a short clear ask still counts.|0.6
+A text that names a day|0.35
+and a time.|0.45
+A sentence in a doorway.|0.55
+A hint is not an ask.|0.6
+Say the actual sentence.|0.55
+Set the time|0.3
+before you hang up.|1.2
+# SECTION: To the Tables
+Let me say the whole thing plain.|0.6
+You were not built|0.3
+to go down alone|0.35
+and call it strength.|0.7
+A brother tells you the truth|0.4
+and stays.|0.55
+Twenty minutes,|0.35
+one man,|0.3
+same day,|0.3
+uh, same hour.|0.5
+What happened.|0.4
+What's heavy.|0.4
+What's next.|0.4
+And a prayer.|0.65
+There is a man|0.3
+about twenty years ahead of you.|0.55
+He is waiting on a real question.|0.6
+If he offers you the time,|0.4
+take it,|0.35
+do what he tells you,|0.4
+and go back and report.|0.7
+If you are the older man,|0.45
+be easy to ask,|0.4
+and go first toward one young man.|0.7
+Uh, I hope you leave here|0.4
+done waiting to be picked.|0.65
+The awkward feeling|0.35
+means you found the right sentence.|0.7
+At your tables,|0.45
+three questions.|0.5
+Uh, work them out loud.|0.55
+This part of the workbook.|0.6
+First.|0.4
+If I fell,|0.35
+the man I could call is blank.|0.6
+Say the blank,|0.4
+or say the name.|0.7
+Your wife doesn't fill it.|0.55
+Second.|0.45
+Who is the man twenty years ahead|0.4
+you've never asked,|0.45
+or the young man|0.3
+you've watched|0.3
+and never spoken to.|0.75
+Third.|0.4
+What is the brother sentence,|0.45
+and what is the one real question.|0.7
+The sentence is plain.|0.5
+I'm trying to be a better man,|0.4
+and I don't have a brother.|0.5
+Would you talk with me twenty minutes,|0.4
+same time,|0.35
+for three months.|0.65
+Set the day and the time|0.4
+before you put the phone down.|0.65
+One real question|0.35
+for the man ahead.|0.5
+Write it.|0.4
+If you're older,|0.35
+write the yes you'll offer.|0.55
+A breakfast,|0.3
+a job beside you,|0.35
+or a call.|0.55
+[quietly] Get with your table.|0.5
+Do this together.|0.5
+Put the blank on the page.|0.45
+Put the ask on the page.|0.55
+A hint stays a hint|0.35
+until a man hears it.|0.7
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.|1.15
+# CUT SCREEN: creed board — "A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's." — new angle after
+Today that means you go first.|0.6
+Find your table.|1.25

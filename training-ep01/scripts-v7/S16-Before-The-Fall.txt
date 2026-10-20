@@ -1,0 +1,703 @@
+# SECTION: Welcome
+[warmly] Good. You found a chair.|0.6
+Come on and settle.|0.5
+Uh, I wrote three openings on a card|0.4
+and left the card by the sink.|0.5
+My wife found it.|0.4
+She said, pick one.|0.35
+You're not running for office.|ROOM_CHUCKLE
+[dry] She was right.|0.45
+So this is the one.|0.55
+If you still need a name, I'm Wes.|0.55
+Glad you're in the room.|0.7
+Uh, some of you carried the day in on your face.|0.55
+Set it in the chair beside you.|0.45
+It can sit there and hear this too.|0.7
+Last time we talked about what a man measures his life by.|0.65
+What he treats as fixed|0.4
+when it moves under him.|0.6
+Uh, some of you said yours plain.|0.5
+Some of you, uh, kept the name to yourself.|0.7
+We're not— we're not opening that up again.|0.7
+You can name what you've been steering by|0.45
+and still not know what you were made for.|0.9
+That second thing is today.|0.75
+Before the bend.|0.45
+Before the account you give of the bend.|0.7
+What God did when He made a man.|0.65
+Then two ways a man can walk|0.4
+once that ground is actually his.|0.75
+You don't get a third.|1.3
+Now listen to me.|0.45
+I know where a room full of men wants to start.|0.55
+At the wreck.|0.45
+At the thing that failed.|0.55
+Uh, I start there too.|0.5
+Ask me what went wrong|0.4
+and I can talk until the chairs get hard.|0.7
+Ask me what it was for|0.4
+before it went wrong,|0.45
+and I get, you know, very interested in the ceiling.|ROOM_CHUCKLE
+Stay on the first page with me.|0.65
+Design was first.|0.5
+The fork comes after.|0.6
+Uh, skip the design,|0.4
+and a bent life just feels like weather you endure.|0.75
+Weather doesn't ask you to turn.|0.8
+Here's what I want in your ear.|0.55
+You were made on purpose.|0.6
+The work was handed to you before the trouble.|0.7
+And you are already standing in one man's way.|1.25
+# SECTION: The marks
+[warmly] These four marks are the sentence we keep coming back to.|0.65
+I have not improved them.|0.55
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.|1.35
+# CUT SCREEN: creed board — "A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's." — new angle after
+You've heard them in this room.|0.55
+Uh, I'm not gonna build all four from the ground up.|0.65
+Today they stop being a list of qualities|0.45
+you grade yourself against.|0.6
+It is— it is a portrait.|0.55
+A Man's face|0.4
+in the worst hour He had.|0.8
+We'll stand in front of that hour.|0.55
+Not yet.|0.4
+If I hand you the face first,|0.4
+you'll hear pressure|0.35
+where I meant a gift.|0.7
+Uh, hear the four this way, just for a minute.|0.6
+Passivity, today,|0.35
+is a man in the room|0.35
+who says nothing|0.3
+while a true word gets bent.|0.75
+Responsibility is a sentence|0.4
+that can land on you|0.35
+and stop,|0.3
+with no second name tied on the end.|0.8
+Courage is getting up|0.4
+and walking toward the hard thing|0.45
+while you still want a different ending.|0.8
+And God's pay|0.4
+is not the relief you can pocket before supper.|0.7
+It is His pay.|0.55
+A yes from Him|0.35
+that outlasts the room you're standing in.|0.9
+I mean, the near yes pays faster.|0.6
+It just doesn't keep.|0.65
+Here's the claim under the marks.|0.6
+You were made to work a real thing|0.45
+and to keep it.|0.55
+The assignment showed up before the curse.|0.75
+Then one man went quiet,|0.45
+and another Man did not.|0.7
+Every time you live one of these marks,|0.5
+you are wearing His face.|1.5
+Not performing it.|0.45
+Wearing it.|0.6
+Uh, that sounds large|0.4
+until you see the hour it came from.|0.65
+It was not a stage.|0.5
+It was a dark place|0.4
+and a choice.|0.7
+Design first.|0.45
+Then the fork.|0.5
+One hit.|0.4
+You need both,|0.35
+or the portrait turns into a mood|0.45
+and the design turns into a poster.|1.2
+# SECTION: Before the bend
+[quietly] Scripture does not start you as a problem.|0.7
+The problem comes in.|0.5
+It is not the first word.|0.65
+Genesis one, verse twenty-seven.|0.55
+God created mankind in his own image.|0.7
+In the image of God.|0.5
+Male and female.|0.55
+Uh, before a success you can point at.|0.55
+Before a failure you can't stop rehearsing.|0.75
+You were made to resemble Him.|0.65
+Uh, nobody sold you that.|0.5
+You didn't qualify for it.|0.55
+It was given.|0.7
+Uh, manhood is not a step above your wife,|0.5
+or above your daughter,|0.4
+or above any woman in your life.|0.65
+It is one way of carrying the same image.|0.6
+And the way was His idea.|0.85
+Uh, then, Genesis two.|0.5
+He formed a man|0.4
+and came close enough to breathe into him.|0.7
+Hands, then a face near.|0.55
+You were wanted|0.4
+before you were useful.|1.15
+I have— I have had that backwards|0.45
+for a long stretch of my life.|0.65
+Useful first.|0.4
+Wanted if the useful held.|0.65
+Uh, that is not the order on the page.|0.7
+How many of you,|0.4
+if I ask what you were made for,|0.45
+start telling me what went wrong?|0.6
+Hands.|0.35
+I'm not collecting them.|ROOM_HANDS
+Yeah.|0.45
+That's most of us.|0.55
+We can narrate the crack|0.4
+and go thin on the purpose.|0.7
+Stay with me.|0.45
+The crack matters.|0.5
+It is just not page one.|0.7
+So hear it plain.|0.5
+You are an image-bearer|0.45
+on purpose.|0.55
+Wanted, up close,|0.4
+before you produced a thing.|0.75
+Uh, the failure is in the story.|0.55
+It is not the opening line.|0.6
+If you only know yourself|0.4
+as the man who broke something,|0.55
+you will try to repair a life|0.45
+you have never actually looked at.|0.8
+Formed.|0.4
+Breathed on.|0.45
+Made in His image|0.5
+before the day asked you for a result.|0.8
+If the rest of today gets noisy,|0.45
+don't lose that.|0.55
+The bend is real.|0.5
+The bend is not the introduction.|1.25
+# SECTION: Took and put
+[dry] Now the line I want you to keep.|0.6
+Genesis two, verse fifteen.|0.55
+The Lord God took the man|0.45
+and put him in the garden of Eden|0.5
+to work it and take care of it.|0.9
+Took.|0.4
+Then put.|0.45
+Uh, he didn't toss a man at the horizon|0.45
+and wish him luck.|0.6
+He took him.|0.4
+He set him down.|0.55
+The assignment had a place.|0.75
+Work it.|0.4
+Take care of it.|0.5
+Two verbs,|0.3
+and nothing is broken yet.|0.65
+Uh, the curse is not on the page.|0.55
+The work already is.|0.7
+Uh, if your only picture of work is punishment,|0.5
+you started the story too late.|0.75
+The curse made good work ache.|0.55
+It did not invent the work.|0.7
+And take care of it means keep it.|0.55
+Uh, watch over it.|0.45
+The same man who works the place|0.4
+is the man who guards what was put in his hands.|0.8
+Not two jobs.|0.45
+One man.|0.6
+The job— the job came before the curse.|1.4
+You were made to work a real thing|0.45
+and to keep a real thing.|0.75
+Uh, let me tell on myself.|0.5
+I have cleared a list|0.4
+and then stood in a room|0.35
+with nothing left on it,|0.45
+and I got nervous.|0.6
+So I reordered a drawer that was already fine.|0.65
+I looked busy.|0.4
+I was unused,|0.4
+and I didn't like the feeling,|0.45
+so I manufactured a task.|0.7
+The design was still talking.|0.55
+A man with nothing real to tend|0.45
+doesn't feel free.|0.55
+He feels misplaced.|0.75
+Uh, and I have used a real task|0.45
+to avoid a real person.|0.6
+Sat in the driveway.|0.4
+Engine off.|0.35
+One more message,|0.35
+then one more after that.|0.5
+Porch light already on.|0.5
+Somebody inside was waiting on my actual face.|0.7
+I called it finishing the day.|0.55
+It was postponing the people|0.45
+the day was for.|0.8
+Work it and keep it.|0.55
+I worked a screen.|0.45
+I did not keep what was mine to keep.|1.2
+# SECTION: The pieces
+[warmly] Uh, blessing came before the assignment.|0.6
+The first words He spoke over them|0.45
+were a blessing.|0.5
+Then the work.|0.45
+Who you are,|0.35
+then what you do.|0.6
+Uh, if you only feel like a man|0.45
+when the output is up,|0.45
+you flipped that order.|0.7
+He also put the man somewhere.|0.6
+Not a vague someday.|0.5
+A lot of us treat where we are|0.45
+as a pause,|0.45
+and the place we have goes unkept.|0.75
+Uh, he was given a word he did not write.|0.65
+Most of it was a yes.|0.5
+One thing was a no.|0.55
+You live inside that word.|0.55
+You don't get to redraw it.|0.6
+Uh, stay inside it when it costs.|0.7
+He was also given words of his own.|0.65
+Uh, what you call a person sticks.|0.6
+A boy leans toward the sentence|0.4
+you use on him over and over.|0.65
+So does a wife.|0.55
+Uh, I can tell you what I got done.|0.5
+Ask me the last true thing I said to my boy|0.5
+that was not an instruction,|0.45
+and I have to stand there and hunt.|0.8
+My words, bent toward managing.|0.7
+And God looked at a man|0.4
+who had Him,|0.35
+and a real assignment,|0.4
+and no sin on the record yet,|0.55
+and He said it was not good|0.4
+for that man to be alone.|0.75
+Genesis two, verse eighteen.|0.55
+Needing people is not the wreck.|0.55
+It was written in before the wreck.|0.75
+Brothers.|0.4
+A man out ahead of you.|0.5
+A church that knows your name.|0.65
+If you're single, you are inside that sentence.|0.75
+You are not on hold until a bride appears.|0.7
+They were fully known,|0.45
+and not afraid of being known.|0.7
+And God rested,|0.45
+and He called the stop holy.|0.65
+He was not worn out.|0.55
+I have— I have skipped that stop|0.5
+and called the rush faithfulness.|0.7
+My house did not feel kept.|0.65
+Name the piece most bent in you.|0.6
+One.|0.4
+The shape is not the whole hit.|1.2
+# SECTION: Whoever is in the chair
+[warmly] Let me walk the room before we go to the fork.|0.65
+Uh, if you're young,|0.4
+and you're waiting to feel like a man|0.45
+before you take a man's way,|0.55
+hear this.|0.45
+Waiting is already a way.|0.6
+Delayed is still a way.|0.65
+It is the quiet way|0.4
+with a future tense on it.|0.8
+Uh, if you're single,|0.45
+don't go hunting for a marriage talk in this.|0.7
+A wedding does not finish a man.|0.65
+Nearly everything God gave him,|0.45
+He gave before a bride was standing there.|0.75
+Jesus lived the fullest life a man has lived,|0.55
+and there was no wife in that life.|0.7
+You can work what's yours|0.4
+and keep what's yours now.|0.75
+If you're married,|0.45
+she already knows which man came home.|0.7
+Uh, you don't have to announce it|0.45
+from the doorway.|0.5
+The way you came in said it.|0.65
+I told my wife I was almost done|0.45
+with a thing that could've waited.|0.55
+She didn't give a speech.|0.45
+She said the plates were still cold.|ROOM_CHUCKLE
+She has a better read on which man arrived|0.5
+than I do.|0.6
+If you're hurt,|0.45
+I am not stepping over you.|0.6
+The wound is real.|0.6
+[quietly] It is not the first page.|0.6
+And it is not a third man.|0.7
+There is not a way called wounded|0.45
+sitting between the other two.|0.65
+You can be hurt|0.4
+and still walk the first man's way.|0.7
+The hurt explains weight.|0.5
+It does not open a new road.|0.75
+Uh, if you're older,|0.45
+look through Genesis two, verse fifteen,|0.5
+for a line that sends you to the side for good.|0.7
+It isn't there.|0.6
+The place you're given can change.|0.55
+The making does not retire.|0.75
+And if the work is going well,|0.5
+good.|0.35
+Receive it.|0.4
+Uh, the blessing came before the output.|0.6
+Gift first.|0.45
+Then the hands.|0.55
+Uh, don't let a strong set of hands|0.45
+talk you out of the rest of the design.|1.2
+# SECTION: The first man
+[dry] Now the fork.|0.55
+Same ground.|0.4
+Two men.|0.4
+You are in one.|0.6
+The first man had the word.|0.5
+He had the place.|0.45
+He had a good work in his hands.|0.6
+Uh, then the lie came,|0.45
+and it didn't come straight at him.|0.6
+It bent the word|0.35
+where someone near him could hear it,|0.5
+and it hinted that God was holding out.|0.75
+Genesis three, verse six.|0.55
+She gave some to her husband,|0.45
+who was with her,|0.4
+and he ate.|0.7
+He was with her.|0.55
+Present.|0.4
+Quiet.|0.5
+Passivity, with his feet still planted.|0.7
+The thing he was set there to keep|0.45
+walked right up,|0.4
+and he watched,|0.35
+and then he took it in.|0.8
+Uh, the first break was the silence|0.5
+while a true word got twisted.|0.75
+Uh, then God came,|0.45
+and the man hid.|0.6
+Afraid, so he got out of sight.|0.65
+Uh, asked what he had done,|0.45
+he pointed.|0.5
+The woman.|0.4
+And the God who gave her.|0.6
+His own hands left out of the sentence.|0.75
+Under that,|0.4
+he grabbed what he could have now.|0.65
+God's pay,|0.4
+traded for the thing in reach.|0.75
+Quiet, pointing, hidden, grabbing.|0.7
+That groove is easy to find, right?|0.7
+I have— I have lived in it|0.5
+and called it a personality.|0.65
+A family table.|0.45
+Somebody took a hard line of Scripture|0.45
+and sanded it down until it excused him.|0.7
+I passed the bread.|0.45
+I said nothing.|0.5
+I called it not making a scene.|0.65
+It was the first man's way|0.4
+with better manners.|0.75
+Uh, another day I got sharp with my boy|0.45
+over shoes in the doorway.|0.55
+First sentence out of me|0.4
+was how long the day had been.|0.6
+The day didn't raise its voice.|0.55
+I did.|0.6
+Uh, and I have moved a hard talk|0.45
+into a note I named Later.|0.55
+Later felt organized.|0.5
+Later was a place to hide.|0.75
+You know that groove.|0.55
+Name it,|0.4
+so you stop calling it wisdom.|1.2
+# SECTION: Nolan
+[warmly] Let me tell you about a man I know.|0.55
+Uh, I'll call him Nolan.|0.55
+Steady man.|0.4
+Drives a route.|0.4
+People trust him with a key|0.45
+and a time.|0.5
+Uh, his boy got in a fight at school.|0.55
+Not the end of the world.|0.5
+Enough that the school wanted the dad|0.45
+in the office|0.35
+before the story hardened.|0.7
+Nolan had stops left.|0.5
+Uh, he told them he'd come|0.45
+when the truck was empty,|0.5
+because showing up with work unfinished|0.45
+felt sloppy.|0.65
+So he— so he finished the stops.|0.6
+By the time he walked into that office,|0.5
+the boy had already talked.|0.6
+A messy account,|0.45
+half defense and half shame.|0.7
+Nolan sat down.|0.45
+The boy looked at the floor|0.4
+and said, I told it wrong.|0.5
+I kept watching the door.|0.65
+That sentence sat on Nolan|0.45
+the whole drive after.|0.6
+Not the fight.|0.45
+The door.|0.5
+He had been the man|0.4
+who would show up|0.35
+when the truck allowed it.|0.7
+He called that keeping his word.|0.55
+It was the first way,|0.45
+wearing a timetable.|0.75
+I mean, the route was real.|0.55
+The boy was more real,|0.45
+and Nolan ranked them backwards.|0.75
+Some time later a smaller call came.|0.6
+Uh, a teacher wanted a few minutes|0.45
+before the day got loud.|0.6
+Nolan left the truck at the curb.|0.5
+Hazards on.|0.45
+He went in before he felt noble.|0.65
+Sat in a chair built for a student.|0.6
+He said, I'm here.|0.45
+We'll tell it straight.|0.5
+I'll stay where he can see me.|0.8
+He told me later|0.4
+it was the first time|0.35
+the second Man|0.35
+made any sense in his actual life.|0.8
+A tired man who got up,|0.45
+left the easy finish,|0.4
+and walked toward the person given to him.|0.75
+Rise.|0.4
+Let us go.|0.5
+Let these men go.|0.65
+Nolan did not become Jesus.|0.6
+He stopped taking the first man's way|0.45
+and calling it a finished route.|1.25
+# SECTION: The second Man
+[quietly] Set the two men next to each other.|0.65
+Uh, the first went quiet|0.45
+while the word was bent.|0.55
+The second spoke.|0.6
+The first pointed.|0.45
+The second said, take me,|0.4
+and let them go.|0.65
+The first hid|0.4
+when God came near.|0.55
+The second got down before the Father|0.5
+and then got up.|0.65
+The first grabbed what he could hold.|0.55
+The second trusted a reward|0.4
+on the far side of the cost.|0.8
+This is the portrait.|0.6
+Jesus, in the worst hour of His life.|0.85
+Matthew twenty-six, verse thirty-nine.|0.6
+Uh, he asked if the cup could pass.|0.55
+He did— he did not want it.|0.6
+Then He said, not as I will,|0.45
+but as you will.|0.8
+He took a cup He did not fill.|0.7
+Then He said, rise.|0.5
+Let us go.|0.55
+Uh, he heard what was coming|0.45
+and He walked at it.|0.65
+John eighteen, verse four.|0.5
+He went out|0.35
+and asked who they wanted.|0.6
+Nobody had to hunt for Him.|0.6
+Afraid enough to tell the Father the truth,|0.55
+and still on His feet,|0.45
+toward the worst of it.|0.75
+That is courage.|0.6
+And while they closed in,|0.45
+He put Himself in front of the men with Him.|0.65
+John eighteen, verse eight.|0.55
+If you're looking for me,|0.4
+then let these men go.|0.8
+Caught,|0.35
+He aimed the finger at Himself.|0.6
+Me.|0.4
+Not them.|0.65
+Uh, Hebrews twelve, verse two.|0.55
+For the joy set before Him,|0.45
+He endured.|0.65
+John nineteen.|0.4
+It is finished.|0.6
+Uh, he lived for the Father's reward,|0.5
+and He spoke the work done|0.4
+before He died.|0.75
+So hear the four marks as His mouth.|0.65
+Refusing to wait sounds like,|0.4
+rise, let us go.|0.65
+Picking up the weight sounds like,|0.45
+not as I will,|0.4
+and let these men go.|0.7
+Going first|0.4
+is the walking out|0.35
+while you still want another way.|0.7
+Working for God's pay|0.45
+is the joy set in front of Him,|0.5
+past the cost.|0.7
+Every time you live one,|0.45
+you are wearing His face.|1.25
+# SECTION: No third man
+[warmly] First Corinthians fifteen, verse twenty-two.|0.65
+As in Adam all die,|0.45
+so in Christ all will be made alive.|0.75
+And verse forty-five.|0.5
+The first man Adam became a living being.|0.6
+The last Adam,|0.4
+a life-giving spirit.|0.8
+Last.|0.4
+Not a man you become by trying harder.|0.7
+Birth put you in the first man.|0.65
+Uh, his way feels like sense.|0.55
+Quiet feels smart.|0.5
+Pointing feels like justice.|0.55
+Hiding feels like safety.|0.55
+Grabbing the near thing|0.4
+feels like you finally got yours.|0.7
+Romans five, verse nineteen.|0.55
+Through one man's disobedience,|0.45
+the many were made sinners.|0.6
+Through one man's obedience,|0.45
+the many will be made righteous.|0.75
+You are— you are in one of them.|0.7
+Trying harder is not the door.|0.65
+The door is a move into the second Man,|0.55
+so His obedience stands as your record.|0.75
+Galatians two, verse twenty.|0.55
+I no longer live,|0.4
+but Christ lives in me.|0.8
+The Spirit that got Him up|0.45
+lives in a man who is in Him.|0.75
+[quietly] If you have never asked Him|0.5
+to move you,|0.45
+you can ask Him today.|0.65
+Tell Him the first man's way|0.4
+is the only one you have known.|0.6
+Tell Him you want the second Man.|0.55
+His life, covering yours.|0.75
+Uh, if you have asked,|0.5
+don't turn the marks into a ladder.|0.7
+They are not how you earn Him.|0.6
+They are His life|0.35
+showing on a man who is already His.|0.8
+Uh, I knew a man, I'll call him Cliff.|0.6
+A wrong number in a meeting|0.5
+was about to land on a younger guy.|0.65
+Cliff said, that figure was mine.|0.6
+His hands shook under the table.|0.6
+The easy sentence was the one that points.|0.65
+He didn't take it.|0.65
+He told me he felt sick, not holy.|0.6
+The younger man didn't carry Cliff's miss.|0.7
+Let these men go,|0.45
+in a room with a shaking hand.|1.2
+# SECTION: The garden in front of you
+[dry] So bring it down to the ground you actually stand on.|0.7
+A garden, the way I mean it today,|0.5
+is the place where a true thing is on the line|0.5
+and you are the man in the room.|0.75
+A conversation you've been feeding with Later.|0.65
+The size is not the weight.|0.7
+Uh, your garden will look ordinary|0.5
+and still decide which man you practiced.|0.75
+Uh, here is what you do with that.|0.55
+Not a stack of resolutions.|0.5
+A sentence,|0.35
+said out loud,|0.4
+before the day picks one for you.|0.7
+Three of His.|0.45
+Rise, let us go.|0.55
+That one is for the place|0.4
+you would rather stay seated.|0.6
+Not as I will.|0.55
+Uh, that one is for the cup you didn't ask for|0.5
+and still have in your hands.|0.65
+Let these men go.|0.55
+That one is for the people|0.4
+who will carry your trouble|0.4
+if you point.|0.6
+You don't need all three before breakfast.|0.6
+You need the one|0.35
+that fits the garden you're actually entering.|0.75
+I have given a whole speech|0.45
+to a steering wheel|0.4
+about the true thing I was gonna say.|0.6
+Then I walked through the door|0.45
+and we talked about the weather.|ROOM_CHUCKLE
+Say it— say it where your mouth can learn it.|0.65
+Uh, on an ordinary morning,|0.5
+read Genesis one and two out loud,|0.55
+start to finish.|0.55
+Then write one line|0.4
+about what it says a man is for.|0.75
+And each morning after,|0.5
+name the garden you're most likely to face|0.55
+and say the sentence before you walk into it.|0.75
+Uh, how many of you|0.4
+can already feel that place,|0.45
+the one waiting when you leave this chair?|0.65
+Hands.|0.35
+Be honest.|ROOM_HANDS
+Yeah.|0.5
+Don't lose it on the way to the table.|0.7
+If you've never trusted Christ|0.45
+to move you out of Adam,|0.55
+say it plain|0.4
+and let a brother walk you through it.|0.7
+If you have,|0.4
+tell him one garden|0.4
+where you walked the second Man's way,|0.55
+even if it was small|0.4
+and your hands shook.|1.2
+# SECTION: To the tables
+[warmly] Let me land it.|0.55
+You were made on purpose.|0.6
+The job came before the curse.|0.7
+You were made to work it and keep it.|0.7
+Uh, then two men.|0.45
+Two ways.|0.45
+The first went quiet, pointed, hid, and grabbed.|0.7
+The second spoke,|0.4
+took the cup,|0.4
+sought the Father,|0.45
+and trusted the reward past the cost.|0.75
+You don't get a third.|0.65
+Uh, the wound is real.|0.5
+It is not a third man.|0.6
+Trying harder is not the door.|0.6
+Christ is.|0.55
+The four marks are not a list of qualities.|0.65
+They are the portrait of Jesus|0.45
+in the worst hour of His life.|0.75
+Every time you live one,|0.45
+you are wearing His face.|1.35
+What I hope you walk out with|0.5
+is one bent piece, named,|0.55
+one garden, named,|0.5
+and a clear knowing|0.4
+of which man you are in.|0.75
+Your workbook is where it gets particular.|0.7
+Uh, in a minute you'll sit at the tables|0.5
+and work this part together.|0.75
+Get the questions in your ear.|0.6
+Which piece of the blueprint|0.4
+is most bent in you?|0.65
+Say it in a full sentence.|0.6
+What was the last garden you stood in,|0.55
+and which man's way did you take?|0.75
+And which sentence will you say tomorrow morning?|0.7
+Rise, let us go.|0.5
+Or, not as I will.|0.55
+Or, let these men go.|0.7
+Uh, tell a brother the piece you named,|0.55
+and what walking back toward it|0.45
+would actually look like.|0.65
+Ask him which piece he sees bent in you.|0.7
+Tell him which man you are in,|0.5
+in the deepest sense.|0.65
+If you have never trusted Christ|0.45
+to move you,|0.4
+say that,|0.35
+and let him walk with you.|0.65
+Uh, if you have,|0.4
+tell him one garden|0.35
+you walked the second Man's way through.|0.8
+Carry this,|0.45
+and write it where you'll see it.|0.65
+You were made to work it and keep it.|0.6
+The job came before the curse.|0.65
+Wear His face|0.4
+into the ordinary place|0.45
+that is yours to keep.|1.3

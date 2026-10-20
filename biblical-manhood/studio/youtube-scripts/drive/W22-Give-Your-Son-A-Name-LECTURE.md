@@ -32,9 +32,9 @@ The first thing a nurse hands a new father is a pen. There is a box on a form. H
 
 [Slide: the four marks]
 
-A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
-Write it down. Today the marks land as a name you speak over a boy before the world does. Reject passivity that lets culture name him. Accept responsibility for what he hears from you. Lead by saying the three names out loud. Expect God's reward over the cheap quiet of never saying the hard blessing.
+Write it down. Today the marks land as a name you speak over a boy before the world does. Stop the waiting that lets culture name him. Pick up the weight of what he hears from you. Lead by saying the three names out loud. Work for God's pay over the cheap quiet of never saying the hard blessing.
 
 ---
 
@@ -285,7 +285,7 @@ The four marks, once more.
 
 [Slide: the four marks]
 
-A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
 Session twenty three next week: Give Your Son a Hill.
 
