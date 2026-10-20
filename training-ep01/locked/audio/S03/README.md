@@ -5,6 +5,7 @@ Recording of the **LOCKED** script (not a review).
   `# SECTION` / `# CUT SCREEN` lines and room cues are not spoken; tone tags (`[warmly]`, `[dry]`, …) are delivery direction only.
 - Voice: ElevenLabs **Wes Hart - Option D**, voice ID `krjoGt4x3CttlxSuoDYW` (locked training voice, LOCKED-LECTURE-STYLE.md), model `eleven_v4`, one take per section, generations_count 1.
 - Pipeline (unchanged, training-ep01/locked/): prep.py -> eleven_v4 -> post.sh (atempo 0.93, retime.py, capgaps.py) -> mix.sh (hall IR + room tone + loudnorm I=-16 TP=-1.5) -> check.py + faster-whisper medium.en QA (see QA.txt).
+- Generation format: ElevenLabs output mp3_44100_128 (44.1 kHz, 128 kbps) for every section (generated before the 2026-10-20 best-quality request; the ElevenLabs creative tool does not expose output_format for eleven_v4 in any case). Master exported as 16-bit 44.1 kHz WAV.
 - Section breaks: 1.2 s x25.
 - Recorded 2026-10-20 CT. Runtime 24:16 (1456.2 s). 13 sections. 19,218 characters. Cost 19218 credits ($3.17).
 
