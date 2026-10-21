@@ -1,0 +1,32 @@
+S24 audio QA 2026-10-20 CT — LOCKED script scripts-v7/S24-Give-Your-Son-A-Day.txt sha256 fd7af7e8ee062f0e00ad7519785930830b0e78dbe2b8a42c1334fb58e799d922
+S24-Give-Your-Son-A-Day.txt: 4147 words, 13 sections, tags 17, hands 1, chuckles 4, out-of-range sections []
+
+Full-mix chunked medium.en vs script: script words 4092, transcript words 4081, matched 4069 (99.4%)
+lines <60% matched: 0
+inserted/replaced transcript runs >=4: []
+marker "cut screen": 0
+marker "section title": 0
+marker "room hands": 0
+marker "room chuckle": 0
+marker "creed board": 0
+marker "new angle": 0
+marker "full screen": 0
+marker "warmly": 0
+marker "key line": 0
+
+Re-check of every flagged line by targeted re-transcription of its window:
+ALL FLAGGED LINES OK
+
+Creed full sentence in script: 3x; spoken word for word in transcript: 3x (exact apostrophes 0x)
+banned "lewis": 0
+banned "rejects passivity": 0
+banned "reject passivity": 0
+banned "accepts responsibility": 0
+banned "accept responsibility": 0
+banned "leads courageously": 0
+banned "lead courageously": 0
+banned "greater reward": 0
+I:         -16.9 LUFS
+    Threshold: -28.2 LUFS
+Runtime 26:16 (1577.0 s), 13 sections
+QA RESULT: PASS (creed_ok=True, markers/banned ok=True, missing lines=0)
