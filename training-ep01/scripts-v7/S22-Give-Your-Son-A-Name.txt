@@ -4,7 +4,7 @@ Good to see this room.|0.7
 Uh, some of you walked in still wearing the day.|0.5
 You came anyway.|0.55
 I see you.|0.9
-Last time we stayed with a daughter who's watching.|0.65
+Last lesson we stayed with a daughter who's watching.|0.65
 How you treat her mother.|0.45
 What she learns to trust.|0.75
 A few of you went home|0.35
@@ -13,7 +13,7 @@ She asked for the salt.|0.4
 You gave her a speech.|0.45
 She still wanted the salt.|ROOM_CHUCKLE
 [dry] I've given that speech.|0.5
-So. Today the boy.|0.65
+So. This lesson, the boy.|0.65
 If you still need it, I'm Wes.|0.5
 Glad you made the chair.|0.8
 Uh, some of you have a boy|0.35
@@ -24,7 +24,7 @@ Some of you are still waiting|0.4
 for a man to tell you who you are.|0.8
 Stay in the chair.|0.55
 All of you have a mouth.|0.5
-That's the tool today.|0.9
+That's the tool in this lesson.|0.9
 Uh, you don't have to feel ready to use it.|0.6
 Most of us didn't.|0.5
 Uh, we learned it on a day that felt ordinary.|0.75
@@ -61,8 +61,8 @@ I have not improved them.|0.55
 A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.|1.35
 # CUT SCREEN: creed board — "A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's." — new angle after
 You've heard them in this room, right?|0.6
-Uh, I am not rebuilding all four today.|0.65
-Today is the mouth.|0.6
+Uh, I am not rebuilding all four in this lesson.|0.65
+This lesson is the mouth.|0.6
 The marks tell you what the word man has to hold|0.5
 when you finally say it over a boy.|0.85
 Stop waiting.|0.5
@@ -107,7 +107,7 @@ Uh, stay with me on this.|0.5
 The name comes first.|0.5
 The errand can come along after it.|0.6
 You already know how to handle a list.|0.55
-Today you learn the sentence.|1.2
+Here you learn the sentence.|1.2
 # SECTION: Summoned by name
 [quietly] Put this verse in your ear.|0.55
 You'll see it in the workbook.|0.6
@@ -349,7 +349,7 @@ and he can say them back.|1.2
 # SECTION: Habit
 [warmly] A habit does this work.|0.6
 A speech on a big day cannot carry it.|0.75
-Each day, catch one act a man would recognize,|0.55
+As you go, catch one act a man would recognize,|0.55
 and say the name of it.|0.65
 Uh, he took the smaller piece|0.4
 and didn't announce himself.|0.55
@@ -504,7 +504,7 @@ You still have boys in reach.|0.5
 A nephew.|0.35
 The boy you coach.|0.4
 The kid who stays because his ride is late.|0.7
-Last time was the girl.|0.45
+The last lesson was the girl.|0.45
 A boy can hear you on this.|0.7
 Young, and nobody has named you yet.|0.6
 You are not late.|0.45
@@ -647,7 +647,7 @@ Ask what he is calling his own son.|0.7
 If there is no son,|0.4
 you still tell one man.|0.5
 Name the younger man out loud.|0.6
-Each day, catch one thing a man does|0.5
+From this lesson on, catch one thing a man does|0.5
 and give it its name.|0.6
 One night,|0.35
 hand on his head,|0.4

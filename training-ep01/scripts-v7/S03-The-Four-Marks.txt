@@ -11,12 +11,12 @@ I see a few of you went straight for the back row again.|0.4
 That's fine.|0.3
 I sat back there for about ten years.|0.5
 I know every excuse you're using.|0.9
-Last time we said something plain.|0.5
+Last lesson we said something plain.|0.5
 You are not crazy.|0.7
 The orders you were handed fight each other,|0.4
 and wanting one clear word about what a man is for|0.35
 is a good want.|1.0
-So today I want to put some handles on it.|0.5
+So in this lesson I want to put some handles on it.|0.5
 Well, four handles.|0.6
 And then we're gonna grab one of them|0.35
 and hold on longer than you'd expect.|1.1
@@ -121,9 +121,9 @@ Not one of them is a feeling you wait for.|0.5
 You can't get a mark by agreeing with me.|0.45
 You get one by doing it on a day you don't want to.|1.0
 The first three will each get a day of their own.|0.5
-I'm not gonna crack all four open today|0.35
+I'm not gonna crack all four open in this lesson|0.35
 and send you home with four sermons and no practice.|0.8
-Today I want to stay with one.|0.45
+Here I want to stay with one.|0.45
 The one men skip.|0.6
 It's the last one on the list,|0.35
 and a lot of us read it like the fine print.|0.5
@@ -355,7 +355,7 @@ And your Father rewards.|0.5
 Same verse.|0.3
 Same breath.|1.0
 Look, the door is not a hiding place.|0.45
-Last time we talked about men who hide.|0.45
+Last lesson we talked about men who hide.|0.45
 This is different.|0.5
 Hiding is closing the door on what you did wrong.|0.45
 This is closing the door on what you did right,|0.4
@@ -371,7 +371,7 @@ The text you sent a man who's been quiet too long.|0.45
 The screen you didn't open.|1.0
 So I'm gonna ask you something,|0.35
 and I need you to not raise your hand.|0.6
-How many of you did something good this month|0.35
+How many of you did something good lately|0.35
 that nobody knows about?|0.7
 Keep it down.|0.35
 You'll ruin it.|ROOM_CHUCKLE
@@ -624,7 +624,7 @@ would you look again?|0.6
 Let him— let him finish.|0.35
 Then answer.|1.0
 If you're doing this by yourself,|0.3
-you still name it today,|0.35
+you still name it here,|0.35
 and you still tell one man.|1.0
 Write the four on a card, in your own hand.|0.45
 They're in the front of your workbook.|0.45

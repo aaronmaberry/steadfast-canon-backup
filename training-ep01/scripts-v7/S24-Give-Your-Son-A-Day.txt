@@ -4,7 +4,7 @@ Come on, settle in.|0.45
 Uh, some of you fought the drive to get here.|0.5
 You came anyway.|0.55
 I'm glad.|0.8
-Last time we stayed with a hill.|0.65
+Last lesson we stayed with a hill.|0.65
 A real piece of work.|0.4
 The boy climbs.|0.35
 You stay near,|0.3
@@ -15,8 +15,8 @@ My boy looked at the mower.|0.45
 Then at me.|0.4
 He said the lawn already has a guy.|0.5
 He meant me.|ROOM_CHUCKLE
-[dry] So today isn't a bigger chore.|0.65
-Today is a morning he can find later|0.4
+[dry] So this lesson isn't a bigger chore.|0.65
+This lesson is a morning he can find later|0.4
 and say, that was when.|1.3
 If you're new in the chair, I'm Wes.|0.55
 Glad you sat down.|0.7
@@ -63,7 +63,7 @@ A steadfast man stops waiting, picks up the weight, goes first, and works for Go
 # CUT SCREEN: creed board — "A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's." — new angle after
 You've heard it in this room.|0.55
 Uh, I'm not rebuilding it today.|0.6
-Today that sentence gets a morning.|0.75
+In this lesson that sentence gets a morning.|0.75
 Stop waiting, on this one,|0.45
 means you don't wait for him to invent the day.|0.7
 The rest of the line is what you say over him|0.45
@@ -87,9 +87,9 @@ What you see.|0.4
 Man.|0.55
 Those stay.|0.45
 They are the floor.|0.6
-The fourth name is the one this morning is for.|0.7
+The fourth name is the one this lesson is for.|0.7
 You're becoming a man.|0.5
-That's what today is.|0.45
+That's what this lesson is.|0.45
 Here's what it means.|0.65
 Then you say the line, slow,|0.5
 like you mean every word.|0.75
@@ -362,7 +362,7 @@ You go last among the words that name him.|0.6
 The three names.|0.45
 Then the fourth.|0.5
 You're becoming a man.|0.45
-That's what today is.|0.4
+That's what this lesson is.|0.4
 Here's what it means.|0.6
 A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.|1.3
 # CUT SCREEN: creed board — "A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's." — new angle after
@@ -579,7 +579,7 @@ and leave her in the quiet.|1.25
 # SECTION: To the tables
 [warmly] Let me land it.|0.55
 We've covered a lot of ground in this room.|0.65
-Today it comes down to a morning|0.45
+Here it comes down to a morning|0.45
 a boy can point at.|0.75
 I'm not opening another map.|0.55
 The work in front of you is a day.|0.7
@@ -636,9 +636,9 @@ A stone with no story is only a rock.|0.9
 Give him the day.|0.5
 Then live the days that make it true.|1.0
 Before you go to those tables, give me a few more minutes.|1.0
-This is the last time we do this together.|0.6
+This is the last lesson we do together.|0.6
 I want to say it plain.|1.2
-Think back to the first day.|0.5
+Think back to the first lesson.|0.5
 Folding chairs.|0.4
 A bunch of guys just checking it out.|0.5
 I told you about a bike tire I fixed in the dark, by myself.|0.5
@@ -668,8 +668,8 @@ The walk doesn't.|0.9
 Go to walksteadfast.com.|0.6
 # CUT SCREEN: key line — "walksteadfast.com" — new angle after
 There's a podcast.|0.4
-Jonathon Hale and I sit down and talk this stuff through, new episodes Tuesdays and Fridays.|0.6
-There's a short daily walk, a few minutes, to start your morning.|0.5
+Jonathon Hale and I sit down and talk this stuff through, new episodes keep coming.|0.6
+There's the Daily Walk, a short read to start with.|0.5
 There's the Steadfast Men book, if you want all of this in one place on your nightstand.|0.5
 And if this room helped you, there's a free guide to start a small group of your own.|0.6
 You know a guy who needs a table.|0.5

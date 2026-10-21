@@ -8,12 +8,12 @@ I respect a man with an exit strategy.|ROOM_CHUCKLE
 [dry] I have been that man.|0.45
 More than once.|0.75
 Glad the door shut behind you.|0.9
-Last time we talked about going first.|0.5
+Last lesson we talked about going first.|0.5
 Some of you moved|0.35
 while your stomach was still arguing.|0.6
 Some of you, uh, endorsed it|0.35
 from a very safe seat.|0.8
-Today I'm not stacking another brave act on you.|0.55
+This lesson isn't stacking another brave act on you.|0.55
 I want the pay inside the act.|1.15
 For anybody who still doesn't have my name,|0.4
 I'm Wes.|0.45
@@ -61,7 +61,7 @@ I have not improved them.|0.55
 A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.|1.45
 # CUT SCREEN: creed board — "A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's." — new angle after
 Uh, you have heard the four.|0.5
-Today we stay on the last line.|0.6
+This lesson stays on the last line.|0.6
 Works for God's pay.|0.45
 Not the room's.|1.2
 I'm not reopening the other three.|0.5
@@ -686,7 +686,7 @@ The only question is which one.|1.15
 You've carried one sentence through this room.|0.5
 A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.|1.35
 # CUT SCREEN: creed board — "A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's." — new angle after
-Today, expect that reward.|0.7
+From this lesson on, expect that reward.|0.7
 Tables.|0.4
 Work that part of the workbook together.|0.6
 Start with the small reward.|0.45

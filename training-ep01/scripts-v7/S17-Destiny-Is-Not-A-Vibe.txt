@@ -12,14 +12,14 @@ like it had turned him in.|ROOM_CHUCKLE
 Glad you stayed in yours.|0.8
 If this voice is new, I'm Wes.|0.45
 You've got the name.|0.7
-Last time we named what was given|0.4
+Last lesson we named what was given|0.4
 before anything in a man broke.|0.6
 Design first.|0.4
 Then the fork.|0.55
 Some of you said your piece plain.|0.5
 Some of you, uh, carried it out|0.35
 and left it in a pocket.|0.7
-Today I'm not walking that ground again.|0.55
+This lesson isn't walking that ground again.|0.55
 I want the work the ground was for.|1.15
 Now listen.|0.45
 Ask a man what— ask a man what he is for.|0.55
@@ -66,7 +66,7 @@ A steadfast man stops waiting, picks up the weight, goes first, and works for Go
 # CUT SCREEN: creed board — "A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's." — new angle after
 You've heard them in this room.|0.55
 I'm not opening all four from the floor.|0.6
-Uh, today they stay where they belong.|0.5
+Uh, in this lesson they stay where they belong.|0.5
 Over the work.|0.45
 Not in place of it.|0.65
 Feeling is not the fire.|1.15
@@ -512,7 +512,7 @@ A good run at the job.|0.6
 Serve this one.|0.6
 Don't sand it into a better life first.|0.8
 And the first shape.|0.55
-Last time we named the design,|0.45
+Last lesson we named the design,|0.45
 what a man was given|0.4
 before anything broke.|0.6
 You don't need me to rebuild it.|0.6

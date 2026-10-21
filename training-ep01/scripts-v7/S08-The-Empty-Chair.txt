@@ -2,7 +2,7 @@
 [warmly] Hey.|0.5
 Good to see you.|0.7
 Uh, glad you took a chair.|0.55
-Last time we talked about going first.|0.5
+Last lesson we talked about going first.|0.5
 Some of you did.|0.4
 Some of you went first to the snack table|0.3
 and called it leadership.|ROOM_CHUCKLE
@@ -11,7 +11,7 @@ More than once.|0.8
 If you came in late, I'm Wes.|0.45
 You already know the voice.|0.6
 Glad you took a chair.|0.85
-Today is quieter than last time.|0.5
+This lesson is quieter than the last one.|0.5
 I want to go slow.|0.45
 Uh, some of you are already bracing.|0.5
 You think I came to put your dad on trial.|0.65
@@ -67,7 +67,7 @@ A steadfast man stops waiting, picks up the weight, goes first, and works for Go
 You've heard that list in here, right?|0.55
 I'm gonna say it,|0.3
 and I am not gonna tour it.|0.65
-Today is the chair.|1.1
+This lesson is the chair.|1.1
 The marks do not erase what you inherited.|0.55
 They tell a man he still has a life to live|0.4
 on the far side of that chair.|0.8
@@ -418,9 +418,9 @@ Two things.|0.4
 I'm gonna stop at two.|0.5
 There is more mercy ahead|0.35
 than we are opening here.|0.6
-Today is not the day we patch the hole|0.4
+This lesson is not where we patch the hole|0.4
 and call the feeling finished.|0.75
-Today we tell the truth about the chair.|1.1
+Here we tell the truth about the chair.|1.1
 First, he says it.|0.5
 Uh, out loud.|0.35
 Where his own ears can hear it.|0.65

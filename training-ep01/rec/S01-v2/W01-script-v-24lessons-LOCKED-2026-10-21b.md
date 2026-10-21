@@ -1,4 +1,4 @@
-# Steadfast Men — Session 1 (W01): A Quiet Tuesday — kickoff rewrite
+# Steadfast Men — Lesson 1: A Quiet Tuesday — kickoff rewrite
 
 - Date: 2026-10-20. Presenter: Wes Hart, live training room, talking to the men in the chairs (not to the lens).
 - Base: training-ep01/rec/S01-v2/S01-A-Quiet-Tuesday-v2-script.txt (locked S01, untouched). Intro reference: training-ep01/intro/INTRO-SCRIPT-v3.md.
@@ -12,16 +12,16 @@
 
 ## KICKOFF (new, ~45 sec) — same angle as Opening
 
-So this is night one.
+So this is lesson one.
 Here's how this goes, and then I'll quit talking about the plan and get to it.
 We meet like this, one lesson at a time. Twenty-four of them.
-Every night's got the same bones. I'll teach for a while. You'll have your Bible open, and a workbook in front of you.
+Every lesson's got the same bones. I'll teach for a while. You'll have your Bible open, and a workbook in front of you.
 Then we go to the tables, and you do the part I can't do for you.
 And you leave with one move. One. Not a list.
-Next time you walk in, somebody at your table's gonna ask how it went.
+When you sit down for the next lesson, somebody at your table's gonna ask how it went.
 That's the whole system.
 Show up, tell the truth, do the move.
-Tonight we start with an ordinary day. Next lesson we look at why that's been so hard. After that, the four marks.
+This lesson starts with an ordinary day. Next lesson we look at why that's been so hard. After that, the four marks.
 Okay. Phone face down. Let's go.
 
 ## 1. Opening (cont.)
@@ -72,7 +72,7 @@ Paul does not say, when I was a child I had toys. He names the way he talked, th
 
 **[CUT SCREEN: creed board — "A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's."] — new angle after**
 
-Write that line at the table, in your own hand. Don't swap a word to make it sound more like you. It doesn't need the help. Four marks. Not one of them is a mood you wait on. Today we stay on the first. Stop waiting. The other three get their own sessions. If you try to swallow all four before you stand up, you leave with a speech and no practice. Stop waiting. Stop being gone from what is yours.
+Write that line at the table, in your own hand. Don't swap a word to make it sound more like you. It doesn't need the help. Four marks. Not one of them is a mood you wait on. In this lesson we stay on the first. Stop waiting. The other three get their own lessons. If you try to swallow all four before you stand up, you leave with a speech and no practice. Stop waiting. Stop being gone from what is yours.
 
 **[CUT SCREEN: section title "Very Little"] — new angle**
 
@@ -114,7 +114,7 @@ Stay with me. Here's the turn. You are not stuck as the boy who only moves when 
 
 ## 12. The Tables
 
-The tables are ready. Open your workbook and work that part together. Don't explain the chapter to each other. Don't rescue a man from the question with advice. Here is what I want you wrestling. Where in your ordinary days do you keep an aisle instead of a seat? You were in the building. Were you in the room? What cover is closest right now? Living on options. Hiding inside a good job. Or treating some later season as the real start. Name your cover. Leave your neighbor's alone. Who in reach already knows if you showed up last Tuesday? If you can't think of a name, that answer is an answer. And say this out loud. One sentence. Where did you disappear last Tuesday without calling it that? Then write the move. Not a speech. My next move on a Tuesday is. One meal with the phone in another room. Not in your pocket, where it can, uh, buzz you out of your own life. Another room. If you live alone, you still sit down. The phone still leaves. And one small yes that will still be there if the feeling leaves. Put the day on the page. A move you can fail at is the only kind that can make a man. Text one man. Ask him what he did with his Tuesday. Let him ask you the same. Send it before you walk out, if you can. An ordinary day nobody else knows about is a day you will explain away. The line for your handwriting is this. Tuesday is where a man is made, or he settles. Write it once. I'll say the four one more time, and then I'm done talking.
+The tables are ready. Open your workbook and work that part together. Don't explain the chapter to each other. Don't rescue a man from the question with advice. Here is what I want you wrestling. Where in your ordinary days do you keep an aisle instead of a seat? You were in the building. Were you in the room? What cover is closest right now? Living on options. Hiding inside a good job. Or treating some later season as the real start. Name your cover. Leave your neighbor's alone. Who in reach already knows if you showed up on your last ordinary day? If you can't think of a name, that answer is an answer. And say this out loud. One sentence. Where did you disappear on your last ordinary day without calling it that? Then write the move. Not a speech. My next move on a Tuesday is. One meal with the phone in another room. Not in your pocket, where it can, uh, buzz you out of your own life. Another room. If you live alone, you still sit down. The phone still leaves. And one small yes that will still be there if the feeling leaves. Put the day on the page. A move you can fail at is the only kind that can make a man. Text one man. Ask him what he did with his Tuesday. Let him ask you the same. Send it before you walk out, if you can. An ordinary day nobody else knows about is a day you will explain away. The line for your handwriting is this. Tuesday is where a man is made, or he settles. Write it once. I'll say the four one more time, and then I'm done talking.
 
 > A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 

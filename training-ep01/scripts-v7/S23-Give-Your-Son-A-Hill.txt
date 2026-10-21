@@ -4,7 +4,7 @@ Good to see you.|0.7
 Uh, the day was already full before you got here.|0.55
 You came in anyway.|0.7
 I'm glad for that.|0.9
-Last time we stayed with a boy's name.|0.6
+Last lesson we stayed with a boy's name.|0.6
 The sentence a father puts on him.|0.5
 What he starts to answer to|0.4
 Uh, when the house goes quiet.|0.85
@@ -16,7 +16,7 @@ I told him a man can handle a little lack.|0.65
 He looked in the cup.|0.4
 He said, so this is water.|ROOM_CHUCKLE
 [dry] So the blessing stayed in the truck.|0.75
-Today that name needs somewhere to stand.|0.7
+In this lesson that name needs somewhere to stand.|0.7
 If you haven't caught my name yet, I'm Wes.|0.55
 Glad you took a chair.|0.8
 Here's the thing.|0.45
@@ -61,7 +61,7 @@ I have not improved them.|0.6
 A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.|1.45
 # CUT SCREEN: creed board — "A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's." — new angle after
 I'm not rebuilding all four.|0.55
-Today they stand on the ground.|0.7
+Here they stand on the ground.|0.7
 Uh, stop waiting.|0.5
 On this, passivity can look like a busy man.|0.55
 You take his hill because you're faster,|0.45
@@ -617,7 +617,7 @@ and you where he can see you.|0.75
 A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.|1.35
 # CUT SCREEN: creed board — "A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's." — new angle after
 Keep that line close.|0.6
-Today it means you don't climb it for him,|0.5
+Here it means you don't climb it for him,|0.5
 you don't hide him from it,|0.5
 and you trust God with the slow work.|0.8
 Your workbook is where this gets particular.|0.65

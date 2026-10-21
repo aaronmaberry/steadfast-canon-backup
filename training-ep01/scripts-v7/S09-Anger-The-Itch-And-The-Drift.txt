@@ -15,11 +15,11 @@ out in your truck.|0.4
 Uh, hands on the wheel.|0.35
 Coming through the door is the harder job.|0.8
 Glad you took it.|1.05
-Uh, last time we named the chair.|0.55
+Uh, last lesson we named the chair.|0.55
 What sat there was handed to you.|0.55
 What you do with it is yours.|0.8
 I'm not— I'm not gonna walk that road again.|0.65
-Today is the fruit.|0.6
+This lesson is the fruit.|0.6
 What comes out of a man|0.35
 when the ache gets heavy|0.4
 and he will not carry it.|1.15
@@ -61,7 +61,7 @@ sends you through more than one,|0.5
 you probably blocked the favorite.|0.55
 The ache went looking.|0.6
 Name the one you live in.|0.55
-Today we name the way.|1.25
+Here we name the way.|1.25
 # SECTION: The Marks
 [warmly] One sentence|0.4
 puts four marks down|0.35
@@ -71,7 +71,7 @@ A steadfast man stops waiting, picks up the weight, goes first, and works for Go
 # CUT SCREEN: creed board — "A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's." — new angle after
 Uh, you've heard them in this room.|0.55
 I'm not gonna tour the whole list.|0.6
-Today they stand over the fruit.|0.6
+In this lesson they stand over the fruit.|0.6
 Not over the old seat.|1.1
 Uh, passivity has a quiet costume|0.4
 and a loud one.|0.6

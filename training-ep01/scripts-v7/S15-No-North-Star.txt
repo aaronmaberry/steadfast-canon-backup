@@ -11,11 +11,11 @@ I've lost that vote.|0.75
 Good you came in.|0.65
 If we haven't met, I'm Wes.|0.5
 That's plenty.|0.8
-Last time we named a shape|0.4
+Last lesson we named a shape|0.4
 a man's days can take.|0.6
 Some of you said yours plain.|0.5
 Some of you, uh, walked around it.|0.75
-Today I want the heading under the days.|1.15
+In this lesson I want the heading under the days.|1.15
 Now listen.|0.45
 A lot of us can tell the clock.|0.55
 What time we roll out.|0.4
@@ -65,7 +65,7 @@ A steadfast man stops waiting, picks up the weight, goes first, and works for Go
 # CUT SCREEN: creed board — "A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's." — new angle after
 You've heard them in this room.|0.55
 I'm not opening all four from the ground up.|0.65
-Today they need a heading,|0.45
+Here they need a heading,|0.45
 or a man aims them at whatever is glowing.|0.85
 Uh, I can say them clean|0.4
 and still chase the nearest light.|0.65
@@ -455,7 +455,7 @@ It will not take a vote|0.45
 from the light you like best.|1.25
 # SECTION: One stretch
 So what does a man do.|0.55
-You are not drawing a whole map today.|0.65
+You are not drawing a whole map in this lesson.|0.65
 Uh, I have tried to draw the map first.|0.6
 I wanted the place,|0.35
 the work,|0.3
@@ -668,12 +668,12 @@ Father, other men, culture,|0.45
 feelings, or success.|0.65
 A full sentence.|0.45
 Out loud.|0.4
-Today.|0.75
+Here.|0.75
 Where did that moving star|0.45
-pull you this month?|0.8
+pull you lately?|0.8
 Name the pull.|0.45
 A real place it took you.|0.7
-And will you open Mark tomorrow|0.5
+And will you open Mark as you go|0.5
 and write one line?|0.7
 One stretch.|0.35
 What it says a man does.|0.55

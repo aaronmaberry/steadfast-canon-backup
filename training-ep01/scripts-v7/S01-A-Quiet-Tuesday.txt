@@ -35,21 +35,21 @@ This is Steadfast Men.|0.5
 You'll figure out the name.|1.2
 
 # SECTION: Kickoff
-So this is night one.|1.0
+So this is lesson one.|1.0
 Here's how this goes, and then I'll quit talking about the plan and get to it.|1.0
 We meet like this, one lesson at a time.|0.5
 Twenty-four of them.|1.0
-Every night's got the same bones.|0.5
+Every lesson's got the same bones.|0.5
 I'll teach for a while.|0.5
 You'll have your Bible open, and a workbook in front of you.|1.0
 Then we go to the tables, and you do the part I can't do for you.|1.0
 And you leave with one move.|0.5
 One.|0.5
 Not a list.|1.0
-Next time you walk in, somebody at your table's gonna ask how it went.|1.0
+When you sit down for the next lesson, somebody at your table's gonna ask how it went.|1.0
 That's the whole system.|1.0
 Show up, tell the truth, do the move.|1.0
-Tonight we start with an ordinary day.|0.5
+This lesson starts with an ordinary day.|0.5
 Next lesson we look at why that's been so hard.|0.5
 After that, the four marks.|1.0
 Okay.|0.45
@@ -286,9 +286,9 @@ Don't swap a word to make it sound more like you.|0.5
 It doesn't need the help.|0.85
 Four marks.|0.5
 Not one of them is a mood you wait on.|0.75
-Today we stay on the first.|0.55
+In this lesson we stay on the first.|0.55
 Stop waiting.|0.5
-The other three get their own sessions.|0.65
+The other three get their own lessons.|0.65
 If you try to swallow all four before you stand up, you leave with a speech and no practice.|0.5
 Stop waiting.|0.5
 Stop being gone from what is yours.|1.0
@@ -494,11 +494,11 @@ Hiding inside a good job.|0.4
 Or treating some later season as the real start.|0.75
 Name your cover.|0.4
 Leave your neighbor's alone.|0.85
-Who in reach already knows if you showed up last Tuesday?|0.5
+Who in reach already knows if you showed up on your last ordinary day?|0.5
 If you can't think of a name, that answer is an answer.|0.5
 And say this out loud.|0.35
 One sentence.|0.4
-Where did you disappear last Tuesday without calling it that?|0.5
+Where did you disappear on your last ordinary day without calling it that?|0.5
 Then write the move.|0.45
 Not a speech.|0.4
 My next move on a Tuesday is.|0.6

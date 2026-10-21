@@ -9,7 +9,7 @@ That's the hard part.|ROOM_CHUCKLE
 Glad you kept the chair.|0.75
 If you're new with us, I'm Wes.|0.5
 You can catch this from the seat you're in.|0.9
-Last time we said a word|0.35
+Last lesson we said a word|0.35
 most men sand down.|0.55
 I sinned.|0.6
 Some of you got it out whole.|0.5
@@ -18,7 +18,7 @@ on the way out of your mouth.|0.7
 You still said more|0.3
 than you said the time before.|0.75
 Keep that.|0.7
-Today the inside gets a shape.|0.6
+In this lesson the inside gets a shape.|0.6
 Sin puts clothes on a man,|0.45
 and the clothes can look|0.35
 like somebody you'd hand your keys to.|1.05
@@ -26,7 +26,7 @@ Competence is not righteousness.|1.4
 The hidden place can still be eating.|0.9
 One sentence|0.45
 holds four marks of a real man.|0.7
-I won't, uh, pull them apart today.|0.65
+I won't, uh, pull them apart in this lesson.|0.65
 I want them in the air|0.35
 while we look at what sin wears.|0.75
 A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.|1.4

@@ -15,12 +15,12 @@ was about the shoes.|ROOM_CHUCKLE
 She looked at the shoes.|0.45
 Uh, then she looked at me.|0.6
 The hello was still out in the truck.|0.9
-Last time we stayed with a husband and his wife.|0.65
+Last lesson we stayed with a husband and his wife.|0.65
 What a man keeps,|0.35
 and what he withholds,|0.4
 when the promise is ordinary.|0.8
 Hold that.|0.55
-Today the girl who has been watching the two of you|0.5
+In this lesson the girl who has been watching the two of you|0.5
 gets the hour.|0.8
 If there is no girl,|0.4
 stay in the chair.|0.5
@@ -67,7 +67,7 @@ Here they are.|0.45
 A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.|1.35
 # CUT SCREEN: creed board — "A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's." — new angle after
 You've heard them in this room.|0.55
-We are not— we are not rebuilding the list today.|0.75
+We are not— we are not rebuilding the list in this lesson.|0.75
 We're setting them down|0.4
 over a girl who is already watching.|0.85
 Stop waiting.|0.5
@@ -348,7 +348,7 @@ was the stretch that scared him.|0.7
 She calls again.|0.5
 That is a face|0.4
 she is willing to look for.|1.3
-# SECTION: Names and time
+# SECTION: Names and presence
 [dry] The names come next.|0.55
 They are cheaper than we pretend,|0.5
 and she spends them anyway.|0.7

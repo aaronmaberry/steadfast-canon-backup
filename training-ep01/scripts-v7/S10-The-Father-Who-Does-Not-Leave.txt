@@ -1,7 +1,7 @@
 # SECTION: Glad you came back
 [warmly] Hey.|0.5
 Good to see you.|0.75
-Uh, a few of you found your spot from last time|0.4
+Uh, a few of you found your spot from the last lesson|0.4
 without even looking up.|0.55
 That's alright.|0.5
 You came back.|0.9
@@ -9,7 +9,7 @@ A couple of you promised somebody this would be quick.|0.55
 [dry] Quick does not come with a workbook this thick.|ROOM_CHUCKLE
 You came in anyway.|0.5
 I'll take that.|0.85
-Last time you named, uh, the way you leave|0.4
+Last lesson you named, uh, the way you leave|0.4
 when the weight gets real.|0.6
 Anger.|0.35
 The itch.|0.35
@@ -45,7 +45,7 @@ You call it patience.|0.45
 Under the nicer word,|0.35
 there's a boy at the window.|0.7
 He has been there a long time.|0.6
-Today we walk him|0.4
+This lesson we walk him|0.4
 to a Father who is already in the room.|0.85
 We will— we will go slow.|0.55
 Uh, if the word scrapes on the way out,|0.55
@@ -53,21 +53,21 @@ you are in the right room.|0.6
 Receiving is the door.|0.55
 You don't have to feel ready first.|0.65
 We'll stay with you while you learn to say it.|0.75
-Today is who is here.|1.15
+This lesson is who is here.|1.15
 A Father who does not leave.|1.35
 # SECTION: Who you're in front of
 [warmly] One sentence|0.4
 holds four marks of a real man.|0.65
 You've heard them, uh, in this room.|0.55
 I'll say them again.|0.4
-I won't pull them apart today.|0.75
+I won't pull them apart in this lesson.|0.75
 A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.|1.4
 # CUT SCREEN: creed board — "A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's." — new angle after
 That last line only holds|0.35
 if the God you picture is the real one.|0.7
 A man will not rest his life|0.35
 on a father he thinks might walk off.|0.85
-So today the marks can sit in your mouth.|0.5
+So in this lesson the marks can sit in your mouth.|0.5
 The question under them is simpler.|0.55
 Who have you been living them in front of?|1.15
 Here's the thing.|0.45
@@ -197,7 +197,7 @@ and still pray like a man|0.3
 who plans to handle it.|0.8
 That was me.|0.45
 A lot of mornings, uh, it still is.|0.7
-So the move today is small and hard.|0.55
+So the move from this lesson is small and hard.|0.55
 Set the picture down.|0.65
 Some of you are still hoping|0.4
 the next visit is the one.|0.6
@@ -618,7 +618,7 @@ when you stand up.|0.6
 You've carried them through this room.|0.55
 A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.|1.2
 # CUT SCREEN: creed board — "A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's." — new angle after
-Today those marks sit in front of a Father|0.45
+Here those marks sit in front of a Father|0.45
 who does not leave.|0.7
 That is the difference.|1.0
 Uh, get with the men at your table.|0.55

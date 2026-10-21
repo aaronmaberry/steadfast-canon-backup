@@ -8,9 +8,9 @@ Then he sat down real slow,|0.3
 like the chair might file a report.|ROOM_CHUCKLE
 Glad you stayed.|0.65
 If you slipped in late, I'm Wes.|0.55
-Last time we sat with a Father who doesn't walk off.|0.6
+Last lesson we sat with a Father who doesn't walk off.|0.6
 That still stands.|0.5
-Today is the house that raised you.|0.55
+This lesson is the house that raised you.|0.55
 Whether anybody in it|0.3
 ever looked you in the face|0.35
 and told you that you could go.|1.05

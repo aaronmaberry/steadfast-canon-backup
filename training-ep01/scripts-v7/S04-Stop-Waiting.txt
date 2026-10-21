@@ -15,7 +15,7 @@ I think we're past the point of no return.|0.9
 Anyway. It's good to be in a room with you guys again.|0.6
 Pull your chair in a little.|0.3
 Closer than feels natural.|0.6
-If today's your first one, jump right in.|0.4
+If this is your first lesson, jump right in.|0.4
 Nothing we said before is a test you missed.|1.0
 Here's where we left it.|0.4
 We laid four marks on the table,|0.3
@@ -27,7 +27,7 @@ Some of you have been doing one quiet thing since then|0.35
 and not telling anybody.|0.5
 Good. Don't tell me either.|0.5
 That was kind of the point.|1.0
-Today we go back to the front of the line.|0.45
+This lesson goes back to the front of the line.|0.45
 The first mark.|0.5
 And I'll put it plainly, because it's the whole hour.|0.5
 A steadfast man stops waiting.|0.6
@@ -488,7 +488,7 @@ What I want you walking out with isn't guilt.|0.4
 Guilt is heavy, and it doesn't move anything.|0.5
 It just sits there with you.|0.5
 I want you walking out with one name and one move.|0.4
-Small enough to do before lunch.|1.0
+Small enough to do the minute you walk out.|1.0
 Not a new you.|0.3
 Just one thing you quit walking past.|1.0
 The tile's coming off the table this Saturday, by the way.|0.4

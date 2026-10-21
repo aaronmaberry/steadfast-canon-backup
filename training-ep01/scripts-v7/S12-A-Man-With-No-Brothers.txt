@@ -6,12 +6,12 @@ Same man.|0.35
 He was gracious about it.|ROOM_CHUCKLE
 If we're just meeting, I'm Wes.|0.5
 Uh, glad you found a seat.|0.75
-Last time we talked about a house that never said go,|0.4
+Last lesson we talked about a house that never said go,|0.4
 and about walking out|0.3
 without making the door a weapon.|0.65
 Keep that.|0.45
 It still matters.|0.85
-Today is a quieter trouble.|0.7
+This lesson is a quieter trouble.|0.7
 You can look steady from where I'm standing.|0.5
 Uh, people know your name.|0.4
 You answer when a need goes around.|0.6
@@ -73,7 +73,7 @@ Uh, here they are.|0.4
 A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.|1.3
 # CUT SCREEN: creed board — "A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's." — new angle after
 Uh, you've heard that in this room.|0.5
-I'm not gonna walk all four out today.|0.55
+I'm not gonna walk all four out in this lesson.|0.55
 I want them pointed|0.3
 at the man who has you,|0.4
 and at the man you haven't asked.|0.8
@@ -324,7 +324,7 @@ I never gave him the chance.|0.65
 A no would've been cleaner|0.45
 than another stretch|0.35
 of guessing on my own.|1.2
-# SECTION: Twenty Minutes
+# SECTION: One Man
 Uh, most men I know|0.35
 already want a brother.|0.55
 What they don't have|0.35
@@ -339,10 +339,10 @@ or a stretch where the work is eating him,|0.5
 looks at those|0.3
 and does nothing.|0.7
 So take a smaller picture.|0.55
-Twenty minutes.|0.45
-Uh, one man.|0.4
-The same day.|0.35
-The same hour.|0.55
+One man.|0.45
+One table.|0.4
+One honest question.|0.35
+Kept, not crammed.|0.55
 A plan that floats|0.35
 is a plan that dies.|0.7
 Pick a man|0.35
@@ -363,10 +363,10 @@ He listens.|0.45
 Fixing can wait.|0.65
 What's next.|0.45
 Each of you names one move|0.4
-before you talk again,|0.4
+before you leave the table,|0.4
 out loud,|0.35
 so a man heard it.|0.6
-The next time,|0.35
+When you sit back down,|0.35
 you start with whether it got done.|0.7
 Leave room at the end.|0.45
 Pray out loud.|0.4
@@ -678,7 +678,7 @@ before you have one.|0.6
 The men you share a roof with|0.4
 can be good company|0.35
 and still not know you.|0.6
-Uh, add the twenty minutes.|0.55
+Uh, add the one man.|0.55
 If you're married,|0.45
 tell her you asked.|0.5
 Don't hand her the job|0.35
@@ -733,10 +733,10 @@ to go down alone|0.35
 and call it strength.|0.7
 A brother tells you the truth|0.4
 and stays.|0.55
-Twenty minutes,|0.35
-one man,|0.3
-same day,|0.3
-uh, same hour.|0.5
+One man,|0.35
+one question,|0.3
+one honest answer,|0.3
+uh, and keep coming back.|0.5
 What happened.|0.4
 What's heavy.|0.4
 What's next.|0.4
@@ -777,9 +777,9 @@ and what is the one real question.|0.7
 The sentence is plain.|0.5
 I'm trying to be a better man,|0.4
 and I don't have a brother.|0.5
-Would you talk with me twenty minutes,|0.4
-same time,|0.35
-for three months.|0.65
+Would you sit with me,|0.4
+and keep at it,|0.35
+until it's real?|0.65
 Set the day and the time|0.4
 before you put the phone down.|0.65
 One real question|0.35
@@ -798,5 +798,5 @@ A hint stays a hint|0.35
 until a man hears it.|0.7
 A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.|1.15
 # CUT SCREEN: creed board — "A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's." — new angle after
-Today that means you go first.|0.6
+From this lesson on, that means you go first.|0.6
 Find your table.|1.25

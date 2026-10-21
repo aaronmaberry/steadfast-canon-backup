@@ -13,7 +13,7 @@ Glad you're in the room.|0.7
 Uh, some of you carried the day in on your face.|0.55
 Set it in the chair beside you.|0.45
 It can sit there and hear this too.|0.7
-Last time we talked about what a man measures his life by.|0.65
+Last lesson we talked about what a man measures his life by.|0.65
 What he treats as fixed|0.4
 when it moves under him.|0.6
 Uh, some of you said yours plain.|0.5
@@ -21,7 +21,7 @@ Some of you, uh, kept the name to yourself.|0.7
 We're not— we're not opening that up again.|0.7
 You can name what you've been steering by|0.45
 and still not know what you were made for.|0.9
-That second thing is today.|0.75
+That second thing is this lesson.|0.75
 Before the bend.|0.45
 Before the account you give of the bend.|0.7
 What God did when He made a man.|0.65
@@ -55,7 +55,7 @@ A steadfast man stops waiting, picks up the weight, goes first, and works for Go
 # CUT SCREEN: creed board — "A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's." — new angle after
 You've heard them in this room.|0.55
 Uh, I'm not gonna build all four from the ground up.|0.65
-Today they stop being a list of qualities|0.45
+In this lesson they stop being a list of qualities|0.45
 you grade yourself against.|0.6
 It is— it is a portrait.|0.55
 A Man's face|0.4
@@ -66,7 +66,7 @@ If I hand you the face first,|0.4
 you'll hear pressure|0.35
 where I meant a gift.|0.7
 Uh, hear the four this way, just for a minute.|0.6
-Passivity, today,|0.35
+Passivity, in this lesson,|0.35
 is a man in the room|0.35
 who says nothing|0.3
 while a true word gets bent.|0.75
@@ -585,7 +585,7 @@ Let these men go,|0.45
 in a room with a shaking hand.|1.2
 # SECTION: The garden in front of you
 [dry] So bring it down to the ground you actually stand on.|0.7
-A garden, the way I mean it today,|0.5
+A garden, the way I mean it in this lesson,|0.5
 is the place where a true thing is on the line|0.5
 and you are the man in the room.|0.75
 A conversation you've been feeding with Later.|0.65
@@ -617,12 +617,12 @@ about the true thing I was gonna say.|0.6
 Then I walked through the door|0.45
 and we talked about the weather.|ROOM_CHUCKLE
 Say it— say it where your mouth can learn it.|0.65
-Uh, on an ordinary morning,|0.5
+Uh, on an ordinary day,|0.5
 read Genesis one and two out loud,|0.55
 start to finish.|0.55
 Then write one line|0.4
 about what it says a man is for.|0.75
-And each morning after,|0.5
+And from this lesson on,|0.5
 name the garden you're most likely to face|0.55
 and say the sentence before you walk into it.|0.75
 Uh, how many of you|0.4
@@ -677,7 +677,7 @@ is most bent in you?|0.65
 Say it in a full sentence.|0.6
 What was the last garden you stood in,|0.55
 and which man's way did you take?|0.75
-And which sentence will you say tomorrow morning?|0.7
+And which sentence will you say the next time you walk into it?|0.7
 Rise, let us go.|0.5
 Or, not as I will.|0.55
 Or, let these men go.|0.7

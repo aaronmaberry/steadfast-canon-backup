@@ -14,7 +14,7 @@ One more song.|0.3
 One more text that could've waited.|0.55
 Then you came in.|0.5
 I'm glad.|1.05
-Last time we talked about not doing this alone.|0.6
+Last lesson we talked about not doing this alone.|0.6
 A man you could call|0.35
 if you went down.|0.5
 A man out ahead,|0.35
@@ -52,9 +52,9 @@ A steadfast man stops waiting, picks up the weight, goes first, and works for Go
 # CUT SCREEN: creed board — "A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's." — new angle after
 You've heard them in this room.|0.55
 I'm not gonna tour the list.|0.6
-Today they stand over what's in you.|0.75
+In this lesson they stand over what's in you.|0.75
 Not over the old story alone.|1.05
-Uh, passivity, today,|0.4
+Uh, passivity, in this lesson,|0.4
 is a soft word|0.35
 where a true one belongs.|0.7
 Responsibility is a sentence|0.4
@@ -718,7 +718,7 @@ The marks still stand.|0.55
 You've carried one sentence through this room.|0.55
 A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.|0.9
 # CUT SCREEN: creed board — "A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's." — new angle after
-Today the passive thing|0.4
+From this lesson on, the passive thing|0.4
 is the soft word.|0.5
 Say the true one.|0.55
 Tables are yours.|0.45

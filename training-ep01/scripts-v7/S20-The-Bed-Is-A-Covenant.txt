@@ -13,11 +13,11 @@ He said, we getting a new one?|ROOM_CHUCKLE
 [dry] Different subject.|0.55
 He let it go.|0.5
 Uh, I almost did.|0.7
-Last time we talked about laying a grip down.|0.6
+Last lesson we talked about laying a grip down.|0.6
 And about asking what she actually needs.|0.65
 Keep both.|0.45
 They still stand.|0.85
-Today we walk into the room|0.4
+In this lesson we walk into the room|0.4
 a lot of decent men will not name.|0.8
 How many of you felt the air change|0.45
 when you saw where this was headed?|0.6
@@ -76,7 +76,7 @@ I have not improved them.|0.55
 A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.|1.4
 # CUT SCREEN: creed board — "A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's." — new angle after
 You've heard them in here.|0.55
-Uh, today they don't stay by the door.|0.6
+Uh, in this lesson they don't stay by the door.|0.6
 They come down the hall.|0.5
 Into the private hours,|0.4
 where nobody claps|0.35

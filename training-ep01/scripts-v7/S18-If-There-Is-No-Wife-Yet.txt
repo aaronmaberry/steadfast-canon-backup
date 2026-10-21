@@ -9,11 +9,11 @@ They usually do.|ROOM_CHUCKLE
 Uh, if we haven't met, I'm Wes.|0.5
 Glad you took a seat.|0.75
 Some of you know this room.|0.45
-Some of you, uh, found it today,|0.45
+Some of you, uh, found it in this lesson,|0.45
 and you're still deciding.|0.6
 Deciding counts.|0.45
 You stayed.|0.75
-Last time we said purpose|0.4
+Last lesson we said purpose|0.4
 is not a mood you wait on.|0.55
 It's a work you carry|0.35
 in the place you're already standing.|0.8
@@ -21,7 +21,7 @@ I mean, the place.|0.4
 The people.|0.35
 The hours already in your hands.|0.7
 Keep that.|0.55
-Today that place gets a name.|0.75
+In this lesson that place gets a name.|0.75
 Some of you are doing the days|0.4
 and calling them a warm-up.|0.65
 The real part,|0.35
@@ -66,7 +66,7 @@ A steadfast man stops waiting, picks up the weight, goes first, and works for Go
 # CUT SCREEN: creed board — "A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's." — new angle after
 You've heard them in this room.|0.55
 I'm not gonna build all four from the ground up.|0.65
-Today they have to land|0.4
+Here they have to land|0.4
 on two refusals I know from the inside.|0.8
 Uh, the first is a man who will not live|0.45
 until somebody else arrives.|0.7

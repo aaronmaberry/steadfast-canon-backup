@@ -4,7 +4,7 @@ It does me good to see this room full.|0.75
 Uh, some of you walked in already spent.|0.5
 You came anyway.|0.55
 That matters to me.|0.85
-Last time we stayed on knowing her.|0.65
+Last lesson we stayed on knowing her.|0.65
 Uh, really knowing her.|0.5
 Or, if there is no wife yet,|0.45
 on the life you already have,|0.45
@@ -13,7 +13,7 @@ A few of you went home and asked something true.|0.6
 And a few of you reorganized a drawer|0.4
 and called it progress.|ROOM_CHUCKLE
 I have called worse things progress.|0.7
-So. Today it costs.|0.7
+So. This lesson costs.|0.7
 You can learn a woman for a long time|0.5
 and still keep your own life clenched.|0.75
 You can— you can fill a house with good things|0.45
@@ -44,7 +44,7 @@ A lot of us heard a verse aimed at a wife|0.5
 and we got very brave about it.|0.6
 We got quieter|0.35
 when the lines turned and found the husband.|0.75
-That's where we are today.|0.65
+That's where this lesson is.|0.65
 If the leading you prefer still leaves you intact,|0.55
 it isn't His kind.|0.85
 You can't lay a life down|0.45
@@ -55,7 +55,7 @@ I say it the same way every time.|0.6
 A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.|1.35
 # CUT SCREEN: creed board — "A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's." — new angle after
 Uh, you've heard them in this room.|0.6
-Uh, we are not rebuilding them today.|0.65
+Uh, we are not rebuilding them in this lesson.|0.65
 Same four,|0.35
 if you are single,|0.35
 if the marriage ended,|0.4
@@ -578,7 +578,7 @@ The one she would use with her sister,|0.5
 or the one she would have used,|0.5
 or, if there is no wife,|0.4
 the true line from somebody close.|0.7
-What will you lay down daily,|0.5
+What will you lay down as you go,|0.5
 and what will you ask?|0.7
 Put that one thing down on purpose.|0.55
 Don't announce it.|0.45
@@ -589,7 +589,7 @@ Hear her whole answer.|0.6
 Do the first thing she names|0.45
 while you can still say her words back.|0.75
 If you are single,|0.4
-lose a small preference, daily,|0.5
+lose a small preference, again and again,|0.5
 and practice one real need|0.4
 with the people already in your life.|0.75
 Tell a brother, you know, what you are laying down,|0.6

@@ -1,7 +1,7 @@
 # SECTION: Welcome
 [warmly] Hey, men.|0.55
 Good to see you in the room.|0.85
-Last time, you named a thing you'd been putting off.|0.5
+Last lesson, you named a thing you'd been putting off.|0.5
 Some of you moved.|0.45
 Some of you— some of you moved it onto a cleaner list.|0.8
 I know that list.|0.4
@@ -17,18 +17,18 @@ and calling it service.|0.9
 I'm Wes.|0.4
 You already know.|0.35
 I'll skip the long hello.|0.85
-Here's where we're headed today.|0.6
+Here's where this lesson is headed.|0.6
 Stay with me.|0.4
 One sentence|0.35
 gives us four marks for a real man.|0.5
 I mean, I'm not improving on them.|0.75
 A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.|1.3
 # CUT SCREEN: creed board — "A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's." — new angle after
-Last time was that first mark.|0.55
+The last lesson was that first mark.|0.55
 You got on your feet.|0.4
 Uh, I'm glad you did.|0.7
 Standing there is not the same as carrying.|1.35
-Today we stay on the second mark.|0.6
+This lesson stays on the second mark.|0.6
 Picks up the weight.|1.4
 Here's the whole thing, plain.|0.55
 The weight that has your name on it|0.4
@@ -39,7 +39,7 @@ You can explain it.|0.3
 You can wait until it feels fair.|0.65
 And, you know, it still sits there.|0.85
 A hand has to land on it.|1.25
-So the name for today is simple.|0.45
+So the name for this lesson is simple.|0.45
 You pick up the weight.|0.9
 One weight.|0.35
 Your name on it.|0.35
@@ -603,7 +603,7 @@ Ask when the piece would break you.|0.55
 And be, uh, in the room.|0.55
 Money without you|0.3
 is a costly way to vanish.|1.1
-What I hope you walk out with today|0.45
+What I hope you walk out of this lesson with|0.45
 is not a feeling about being a better man.|0.6
 Feelings fade, uh, in the truck.|0.6
 I hope you walk out with one true sentence,|0.4
@@ -623,7 +623,7 @@ If you live alone,|0.3
 ask it this way.|0.4
 Where have you been letting somebody else carry you?|0.85
 And what is one provision that isn't money,|0.4
-one you'll do every day?|0.9
+one you'll keep doing from this lesson on?|0.9
 The page calls it a non-money provision.|0.6
 One.|0.35
 Not ten.|0.7

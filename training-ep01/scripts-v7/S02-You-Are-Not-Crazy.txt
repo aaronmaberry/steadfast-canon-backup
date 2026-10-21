@@ -1,7 +1,7 @@
 # SECTION: Opening
 [warmly] Well. Look who came back.|0.6
 Good to see you.|0.9
-Last time we sat with a quiet Tuesday.|0.5
+Last lesson we sat with a quiet Tuesday.|0.5
 Tuesday is where a man is made,|0.35
 or he settles.|0.8
 We said the four marks out loud.|0.4
@@ -11,7 +11,7 @@ And I sent you out of here to go sit with men.|0.55
 Some of you did.|0.4
 Some of you, uh, sat near men.|0.45
 That counts too.|1.0
-And some of you are in the exact same chair as last time.|0.4
+And some of you are in the exact same chair as the last lesson.|0.4
 Nobody assigned seats in here.|0.4
 Men just do that.|0.35
 Sit somewhere once, and it's yours for life.|ROOM_CHUCKLE
@@ -30,7 +30,7 @@ no, a real man does the opposite.|0.9
 So you stood there.|0.4
 Tuesday in one hand,|0.3
 two sets of orders in the other.|1.1
-That's what we're after today.|0.5
+That's what we're after in this lesson.|0.5
 Not the day.|0.3
 The noise on the day.|1.0
 I want to say the claim first,|0.35
@@ -115,7 +115,7 @@ A boat getting thrown around|0.3
 doesn't mean the boat is crazy.|0.6
 It means there's weather.|0.5
 You with me?|0.9
-Last time we talked about a boy|0.3
+Last lesson we talked about a boy|0.3
 putting his childish ways behind him on purpose.|0.5
 Here Paul comes at it from the other side.|0.45
 Part of growing up|0.3
@@ -506,9 +506,9 @@ So what do you do with a pile.|0.6
 You don't need a taller one.|0.5
 You need one sentence that holds weight|0.35
 on a day when nobody's handing out credit.|0.8
-It's the one we said last time.|0.4
+It's the one we said in the last lesson.|0.4
 You've already got it in your hand,|0.35
-and I'm not gonna unpack it today.|0.5
+and I'm not gonna unpack it here.|0.5
 You'll hear it before you leave.|0.9
 It's simpler than the pile.|0.45
 You can say it without notes.|0.6
@@ -552,8 +552,8 @@ And you can quit carrying the rest.|0.7
 The rest was never yours.|0.5
 Somebody handed it to you,|0.3
 and you were too decent to put it down.|1.2
-Last time I told you to go sit with men.|0.45
-Today I'm asking you to tell them the truth once you sit down.|0.6
+Last lesson I told you to go sit with men.|0.45
+This lesson, I'm asking you to tell them the truth once you sit down.|0.6
 Not the committee.|0.35
 Not the rented man.|0.4
 You.|1.0
