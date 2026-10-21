@@ -1,0 +1,6 @@
+S01 LOCKED audio 2026-10-21 (kickoff re-record) — ElevenLabs Scribe (eleven_scribe_v1) STT check, gen I4wF0ix1GKK94EsZPr5j
+Reference: paywall-audio/transcript-01.txt (spoken text of scripts-v7/S01-A-Quiet-Tuesday.txt, 24-lessons lock)
+Words ref 3845 / STT 3842, sequence ratio 0.9954. Kickoff (sec02): exact match, all 4 new lines present, no old wording.
+Only differences (all STT spelling/normalization, none in kickoff): alright->all right x2, kind of->kinda, lot of->lotta, twenty four->24, sixteen->16, ten->10, belonged->belong (sec unchanged from 2026-10-20 take), putting->pudding, principle->principal, resume, want to->wanna, neighbor's->neighbors, room's->rooms.
+Longest inter-word gap 4.3 s (section-title cut screens, same structure as 2026-10-20). No audio events/glitches flagged. Peak -1.7 dBFS (0 clipped samples). Integrated -16.7 LUFS, LRA 4.6 (identical to previous master). Room tone continuous across joins (-43 dBFS, no dropouts). Duration 1531.32 s (25:31), was 1532.60 s.
+RESULT: PASS

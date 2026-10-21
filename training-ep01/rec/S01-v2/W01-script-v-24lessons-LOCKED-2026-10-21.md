@@ -13,15 +13,15 @@
 ## KICKOFF (new, ~45 sec) — same angle as Opening
 
 So this is night one.
-Here's how the next few months go, and then I'll quit talking about the plan and get to it.
-We meet like this, one session at a time. Twenty-four of them.
+Here's how this goes, and then I'll quit talking about the plan and get to it.
+We meet like this, one lesson at a time. Twenty-four of them.
 Every night's got the same bones. I'll teach for a while. You'll have your Bible open, and a workbook in front of you.
 Then we go to the tables, and you do the part I can't do for you.
-And you leave with one move for the week. One. Not a list.
+And you leave with one move. One. Not a list.
 Next time you walk in, somebody at your table's gonna ask how it went.
 That's the whole system.
 Show up, tell the truth, do the move.
-Tonight we start with an ordinary day. Next week we look at why that's been so hard. After that, the four marks.
+Tonight we start with an ordinary day. Next lesson we look at why that's been so hard. After that, the four marks.
 Okay. Phone face down. Let's go.
 
 ## 1. Opening (cont.)
