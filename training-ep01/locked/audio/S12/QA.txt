@@ -1,0 +1,33 @@
+S12 audio QA 2026-10-20 CT — LOCKED script scripts-v7/S12-A-Man-With-No-Brothers.txt sha256 d7da3d877813d705b921e5a47a3cbd3fdd40e3cae1f4f3722c86214eea3a0910
+S12-A-Man-With-No-Brothers.txt: 3747 words, 12 sections, tags 12, hands 2, chuckles 4, out-of-range sections []
+
+Full-mix chunked medium.en vs script: script words 3694, transcript words 3691, matched 3666 (99.2%)
+lines <60% matched: 1
+inserted/replaced transcript runs >=4: []
+marker "cut screen": 0
+marker "section title": 0
+marker "room hands": 0
+marker "room chuckle": 0
+marker "creed board": 0
+marker "new angle": 0
+marker "full screen": 0
+marker "warmly": 0
+marker "key line": 0
+
+Re-check of every flagged line by targeted re-transcription of its window:
+OK  1.00 [0-6s] Come on and settle in.
+ALL FLAGGED LINES OK
+
+Creed full sentence in script: 2x; spoken word for word in transcript: 2x (exact apostrophes 0x)
+banned "lewis": 0
+banned "rejects passivity": 0
+banned "reject passivity": 0
+banned "accepts responsibility": 0
+banned "accept responsibility": 0
+banned "leads courageously": 0
+banned "lead courageously": 0
+banned "greater reward": 0
+I:         -16.9 LUFS
+    Threshold: -28.1 LUFS
+Runtime 24:13 (1453.1 s), 12 sections
+QA RESULT: PASS (creed_ok=True, markers/banned ok=True, missing lines=0)
