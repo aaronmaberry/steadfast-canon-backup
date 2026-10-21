@@ -1,0 +1,34 @@
+S08 audio QA 2026-10-20 CT — LOCKED script scripts-v7/S08-The-Empty-Chair.txt sha256 98eecf8e9c331f22a0d665f5b9bf9758d404792ec4e951aff6557a8ef3f0f9b6
+S08-The-Empty-Chair.txt: 3741 words, 11 sections, tags 11, hands 1, chuckles 4, out-of-range sections []
+
+Full-mix chunked medium.en vs script: script words 3701, transcript words 3680, matched 3669 (99.1%)
+lines <60% matched: 2
+inserted/replaced transcript runs >=4: []
+marker "cut screen": 0
+marker "section title": 0
+marker "room hands": 0
+marker "room chuckle": 0
+marker "creed board": 0
+marker "new angle": 0
+marker "full screen": 0
+marker "warmly": 0
+marker "key line": 0
+
+Re-check of every flagged line by targeted re-transcription of its window:
+OK  1.00 [178-185s] and never once move him.
+OK  1.00 [595-600s] the setup,
+ALL FLAGGED LINES OK
+
+Creed full sentence in script: 2x; spoken word for word in transcript: 2x (exact apostrophes 0x)
+banned "lewis": 0
+banned "rejects passivity": 0
+banned "reject passivity": 0
+banned "accepts responsibility": 0
+banned "accept responsibility": 0
+banned "leads courageously": 0
+banned "lead courageously": 0
+banned "greater reward": 0
+I:         -17.1 LUFS
+    Threshold: -28.3 LUFS
+Runtime 23:55 (1435.1 s), 11 sections
+QA RESULT: PASS (creed_ok=True, markers/banned ok=True, missing lines=0)
