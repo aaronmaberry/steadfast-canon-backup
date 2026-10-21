@@ -36,7 +36,7 @@ The fourth mark of a man is that he expects the greater reward, God's reward. It
 
 [Slide. The four marks]
 
-A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
 Write it down. Today's weight is on the fourth mark. Expects the greater reward, God's reward.
 
@@ -266,7 +266,7 @@ The four marks, once more.
 
 [Slide. The four marks]
 
-A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
 Session eight, The Empty Chair, next week.
 

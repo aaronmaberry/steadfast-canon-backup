@@ -37,7 +37,7 @@ And then another man. He can tell you the first morning the wrens came back last
 
 [Slide. The four marks]
 
-A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
 Write it down. Today the marks land hard on the single man who hovers instead of asking, and on the husband who stopped studying. Reject passivity that will not unpack the box or ask the question. Accept responsibility for a house and for knowledge. Lead by going clearly. Expect God's reward over the near comfort of staying half awake in your own life.
 
@@ -279,7 +279,7 @@ The four marks, once more.
 
 [Slide. The four marks]
 
-A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
 Session nineteen next week doubles. Lay It Down, and What She Actually Needs.
 

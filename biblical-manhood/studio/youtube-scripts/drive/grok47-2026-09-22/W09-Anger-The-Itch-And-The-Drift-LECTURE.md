@@ -42,7 +42,7 @@ The chair at the end of the table never stays empty. Pain does not sit still in 
 
 [Slide. The four marks]
 
-A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
 Write it down. Today the marks confront the exits. Passivity often looks like drift. Courage often looks like ninety seconds and a true sentence. Responsibility looks like telling the truth about the numbers instead of slamming the dishwasher.
 
@@ -288,7 +288,7 @@ The four marks, once more.
 
 [Slide. The four marks]
 
-A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
 Session ten, The Father Who Does Not Leave, next week.
 

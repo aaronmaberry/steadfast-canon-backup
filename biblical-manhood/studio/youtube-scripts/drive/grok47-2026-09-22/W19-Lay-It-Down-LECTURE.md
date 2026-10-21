@@ -35,7 +35,7 @@ And Dale stood in a mudroom with a boot in his hand. He heard Renee on the phone
 
 [Slide. The four marks]
 
-A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
 Write it down. Today the marks confront the man who wants Ephesians five authority without Ephesians five cross. They confront the man who disappears into provision and calls it love. Reject passivity that abdicates and calls it laying down. Accept responsibility that stays in the room. Lead from the towel. Expect God's reward over the scoreboard that claps at work.
 
@@ -293,7 +293,7 @@ The four marks, once more.
 
 [Slide. The four marks]
 
-A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
 Session twenty next week. The Bed Is a Covenant.
 

@@ -42,7 +42,7 @@ The third mark of a man is that he leads courageously. Most men hear leadership 
 
 [Slide. The four marks]
 
-A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
 Write it down. Today's weight is on the third mark. Leads courageously.
 
@@ -299,7 +299,7 @@ The four marks, once more.
 
 [Slide. The four marks]
 
-A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
 Session seven, Live for a Reward That Lasts, next week.
 

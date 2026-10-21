@@ -32,7 +32,7 @@ You have a face that works in the foyer. It asks about the sermon. It finds the 
 
 [Slide. The four marks]
 
-A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
 Write it down. Today the marks confront the shapes that invert them while the foyer still claps. Reject passivity that stays on the roof. Accept responsibility that ends at the period. Lead out of the trees. Quit living for the next hour as your reward.
 
@@ -262,7 +262,7 @@ The four marks, once more.
 
 [Slide. The four marks]
 
-A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
 Session fifteen next week. No North Star.
 

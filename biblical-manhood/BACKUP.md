@@ -31,6 +31,12 @@ Targets:
 - GitHub (private mirror): `aaronmaberry/steadfast-canon-backup`, branch `main`. NEVER the public `aaronmaberry/steadfast`.
 - Drive: `My Drive/Steadfast Men/Backups`, folder id `1IO1LcXoeTK3PuuuGGOK4LgM560U9qMpM`. File name: `steadfast-canon-YYYY-MM-DD.tgz` (lean pack only, about 6MB, no media).
 
+Extra training paths (Aaron approved 2026-10-20), in the snapshot, lean pack, manifest and changed/removed lists, at repo root (outside `biblical-manhood/`):
+- `/workspace/training-ep01/locked/` -> `training-ep01/locked/`
+- `/workspace/training-ep01/scripts-v7/` -> `training-ep01/scripts-v7/`
+- `/workspace/training-ep01/rec/S01-v2/W01-script-v-kickoff-2026-10-20.md` -> `training-ep01/rec/S01-v2/W01-script-v-kickoff-2026-10-20.md` (Session 1 canonical marked-up source)
+Text only (.md .txt .py .sh .log .json .csv .yml .yaml .toml .vtt .srt); `*.bak-*`, media, docx/pdf skipped; same exclusions, secret scan/quarantine and redaction. Origin step: also overwrite `training-ep01/` from the pack. Test build: `STEADFAST_BACKUP_DEST=/tmp/x python3 tools/backup_daily.py build` (local only).
+
 Script: `tools/backup_daily.sh` runs `tools/backup_daily.py build`, then `prune --keep-days 3`.
 - `build` writes the snapshot, the lean tgz, `<date>-lean-manifest.json` (sha256 per file), `<date>-changed.txt` and `<date>-removed.txt` (diff against the previous manifest), and `MANIFEST.txt`.
 - The lean pack is sanitized:

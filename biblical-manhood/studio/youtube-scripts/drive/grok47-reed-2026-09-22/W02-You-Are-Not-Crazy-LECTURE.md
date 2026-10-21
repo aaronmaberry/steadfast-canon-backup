@@ -42,7 +42,7 @@ Here is the course in one sentence. You will hear it every session, word for wor
 
 [Slide. The four marks]
 
-A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
 Write it down. Four marks. Rejects passivity. Accepts responsibility. Leads courageously. Expects the greater reward, God's reward. Next week we take that sentence apart mark by mark. This week we deal with the noise that makes the sentence hard to hear. A lot of you heard it last week. By Wednesday the manuals were louder than the marks.
 
@@ -242,7 +242,7 @@ The four marks, once more, and then you are dismissed.
 
 [Slide. The four marks]
 
-A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
 Session three, The Four Marks, next week.
 

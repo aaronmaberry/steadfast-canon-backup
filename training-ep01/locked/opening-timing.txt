@@ -1,0 +1,52 @@
+[warmly] Alright.|0.5
+Hey. I'm glad you came.|0.9
+Uh, go ahead and look around for a second.|1.0
+Some of you have been in rooms like this for years.|0.4
+Same folding chairs.|0.3
+Same kind of quiet right before somebody starts talking.|0.5
+You could, you could probably run this thing yourself, right?|0.6
+Glad you're back.|1.1
+Some of you, this is your first time through that door.|0.5
+You grabbed a chair near the back,|0.3
+and you're still deciding if that was a mistake.|0.5
+It wasn't.|1.0
+And a couple of you got dragged here.|0.4
+A buddy said, come with me,|0.3
+and you said, honestly, I don't know what you said.|0.4
+But you came.|0.35
+That counts.|1.0
+A few of you came straight from work.|0.3
+Boots still on.|0.4
+And, I mean, if you'd gone home first,|0.3
+you weren't coming back out.|0.7
+So. You're here.|1.1
+Here's what I want you to hear up front.|0.45
+Every man in this room belongs in the chair he's in.|1.2
+If you're young, and you're still waiting for somebody to tell you you're a man,|0.4
+you're on time.|0.7
+If you're married with little kids climbing all over you,|0.3
+you're on time.|0.6
+Divorced, still a dad, the house got real quiet,|0.35
+or you figured, you know, this was for a younger guy,|0.45
+you're on time.|0.8
+Nobody in here is a guest.|0.4
+I mean that.|1.3
+My name's Wes. Wes Hart.|0.7
+I'm a husband, I'm a dad, I work for a living,|0.35
+and I've sat in, uh, a lot of rooms like this one.|0.45
+Usually in the back.|1.1
+This is Steadfast Men.|0.5
+You'll figure out the name.|1.2
+Before we get into it, let me see a show of hands.|0.5
+How many of you told somebody you were just coming to, uh, check it out?|0.7
+Go on. Nobody's writing it down.|ROOM_HANDS
+Yeah. That's about what I figured.|0.45
+A whole room full of guys just checking it out.|0.5
+With a name tag on.|ROOM_CHUCKLE
+That's alright. I checked it out too, once.|0.45
+I'm still here.|1.2
+Look, a man who can laugh in a room like this|0.3
+can usually tell the truth in one.|0.6
+And we're gonna need both.|1.3
+So here's the thing I wish somebody had told me, plain, a long time ago.|1.0
+A man's life gets decided on the days nobody photographs.|2.0

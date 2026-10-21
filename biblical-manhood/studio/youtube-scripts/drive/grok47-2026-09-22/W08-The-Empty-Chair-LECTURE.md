@@ -38,7 +38,7 @@ This stretch of the course sorts what you inherited from what is yours. The four
 
 [Slide. The four marks]
 
-A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
 Write it down. Today the marks land on inheritance and ownership. Inherited, and still yours.
 
@@ -282,7 +282,7 @@ The four marks, once more.
 
 [Slide. The four marks]
 
-A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
 Session nine next week. Anger, the Itch, and the Drift.
 

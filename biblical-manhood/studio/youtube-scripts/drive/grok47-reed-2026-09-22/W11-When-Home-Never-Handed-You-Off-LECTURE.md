@@ -37,7 +37,7 @@ Most men could not. They crossed from boy to man the way a river crosses a count
 
 [Slide. The four marks]
 
-A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
 Write it down. Today the marks confront orbit and slam. Reject passivity that keeps your hand on the knob. Accept responsibility for the honor you still owe. Lead up the walk. Quit waiting on a father's apology as your reward.
 
@@ -273,7 +273,7 @@ The four marks, once more.
 
 [Slide. The four marks]
 
-A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
 Session twelve next week doubles again. A Man with No Brothers, and Ask the Man.
 

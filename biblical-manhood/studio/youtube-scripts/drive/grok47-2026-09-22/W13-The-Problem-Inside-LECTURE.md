@@ -34,7 +34,7 @@ The problem is you, and me, and every man who has ever lived. Scripture has a pl
 
 [Slide. The four marks]
 
-A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
 Write it down. All four start here, with a man who quits painting and says the word. Reject passivity that will not name what is yours. Accept responsibility for what walked through the door. Lead into confession instead of Adam's excuse. Expect God's reward instead of a life spent blaming the inheritance.
 
@@ -260,7 +260,7 @@ The four marks, once more.
 
 [Slide. The four marks]
 
-A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
 Session fourteen next week. How That Looks on a Man.
 

@@ -35,7 +35,7 @@ And then a man stands in the strip of dirt along the garage after the kids are i
 
 [Slide. The four marks]
 
-A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
 Write it down. Today the marks stop being a list of qualities and become a portrait. Reject passivity is Rise, let us go. Accept responsibility is not as I will. Lead courageously is went out. Expect God's reward is for the joy set before Him. The marks are Jesus in the worst hour of His life.
 
@@ -271,7 +271,7 @@ The four marks, once more.
 
 [Slide. The four marks]
 
-A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
 Session seventeen next week. Destiny Is Not a Vibe.
 

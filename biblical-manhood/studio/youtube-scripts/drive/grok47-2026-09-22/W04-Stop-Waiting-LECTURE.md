@@ -40,7 +40,7 @@ I need that picture stuck behind your eyes before we state the claim. The man on
 
 [Slide. The four marks]
 
-A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
 Write it down. Today's weight is on the first mark. Rejects passivity. Stop waiting is what that mark sounds like when the drill is still hanging in the garage.
 
@@ -287,7 +287,7 @@ The four marks, once more.
 
 [Slide. The four marks]
 
-A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
 Session five, Pick Up the Weight, next week.
 

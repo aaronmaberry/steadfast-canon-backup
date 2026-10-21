@@ -60,6 +60,20 @@ SECRET_RX = re.compile(
     r"|AKIA[0-9A-Z]{16}|xox[abp]-[0-9A-Za-z-]{10,}|AIza[0-9A-Za-z_-]{35}|-----BEGIN [A-Z ]*PRIVATE KEY-----")
 SCAN_ALLOW = {"tools/backup_daily.py"}  # contains the patterns themselves
 DATE_RE = re.compile(r"(\d{4}-\d{2}-\d{2})")
+# Extra source trees (Aaron approved 2026-10-20): locked Steadfast training scripts.
+# (source dir, repo/archive path). Text files only; *.bak-* skipped; same exclusions, secret scan and redaction.
+EXTRA_SRCS = [("/workspace/training-ep01/locked", "training-ep01/locked"),
+              ("/workspace/training-ep01/scripts-v7", "training-ep01/scripts-v7")]
+# Single extra files (source path, repo path)
+EXTRA_FILES = [("/workspace/training-ep01/rec/S01-v2/W01-script-v-kickoff-2026-10-20.md",
+                "training-ep01/rec/S01-v2/W01-script-v-kickoff-2026-10-20.md")]
+# Locked lecture audio (Aaron 2026-10-20): copied into the local snapshot despite the audio exclusions,
+# hashed into <date>-audio-manifest.json, changes listed in <date>-audio-changed.txt. Text files there
+# (README.md etc.) also go in the lean pack. Binaries (mp3/wav) never go in the lean pack: push them to
+# GitHub with git (LFS for files >50MB), not push_files.
+AUDIO_SRCS = [("/workspace/training-ep01/locked/audio", "training-ep01/locked/audio")]
+AUDIO_EXT = {".mp3", ".wav"}
+EXTRA_EXT = {".md", ".txt", ".py", ".sh", ".log", ".json", ".csv", ".yml", ".yaml", ".toml", ".vtt", ".srt"}
 
 
 def today_ct():
@@ -103,12 +117,17 @@ def redact_bytes(rel, data):
 
 
 def build(date):
+    global DEST
+    if os.environ.get("STEADFAST_BACKUP_DEST"):  # testing only: build into another dir
+        DEST = os.environ["STEADFAST_BACKUP_DEST"]
+        os.makedirs(DEST, exist_ok=True)
     snap = os.path.join(DEST, date)
     tmp = snap + ".building"
     shutil.rmtree(tmp, ignore_errors=True)
     os.makedirs(os.path.join(tmp, "biblical-manhood"))
-    files = skipped = total = 0
-    lean = []
+    files = skipped = total = extra_files = 0
+    lean = []   # archive keys ("biblical-manhood/x", "training-ep01/locked/y")
+    srcmap = {}  # archive key -> source path
     quarantined = []
     for root, dirs, fnames in os.walk(SRC):
         relroot = os.path.relpath(root, SRC)
@@ -136,23 +155,87 @@ def build(date):
             files += 1
             total += size
             if lean_ok(rel, size):
-                lean.append(rel)
+                lean.append("biblical-manhood/" + rel)
+                srcmap["biblical-manhood/" + rel] = p
+    walks = [(s_, d_, os.walk(s_)) for s_, d_ in EXTRA_SRCS if os.path.isdir(s_)]
+    walks += [(os.path.dirname(fs_), os.path.dirname(fd_), [(os.path.dirname(fs_), [], [os.path.basename(fs_)])])
+              for fs_, fd_ in EXTRA_FILES if os.path.isfile(fs_)]
+    for esrc, eprefix, walker in walks:
+        for root, dirs, fnames in walker:
+            dirs[:] = sorted(d for d in dirs if d not in EXCL_DIRS)
+            for f in sorted(fnames):
+                p = os.path.join(root, f)
+                if os.path.islink(p) or not os.path.isfile(p):
+                    continue
+                key = eprefix + "/" + os.path.relpath(p, esrc)
+                size = os.path.getsize(p)
+                if (".bak-" in f.lower() or os.path.splitext(f)[1].lower() not in EXTRA_EXT
+                        or excluded(key, size) or not lean_ok(key, size)):
+                    skipped += 1
+                    continue
+                try:
+                    if SECRET_RX.search(open(p, encoding="utf-8", errors="ignore").read()):
+                        quarantined.append(key)
+                        continue
+                except OSError:
+                    pass
+                out = os.path.join(tmp, key)
+                os.makedirs(os.path.dirname(out), exist_ok=True)
+                shutil.copy2(p, out)
+                files += 1; extra_files += 1
+                total += size
+                lean.append(key)
+                srcmap[key] = p
+    audio_manifest = {}
+    for asrc, aprefix in AUDIO_SRCS:
+        for root, dirs, fnames in os.walk(asrc):
+            dirs.sort()
+            for f in sorted(fnames):
+                p = os.path.join(root, f)
+                if os.path.islink(p) or not os.path.isfile(p) or ".bak-" in f.lower():
+                    continue
+                key = aprefix + "/" + os.path.relpath(p, asrc)
+                ext = os.path.splitext(f)[1].lower()
+                size = os.path.getsize(p)
+                if ext in AUDIO_EXT:
+                    out = os.path.join(tmp, key)
+                    os.makedirs(os.path.dirname(out), exist_ok=True)
+                    shutil.copy2(p, out)
+                    h = hashlib.sha256()
+                    with open(p, "rb") as fh:
+                        for chunk in iter(lambda: fh.read(1 << 20), b""):
+                            h.update(chunk)
+                    audio_manifest[key] = {"sha256": h.hexdigest(), "bytes": size}
+                    files += 1; total += size
+                elif ext in EXTRA_EXT and lean_ok(key, size):
+                    out = os.path.join(tmp, key)
+                    os.makedirs(os.path.dirname(out), exist_ok=True)
+                    shutil.copy2(p, out)
+                    files += 1; extra_files += 1; total += size
+                    lean.append(key); srcmap[key] = p
+    amf = os.path.join(DEST, f"{date}-audio-manifest.json")
+    json.dump(audio_manifest, open(amf, "w"), indent=0, sort_keys=True)
+    aprev = sorted(f for f in os.listdir(DEST) if f.endswith("-audio-manifest.json") and f < f"{date}-")
+    aold = json.load(open(os.path.join(DEST, aprev[-1]))) if aprev else {}
+    audio_changed = [k for k, v in audio_manifest.items() if aold.get(k) != v]
+    with open(os.path.join(DEST, f"{date}-audio-changed.txt"), "w") as fh:
+        fh.write("\n".join(audio_changed) + ("\n" if audio_changed else ""))
     # lean pack: sanitized
     manifest = {}
     redactions = 0
     lean_tgz = os.path.join(DEST, f"{date}-md-only.tgz")
     with tarfile.open(lean_tgz + ".tmp", "w:gz") as tf:
         for rel in lean:
-            p = os.path.join(tmp, "biblical-manhood", rel)
+            p = os.path.join(tmp, rel)
             data = open(p, "rb").read()
             data, n = redact_bytes(rel, data)
             redactions += n
             if n:  # keep the snapshot copy sanitized too
                 open(p, "wb").write(data)
-            manifest["biblical-manhood/" + rel] = hashlib.sha256(data).hexdigest()
-            ti = tarfile.TarInfo("biblical-manhood/" + rel)
+            manifest[rel] = hashlib.sha256(data).hexdigest()
+            ti = tarfile.TarInfo(rel)
             ti.size = len(data)
-            ti.mtime = int(os.path.getmtime(os.path.join(SRC, rel)))
+            ti.mtime = int(os.path.getmtime(srcmap[rel]))
             ti.mode = 0o644
             tf.addfile(ti, io.BytesIO(data))
     os.replace(lean_tgz + ".tmp", lean_tgz)
@@ -176,7 +259,7 @@ def build(date):
         fh.write("\n".join(removed) + ("\n" if removed else ""))
     with open(os.path.join(tmp, "MANIFEST.txt"), "w") as fh:
         fh.write(f"Steadfast daily backup {date}\nBuilt: {dt.datetime.now().astimezone().isoformat(timespec='seconds')}\n"
-                 f"Source: {SRC}\nFiles: {files}  Size: {total/1e6:.0f}MB  Skipped: {skipped}\n"
+                 f"Source: {SRC} + " + ", ".join(f"{s} -> {d}/" for s, d in EXTRA_SRCS) + f" ({extra_files} training files)\nFiles: {files}  Size: {total/1e6:.0f}MB  Skipped: {skipped}\n"
                  f"Lean pack: {os.path.basename(lean_tgz)} ({len(lean)} files, {os.path.getsize(lean_tgz)/1e6:.1f}MB, {redactions} redactions)\n"
                  f"Changed since previous: {len(changed)}  Removed: {len(removed)}\n"
                  f"Origin: {ORIGIN_REPO} (private)  GitHub: {GITHUB_REPO} (private)  Drive folder: {DRIVE_BACKUPS_FOLDER}\n"
@@ -189,7 +272,8 @@ def build(date):
     print(json.dumps({"date": date, "snapshot": snap, "files": files, "bytes": total, "skipped": skipped,
                       "lean_tgz": lean_tgz, "lean_files": len(lean), "lean_bytes": os.path.getsize(lean_tgz),
                       "drive_upload": os.path.join(DEST, f"steadfast-canon-{date}.tgz"),
-                      "changed": len(changed), "removed": len(removed), "redactions": redactions, "quarantined": quarantined}, indent=1))
+                      "training_files": extra_files, "audio_files": len(audio_manifest), "audio_changed": len(audio_changed),
+                      "audio_changed_list": os.path.join(DEST, f"{date}-audio-changed.txt"), "changed": len(changed), "removed": len(removed), "redactions": redactions, "quarantined": quarantined}, indent=1))
 
 
 def cutoff(date, keep):

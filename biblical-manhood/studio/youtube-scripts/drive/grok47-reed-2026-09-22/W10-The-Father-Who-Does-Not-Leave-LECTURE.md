@@ -36,7 +36,7 @@ This chapter is about a Father you can stop looking for. He is in the line befor
 
 [Slide. The four marks]
 
-A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
 Write it down. Today the fourth mark and the whole course hang on whether the Father you are working for is the original or a poisoned copy of your dad.
 
@@ -320,7 +320,7 @@ The four marks, once more.
 
 [Slide. The four marks]
 
-A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
 Session eleven next week doubles two chapters. When Home Never Handed You Off, and Leave Without Slamming the Door.
 

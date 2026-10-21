@@ -32,7 +32,7 @@ He keeps a two-foot level on the dryer. When he hangs a shelf in the laundry roo
 
 [Slide. The four marks]
 
-A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
 Write it down. Today the marks confront drift dressed as a reasonable way to go. Reject passivity that will not open the Word. Accept responsibility for a fixed point. Lead your house by a lamp for the next step. Quit steering by success as your reward.
 
@@ -264,7 +264,7 @@ The four marks, once more.
 
 [Slide. The four marks]
 
-A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
 Session sixteen next week doubles. Before the Fall, and Two Men, Two Ways.
 

@@ -42,7 +42,7 @@ Here is the course sentence. You know it. Today you learn why it holds.
 
 [Slide. The four marks]
 
-A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
 Write it down again. Slower this time. Four marks. Not four moods. Not four qualities you either have or do not. Four things a man does. Over time they leave four things you can see on him, the way you can see the grooves on that bench. I did not invent this sentence. Men have been handing it to one another for years because it holds. I have held it up against my own life. I have held it up against the lives of men in every season I can name. I have never found a place where it lies.
 
@@ -248,7 +248,7 @@ The four marks, once more, and then you are dismissed.
 
 [Slide. The four marks]
 
-A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
 The men I have watched change did not change all at once. They worked one mark on one ordinary day, then did it again.
 

@@ -32,7 +32,7 @@ Mitch sat in my office and said the thing husbands say when the bed has gone qui
 
 [Slide. The four marks]
 
-A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
 Write it down. Today the marks show up in the dark. Reject passivity that will not talk gently about the bed. Accept responsibility for eyes and screen and hurry and scoreboard. Lead by putting the ledger down. Expect God's reward over novelty and secrecy. He owns what his eyes do. He trusts the Father who sees what is done in secret and keeps every faithful night on the books.
 
@@ -268,7 +268,7 @@ The four marks, once more.
 
 [Slide. The four marks]
 
-A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
 Session twenty one next week. Your Daughter Is Watching.
 

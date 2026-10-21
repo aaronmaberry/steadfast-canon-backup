@@ -33,7 +33,7 @@ Lyle was eleven, or maybe twelve, the fall morning the kitchen tap coughed air a
 
 [Slide. The four marks]
 
-A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
 Write it down. Today the marks land on the step. Reject passivity that climbs the hill for him because it is faster. Accept responsibility for picking a hill that is real and slightly beyond him. Lead by staying put when every instinct says rescue. Expect God's reward over the cheap peace of a boy who never struggles.
 
@@ -303,7 +303,7 @@ The four marks, once more.
 
 [Slide. The four marks]
 
-A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.
+A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
 Session twenty four next week. Give Your Son a Day. Series close.
 
