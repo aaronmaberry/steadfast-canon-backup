@@ -17,7 +17,7 @@ Internal for Jarvis / 8am ping. Do not dump pages to Aaron at 7am.
 
 ## Day Sep 25 deltas (not overnight work; for 8am context)
 
-- Stripe on `aaron.maberry@gmail.com`: SMS two-step live to Aaron's cell; account switched from personal to **Steadfast Men, LLC** (EIN `42-5228387`; business address `[redacted]`, same as Mercury). Stripe business review expected ~2–3 days.
+- Stripe on `aaron.maberry@gmail.com`: SMS two-step live to Aaron's cell; account switched from personal to **Steadfast Men, LLC** (EIN `42-5228387`; business address `3009 Scout Pony Dr, Leander, TX 78641`, same as Mercury). Stripe business review expected ~2–3 days.
 - Mercury payout bank add scheduled Sunday 2026-09-27 9:50am CT (routine `stripe-add-mercury-payout-bank`). No funding / No Fund.
 - Grok Build queued to wire Payment Links `$14` / `$79` / `$89` into walksteadfast.com site + iOS/Android apps (code only; no App Store / Play submit). Checkout stays test / unarmed until Aaron signs live pages and Stripe clears.
 - No overnight Stripe/Mercury mail in Gmail as of ~6:54am CT Sat.

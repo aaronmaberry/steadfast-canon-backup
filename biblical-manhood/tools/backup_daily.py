@@ -65,13 +65,14 @@ DATE_RE = re.compile(r"(\d{4}-\d{2}-\d{2})")
 EXTRA_SRCS = [("/workspace/training-ep01/locked", "training-ep01/locked"),
               ("/workspace/training-ep01/scripts-v7", "training-ep01/scripts-v7")]
 # Single extra files (source path, repo path)
-EXTRA_FILES = [("/workspace/training-ep01/rec/S01-v2/W01-script-v-kickoff-2026-10-20.md",
-                "training-ep01/rec/S01-v2/W01-script-v-kickoff-2026-10-20.md")]
+EXTRA_FILES = [("/workspace/training-ep01/rec/S01-v2/W01-script-v-24lessons-LOCKED-2026-10-21b.md",
+                "training-ep01/rec/S01-v2/W01-script-v-24lessons-LOCKED-2026-10-21b.md")]  # 2026-10-21 lock (replaces kickoff-2026-10-20)
 # Locked lecture audio (Aaron 2026-10-20): copied into the local snapshot despite the audio exclusions,
 # hashed into <date>-audio-manifest.json, changes listed in <date>-audio-changed.txt. Text files there
 # (README.md etc.) also go in the lean pack. Binaries (mp3/wav) never go in the lean pack: push them to
 # GitHub with git (LFS for files >50MB), not push_files.
-AUDIO_SRCS = [("/workspace/training-ep01/locked/audio", "training-ep01/locked/audio")]
+AUDIO_SRCS = [("/workspace/training-ep01/locked/audio", "training-ep01/locked/audio"),
+              ("/workspace/steadfast-main/training-locked/audio", "steadfast-main/training-locked/audio")]  # S01 LOCKED mp3 (+ dated 2026-10-21 copy)
 AUDIO_EXT = {".mp3", ".wav"}
 EXTRA_EXT = {".md", ".txt", ".py", ".sh", ".log", ".json", ".csv", ".yml", ".yaml", ".toml", ".vtt", ".srt"}
 

@@ -1,3 +1,18 @@
+2026-10-21 ~7:15 AM CT — daily 3-target backup OK.
+- Local: /workspace/backups/steadfast-canon/2026-10-21 (2.3GB, 3629 files incl. 93 lesson audio files ~1.3GB under training-ep01/locked/audio/); lean 2688 files / 9.6MB; changed=185 removed=5 quarantined=0. Pruned items before 2026-10-18 (7 items, freed 1.12GB).
+- Origin: aaron-maberry/tmp-1571ddf978c2e3c0 main SHA 2464d754aafa150396a3daa051e4884f6a957b68 (bc-0348ff57; 63 added, 123 modified, 5 deleted; sha256-verified vs pack, 2688 files 0 mismatched). Prior 5139f988.
+- GitHub PRIVATE aaronmaberry/steadfast-canon-backup main SHA b5298e0c760bff231ea71088b88b84433e0b0981 (box git push via gh auth, shallow clone in /tmp then removed; 17 A / 46 M / 5 D from sanitized lean pack; remaining changed paths already matched HEAD). Prior dd6600a2 (remote had moved past 6e311482 since 10-20 log). Public aaronmaberry/steadfast untouched.
+- Drive: steadfast-canon-2026-10-21.tgz id 1ah5DwCR6WdFaPFJm2kz-7GMZLm-MdI8R in Steadfast Men/Backups 1IO1LcXoeTK3PuuuGGOK4LgM560U9qMpM. Trashed (not deleted) expired steadfast-canon-2026-10-17.tgz per expired helper. Live: 10-18, 10-19, 10-20, 10-21.
+- Audio: 93 lesson audio files (mp3/wav, 6 masters >100MB) are new in the local snapshot only. Not pushed to Origin/GitHub/Drive: routine says no media in backups; GitHub would need LFS for the >100MB wavs. Left for Aaron/Jarvis decision.
+- Notion Desk Steadfast Men: status line 2026-10-21. Quiet — all three destinations OK.
+
+2026-10-20 ~7:15 AM CT — daily 3-target backup OK.
+- Local: /workspace/backups/steadfast-canon/2026-10-20 (1.09GB, 3477 files); lean 2630 files / 9.8MB; changed=141 removed=0 redactions=10 quarantined=0. Pruned 2026-10-16 (cutoff 2026-10-17; freed 1.12GB). Most of today's changes are new podcast script files under studio/podcast-show/scripts/ (pilot + v2).
+- Origin: aaron-maberry/tmp-1571ddf978c2e3c0 main SHA 5139f988896a78f35ad546b5e24562269b71f8f9 (bc-643ac4ce; 140 added, 1 modified, 0 deleted; sha256-verified vs pack). Prior 51c259d8.
+- GitHub PRIVATE aaronmaberry/steadfast-canon-backup main SHA 6e31148221472711974cce634199ce9473fc11c6 (box git push via gh auth, shallow clone in /tmp then removed; 140 A / 1 M from sanitized lean pack; 141 files / 0.58MB was under the 150-file threshold but used existing box git auth instead of 3 push_files batches). Prior d162e15d. Public aaronmaberry/steadfast untouched.
+- Drive: steadfast-canon-2026-10-20.tgz id 1YX4IWT9oJzSs_2VBNnT1JkmlP91HKc3N in Steadfast Men/Backups 1IO1LcXoeTK3PuuuGGOK4LgM560U9qMpM. Trashed (not deleted) expired steadfast-canon-2026-10-16.tgz and steadfast-canon-2026-10-16-pm.tgz per expired helper. Live: 10-17, 10-18, 10-19, 10-20.
+- Notion Desk Steadfast Men: status line 2026-10-20. Quiet — all three destinations OK.
+
 2026-10-19 ~7:05 AM CT — daily 3-target backup OK.
 - Local: /workspace/backups/steadfast-canon/2026-10-19 (1.09GB, 3337 files); lean 2490 files / 9.6MB; changed=3 removed=0 redactions=10 quarantined=0. Pruned 2026-10-15 (cutoff 2026-10-16; freed 1.10GB).
 - Origin: aaron-maberry/tmp-1571ddf978c2e3c0 main SHA 51c259d82931f4bfa7fd67ddf514eb46afb5c926 (bc-a9988497; 3 changed files from sanitized pack). Prior 3057119b.
