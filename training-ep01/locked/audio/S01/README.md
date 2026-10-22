@@ -14,3 +14,6 @@
 | `S01-A-Quiet-Tuesday-master.wav` | full session master, 16-bit 44.1 kHz mono (Git LFS) |
 | `sections/S01-secNN-<title>.mp3` | per-section mixes, 192 kbps |
 | `gen.log`, `QA.txt` | generation ids/credits, QA result |
+
+## Timeframe cleanup re-splice 2026-10-22 CT (Aaron approved)
+Paragraphs re-recorded whole (Wes Hart - Option D, eleven_v4, ElevenLabs flow dZjjskDzdN4tAGVzeyMY) and spliced at paragraph-boundary pauses in sections 02, 08, 09, 14; full lesson remixed with locked mix.sh. Each splice checked with faster-whisper medium.en against the new wording. New runtime 27:48.

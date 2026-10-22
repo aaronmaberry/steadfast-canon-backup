@@ -17,3 +17,6 @@ Recording of the **LOCKED** script (not a review).
 | `gen.log`, `QA.txt` | generation ids/credits, QA result |
 | `../web/lesson-02.mp3` | streaming copy (site drop-in: private/lessons/lesson-02.mp3), 96 kbps CBR 44.1 kHz mono (same format as live Lesson 1 audio) |
 | `/workspace/artifacts/S02-You-Are-Not-Crazy-locked.mp3` (repo: `artifacts/`) | 96 kbps share copy |
+
+## Timeframe cleanup re-splice 2026-10-22 CT (Aaron approved)
+Paragraphs re-recorded whole (Wes Hart - Option D, eleven_v4, ElevenLabs flow dZjjskDzdN4tAGVzeyMY) and spliced at paragraph-boundary pauses in sections 01, 03, 11, 12; full lesson remixed with locked mix.sh. Each splice checked with faster-whisper medium.en against the new wording. New runtime 24:42.
