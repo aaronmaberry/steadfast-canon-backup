@@ -217,7 +217,7 @@ The loud story around us|0.45
 calls this a hobby.|0.6
 Two adults.|0.35
 A free evening.|0.4
-No tomorrow owed.|0.6
+No promise owed.|0.6
 Then everybody goes home.|0.65
 Some of us learned the other story|0.5
 in a church voice,|0.45

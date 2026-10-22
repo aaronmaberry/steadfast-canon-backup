@@ -57,29 +57,37 @@ The four marks are renamed (Stop Waiting / Pick Up the Weight / Go First / Work 
 
 ## TIMEFRAME PASS — 2026-10-21 (timeframe pass approved by Aaron)
 Rule: scripts reference LESSONS only; no completion timelines or cadence talk. Applied all 139 entries of timeframe-audit-2026-10-21.md (flagged words only; story lines untouched). Lesson 1 canonical is now rec/S01-v2/W01-script-v-24lessons-LOCKED-2026-10-21b.md (supersedes ...-2026-10-21.md, deleted). S01 audio (S01-A-Quiet-Tuesday-LOCKED.mp3 and all prior lesson audio) no longer matches the scripts and needs re-recording.
-- W01 — locked 2026-10-21 — rec/S01-v2/W01-script-v-24lessons-LOCKED-2026-10-21b.md — sha256 ede81ce773217b0ab448672409686134f6187d20c0561c0a24bc8626955fe2f2 (22098 bytes)
-- S01 — locked 2026-10-21 — scripts-v7/S01-A-Quiet-Tuesday.txt — sha256 e94b7fbb3c4a09e7875ddfc7eeefec7c1d33b47b33fba4daec257718030121c1 (23323 bytes)
+- W01 — locked 2026-10-21 — rec/S01-v2/W01-script-v-24lessons-LOCKED-2026-10-21b.md — sha256 7a2c16142bfbb18c2f04bc94ea3c3ea0f02f0ec6f0272cc20c1ca053f94304f4 (22090 bytes; rev 2026-10-22)
+- S01 — locked 2026-10-21 — scripts-v7/S01-A-Quiet-Tuesday.txt — sha256 0e5f5eb99d6458ae6312ea04e8cdf14f9b03de7807c46fbda9465d243094e514 (23315 bytes; rev 2026-10-22)
 - S02 — locked 2026-10-21 — scripts-v7/S02-You-Are-Not-Crazy.txt — sha256 4d5a2ace9effca7578f73dbfa27d7fa49b958ff34b9c17dc6209de0813424706 (22375 bytes)
 - S03 — locked 2026-10-21 — scripts-v7/S03-The-Four-Marks.txt — sha256 24925535c4cd8faa520db76d0794e32c27e648d78ea697d8f911466c658d7de5 (22185 bytes)
 - S04 — locked 2026-10-21 — scripts-v7/S04-Stop-Waiting.txt — sha256 739443a812ef53441080ff909fc4a9692e8fc9c04b816603db5bd803d9e5f2e5 (21526 bytes)
 - S05 — locked 2026-10-21 — scripts-v7/S05-Pick-Up-The-Weight.txt — sha256 f80559eb993253574c315477f5084c08657f6d25ecab2b48361490364b7d7bc1 (22013 bytes)
 - S06 — locked 2026-10-21 — scripts-v7/S06-Go-First.txt — sha256 a28c0612ec53757d5cf7b5d0d2c39202fce80465a113493a00a9921e26b258f5 (22932 bytes)
-- S07 — locked 2026-10-21 — scripts-v7/S07-Live-For-A-Reward-That-Lasts.txt — sha256 cbf64e78361f1897028f152e6a514a401820e8af754cd1944b0bfc759eb2ba21 (22889 bytes)
+- S07 — locked 2026-10-21 — scripts-v7/S07-Live-For-A-Reward-That-Lasts.txt — sha256 c2e2fe3876eec3edfc4fb5edd21b9a9b10f6d56b6b7adbad95ff58e6991ebf7a (22889 bytes; rev 2026-10-22)
 - S08 — locked 2026-10-21 — scripts-v7/S08-The-Empty-Chair.txt — sha256 4305a30989e62ad0f57c8d28c94937df5a9e4aaadf486edf3d3b25f4c08ef0a5 (21995 bytes)
 - S09 — locked 2026-10-21 — scripts-v7/S09-Anger-The-Itch-And-The-Drift.txt — sha256 5420f52a551ceab5cd4a0cbdf064cfcc95e4d2ce3199142054cfd8af6124d993 (23074 bytes)
 - S10 — locked 2026-10-21 — scripts-v7/S10-The-Father-Who-Does-Not-Leave.txt — sha256 4a95bcd571b86ed142789a1e6d39841035e39376f6d60df33931c9c1a7031e70 (22394 bytes)
 - S11 — locked 2026-10-21 — scripts-v7/S11-When-Home-Never-Handed-You-Off.txt — sha256 111f659ad63a07f1494728be63772e1707d1e0d4f5ae7301111722119b513e1d (22399 bytes)
-- S12 — locked 2026-10-21 — scripts-v7/S12-A-Man-With-No-Brothers.txt — sha256 8290275d8c387e187b668a10bd81a3ba5daf46613e699f4bf83eaadb88be0749 (23189 bytes)
+- S12 — locked 2026-10-21 — scripts-v7/S12-A-Man-With-No-Brothers.txt — sha256 09ce2afc1235edb7ab8d635e7f04dd4ce0a740a2687bf7f4278e20aeb2fe3ef7 (23190 bytes; rev 2026-10-22)
 - S13 — locked 2026-10-21 — scripts-v7/S13-The-Problem-Inside.txt — sha256 06ee5edc44df044f822057788c2b888e4c25fe7e961edc092b4f0abd4c65c051 (19922 bytes)
 - S14 — locked 2026-10-21 — scripts-v7/S14-How-That-Looks-On-A-Man.txt — sha256 291b04a6e4fa62523730f89501efd3065d6f7f71c5742bddd011e0b73c0edebe (23338 bytes)
-- S15 — locked 2026-10-21 — scripts-v7/S15-No-North-Star.txt — sha256 6146a4ae86f094036d36f0bc7a14cdbd8b076e73e411ac918054eab1a96f83aa (22670 bytes)
+- S15 — locked 2026-10-21 — scripts-v7/S15-No-North-Star.txt — sha256 f8fbd550ffc1416eefcc5873d6aa2571879f5727cb5382b52987e08112f182eb (22669 bytes; rev 2026-10-22)
 - S16 — locked 2026-10-21 — scripts-v7/S16-Before-The-Fall.txt — sha256 39432aae96950ee05ab9fb1b069feed966691d69113519e00f3ee69f824da842 (22523 bytes)
 - S17 — locked 2026-10-21 — scripts-v7/S17-Destiny-Is-Not-A-Vibe.txt — sha256 b6310effa2f13536ba3d846bea7b7dfbe2d5d28ea75243382d473f84e02a0a1a (23283 bytes)
 - S18 — locked 2026-10-21 — scripts-v7/S18-If-There-Is-No-Wife-Yet.txt — sha256 9fd2f0bebf8f17239abd0265092014932d32eef4c2b16c8dd9c26153a3724aec (23343 bytes)
 - S19 — locked 2026-10-21 — scripts-v7/S19-Lay-It-Down.txt — sha256 fa9735589a1388e40ba6ac08135846f136f91310501870f2943409b0953fe6fa (22527 bytes)
-- S20 — locked 2026-10-21 — scripts-v7/S20-The-Bed-Is-A-Covenant.txt — sha256 ccc4a62e6eb86843c11873c6fb42399be3cc16a3a03632fbfde5eb8579d9010b (23270 bytes)
+- S20 — locked 2026-10-21 — scripts-v7/S20-The-Bed-Is-A-Covenant.txt — sha256 fc19eef7aa8e53d3163eac18506933e75a34085b178c7cad8ceb19a74dbea2f2 (23269 bytes; rev 2026-10-22)
 - S21 — locked 2026-10-21 — scripts-v7/S21-Your-Daughter-Is-Watching.txt — sha256 7ac5bf381bfa559e6581fd609c3237d7fbbef200d4303614c1bb32dcb113ef8f (23034 bytes)
 - S22 — locked 2026-10-21 — scripts-v7/S22-Give-Your-Son-A-Name.txt — sha256 cb779c1509c87768e9eaa16a676a0c73100e7b4db4f85bb3cb3bfc9372923ba3 (22486 bytes)
 - S23 — locked 2026-10-21 — scripts-v7/S23-Give-Your-Son-A-Hill.txt — sha256 506d62d0eeea008486da289ad75474cea9e34d7654aa91bec8a64db031027d10 (22494 bytes)
 - S24 — locked 2026-10-21 — scripts-v7/S24-Give-Your-Son-A-Day.txt — sha256 71142fc358071e5e299c48ff7daa5097d52cde2b4c3baabc9ae7b27c46b75354 (24754 bytes)
 - Mirror (byte-identical to S01): rec/S01-v2/S01-A-Quiet-Tuesday-v2-script.txt
+
+## TIMEFRAME CLEANUP — 2026-10-22 (Aaron approved)
+Leftover timeline lines fixed (minimal edits; hashes above updated):
+- S12: "takes the whole twenty minutes." -> "takes the whole talk."; "twenty minutes, / same time," -> "one man to another, / plain and honest,"
+- S01 (+W01 .md + rec/S01-v2 mirror): "A message you owe and keep sliding to tomorrow." -> "A message you owe and keep putting off."
+- S07: "You will want it again tomorrow." -> "You will always want more of it."
+- S15: "You can do it tomorrow," -> "You can do it quietly,"
+- S20: "No tomorrow owed." -> "No promise owed."

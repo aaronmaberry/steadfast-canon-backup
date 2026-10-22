@@ -374,7 +374,7 @@ You for him.|0.35
 Him for you.|0.65
 Uh, some days one of you is a wreck,|0.5
 and the heavy thing|0.3
-takes the whole twenty minutes.|0.65
+takes the whole talk.|0.65
 That is what the time is for.|0.6
 The floor does not move.|0.55
 Uh, without those questions,|0.45
@@ -434,8 +434,8 @@ Hollis heard his own mouth.|0.5
 I'm trying to be a better man,|0.4
 and I don't have a brother.|0.55
 Would you talk with me,|0.35
-twenty minutes,|0.3
-same time,|0.3
+one man to another,|0.3
+plain and honest,|0.3
 and see if it holds.|0.75
 The man looked at the pot.|0.5
 I water the garden most evenings.|0.5

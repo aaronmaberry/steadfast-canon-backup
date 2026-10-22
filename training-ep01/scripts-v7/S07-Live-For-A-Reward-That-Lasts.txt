@@ -530,7 +530,7 @@ from being good at the work,|0.45
 that is the problem.|0.7
 They will tell you you're sharp.|0.5
 That word has, uh, a short life.|0.55
-You will want it again tomorrow.|0.7
+You will always want more of it.|0.7
 If you're the older man,|0.45
 don't spend the years you have left|0.4
 managing the stories other people will tell.|0.65

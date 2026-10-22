@@ -323,7 +323,7 @@ We want the test we could brag about.|0.65
 Jesus is talking about a manager and a little bit of money, and the principle walks out of the ledger and sits down in a kitchen.|0.5
 God trusts a man from small to large.|0.75
 A tone of voice when you're tired.|0.5
-A message you owe and keep sliding to tomorrow.|0.5
+A message you owe and keep putting off.|0.5
 Whether you sit with the people who share your life, or pass through them on the way to being useful.|0.5
 See the word you wrote.|0.7
 That word is very little.|0.55

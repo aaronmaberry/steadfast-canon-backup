@@ -500,7 +500,7 @@ has already picked his star.|0.65
 He just has not said the name.|0.7
 I mean, the calendar already confessed.|0.65
 Uh, don't wait until you feel ready.|0.55
-You can do it tomorrow,|0.45
+You can do it quietly,|0.45
 before the day starts handing out stars.|0.65
 Write the line where your own eyes will hit it.|0.7
 One stretch.|0.4
