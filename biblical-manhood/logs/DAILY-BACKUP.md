@@ -1,3 +1,11 @@
+2026-10-23 ~7:10 AM CT — daily 3-target backup OK.
+- Local: /workspace/backups/steadfast-canon/2026-10-23; lean pack 6.0MB tgz; changed=16 removed=0 quarantined=0 (STATUS-2026-10-22, this log, LOCKED-SESSIONS, 5 scripts-v7 lessons, W01 LOCKED-2026-10-21b, 7 locked/audio README). Prune cutoff 2026-10-20, 0 items.
+- Origin: aaron-maberry/tmp-1571ddf978c2e3c0 main SHA 087d13df052bf8082bda0fa7ce500b7b072036ba (bc-523fed5d; 1 added, 15 modified, 0 deleted; sha256-verified vs pack). Prior 485d6bc9.
+- GitHub PRIVATE aaronmaberry/steadfast-canon-backup main SHA b34692c2ff72afc0abf4a4086e356a984dbdc17d (box git push via gh auth, shallow clone in /tmp then removed; 1 A / 1 M; the 14 training paths already matched remote HEAD). Prior c86c7f46. Public aaronmaberry/steadfast untouched.
+- Drive: steadfast-canon-2026-10-23.tgz id 131BrxqgijhL418U2G4gGm8cEM42QKSJ0 in Steadfast Men/Backups 1IO1LcXoeTK3PuuuGGOK4LgM560U9qMpM. Trashed (not deleted) expired steadfast-canon-2026-10-19.tgz per expired helper. Live: 10-20, 10-21, 10-22, 10-23.
+- Audio: 113 lesson audio files (53 changed) in local snapshot only (not pushed; no media in backups). Still awaiting Aaron/Jarvis decision.
+- Notion Desk Steadfast Men: status line 2026-10-23. Quiet — all three destinations OK.
+
 2026-10-22 ~7:10 AM CT — daily 3-target backup OK.
 - Local: /workspace/backups/steadfast-canon/2026-10-22; lean pack 1312 files / 6.0MB tgz; changed=1312 removed=0 quarantined=0 (script diffed against no prior manifest, so every pack file counted as changed). Lean pack is about half of 10-21's 2688 files, likely because box disk was trimmed to active work per the Drive-first rule; nothing was deleted from Origin or GitHub. Prune cutoff 2026-10-19, 0 items.
 - Origin: aaron-maberry/tmp-1571ddf978c2e3c0 main SHA 485d6bc9938a52210fc3699025760ded7e099ec1 (bc-e21edf6c; pack extracted over repo, no deletions; mostly training-ep01 scripts-v7 timeframe pass, S24 audio notes, LOCKED-SESSIONS, W01 LOCKED-2026-10-21b). Prior 2464d754.
