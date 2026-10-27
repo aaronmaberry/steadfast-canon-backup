@@ -143,7 +143,7 @@ Avoid list for batch 2:
 - Parent fixes 2026-10-03 8:34 AM CT applied: NIV mid-sentence cards (E005, E046, E054) now keep NIV punctuation and end with an ellipsis; E051 verse is now Psalm 78:4 (was Joshua 4:6-7, the E038 repeat); E055 retitled Some Saturdays (file renamed). Book chapters left alone. `_build/cardcheck.py` compares every card's spoken line with the NIV.
 
 ## 2026-10-03 9:40 AM CT
-- Jonathon voice LOCKED: "Jonathon - Podcast" (DUD6Dsyq6xCL5Xqppm7R), option 6, saved to ElevenLabs library.
+- Jonathon voice: RETIRED (DUD6Dsyq6xCL5Xqppm7R). Only voice is Option L uiUeT7adTSLnHQ91QHdW (Aaron 2026-10-26).
 
 ## 2026-10-03 (after 9:40 AM CT): batch 10 progress (executor)
 - E073 done: E073 Feelings Are the Dash, Not the Wheel (25:06, Wes 52.3%). Ps 42:5 (J). The truck keys ('You don't drive mad'), left out, afraid called tired, the warranty Saturday as shame, the seven o'clock text, Ruby's two words; five callers. Lint clean.

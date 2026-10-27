@@ -1,18 +1,12 @@
-WES HART VOICES — LOCKED (Aaron Maberry, 2026-09-29 10:30 AM CT). Replaces Option C lock of 2026-09-28.
-ElevenLabs account: aaron.maberry@gmail.com (Sign in with Google). Unique Voice Design voices (v3). Never Kepler, stock, or cloned.
+WES HART VOICE — LOCKED (Aaron Maberry, 2026-10-26 10:55 PM CT). HARD RULE. Replaces the 2026-09-29 two-voice lock.
+ElevenLabs account: aaron.maberry@gmail.com. Voice Design voice, eleven_v3.
 
-1) TRAINING VIDEOS (all 24 lessons, stage/classroom):
-   Voice name: Wes Hart - Option D
-   Voice ID: krjoGt4x3CttlxSuoDYW
-   Light Texas Hill Country drawl, warm, preacher punch, auditorium feel.
-   Reference: /workspace/training-ep01/voice-options/wes-option-D.mp3
-
-2) PODCAST + YOUTUBE conversations + SHORTS (studio, table mic, with co-host Jonathon, less preachy):
+THE ONLY WES VOICE, for everything (training lessons, intro, podcast, YouTube, Shorts, audiobook re-voice):
    Voice name: Wes Hart - Podcast
    Voice ID: LxMQekBDeYENHe7wI9hA
-   Same Hill Country Wes, dry close-mic studio, relaxed, not preachy.
-   Reference: /workspace/training-ep01/voice-options/wes-podcast-1.mp3
+   Reference outputs: /workspace/artifacts/training/audio-podcast-voice-2026-10-26/ (SETTINGS.json)
 
-Retired: Option A RSjT6ypQZrJevXehiBlL, B tNSztHTzErBShARXJUkQ, C o4XQFIFZbnVGJNZmuUuK (kept in library, do not use).
+RETIRED, DO NOT USE: Option D krjoGt4x3CttlxSuoDYW (old training/stage voice), Option A RSjT6ypQZrJevXehiBlL, B tNSztHTzErBShARXJUkQ, C o4XQFIFZbnVGJNZmuUuK.
+Old generators/notes: /workspace/archive-old-wes-voice-2026-10-26/ (DO NOT USE). Previous lock text backed up there.
 
-3. "Jonathon - Podcast" (DUD6Dsyq6xCL5Xqppm7R). Jonathon, co-host of Walk Steadfast. Locked by Aaron 2026-10-03 (option 6). Use for every podcast, YouTube and Shorts line Jonathon speaks.
+Jonathon (co-host): ONLY voice is Option L, uiUeT7adTSLnHQ91QHdW (Aaron confirmed 2026-10-26 11:10 PM). The old DUD6Dsyq6xCL5Xqppm7R 'Jonathon - Podcast' is RETIRED; do not use.

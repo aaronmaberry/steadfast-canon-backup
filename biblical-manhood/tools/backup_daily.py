@@ -62,16 +62,19 @@ SCAN_ALLOW = {"tools/backup_daily.py"}  # contains the patterns themselves
 DATE_RE = re.compile(r"(\d{4}-\d{2}-\d{2})")
 # Extra source trees (Aaron approved 2026-10-20): locked Steadfast training scripts.
 # (source dir, repo/archive path). Text files only; *.bak-* skipped; same exclusions, secret scan and redaction.
-EXTRA_SRCS = [("/workspace/training-ep01/locked", "training-ep01/locked"),
-              ("/workspace/training-ep01/scripts-v7", "training-ep01/scripts-v7")]
+# 2026-10-26: /workspace/training-ep01 was archived to Drive and removed on 2026-10-23, so the 66 lean
+# training files dropped out of the 10-24 and 10-26 backups. They were restored from the 10-23 snapshot to TRAIN_RESTORED.
+TRAIN_RESTORED = "/workspace/backups/training-ep01-src"  # 2026-10-27: the artifacts copy was offloaded to Drive 10-26; text-only copy restored here from the 10-26 snapshot
+EXTRA_SRCS = [(TRAIN_RESTORED + "/locked", "training-ep01/locked"),
+              (TRAIN_RESTORED + "/scripts-v7", "training-ep01/scripts-v7")]
 # Single extra files (source path, repo path)
-EXTRA_FILES = [("/workspace/training-ep01/rec/S01-v2/W01-script-v-24lessons-LOCKED-2026-10-21b.md",
+EXTRA_FILES = [(TRAIN_RESTORED + "/rec/S01-v2/W01-script-v-24lessons-LOCKED-2026-10-21b.md",
                 "training-ep01/rec/S01-v2/W01-script-v-24lessons-LOCKED-2026-10-21b.md")]  # 2026-10-21 lock (replaces kickoff-2026-10-20)
 # Locked lecture audio (Aaron 2026-10-20): copied into the local snapshot despite the audio exclusions,
 # hashed into <date>-audio-manifest.json, changes listed in <date>-audio-changed.txt. Text files there
 # (README.md etc.) also go in the lean pack. Binaries (mp3/wav) never go in the lean pack: push them to
 # GitHub with git (LFS for files >50MB), not push_files.
-AUDIO_SRCS = [("/workspace/training-ep01/locked/audio", "training-ep01/locked/audio"),
+AUDIO_SRCS = [(TRAIN_RESTORED + "/locked/audio", "training-ep01/locked/audio"),
               ("/workspace/steadfast-main/training-locked/audio", "steadfast-main/training-locked/audio")]  # S01 LOCKED mp3 (+ dated 2026-10-21 copy)
 AUDIO_EXT = {".mp3", ".wav"}
 EXTRA_EXT = {".md", ".txt", ".py", ".sh", ".log", ".json", ".csv", ".yml", ".yaml", ".toml", ".vtt", ".srt"}
@@ -158,6 +161,9 @@ def build(date):
             if lean_ok(rel, size):
                 lean.append("biblical-manhood/" + rel)
                 srcmap["biblical-manhood/" + rel] = p
+    missing = [s_ for s_, _ in EXTRA_SRCS + AUDIO_SRCS if not os.path.isdir(s_)] + [f_ for f_, _ in EXTRA_FILES if not os.path.isfile(f_)]
+    for m_ in missing:
+        print(f"WARNING: extra backup source missing: {m_}", file=sys.stderr)
     walks = [(s_, d_, os.walk(s_)) for s_, d_ in EXTRA_SRCS if os.path.isdir(s_)]
     walks += [(os.path.dirname(fs_), os.path.dirname(fd_), [(os.path.dirname(fs_), [], [os.path.basename(fs_)])])
               for fs_, fd_ in EXTRA_FILES if os.path.isfile(fs_)]
