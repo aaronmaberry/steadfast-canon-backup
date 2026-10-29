@@ -1,3 +1,5 @@
+> **RETIRED VOICE NOTICE (2026-10-28):** any mention of `LxMQekBDeYENHe7wI9hA` / "Wes Hart - Podcast" / podcast voice as the Wes voice below is RETIRED, do not use. The only Wes voice is Option D `krjoGt4x3CttlxSuoDYW` (eleven_v4, speech-to-speech). Recipe: `/workspace/artifacts/training/WES-VOICE-LOCKED-RECIPE.md`.
+
 # Steadfast Men YouTube script guide
 
 Internal. Draft for Aaron's sign-off, 2026-10-02. Nothing here is published, uploaded, or paid for.

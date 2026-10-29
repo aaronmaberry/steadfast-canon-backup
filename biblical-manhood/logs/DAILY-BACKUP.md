@@ -1,3 +1,9 @@
+2026-10-28 ~7:10 AM CT — daily 3-target backup.
+- Local: /workspace/backups/steadfast-canon/2026-10-28; changed=1 (this log) removed=0 quarantined=0 training_files=66 audio_changed=0. Prune cutoff 2026-10-25, 9 items, 0.02GB freed.
+- Origin: aaron-maberry/tmp-1571ddf978c2e3c0 main — cloud agent bc-8e13c3ed launched (extract full pack, no deletions; also covers 10-27 whose bc-9a09ea82 SHA was never stamped). SHA: PENDING.
+- GitHub PRIVATE aaronmaberry/steadfast-canon-backup main SHA 4a06b18c25705772a036f89bc39200dd19cd90e4 (1 M via gh contents API, no clone). Prior 1c68ae45. Public aaronmaberry/steadfast untouched.
+- Drive: steadfast-canon-2026-10-28.tgz id 1h2dDmOrz8ez9za4fP098frWm5gq3wsYH in Steadfast Men/Backups 1IO1LcXoeTK3PuuuGGOK4LgM560U9qMpM. Trashed (not deleted) expired 10-24 per expired helper; live: 10-26, 10-27, 10-28.
+
 2026-10-27 ~7:10 AM CT — daily 3-target backup.
 - Fix first: the 10-26 disk offload moved /workspace/artifacts/training/training-ep01-restored-2026-10-23 to Drive (POINTER.txt left), so the first 07:02 build had training_files=0 and listed all 66 training-ep01 paths as removed. Not pushed. Restored the 66 text files from the 10-26 snapshot to /workspace/backups/training-ep01-src (undated, outside prune; README beside it says do not offload) and repointed TRAIN_RESTORED in tools/backup_daily.py (original saved as backup_daily.py.pre-2026-10-27). Rebuilt: training_files=66, changed=4, removed=0, quarantined=0. Training audio binaries now only on Drive (offload), not in local snapshot.
 - Origin: aaron-maberry/tmp-1571ddf978c2e3c0 main — cloud agent bc-9a09ea82 launched (extract pack, no deletions). SHA: PENDING.

@@ -1,3 +1,12 @@
+SUPERSEDED 2026-10-28 5:54 PM by Aaron: the ONE locked Wes audio recipe is /workspace/artifacts/training/WES-VOICE-LOCKED-RECIPE.md (v23). Pipeline: /workspace/artifacts/training/wes-audio-pipeline/. Everything below is retired history; do not use.
+
+WES HART VOICE: LOCKED (Aaron Maberry, 2026-10-28 8:36 AM CT). HARD RULE. Replaces the 2026-10-26 lock below.
+THE ONLY WES VOICE, for every video: ElevenLabs Wes Hart - Option D, krjoGt4x3CttlxSuoDYW, eleven_v4, Voice Changer (speech-to-speech) from a dry 0.88x source, then the proc10 chain.
+Full recipe, scripts and QC gates: /workspace/artifacts/training/WES-VOICE-LOCKED-RECIPE.md
+RETIRED, DO NOT USE: LxMQekBDeYENHe7wI9hA (Wes Hart - Podcast), Option A RSjT6ypQZrJevXehiBlL, B tNSztHTzErBShARXJUkQ, C o4XQFIFZbnVGJNZmuUuK. No TTS final reads.
+(Jonathon co-host lock below unchanged.)
+
+----- SUPERSEDED 2026-10-26 TEXT (kept for history; voice choice below is WRONG now) -----
 WES HART VOICE — LOCKED (Aaron Maberry, 2026-10-26 10:55 PM CT). HARD RULE. Replaces the 2026-09-29 two-voice lock.
 ElevenLabs account: aaron.maberry@gmail.com. Voice Design voice, eleven_v3.
 

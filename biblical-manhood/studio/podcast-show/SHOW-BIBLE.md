@@ -1,3 +1,5 @@
+> **RETIRED VOICE NOTICE (2026-10-28):** any mention of `LxMQekBDeYENHe7wI9hA` / "Wes Hart - Podcast" / podcast voice as the Wes voice below is RETIRED, do not use. The only Wes voice is Option D `krjoGt4x3CttlxSuoDYW` (eleven_v4, speech-to-speech). Recipe: `/workspace/artifacts/training/WES-VOICE-LOCKED-RECIPE.md`.
+
 # Steadfast video podcast show bible
 
 Internal. Draft for Aaron's sign-off, 2026-10-02. **v3, 2026-10-03, open system** (section 5 rewritten, credits slot added to sections 4 and 9, season progression in section 15, proposed clock in section 4d). Covers Aaron's directions of 9:12, 9:15 and 9:17 PM CT. Slate rule of 2026-10-03 applied. The open and slate say the episode number and title only, never a date (section 5).

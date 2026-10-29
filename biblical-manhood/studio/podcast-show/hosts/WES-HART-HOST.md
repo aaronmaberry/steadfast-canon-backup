@@ -1,3 +1,5 @@
+> **RETIRED VOICE NOTICE (2026-10-28):** any mention of `LxMQekBDeYENHe7wI9hA` / "Wes Hart - Podcast" / podcast voice as the Wes voice below is RETIRED, do not use. The only Wes voice is Option D `krjoGt4x3CttlxSuoDYW` (eleven_v4, speech-to-speech). Recipe: `/workspace/artifacts/training/WES-VOICE-LOCKED-RECIPE.md`.
+
 # Wes Hart, host brief (podcast)
 
 Internal. Draft for Aaron, 2026-10-02. Builds the on-air Wes for the two-host show. Read with `style/STEADFAST-AUTHOR-PERSONA.md`, `locks/WES-VOICE-LOCKED.txt`, and `training-ep01/locked/LOCKED-LECTURE-STYLE.md`.
