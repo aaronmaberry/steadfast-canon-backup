@@ -544,7 +544,7 @@ walksteadfast.com · @steadfastwalk
 ## Reading narrative
 
 # Paid in Full
-### Walk Steadfast, Episode 85 · October 26, 2027
+### Walk Steadfast, Episode 85
 
 Wes's work review came back better than he expected, with one line marked above expectations because a younger man on his floor said Wes had helped him. Wes argued for ten minutes to get it lowered. The reviewer put down his pen and said, "I'm not paying you back for anything. I'm writing down what happened."
 

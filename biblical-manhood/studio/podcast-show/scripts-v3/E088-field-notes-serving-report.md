@@ -279,7 +279,7 @@ walksteadfast.com · @steadfastwalk
 ## Reading narrative
 
 # Serving Report
-### Walk Steadfast, Field Notes, Episode 88 · November 5, 2027
+### Walk Steadfast, Field Notes, Episode 88
 
 A man who has done the dishes every night for nineteen years asked what to do when serving at home feels like nobody notices. Wes had just spent three nights locking his own back door, and three nights his wife had gotten up at midnight to check it behind him. On the third night she slept through. At supper she said, "I noticed Tuesday."
 

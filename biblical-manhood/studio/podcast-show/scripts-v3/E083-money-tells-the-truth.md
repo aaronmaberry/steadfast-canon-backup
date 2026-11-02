@@ -496,7 +496,7 @@ walksteadfast.com · @steadfastwalk
 ## Reading narrative
 
 # Money Tells the Truth
-### Walk Steadfast, Episode 83 · October 19, 2027
+### Walk Steadfast, Episode 83
 
 For twenty-six years Wes paid every bill in his house himself and was never once late. He balanced the register on Sundays after lunch, to the penny. And in all that time he never showed it to his wife, who had kept the books for a dentist for a decade. When she asked, he said, "We're fine." He calls it a wall with good manners.
 

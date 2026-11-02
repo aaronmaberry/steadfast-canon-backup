@@ -15,7 +15,7 @@ Walk Steadfast · main episode · script v3 (batch 11, new). Internal. **Season 
 | Standing outro | Variant C, reworded ("send it to one man" becomes "send it to the man who does the dishes at your church"). |
 | Wardrobe | Wes: olive quarter-zip over a chambray collar. Jonathon: black long-sleeve henley. |
 | Props | Standard set, the white mug in frame for the Mr. Abernathy segment. A small spiral notebook with a pencil clipped to it (end insert). |
-| New continuity | **Season 8 (Thanks) opens** with its question, "Who have I never thanked?" **Wes's wife's small first jobs:** she has bought, signed and mailed every birthday card on his side since 2000 (canon); she's also the last one up every night, locks the back door, turns off the porch light and checks the stove knobs, for twenty-seven years; Wes has never once done it or thanked her for it. **Wes the dish sigher** retold short as an image (E071, "Then quit asking me to."); he sighed at the leaf blower in October. **Mr. Abernathy's "What are you waiting on?" (the serving version):** Wes at about forty told him he'd do more around the house "when work slows down" and "when she asks"; Mr. Abernathy tapped the table twice and asked it; Wes said, "For her to ask"; Mr. Abernathy picked his fork back up. **Dani's first picks:** she parks in the far spot at church so somebody else gets the close one; she sleeps on the side of the bed by the drafty window and has since the first apartment; she eats the burnt pancake every Saturday. Jonathon didn't notice any of it for eleven years of marriage. **Virgil and Ruby (Sat Oct 9, second Saturday):** a widow's back steps on the east side; Virgil there before seven, sweeping the walk and stacking the boards before anybody else got out of a truck; he ate his sandwich last, standing up; at the end he rolled the widow's two trash cans to the curb because pickup was Monday, and wrote it in the pencil notebook. Ruby held the box of screws. In the van: **"Daddy, Mr. Virgil does the jobs nobody claps for."** **Sun Oct 31:** Ruby reached across the table for the burnt pancake before Dani could and said, "I'll take the dark one." Jonathon hadn't once. **The barn happened (Sat Oct 30)**; Wes holds the report for Friday. **Go-firsts:** Wes locks the back door, turns off the porch light and checks the stove every night, first, without telling her, and thanks her out loud, by name of the thing, for twenty-seven years of birthday cards. Jonathon takes the burnt pancake every Saturday and offers to take the far spot at church and drop Dani at the door. |
+| New continuity | **Season 8 (Thanks) opens** with its question, "Who have I never thanked?" **Wes's wife's small first jobs:** she has bought, signed and mailed every birthday card on his side since 2000 (canon); she's also the last one up every night, locks the back door, turns off the porch light and checks the stove knobs, for twenty-seven years; Wes has never once done it or thanked her for it. **Wes the dish sigher** retold short as an image (E071, "Then quit asking me to."); he sighed at the leaf blower in October. **Mr. Abernathy's "What are you waiting on?" (the serving version):** Wes at about forty told him he'd do more around the house "when work slows down" and "when she asks"; Mr. Abernathy tapped the table twice and asked it; Wes said, "For her to ask"; Mr. Abernathy picked his fork back up. **Dani's first picks:** she parks in the far spot at church so somebody else gets the close one; she sleeps on the side of the bed by the drafty window and has since the first apartment; she eats the burnt pancake every Saturday. Jonathon didn't notice any of it for ten years of marriage. **Virgil and Ruby (Sat Oct 9, second Saturday):** a widow's back steps on the east side; Virgil there before seven, sweeping the walk and stacking the boards before anybody else got out of a truck; he ate his sandwich last, standing up; at the end he rolled the widow's two trash cans to the curb because pickup was Monday, and wrote it in the pencil notebook. Ruby held the box of screws. In the van: **"Daddy, Mr. Virgil does the jobs nobody claps for."** **Sun Oct 31:** Ruby reached across the table for the burnt pancake before Dani could and said, "I'll take the dark one." Jonathon hadn't once. **The barn happened (Sat Oct 30)**; Wes holds the report for Friday. **Go-firsts:** Wes locks the back door, turns off the porch light and checks the stove every night, first, without telling her, and thanks her out loud, by name of the thing, for twenty-seven years of birthday cards. Jonathon takes the burnt pancake every Saturday and offers to take the far spot at church and drop Dani at the door. |
 
 ## Title options
 
@@ -37,7 +37,7 @@ JONATHON: Sunday morning Ruby reached across the table and took the burnt pancak
 [CAM: WES MS]
 WES: Why?
 [CAM: JON CU]
-JONATHON: She said, "Mommy always gets it." Eleven years, Wes. I never noticed.
+JONATHON: She said, "Mommy always gets it." Ten years, Wes. I never noticed.
 [STING 3s]
 
 [CHAPTER: Intro]
@@ -67,7 +67,7 @@ JONATHON: Like the hum of the refrigerator. You only hear it the day it quits, a
 [CAM: WES CU]
 WES: So today's about small ways to serve at home. Not the big ones. Not the anniversary trip or the kitchen remodel. The little jobs nobody claps for. Who takes out the trash. Who gets up when the dog barks. Who eats the burnt one. And I'd say the man who wants to be thankful in November has to start by noticing who's been going first.
 [CAM: JON CU]
-JONATHON: And I'll say right now I'm the cautionary tale today. I've been married eleven years. I'm a sales manager. I notice everything for a living. I can tell you which of my reps had a bad night by how he says good morning on the 7:30 call. And I didn't notice the three things my wife has done every single day of our marriage until my seven-year-old pointed one of them out over breakfast.
+JONATHON: And I'll say right now I'm the cautionary tale today. I've been married ten years. I'm a sales manager. I notice everything for a living. I can tell you which of my reps had a bad night by how he says good morning on the 7:30 call. And I didn't notice the three things my wife has done every single day of our marriage until my seven-year-old pointed one of them out over breakfast.
 [CAM: WES MS]
 WES: (sips coffee) We'll get to the pancake. I want to hear all of it. But let me go first, since that's the whole point today, and I've got a worse record than you do. I've been married almost twenty-eight years. And I'm about to tell you two small jobs my wife has done for every one of them that I've never once thanked her for.
 [CAM: JON MS]
@@ -140,7 +140,7 @@ JONATHON: Church. We go to the early service. And every Sunday, Dani parks in th
 [CAM: WES CU]
 WES: And she never said.
 [CAM: JON CU]
-JONATHON: She never said. That's the thing with all three. And the third one's the bed. Our bedroom has one window that's drafty. We've been meaning to fix it since we bought the house. And Dani sleeps on that side. Always has. And I realized Sunday night, getting into bed, that in our first apartment, the bed was against a wall with a window unit in it, and she slept on that side too. The cold side. Eleven years, two houses, an apartment. She's always on the cold side.
+JONATHON: She never said. That's the thing with all three. And the third one's the bed. Our bedroom has one window that's drafty. We've been meaning to fix it since we bought the house. And Dani sleeps on that side. Always has. And I realized Sunday night, getting into bed, that in our first apartment, the bed was against a wall with a window unit in it, and she slept on that side too. The cold side. Ten years, two houses, an apartment. She's always on the cold side.
 [CAM: WES MS]
 WES: Did she pick it, or did you?
 [CAM: JON CU]
@@ -490,7 +490,7 @@ walksteadfast.com · @steadfastwalk
 ## Reading narrative
 
 # Small Ways to Serve at Home
-### Walk Steadfast, Episode 87 · November 2, 2027
+### Walk Steadfast, Episode 87
 
 Every night for twenty-seven years, Wes's wife has been the last one up. She locks the back door, turns off the porch light and checks the stove knobs. Wes is asleep by then, and he had never once wondered who did it. At Jonathon's breakfast table, his seven-year-old reached for the burnt pancake and said her mother always gets it. He had never noticed.
 

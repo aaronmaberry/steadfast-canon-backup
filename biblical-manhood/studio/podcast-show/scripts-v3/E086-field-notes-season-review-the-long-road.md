@@ -15,12 +15,12 @@ Walk Steadfast · Field Notes · script v3 (batch 11, new). Internal. Season 7 (
 | Standing outro | Field Notes F3, reworded ("If you wrote a season letter, tell us in the pinned comment. If you didn't, tell us what stopped you."). |
 | Wardrobe | Wes: rust corduroy button-down. Jonathon: denim jacket over a gray hoodie. |
 | Props | Standard set, the white mug. A sealed white envelope with a date written on it in pen (end insert). |
-| New continuity | **Wes's review retold to his wife (Tue Oct 26):** the good line first, no "but"; then ten minutes later at the sink he said, "It was only two lunches." She, without turning around: **"There it is."** Partial. **Jonathon's call to Corpus Christi (Wed Oct 27):** the retired rep picked up on the second ring: **"Took you long enough."** He'd known since the day it signed (the facilities director called him). "I figured you'd call when you were ready." On the plaque: "Hang it back up. Put my name on a sticky note if it makes you feel better." It's back on the wall with a yellow sticky note that says his first name. An invitation to fish the jetties in the spring. **Jonathon's card (Tue Oct 26, late):** his hand stopped on "paid"; he couldn't write it; he told Wes Thursday at breakfast; Wes said, "Then write it Thursday." He wrote it in the truck in the diner parking lot. Not said on air what's on it. **The nephew, by text:** "did the card thing. wrote paid in full. its in my hard hat." **The installer lunch happened (Tue Oct 26, Bandera, brisket plate):** he starts Mon Nov 1 with the residential outfit on the north side, less money, home by five; he paid for the tea. **Wes's season (what stuck):** the monthly lunch with the twenty-eight-year-old on his floor; full sentences in his texts; the register handed over; the money date set for the first Sunday night of November. **What didn't:** the one true word at supper every night (it lasted about ten days in September). **Open:** the coach letter, still unanswered; the youngest at the barn Saturday at six (the first real cold front is forecast to come through Friday night). **Keeps:** "Known is a table." **Jonathon's season (what stuck):** Choir Night, every Tuesday since September; calling the bottom three reps, not only the winners. **What didn't:** the Thursday word text to Wes (it fell off in early October). **Open:** the contractor breakfast promised for October slid to November (a miss, stated); telling Ruby the true thing about his dad, held for February. **Keeps:** the second question, "No. How are you?" **Wes's own season letter (Thu Oct 28, night):** one page at the kitchen table with the good pen; the what-didn't-stick part took about twenty minutes because he kept wanting to explain each line; read to his wife on the back porch: "the shortest I've ever been about myself"; she wrote the date on the envelope in her handwriting so he couldn't open it in December (the end-insert envelope). **The young man on Wes's floor (Mon Oct 25 lunch):** asked how a man knows when to quit working on a thing; Wes said his wife usually knows; the young man wrote it down. **The sixty-one-year-old (let go in June):** still no job; tomatoes in the fall garden; the grandson; "I don't know what I'm for if I'm not for that." |
+| New continuity | **Wes's review retold to his wife (Tue Oct 26):** the good line first, no "but"; then ten minutes later at the sink he said, "It was only two lunches." She, without turning around: **"There it is."** Partial. **Jonathon's call to Corpus Christi (Wed Oct 27):** the retired rep picked up on the second ring: **"Four years, son."** He'd known since the day it signed (the facilities director called him). "I figured you'd call when you were ready." On the plaque: "Hang it back up. Put my name on a sticky note if it makes you feel better." It's back on the wall with a yellow sticky note that says his first name. An invitation to fish the jetties in the spring. **Jonathon's card (Tue Oct 26, late):** his hand stopped on "paid"; he couldn't write it; he told Wes Thursday at breakfast; Wes said, "Then write it Thursday." He wrote it in the truck in the diner parking lot. Not said on air what's on it. **The nephew, by text:** "did the card thing. wrote paid in full. its in my hard hat." **The installer lunch happened (Tue Oct 26, Bandera, brisket plate):** he starts Mon Nov 1 with the residential outfit on the north side, less money, home by five; he paid for the tea. **Wes's season (what stuck):** the monthly lunch with the twenty-eight-year-old on his floor; full sentences in his texts; the register handed over; the money date set for the first Sunday night of November. **What didn't:** the one true word at supper every night (it lasted about ten days in September). **Open:** the coach letter, still unanswered; the youngest at the barn Saturday at six (the first real cold front is forecast to come through Friday night). **Keeps:** "Known is a table." **Jonathon's season (what stuck):** Choir Night, every Tuesday since September; calling the bottom three reps, not only the winners. **What didn't:** the Thursday word text to Wes (it fell off in early October). **Open:** the contractor breakfast promised for October slid to November (a miss, stated); telling Ruby the true thing about his dad, held for February. **Keeps:** the second question, "No. How are you?" **Wes's own season letter (Thu Oct 28, night):** one page at the kitchen table with the good pen; the what-didn't-stick part took about twenty minutes because he kept wanting to explain each line; read to his wife on the back porch: "the shortest I've ever been about myself"; she wrote the date on the envelope in her handwriting so he couldn't open it in December (the end-insert envelope). **The young man on Wes's floor (Mon Oct 25 lunch):** asked how a man knows when to quit working on a thing; Wes said his wife usually knows; the young man wrote it down. **The sixty-one-year-old (let go in June):** still no job; tomatoes in the fall garden; the grandson; "I don't know what I'm for if I'm not for that." |
 
 ## Title options
 
 1. What Did Fall Teach Us About Work? | Field Notes Ep. 86
-2. "Took You Long Enough."
+2. "Four Years, Son."
 3. The Season Letter
 
 ## Thumbnail
@@ -37,7 +37,7 @@ JONATHON: The man in Corpus picked up on the second ring.
 [CAM: WES MS]
 WES: What'd he say?
 [CAM: JON CU]
-JONATHON: "Took you long enough."
+JONATHON: "Four years, son."
 [STING 3s]
 
 [CHAPTER: Intro]
@@ -79,7 +79,7 @@ JONATHON: I told you Thursday, at breakfast, like the challenge said. I said, "I
 [CAM: WES CU]
 WES: Two days late is still paid.
 [CAM: JON CU]
-JONATHON: That's what I'm going with. Now the call. Wednesday, at lunch, I called the man in Corpus. I'd had his number for four years. And he picked up on the second ring, and I said who it was, and the first thing he said was, "Took you long enough."
+JONATHON: That's what I'm going with. Now the call. Wednesday, at lunch, I called the man in Corpus. I'd had his number for four years. And he picked up on the second ring, and I said who it was, and the first thing he said was, "Four years, son."
 [CAM: JON MS]
 JONATHON: He knew. The whole time. The facilities director at the hospital called him the day the order signed, to thank him. So he's known for four years that I took the plaque on his deal. And he said, "I figured you'd call when you were ready." Four years he waited, and he never said a word to anybody.
 [CAM: WES MS]
@@ -90,7 +90,7 @@ JONATHON: He laughed. He said, "I don't want it. Hang it back up. Put my name on
 WES: That's the best plaque in Texas now.
 [CAM: JON MS]
 JONATHON: And he wants me to come down in the spring and fish the jetties with him. And I'm going. I told him about the hardhead catfish, and he laughed for about a minute and said he'd show me the right way to grab one.
-[TEXT: "Took you long enough."]
+[TEXT: "Four years, son."]
 [CAM: JON CU]
 JONATHON: And the single check, my nephew. He texted Wednesday. I'll read it as written. "did the card thing. wrote paid in full. its in my hard hat." In his hard hat. He's an apprentice electrician. So every morning on the job site he puts on a hat with that card in it.
 [CAM: WES MS]
@@ -238,21 +238,21 @@ WES: Produced with AI voice and video tools.
 
 | # | Cut | Hook | Length |
 |---|---|---|---|
-| 1 | Took you long enough (from "That's what I'm going with. Now the call." through "Dani walked by it last night and didn't say anything, and then she came back and fixed the corner so it was straight.") | "Took you long enough." | about 90 s |
+| 1 | Four years, son (from "That's what I'm going with. Now the call." through "Dani walked by it last night and didn't say anything, and then she came back and fixed the corner so it was straight.") | "Four years, son." | about 90 s |
 | 2 | Number the days (from "Here's the verse I'd give him, and I'd give it to myself." through "Maybe more than in one with.") | "Teach us to number our days." | about 50 s |
 
 ## YouTube description
 
 ```
-What did the fall teach two working men about work, and the weight of it? A sixty-one-year-old who's been out of work since June asked it at the Thursday table. Wes and Jonathon say the work isn't the man, that the weight gets heavier without the job, and that a man can still be known when he's not noticed, and read Psalm 90:12. Then the tool: the season letter. Plus the end of the season, what stuck and what didn't, the phone call to Corpus Christi that started with "Took you long enough," and an installer who starts Monday and gets home by five.
+What did the fall teach two working men about work, and the weight of it? A sixty-one-year-old who's been out of work since June asked it at the Thursday table. Wes and Jonathon say the work isn't the man, that the weight gets heavier without the job, and that a man can still be known when he's not noticed, and read Psalm 90:12. Then the tool: the season letter. Plus the end of the season, what stuck and what didn't, the phone call to Corpus Christi that started with "Four years, son," and an installer who starts Monday and gets home by five.
 
 Chapters
 00:00 Cold open
-00:11 Intro
+00:10 Intro
 00:35 Check the box
 05:45 From the table
-11:26 Tool on the table
-15:52 What stuck
+11:25 Tool on the table
+15:51 What stuck
 20:51 Carry this
 21:00 Outro
 
@@ -286,7 +286,7 @@ walksteadfast.com · @steadfastwalk
 ## Reading narrative
 
 # Season Review: The Long Road
-### Walk Steadfast, Field Notes, Episode 86 · October 29, 2027
+### Walk Steadfast, Field Notes, Episode 86
 
 A sixty-one-year-old who lost his job in June asked what the fall taught two working men about work and its weight. He brought fall tomatoes to the table in a grocery sack and talked about them for five minutes. Then he said, "I don't know what I'm for if I'm not for that."
 
@@ -315,5 +315,5 @@ Scripture quotations taken from The Holy Bible, New International Version®, NIV
 - **Field Notes structure.** Report by 1:15 (Wes's card). A miss by 3:30 (Wes's "only two lunches," then Jonathon's hand stopping on "paid"). The re-orienting clause is the first line of From the table ("This is the last Friday of the fall, the season we called The Long Road"). No subscribe line before the outro. One verse.
 - **Single check by text, read aloud.** The nephew (his card in his hard hat). E084 had Wes's oldest.
 - **Setups.** The cold front is forecast for Friday night; the barn at six is Saturday (reported in E088). The coach letter stays open (E089). The contractor breakfast slid to November (stated as a miss). Telling Ruby is held for February.
-- **Round 9 limits.** Dani: not quoted (the sticky note corner is reported). Virgil: none. Sales lens: none. Show about itself: one ("I said on this microphone I'd buy the installer lunch"). Kid-catches-dad: one (Wes's daughter, "unsettling"). One-word reply: none. Deadpan payoff: one (the cold open, "Took you long enough."; paid back in What stuck, "I learned that from a man in Corpus."). Knee or age beat: none. "Sir": none. "Brother" as address: none. Wes's dad: none. Jonathon's father: one line, held for February, no call. Prayer-aloud crack: not touched.
+- **Round 9 limits.** Dani: not quoted (the sticky note corner is reported). Virgil: none. Sales lens: none. Show about itself: one ("I said on this microphone I'd buy the installer lunch"). Kid-catches-dad: one (Wes's daughter, "unsettling"). One-word reply: none. Deadpan payoff: one (the cold open, "Four years, son."; paid back in What stuck, "I learned that from a man in Corpus."). Knee or age beat: none. "Sir": none. "Brother" as address: none. Wes's dad: none. Jonathon's father: one line, held for February, no call. Prayer-aloud crack: not touched.
 - **Setups for E087 (Small Ways to Serve at Home; Mark 10:45; Go First; T premiere, Lay It Down; Mr. Abernathy's question; season 8, Thanks).** The barn tomorrow. Virgil and Ruby on second Saturdays.

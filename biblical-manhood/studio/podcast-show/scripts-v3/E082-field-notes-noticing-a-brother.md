@@ -297,7 +297,7 @@ walksteadfast.com · @steadfastwalk
 ## Reading narrative
 
 # Noticing a Brother
-### Walk Steadfast, Field Notes, Episode 82 · October 15, 2027
+### Walk Steadfast, Field Notes, Episode 82
 
 A rancher in his late sixties sold most of his cattle after a dry summer. Then he stopped going to the Saturday sale barn and to church, gave his good saddle to a neighbor's boy, and told the man who sells him crop insurance, "You won't have to worry about me much longer." The crop-insurance man wanted to know if he was making something out of nothing. He isn't. Those are warning signs.
 

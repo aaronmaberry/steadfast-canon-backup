@@ -274,7 +274,7 @@ walksteadfast.com · @steadfastwalk
 ## Reading narrative
 
 # The Budget Talk
-### Walk Steadfast, Field Notes, Episode 84 · October 22, 2027
+### Walk Steadfast, Field Notes, Episode 84
 
 A young father in a school pickup line said every money conversation in his house turns into a fight. It came out that he opens the credit card bill at ten at night, alone, and walks into the bedroom with it in his hand. The fight isn't about the money. It's about the ambush.
 
