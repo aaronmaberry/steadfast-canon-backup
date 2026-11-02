@@ -48,7 +48,7 @@ WES: This is Walk Steadfast, new season. I'm Wes Hart, fifty-two, from the Hill 
 [LOWER THIRD: Wes Hart]
 JONATHON: I'm Jonathon. I run a regional sales team.
 [LOWER THIRD: Jonathon]
-WES: Through Labor Day, following Jesus as a man starts where you live. The book and the Steadfast video training are on walksteadfast.com.
+WES: All season, following Jesus as a man starts where you live. The book and the Steadfast video training are on walksteadfast.com.
 JONATHON: Today we ask what work was for in the first garden.
 WES: Episode fifty-three. Before Anything Went Wrong.
 
@@ -487,7 +487,7 @@ Scripture quotations taken from The Holy Bible, New International Version®, NIV
 ## Production notes
 
 - **v3 length.** Main target 45-60 min (brief). See the batch report for the count. Added material: the porch contest result, Jonathon's "Thanks" on the call, the Buick and "Drive careful" (E031 canon), the corner post, Lorraine and the machine shop, the "placed" argument, Wes's first answer to Mr. Abernathy, the nineteen-year-old farm kid, Jonathon's warning about fixing the man in the truck, and the phone in Dani's glove box.
-- **The open says "Through Labor Day."** That wording is fixed in `_build/intros_data.py` (not editable in this pass). Flagged in the batch report.
+- **Open line reworded in the script only.** `_build/intros_data.py` has "Through Labor Day, following Jesus as a man starts where you live." The brief keeps dates out of the open, so the script reads "All season, ..." intros_data.py is not edited (CHANGELOG-V3).
 - **Plug tense.** v1 used future tense. v3 is present tense, per SHOW-BIBLE 8a. The sub-mid now sits before the Word and the plug after it, about five minutes apart (CHANGELOG-V3).
 - **Jonathon's real pushback (brief).** "God's got you right where He wants you" against Wes's "He was placed." Wes concedes in one turn ("I said that too tidy"); it resolves inside two minutes. Not a two-chairs moment.
 - **Jonathon's two stories.** The midnight compressor and Lorraine's machine shop. The planning meeting is a third.

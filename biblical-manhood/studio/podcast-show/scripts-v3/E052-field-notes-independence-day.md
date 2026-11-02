@@ -43,7 +43,7 @@ WES: My neighbor's porch light came on about halfway through. Then it went off.
 [CHAPTER: Intro]
 [CAM: 2S]
 (Walk Steadfast open written for E052. Same beats every week, new words. SHOW-BIBLE section 5.)
-JONATHON: This is Walk Steadfast on the holiday weekend. I'm Jonathon. I asked my father-in-law a second question.
+JONATHON: This is Walk Steadfast, holiday edition. I'm Jonathon. I asked my father-in-law a second question.
 [LOWER THIRD: Jonathon]
 WES: I'm Wes Hart. My wife says I rush the end.
 [LOWER THIRD: Wes Hart]
@@ -277,7 +277,7 @@ Scripture quotations taken from The Holy Bible, New International Version®, NIV
 ## Production notes
 
 - **v3 length.** Field Notes target 20-25 min (brief). See the batch report for the count. Added material: the porch contest, why Wes rushes the end, Jonathon at the car, the nephew's "empty hours," the two ditches in Galatians, Gethsemane as Jesus praying aloud, and a season look-back for each man.
-- **The open says "holiday weekend."** That wording is fixed in `_build/intros_data.py` (not editable in this pass). It's the only calendar "weekend" in the batch. Flagged in the batch report.
+- **Open line reworded in the script only.** `_build/intros_data.py` has "This is Walk Steadfast on the holiday weekend." The brief avoids "weekend," so the script reads "This is Walk Steadfast, holiday edition." intros_data.py is not edited (CHANGELOG-V3).
 - **Wes's prayer crack stays open.** "Sitting next to my wife, out loud, just the two of us, I still can't do it." Don't resolve it before about E083.
 - **The Fourth, no politics.** "I love this country" and "a free country can't make a free man," with no party, policy or candidate. Paul's prison letters are mentioned in general.
 - **Galatians context.** The letter is against circumcision-and-law as a condition of belonging; Wes says it as "a list of rules to really be in." Galatians 5:1 quoted in part, exactly. Gethsemane paraphrased (Mark 14:35-36: fell to the ground; "Abba, Father"; take this cup).
