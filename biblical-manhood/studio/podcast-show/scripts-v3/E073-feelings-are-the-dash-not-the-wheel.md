@@ -229,7 +229,7 @@ WES: That's encouraging to me. Because I've had that talk with myself more than 
 [CAM: JON MS]
 JONATHON: And "disturbed within me" is the one that gets me. Because that's what left out felt like for five days. Not a big feeling. Not tears at supper. Just stirred up. Something going around in there that I kept walking past. And later in the psalm he talks about the deep calling to the deep, the roar of the waterfalls, the waves going over him. That's the inside of a man who won't name it. It's loud in there, and he's acting like the room is quiet.
 [CAM: WES CU]
-WES: And the psalm doesn't say, don't be disturbed. Nobody tells him to cheer up. It says, ask why, out loud, and then tell your soul where it's going. That's a thing a man can actually do on a Tuesday night with a four-year-old in the tub.
+WES: And the psalm doesn't say, don't be disturbed. Nobody tells him to cheer up. It says, ask why, out loud, and then tell your soul where it's going. That's a thing a man can actually do on a Tuesday night with a five-year-old in the tub.
 [CAM: JON CU]
 JONATHON: In the tub, with the bath song going.
 [CAM: WES MS]

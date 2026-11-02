@@ -280,4 +280,4 @@ Scripture quotations taken from The Holy Bible, New International Version®, NIV
 - **No host-to-host affirmation.** "That's harder for you than a speech" is a jab.
 - **Tuesday's title.** The outro names E055 by its new title, "Some Saturdays" (retitled 2026-10-03).
 - **Ecclesiastes 2:24's trailing comma.** Kept, with an ellipsis after it on the card and in the spoken line (2026-10-03). Wes lets it trail. The author is "the man who wrote this," with no name claimed.
-- **Setups for E055 (Some Saturdays, from book ch20; ch20/W20; 2 Cor 5:15; Work for God's Pay; training plug session 20).** The truck continues quietly. Jonathon's August days off. The rep and his days. The Rangers stay bad. The grocery pad.
+- **Setups for E055 (Some Saturdays, from book ch20; ch20/W20; 2 Cor 5:15; Work for God's Pay; training plug session 20).** The truck continues quietly. Jonathon's August day off. The rep and his days. The Rangers stay bad. The grocery pad.

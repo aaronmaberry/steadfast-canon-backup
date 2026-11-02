@@ -254,7 +254,7 @@ WES: "Okay. Six." That's honest. That's not pretending he's coming and it's not 
 [CAM: WES MS]
 WES: Now the prayer. Because Dani said "You're praying," and I'd say that's the most important line anybody's said to you this month.
 [CAM: JON MS]
-JONATHON: I'll be honest, my first thought was, "Can Theo do it?" Because Theo's four and he'll pray for the turkey's family, and everybody'll laugh, and the pressure's off. That's my move. I hand it to the cute one.
+JONATHON: I'll be honest, my first thought was, "Can Theo do it?" Because Theo's five and he'll pray for the turkey's family, and everybody'll laugh, and the pressure's off. That's my move. I hand it to the cute one.
 [CAM: WES CU]
 WES: And there are a lot of ways to hand it off. The cute kid. Grandma. The uncle who knows the King James. The man who prays at church, which in my family has been me. And there's nothing wrong with any of them praying, some years. But a man who's never once prayed at his own table, Jonathon, that man has outsourced something he was meant to carry. Pick Up the Weight, that's another mark, and it's sitting right there on the platter.
 [CAM: JON CU]

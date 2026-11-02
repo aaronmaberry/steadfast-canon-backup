@@ -167,7 +167,7 @@ WES: That's the whole ministry, sometimes. A water through two inches of window.
 [CAM: JON MS]
 JONATHON: So my only push for Austin is, next time it doesn't have to be alone. You've got men you could call from that parking lot. You don't have to say anything. Just let somebody be on the line. Let somebody hand you a water.
 [CAM: JON CU]
-JONATHON: And I'll tell you what I do with Theo, because he's four and he cries about once an hour. I used to say, "You're okay, you're okay," which is a nice way of saying stop. Now I try to say, "That hurt," or "That's sad," and just sit there. He stops faster. Every time. What a boy wants when he cries isn't for it to be over. It's for somebody to see it.
+JONATHON: And I'll tell you what I do with Theo, because he's five and he cries about once an hour. I used to say, "You're okay, you're okay," which is a nice way of saying stop. Now I try to say, "That hurt," or "That's sad," and just sit there. He stops faster. Every time. What a boy wants when he cries isn't for it to be over. It's for somebody to see it.
 [CAM: WES MS]
 WES: And third, "is it unmanly." Here's a verse I'd give him. It's about Joseph. Second most powerful man in Egypt. Ran the whole country's food supply through a famine. And his brothers, the ones who sold him, are standing in front of him, and they don't know who he is yet. And he sends everybody out of the room, and then this.
 [CAM: JON MS]
@@ -238,7 +238,7 @@ JONATHON: And sometimes there's only one. Tuesday night at nine-forty, when the 
 [CAM: WES MS]
 WES: And here's how it goes wrong. You can use two words as a weapon. "I'm hurt and disappointed," said in a certain tone, is a speech with two words in it. If your two words are aimed at somebody, they're not a reading, they're a verdict. The tool's for telling the truth about you, not the truth about her.
 [CAM: JON MS]
-JONATHON: I've done that one. "I'm just frustrated and confused," to Dani, about the dishwasher. Which meant, you loaded it wrong. Theo knew what it meant, and he's four.
+JONATHON: I've done that one. "I'm just frustrated and confused," to Dani, about the dishwasher. Which meant, you loaded it wrong. Theo knew what it meant, and he's five.
 [CAM: WES CU]
 WES: And if the second word keeps coming up the same dark thing for weeks, hopeless, or done with all of it, that's not a two-word problem anymore. Tell a man today and call your doctor. If it scares you, call or text 988.
 [TEXT: The first word wants to drive. The second word knows where to go.]

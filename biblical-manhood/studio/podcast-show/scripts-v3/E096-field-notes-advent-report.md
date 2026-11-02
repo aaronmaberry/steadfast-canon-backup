@@ -125,7 +125,7 @@ WES: I left it in my pocket, and he answered it a month and a half later, by tex
 [CAM: WES MS]
 WES: From the table. And this one's Jonathon's, he said so Tuesday. And I'll say right up front that I'm only two days ahead of him. I watched my wife do this for twenty-seven years. I've never once led it.
 [CAM: JON MS]
-JONATHON: Here's the question. How do I lead Advent at home if we've never done it? My family never lit a candle in our lives, except when the power went out in a hurricane. Dani's family did one of those calendars with chocolate behind the little doors. That was Advent. You ate a chocolate every morning till Christmas. And I've got a seven-year-old and a four-year-old, and I'd like them to grow up with something more than chocolate. But I don't know any hymns by number. I barely know them by name.
+JONATHON: Here's the question. How do I lead Advent at home if we've never done it? My family never lit a candle in our lives, except when the power went out in a hurricane. Dani's family did one of those calendars with chocolate behind the little doors. That was Advent. You ate a chocolate every morning till Christmas. And I've got a seven-year-old and a five-year-old, and I'd like them to grow up with something more than chocolate. But I don't know any hymns by number. I barely know them by name.
 [CAM: JON CU]
 JONATHON: And I'll be honest about the real fear. I'm scared it'll feel fake. That I'll light a candle and read something and my kids will look at me like I'm wearing a costume. Like Dad's doing a church voice at the kitchen table. Because I've never done anything like this. If I start now, at thirty-seven, it'll feel like I'm putting on a show.
 [CAM: WES CU]
@@ -145,13 +145,13 @@ WES: Advent means coming. It's the four Sundays before Christmas, and the old ch
 [CAM: JON CU]
 JONATHON: That's actually beautiful. I didn't know it was about the dark. I thought it was about the candles.
 [CAM: WES CU]
-WES: It's about the light coming into the dark. The candles are just how you show a four-year-old. And there's one verse I'd hand you, because I think it's the whole season in one line. John doesn't start his gospel with a manger. He starts it with a light.
+WES: It's about the light coming into the dark. The candles are just how you show a five-year-old. And there's one verse I'd hand you, because I think it's the whole season in one line. John doesn't start his gospel with a manger. He starts it with a light.
 [CARD: John 1:5]
 WES: "The light shines in the darkness, and the darkness has not overcome it."
 [CAM: JON MS]
 JONATHON: "Has not overcome it." Present tense. Like it's still going. The dark's still trying, and the light's still winning.
 [CAM: WES MS]
-WES: That's how I hear it. And here's why it fits a man who's never done it. You don't need a whole system. You need a candle, a match, and a verse that small. A four-year-old can understand that verse. Dark. Light. The light wins. And a thirty-seven-year-old sales manager who's scared it'll feel fake can read it without a church voice, because there's nothing in it to perform.
+WES: That's how I hear it. And here's why it fits a man who's never done it. You don't need a whole system. You need a candle, a match, and a verse that small. A five-year-old can understand that verse. Dark. Light. The light wins. And a thirty-seven-year-old sales manager who's scared it'll feel fake can read it without a church voice, because there's nothing in it to perform.
 [CAM: JON CU]
 JONATHON: And can I say one more fear, the honest one? I'm scared I'll start it and quit. We'll do three nights and then it's soccer and Dani's shift and a work dinner, and the candle sits there on the table, and every time I look at it, it's another thing I didn't finish. I've got a garage full of projects like that.
 [CAM: WES CU]
@@ -187,7 +187,7 @@ WES: Step five. Let a kid blow it out. That's their part. It's the part they'll 
 [CAM: JON CU]
 JONATHON: We're going to need a rotation chart for that. Ruby and Theo will go to war over the candle. I can already see it. Ruby will make a labeled chart. It'll be laminated.
 [CAM: WES MS]
-WES: How it goes wrong. You make it a production. Four candles, a printed booklet, a hymn, a craft, and a twenty-minute devotional for a four-year-old. That's how you quit by the eighth. Keep it to about five minutes. Light, read, ask, blow it out. Then eat.
+WES: How it goes wrong. You make it a production. Four candles, a printed booklet, a hymn, a craft, and a twenty-minute devotional for a five-year-old. That's how you quit by the eighth. Keep it to about five minutes. Light, read, ask, blow it out. Then eat.
 [CAM: JON CU]
 JONATHON: And the second way it goes wrong is you miss two nights and quit out of guilt. You just said it. The candle doesn't keep score. Light it the next night you're home. And the third way is the lecture. Me, explaining the historical context of Isaiah to a seven-year-old. Or you, apparently.
 [CAM: WES CU]

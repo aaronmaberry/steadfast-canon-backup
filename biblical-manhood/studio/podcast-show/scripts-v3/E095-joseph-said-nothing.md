@@ -296,7 +296,7 @@ JONATHON: That's the Beaumont manager. That's exactly him. "Hm," and show you ag
 [CAM: WES MS]
 WES: I think they all went to the same shop. And here's what I think it means for a man listening. You're teaching your kids a trade whether you mean to or not. Maybe not carpentry. But how a man handles a hard morning. How he talks to his wife when he's tired. How he gets up. Jesus learned what a man's hands do in Joseph's shop. Your kids are learning it in yours, and your shop might be the truck and the kitchen.
 [CAM: JON CU]
-JONATHON: And mine's a sales floor and a home office with a door that doesn't close all the way. Theo stands in that doorway when I'm on calls. He's four. He's got a plastic phone, and he's started pacing. He paces back and forth in the hall with his plastic phone saying, "Yeah. Yeah. Let me circle back." Dani filmed it.
+JONATHON: And mine's a sales floor and a home office with a door that doesn't close all the way. Theo stands in that doorway when I'm on calls. He's five. He's got a plastic phone, and he's started pacing. He paces back and forth in the hall with his plastic phone saying, "Yeah. Yeah. Let me circle back." Dani filmed it.
 [CAM: WES CU]
 WES: (laughs) He's apprenticed to a closer. "Let me circle back." That boy's going to have a company truck by the time he's twelve.
 [CAM: JON MS]

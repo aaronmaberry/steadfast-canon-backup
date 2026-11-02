@@ -87,7 +87,7 @@ JONATHON: I know now. And then I prayed. I stood at the end of the table, and I 
 [CAM: WES MS]
 WES: (laughs) He got his in. He was going to get his in no matter who prayed.
 [CAM: JON CU]
-JONATHON: Rudy cracked up. Wheezing, one hand over his mouth. First real laugh out of him at a table with me in a year. My four-year-old did more for that peace than I did.
+JONATHON: Rudy cracked up. Wheezing, one hand over his mouth. First real laugh out of him at a table with me in a year. My five-year-old did more for that peace than I did.
 [TEXT: "Your house."]
 
 [CHAPTER: Both pies]

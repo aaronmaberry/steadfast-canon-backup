@@ -138,7 +138,7 @@ JONATHON: (beat) You're going to make me say it, out loud, with a microphone on.
 [CAM: WES CU]
 WES: I'm not making you say anything. I'm asking.
 [CAM: JON CU]
-JONATHON: Fine. Because I like to win the room. That's my thing. I've said it on here before. When I have people over, I want it to go great. I want the house clean, I want the food good, I want everybody leaving going, man, they've got it together. And with a four-year-old, you can't win the room. There's milk on the couch. There's a kid in the hallway in his underwear. So I didn't lose the room. I just never opened the door.
+JONATHON: Fine. Because I like to win the room. That's my thing. I've said it on here before. When I have people over, I want it to go great. I want the house clean, I want the food good, I want everybody leaving going, man, they've got it together. And with a five-year-old, you can't win the room. There's milk on the couch. There's a kid in the hallway in his underwear. So I didn't lose the room. I just never opened the door.
 [CAM: WES MS]
 WES: So the season wasn't the reason.
 [CAM: JON MS]

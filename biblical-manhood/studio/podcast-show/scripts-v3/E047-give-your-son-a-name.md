@@ -80,7 +80,7 @@ WES: The thing my dad did. Pulled onto the shoulder for every one, took his hat 
 [CAM: JON CU]
 JONATHON: On his knee. Like your dad. Did he ever see your dad do it? He'd have been pretty little.
 [CAM: WES CU]
-WES: He was six when my dad died. He doesn't remember my dad pulling over. He got the knee from me. I didn't know I did the knee. (beat) And we sat there till the last car went by. And then he put his cap back on and pulled out and asked if we could get a Coke.
+WES: He was seven when my dad died. He doesn't remember my dad pulling over. He got the knee from me. I didn't know I did the knee. (beat) And we sat there till the last car went by. And then he put his cap back on and pulled out and asked if we could get a Coke.
 JONATHON: And you said what? I know what I'd have said. I'd have made a speech, and he'd have turned the radio up.
 WES: I said, "Your granddad used to do that." And he said, "I know. You do it." And that was the whole conversation. And we got the Coke.
 [CAM: JON MS]
@@ -467,7 +467,7 @@ Scripture quotations taken from The Holy Bible, New International Version®, NIV
 - **Training plug honesty.** The 24 video sessions (W01-W24) have no sons session, so the plug names session ten, The Father Who Does Not Leave (W10), and says it's the closest. One session, by number and title. Present tense.
 - **"Bud" and the book.** The book's Ray story uses "bud" in "What is wrong with you, bud?" The show's "bud" is pre-existing canon (E029, "Hey, bud.") and is never put in that sentence. The scene (a notes-app tally, the father's word) is new.
 - **Jonathon's real pushback** is the new chapter Careful what you name him. "The man of the house" was a name and a job; "you're a leader" can be the same. Wes concedes with his own example ("my steady one," the oldest at his granddad's funeral) and lands the line "Name what you saw, not what you need." Jonathon adds "built for the bad day." Wes uses it on the phone with the oldest in Going first ("You don't have to be the steady one anymore").
-- **"My steady one."** New Wes canon. The oldest (21 now) was about eleven or twelve when Wes's dad died (the youngest was six, five years younger). Consistent with E048's locked "almost nine years." Don't expand the funeral beyond this.
+- **"My steady one."** New Wes canon. The oldest (21 now) was about twelve when Wes's dad died (the youngest was seven, five years younger). Consistent with E048's locked "almost nine years." Don't expand the funeral beyond this.
 - **Second two-chairs moment** (from v1): Wes defends nicknames ("Sport"). Jonathon: "a placeholder" from a distant man. Wes: "I'm not going to tell a man his nickname's a sin." Jonathon: "I'm saying count it." Unresolved.
 - **Jonathon's grandmother's ring** (pawned by his mom one winter, bought back at 24). New, one line, fits his mom's money worries. Don't expand.
 - **The glove box callback** (E028 canon, told to the oldest in April). Retold briefly, with the son's line "I wish I'd known that at fourteen" quoted as canon. "Seven more years" is fourteen to twenty-one.

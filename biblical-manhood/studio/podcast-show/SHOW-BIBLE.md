@@ -561,7 +561,7 @@ The year is one long table. Each season has its own question, the open and the s
 - **Jonathon's nephew** (22, Houston, two roommates). The first single check (E014), Sunday lunch (E058).
 - **Dani's singing.** In the car (E059), the audition (E062-E064), Choir Night (E074). Plan: a Christmas service (E101 or E102), reported in her words once.
 - **The Bluebonnets** (spring coach-pitch). 0-6 last fall, the laminated lineup, the real win under the lights (E036). They come back in conversation, not as a season.
-- **Ruby's dog, Pancake.** "After Theo turns five, in August" (E007), "Yet." (E044), the week off for Theo's birthday when Pancake arrives (E053). Plan: Pancake's first Christmas, one line (E102).
+- **Ruby's dog, Pancake.** "After Theo turns five, in August" (E007), "Yet." (E044), the day off for Theo's birthday, the week Pancake arrives (E053). Plan: Pancake's first Christmas, one line (E102).
 - **Wes's "K" texts** (E008, E014). Full sentences by E074. Plan: E104's last text is a full sentence.
 - **Wes's oldest son.** The apprentice (E010, E028), the job that stays (E077). The weld bead and the welding lessons with the youngest (E069, E075).
 
