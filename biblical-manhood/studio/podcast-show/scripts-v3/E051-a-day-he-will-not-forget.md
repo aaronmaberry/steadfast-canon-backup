@@ -483,5 +483,5 @@ Scripture quotations taken from The Holy Bible, New International Version®, NIV
 - **"Brother."** None from Wes (the v1 "Brother, I love that" became "I love that").
 - **The steakhouse booth.** New in v1, kept. Said plainly, not played for laughs.
 - **The little brother's Abilene thread** is left open.
-- **The date of the day.** A Saturday in October after the first cold front (about E065-E067). It needs a payoff episode.
+- **The date of the day.** A Saturday in October after the first cold front. The SHOW-BIBLE payoff table puts the day on Sat Oct 30, reported in E088.
 - **Setups for E052 (Field Notes: Independence Day; season 5 review; "What does freedom mean for a Christian man?"; tool: the porch prayer).** Wes and his wife still don't pray together out loud (hold to about E083).
