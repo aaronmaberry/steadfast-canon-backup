@@ -171,7 +171,7 @@ WES: (sips coffee) I'd have taught him wrong.
 JONATHON: Five. End with food. Every time. Tailgate, gas-station burritos, whatever. That's the part he'll remember in twenty years. Not the fence. Sitting on the tailgate with you when it's done, talking about nothing, with sawdust in his hair.
 WES: My dad's was a can of Vienna sausages and a sleeve of crackers on the tailgate. Every Saturday for three years. I can't stand Vienna sausages. I'd eat a can right now if he handed it to me.
 [CAM: WES MS]
-WES: And for the men who don't have a son in the house. Divorced dads, if you've got him every other weekend, pick a project that waits for him. Something that's still there two weeks later, right where he left it. A boat you're fixing. A garden bed. His part's his part. Don't finish it while he's gone.
+WES: And for the men who don't have a son in the house. Divorced dads, if you've got him every other Friday to Sunday, pick a project that waits for him. Something that's still there two weeks later, right where he left it. A boat you're fixing. A garden bed. His part's his part. Don't finish it while he's gone.
 JONATHON: Single guys, ask a man you know if you can bring a nephew, or a kid at church, along on his project, with the parents' okay. You don't have to own the project. You can carry somebody else's lumber. That's how most of us learned anything.
 [TEXT: Real reason. Same time. Next to him. End with food.]
 

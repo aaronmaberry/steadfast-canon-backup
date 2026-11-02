@@ -172,8 +172,8 @@ JONATHON: He got them on. Both. Right feet. Velcro flat. And he stood up and sto
 JONATHON: And Friday he did it again, by himself, without me saying anything. Seven minutes. I sat on the floor again. Dani walked past with her coffee, looked at the two of us on the floor, and kept walking. She didn't say a word. That's the nicest thing she's done for me all month.
 WES: She knows better than to narrate it.
 JONATHON: She's a nurse. She's watched a thousand people learn to do something hard while somebody else stood there wanting to help. She knows exactly when to keep walking.
-WES: My wife did that for me the first year we were married. I'd never cooked a thing. I was making her eggs on a Saturday, badly, smoke alarm going, and she came in and opened a window and walked out. Didn't take the spatula. Didn't say turn it down. I've made the eggs every Saturday for twenty-some years now. If she'd taken the spatula, she'd still be making them.
-JONATHON: That's the scariest thing in the world for a fast person. Opening the window and walking out while the pan's still smoking.
+WES: My wife did that for me the first year we were married. I was putting up a ceiling fan, badly, and I got a little spark off a wire. She came in, went to the box in the hall, flipped the breaker off, and walked out. Didn't take the screwdriver. Didn't say call somebody. I've hung every fan in that house since. If she'd taken the screwdriver, we'd still be paying an electrician.
+JONATHON: That's my mom and the disposal switch, except your wife flipped it and then walked out and let you finish. Same switch. Different hill.
 [TEXT: I put the keys in my pocket.]
 
 [CHAPTER: The Word]
@@ -291,7 +291,7 @@ JONATHON: (laughs)
 WES: I'm serious. Whose? If you picked every one of them, and you're paying for every one of them, and you'd be mad if he quit any of them, those might be your hills. A hill a boy owns is one where he can see what it's for. Travel ball's fine. Ask him what he'd fight for if nobody was keeping score. He might not know. That's your answer.
 JONATHON: And I'll add one, because I was this kid. Travel ball had a scoreboard, so of course I loved it. But nobody ever gave me something hard where the only reward was that somebody else had water. That's the one I didn't get. Your son can have both.
 [CAM: JON CU]
-JONATHON: I'll take the divorced dad. "I get him every other weekend. I'm not going to spend it making him work. I want him to want to come."
+JONATHON: I'll take the divorced dad. "I get him two days out of every fourteen. I'm not going to spend it making him work. I want him to want to come."
 WES: Go.
 JONATHON: I get that. I'd feel the same. I'm not going to tell you to make him dig ditches. Here's another way. Let him see your hill. Whatever you're fighting for. If you coach, take him. If you serve at a food pantry on Saturdays, take him. He doesn't need his own hill at your place. He needs to see his dad climb one.
 WES: Why does that matter more for him than for a boy who's home every night?
@@ -415,13 +415,13 @@ Chapters
 00:41 Pull up a chair
 11:35 The cedar
 17:53 The shoes
-22:11 The Word
-34:56 Saturday at the cedar
-39:59 Pushback
-49:05 Going first
-51:24 The challenge
-52:57 Carry this
-53:07 Outro
+22:13 The Word
+34:58 Saturday at the cedar
+40:01 Pushback
+49:08 Going first
+51:26 The challenge
+53:00 Carry this
+53:09 Outro
 
 Scripture: 1 Thessalonians 2:11-12 (NIV)
 
