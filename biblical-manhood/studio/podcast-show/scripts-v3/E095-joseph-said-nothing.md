@@ -15,7 +15,7 @@ Walk Steadfast · main episode · script v3 (batch E089-E096, new). Internal. Se
 | Standing outro | Variant B, reworded (Friday's Advent report instead of Tuesday's topic). |
 | Wardrobe | Wes: brown waffle henley. Jonathon: charcoal waffle henley. |
 | Props | Standard set. A small block plane on the table by Wes's mug, there from the top of the episode and named in The carpenter's son (it was his granddad's). |
-| New continuity | See the continuity row in scripts-v3/BATCH-REPORT-E089-E096.md. In short: **the hour in the truck:** in October Wes and his oldest drove to Seguin and back for a used welder; about forty words the whole way; at the end, the son said **"This is good."** (his granddad's line, E091). **Jonathon's first manager in Beaumont** picked him up at five-forty in the morning and drove him to a customer in Orange after Jonathon, twenty-four, shorted an order; said nothing either way; stood behind him while he apologized; in the car after, **"Not bad, kid."** **Jonathon's pushback:** his dad was quiet too, and quiet left. **The man Wes waited on:** a man from his Sunday school class whose son died, about fifteen years ago; Wes meant to call "when it settled"; the man moved to his daughter's in Lubbock; Wes never called. **Wes's wife has lit the Advent candles at supper for twenty-seven years** (she lit the first one Sunday); Wes has never lit one. **Ruby still rides with training wheels;** Jonathon has said "when it's warmer" since spring. **Go-firsts (Stop Waiting moves):** Wes lights the candle and reads the verse at supper Wednesday; Jonathon takes Ruby's training wheels off Wednesday after school and talks less than she does. |
+| New continuity | See the continuity row in scripts-v3/BATCH-REPORT-E089-E096.md. In short: **the hour in the truck:** in October Wes and his oldest drove to Seguin and back for a used welder; about forty words the whole way; at the end, the son said **"This is good."** (his granddad's line, E091). **Jonathon's first manager in Beaumont** picked him up at five-forty in the morning and drove him to a customer in Orange after Jonathon, twenty-four, shorted an order; said nothing either way; stood behind him while he apologized; in the car after, **"Not bad, kid."** **Jonathon's pushback:** his dad was quiet too, and quiet left. **The man Wes waited on:** a man from his Sunday school class whose son died, about fifteen years ago; Wes meant to call "when it settled"; the man moved to his daughter's in Lubbock; Wes never called. Jonathon names it as the same pattern as the 2009 man in Amarillo (v3 E077-E080: "Same lie, newer phone," called in October, "Took you long enough"); Wes: "It's Amarillo's older brother." **Wes's wife has lit the Advent candles at supper for twenty-seven years** (she lit the first one Sunday); Wes has never lit one. **Ruby still rides with training wheels;** Jonathon has said "when it's warmer" since spring. **Go-firsts (Stop Waiting moves):** Wes lights the candle and reads the verse at supper Wednesday; Jonathon takes Ruby's training wheels off Wednesday after school and talks less than she does. |
 
 ## Title options
 
@@ -206,6 +206,10 @@ WES: The casseroles stopped, and I didn't call, because by then it felt strange 
 JONATHON: (quiet) Is he still alive?
 [CAM: WES MS]
 WES: I don't know. That's the honest answer. I've never looked. Which I'm just now hearing myself say out loud. And I think I know what I'm going to do with that.
+[CAM: JON CU]
+JONATHON: Wes. That's Amarillo. That's the man from 2009 all over again. You had his number for years, I said "Same lie, newer phone," and you finally called him in October.
+[CAM: WES CU]
+WES: It's Amarillo's older brother. Amarillo picked up and said, "Took you long enough." This one I never even got as far as a number. Which tells you it's not a one-time thing with me. It's a habit. A decent man's habit. Give it time, and then it's been too long.
 [TEXT: When Joseph woke up.]
 [CAM: JON CU]
 JONATHON: Before you go on. There's one more thing about Joseph, and I think it's the most important thing, and nobody talks about it. The name. The angel says, you're to give him the name Jesus. And at the end of chapter one, Matthew says Joseph did. He gave him the name. That's the closest thing Joseph has to a line in the whole Bible. The one word that's his is "Jesus."
@@ -418,14 +422,14 @@ Chapters
 03:02 Forty words
 06:46 Quiet that leaves
 10:54 The Word
-25:26 How to get up
-28:46 Quiet on purpose
-32:15 The carpenter's son
-35:38 Pushback
-41:45 Getting up
-44:31 The challenge
-45:38 Carry this
-45:48 Outro
+25:59 How to get up
+29:19 Quiet on purpose
+32:47 The carpenter's son
+36:10 Pushback
+42:18 Getting up
+45:03 The challenge
+46:11 Carry this
+46:20 Outro
 
 Scripture: Matthew 1:24, Matthew 2:14, James 4:17 (NIV)
 
