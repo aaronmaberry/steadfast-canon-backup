@@ -349,7 +349,7 @@ JONATHON: And then say one sentence to her that only you could say. Not "love yo
 [CAM: WES MS]
 WES: If your mom's gone, do the work for somebody else's. Find the oldest woman in your church, or your neighbor, or your buddy's mom, and do it for her, quietly, for your mother's sake. And tell God the sentence.
 [CAM: JON CU]
-JONATHON: Married guys, on a calm night before Sunday, ask your wife what she actually wants Sunday to be. Not what she's supposed to want. Tell her what you're planning for your mom first. Don't argue with her answer. Sit with it a day before you change anything.
+JONATHON: Married guys, on a calm night before Sunday, ask your wife what she actually wants Sunday to be. Not what she's supposed to want. Tell her what you're planning for your mom first. Whatever she says, take it. Give it a day before you change anything.
 WES: Single guys, call her before Sunday. Ask about her life before she gets to yours. You might find out she's got a Thursday.
 [CAM: JON MS]
 JONATHON: Divorced dads, help your kids honor their mother. Buy the card. Drive them. Say nothing. And if your mom was dangerous, you don't owe her a visit. You can honor her from a distance, and if Sunday's heavy, talk to somebody safe about it before it gets here.

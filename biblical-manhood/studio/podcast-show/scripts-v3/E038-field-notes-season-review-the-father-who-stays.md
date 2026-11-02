@@ -87,7 +87,7 @@ WES: She's had twenty-seven years of discovery. I'm going to drive four hours an
 
 [CHAPTER: From the table]
 [CAM: JON MS]
-JONATHON: From the table. And it's my nephew. Twenty-two. Single check, by text, and I'm going to read it exactly, because you know the punctuation matters. "what did yall learn about dads this season. asking for me."
+JONATHON: From the table. And it's my nephew. Twenty-two. Single check, by text, and I'll read it the way he typed it, because you know the punctuation matters. "what did yall learn about dads this season. asking for me."
 WES: "Asking for me." He put that on the end on purpose.
 JONATHON: "Asking for me." That's the most he's ever said about it. His dad hasn't been around much. That part's his to tell, not mine. But he's been listening all spring, and he wants to know what we've got. And I want to answer him without making it a sermon, because he'll smell a sermon from Pasadena.
 [CAM: WES MS]

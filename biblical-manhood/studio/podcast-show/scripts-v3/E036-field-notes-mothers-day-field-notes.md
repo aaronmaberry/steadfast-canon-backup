@@ -191,7 +191,7 @@ JONATHON: My handwriting looks like a ransom note, so Dani's checking the spelli
 WES: Married guys, write one to your wife too. From you, not from the kids. Proverbs thirty-one. The husband praises her. One true specific thing about how she mothers your kids. Put it where she'll find it Sunday morning.
 JONATHON: Divorced dads, help your kids write one to their mom. Hand them the pen and the card. You don't have to read it, and you don't have to like what they write.
 WES: If your mom's gone, write it anyway. Read it at her grave, or to God, or put it in your Bible. It still counts.
-JONATHON: And if your mom was dangerous, you don't owe her a note. If you want to write one, write it for yourself, and don't send it. Get help with whatever comes up when you do.
+JONATHON: And if your mother was a danger to you, a note isn't owed. If you want to write one, write it for yourself, and don't send it. Get help with whatever comes up when you do.
 [TEXT: Short. True. In your handwriting.]
 
 [CHAPTER: Carry this]
@@ -206,7 +206,7 @@ JONATHON: And carry this. Write it down. People keep paper, even with the spelli
 [CAM: 2S]
 JONATHON: That's Field Notes. Tuesday we're on men with no brothers. Which, Wes, is your quartet problem.
 WES: It's Merle's quartet problem. I just bring the coffee.
-JONATHON: Subscribe, the links are in the description, and the site is walksteadfast.com.
+JONATHON: Subscribe, and everything we mentioned is linked below, along with walksteadfast.com.
 WES: We'll see you at the table.
 [END SCREEN 20s]
 JONATHON: Go walk it out.

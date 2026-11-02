@@ -278,7 +278,7 @@ JONATHON: Thirty-three. "I'm an introvert. Being around people wears me out. I'm
 WES: Then don't join a men's group. I mean that. Find one man. Introverts are often better at this than the rest of us, because you'd rather have one real conversation than ten loud ones. You don't need a circle of folding chairs. You need one guy you can sit in a truck with for an hour and not talk the whole time. That counts.
 JONATHON: Speaking as a man who's never once been worn out by people, I'm jealous. I've got forty friends and none of them are that guy.
 WES: Sixty-six, retired. That's the next card. "All my friends were at work. I retired, and the calls stopped."
-JONATHON: You've got a Merle answer for this. I can see it on your face.
+JONATHON: You've got a Merle answer for this. You're already smiling.
 WES: I've got a Merle answer. Put up a card. I'm serious. Write down the thing you want to do with other men. Fish, build, sing, fix cars, walk at six a.m. Put it on the board at church. Somebody's been wanting the same thing and waiting for somebody else to ask. You can be the somebody else. That's stop waiting.
 [CAM: JON MS]
 JONATHON: Forty-four, deacon. "Honestly, the men's events at our church are cheesy. Pancakes and a speaker and a sign-up sheet. I go and leave lonelier."
@@ -291,7 +291,7 @@ JONATHON: It's going to be weird. I'll save you the suspense. The first real que
 WES: That count to three is the whole thing. I learned it late. Most of my life I'd ask a question and fill the silence before the man could, because the silence felt like my fault. It's not. It's his room to step into.
 [CAM: JON CU]
 JONATHON: And this one's hard. Thirty-nine. "I had a best friend. He betrayed me. I'm not doing that again."
-WES: (beat) I'm sorry. I mean that. Some of you got really hurt by a man you trusted, and it's not pride that keeps you alone. It's a scar. I'm not going to tell you to get over it. I'd say, go slow. Start with a man who's proven he can keep his mouth shut about small things. Let him earn the bigger ones. And if what happened was big, if it broke your marriage or your faith, talk to a counselor first. You're not broken for being careful. You're careful because you were hurt.
+WES: (beat) I'm sorry. I mean that. Some of you got really hurt by a man you trusted, and it's not pride that keeps you alone. It's a scar. Nobody gets to tell you to get over it. I'd say, go slow. Start with a man who's proven he can keep his mouth shut about small things. Let him earn the bigger ones. And if what happened was big, if it broke your marriage or your faith, talk to a counselor first. You're not broken for being careful. You're careful because you were hurt.
 [TEXT: Ask his name.]
 
 [CHAPTER: Going first]

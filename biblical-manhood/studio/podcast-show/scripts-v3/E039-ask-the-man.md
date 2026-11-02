@@ -107,7 +107,7 @@ WES: And then six years of Thursdays. But I skipped the middle part every time I
 [CAM: JON MS]
 JONATHON: So how did you get from that breakfast to a Thursday? Because there's a gap in that story the size of a truck.
 WES: There was a sign-in sheet at the breakfast. Name, phone number. And I went back to the church office that week and asked the secretary if I could see it. Like I was looking for my own name. And I wrote his number on the back of a gas receipt. And then I carried that receipt around in my wallet for nineteen days.
-JONATHON: Nineteen days. (sips coffee) I sat in my driveway nine minutes before I called my dad last month. I thought that was long. I'm not going to say anything about nineteen days.
+JONATHON: Nineteen days. (sips coffee) I sat in my driveway nine minutes before I called my dad last month. I thought that was long. I'll keep my mouth shut about nineteen days.
 WES: You can say something. It was long.
 [CAM: WES CU]
 WES: I typed it probably ten times. Deleted it. I'd type it at red lights. I typed it in a parking lot at the feed store. I'd get to the end and think, he's seventy-seven, he doesn't want some guy from a breakfast bothering him. He's got grandkids. He's got a life. He was just being nice. And I'd delete it.
@@ -232,7 +232,7 @@ JONATHON: Fine. One door, one question. I'm keeping the card in my wallet, thoug
 WES: Keep the card. The card's not a script. It's a dare.
 JONATHON: Sunday lunch. New Braunfels. After the dishes. Dani's going to take her mom and the kids out back so it's just us.
 WES: She's thought this through. She's thought this through better than you have.
-JONATHON: Dani has been waiting for this since our wedding. She said, "I thought you'd never ask him anything." I said, "Why didn't you tell me to?" She said, "It doesn't count if I tell you." (Wes laughs) That's her line now. That's her whole thing this month.
+JONATHON: Dani has been waiting for this since our wedding. She said, "I thought you'd never ask him anything." I said, "Why didn't you tell me to?" She said, "It had to be your idea." (Wes laughs) That's her line now. That's her whole thing this month.
 [TEXT: How did you stay?]
 
 [SUB-MID]
@@ -269,7 +269,7 @@ JONATHON: And if it's not him, ask him who. A pastor knows every quiet old man i
 [CAM: WES MS]
 WES: Sixty-three, married. "I'm the old guy now. Nobody's asking me anything."
 JONATHON: You want this one. This one's yours.
-WES: I want this one, because it's me now. Two things. First, be askable. When a young man asks you something, even something small, say yes fast. Don't make him wait nineteen days and then make him wait for your calendar. And second, you can go first. Mr. Abernathy wouldn't, and that worked for me. But Jonathon's right. Some young men will never send the text. Ask them something. One real question. Then see if they come back.
+WES: Let me take this one. That's me now. Two things. First, be askable. When a young man asks you something, even something small, say yes fast. Don't make him wait nineteen days and then make him wait for your calendar. And second, you can go first. Mr. Abernathy wouldn't, and that worked for me. But Jonathon's right. Some young men will never send the text. Ask them something. One real question. Then see if they come back.
 JONATHON: And if they don't come back? Because I'm the guy who wouldn't have.
 WES: Then ask him another one in a month. Mr. Abernathy wouldn't. I would. I've changed my mind on that since I got old enough to be the man at the other end of the table. Some of the best men I know needed two invitations and a ride.
 [CAM: JON MS]

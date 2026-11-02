@@ -76,7 +76,7 @@ JONATHON: He said no to breakfast. He didn't say no to a question. Those are dif
 [CAM: WES MS]
 WES: (turns his mug a quarter turn) You might be right. I had that no packed like a lunch. I was relieved, a little. A no meant I didn't have to hear him say everybody gets small. So I took the first exit he offered and drove off. That's fair.
 JONATHON: But you said there was more. In the parking lot, before we started, you said, "Wait till you hear the rest."
-WES: There's more. I'm walking to my truck, and he rolls out again, halfway. And he says, "Wes." And I turn around. And he says, "You're not getting small." And I didn't know what to do with that, so I stood there. And then he said, "Wednesdays, I could use somebody to hand me the small sockets. My fingers don't find the ten-millimeter like they used to." And then, before he rolled back under, "Merle find his lead yet?"
+WES: There's more. I'm halfway to the truck, and he rolls out again, halfway. And he says, "Wes." And I turn around. And he says, "You're not getting small." And I didn't know what to do with that, so I stood there. And then he said, "Wednesdays, I could use somebody to hand me the small sockets. My fingers don't find the ten-millimeter like they used to." And then, before he rolled back under, "Merle find his lead yet?"
 [CAM: JON CU]
 JONATHON: He answered your second question. You didn't ask it, and he answered it anyway. He wants somebody under that van with him, and he wants to hear the rest of the song.
 WES: He answered it lying down, which I think is the only way he talks. I said no, Merle doesn't have a lead. And he said, "Huh," and that was the end of the meeting. So next Wednesday I'm on a piece of cardboard behind the fellowship hall handing a retired Air Force man sockets. That's the breakfast. It comes with a creeper.
@@ -86,7 +86,7 @@ WES: I still should've asked. He just didn't wait for me to get brave. Some men 
 [CAM: WES MS]
 WES: And I came home Wednesday and told my wife the whole thing at the kitchen table, the no and the sockets and Merle. And she listened to all of it and said, "So you asked a man to breakfast and came home with a job." Which is about right. I wanted a conversation and I got a piece of cardboard. But I'll tell you, I've learned more about men lying on cardboard than I ever learned across a table. That's where my dad talked, too. Under something. Never facing you.
 [CAM: JON MS]
-JONATHON: Mine's Sunday, so I'm reporting nerves. The card's still in my wallet, behind my license. "How did you stay?" And Wednesday night, after the kids went down, I practiced the ask on Dani. Out loud. In the kitchen. She sat at the counter and I stood by the sink like I was pitching a rooftop unit.
+JONATHON: Mine's Sunday, so I'm reporting nerves. The card's still in my wallet. "How did you stay?" And Wednesday night, after the kids went down, I practiced the ask on Dani. Out loud. In the kitchen. She sat at the counter and I stood by the sink like I was pitching a rooftop unit.
 WES: How'd the first one go? I'm guessing there was more than one.
 JONATHON: Three. The first one I said, "Hey, after lunch, could I ask you something? It's kind of a big question. You don't have to answer it." And she held up her hand and said, "Stop. You said 'you don't have to answer it' before you even asked it. You're giving him the door before he's even in the room." (laughs) And she's right. I was doing the thing I do on sales calls when I'm scared of the price. I discount it before they flinch.
 [CAM: WES MS]
@@ -213,7 +213,7 @@ WES: Produced with AI voice and video tools.
 
 | # | Cut | Hook | Length |
 |---|---|---|---|
-| 1 | "You're not getting small." (cold open plus "There's more. I'm walking to my truck" through "It comes with a creeper.") | "He said, 'No, thank you.'" | about 80 s |
+| 1 | "You're not getting small." (cold open plus "There's more. I'm halfway to the truck" through "It comes with a creeper.") | "He said, 'No, thank you.'" | about 80 s |
 | 2 | Catch me later (from "And now the hard part, which is ask another man" through "I made it forever.") | "I'm the guy who didn't." | about 75 s |
 | 3 | Let him go to the fridge (from "Three. The first one I said" through "I've never waited on anybody that long in my life.") | "You're giving him the door before he's even in the room." | about 80 s |
 | 4 | He didn't say no to a question (from "Okay, I'm going to push on you here" through "That's fair.") | "You never asked the second one." | about 50 s |
