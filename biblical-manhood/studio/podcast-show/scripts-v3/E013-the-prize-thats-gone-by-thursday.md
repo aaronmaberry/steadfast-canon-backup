@@ -359,8 +359,10 @@ WES: Some of the best men I've known learned it in a year with no paycheck. It's
 JONATHON: Can I add one more? The man whose boss takes the credit. He builds the thing, and the boss presents it, and the boss gets the email. I've seen it a hundred times. Honestly, some days I've been tempted to be that boss.
 [CAM: WES MS]
 WES: That man is closer to Colossians than any of us. That's who Paul was writing to. A servant whose master got the credit for every field and every meal. And Paul doesn't tell him it's fair. He tells him the Lord sees it, and the inheritance is his anyway.
+[CAM: JON MS]
+JONATHON: Okay, but the guy I'm picturing isn't a servant in a field. He's got a retirement account and a parking spot. Is he allowed to say anything? Or does asking for his name on the slide mean he's working for the room?
 [CAM: WES CU]
-WES: And I'd tell him it's all right to want your name on your own work. You can ask for it. Plainly, once, without a speech. "I built that, and I'd like my name on it next time." Then do the next one with your whole heart either way. You can ask the room for what's fair. You just can't need the room to tell you who you are.
+WES: He's allowed. I'd tell him it's all right to want your name on your own work. You can ask for it. Plainly, once, without a speech. "I built that, and I'd like my name on it next time." Then do the next one with your whole heart either way. You can ask the room for what's fair. You just can't need the room to tell you who you are.
 [CAM: JON CU]
 JONATHON: And to the boss, which is me on a bad day. Say the man's name in the meeting. Out loud. Put his name on the slide. It costs you nothing, and it might be the best thing he hears all month.
 WES: That's good. Give the room's pay away to somebody else. Work for the other one yourself.
@@ -385,8 +387,10 @@ WES: (turns his mug a quarter turn) The days he prayed for that man. Mine went b
 (Jonathon doesn't say anything. Wes doesn't say anything. Room tone.)
 [CAM: WES MS]
 WES: There's a verse he lived, and I didn't know it until I saw those receipts. Matthew six. "But when you give to the needy, do not let your left hand know what your right hand is doing, so that your giving may be in secret. Then your Father, who sees what is done in secret, will reward you."
+[CAM: JON CU]
+JONATHON: Nine years in secret. I fold one load of laundry and I stack it on Dani's side of the bed so she can't miss it.
 [CAM: WES CU]
-WES: I don't really know what to do with that. I still don't. I just know that's the kind of work I want to be doing when I'm eighty-eight. The kind with no microphone.
+WES: I don't really know what to do with nine years of dates. I still don't. I just know that's the kind of work I want to be doing when I'm eighty-eight. The kind with no microphone.
 JONATHON: (quietly) He had the plaque, and nobody could see it. That's the opposite of my office wall.
 [BREATHER 3s: INSERT mug, then WIDE]
 
@@ -528,12 +532,12 @@ Chapters
 25:16 Keeping score at home
 29:58 The text to my brother
 32:20 The young man and the old man
-36:45 Mr. Abernathy's receipts
-39:02 Two chairs
-41:37 What I actually did
-45:47 The challenge
-47:47 Carry this
-48:10 Outro
+37:01 Mr. Abernathy's receipts
+39:28 Two chairs
+42:03 What I actually did
+46:13 The challenge
+48:14 Carry this
+48:36 Outro
 
 Scripture: Colossians 3:23-24; Hebrews 12:2 (NIV)
 

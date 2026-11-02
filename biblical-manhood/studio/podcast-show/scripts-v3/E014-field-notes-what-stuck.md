@@ -185,6 +185,8 @@ WES: That's not a gutter problem. That's a fifty-two problem.
 WES: There's a verse for a review, and I love that it's Paul, because Paul is about as far along as anybody ever got. Here's how he does his six-week review. (puts on the reading glasses)
 [CARD: Philippians 3:13-14]
 WES: "Brothers and sisters, I do not consider myself yet to have taken hold of it. But one thing I do: Forgetting what is behind and straining toward what is ahead, I press on toward the goal to win the prize for which God has called me heavenward in Christ Jesus."
+[CAM: JON MS]
+JONATHON: Hold on. Paul says that? I'd have bet money Paul had it handled.
 [CAM: 2S]
 WES: He's writing from prison, to a church that loved him. And the first thing he says is, I'm not there yet. Paul. The man who wrote half the books we've been reading from. Not there yet.
 JONATHON: So the gutter's in good company. The gutter and the apostle Paul, both not there yet.
@@ -296,9 +298,9 @@ Chapters
 08:23 The single check
 09:36 From the table
 14:23 Not there yet
-19:08 Tool on the table
-22:17 Carry this
-22:53 Outro
+19:13 Tool on the table
+22:22 Carry this
+22:58 Outro
 
 Scripture: Philippians 3:13-14 (NIV)
 

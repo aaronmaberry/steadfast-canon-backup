@@ -40,3 +40,7 @@ The extra time comes from added chapters, deeper work on each passage, hard case
 - **E014.** The back-porch gutter gets a date, Sat Feb 27 at 8 AM, which follows the host canon (son-in-law on the ladder, Wes three rungs up). The Valentine's-week season review and the canon sentence are said once.
 - **E015.** The calendar's working title "The Problem Is Inside the House" becomes "The Part That's Mine." v1's phone-jail beat is replaced (E014 had already used it): Ruby now jails her grandpa's phone at Dani's parents' house.
 - **E016.** v3 adds payoffs for E015's VP disagreement (Wes was right about asking the rep; he doesn't take the win), Wes's Thanksgiving apology to his older brother (the pecan pie), and Wes's oldest son's text ("Proud of the first text").
+
+### Long Wes turns split (E013-E016)
+
+Every Wes turn over 110 spoken words (consecutive Wes lines with no Jonathon line between them) is split with a Jonathon interjection. No Wes content was cut. Two Wes lines got a short bridge so they follow the new interjection: E013 "He's allowed." and "nine years of dates." Longest Wes turn before and after: E013 141 to 110, E014 125 to 110, E015 169 to 91, E016 129 to 91. YouTube chapter times were refreshed with `_build/apply_chapters.py`.
