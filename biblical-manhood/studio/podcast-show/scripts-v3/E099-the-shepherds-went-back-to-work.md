@@ -165,7 +165,7 @@ WES: If you're new to the table, subscribe. Tuesday's the long talk. Friday's wh
 
 [CHAPTER: Mid-morning]
 [CAM: WES MS]
-WES: I want to tell you about my mid-morning, since it's in the open and Jonathon's going to ask anyway.
+WES: Here's my mid-morning, since it's in the open and Jonathon's going to ask anyway.
 [CAM: JON MS]
 JONATHON: I was absolutely going to ask. You've never told me one specific thing you like about your job in seven years. I've had to guess.
 [CAM: WES CU]
@@ -307,7 +307,7 @@ WES: He would. And I see the same thing at my Thursday table every year. Decembe
 [CAM: WIDE]
 JONATHON: You've got a stack of them. I can see the index card in your shirt pocket from here, so go ahead.
 [CAM: WES MS]
-WES: Let me take this to some men it's harder for. These are questions I've heard at the Thursday table and around church. No names. Men I've sat with.
+WES: Some men have it harder on this one. Here's what's been put to me at the Thursday table and around church. No names. Men I've sat with.
 [CAM: WES MS]
 WES: First. A stay-at-home dad. His wife's the one with the career, he's home with three kids under six. He said, "Everybody talks about work like it's an office. My work is diapers and the dishwasher and nobody ever sees it. Does Monday count for me?"
 [CAM: JON CU]
@@ -351,7 +351,7 @@ JONATHON: And I'd hire him. Seriously. A man who'll take that job and do it righ
 WES: Going first.
 [SHORT 1 IN]
 [CAM: WES MS]
-WES: Mine's Monday morning. The problem nobody wants. Usually I wait for it to land on my desk. Somebody passes it, I pick it up. Monday I'm going to go get it before anybody hands it out. Walk over and say, "I'll take that one." And before I start, I'm going to sit in the truck in the parking lot and thank God for it, out loud. For the problem. For the job. Specific. I already know what I'll say. Thank You that I'm good at one ugly thing, and thank You that somebody needs it done. I've never once said that to God. For a man who spent twenty years calling work the toll road, it's not small.
+WES: Mine's Monday morning. The problem nobody wants. Usually I wait for it to land on my desk. Somebody passes it, I pick it up. Monday I'm going to go get it before anybody hands it out. Walk over and say, "I'll take that one." And before I start, I'm going to sit in my truck out front and thank God for it, out loud. For the problem. For the job. Specific. I already know what I'll say. Thank You that I'm good at one ugly thing, and thank You that somebody needs it done. I've never once said that to God. For a man who spent twenty years calling work the toll road, it's not small.
 [SHORT 1 OUT]
 [CAM: JON CU]
 JONATHON: I like it. Can I give you a hard time about one thing? You're going to thank God for a problem nobody wants. Have you ever thanked anybody at work for one?
@@ -376,7 +376,7 @@ WES: The challenge. One move. Before your first task Monday, thank God out loud 
 [CAM: JON MS]
 JONATHON: Specific matters. Not "Thanks for my job, amen." That's a receipt. Something real. The guy at the next desk who covers for you. The truck that started at six. The problem nobody wants. The paycheck that made rent. One thing you'd notice if it was gone.
 [CAM: WES CU]
-WES: And out loud. In the truck, in the parking lot, at the kitchen table if you work from home. Quiet's fine. Out loud's the point. A man who says it hears it.
+WES: And out loud. In the cab before you get out, at the kitchen table if you work from home. Quiet's fine. Out loud's the point. A man who says it hears it.
 [CAM: JON CU]
 JONATHON: This is where guys freeze, though. They'll think a thank-you all day long and never once say a word of it out loud.
 [CAM: WES MS]
@@ -431,14 +431,14 @@ Chapters
 06:58 The night shift
 11:52 What it sounds like in a field
 14:46 Mid-morning
-20:26 Lunch in the truck
-22:32 Should he stay?
-30:22 The December crew
-34:34 Questions from the table
-41:23 Going first
-43:42 The challenge
-45:42 Carry this
-45:52 Outro
+20:24 Lunch in the truck
+22:30 Should he stay?
+30:20 The December crew
+34:32 Questions from the table
+41:20 Going first
+43:38 The challenge
+45:39 Carry this
+45:49 Outro
 
 Scripture: Luke 2:20; Colossians 3:23-24 (NIV)
 

@@ -73,7 +73,7 @@ JONATHON: She heard the part where I said I skipped the back step. She'd never o
 [TEXT: "I'll take the back step in February."]
 
 [CAM: WES MS]
-WES: Mine. I wrote it Tuesday night on a card, at my desk in the garage. "Thursday, January thirteenth, three o'clock, the nursing home, back row, with my youngest." Then I asked my wife the married question, and I'll tell you, I knew what she'd say before she said it.
+WES: Mine. I wrote it Tuesday night on a card, at my desk in the garage. "Thursday, January thirteenth, three o'clock, the nursing home, back row, with my youngest." Then I asked my wife the married question, and I had her answer figured before she opened her mouth.
 [CAM: JON MS]
 JONATHON: Your daughter. You'd said it on the air that afternoon. I'm guessing she didn't even need to read the card.
 [CAM: WES CU]
@@ -141,7 +141,7 @@ JONATHON: And she got quiet for a second, and then she was my mom about it. She 
 [CAM: WES CU]
 WES: That's a good question from a woman who answered it herself in May and never told anybody. Hers was "Saturday at ten."
 [CAM: JON CU]
-JONATHON: That's exactly what I told her. She said I was being sentimental and asked for more coffee. So. One sentence you're carrying into 2028. And I want to talk about what makes a sentence carryable, because I've written a lot of them that I put down by February.
+JONATHON: That's exactly what I told her. She said I was being sentimental and asked for more coffee. So. One sentence you're carrying into 2028. And let's figure out what makes a sentence carryable, because I've written a lot of them that I put down by February.
 [CAM: WES MS]
 WES: Here's the verse I'd put under it. It's near the very end of the Bible. The last page. Which is where my wife would start.
 [CARD: Revelation 21:5]
@@ -185,7 +185,7 @@ JONATHON: Step two. Under it, one move, with a day on it. That's the step. Tuesd
 [CAM: WES CU]
 WES: Step three. Every Sunday night, you rewrite the bottom line. Only the bottom line. You did the move or you didn't, and either way you write the next one. The top line stays. The bottom line moves. That's Proverbs 16:9 on an index card. You plan the course. You take a step. He establishes where it lands. Then you take another one.
 [CAM: JON CU]
-JONATHON: Step four. Keep it where you'll see it, and show it to the man who'll ask. Wallet, fridge, the visor in your truck. And the man, he's the one who texts you on Thursday. "Did you do it?" If you don't have that man yet, that's your bottom line for the first Sunday. Find him.
+JONATHON: Step four. Keep it somewhere your eyes land every day, and show it to the man who'll ask. Wallet, fridge, the visor in your truck. And the man, he's the one who texts you on Thursday. "Did you do it?" If you don't have that man yet, that's your bottom line for the first Sunday. Find him.
 [CAM: JON MS]
 JONATHON: I'm doing this with my reps in January, by the way. Not their sales plan. Their card. Top line, whatever they want. Bottom line, one thing with a day. I won't read the top line. I'll just ask about the bottom one on Mondays.
 [CAM: WES MS]
@@ -221,7 +221,7 @@ WES: And now the first challenge of next year. Because we don't end a year on a 
 [CAM: JON MS]
 JONATHON: Before Tuesday, do the first ten minutes of the thing you already know is yours.
 [CAM: WES CU]
-WES: Not the whole thing. The first ten minutes. You know what it is. It's been on your card since Tuesday, or it's been in the back of your head since last March. The call. The verse at the table. The gutter. The application. The back step. Set a timer for ten minutes and start it. When the timer goes off, you can stop. Most men won't want to.
+WES: Not all of it. The first ten minutes. You know what it is. It's been on your card since Tuesday, or it's been in the back of your head since last March. The call. The verse at the table. The gutter. The application. The back step. Set a timer for ten minutes and start it. When the timer goes off, you can stop. Most men won't want to.
 [CAM: JON CU]
 JONATHON: If you're married, tell your wife what the ten minutes are before you do them, and let her ask you about it Tuesday night. If you're single, tell the man who texts you on Thursday. Don't save it to show results. I tried that. Show it first.
 [CAM: WES MS]
@@ -266,17 +266,17 @@ Chapters
 00:00 Cold open
 00:13 Intro
 00:39 Check the box
-07:16 What's still open
-09:22 From the table
-15:13 Tool on the table
-17:46 Last text
-18:58 The first challenge
-20:14 Carry this
-20:23 Outro
+07:15 What's still open
+09:21 From the table
+15:12 Tool on the table
+17:45 Last text
+18:57 The first challenge
+20:13 Carry this
+20:22 Outro
 
 Scripture: Revelation 21:5 (NIV)
 
-Tool on the table, the one-line plan. One card. Top line, the sentence you're carrying into the year. Under it, one move with a day on it. Rewrite only the bottom line, Sunday nights. Keep it where you'll see it and show it to the man who'll ask.
+Tool on the table, the one-line plan. One card. Top line, the sentence you're carrying into the year. Under it, one move with a day on it. Rewrite only the bottom line, Sunday nights. Keep it in plain sight and show it to the man who'll ask.
 
 The first challenge of 2028: before Tuesday, do the first ten minutes of the thing you already know is yours. Tell one person what the ten minutes are, before you do them.
 

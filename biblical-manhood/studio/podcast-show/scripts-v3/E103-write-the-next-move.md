@@ -214,7 +214,7 @@ JONATHON: I want to push back on this one, and I mean it.
 [CAM: WES MS]
 WES: Go. You've been holding something since the verse. I could see it in how you were sitting.
 [CAM: JON CU]
-JONATHON: Here's my problem. Every good thing in my life came from a plan I didn't make. I didn't plan to become a Christian. At twenty-nine I'd have told you I was set. A customer dragged me to a breakfast and I couldn't think of an excuse fast enough. That's how I met you. I didn't plan Ruby's timing. I didn't plan this show. I didn't plan a dog. If you'd asked me to write my next move in January of any of those years, I'd have written the wrong thing.
+JONATHON: Here's my problem. Every good thing in my life came from a plan I didn't make. I didn't plan to become a Christian. At twenty-nine I thought I was set. A customer dragged me to a breakfast and I couldn't think of an excuse fast enough. That's how I met you. I didn't plan Ruby's timing. I didn't plan this show. I didn't plan a dog. If you'd asked me to write my next move in January of any of those years, I'd have written the wrong thing.
 [CAM: JON MS]
 JONATHON: And I'm a sales manager. I write plans for a living. Annual plan, quarterly plan, territory plan. And I've watched a lot of men, me included, use a plan as a way to feel in control of a year that's going to do what it does. So when you say write the next move, part of me hears another planning meeting. And I've sat in a lot of planning meetings that were mostly about feeling better.
 [CAM: WES CU]
@@ -244,7 +244,7 @@ WES: If you want to keep going into next year with us, subscribe. Friday we'll b
 
 [CHAPTER: The names]
 [CAM: JON MS]
-JONATHON: Can I tell you about the names? Because I said it in the open and I want to say what I meant.
+JONATHON: Can I tell you about the names? Because I said it in the open and it deserves more than the one line.
 [CAM: WES MS]
 WES: Go. I've wondered what you meant since you said it to me in the parking lot.
 [CAM: JON CU]
@@ -356,7 +356,7 @@ JONATHON: I didn't know you then. I've only ever heard you talk about that year 
 [CAM: WES MS]
 WES: It felt like weather. But looking at it now, that's the year I went back to the diner. That's the year Mr. Abernathy asked his question. I couldn't see it in December. I can see it now.
 [CAM: WES CU]
-WES: So don't grade the year by what it felt like. Write the next move anyway. One step, with a day. "Monday, two applications and a walk with my wife." That's a whole plan for a man in that spot. And if the year's got you thinking you'd be better off gone, call or text 988 tonight. You're not the only man who's thought it in the dead days after Christmas.
+WES: So don't grade the year by what it felt like. Write the next move anyway. One step, with a day. "Monday, two applications and a walk with my wife." That's a whole plan for a man in that spot. And if the year's got you wondering whether anybody'd miss you, reach 988 tonight by call or text. You're not the only man who's thought it in the dead days after Christmas.
 [CAM: JON MS]
 JONATHON: Second. "I found your show in November. I didn't do any of the challenges. Is a year review even for me?"
 [CAM: WES CU]
@@ -481,15 +481,15 @@ Chapters
 10:45 The headings
 14:22 The Word
 18:12 The plan I didn't make
-22:02 The names
-25:15 The ledger
-30:18 A quiet Tuesday
+22:01 The names
+25:14 The ledger
+30:17 A quiet Tuesday
 32:43 What didn't change
-34:53 Questions from the table
+34:52 Questions from the table
 41:12 Going first
-43:39 The challenge
+43:38 The challenge
 45:51 Carry this
-46:03 Outro
+46:02 Outro
 
 Scripture: Proverbs 16:9 (NIV)
 

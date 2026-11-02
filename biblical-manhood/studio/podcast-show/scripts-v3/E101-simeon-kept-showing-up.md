@@ -157,7 +157,7 @@ JONATHON: If you just heard yourself in "waiting long enough to get tired," that
 
 [CHAPTER: The December Thursday]
 [CAM: WES MS]
-WES: I want to tell you about the nursing home, because it's Simeon and Anna, and I didn't see it until I sat down to get ready for this.
+WES: The nursing home's been on my mind, because it's Simeon and Anna, and that only hit me when I sat down to get ready for this.
 [CAM: JON MS]
 JONATHON: Merle's quartet. You went back. I wondered if you would, after September.
 [CAM: WES CU]
@@ -243,7 +243,7 @@ WES: I'd never thought of it that way. I just thought her fingers were coming th
 [CAM: WES MS]
 WES: Now tell them about Day One.
 [CAM: JON MS]
-JONATHON: I was hoping you'd forget. Okay. Here's my confession, and I think a lot of men are going to hear themselves. I'm great at Day One. I'm the best Day One guy you'll ever meet. You give me a new plan, a new program, a new year, a new sales territory, and I'll come in on fire. I'll buy the notebook. I'll set the alarm. I'll tell everybody. Day One, I'm a legend.
+JONATHON: I was hoping you'd forget. Okay. Here's my confession, and plenty of men listening are going to hear themselves. I'm great at Day One. I'm the best Day One guy you'll ever meet. You give me a new plan, a new program, a new year, a new sales territory, and I'll come in on fire. I'll buy the notebook. I'll set the alarm. I'll tell everybody. Day One, I'm a legend.
 [CAM: JON CU]
 JONATHON: Day Nineteen, I'm gone. Back in the winter, when we did the morning ten minutes, I did it nine times in three weeks. My first year as a Christian, I made a list of everything I was going to do. Read the whole Bible again, learn Greek, start a men's group. I did none of it. I've had three gym memberships. I'm a Simeon for about a week and a half. And then I'm a guy who used to go to the temple.
 [CAM: WES CU]
@@ -330,7 +330,7 @@ WES: Agreed. So we've got the same test, we just bet differently on how it comes
 
 [CHAPTER: Questions from the table]
 [CAM: WIDE]
-WES: Let me take this to some other men, because showing up looks different depending on where you quit. These are questions I've heard at tables over the years. No names.
+WES: Showing up looks different depending on where you quit, so here's how it's come up at tables over the years. No names.
 [CAM: WES MS]
 WES: First. "Our church split three years ago. I left with the half that left, and then that church fell apart too, and now I don't go anywhere. I still believe. I just can't make myself walk into a building again. How do I show up when the place burned me?"
 [CAM: JON CU]
@@ -472,15 +472,15 @@ Chapters
 08:37 Anna had a list
 11:51 The December Thursday
 17:04 Ten o'clock on Saturdays
-19:28 Because it's March
-22:35 Day One guys
-26:31 Pecans
-28:34 When is it okay to stop?
-34:05 Questions from the table
-39:49 Going first
-44:09 The challenge
-46:00 Carry this
-46:11 Outro
+19:27 Because it's March
+22:34 Day One guys
+26:30 Pecans
+28:32 When is it okay to stop?
+34:04 Questions from the table
+39:44 Going first
+44:04 The challenge
+45:55 Carry this
+46:06 Outro
 
 Scripture: Luke 2:25-26, 37 (NIV)
 

@@ -54,7 +54,7 @@ WES: Field Notes. Christmas Eve.
 
 [CHAPTER: Check the box]
 [CAM: WIDE]
-WES: Say the line about your wife one more time. I've known you a while and I don't think I've ever heard it.
+WES: Say the line about your wife one more time. I've known you a while and that one's new to me.
 [CAM: JON MS]
 JONATHON: She's off tonight. First Christmas Eve off in four years. She traded a New Year's shift for it in October and she's been guarding it like a dog with a bone. Somebody from the unit called Tuesday and she let it ring and ate a cracker while it rang.
 [CAM: WES CU]
@@ -244,9 +244,9 @@ Chapters
 00:11 Intro
 00:35 Check the box
 10:49 From the table
-15:57 Tool on the table
-20:22 Carry this
-20:46 Outro
+15:56 Tool on the table
+20:21 Carry this
+20:45 Outro
 
 Scripture: Luke 2:11 (NIV)
 

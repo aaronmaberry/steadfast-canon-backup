@@ -156,7 +156,7 @@ WES: Every January for about twenty years, I took the Christmas cards down off t
 [CAM: JON MS]
 JONATHON: Can I say something on behalf of the guys this doesn't fit? Because for some men, January's a relief. Christmas is the hard part. First Christmas divorced. First one without your dad. The kids at their mom's on Christmas morning. For that man, the season fading isn't a problem. It's mercy.
 [CAM: WES CU]
-WES: That's true, and I'm glad you said it. To that man I'd say, you don't have to keep the feeling. You probably shouldn't. But there's still one thing worth treasuring, even in a bad December. Maybe one thing. A text from your son. The man at church who sat with you. Keep that one. Treasure it up. Let the rest of December go in the drawer with the cards.
+WES: That's true, and I'm glad you said it. To that man, let the feeling go. You probably shouldn't. But there's still one thing worth treasuring, even in a bad December. Maybe one thing. A text from your son. The man at church who sat with you. Keep that one. Treasure it up. Let the rest of December go in the drawer with the cards.
 [CAM: JON CU]
 JONATHON: And if December's gotten so heavy you're not sure you want to see January, call or text 988. Before Christmas, not after. There's no shame in making that call from your truck in the H-E-B parking lot.
 [TEXT: Amazed fades. Treasured keeps.]
@@ -223,9 +223,9 @@ Chapters
 00:17 Intro
 00:41 Check the box
 09:11 From the table
-16:28 Tool on the table
-19:56 Carry this
-20:16 Outro
+16:26 Tool on the table
+19:54 Carry this
+20:14 Outro
 
 Scripture: Luke 2:19 (NIV)
 
