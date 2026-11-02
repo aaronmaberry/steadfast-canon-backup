@@ -90,7 +90,7 @@ WES: The weather report. And she'd answer them. "Fine. Fine. Fine." Three fines.
 JONATHON: Oh. That's a fifteen-year-old with a knife. How long did you sit there?
 WES: About a mile. Hands on the wheel. Because I'd been asking questions I already knew the answers to. I knew school was fine. I knew her friends were fine. I was checking boxes, and she knew it, and she'd known it for a while.
 [CAM: WES CU]
-WES: So I finally said, "What do you think about? When you're by yourself." Which was clumsy. It sounded like a survey. And she looked at me like I'd finally said something. And she talked the rest of the way home, and then we sat in the driveway another twenty minutes with the engine running.
+WES: So I finally said, "What do you think about? When you're by yourself." Which was clumsy. It sounded like a survey. And her face changed, like I'd finally said something. And she talked the rest of the way home, and then we sat in the driveway another twenty minutes with the engine running.
 JONATHON: Twenty minutes in the driveway with the engine running. That's the teenager version of a three-hour dinner. What was she thinking about?
 WES: Whether her friend's parents were going to get divorced, and whether it was her friend's fault. And a book she'd read that she thought was wrong about God. She had a whole mind going in there. A whole person. And I'd been driving her to the feed store for two years asking about practice.
 [CAM: JON MS]
@@ -143,7 +143,7 @@ JONATHON: I said, "That's my work voice." And she said, "Can I have it?" (beat) 
 WES: (quietly) What'd you do with that?
 JONATHON: I panicked and did the voice at her. In the truck. "Oh, man. I hear you, Ruby." And she laughed, because she thought it was a bit. And I let her think it was a bit. Which is exactly what I'd do with a customer who caught me in something. Make it a joke, move the meeting along.
 [CAM: JON CU]
-JONATHON: And here's what's under it, and I've been chewing on it since Saturday. Every man in my life, growing up, was a stranger. My dad left when I was nine. After that the men were coaches and my friends' dads and the youth guy. And every one of them was nicer to me than they had to be, because I wasn't theirs. Strangers are easy. You give them the good voice for an hour and you go home.
+JONATHON: And here's what's under it, and I've been chewing on it since Saturday. Every man in my life, growing up, was a stranger. My dad was gone by the time I was nine. After that the men were coaches and my friends' dads and the youth guy. And every one of them was nicer to me than they had to be, because I wasn't theirs. Strangers are easy. You give them the good voice for an hour and you go home.
 WES: And you learned that's where the good stuff goes.
 JONATHON: I learned that's what a man does with his best stuff. He gives it to people out there. And I've been doing it for twenty years. I'm great with strangers. I win the room. And my daughter's standing in the doorway with a cereal bowl, asking for the voice I give the room. And now Theo does the nod. He doesn't know what it means. He just nods at people in the grocery store.
 [TEXT: "Can I have it?"]
@@ -158,7 +158,7 @@ JONATHON: Okay, but that's hard, though. Because the voice runs on something. I'
 WES: Maybe you do. Give the customer less, I mean. Not a lot less. Ten minutes less.
 JONATHON: See, you say that because nobody's counting your minutes. Ten minutes less, every day, for a year, is a number. My VP would find those ten minutes. He'd find them with a flashlight.
 [CAM: WES MS]
-WES: I've worked for almost thirty years. I know what a job costs. And I'm not going to tell you to tank yours. I'm telling you what I'd do different. I'd have walked in the door at six-thirty and given my daughter the first ten minutes like she was the account that mattered most. Then go be tired.
+WES: I've worked for almost thirty years. I know what a job costs. And I won't tell you to tank yours. I'm telling you what I'd do different. I'd have walked in the door at six-thirty and given my daughter the first ten minutes like she was the account that mattered most. Then go be tired.
 JONATHON: The first ten minutes. Okay. That I can do. I can't be the warm voice all night. I can't. But the first ten minutes I walk in, that's doable. That's a call I can take.
 [CAM: JON CU]
 JONATHON: And I'll tell you a second thing that happened, because it scared me worse than the cereal bowl. Sunday afternoon we're at the neighborhood pool, and Ruby's sitting on the edge with her feet in, and out of nowhere she says, "Do you like your job?" And I said, "Sure, buddy." And she said, "You don't sound like it."
@@ -204,7 +204,7 @@ WES: My dad never sat me down for one talk about death in my life. But every tim
 [CAM: JON CU]
 JONATHON: "Somebody's daddy." That's the whole sermon. Three words on the shoulder of the road. Do you still do it?
 WES: I still pull over. Every time. I'll be late to a thing and pull over anyway, and my wife doesn't even ask anymore. Nobody wrote that down. It got impressed on the road.
-JONATHON: Okay, but here's my problem with the verse, and it's real, and I've been sitting on it since you sent me the reading. "On your heart first." You said it like it's easy. I came to faith at twenty-nine. I'm eight years in. Ruby's seven. I've had Jesus about as long as I've had her. What exactly am I impressing?
+JONATHON: Okay, but here's my problem with the verse, and it's real, and it's been bugging me since you sent me the reading. "On your heart first." You said it like it's easy. I came to faith at twenty-nine. I'm eight years in. Ruby's seven. I've had Jesus about as long as I've had her. What exactly am I impressing?
 [CAM: WES MS]
 WES: That's a good question. Say more.
 JONATHON: You've got forty years of it. You've got a dad who pulled over. I've got a dad who left and a mom who prayed with the door shut. I'm still figuring out which book of the Bible is which. When she asks me something about God at bedtime, half the time I don't know. So the verse says put it on your heart first, then your kids, and I'm standing there going, my heart's a rental. I just moved in.
@@ -279,7 +279,7 @@ WES: I leaked the driveway. And I didn't even know why she'd gone quiet until my
 [CAM: 2S]
 WES: Pushback. You've got the pile.
 [CAM: JON MS]
-JONATHON: Nineteen, single. "I don't have a daughter. I'm nineteen. Is this one for me?" This is the one I promised. He says he's got a little sister in sixth grade.
+JONATHON: Nineteen, no kids. "I don't have a daughter. I'm nineteen. Is this one for me?" This is the one I promised. He says he's got a little sister in sixth grade.
 WES: Then it's for you. You might be the man she's watching most right now. More than your dad, because you're closer to the boys she's going to meet. She hears how you talk about girls in the truck, on the phone with your buddies, what you laugh at. She's taking notes on what boys are. Be the boy she measures them against.
 [CAM: JON MS]
 JONATHON: And pick up when she calls. My sister's forty-one now, and she still brings up the year I didn't pick up. I was twenty-three and busy being important.
@@ -341,7 +341,7 @@ JONATHON: That's not a small call. It might be the bravest one a man ever makes.
 
 [CHAPTER: Going first]
 [CAM: 2S]
-WES: So. Go first. Here's why it's that mark. Your daughter's going to copy somebody. If you go first, she's got something to copy. If you wait for her to come to you, she'll go to whoever came first.
+WES: So. Go first. Why that mark for daughters? Your daughter's going to copy somebody. If you go first, she's got something to copy. If you wait for her to come to you, she'll go to whoever came first.
 JONATHON: And you said you'd tell us the rest. About your daughter. I've been waiting through two segments and a stepdad. Pay up.
 [SHORT 1 IN]
 [CAM: WES MS]
@@ -386,7 +386,7 @@ WES: Married guys, on a calm night, ask your wife, "What do you think she's lear
 JONATHON: Single guys. Your sister, your niece, the kid next door. Notice how you talk about women where she can hear it, starting today. That's your whole challenge, and it's harder than it sounds.
 WES: Divorced dads, if she's not with you, call her and ask the question. Same voice on the phone as at your house.
 [CAM: JON MS]
-JONATHON: And if your daughter isn't safe at home, that comes before all of it. The hotline number's in the description.
+JONATHON: And if your daughter isn't safe at home, that's first, before anything we said. The hotline number's below.
 [TEXT: One question. One thing you give the room.]
 
 [CHAPTER: Carry this]
@@ -400,7 +400,7 @@ JONATHON: And carry this. She wants the voice you give the room.
 [OUTRO]
 [CAM: 2S]
 WES: That's the table for today. Friday's Field Notes is the daddy-daughter report, and Ruby's going fishing with my brother, so there will be a worm update.
-JONATHON: There will be a full worm update. Subscribe so you catch it. Find us at walksteadfast.com, or @steadfastwalk pretty much anywhere you scroll. Links are in the description and the pinned comment.
+JONATHON: There will be a full worm update. Subscribe so you catch it. Find us at walksteadfast.com, or @steadfastwalk pretty much anywhere you scroll. Links sit in the description and the pinned comment.
 WES: See you at the table.
 [END SCREEN 20s]
 JONATHON: Go walk it out.
@@ -436,15 +436,15 @@ Chapters
 05:14 Ask me something you don't know
 08:41 Where I push back
 11:16 The impression
-15:33 The work voice
+15:34 The work voice
 20:16 The Word
 29:07 How to ask her
-35:09 Pushback
-41:36 The hard ones
+35:08 Pushback
+41:35 The hard ones
 45:04 Going first
 50:26 The challenge
-51:48 Carry this
-51:58 Outro
+51:47 Carry this
+51:57 Outro
 
 Scripture: Deuteronomy 6:7 (NIV)
 

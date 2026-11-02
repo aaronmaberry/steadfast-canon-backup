@@ -163,7 +163,7 @@ WES: Find out how old he was. Where he died. Whether he had a brother. And tell 
 [CAM: 2S]
 JONATHON: What if you're not a dad? What if you live alone, or you're single and the idea of standing at a courthouse by yourself feels like a sad movie?
 WES: Go by yourself, and read them anyway. Nobody's watching. That might be the most honest way to do it. Single guys, take a buddy and get breakfast after. Divorced dads, if Monday's your day with the kids, take them. If it's not, read the names alone and tell your kids the one name the next time you see them.
-JONATHON: And if Monday's heavy for you, if one of those names is yours, a dad or a brother or a buddy from your unit, don't do it alone. Call somebody who knew him. And if you're in a dark place, the Veterans Crisis Line is 988, then press 1.
+JONATHON: And if Monday's heavy for you, if one of those names is yours, a dad or a brother or a buddy from your unit, don't do it alone. Call somebody who knew him. And if it's darker than heavy, if you're in a bad place, the Veterans Crisis Line is 988, then press 1.
 [CAM: WES MS]
 WES: And mine. Monday morning I'm going to the courthouse lawn before anybody's up, and I'm reading the back. All of it. Out loud. Then I'm going somewhere else.
 JONATHON: Where? You've got a look like there's a second part you haven't told me.
@@ -216,8 +216,8 @@ Chapters
 08:27 The hard ones
 10:22 Check the box
 15:59 Tool on the table
-21:12 Carry this
-21:21 Outro
+21:14 Carry this
+21:23 Outro
 
 Scripture: John 15:13 (NIV)
 

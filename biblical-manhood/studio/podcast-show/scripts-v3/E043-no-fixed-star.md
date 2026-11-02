@@ -270,7 +270,7 @@ JONATHON: That's me with the spreadsheet. Dani runs our money on a color-coded s
 [CAM: WES CU]
 WES: Forty-four. "Honestly, my heading's been not becoming my dad. That's what I aim at."
 JONATHON: (beat) Yeah. I'm going to be quiet for this one, and you know why.
-WES: I'll be careful. That's a real thing, and it kept a lot of men from a lot of wreckage. Some of you would be in prison or dead if you hadn't aimed hard away from your father. I'm not going to take that from you. But you can't aim a tractor at a thing behind you. Away isn't a direction. At some point you've got to pick a tree out in front. A man you want to be, and not only one you don't.
+WES: I'll be careful. That's a real thing, and it kept a lot of men from a lot of wreckage. Some of you would be in prison or dead if you hadn't aimed hard away from your father. I'm not going to take that from you. But you can't aim a tractor at a thing behind you. Away isn't a direction. At some point you've got to pick a tree out in front. A man you want to be, along with the one you don't.
 [CAM: JON MS]
 JONATHON: Here's the one that scares me, because I think it's a lot of men. Fifty. "I had a heading. I had it written down, I said it at church. And I had an affair anyway. What's a heading worth if I drove into the ditch with it in my pocket?"
 WES: That's a hard one, and I want to be straight with him. Having the tree didn't make you drive straight. You still had to look at it. You looked at something else. That's on you, and you know it. But the tree didn't move. It's still at the end of the field. The word the Bible uses for turning back is repentance, and it's a steering word. You quit looking at what you did and you look at the tree again. Today.

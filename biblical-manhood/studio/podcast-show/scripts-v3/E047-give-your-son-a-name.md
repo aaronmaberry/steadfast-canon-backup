@@ -70,7 +70,7 @@ WES: (laughs) Steve. Why Steve?
 JONATHON: She said it looked like a Steve. I'm not going to argue with her. I've seen the picture. It does look like a Steve. And he's in the bedtime prayers now. Right after "Evening, Chris." "And help Steve." With what, I don't know. He's a fish in a stock tank. He's doing better than I am.
 [CAM: 2S]
 WES: So. Today. Give your son a name. And I don't mean the one on the birth certificate. I mean the one he hears from you day after day, without you noticing. The mark today is pick up the weight, because that name is yours to give. And a lot of us have handed it off to the coach, or the foreman, or whatever he's watching on his phone at midnight.
-JONATHON: And I'm going to argue with you about it at some point, I can feel it. Not about the weight. About what name you pick up.
+JONATHON: And I'll fight you on part of this before we're done, I can feel it. Not about the weight. About what name you pick up.
 
 [CHAPTER: The shoulder of the road]
 [CAM: WES MS]
@@ -81,7 +81,7 @@ WES: The thing my dad did. Pulled onto the shoulder for every one, took his hat 
 JONATHON: On his knee. Like your dad. Did he ever see your dad do it? He'd have been pretty little.
 [CAM: WES CU]
 WES: He was six when my dad died. He doesn't remember my dad pulling over. He got the knee from me. I didn't know I did the knee. (beat) And we sat there till the last car went by. And then he put his cap back on and pulled out and asked if we could get a Coke.
-JONATHON: What did you say? Because I know what I'd have said. I'd have made a speech, and he'd have turned the radio up.
+JONATHON: And you said what? I know what I'd have said. I'd have made a speech, and he'd have turned the radio up.
 WES: I said, "Your granddad used to do that." And he said, "I know. You do it." And that was the whole conversation. And we got the Coke.
 [CAM: JON MS]
 JONATHON: "I know. You do it." That's a sixteen-year-old telling you he's been watching for ten years and you didn't know it. That's the whole daughter episode, but for boys.
@@ -189,7 +189,7 @@ WES: It's not on my left.
 
 [CHAPTER: Careful what you name him]
 [CAM: JON MS]
-JONATHON: Okay. Here's where I push back, and I've been sitting on it since the Thursday prep call. I'm worried about this episode. Because I can see a dad hearing "give your son a name" and going home tonight and telling his kid, "You're a leader." "You're a man of God." "You're the strong one." And meaning it as a gift.
+JONATHON: Okay. Here's where I push back, and I've had it in my pocket since the Thursday prep call. I'm worried about this episode. Because I can see a dad hearing "give your son a name" and going home tonight and telling his kid, "You're a leader." "You're a man of God." "You're the strong one." And meaning it as a gift.
 WES: That sounds like a good thing to say to a boy. What's the worry?
 JONATHON: "The man of the house" was a name too. Somebody gave it to me as a gift. They were trying to make me feel big. And it was a job. It was the heaviest thing anybody ever handed me. So when you tell a twelve-year-old "you're a leader," you might be handing him a job he didn't ask for and can't do yet. And he'll try. I tried. I checked the locks for nine years.
 [CAM: WES MS]
@@ -221,7 +221,7 @@ WES: Third, say it on an ordinary day. If he only hears it after a win, he learn
 JONATHON: The Wednesday one. Okay. Because the win one, he figures you're just excited. Everybody's excited after a win. The coach is excited. The guy selling snow cones is excited.
 WES: Right. And fourth, say it side by side, the same as with daughters. Boys especially. The truck, the garage, fishing. Most boys can't take praise face to face. They'll squirm right out of the room. Look at the road and say it to the windshield. He'll hear it fine.
 JONATHON: What if he rolls his eyes? Because my nephew at fourteen, you said anything nice to him and his eyes went up so far you could see his brain.
-WES: Let him roll them. The eyes are for you. The words are for him. A boy rolling his eyes heard every word, or he wouldn't have bothered. The one you worry about is the boy who doesn't react at all. That's the boy who's stopped expecting anything.
+WES: Let him roll them. The eyes are for you. The words are for him. A boy rolling his eyes heard every word, or he wouldn't have bothered. Worry about the boy who doesn't react at all. That's the boy who's stopped expecting anything.
 [CAM: JON CU]
 JONATHON: And can I add one from the other direction? Correction. Because that's where most of my names happen, honestly. When I'm mad. And I caught myself doing this. When Theo's in trouble, I use his whole name. Full name, middle name, the works. In the driveway two weeks ago, he ran toward the street, and I yelled the whole thing. And his shoulders went right up to his ears.
 WES: That one's earned, though. A kid running at the street, you yell. I'd yell.
@@ -235,13 +235,13 @@ JONATHON: I said that same thing about apologies two Tuesdays ago. No "but." App
 [CAM: 2S]
 WES: Pushback. You've got the pile.
 [CAM: JON MS]
-JONATHON: Nineteen, single. "I don't have a son. I'm not even dating." Says he coaches a ten-and-under team in the summer.
+JONATHON: A college kid, twenty. "I don't have a son. I'm not even dating." Says he coaches a ten-and-under team in the summer.
 WES: Then you've got about fifteen sons for three months. And here's the thing about a coach. You're the one man who sees them do something hard on purpose. A kid backs up a base when nobody's looking. A kid tells you he's hurt instead of hiding it. Say his name and say what you saw. Some of those boys haven't heard a man say their name with anything good after it all summer.
 JONATHON: And do it where his parents can hear, or tell them after. Keep it in the light. A good coach is a good name. I had one. He drove me home and talked about the Astros.
 [CAM: JON CU]
 JONATHON: Thirty-eight. "I tell my son good job all the time. Every day. I'm encouraging."
 WES: (beat) Good job at what?
-JONATHON: (laughs) That's it? That's the whole answer? You're doing the laminated guy again.
+JONATHON: (laughs) Three words? You're giving him three words? You're doing the laminated guy again.
 WES: Good job at what? If you can't finish that sentence, it's a sticker. Kids get a hundred stickers a day from everybody. Tell him what you saw. "You let your sister go first." "You kept going on that math when you wanted to quit." The "at what" is where his name is. And I'm saying it to myself as much as him, because "Good job, son" in a parking lot is the worst one I ever gave.
 [CAM: WES MS]
 WES: Sixty-three. "My son's thirty-five. I never told him any of this. It'd be weird now."
@@ -331,12 +331,12 @@ WES: Here's the challenge. First, listen to yourself for one day. What do you ac
 [CAM: JON MS]
 JONATHON: Then pick up the weight once before Friday. Say his name first, and then one thing you actually saw him do, with a "what" in it. Name what you saw, not what you need from him. And if you've been rationing "proud," spend one.
 [CAM: WES MS]
-WES: Married guys, on a calm night, ask your wife, "What does he hear from me most?" Say your guess first. Don't argue with her answer, and don't fix it that night. Sit with it a day.
+WES: Married guys, on a calm night, ask your wife, "What does he hear from me most?" Say your guess before she answers. Then take what she says home with you and chew on it till morning. No rebuttal.
 [CAM: JON CU]
 JONATHON: Single guys, no son? Find the boy in reach. A nephew, a kid you coach, the one who stays after youth group to stack chairs. Say his name and what you saw. In the light, with his folks knowing who you are.
 WES: Divorced dads, on your next call, his name first.
 [CAM: JON MS]
-JONATHON: And if your house isn't safe, that comes before all of it. The hotline number's in the description.
+JONATHON: And if your house isn't safe, get that handled before anything else we said. The hotline's in the description.
 [TEXT: Listen. Then say his name first.]
 
 [CHAPTER: Carry this]
@@ -382,17 +382,17 @@ Chapters
 00:00 Cold open
 00:17 Intro
 00:44 Pull up a chair
-03:35 The shoulder of the road
+03:34 The shoulder of the road
 09:51 Bud
-15:41 The Word
-22:42 Careful what you name him
-25:54 How to say it
-29:55 Pushback
-34:01 The hard ones
-38:55 Going first
-44:44 The challenge
-45:58 Carry this
-46:05 Outro
+15:40 The Word
+22:41 Careful what you name him
+25:53 How to say it
+29:53 Pushback
+34:00 The hard ones
+38:53 Going first
+44:42 The challenge
+45:57 Carry this
+46:04 Outro
 
 Scripture: Isaiah 43:1 (NIV)
 
