@@ -15,7 +15,7 @@ Walk Steadfast · Field Notes · script v3 (batch E025-E032). Internal.
 | Standing outro | Field Notes F1, reworded |
 | Wardrobe | Wes: denim shirt, worn soft, sleeves rolled. Jonathon: striped navy-and-white long-sleeve tee. |
 | Props | Standard set. Wes's phone (one insert: his calendar, Tue Mar 30, "Call about Mom," checked off). |
-| New continuity | Everything in the v1 row stands: Wes's wife wrong once ("Let him bring it up. He's the oldest. If you push, he'll dig in." / "I think that's how we got two years of weather." / "Okay. I was wrong about that one." / "Don't put that on the podcast." / permission Thursday "since I was only wrong once"); the call (Tue Mar 30, 7 PM, first ring, "I've been waiting on you since the barn," the downstairs room and the recliner, Wes's home-with-help plan, twenty minutes, "Did you ask her?" "Did you?", asking her together at the pot roast Sun Apr 11, "Shake." "Shake.", 1 hour 4 minutes); mornings (Wes four for four, "like brushing my teeth"; Jonathon three of four, the VP's "Can we talk about Q2"); Dani ("You've never said it without a reason." / "Just say it again sometime."); the nephew ("Did you pick?" "Good." day eleven); Theo's prayer walk (four hundred yards, "Who are you talking to?" "God." "Oh."); Bluebonnets game two rained out; car-care tomorrow; no message from the father. **Added in v3 (small, safe):** Jonathon texted Wes a single "?" at 7:15 during the call; Wes answered "K" at 8:06, after he hung up. Wes's wife had a reason for her advice (the oldest brother dug in over the cattle lease about twenty years ago); it was a fair read, and still wrong this time. Wes's youngest asked if he could come to car-care. Wes tries the walk himself Saturday at six, before car-care, and reports in E028 only if it's worth it. Jonathon pushes back that "feeling is weather" can be a way men dodge feelings; Wes agrees with half of it. |
+| New continuity | Everything in the v1 row stands: Wes's wife wrong once ("Let him bring it up. He's the oldest. If you push, he'll dig in." / "I think that's how we got two years of weather." / "Okay. I was wrong about that one." / "Don't put that on the podcast." / permission Thursday "since I was only wrong once"); the call (Tue Mar 30, 7 PM, first ring, "I've been waiting on you since the barn," the downstairs room and the recliner, Wes's home-with-help plan, twenty minutes, "Did you ask her?" "Did you?", asking her together at the pot roast Sun Apr 11, "Shake." "Shake.", 1 hour 4 minutes); mornings (Wes four for four, "like brushing my teeth"; Jonathon three of four, the VP's "Can we talk about Q2"); Dani ("You've never said it without a reason." / "Just say it again sometime."); the nephew ("Did you pick?" "Good." day eleven); Theo's prayer walk (four hundred yards, "Who are you talking to?" "God." "Oh."); Bluebonnets game two rained out; car-care tomorrow; no message from the father. **Added in v3 (small, safe):** Jonathon texted Wes a single "?" at 7:15 during the call; Wes answered "K" at 8:06, after he hung up. Wes's wife had a reason for her advice (the oldest brother dug in over the cattle lease about twenty years ago); it was a fair read, and still wrong this time. Wes's youngest asked how many Saturdays were left and said "Okay" with no sigh (Thursday Apr 1), two days before Wes moves the line on him in E027. Wes tries the walk himself Saturday at six, before car-care, and reports in E028 only if it's worth it. Jonathon pushes back that "feeling is weather" can be a way men dodge feelings; Wes agrees with half of it. |
 
 ## Title options
 
@@ -80,7 +80,7 @@ JONATHON: That's a terrible opening line. That's my opening line. I've used that
 [CAM: WES MS]
 WES: And then we got into it. And it turns out we had two completely different plans, and neither one of us knew the other one had a plan. He figured Mom would move in with him and his wife. They've got a room downstairs. He's been clearing it out. He bought a recliner for it.
 JONATHON: Hold on. He bought a recliner? For a plan nobody had agreed to yet?
-WES: He bought a recliner. Without telling anybody. Brown leather. He described it to me. And I figured she'd stay in her own house, with more help coming in, maybe a grab bar in every room. And we went back and forth for about twenty minutes. Not yelling. That tone. Two men in their fifties being very reasonable at each other.
+WES: He bought a recliner. Without telling anybody. Leather. He described it to me like a used truck. And I figured she'd stay in her own house, with more help coming in, maybe a grab bar in every room. And we went back and forth for about twenty minutes. Not yelling. That tone. Two men in their fifties being very reasonable at each other.
 [CAM: JON MS]
 JONATHON: I know that tone. That's my VP's tone. That's the "I hear what you're saying" tone, which means he's not hearing what you're saying. What were you actually fighting about, though? Underneath. Because it doesn't sound like it was about a recliner.
 WES: That's a good question. I think he was saying, I've carried her for years, and you get to drive in with a plan? And I was saying, you don't get to decide for all three of us. Both true. Neither one of us said that part out loud.
@@ -130,9 +130,9 @@ WES: You said it to me on Tuesday that I do the receipt thing. You didn't mentio
 JONATHON: I didn't know until Wednesday night on the couch. So you're welcome for the ammunition, I guess.
 [TEXT: "You've never said it without a reason."]
 [CAM: WES MS]
-WES: Mine was the youngest, and you heard it Tuesday. But here's the follow-up. He asked last night if he could come to car-care tomorrow. On his own. It's not one of his Saturdays. He's not paying anything off.
-JONATHON: That's huge. That's a sixteen-year-old volunteering to be awake on a Saturday.
-WES: I didn't make anything of it. I said, "Sure." I didn't say "good job." I'm learning.
+WES: Mine was the youngest, and you heard it Tuesday. But here's the follow-up. Last night he asked how many Saturdays were left, again. I said, "Three after tomorrow." And he said, "Okay." No sigh. First time since December there wasn't a sigh.
+JONATHON: That's huge. That's a sixteen-year-old choosing not to sigh. That's basically a hug.
+WES: I didn't make anything of it. I didn't say "good job" for not sighing. I'm learning. Slowly.
 [CAM: JON MS]
 JONATHON: And the single check. My nephew was at Easter lunch. He comes to Sunday lunch every time now. And while everybody's eating, he finds me in the garage, where I'm getting more chairs, and he says, "Did you pick?"
 WES: He listens.
@@ -259,10 +259,10 @@ Chapters
 00:00 Cold open
 00:15 Intro
 00:39 Check the box
-11:41 From the table
-18:07 Tool on the table
-22:00 Carry this
-22:14 Outro
+11:45 From the table
+18:11 Tool on the table
+22:05 Carry this
+22:18 Outro
 
 Scripture: Mark 9:24 (NIV)
 
@@ -321,7 +321,7 @@ Scripture quotations taken from The Holy Bible, New International Version®, NIV
 
 ## Production notes
 
-- **v3 length.** About 23 minutes. Added: the 7:15 "?" and the "K" (callback to Wes's texting), the wife's reason (she isn't a dummy; her read was fair), what the brothers were fighting about underneath, the youngest volunteering for car-care, Jonathon's push-back on "feelings are weather," the contractor as a quiet-faith example, and Wes committing to try the walk.
+- **v3 length.** About 23 minutes. Added: the 7:15 "?" and the "K" (callback to Wes's texting), the wife's reason (she isn't a dummy; her read was fair), what the brothers were fighting about underneath, the youngest's first answer without a sigh, Jonathon's push-back on "feelings are weather," the contractor as a quiet-faith example, and Wes committing to try the walk.
 - **Round 5: Wes's wife is wrong once.** She's wrong about something that matters, for a good reason. She owns it with humor. Don't repeat this beat in the batch.
 - **Mom's plan pattern.** Echoes E012 ("Mom, tell the doctor") in one line. The pot roast (Sun Apr 11) is reported in E029.
 - **The father.** No message, by design.
