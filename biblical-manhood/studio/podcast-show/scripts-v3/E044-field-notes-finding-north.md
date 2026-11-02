@@ -5,7 +5,7 @@ Walk Steadfast · Field Notes · script v3 (final, batch E041-E048). Internal. S
 | | |
 |---|---|
 | Release | Fri Jun 4, 2027, 5:00 AM CT |
-| Format | Field Notes, the season review. About 24 min. Standard order (check, question, tool), then "What stuck," each man for himself (round 6). |
+| Format | Field Notes, the season review. About 22 min. Standard order (check, question, tool), then "What stuck," each man for himself (round 6). |
 | Intro and slate | Per-episode open, Jonathon leads (SHOW-BIBLE section 5, open system v3, text in _build/intros_data.py, copied verbatim). Slate: JONATHON "Episode forty-four." WES "Field Notes. Finding North." |
 | From the Table | "How do I write a vision without it sounding like a slogan?" Asked in a long late-night text from the 24-year-old car-care regular (no car, takes the bus, brings donuts). Wes reads it in full, with permission, in three pieces with Jonathon between them (round 7, a single man quoted at length). |
 | Checks | E043 challenge. Name what you steered by, write one sentence for where you're headed, and say it out loud to one person. |
