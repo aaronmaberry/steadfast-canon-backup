@@ -122,10 +122,12 @@ JONATHON: Oh no. Oh, Wes. You called your mom about the truck before your wife.
 WES: And my wife listened to the whole thing, and she said, "Did you call your mother before you asked me?" And I said yes, because I didn't know there was a wrong answer. And there was a wrong answer.
 JONATHON: How bad was it? Scale of one to the couch.
 WES: She didn't yell. She said, "Okay. Next time, call me from the pay phone." And I did. For twenty-seven years, she's the first call. And it runs both ways now. When she gets news, I'm hers. My mom didn't do anything wrong. She just wasn't the first call anymore, and I hadn't noticed the job had changed.
+JONATHON: "Call me from the pay phone." That's a gracious woman. I'd have been on the couch till Christmas.
 [CAM: WES MS]
 WES: Here's a verse for him. Paul's telling the church in Philippi how to treat each other. Don't do things out of selfishness, he says, and think of others first. And then this.
 [CARD: Philippians 2:4]
 WES: "Not looking to your own interests but each of you to the interests of the others."
+JONATHON: Each of you. So it runs both directions. Who's that verse for, him or her?
 [CAM: 2S]
 WES: And I'd ask him, honestly, in twenty minutes every morning, how many of them are about her? What's going on in her life? Who's her friend? What does she want? Because if it's twenty minutes of his day, every day, for years, that's a son using his mother as a place to set things down. Lovingly. But it's still running one direction.
 [CAM: JON MS]
@@ -219,9 +221,9 @@ Chapters
 00:18 Intro
 00:43 Check the box
 07:09 From the table
-15:16 Tool on the table
-21:37 Carry this
-21:48 Outro
+15:28 Tool on the table
+21:49 Carry this
+22:00 Outro
 
 Scripture: Philippians 2:4 (NIV)
 

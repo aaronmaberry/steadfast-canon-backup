@@ -150,6 +150,7 @@ JONATHON: Okay. Your turn. Your dad was there. He was in the chair every night. 
 WES: (long beat) Shoes.
 JONATHON: Shoes? I was not expecting shoes. Okay. Go.
 WES: Every Saturday night, my dad polished his church shoes. At the kitchen table. On newspaper. The farm section, always the farm section. A tin of black polish, a rag, and a brush with a wood handle. And from the time I was about six, I'd sit across from him and hand him the brush when he needed it. That's all. I handed him the brush.
+JONATHON: That's all? You were the brush guy. Like a surgical nurse, but for shoes. How long does a shoe even take?
 [CAM: WES CU]
 WES: Forty-five minutes, every Saturday night, for about ten years. And he never said anything. Not "how was school." Not "you're a good helper." Nothing. He'd hold his hand out, and I'd put the brush in it. (beat) That was the most time I spent with my father in any week of my childhood. Me and him and a shoe.
 [CAM: JON CU]
@@ -248,6 +249,7 @@ WES: The truck. So, the Saturdays. Twelve of them, at my brother's place, workin
 [CAM: JON CU]
 JONATHON: Oh, no. Wes. Three Saturdays from done, and you put a new hill at the end.
 WES: And he put his fork down. And he said, "Nothing's ever done with you. You keep moving it." (beat) And he got up and left for his uncle's. Didn't eat. Didn't slam anything. That's almost worse. He just left.
+JONATHON: No slam. Man. I'd take the slam. With a slam, at least you know where you stand. What'd you do?
 [CAM: WES MS]
 WES: And I sat there. And my first thought was, he's being dramatic. My second thought was, the insurance is a real cost. And then about an hour later, at car-care, pouring coffee for a woman with a Buick, it hit me. He's right.
 [CAM: WES CU]
@@ -489,18 +491,18 @@ Chapters
 04:51 The Saturday
 08:58 Why the detail
 11:37 Shoes
-14:49 The dad who was home
-17:17 What belonged in the chair
-21:34 The chair is not the last word
-24:13 In the chair and still
-28:14 You should have made him pay
-30:50 Pushback
-38:53 The Sunday text
-41:09 What I actually did
-43:51 How to tell one man
-46:51 The challenge
-48:34 Carry this
-48:51 Outro
+14:57 The dad who was home
+17:25 What belonged in the chair
+21:42 The chair is not the last word
+24:21 In the chair and still
+28:29 You should have made him pay
+31:06 Pushback
+39:09 The Sunday text
+41:24 What I actually did
+44:06 How to tell one man
+47:07 The challenge
+48:50 Carry this
+49:06 Outro
 
 Scripture: Ephesians 6:4 (NIV)
 

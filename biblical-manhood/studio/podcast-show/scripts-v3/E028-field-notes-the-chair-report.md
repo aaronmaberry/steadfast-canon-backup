@@ -160,6 +160,7 @@ JONATHON: And grown kids? Because that's you, and I'm a long way from that.
 WES: Grown kids might already know more than you think. Mine did. He handed me a brush I'd forgotten. Ask them what they remember before you tell them anything. You might be the one who learns something.
 [CAM: WES CU]
 WES: And I'll tell you one I got wrong. When my oldest was about fourteen, he asked me, "Did Grandpa like me?" Because my dad never said much to the grandkids either. And I gave him a summary. "Of course he did, buddy." And moved on. It was a true summary. But I had a detail, and I didn't give it to him.
+JONATHON: What was the detail?
 [CAM: WES MS]
 WES: My dad came to every one of that boy's ball games. Sat in the same spot, top row, by himself. Never said a word to him after. And when we cleaned out Dad's truck after he died, there was a stack of programs from those games in the glove box. Every one. Rubber band around them.
 JONATHON: Did you ever tell him? Before Tuesday?
@@ -260,9 +261,9 @@ Chapters
 00:12 Intro
 00:38 Check the box
 07:39 Tool on the table
-16:54 From the table
-22:01 Carry this
-22:15 Outro
+16:56 From the table
+22:03 Carry this
+22:17 Outro
 
 Scripture: Ephesians 4:29 (NIV)
 

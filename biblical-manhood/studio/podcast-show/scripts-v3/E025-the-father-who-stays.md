@@ -345,6 +345,7 @@ WES: And let him say "okay." "Okay" is a full answer from a sixteen-year-old boy
 [CAM: JON MS]
 JONATHON: Can I ask the honest version? What if you've never done it? What if your kid's twenty-five and you've never once said a sentence like that? Doesn't it come out weird?
 WES: It comes out very weird. He might think you're dying. My oldest boy answered a text of mine in January with "Are you dying?" So you say, "No. I'm not dying. I just should've said it sooner." That's all. The weird is the price of going first. You pay it once and then it gets cheaper.
+JONATHON: The weird is the price of going first. I like that. How'd you figure out you needed it, though? You weren't born saying this stuff.
 [CAM: WES CU]
 WES: I'll tell you where I learned I needed this. In the fog years, when my daughter was about nine, she used to bring her plate and sit on the floor by my recliner. Every night. And I never once said, "I'm glad you're down here." I'd have said "good job" if she'd brought me a report card. She didn't need a report card. She needed a man to look down and say he was glad she was there. I missed a lot of those floors.
 JONATHON: That's hard to hear. I've got a Ruby on the hamper at bath time every night.
@@ -436,6 +437,7 @@ WES: And mine's tonight.
 [CAM: JON MS]
 JONATHON: The brother. I've been watching you check your watch since you sat down.
 WES: The brother's tonight. Seven o'clock. It's been on my calendar since the barn. "Call about Mom." I told him out there, "Not at Easter. Tuesday after. I'll call." So tonight. I'll tell you Friday.
+JONATHON: Friday. You're going to leave me hanging till Friday. That's cold, Wes. Give the new folks the backstory, at least.
 [CAM: WES MS]
 WES: And for the man who's new, here's what it's about. My mother's seventy-eight. She's got a bad hip, and she can't see to drive at night anymore. My older brother runs our dad's place, and he's the one who's handled Mom for years, mostly by himself. And there's a question nobody in my family's wanted to ask out loud. Where's she going to live when the house gets to be too much? We argued about it at Thanksgiving, and I left early. I'm not proud of that either.
 JONATHON: And he said "Well." Probably.
@@ -524,13 +526,13 @@ Chapters
 22:48 The Word
 30:23 But I have a number
 32:55 How you say it with no receipt
-36:56 Pushback
-42:40 What I actually did
-44:33 Where a man learns to stay
-47:22 Tonight at seven
-50:30 The challenge
-52:45 Carry this
-52:59 Outro
+37:05 Pushback
+42:49 What I actually did
+44:42 Where a man learns to stay
+47:32 Tonight at seven
+50:47 The challenge
+53:02 Carry this
+53:16 Outro
 
 Scripture: Matthew 3:17 (NIV)
 
