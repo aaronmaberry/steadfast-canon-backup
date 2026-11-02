@@ -198,7 +198,7 @@ WES: No. And that's why the first fence is there. "If it is possible." For that 
 [CAM: JON MS]
 JONATHON: And not feeling guilty about it. That's the part. Because the guilt will come. Grandma will call. "It's Thanksgiving, it's family." And he needs to know that the Bible isn't on Grandma's side on this one.
 [CAM: WES MS]
-WES: The Bible's on the side of the truth. And sometimes the truth is that a man can't be at that table and stay safe and stay sober and stay himself. That man's half of the peace is to protect his own house. If that's you, and it's dark, and the holidays are making it darker, call or text 988. Before Thursday, if you need to. There's no shame in it.
+WES: The Bible's on the side of the truth. And sometimes the truth is that a man can't be at that table and stay safe and stay sober and stay himself. That man's half of the peace is to protect his own house. If that's you, and it's dark, and the holidays are making it darker, call or text 988. Before Thursday, if you need to. If it was done to you as a boy, the Childhelp hotline at 1-800-422-4453 is for grown men too. There's no shame in it.
 [CAM: JON CU]
 JONATHON: And here's one more piece, Wes, because I think you skipped a verse. Proverbs has the one about the gentle answer. My mom used to quote it at me when I was a teenager and sassing her. I hated it.
 [CAM: WES CU]
@@ -449,18 +449,18 @@ Chapters
 04:24 I'm right here
 09:48 The man of the house
 14:20 The Word
-24:35 All elbows
-29:10 The prayer you didn't outsource
-35:29 Your half
-39:53 Pushback
-46:24 Going first
-49:10 The challenge
-50:42 Carry this
-50:54 Outro
+24:43 All elbows
+29:18 The prayer you didn't outsource
+35:37 Your half
+40:01 Pushback
+46:32 Going first
+49:17 The challenge
+50:50 Carry this
+51:02 Outro
 
 Scripture: Romans 12:18, Matthew 5:9, Luke 24:30, Romans 12:21, Proverbs 15:1 (NIV)
 
-The challenge: before you eat on Thursday, go first toward the one person you're braced for. One true, gentle sentence. If that person is someone who hurt you, this one isn't for them. Your half is protecting your house. If it's dark, call or text 988.
+The challenge: before you eat on Thursday, go first toward the one person you're braced for. One true, gentle sentence. If that person is someone who hurt you, this one isn't for them. Your half is protecting your house. If it's dark, call or text 988. If you were hurt as a child, the Childhelp National Child Abuse Hotline is 1-800-422-4453, and it's for adults too.
 
 Steadfast Men, chapter 6, Go First, is at walksteadfast.com.
 
@@ -523,7 +523,7 @@ Scripture quotations taken from The Holy Bible, New International Version®, NIV
 - **Last year's Thanksgiving.** Consistent with the E007 and E016 rows (the argument about Mom's care, Wes left early, apologized to his brothers in the winter, the older brother ate the pecan pie). New on air: Wes prayed first, the mailbox, "I'm right here," "I've got cows," and that he never apologized to his mother.
 - **Uncle Rudy.** New on air, named here for the first time. Tied to the E047/E049 rows ("You're the man of the house now," said by relatives at the first Thanksgiving after Jonathon's dad left). This script makes Rudy the one who said it first. Batch report lists it as an assumption.
 - **Jonathon's father.** One small line through Ruby ("Okay. Six."). He doesn't call or write, so under the round 12 rule there's no report on him, only Ruby counting plates.
-- **Safety.** 988 said twice on mic (the man across from his abuser, the divorced father alone), in the challenge note in the description, and no jokes near either.
+- **Safety.** 988 said twice on mic (the man across from his abuser, the divorced father alone), in the challenge note in the description, and no jokes near either. Childhelp (1-800-422-4453) once on mic with the abuser question and in the description, as in E092.
 - **Pushback.** Jonathon pushes twice for real (peace as a doormat, the man across from his abuser). Jonathon's two stories are Rudy at nine and Rudy last year. Sniper-prayer cousin in Baytown is a one-line color, no name used for the cousin, "Kevin" is a name in the joke.
 - **"Sir":** two (the sixty-six-year-old father, the sober man's script). **Kid line:** one, Ruby's "Okay. Six." **Knee beat:** none. **Show about itself:** one (the Friday tease).
 - **Setups for E094 (Field Notes: Black Friday; season review; From the Table "How do we keep Christmas from eating us alive?"; tool "The family gift rule"; outro F3).** The porch with Rudy, the carving, Wes in his mother's kitchen early, both pies, Dad's name in the prayer, the listener's go-first, the deer stand on Friday. Austin's split-custody holidays get one line.

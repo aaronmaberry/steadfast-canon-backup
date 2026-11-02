@@ -16,7 +16,7 @@ The v3 brief sets mains at 45 to 60 minutes (about 7,000 to 9,000 spoken words) 
 | E090 Field Notes: Veterans Day | 12-16 min (4b) | 24:47 | 4b, the 4d Field Notes clock |
 | E091 Gratitude Out Loud | 25-35 min (4a) | 47:27 | 4a, the 4d main clock |
 | E092 Field Notes: Thank-You Report | 12-16 min (4b) | 22:28 | 4b, the 4d Field Notes clock |
-| E093 Lead the Thanksgiving Table | 25-35 min (4a) | 51:23 | 4a, the 4d main clock |
+| E093 Lead the Thanksgiving Table | 25-35 min (4a) | 51:31 | 4a, the 4d main clock |
 | E094 Field Notes: Black Friday | 12-16 min (4b), and section 15 asks for a light episode with a three-minute review | 23:01 | 4b, the 4d Field Notes clock. The review itself is held to about three minutes (10:05 to 12:53), as section 15 asks. |
 | E095 Joseph Said Nothing | 25-35 min (4a) | 46:49 | 4a, the 4d main clock |
 | E096 Field Notes: Advent Report | 12-16 min (4b) | 21:56 | 4b, the 4d Field Notes clock |
@@ -35,4 +35,5 @@ No other length cap in the bible applies to these eight.
 ### Change to a script earlier in this batch
 
 - **Cross-batch phrase pass.** After the six-word repeat scan, the later use of thirteen incidental phrases was reworded in E091-E096 (for example "looked at me like I'd," "in front of two hundred people," "in the driveway the whole time"). Chapter timestamps were regenerated from timing.py.
+- **E093 safety line.** The man across the table from his abuser now gets the Childhelp line (1-800-422-4453) on mic and in the description, alongside 988, as E092 does.
 - **E091 pie line.** The first draft had Wes say he'd "never told anybody I left before the pie." The v1 continuity rows (E007, E016) already have him owning that he left early, and his brother saying "Mom made a pecan pie for you. I ate it." E091 now has Jonathon recall the pie from the winter and Wes say he apologized to his brother "in a parking lot" but never thanked him.
