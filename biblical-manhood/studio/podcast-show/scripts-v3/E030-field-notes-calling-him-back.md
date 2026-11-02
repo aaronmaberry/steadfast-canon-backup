@@ -5,7 +5,7 @@ Walk Steadfast · Field Notes · script v3 (batch E025-E032). Internal.
 | | |
 |---|---|
 | Release | Fri Apr 16, 2027, 5:00 AM CT |
-| Format | Field Notes. About 23 min (v3 length, see scripts-v3/CHANGELOG-V3.md). Standard order (check, question, tool). April's order change was E028. |
+| Format | Field Notes. About 22 min (v3 length, see scripts-v3/CHANGELOG-V3.md). Standard order (check, question, tool). April's order change was E028. |
 | Intro and slate | Per-episode open, Wes leads (SHOW-BIBLE section 5, open system v3, text in _build/intros_data.py). Slate: WES "Episode thirty." JONATHON "Field Notes. Calling Him Back." |
 | Checks | E029 challenge: go first; call your father and ask one question about his life before you. Jonathon's call (Wed Apr 14, 7:30 PM). Wes's call to his oldest (Thu Apr 15). Single check: Wes's oldest son (21), inside Wes's check. The nephew rests. |
 | From the Table | "Do I have to forgive a dad who isn't sorry?" |
@@ -230,9 +230,9 @@ Chapters
 00:00 Cold open
 00:18 Intro
 00:42 Check the box
-11:57 From the table
+11:58 From the table
 16:49 Tool on the table
-21:22 Carry this
+21:23 Carry this
 21:36 Outro
 
 Scripture: Romans 12:18 (NIV)
@@ -294,7 +294,7 @@ Scripture quotations taken from The Holy Bible, New International Version®, NIV
 
 ## Production notes
 
-- **v3 length.** About 23 minutes. Added: the breakfast bet settled, the dentist voicemail practice, the weather minute before the question, Wes's read on the rods ("the only thing anybody ever handed him"), Jonathon not timing the call, Wes picking lunch on purpose, Jonathon's push-back with Luke 17:3 and Wes's answer (debt versus relationship), the "not the same size" exchange, the 2 AM words ("He got rods, and I got the weather"), and Wes's same-sentence prayer.
+- **v3 length.** About 22 minutes. Added: the breakfast bet settled, the dentist voicemail practice, the weather minute before the question, Wes's read on the rods ("the only thing anybody ever handed him"), Jonathon not timing the call, Wes picking lunch on purpose, Jonathon's push-back with Luke 17:3 and Wes's answer (debt versus relationship), the "not the same size" exchange, the 2 AM words ("He got rods, and I got the weather"), and Wes's same-sentence prayer.
 - **Luke 17:3 and Mark 11:25** are paraphrased, not quoted, so Romans 12:18 stays the only card. Jonathon says "I'm paraphrasing."
 - **The grandfather's name stays off mic.** Jonathon keeps it for Ruby. This also keeps the family name out of the name-swap list. If it's ever spoken, add it to `_build/names.json` first.
 - **The father is not sorry and is not a villain.** He waits after "Not yet," notices Ruby looks like Jonathon's mom, and laughs. "Well. That's true" is as close as he gets. Don't upgrade it later into an apology this season.

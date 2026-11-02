@@ -432,16 +432,16 @@ Chapters
 00:00 Cold open
 00:14 Intro
 00:39 Pull up a chair
-09:22 Twice a year
-15:42 The Word
-22:22 The pot roast
-28:45 Why the weather
-33:18 Pushback
-38:39 Ask him about his dad
-41:35 Going first
-47:44 The challenge
-49:36 Carry this
-49:48 Outro
+09:21 Twice a year
+15:41 The Word
+22:21 The pot roast
+28:43 Why the weather
+33:15 Pushback
+38:36 Ask him about his dad
+41:32 Going first
+47:40 The challenge
+49:32 Carry this
+49:44 Outro
 
 Scripture: Exodus 20:12 (NIV)
 

@@ -396,16 +396,16 @@ Chapters
 00:00 Cold open
 00:20 Intro
 00:46 Pull up a chair
-04:37 The laundry basket
-09:52 Kid
-16:08 What it sounds like
-19:55 The Word
-25:40 The AC man
-33:33 Pushback
-39:15 The name
-44:59 The challenge
-46:52 Carry this
-47:12 Outro
+04:35 The laundry basket
+09:50 Kid
+16:07 What it sounds like
+19:53 The Word
+25:39 The AC man
+33:32 Pushback
+39:14 The name
+44:57 The challenge
+46:50 Carry this
+47:10 Outro
 
 Scripture: Luke 2:49 (NIV)
 

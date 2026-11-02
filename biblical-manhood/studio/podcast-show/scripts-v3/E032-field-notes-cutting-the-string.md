@@ -5,7 +5,7 @@ Walk Steadfast · Field Notes · script v3 (batch E025-E032). Internal.
 | | |
 |---|---|
 | Release | Fri Apr 23, 2027, 5:00 AM CT |
-| Format | Field Notes. About 23 min (v3 length, see scripts-v3/CHANGELOG-V3.md). Standard order (check, question, tool). May's order change is due in E034 or E036. |
+| Format | Field Notes. About 22 min (v3 length, see scripts-v3/CHANGELOG-V3.md). Standard order (check, question, tool). May's order change is due in E034 or E036. |
 | Intro and slate | Per-episode open, Jonathon leads (SHOW-BIBLE section 5, open system v3, text in _build/intros_data.py). Slate: JONATHON "Episode thirty-two." WES "Field Notes. Cutting the String." |
 | Checks | E031 challenge: name who counted you in and tell one man; change how you carry one weight from home. Single check: the nephew (22), by text. |
 | From the Table | "My mom still calls me every day. Is that a problem?" (Jonathon's rep, 31, single, unnamed at his request) |
@@ -219,9 +219,9 @@ Chapters
 00:18 Intro
 00:43 Check the box
 07:09 From the table
-15:17 Tool on the table
-21:38 Carry this
-21:49 Outro
+15:16 Tool on the table
+21:37 Carry this
+21:48 Outro
 
 Scripture: Philippians 2:4 (NIV)
 
@@ -282,7 +282,7 @@ Scripture quotations taken from The Holy Bible, New International Version®, NIV
 
 ## Production notes
 
-- **v3 length.** About 23 minutes. Added: the stapler drawer, Jonathon's fear of the couch with nothing to fix, Wes's tie-back to his E031 admission (no lesson), "day thirty-six of what?" left unanswered, the four drafts of "ok," Wes still without his truck sentence, Jonathon's push-back for the rep's mom ("ration his mother," "I would have taken a daily call from my dad") landing on "gift and string, both," the overnight muscle, the pay phone running both ways, and "Does Pat count?"
+- **v3 length.** About 22 minutes. Added: the stapler drawer, Jonathon's fear of the couch with nothing to fix, Wes's tie-back to his E031 admission (no lesson), "day thirty-six of what?" left unanswered, the four drafts of "ok," Wes still without his truck sentence, Jonathon's push-back for the rep's mom ("ration his mother," "I would have taken a daily call from my dad") landing on "gift and string, both," the overnight muscle, the pay phone running both ways, and "Does Pat count?"
 - **The locked open says "two parts this week."** It's verbatim from _build/intros_data.py and the brief bans "this week" in scripts. Left as is (opens are locked) and flagged in the batch report for Aaron to decide.
 - **Round 5: a single man over 30 by E032, whose story isn't lust or loneliness.** It's the rep (31). His story is a daily report call. He has a girlfriend and isn't lonely. He stays unnamed on mic at his request. That also keeps him out of the name-swap list.
 - **The brother's line is the episode's weight, and it has no lesson.** "Nobody stands in the driveway for the one who stays" explains the recliner without anyone saying so. Don't connect them on mic. Don't fix it in E033. E033 (leaving) can touch it in one line at most.

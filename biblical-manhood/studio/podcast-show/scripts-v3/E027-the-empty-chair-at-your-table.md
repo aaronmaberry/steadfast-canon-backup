@@ -5,7 +5,7 @@ Walk Steadfast · main episode · script v3 (batch E025-E032). Internal.
 | | |
 |---|---|
 | Release | Tue Apr 6, 2027, 5:00 AM CT |
-| Format | Main episode. About 52 min (v3 length, see scripts-v3/CHANGELOG-V3.md). |
+| Format | Main episode. About 49 min (v3 length, see scripts-v3/CHANGELOG-V3.md). |
 | Intro and slate | Per-episode open, Jonathon leads (SHOW-BIBLE section 5, open system v3, text in _build/intros_data.py). Slate: JONATHON "Episode twenty-seven. The Empty Chair at Your Table." |
 | Source | Book chapter 8, The Empty Chair (B plug). Training session 8. Avoided on purpose, as in v1: the boy with a learner's permit in an empty school lot, and the hand on the grab handle (no driving lesson and no grab handle anywhere in the episode); keys hitting the counter; the four kinds of chair as a list; "something sits down in it" and the list of what takes the seat; Joseph, David with the sheep; Psalm 27:10 and 68:5-6 (book margins); the unmailed letter; "finish this sentence: the chair at the head of my childhood table was"; "attic." From session 8: the man whose dad sat in a brown recliner every night, the school picture on the fridge, the custody calendar on the fridge, the man who sees his boys on alternating Saturdays, "it explains, it doesn't excuse" as a phrase, and "chores done before his truck turned in." The show's angle is details, not summaries. Jonathon tells the whole Saturday for the first time, and the practice is to tell one man one true detail. Ephesians 6:4 is read for what belonged in the chair, then turned on Wes as a father who's in the chair and still exasperating his son. |
 | Focus mark | **Pick Up the Weight**, named in Pull up a chair and in Carry this |
@@ -571,7 +571,7 @@ Scripture quotations taken from The Holy Bible, New International Version®, NIV
 
 ## Production notes
 
-- **v3 length.** About 52 minutes. Added: Wes's walk report, the "Why the detail" chapter (Jonathon's own push-back, and the toy box as the lamp coming out sideways), the room around the shoes, the Roman-father context of Ephesians 6:4, the unasked sister, and "You should have made him pay," where Jonathon disagrees with Wes and doesn't fold.
+- **v3 length.** About 49 minutes. Added: Wes's walk report, the "Why the detail" chapter (Jonathon's own push-back, and the toy box as the lamp coming out sideways), the room around the shoes, the Roman-father context of Ephesians 6:4, the unasked sister, and "You should have made him pay," where Jonathon disagrees with Wes and doesn't fold.
 - **The whole Saturday is told once, here.** Never retell it in detail again. Later references: "the lamp," "Be good for your mom."
 - **Avoid list honored.** No grab handle and no driving lesson (v1's handle line is cut). No "explains/excuses" pairing anywhere (Jonathon says "It doesn't let him off the hook"). No brown recliner.
 - **Round 5.** The Sunday-text man is the story that doesn't land, with no moral. The over-60 example is the 80-year-old from the Thursday table. One deadpan payoff: Dani's "Were you going to ask me, or is this for the truck?"
