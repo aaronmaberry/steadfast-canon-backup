@@ -227,7 +227,7 @@ WES: Produced with AI voice and video tools.
 
 | # | Cut | Hook | Length |
 |---|---|---|---|
-| 1 | Nobody's ever asked me to look (from "But the line I want to tell you about isn't the lease." through "nobody had ever asked her to look at her own.") | "Nobody's ever asked me to look." | about 40 s |
+| 1 | Nobody's ever asked me to look (from "But the line I want to tell you about isn't the lease." through "nobody had asked her to read her own.") | "Nobody's ever asked me to look." | about 40 s |
 | 2 | The monthly money date (from "Step one. Put it on the calendar, the same night every month." through "go eat the rest of the dessert.") | "The fight is almost never about the money." | about 90 s |
 
 ## YouTube description
