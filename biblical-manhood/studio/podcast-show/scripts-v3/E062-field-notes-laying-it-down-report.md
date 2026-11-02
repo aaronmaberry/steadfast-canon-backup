@@ -5,14 +5,14 @@ Walk Steadfast · Field Notes · script v3 (podcast v3, batch E057-E064). Intern
 | | |
 |---|---|
 | Release | Fri Aug 6, 2027, 5:00 AM CT |
-| Format | Field Notes, about 23 min (v3 length, see scripts-v3/CHANGELOG-V3.md). Standard order (check, question, tool). Cold open is Jonathon's yes-or-no report. Taped Thursday afternoon, Aug 5 (before Wes gets home that evening; see Production notes). |
+| Format | Field Notes, about 25 min (v3 length, see scripts-v3/CHANGELOG-V3.md). Standard order (check, question, tool). Cold open is Jonathon's yes-or-no report. Taped Thursday afternoon, Aug 5 (before Wes gets home that evening; see Production notes). |
 | Intro and slate | Per-episode open, Jonathon leads (SHOW-BIBLE section 5, open system v3, text in _build/intros_data.py). Read verbatim. Slate: JONATHON "Episode sixty-two." WES "Field Notes. Laying It Down Report." |
 | From the Table | "everybody says die to yourself. ok. what does that look like on a wednesday. like an actual wednesday." Second text: "shes not in the house. so what am i dying for on a wednesday." Labeled honestly: texted to Jonathon by Austin (53, a regional manager in Austin; everybody calls him by the city; wife moved out in March; kids ten and nine, Saturdays) after he heard about the moved Tuesday call; he said it could be brought to the show. Read as written. |
 | Checks | E061 challenge: name the one thing you'd least like to lay down for your wife, ask who's paying for it, lay it down once a day with no speech and no score, and look at whose side of the house it lands on. Misses first (Jonathon's Wednesday). Wes's kitchen door. **Single check:** the nephew by text, read aloud by Jonathon. |
 | Tool on the Table | The first-pick swap: until Tuesday, notice your first picks (first shower, first to talk when you walk in, the TV, the last coffee, first to sit after supper, Saturday morning). Once a day, swap one and give her the first pick. No announcement. Rails: first pick, not every pick; still say what you want out loud; not a scorecard on her. Single: roommates, mom, buddies. Divorced: offer a holiday or a birthday before she asks. If home has turned to fear, that's not this: counselor; DV hotline. |
 | Scripture (NIV) | Luke 9:23 (checked 2026-10-03), read by Wes. The only card. First use on the show. Luke 9:24 is not quoted. |
 | Plugs | None |
-| Standing outro | Field Notes F3 |
+| Standing outro | Field Notes F3, lightly reworded ("If you skipped it") |
 | Wardrobe | Per WARDROBE.md. Wes: cream short-sleeve work shirt. Jonathon: heather-green tee. |
 | Props | Standard set. A small paper bag of okra (end insert). |
 | New continuity | Everything in the v1 row stands except the day of the okra (see below): Wes's kitchen door; Tue his wife at the sink, **"What's wrong?"** "Nothing. I just came in." (twenty years of the dresser had taught her his absence meant fine); her **sister's knee replacement in September**, she'll drive up and stay a week, Wes will have the house, the youngest and supper (no announcement); **the knife and the bowl of okra**; Wed night he did the kitchen and gave her **the porch**, and she sat out there half an hour alone; **Wes's dad fed cattle every morning of his life** (Christmas, the morning the granddad died, the morning Wes was born); Jonathon laid his unnamed thing down every day **but Wednesday** ("I picked me. I knew it while I was doing it."), Dani didn't notice, he didn't tell her, Thursday morning he did the regular one; Dani's first picks he never noticed (the far spot at church, the cold side of the bed, the burnt pancake); **Dani's audition is next week**; **Austin** back from Oregon, **"River was cold. Kids didn't care."**, "I'm going to text you something. Don't read it to me." **Changed from v1:** Wes's forgetting and the okra happen **Wednesday** (not Thursday), and the sister's knee comes up over the okra, because E063 puts the friend's diagnosis on Thursday evening. **New on air:** the porch swing Jonathon named on Tuesday "doesn't count" and he won't say; the breakfast meeting ran once ("Odessa brought kolaches"); Wes's degree page is **still in his Bible** and he hasn't said the sentence; Wes's wife on the porch, the next morning: "I forgot it faced east." **The nephew's single check:** he let his roommate have the thermostat (66 degrees, three days): "my feet are cold. is that the thing". Jonathon: "that's the thing. buy socks." **Jonathon pushes back** on Wes's "let her have Wednesday" for Austin (dying to self is not signing whatever her lawyer sends); they land on "Give in on the small things. Get help on the big ones." |
@@ -228,7 +228,7 @@ JONATHON: And carry this. If there's applause, it's probably Sunday.
 [CHAPTER: Outro]
 [OUTRO]
 [CAM: 2S]
-WES: If you did the challenge, tell us in the pinned comment. If you didn't, tell us that too.
+WES: If you did the challenge, tell us in the pinned comment. If you skipped it, tell us that too.
 JONATHON: Subscribe. walksteadfast.com. @steadfastwalk. Go walk it out.
 [END SCREEN 20s]
 (Wes pulls a small paper bag of okra from under the table and sets it in front of Jonathon. Jonathon opens it, looks in, then at Wes. Hold WIDE 2s. Cut.)
@@ -319,7 +319,7 @@ Scripture quotations taken from The Holy Bible, New International Version®, NIV
 
 ## Production notes
 
-- **v3 length.** About 23 minutes (CHANGELOG-V3.md).
+- **v3 length.** About 25 minutes (CHANGELOG-V3.md).
 - **Taping day and the okra.** Field Notes tapes before release; this one is taped Thursday afternoon, Aug 5. E063 puts the friend's diagnosis on Thursday evening (Wes comes in the kitchen door and goes to the porch two hours), so this script moves the v1 "Thursday I forgot... okra" beat to Wednesday and reports nothing of Wes's Thursday evening. Jonathon's "Thursday" is Thursday morning. Logged in CHANGELOG-V3.md and the batch report.
 - **Card.** Luke 9:23 is quoted whole. Jesus's words run on into verse 24 in the NIV, so there's no closing inner quote after "follow me." The inner opening quote is a single straight quote (cardcheck flags nested quotes; known false positive).
 - **Jonathon's real pushback.** "Let her have Wednesday" for a separated man ("That's not laying something down. That's lying down."). Wes concedes the line and they land on "Give in on the small things. Get help on the big ones."
