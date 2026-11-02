@@ -66,7 +66,7 @@ WES: You go first. You've got shoes to report.
 [CAM: JON MS]
 JONATHON: I've got shoes to report, and it's not a good report. Monday morning, Theo did not want to do his shoes. He wanted me to do his shoes. He sat on the floor and said, "You do it," and I said, "You can do it, bud," and he said, "I don't WANT to," and then he cried. Not sad crying. Furious crying. The kind where his whole face goes red and he throws a shoe at the dog.
 WES: You don't have a dog.
-JONATHON: We don't have a dog yet. The neighbor's dog. It was visiting. He missed. The dog thought it was a game. And I sat down on the floor like I said I would. And he cried for six minutes. I timed it, because I'm me. And at minute six, I had a nine o'clock call, and I took over. I put his shoes on. Forty seconds. In the car.
+JONATHON: We don't have a dog yet. The neighbor's dog. It was visiting. He missed. The dog thought it was a game. And I got down on the floor with him like I said I would. And he cried for six minutes. I timed it, because I'm me. And at minute six, I had a nine o'clock call, and I took over. I put his shoes on. Forty seconds. In the car.
 [CAM: JON CU]
 JONATHON: And I'm telling you because I said Tuesday I'd quit, and I didn't quit. I took over on Monday. Tuesday and Wednesday he did them himself, no fight, and Thursday he did one and asked me to do the other, and I said no, and he did it. So it's not a straight line. It's Theo. And I said "bud." Twice. In the middle of it.
 WES: What'd you do with the call? I'm asking because I know you made it, and I want to know what it felt like after.

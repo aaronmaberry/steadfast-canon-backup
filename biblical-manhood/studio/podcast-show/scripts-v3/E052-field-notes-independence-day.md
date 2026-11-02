@@ -164,7 +164,7 @@ JONATHON: I know what it cost. You called me twice about it and didn't call her 
 [CAM: WES CU]
 WES: What didn't stick. The youngest. I'm calling him by name, mostly. But I still walk into the room and start the sentence in the middle half the time. I caught myself Monday. "Did you move the truck?" No name. All these weeks of saying it into a microphone, and I still treat him like he walked in on the conversation.
 JONATHON: Is that a whole-season thing or a this-summer thing? I'm asking because I do the same thing to Dani and she calls it "joining me in progress."
-WES: Whole life. My dad did it to me. I didn't notice till I was forty.
+WES: Whole life. My dad did it to me. It took me till forty to see it.
 [CAM: JON MS]
 JONATHON: What stuck for me. "Bud." Mostly gone. Theo still catches it in the car. And my dad wrote "You too, bud" and I didn't answer it and that's still where it is. I'm counting that as stuck, because I sent the first one.
 [CAM: JON CU]
@@ -288,6 +288,6 @@ Scripture quotations taken from The Holy Bible, New International Version®, NIV
 - **Round 7, older men.** Dani's dad's lines are plain, with no wisdom line, and he can't find the calendar on his phone.
 - **Deadpan payoff.** The porch light, in the cold open and called back once in the tool (same payoff).
 - **Season look-back, no host-to-host affirmation.** "I was very proud of the not-calling-her part" is Jonathon ribbing Wes about restraint, played light. Each man's season lesson is about himself.
-- **Knee or age beat.** None ("I didn't notice till I was forty" is a fact).
+- **Knee or age beat.** None ("It took me till forty to see it" is a fact).
 - **Two-chairs.** None.
 - **Setups for E053 (Season 6 premiere: Before Anything Went Wrong; Gen 2:15; Pick Up the Weight; training plug session 18; the monthly Mr. Abernathy segment).** Work before the fall. Ruby's card stays undecided. The October day is quiet until about E065.

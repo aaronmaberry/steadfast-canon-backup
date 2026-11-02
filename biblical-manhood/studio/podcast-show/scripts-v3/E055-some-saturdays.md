@@ -71,7 +71,7 @@ WES: Most of us marry the one we think is the steady one. And then twenty years 
 JONATHON: Have you ever asked her? Whether she feels it? I'm asking because I never asked Dani until she told me.
 WES: No. That's on my list now, right under the man in the truck's kids.
 [CAM: JON CU]
-JONATHON: And here's the part I don't love. I know what she means by fire. I know the feeling. I had it Thursday at the planning meeting when my VP said "Great idea, Jonathon" in front of the whole company. I felt it in my chest. Warm. Big. For about an hour. And the feeling I get when a VP praises me in front of eighty people and the feeling I got in a church parking lot at twenty-nine are wired to the same place in me. I can't always tell them apart. So when my daughter asks if I'm on fire, I don't trust my own answer.
+JONATHON: And this is where it gets uncomfortable for me. I know what she means by fire. I know the feeling. I had it Thursday at the planning meeting when my VP said "Great idea, Jonathon" in front of the whole company. I felt it in my chest. Warm. Big. For about an hour. And the feeling I get when a VP praises me in front of eighty people and the feeling I got in a church parking lot at twenty-nine are wired to the same place in me. I can't always tell them apart. So when my daughter asks if I'm on fire, I don't trust my own answer.
 [CAM: WES MS]
 WES: I had VBS too. Little church by the highway, my mother drove us in the station wagon. Kool-Aid in paper cups and a sword drill every afternoon. You know a sword drill? They call out a verse and the first kid to find it in his Bible wins.
 JONATHON: I know it by reputation. We were Easter-and-Christmas people. Nobody in my family was fast in a Bible.
@@ -141,7 +141,7 @@ JONATHON: Where were your kids in all that? Thirty-six to forty-six. That's most
 [CAM: WES CU]
 WES: That's the part I don't say easy. One of the classes I taught at church, for about a year, was on fathers. Sunday mornings. I had handouts. And my oldest was home most of those years with a headset on, in his room, and I walked past his door and told him to turn it off. I taught other men how to be fathers on Sunday and couldn't sit down on my own son's bed on Friday.
 JONATHON: Did he know about the class? I'm asking because Ruby knows everything I do at church. Kids find out.
-WES: He knew. He never said a word about it. I don't think he had to.
+WES: He knew. He never once brought it up. I don't think he had to.
 [CAM: WES MS]
 WES: So when I hear "on fire for Jesus," I get a little nervous. Not because the feeling's bad. Because I've seen what I'll do to keep it. I'll burn down my own house to feel warm.
 [CAM: JON CU]
@@ -171,7 +171,7 @@ WES: "And he died for all, that those who live should no longer live for themsel
 JONATHON: Read me where the fire is in that. Because I heard "died" and "raised" and I didn't hear anything about how anybody felt.
 [CAM: 2S]
 WES: That's the point. Look at what's not in that verse. There's no feeling in it. Not one. It's all facts. He died. He was raised. You live. And because of those facts, you don't live for yourself anymore. The fire's not in your chest. The fire's what He did. It's a fact about a cross and an empty tomb, and it's just as true on a flat Tuesday as it was at the conference in Dallas.
-JONATHON: "No longer live for themselves." That's the part that gets me. Because the feeling was for me. When I was on fire, I liked how I felt. It was about me feeling close. And this says the whole point is it stops being about me.
+JONATHON: "No longer live for themselves." That's the line that won't leave me alone. Because the feeling was for me. When I was on fire, I liked how I felt. It was about me feeling close. And this says the whole point is it stops being about me.
 [CAM: WES CU]
 WES: And here's the turn I want men to hear. If your calling depends on how you feel about it, it's about you. It's about your chest. "No longer live for themselves" means the thing God has for you doesn't need your feelings' permission. It's for Him. You can do it bored. You can do it tired. You can do it in a truck talking about the bullpen.
 JONATHON: Did Paul feel it, though? I always pictured him as the most on-fire man who ever lived. Like a man who never had a flat day.
@@ -199,7 +199,7 @@ WES: My wallet's usually ahead of me. It's got the receipts.
 
 [PLUG: TRAINING]
 [CAM: JON MS]
-JONATHON: Session twenty of the Steadfast video training is this whole conversation. Calling, purpose, what you're for on the days you don't feel it. On video, for a table of men or one man by himself. It's at walksteadfast.com.
+JONATHON: Session twenty of the Steadfast video training is this whole conversation. Calling, purpose, what you're for on the days you don't feel it. You can watch it with a group or alone at your own kitchen table. It's at walksteadfast.com.
 
 [CHAPTER: Virgil]
 [CAM: JON MS]
@@ -256,7 +256,7 @@ WES: My brother doesn't talk on the phone. You'd know that by now. Three, the ba
 JONATHON: Mine's smaller. Bath night. Two kids, a lot of water on the floor, and I'm there, because I learned in the flat year that bath is where the faith showed up. Bedtime prayers with Ruby and Theo. Theo still prays for somebody named Steve, and none of us know who Steve is, and I've stopped asking because it's clearly between Theo and God.
 WES: Steve's well covered. Steve might be the most prayed-for man in San Antonio.
 [CAM: JON CU]
-JONATHON: Steve's had a strong summer, as far as we can tell. And the breakfast. I go Thursdays whether I want to or not, because a man texted me every Wednesday for a year. And the crew now. That's my list. And honestly, the only one I feel anything at is the bath, and only because somebody's laughing.
+JONATHON: Steve's had a strong summer, from where I sit. And the breakfast. I go Thursdays whether I want to or not, because a man texted me every Wednesday for a year. And the crew now. That's my list. And honestly, the only one I feel anything at is the bath, and only because somebody's laughing.
 WES: That's a good list. It's got people in it. A flat Tuesday with people in it is a lot better than a flat Tuesday by yourself in front of a screen.
 [TEXT: The shoes are already shined.]
 
@@ -299,7 +299,7 @@ JONATHON: No, it's not fake. I've been to those. I've cried at those. That's rea
 JONATHON: Thirty-five. "I quit a good job last year to follow my passion. It's not working. I feel like a failure and a fraud."
 WES: Go ahead. You've had more jobs than me. I've had about one.
 [CAM: JON MS]
-JONATHON: I'm not going to tell you to quit your passion. Here's the question I'd ask. Was it for God or was it for the feeling? Because I'd have done the same thing at your age, for the feeling. And if it was for the feeling, it's okay to go back and get a regular job and do it for Him. That's not failure. That might be the most Christian thing you ever do. Work you don't feel, done for somebody else.
+JONATHON: Nobody here is asking you to quit your passion. Here's the question I'd ask. Was it for God or was it for the feeling? Because I'd have done the same thing at your age, for the feeling. And if it was for the feeling, it's okay to go back and get a regular job and do it for Him. That's not failure. That might be the most Christian thing you ever do. Work you don't feel, done for somebody else.
 WES: And it doesn't mean the passion was wrong. It might come back around later as a Saturday thing instead of a paycheck. Virgil didn't need a salary to love fixing porches.
 [CAM: JON CU]
 JONATHON: That's fair. Half the guys on my team parked something at twenty-five that would make a great Saturday. I should ask them what it was.

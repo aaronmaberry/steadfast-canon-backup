@@ -92,7 +92,7 @@ WES: I was the photo guy. And I'd go home and look at the picture before I looke
 WES: That's the mark. Work for God's pay. It's the work nobody claps for. You don't get a picture. You get a lady laughing at an empty mailbox, and God saw it, and that's the paycheck. And I want to be careful, because the pay's real. Paul calls it an inheritance. It isn't nothing. It's just not handed out in the church parking lot.
 JONATHON: Ruby told her mom about it at supper for twenty minutes. She described every board. That's the only post. And Theo, at bedtime, in the prayers, after "And help Steve," he said, "And help the lady get her mail." Dani looked at me over his head. We didn't say anything. He'd been carrying that all day, and none of us knew it.
 WES: Who's Steve?
-JONATHON: Nobody knows. Theo's been praying for Steve since Easter. We've asked. He won't say. Steve's doing great, as far as I can tell.
+JONATHON: Nobody knows. Theo's been praying for Steve since Easter. We've asked. He won't say. Steve's doing great, from what we can see.
 [CAM: JON CU]
 JONATHON: And I keep thinking about that man on his knee in the parking lot. He's done that ramp, or one like it, probably a hundred times. Nobody's ever posted him. And a four-year-old's praying about a mailbox because of him. I didn't even get his name.
 [CAM: WES MS]
@@ -266,7 +266,7 @@ WES: And I'm not going to push him on the late one. He said let me get through t
 [CAM: 2S]
 JONATHON: Pushback. And some of these came in sharp.
 [CAM: JON MS]
-JONATHON: I'll take the divorced dad. "His mom and I can barely be in the same room. A ceremony? With men from my side? That's a war."
+JONATHON: Give me the divorced dad. "His mom and I can barely be in the same room. A ceremony? With men from my side? That's a war."
 WES: Go.
 JONATHON: Then don't make it a ceremony. Make it a breakfast on your Saturday with two men he already likes, and say one thing you mean. It doesn't need a barn. It needs your voice saying, "You're becoming a man, and here's what I see." And keep his mother's name out of your mouth that morning unless it's kind. If the only thing he remembers is that you didn't take a shot at her, that's a day too.
 WES: Why does that part matter so much? Leaving her out of it.
@@ -325,7 +325,7 @@ WES: My go-first. I put it on the calendar. A Saturday in October, after the fir
 [SHORT 1 OUT]
 JONATHON: And why after you feed? Why not before, when everybody's fresh?
 [CAM: WES CU]
-WES: Because you don't stand around in a barn before the work's done. My dad would come back from the grave and hand us a pitchfork. And the boy needs to have fed with us first. He needs to be one of the men doing the work before anybody stands up and calls him one. The boy feeds with us first. Then we talk. And I've started writing what I'll say. I've got the first line. I'm not going to say it here, because it's his. And it's going to my wife first.
+WES: Because you don't stand around in a barn before the work's done. My dad would come back from the grave and hand us a pitchfork. And the boy needs to have fed with us first. He needs to have done a man's share of the work before anybody stands up and calls him one. Then we talk. And I've started writing what I'll say. I've got the first line. I'm not going to say it here, because it's his. And it's going to my wife first.
 [CAM: JON MS]
 JONATHON: Mine's a long way off. Theo's four. But I did the thing I'd never do. I made a calendar entry eight years out. The August he turns thirteen. It just says "Theo's morning." And then I sat down to write the names of the men I'd want there. And I wrote Wes. And then I sat there. For a long time.
 WES: Who else?
@@ -345,7 +345,7 @@ JONATHON: And write one sentence you'd say to him. Just one. Something true abou
 [CAM: WES MS]
 WES: Married guys, on a calm night, tell your wife what you're thinking about. Say yours first. Let her hear the sentence before he does if she wants to. Don't argue about the details that night. Sit with it a day.
 [CAM: JON CU]
-JONATHON: Single guys, there's probably a boy in reach whose dad isn't going to do this. Ask his mom first. Offer to be one of the men, in the light, with her blessing.
+JONATHON: Single guys, there's probably a boy in reach whose dad isn't going to do this. Ask his mom first. Offer to stand with them, in the light, with her blessing.
 WES: Divorced dads, it can be a breakfast on your Saturday. Keep it small and kind. Small and kind is a day.
 [CAM: JON MS]
 JONATHON: And if the day your son's living through right now is the bad kind, a home that isn't safe, get him safe and get help. The National Domestic Violence Hotline is 1-800-799-7233.

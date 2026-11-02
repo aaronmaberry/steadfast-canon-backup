@@ -119,7 +119,7 @@ WES: Here's a thing I've never put together till Saturday. Sunday afternoons, af
 JONATHON: What was he doing? Did you ever ask him, or did you just stand next to him?
 [CAM: WES MS]
 WES: I thought he was checking it. Seeing if it was loose. And I stood next to him and waited for him to be done so we could go. Forty years later I don't think a man checks the same post every Sunday for thirty years because he thinks it's loose. I think maybe that was him liking it. And I was standing right there and didn't know what I was looking at.
-JONATHON: That's the part that gets me. You were there for it, every Sunday, and it still didn't count as him telling you.
+JONATHON: That's what stops me. You were there for it, every Sunday, and it still didn't count as him telling you.
 WES: He never said. My brother's right. But a hand on a post is something. I don't know what. I'm not going to make it into more than it was.
 [CAM: WES CU]
 WES: And here's the part I'm embarrassed about. There's a part of my job I like. I've never said that out loud, not even at home. Mid-morning, most days, a problem lands on my desk that nobody else wants. And I get to sit with it till it's fixed. I like that. I've liked it for twenty years. And I've never told anybody, because somewhere I decided a Christian man isn't supposed to like his job. He's supposed to endure it for his family.
@@ -188,7 +188,7 @@ WES: And look at the first part. "Took the man and put him." God placed him. He 
 [CAM: JON CU]
 JONATHON: I'm going to push on "placed," because I've heard that word used on people, and it wasn't kind.
 WES: Push. I'd rather hear it from you than from a listener in the comments.
-JONATHON: When my dad left, my mom was working two jobs and crying over the light bill. And a lady at my mom's church told her, "God's got you right where He wants you." I was nine and I was standing right there. And my mom nodded and said thank you. And I've hated that sentence for thirty years. If "placed" means "stay put, don't complain, this is God's plan for you," I don't buy it. Some people are placed. Some people are stuck, and somebody ought to help them get out.
+JONATHON: When my dad left, my mom was holding down two jobs and crying over the light bill. And a lady at my mom's church told her, "God's got you right where He wants you." I was nine and I was standing right there. And my mom nodded and said thank you. And I've hated that sentence for thirty years. If "placed" means "stay put, don't complain, this is God's plan for you," I don't buy it. Some people are placed. Some people are stuck, and somebody ought to help them get out.
 [CAM: WES MS]
 WES: (long beat) That's fair. I said that too tidy. My brother might be placed. Your mom wasn't placed at a kitchen table at ten at night by God so she'd learn something. That was the thorns. That's chapter three, not chapter two.
 JONATHON: So how do you tell them apart? Because from inside, I promise you, stuck and placed feel about the same.
@@ -237,7 +237,7 @@ WES: "What did you keep this week?"
 JONATHON: Not "do." He changed one word on you and you've been carrying it ever since.
 WES: Not "do." I said, "What do you mean, keep?" And he said, "You told me everything you did. I asked what you kept."
 [CAM: WES MS]
-WES: I didn't have an answer. And over the next year I figured out what he meant. A lineman doesn't make anything. He keeps the lights on. When he did his job right, nothing happened. Somebody's grandmother's oxygen machine kept running in an ice storm and she never knew his name. That was the work. And he wanted to know if I was keeping anything. My people at work. My word. My temper. The man in the next office who was going under. Or if I was only producing.
+WES: I didn't have an answer. And over the next year I figured out what he meant. A lineman doesn't make anything. He keeps the lights on. When he did his job right, nothing happened. Somebody's grandmother's oxygen machine kept running in an ice storm and she never knew his name. That was the work. And he was asking whether I was keeping anything. My people at work. My word. My temper. The man in the next office who was going under. Or if I was only producing.
 JONATHON: How long until you had an answer for him? A real one, not one you made up in the truck on the way to breakfast.
 [CAM: WES CU]
 WES: About a month. And it was small. A new man at work had sent out a wrong order. Not a disaster. But it was the kind of thing that goes up the chain with his name on it. I caught it first. And instead of sending the email, I went and found him in the parking lot and we fixed it together on the hood of his car. Nobody upstairs ever heard about it.
@@ -271,7 +271,7 @@ JONATHON: Twenty-three. "I stock shelves overnight. That's not a garden. Don't m
 WES: The first job was dirt. It wasn't glamorous. Pull weeds, carry water, keep the animals out. Stocking shelves is working it and keeping it. You're the reason there's bread on a shelf at six in the morning when a nurse gets off her shift. And you've got a crew. Who on that crew's going under? That's your keeping. Nobody's going to make it sound holy for you. It already is, if you do it for Him.
 JONATHON: And for the record, I worked overnights for a summer in college, unloading trucks. Nobody on that crew was holy and everybody looked out for each other. I didn't have a word for it then.
 [CAM: JON CU]
-JONATHON: I'll take the divorced dad. "I lost the house. I've got an apartment and my son every other Friday. What am I supposed to be keeping?"
+JONATHON: The divorced dad is mine. "I lost the house. I've got an apartment and my son every other Friday. What am I supposed to be keeping?"
 WES: You take that one. You've thought about it more than I have.
 JONATHON: The apartment. I'm serious. The garden was a place. You've got a place. Is there a bed for your son in it, made, with his stuff on the shelf, when he's not there? Is there food he likes in the fridge on Friday? Is it a place he wants to walk into, or a place where his dad's sad? That's keeping. A man in an apartment with a made bed for his kid is doing Genesis two fifteen. Don't wait for a house to start.
 [CAM: WES MS]

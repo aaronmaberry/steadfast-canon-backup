@@ -86,14 +86,14 @@ JONATHON: And the vacation column. First four days. Two of my reps put in for ti
 WES: Did you forward it to anybody? That's the real test. Reading it twice is human. Forwarding it is a problem.
 JONATHON: I forwarded it to Dani. She replied with one emoji. I'm not going to say which one on a family show.
 [CAM: WES MS]
-WES: I've got one more from my side, since the question was what you kept. Thursday mid-morning one of those problems landed, the kind I like, and the man stuck on the other end of it was the new hire from the spring. I could've fixed it and sent it back. I walked over and fixed it with him instead, at his desk, so he'd know how next time. It took twice as long. He kept looking at the clock like I was going to bill him for it.
+WES: I've got one more from my side, since the question was what you kept. Thursday mid-morning one of those problems landed, the kind I like, and the man stuck waiting on it was the new hire from the spring. I could've fixed it and sent it back. I walked over and fixed it with him instead, at his desk, so he'd know how next time. It took twice as long. He kept looking at the clock like I was going to bill him for it.
 JONATHON: That's the parking lot again. The hood of the car from the Mr. Abernathy story, only indoors with a swivel chair.
 WES: Same thing. I didn't plan it. The question was in my head from Tuesday and it came out through my hands.
 [TEXT: "You don't have to do this." "I know. It's air-conditioned."]
 
 [CHAPTER: From the table]
 [CAM: JON MS]
-JONATHON: From the table. This one's from one of my reps, at lunch on Wednesday, and he said I could bring it here. He's thirty-one. You've heard about him. He's the one who did the real work on the school deal back in twenty nineteen, and I took the credit. He says I still owe him Cancun.
+JONATHON: From the table. This one's from one of my reps, at lunch on Wednesday, and he gave me the okay to read it on air. He's thirty-one. You've heard about him. He's the one who did the real work on the school deal back in twenty nineteen, and I took the credit. He says I still owe him Cancun.
 WES: You do. I've said that before and I'll keep saying it.
 JONATHON: I do. And at lunch, he said, "I don't want my vacation days. Is that bad? I like my job. Like, a lot. My small group makes it sound like that's a problem. Is it wrong to like my job a lot?"
 [CAM: WES MS]

@@ -78,7 +78,7 @@ JONATHON: And she said? Take your time. I can tell from your face it isn't the p
 [CAM: WES CU]
 WES: "The guest room ceiling."
 JONATHON: (laughs)
-WES: There's a water stain on the guest room ceiling. It's been there two years. It's shaped a little like Oklahoma. And I've been going to get up in the attic and find the leak since about the second month of it. I said, "That's not exactly a calling." And she said, "You asked me what you've been waiting to feel like doing." And she went back to her book.
+WES: There's a water stain on the guest room ceiling. It's been there two years. It's shaped a little like Oklahoma. And I've been going to get up in the attic and find the leak since about the second month of it. I said, "That's not exactly a calling." And she said, "You asked me what you've been waiting to feel like doing." And she turned the page.
 [CAM: WES MS]
 WES: So I didn't argue. I sat with it a day. And Saturday morning I'm going up in that attic in July, with these knees, to find out what Oklahoma's been trying to tell me.
 JONATHON: Do you want help? I can come hold a flashlight. I'm useless in an attic but I'm good at holding things and making comments.
@@ -106,7 +106,7 @@ WES: And Dani? You were supposed to guess first, and I want to know what you gue
 [CAM: JON CU]
 JONATHON: I asked Dani the question. Guess first. I said, "Calling my dad back." Because there's a text from him from Father's Day I never answered. And Dani said, "That's mine too." So we agreed. Which is worse. Because there's nobody to argue with.
 WES: Did you call him?
-JONATHON: (beat) No. Not yet. I'm saying it out loud so it's on the record. Same as your five.
+JONATHON: (beat) No. Not yet. I'm putting it on the record. Same as your five.
 [CAM: JON MS]
 JONATHON: And the Wednesday text. I sent it. One guy, a younger guy from the breakfast who's missed about a month. "You coming Thursday?" Exactly the text I used to get. He wrote back "maybe." He didn't come.
 WES: So what now? That's the part nobody tells you about the text. Most of them are a maybe.
@@ -115,7 +115,7 @@ JONATHON: Now I send it again Wednesday. The man who texted me got "maybe" from 
 
 [CHAPTER: From the table]
 [CAM: WES MS]
-WES: From the table. This one's from my Thursday table, and he said I could bring it here. He's been coming about two months. Forty-one. He sells crop insurance to farmers and ranchers out west of us. Good man. Quiet. He said, "Everybody at church talks about their calling. My pastor. My small group leader. My brother-in-law's a missionary. I sell crop insurance. I don't feel called to anything. What if I'm not?"
+WES: From the table. This one's from my Thursday table, and he told me to go ahead and use it. He's been coming about two months. Forty-one. He sells crop insurance to farmers and ranchers out west of us. Good man. Quiet. He said, "Everybody at church talks about their calling. My pastor. My small group leader. My brother-in-law's a missionary. I sell crop insurance. I don't feel called to anything. What if I'm not?"
 [CAM: JON MS]
 JONATHON: Can I go first? Because I was this guy, and I want him to hear it from somebody who was him.
 WES: Go ahead.
@@ -141,7 +141,7 @@ JONATHON: So what does he actually do all day? Because "crop insurance" sounds l
 WES: I asked him. And here's what he told me, and he told it like it was nothing. When a hailstorm comes through, he drives out the same day. Before the adjuster. Before the paperwork. He sits at their kitchen table. A man who just watched a year of cotton get beat into the dirt in about ten minutes. And he sits there with him and his wife, and he lets them talk, and he tells them what happens next. He's done that since he was twenty-two.
 JONATHON: And he doesn't count that? Nineteen years of kitchen tables, and it doesn't count?
 [CAM: WES CU]
-WES: He doesn't. He said, "That's just my job." And I said, "Who else shows up at that table the same day?" And he didn't have an answer. Nobody else does. His pastor doesn't. His brother-in-law's on the other side of the world. He's the one at the table. He even keeps a cheap folding chair in his trunk, for the porches that don't have one.
+WES: He doesn't. He said, "That's just my job." And I said, "Who else shows up at that table the same day?" And he didn't have an answer. Nobody else does. His pastor doesn't. His brother-in-law lives in Singapore. He's the one at the table. He even keeps a cheap folding chair in his trunk, for the porches that don't have one.
 JONATHON: A folding chair in his trunk. That's the most called thing I've heard on this show, and he thinks it's a storage problem.
 [CAM: WES MS]
 WES: And I've been on the other side of that table. I was about fourteen. Hail came across our hay meadow one June afternoon, maybe ten minutes, and it was done. A man from the co-op drove out before supper. I don't remember one word he said. I remember my dad poured him a cup of coffee, and the two of them sat at the kitchen table, and my dad didn't look so alone. That's what that man was for that day.
@@ -150,7 +150,7 @@ WES: Nobody remembers the words. They remember who sat down. Trust in the LORD a
 [CAM: JON CU]
 JONATHON: And the other half, for him. The feeling. He's going to sit in church Sunday and hear somebody else's story about how they knew, and he's going to feel left out again. And I'd tell him, the men with the big feeling aren't ahead of you. Some of them are going to be flat in a year, the way I was. You're the one who's already learned to show up without it.
 [CAM: WES MS]
-WES: And to his small group, kindly. If a man tells you he doesn't feel called, don't hand him a test to find his gift. Ask him what he did Tuesday. Then ask him who was glad he did it. That's usually where the calling's been sitting the whole time.
+WES: And a word for the men in his group. If a man tells you he doesn't feel called, don't hand him a test to find his gift. Ask him what he did Tuesday. Then ask him who was glad he did it. That's usually where the calling's been sitting the whole time.
 JONATHON: I'm taking that second question to my Monday meeting. "Who was glad you did it?" I've never once asked a rep that. I ask them what they closed.
 WES: Ask it and then be quiet. They'll have to think. Most men have never been asked who was glad, and it takes a minute to find the answer.
 JONATHON: Silence on a Monday call. My reps are going to think the line dropped. I'll give it ten seconds and see who talks first.
@@ -170,7 +170,7 @@ JONATHON: I bought the book. It's on the shelf next to the conference binder. Th
 WES: Here's the rule I'd add. If it doesn't fit on one line, it isn't a next thing. It's a someday thing. "Be a better husband" doesn't fit. "Fix the guest room ceiling" fits. And keep the papers. Stick them in a drawer. By December you'll have a stack of them, and you'll be able to see what your calling looked like, one line at a time.
 JONATHON: You're going to get a lot of mileage out of that ceiling. It's going to be in every illustration until Christmas.
 [CAM: WES CU]
-WES: Here's mine for the next few days. Home, the ceiling. Work, keep knocking on the truck. Don't push. Somebody who can't pay me back, Tuesday's PT with my mother, side by side, and I'm going to do every rep she counts without one complaint in the truck on the way home. She's earned that.
+WES: Here's mine for the next few days. Home, the ceiling. Work, keep knocking on the truck. Don't push. Somebody who can't pay me back, Tuesday's PT with my mother, side by side, and I'm going to do every rep she counts without one complaint on the drive back. She's earned that.
 JONATHON: Does she count out loud? Because I'm picturing your mother counting your reps out loud in a physical therapy room.
 WES: She counts out loud. She counts mine louder than hers. The therapist has stopped trying.
 [CAM: JON CU]
@@ -178,7 +178,7 @@ JONATHON: Mine. Home, Tuesday's bath night, all of it, phone in the console. Wor
 (Wes nods and says nothing.)
 [CAM: JON MS]
 JONATHON: And single guys, this is the tool for the "nobody's handing me anything" problem. Nobody has to hand you anything. You write it. Three lines. Somebody who can't pay you back is the one that changes you.
-WES: Divorced dads, one line is always for your kids, even on the nights they're not with you. A text. A card in the mail. A ballgame you watch so you can talk about it.
+WES: Divorced dads, one line is always for your kids, even on the nights you don't have them. A text. A card in the mail. A ballgame you watch so you can talk about it.
 JONATHON: And older men, the ones listening who've been at this a long time. Put a younger man on your list.
 WES: Not to fix him. To call him. That's the whole line.
 [TEXT: Home. Work. Somebody who can't pay you back.]
