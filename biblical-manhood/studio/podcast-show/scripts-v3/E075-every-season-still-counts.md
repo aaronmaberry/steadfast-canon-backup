@@ -55,7 +55,7 @@ WES: Episode seventy-five. Every Season Still Counts.
 [CAM: WIDE]
 WES: Pull up a chair. Today is about the season you're in. Not the one you're waiting for, not the one you miss. This one. Because I think a lot of men are living in a waiting room. The young man's waiting for his life to start. The man in the middle is waiting for the kids to get older, or the mortgage to get smaller. And the older man's waiting for it to be over. And they're all in the same room, flipping through the same old magazine.
 [CAM: JON MS]
-JONATHON: I want to point out that you just led with your age. You never lead with your age. In two years of sitting across from you I've had to work out how old you are from what music you hate.
+JONATHON: I want to point out that you just led with your age. You never lead with your age. In seven years of Thursday breakfasts I've had to work out how old you are from what music you hate.
 [CAM: WES MS]
 WES: I'm owning it. Fifty-two. If the episode's about seasons, a man ought to say which one he's in.
 [CAM: JON CU]

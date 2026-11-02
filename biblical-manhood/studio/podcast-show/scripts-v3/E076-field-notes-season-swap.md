@@ -83,7 +83,7 @@ JONATHON: Wait, you can't skip the twice. What's the twice?
 [CAM: WES MS]
 WES: One of them. A man above me wanted a shortcut on something that would've landed on people down the line. Not illegal. Just wrong. And I said, "I can't sign that. Here's what I can sign." And I brought him the second thing that same afternoon, on paper. He didn't love it. He signed it. That's what I told the young man. Don't hand a man a no and walk off. Bring him the yes you can live with, the same day. A no with nothing behind it is a door shutting. A no with a yes behind it is a man trying to help you.
 [CAM: JON MS]
-JONATHON: That's good. That's a sales thing too, honestly. Never leave the room with just a no. I'm going to steal that for my Monday call.
+JONATHON: That's good. Never leave the room with only a no. I'm going to steal that for the next time I have to tell a rep no.
 [CAM: JON MS]
 JONATHON: And the legal pad. Did the line go on the form?
 [CAM: WES MS]
@@ -191,9 +191,9 @@ WES: (beat) I didn't know you typed it eleven times.
 [CAM: JON CU]
 JONATHON: Eleven. One version had an emoji in it. I deleted it, thank God.
 [CAM: WES CU]
-WES: Then I'll fix what I said. Whoever sees it first goes first. If you're the old man and you see him, go. If you're the young man and you see him, go. Don't wait to find out whose job it is. But I'll keep a piece of mine. When I was thirty-six, I didn't go find Mr. Abernathy. He found me. He sat down across from me at a men's breakfast and asked me a question I couldn't answer, and then he kept coming back for six years. If he'd waited for me, I'd still be waiting. Some young men won't ever send the text.
+WES: Then I'll fix what I said. Whoever sees it first goes first. If you're the old man and you see him, go. If you're the young man and you see him, go. Don't wait to find out whose job it is. And I'll tell you, Mr. Abernathy did both. When I was thirty-six he sat down across from me at a men's breakfast and asked me a question I couldn't answer. He went first. And then he wrote his number on a gas receipt and left the next part to me. I carried that receipt nineteen days before I texted him. He'd decided I had to want it enough to ask.
 [CAM: JON MS]
-JONATHON: That's fair. Some won't. I almost didn't. Whoever sees it first. I'll take that.
+JONATHON: So he went first and then he made you go second. That's the whole thing. Whoever sees it first. I'll take that.
 [TEXT: Whoever sees it first goes first.]
 
 [CHAPTER: Carry this]
@@ -235,8 +235,8 @@ Chapters
 00:34 Check the box
 08:47 From the table
 15:48 Tool on the table
-20:42 Carry this
-20:50 Outro
+20:48 Carry this
+20:55 Outro
 
 Scripture: 1 Kings 12:8 (NIV)
 
@@ -293,7 +293,7 @@ Scripture quotations taken from The Holy Bible, New International Version®, NIV
 
 - **v3 rewrite.** Length per the v3 brief (20-25 min), overriding SHOW-BIBLE 4b's 12-16. Logged in scripts-v3/CHANGELOG-V3.md. Open, slate, cold open, From the Table text and outro unchanged from v1. "This week" out of every spoken line ("My wife's at her sister's right now"). Wardrobe corrected to production/WARDROBE.md.
 - **From the Table, labeled honestly.** Wes's oldest son's own text, read with his permission. Not listener mail. Nothing about his job decision (E077 holds it).
-- **Disagreement.** Jonathon on "older men go first" (the eleven-draft breakfast text, canon "scariest text I ever sent a man"). Wes changes the rule ("Whoever sees it first goes first") and keeps a piece (Mr. Abernathy found him; "Some young men won't ever send the text").
+- **Disagreement.** Jonathon on "older men go first" (the eleven-draft breakfast text, canon "scariest text I ever sent a man"). Wes changes the rule ("Whoever sees it first goes first") and squares it with Mr. Abernathy, who went first and then left the asking to Wes (the gas receipt, nineteen days, canon E039; his saying is paraphrased, not quoted).
 - **The Rehoboam read.** The elders' advice described in the hosts' words (be a servant to the people), not quoted beyond 12:8. Jonathon's first-month write-up of a nineteen-year man is new and small.
 - **Round 11, seat roll call.** One seat named in the tool (older men). E074 was the batch's no-seat Field Notes.
 - **Round 11, back-to-back situations.** E075's callers were single, divorced, empty nest, widower and high performer; this question (a young man and an old one) repeats none of them.
