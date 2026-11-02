@@ -490,7 +490,7 @@ Scripture quotations taken from The Holy Bible, New International Version®, NIV
 
 ## Production notes
 
-- **v3 length.** Main target 45-60 min (brief). This one runs about 54 min (8,091 spoken words) by `_build/timing.py`. The extra length is Jonathon's (the lattice, "bud," the disposal, Lorraine, the autism caller) and the Acts 17 context for the verse, plus more back-and-forth inside Wes's stories.
+- **v3 length.** Main target 45-60 min (brief). This one runs about 54 min (8,100 spoken words) by `_build/timing.py`. The extra length is Jonathon's (the lattice, "bud," the disposal, Lorraine, the autism caller) and the Acts 17 context for the verse, plus more back-and-forth inside Wes's stories.
 - **Round 8, Wes's wife disagrees about the kids (done here, once).** The chainsaw argument. Both sides get their best line, and the compromise doesn't settle who was right. Wes now says on mic that neither outcome is coming. No later episode should prove her right (an injury) or wrong (a told-you-so).
 - **Round 8, two-chairs moment (1 of 2 allowed in the batch).** "Don't rescue him" against "a boy with no rescuer learns he's alone." Wes pushes back once ("a boy who gets rescued every time never learns he can get the loppers out") before Lorraine moves him. He changes his mind on mic. Jonathon owns that he turned Lorraine's hill into a scoreboard, so she isn't a saint.
 - **Jonathon's stories (brief: two of his own).** Theo's shoes, the garbage disposal at ten, Lorraine. The disposal and Lorraine are new canon (see the header row). Lorraine is a new name, checked against the lint list and the host files.

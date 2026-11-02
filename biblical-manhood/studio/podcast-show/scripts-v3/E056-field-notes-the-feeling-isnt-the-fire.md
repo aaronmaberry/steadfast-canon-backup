@@ -290,7 +290,7 @@ Scripture quotations taken from The Holy Bible, New International Version®, NIV
 - **E055 v3 follow-ups.** Wes's Sunday question for his wife ("whether she feels it on Sundays") is still unasked; keep it open, and don't answer it before the prayer crack (about E083). Jonathon's Wednesday text got "maybe"; the man is unnamed and stays light.
 - **The hay meadow and the co-op man.** New canon, Wes at about fourteen, a June afternoon, no figures. His dad poured the coffee and said nothing quotable. It doesn't resolve "Did Dad like it?"
 - **The folding chair.** New, small, the crop-insurance man's. Wes learned it at the table.
-- **Wives aren't oracles.** Wes's wife's "The guest room ceiling" is practical, not a deep read, and she goes back to her book. Dani's "That's mine too" is agreement, not advice.
+- **Wives aren't oracles.** Wes's wife's "The guest room ceiling" is practical, not a deep read, and she turns the page. Dani's "That's mine too" is agreement, not advice.
 - **The truck.** "Dentist" is information, not a reason. The kids question isn't answered back, on purpose ("I want him to have asked one for free"). Not a rescue. Keep his story unknown at least through E058.
 - **Round 8, kid-catches-dad.** None. Ruby's "Can I go?" and "I want to hand him the screws" are a request, not a read on her father.
 - **Round 8, one-word replies.** "Dentist" (the truck man, unasked) and "Five." in the cold open (a setup). No other one-word reply in a hard moment.
