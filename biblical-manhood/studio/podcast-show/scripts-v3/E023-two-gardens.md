@@ -205,6 +205,7 @@ WES: If any of this is close to home, subscribe, so you're here Friday. It's Goo
 WES: Here's the verse that ties the two gardens together. Paul, writing to the church in Corinth, in the middle of a whole chapter about the resurrection. (puts on the reading glasses)
 [CARD: 1 Corinthians 15:45]
 WES: "So it is written: 'The first man Adam became a living being'; the last Adam, a life-giving spirit."
+JONATHON: Living being, life-giving spirit. Those sound alike until you say them slow. Walk me through it.
 [CAM: 2S]
 WES: Two men. The first one, Adam, God breathed into him, and he became alive. That's a gift. But that's as far as he could take it. Be alive. And when it went wrong, he hid and he blamed and it all came apart. The last Adam, that's Jesus. He has life, and he hands it out. He's the only man who ever lived who could give life to somebody else.
 [CAM: JON MS]
@@ -381,6 +382,7 @@ WES: Here's the challenge, between now and Friday. It's Holy Week, so it's simpl
 JONATHON: Then find the one thing you're hiding from. A conversation, a decision, a call, a fish. And walk out of the trees. You don't have to solve it by Friday. You have to say it out loud to somebody and put a time on it. And if you've already moved that time twice, skip the time and do it.
 [CAM: WES MS]
 WES: Married men, if it's a hard one with your wife, pick a calm time, say your part first, and don't use Easter dinner for it. Single guys, it might be your parents, a friend you ghosted, a decision about school or work you've been standing at the fork on for a year. Say it, and say when.
+JONATHON: A year at the fork. I know guys who've put a porch and a mailbox on that fork.
 [CAM: WES CU]
 WES: Divorced dads, it might be a conversation with your kids about the divorce, where you tell your part and leave hers alone. Older men, it might be the call your wife has always made. The doctor, the bank, the hard one with the kids. Make that one yourself, for once, and let her watch you do it.
 [CAM: JON CU]

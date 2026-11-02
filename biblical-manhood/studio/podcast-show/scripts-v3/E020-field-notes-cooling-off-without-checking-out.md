@@ -140,6 +140,7 @@ WES: From the table. If Tuesday's challenge was to ask what your anger's guardin
 [CAM: JON MS]
 JONATHON: And I want the answer to be yes, because I'd like some of mine to be right. I'd like at least one line in my notes app to be the good kind.
 WES: Some of it is. And here's how I know. (puts on the reading glasses) In Mark, Jesus walks into a synagogue on the Sabbath, and there's a man there with a shriveled hand. And the religious leaders are watching Jesus to see if he'll heal on the Sabbath, so they can accuse him. They've got their rule, and they care more about their rule than about the man's hand. And Jesus asks them whether it's right to do good on the Sabbath or to do harm. And they won't answer him.
+JONATHON: They won't answer him. That's a room that knows it's losing.
 [CARD: Mark 3:5]
 WES: "He looked around at them in anger and, deeply distressed at their stubborn hearts, said to the man, 'Stretch out your hand.' He stretched it out, and his hand was completely restored."
 [CAM: 2S]

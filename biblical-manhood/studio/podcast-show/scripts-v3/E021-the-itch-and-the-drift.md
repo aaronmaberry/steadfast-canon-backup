@@ -272,6 +272,7 @@ WES: He made it. He's partial to it.
 JONATHON: And the guy who's hurting so much the itch is the only thing that works. That's real. Some guys are in real pain, and this is the only thing that numbs it.
 [CAM: WES CU]
 WES: That's real. A lot of men started the itch as a boy trying to stop hurting. I'm not going to shame a boy for that. But you're not a boy anymore. And the thing that stopped the hurting at fourteen is making it worse at thirty-four. You deserve something that actually helps.
+JONATHON: Something that helps, not something that numbs. Numb feels like better for about an hour.
 [CAM: WES MS]
 WES: And I want to say this plainly, and slowly. If the drift has gone dark for you, if you're numb most days, or you've started thinking everybody would be better off without you, please don't wait on that one. Call or text 988. That's the Suicide and Crisis Lifeline. Any hour. And if the itch is a bottle or pills, there's a helpline for that in the description too.
 JONATHON: And you don't have to be sure it's that bad to call. You don't have to qualify. Plenty of men never call because they figure somebody else has it worse.

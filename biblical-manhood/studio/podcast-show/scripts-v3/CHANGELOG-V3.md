@@ -56,3 +56,17 @@ E021 and E023 land just over the 45-minute floor. Their word counts sit a little
 ### Repeats across the batch
 
 Phrases repeated across E017-E024 were checked with a six-word window and about 35 were varied. What still repeats is meant to: callbacks ("What's it guarding?", "Forgot, or drifted?", "Moved twice? It's a tree."), scripture, quotes said again on purpose, and the challenge opener "Here's the challenge, between now and Friday."
+
+### Long Wes turns split
+
+The first batch report counted Wes turns line by line. Counted as consecutive Wes lines with no Jonathon line between them, seven episodes had Wes turns over 110 words. Each one is now split by a new Jonathon line (a question, reaction or bit of banter). No Wes words were changed or cut, and E022 is untouched.
+
+| Episode | Longest Wes turn, before | After | Jonathon lines added | Jonathon share | Minutes at 150 wpm |
+|---|---|---|---|---|---|
+| E017 | 172 | 104 | 6 | 49.7% | 54.3 |
+| E018 | 126 | 106 | 1 | 49.6% | 23.0 |
+| E019 | 140 | 110 | 3 | 47.9% | 47.3 |
+| E020 | 166 | 108 | 1 | 49.8% | 23.4 |
+| E021 | 121 | 98 | 1 | 46.7% | 45.4 |
+| E023 | 147 | 107 | 2 | 46.3% | 45.6 |
+| E024 | 122 | 95 | 2 | 48.5% | 22.0 |

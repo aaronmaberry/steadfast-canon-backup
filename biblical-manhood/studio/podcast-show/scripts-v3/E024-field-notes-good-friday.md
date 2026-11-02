@@ -67,6 +67,7 @@ WES: My dad wasn't a talker. You know that. He said "I'm proud of you" once, whe
 [CAM: JON CU]
 JONATHON: How old were you when you figured it out? Because I'd have asked by the second year.
 WES: Twelve, maybe. I asked my mom. She said, "Noon to three is when the sky went dark. Your daddy keeps it quiet." That's all I ever got. Three hours a year, my dad kept quiet on purpose. And riding in that truck with no radio, you could feel it. It was the only day of the year the truck felt like church.
+JONATHON: Three hours of quiet from a man who barely talked anyway. Did you keep it going, once it was your truck?
 [CAM: WES MS]
 WES: And I stopped. In the fog years. I just quit doing it, and I never started back up. Twenty years, maybe. Good Friday was a Friday. I'd have the ball game on at one o'clock and not think twice. I didn't decide to quit. I drifted out of it, like everything else back then.
 JONATHON: And then your son called. The one who usually texts you in lowercase with no punctuation.
@@ -183,6 +184,7 @@ JONATHON: And the screen-time number, second round, because we promised. I'll re
 WES: That's mine. Two hours fifty-eight, down from three forty-one. I'm not grading it. I'm reporting it.
 JONATHON: Mine's four thirty-one. And I'm not grading yours either, even though you're winning.
 WES: I'm winning. And the time I got back went to a porch and a truck with a noise in it. That's what I'll tell you about it.
+JONATHON: A porch and a truck with a noise in it. That might be the most you sentence of the whole season.
 [CAM: WES MS]
 WES: And one more thing from the check, because it's the home-plate part of the challenge. Thursday at the feed store, there was an older man at the counter trying to pay with a card that kept getting declined. The line's getting long. Nobody's saying anything, but everybody's sighing. And I stepped up next to him and said, "Let's try it one more time. These machines hate me too." It went through the second time. That's all. I didn't pay for anything. I stood next to him so he wasn't the only man at the counter.
 JONATHON: That's the whole thing, though. Standing next to somebody so they're not the only one at the plate. You didn't fix the machine. You just went and stood there.
