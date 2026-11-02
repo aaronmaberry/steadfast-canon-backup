@@ -33,9 +33,9 @@ A creased feed-store receipt on a wooden table, "Win the room" in pen, a single 
 
 [CHAPTER: Cold open]
 [CAM: JON MS]
-JONATHON: (unfolds a soft, creased receipt) Feed store. January. My handwriting.
+JONATHON: (unfolds a soft, creased receipt) Feed store. My handwriting.
 [CAM: WES MS]
-WES: Read it.
+WES: What's it say?
 [CAM: JON CU]
 JONATHON: "Win the room." (beat) Somebody drew a line through "the room."
 [CAM: WES CU]
@@ -344,7 +344,7 @@ JONATHON: Then we'll both have something to read back next December. I'd rather 
 
 [CHAPTER: Questions from the table]
 [CAM: WIDE]
-WES: Let me take this out to some other tables, because a year review sounds different when your year was bad. These are questions I've heard at tables over the years, usually right about now, in the dead days between Christmas and New Year's. No names.
+WES: Let me take this out to some other tables, because a year review sounds different when your year was bad. Every one of these I've heard at some table, more than once, usually right about now, in the dead days between Christmas and New Year's. No names.
 [CAM: WES MS]
 WES: First. "My year was a disaster. I lost my job in March. I'm still looking. My marriage is hanging on. What am I supposed to read back? There's nothing to read."
 [CAM: JON CU]
@@ -482,14 +482,14 @@ Chapters
 14:21 The Word
 18:11 The plan I didn't make
 22:00 The names
-25:12 The ledger
+25:13 The ledger
 30:16 A quiet Tuesday
-32:34 What didn't change
+32:35 What didn't change
 34:44 Questions from the table
-41:01 Going first
-43:28 The challenge
-45:40 Carry this
-45:52 Outro
+41:02 Going first
+43:29 The challenge
+45:41 Carry this
+45:53 Outro
 
 Scripture: Proverbs 16:9 (NIV)
 

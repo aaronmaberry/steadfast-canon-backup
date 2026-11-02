@@ -80,11 +80,11 @@ WES: That I did on time. Monday, first thing, before the knock on the window. Th
 [CAM: JON CU]
 JONATHON: Did you get it done?
 [CAM: WES CU]
-WES: Not yet. It's a real mess. That's the honest report. I took it. I thanked God for it, forty minutes late. I'm about halfway through. That's where it is. And one more thing, because it surprised me. Wednesday afternoon the man who handed it to me came by my desk and asked how it was going. He's never once asked about anything I was working on. I think when you take a man's mess, he wants to know what happened to it. We talked for ten minutes. About the problem, and then about his daughter's volleyball. I'd have missed that if I'd waited for it to land on my desk.
+WES: Not yet. It's a real mess. That's the honest report. I took it. I thanked God for it, forty minutes late. I'm about halfway through. That's where it is. And one more thing, because it surprised me. Wednesday afternoon the man who handed it to me came by my desk and asked how it was going. He's never once asked about anything I was working on. I think when you take a man's mess, he wants to know what happened to it. We talked for ten minutes. About the problem, and then about his daughter's volleyball. I'd have missed that if I'd waited for somebody to hand it to me.
 [TEXT: "You sure?" "That's why."]
 
 [CAM: JON MS]
-JONATHON: Mine. I did the thanks on time, and I want credit, because I'm usually the one who's late. Monday, seven-forty, in the truck in the parking lot at the office. And I thanked God for one of my techs. The young one who texted me in September that he was done, and I wouldn't take the text till seven the next morning, and he came back. I said, "Thank You that he didn't quit." Out loud. And then I said his name, which I've never once done in a prayer about work. I've prayed about deals. I've prayed about numbers. I've never prayed about a tech by name.
+JONATHON: Mine. I did the thanks on time, and I want credit, because I'm usually the one who's late. Monday, seven-forty, in the truck, outside the office. And I thanked God for one of my techs. The young one who texted me in September that he was done, and I wouldn't take the text till seven the next morning, and he came back. I said, "Thank You that he didn't quit." Out loud. And then I said his name, which I've never once done in a prayer about work. I've prayed about deals. I've prayed about numbers. I've never prayed about a tech by name.
 [CAM: WES MS]
 WES: How'd the meeting go? No board.
 [CAM: JON CU]
@@ -119,7 +119,7 @@ JONATHON: Thank you for saying it plain. We'll keep praying for her by name at o
 [CAM: JON MS]
 JONATHON: From the table. This one's from Shane. If you've been here since spring, you know Shane. Harper's dad, from coach-pitch. The one building the Battleship Texas in his garage, three feet long, nine years of nights. Ruby glued a rivet on it in May. And Tuesday night I dropped Ruby off at Harper's for a birthday thing, and Shane had me come out to the garage, and we stood there by the Texas for half an hour.
 [CAM: JON CU]
-JONATHON: And he asked me something, and he said I could bring it here with his first name. He said, "Every year, Christmas morning's great. The kids, the church thing, all of it. I actually feel like a Christian for about a week. And by the second Monday in January I'm back at the plant and it's like it never happened. How do I keep it from fading by January?"
+JONATHON: And he asked me something, and he was fine with me bringing it to the show, first name only. He said, "Every year, Christmas morning's great. The kids, the church thing, all of it. I actually feel like a Christian for about a week. And by the second Monday in January I'm back at the plant and it's like it never happened. How do I keep it from fading by January?"
 [pause 1s]
 [CAM: WES MS]
 WES: That's every man I know. That's me most years. And I want to say first, to Shane and to every man asking it, the fading's not a sign you're a fake. The feeling fades. It's supposed to. Nobody can live on Christmas morning. The question's whether anything stays when the feeling goes.
@@ -222,9 +222,9 @@ Chapters
 00:00 Cold open
 00:17 Intro
 00:41 Check the box
-09:12 From the table
-16:29 Tool on the table
-19:57 Carry this
+09:11 From the table
+16:28 Tool on the table
+19:56 Carry this
 20:16 Outro
 
 Scripture: Luke 2:19 (NIV)

@@ -54,7 +54,7 @@ WES: Field Notes. New Year's Eve.
 
 [CHAPTER: Check the box]
 [CAM: WIDE]
-JONATHON: Before we do anything else, I need to know about the last page. You've never told me that about your wife, and you put it in the open like it was nothing.
+JONATHON: Before we do anything else, I need to hear about her and the books. You've never told me that, and you put it in the open like it was nothing.
 [CAM: WES MS]
 WES: Every book she's ever read. She opens it, reads the last page, then goes back to the start. Thirty years. I asked her once why she'd ruin it. She said, "So I can quit worrying and enjoy the middle." I'll come back to that. Check the box. Tuesday was, write the next move, one sentence with a day on it, on paper, and show it to one man before Friday. You go first. You've got a miss on your face.
 [CAM: JON MS]
@@ -87,7 +87,7 @@ WES: I called her at lunch. I'd planned what I'd say. I didn't say it. She picke
 [CAM: JON MS]
 JONATHON: And your youngest? Did you ask him in the truck the way you said? Radio on, then shut up?
 [CAM: WES MS]
-WES: Wednesday, after welding. Radio on. I said the whole thing. January thirteenth, three o'clock, old men singing, I'd like you to come. Then I shut up. And he looked out the window for about a mile. And he said, "Are there cookies?" And I said, "They're dry." And he said, "I'll come."
+WES: Wednesday, after welding. Radio on. I said the whole thing, the date and the hymns and that I wanted him there. Then I shut up. And he looked out the window for about a mile. And he said, "Are there cookies?" And I said, "They're dry." And he said, "I'll come."
 [CAM: JON CU]
 JONATHON: "They're dry" sold him. You told a sixteen-year-old the truth about the cookies and he signed up. That's the whole year in one truck.
 [TEXT: "Are there cookies?" "They're dry." "I'll come."]
@@ -95,7 +95,7 @@ JONATHON: "They're dry" sold him. You told a sixteen-year-old the truth about th
 [CAM: JON MS]
 JONATHON: And Leon. You buried Leon in the cold open. Tell the whole thing.
 [CAM: WES CU]
-WES: Wednesday. Same lot, same truck. I knocked, he rolled the window down, and before I lost my nerve I said it. "I've never asked your name. I'm sorry about that. I'm Wes." And he looked at me for a second, and he said, "Leon." And then, "Took you long enough." And he moved his lunchbox off the passenger seat.
+WES: Wednesday. Same lot, same truck. I knocked, he rolled the window down, and before I lost my nerve I said it, close to how I'd planned. Five months and I'd never asked, I was sorry, I'm Wes. And he looked at me for a second, and he said, "Leon." And then, "Took you long enough." And he moved his lunchbox off the passenger seat.
 [CAM: JON MS]
 JONATHON: He moved the lunchbox. You've been eating on the outside of that truck window since July, and he moved the lunchbox.
 [CAM: WES MS]
@@ -116,13 +116,13 @@ WES: It counts. And it's the right move. His foreman's the man he thanked God fo
 [CAM: WIDE]
 WES: It's the last Field Notes of the year, so here's the short review. We did the long one Tuesday. This one's three minutes. What's still open, and one thing each of us keeps.
 [CAM: JON MS]
-JONATHON: What's open, for me. Doug's garage door, the Saturday after New Year's, with a ladder and no idea what I'm doing. Virgil's ride to the hardware store, some morning in January when his truck's still in the shop. My dad. That one's open, and I'm going to leave it open, and that's all I'm going to say.
+JONATHON: What's open, for me. Doug's garage door, which neither of us understands, and a ladder I'll have to borrow. Virgil's ride to the hardware store, some morning in January when his truck's still in the shop. My dad. That one's open, and I'm going to leave it open, and that's all I'm going to say.
 [CAM: WES CU]
 WES: Mine. My wife's friend has her scan in January. We'll know when we know. Mr. Abernathy's eye doctor on the eighteenth. My youngest still has to pick, welding or college, and I'm for him either way. And Leon. I don't know what's open with Leon. I just know the lunchbox moved.
 [CAM: JON MS]
 JONATHON: And one thing I keep. The receipt. "Win the room" with the line through it. It's going back on the fridge after today, under the pizza magnet, next to the whiteboard. I want my kids to grow up looking at a sentence their dad quit living.
 [CAM: WES MS]
-WES: I keep Mr. Abernathy's question. Not the receipt. The question. "If He answered you tomorrow, what would you do Saturday?" I've carried it since 2019. I'll carry it into next year. He's never asked if I answered it. He won't. That's why it works.
+WES: I keep Mr. Abernathy's question. Not the receipt. The question. "If He answered you tomorrow, what would you do Saturday?" I've carried it since 2019. I'll carry it into next year. He's left it with me all these years and never checked. That's why it works.
 [CAM: JON CU]
 JONATHON: And for the season. We started Advent asking what we were waiting for. I'll say what I learned in one line. Waiting on God looked a lot more like driving somewhere than sitting still.
 [CAM: WES CU]
@@ -266,13 +266,13 @@ Chapters
 00:00 Cold open
 00:13 Intro
 00:38 Check the box
-07:12 What's still open
-09:11 From the table
-15:02 Tool on the table
-17:35 Last text
-18:48 The first challenge
-20:04 Carry this
-20:12 Outro
+07:13 What's still open
+09:12 From the table
+15:04 Tool on the table
+17:36 Last text
+18:49 The first challenge
+20:05 Carry this
+20:13 Outro
 
 Scripture: Revelation 21:5 (NIV)
 

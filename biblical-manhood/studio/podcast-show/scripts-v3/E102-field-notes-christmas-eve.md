@@ -54,9 +54,9 @@ WES: Field Notes. Christmas Eve.
 
 [CHAPTER: Check the box]
 [CAM: WIDE]
-WES: Dani's not working tonight. Say that again, because I've known you a while and I don't think I've ever heard it.
+WES: Say the line about your wife one more time. I've known you a while and I don't think I've ever heard it.
 [CAM: JON MS]
-JONATHON: Dani is not working tonight. First Christmas Eve off in four years. She traded a New Year's shift for it in October and she's been guarding it like a dog with a bone. Somebody from the unit called Tuesday and she let it ring and ate a cracker while it rang.
+JONATHON: She's off tonight. First Christmas Eve off in four years. She traded a New Year's shift for it in October and she's been guarding it like a dog with a bone. Somebody from the unit called Tuesday and she let it ring and ate a cracker while it rang.
 [CAM: WES CU]
 WES: Good for her. Check the box. Tuesday was, before Christmas, show up once at the one place you quit, and when it's over, stay for the cookies. And I think yours goes first, because I can see it on your face.
 [CAM: JON CU]
@@ -99,7 +99,7 @@ WES: The whole time. I've been worried about my comfort since she first asked, a
 [CAM: WES MS]
 WES: And Ola was there, at a front table, and she saw us come in, and she said, loud, "Well, look who it is." And I said, "Yes, ma'am." And sat down. That was the whole toll, like I figured. Somebody laughed. Then the pastor said, "Let's pray," and nobody thought about me again.
 [CAM: JON MS]
-JONATHON: What was it actually like? Because I've never been to a Wednesday prayer meeting in my life. I came to faith at twenty-nine. I picture something between a board meeting and a hospital waiting room.
+JONATHON: What was it actually like? Because I've never been to a Wednesday prayer meeting in my life. I didn't grow up in church. I picture something between a board meeting and a hospital waiting room.
 [CAM: WES CU]
 WES: That's not bad. About fifteen people. Folding tables. Decaf. No cookies, by the way. Prayer meeting has decaf. They pass around a sheet with names on it, and people add names, and then they just pray down the list, out loud, whoever wants to. A lot of hips. A lot of grandkids. Somebody's nephew in the Navy. A woman prayed for the church's air conditioner for about a minute, very seriously.
 [CAM: JON CU]
