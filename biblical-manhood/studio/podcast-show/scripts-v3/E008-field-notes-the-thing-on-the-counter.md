@@ -5,7 +5,7 @@ Walk Steadfast · Field Notes · script v3 final (long-form rewrite). Internal.
 | | |
 |---|---|
 | Release | Fri Jan 29, 2027, 5:00 AM CT |
-| Format | Field Notes, long-form v3. About 24 min, about 3,560 spoken words. Length window overridden per Aaron's v3 direction (scripts-v3/CHANGELOG-V3.md). |
+| Format | Field Notes, long-form v3. About 23 min, about 3,500 spoken words. Length window overridden per Aaron's v3 direction (scripts-v3/CHANGELOG-V3.md). |
 | Intro and slate | Per-episode open, Jonathon leads (SHOW-BIBLE section 5, open system v3, text in _build/intros_data.py). Slate: WES "Episode eight." JONATHON "Field Notes. The Thing on the Counter." |
 | Checks | E007 challenge: one thing you've been waiting on, with a day and time, told to one man, done before Friday. Married: "Is there something you've been waiting on me for?" Single: "What have I been putting off that you've noticed?" Hurt by someone: a date to decide. |
 | From the Table | "How do I stop waiting when I'm genuinely tired?" (handed off from E007 v3 Pushback) |
@@ -58,7 +58,7 @@ JONATHON: Field Notes. The Thing on the Counter.
 [CHAPTER: Check the box]
 [CAM: WIDE]
 WES: I'd like it on the record that "K" was me on the phone with my brother. I was mid-call. I typed it with one thumb.
-JONATHON: You typed one letter with one thumb, during the most important phone call of your month, to reassure me. I'll take it. I sat in my driveway staring at that K for ten minutes like it was a Bible code.
+JONATHON: One letter, one thumb, mid-call, to reassure me. I'll take it. I stared at that K for ten minutes like it was a Bible code.
 WES: It wasn't a code. It was a K.
 JONATHON: So you called. You actually picked up the phone and called your brother.
 WES: I called.
@@ -73,7 +73,7 @@ WES: I didn't want to lose my nerve in the last minute. And he picked up, and th
 JONATHON: (slaps the table) I told you. I told you on Tuesday. "Well." It's in the handbook. I nailed that.
 [CAM: WES MS]
 WES: You nailed it. It runs in the family. My dad said it. He says it. I say it.
-JONATHON: I've heard you say "well" in four different tones. You have a whole language. You could write a dictionary of "well."
+JONATHON: I've heard you say "well" in four different tones. It's a whole language.
 (both laugh)
 [CAM: WES CU]
 WES: So I said, "I've been meaning to call since Thanksgiving." He said, "I know." And then I did what you told me. I led with my part. I said, "What you said at Mom's was mostly right. I have let you handle her."
@@ -126,23 +126,24 @@ WES: He was waiting too.
 [CAM: JON MS]
 JONATHON: He was waiting too. He knew he was underwater, and nobody would say it out loud, so he couldn't fix it. He told me he'd been dreading every Monday for three months. My waiting was keeping him stuck. I thought I was being nice. I was being a cease-fire with a lanyard on.
 WES: That's often how it goes. The man you're protecting from the hard conversation has been having it with himself, alone, every night.
-JONATHON: Every night. He said he'd been lying awake. And I'd been lying awake about lying awake about him. We could've just talked.
+JONATHON: Every night. He said he'd been lying awake. And I'd been lying awake about lying awake about him.
+WES: Two men lying awake, when you could've just talked.
 [CAM: 2S]
 WES: And Dani? The October fight?
 JONATHON: I said, "We never finished that. Can we pick a night?" And she looked at me like you did when I said I'd read your book.
 WES: Surprised.
-JONATHON: Suspicious. Deeply suspicious. Like I was trying to sell her a timeshare. And then she said yes. Sunday, February seventh. After the kids are down. It's on the kitchen calendar now. Next to Pancake.
+JONATHON: Suspicious. Like I was trying to sell her a timeshare. And then she said yes. Sunday, February seventh. After the kids are down. It's on the kitchen calendar now. Next to Pancake.
 WES: Next to the dog.
 JONATHON: Big circle in August, little circle February seventh. Our kitchen calendar has never looked so emotionally healthy.
 (both laugh)
 [CAM: JON CU]
 JONATHON: And then I asked her the question. "Is there something you've been waiting on me for?" And she said, and I'm quoting, "Since I redid the kids' rooms at Christmas, you text me at bedtime every shift asking where things are. I've been waiting for you to learn the new rooms."
 WES: (laughing) What changed? You used to do bedtime fine.
-JONATHON: Everything! I did bedtime by myself for years. I knew that house. Then she moved every drawer over Christmas break, and now Theo's pajamas live in a bin. A canvas bin. With a label on it. Which I never read, because I'm a man and I open things.
+JONATHON: Everything! I did bedtime by myself for years. Then she moved every drawer over Christmas break, and now Theo's pajamas live in a canvas bin. With a label on it. Which I never read, because I'm a man and I open things.
 WES: So did you learn?
 JONATHON: Wednesday night. Zero texts. I read the labels. I found the bin. And I want it noted that Dani was on shift, and her phone didn't buzz once, and she texted me at eleven, "Did the kids die?" Because she'd never had a quiet shift.
 WES: (laughs) That's a box checked.
-JONATHON: Both boxes. Three, if you count the bin. I'm counting the bin, by the way.
+JONATHON: Both boxes. Three, if you count the bin.
 [CAM: JON MS]
 JONATHON: And then, Theo. I said Tuesday I'd say it to him. In the bath.
 WES: Did you?
@@ -164,7 +165,7 @@ WES: Our miss column's getting crowded. It's a good column, though. It's an hone
 [CAM: JON MS]
 JONATHON: And the single-guy check. My nephew asked his roommate, "What have I been putting off that you've noticed?" And the roommate didn't even look up from the TV. He said, "The dentist. You've been chewing on the left side since Halloween."
 WES: (laughing) Since Halloween. That's a roommate who's been paying attention.
-JONATHON: He made the appointment. He sent me a screenshot of the confirmation email. That's how I know it's real with him. If there's no screenshot, it didn't happen.
+JONATHON: He made the appointment. Sent me a screenshot of the confirmation. With him, if there's no screenshot, it didn't happen.
 [TEXT: Box checked. It's not fixed. It's started.]
 
 [CHAPTER: From the table]
@@ -240,7 +241,7 @@ WES: She'll be glad it's still working. And after ten minutes, you're allowed to
 [CAM: JON MS]
 JONATHON: Okay, but you don't stop. That's the trick, right? I've seen this in every productivity book my VP has made us read.
 WES: Most of the time, you don't stop. That's the secret. The hard part of almost anything is the first ten minutes. Once you're in it, you'll usually keep going. But you have to really mean it when you say you can stop. Otherwise your brain knows it's a trick.
-JONATHON: So you have to actually be willing to quit at ten. Like, honestly willing. Or it won't work.
+JONATHON: So you have to actually be willing to quit at ten. Or it won't work.
 WES: Your brain is very smart about getting out of things. It's been doing it your whole life. You can't con it with a fake deal.
 JONATHON: That's sales. That's literally sales. If the customer can smell the trap, there's no deal. You have to mean the off-ramp.
 [CAM: JON CU]
@@ -249,18 +250,18 @@ WES: Then the ten minutes is getting ready. You sit in the truck, you write down
 JONATHON: When the chicken dings. That's the whole tool. That's what I'm putting on my lock screen next.
 WES: When the chicken dings.
 [CAM: JON MS]
-JONATHON: My version is the watch. Ruby's watch, the cheap one she gave me. It beeps every hour on the hour, and I never figured out how to turn it off. So now I use it. When it beeps at seven, I start the thing. Whatever it is. Bath, dishes, the email I've been avoiding.
+JONATHON: My version is the watch. Ruby's watch, the cheap one she gave me. It beeps every hour on the hour, and I never figured out how to turn it off. So now I use it. When it beeps at seven, I start the thing. Bath, dishes, the email I've been avoiding.
 WES: So the watch finally has a job. It's been beeping at you for a year for no reason.
 JONATHON: The watch has a purpose. Ruby will be thrilled. She's been telling me it's a "smart watch" and I've been telling her it's a "watch."
 [CAM: WES MS]
 WES: And here's one more thing about ten minutes, for the man who thinks it's too small to count. Mr. Abernathy used to say the gate's the heaviest part of the field. Getting it open. Once it's open, the cows mostly walk themselves through.
-JONATHON: So the ten minutes is the gate. It's not the whole field. It's the gate.
+JONATHON: So the ten minutes is the gate.
 WES: Ten minutes is the gate. You don't have to finish the field tonight. I've watched grown men stand at a gate for an hour talking about how heavy it looks. Lift the latch. That's all tonight asks of you.
 [CAM: 2S]
 WES: And if you're the kind of tired where even ten minutes isn't there?
 JONATHON: The brisket test. The grown-up one. The sick-kid one.
 WES: Run the test. If you fail it, go to bed. Seriously. Rest is how God made you. Tomorrow you'll have ten minutes. The chicken will still be there.
-JONATHON: The chicken's not going anywhere. It's outlasted two ovens. It'll outlast all of us.
+JONATHON: The chicken's not going anywhere. It'll outlast all of us.
 [TEXT: Ten minutes. Then you're allowed to stop.]
 
 [CHAPTER: Carry this]
@@ -309,10 +310,10 @@ Chapters
 00:00 Cold open
 00:17 Intro
 00:41 Check the box
-12:46 From the table
-19:14 Tool on the table
-23:27 Carry this
-23:55 Outro
+12:32 From the table
+19:00 Tool on the table
+23:08 Carry this
+23:35 Outro
 
 Scripture: Matthew 11:28 (NIV)
 
