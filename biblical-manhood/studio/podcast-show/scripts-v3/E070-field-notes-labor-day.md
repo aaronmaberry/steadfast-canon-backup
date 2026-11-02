@@ -114,7 +114,7 @@ JONATHON: Tres leches. She ate it in the car.
 
 [CHAPTER: From the table]
 [CAM: JON MS]
-JONATHON: From the table. And this one came out of the attic. The senior tech, sixty, the one from Tuesday. He heard I'd talked about him, and he wasn't mad, which is a relief. After the ride Wednesday, back at the shop, he asked me something, and he said I could bring it here as long as I left his name off.
+JONATHON: From the table. And this one came out of the attic. The senior tech, sixty, the one from Tuesday. He heard I'd talked about him, and he wasn't mad, which is a relief. After the ride Wednesday, back at the shop, he asked me something, and he said it was fine to bring it to the table as long as I left his name off.
 [CAM: JON CU]
 JONATHON: He said, "I've got Labor Day off for the first time in six years. My wife's happy about it. I'm not. I don't know how to sit down. Last time I had a day off, I rebuilt the mailbox. It wasn't broken. How do you rest without feeling lazy?"
 [CAM: WES MS]
@@ -122,7 +122,7 @@ WES: I'd like to shake his hand. That's every man I grew up around. My dad didn'
 [CAM: WES CU]
 WES: So here's the first thing. Rest isn't lazy. Lazy is not doing what you're supposed to do. And God told you to rest. So when you rest, you're doing what you're supposed to do. A man who works seven days a week isn't more faithful than the one who stops. In a way he's less. He's skipping one of the things God told him to do.
 [CAM: JON MS]
-JONATHON: Can I push on that a little? Because it's true, and he'd nod at it, and it wouldn't move him an inch. He's sat through that sermon. What he's scared of isn't being lazy. It's losing ground. He grew up where if you stopped, somebody passed you. The rent doesn't take Sunday off. The truck note doesn't take Sunday off.
+JONATHON: Can I push back some? Because it's true, and he'd nod at it, and it wouldn't move him an inch. He's sat through that sermon. What he's scared of isn't being lazy. It's losing ground. He grew up where if you stopped, somebody passed you. The rent doesn't take Sunday off. The truck note doesn't take Sunday off.
 [CAM: WES MS]
 WES: That's fair. And that's right where the Bible meets him. When Moses goes back over the commandments in Deuteronomy five, he gives a different reason for the Sabbath. In Exodus the reason is creation. God made the world in six days and rested on the seventh. In Deuteronomy the reason is Egypt. Remember you were slaves, and the Lord brought you out. That's why you rest.
 [CAM: JON CU]
@@ -162,11 +162,11 @@ WES: Then, no work. And that includes the work you don't call work. No fixing. N
 [CAM: JON CU]
 JONATHON: And no phone. I know. But for most of us the phone's where work leaks in. One look at the email on Sunday and your head's back at the office for the rest of the day.
 [CAM: WES MS]
-WES: Fill it with something that fills you back. Not something that drains you while it looks like rest. Walk. Sit on the porch. Read something you'd read even if nobody ever asked you about it. Watch your kid play and don't coach him. Take your wife for a drive. Lie in the grass. My dad, when he finally learned it, late, used to sit on the tailgate and watch the cows. That was his. He never said a word about it. He just started doing it.
+WES: Fill it with something that fills you back. Not something that drains you while it looks like rest. Walk. Sit on the porch. Read something you'd read even if nobody ever asked you about it. Watch your kid play and don't coach him. Take your wife for a drive. Lie in the grass. My dad, when he finally learned it, late, used to sit on the tailgate and watch the cows. That was his. He never talked about it. He just started doing it.
 [CAM: JON MS]
 JONATHON: And I'll say this, since you won't. When's the last time you sat down for an hour on purpose? Because I've seen your Sunday afternoons, and they've got a ballgame in them.
 [CAM: WES CU]
-WES: (beat) Sunday afternoons I'm in the recliner with a ballgame, and I'd have called that rest. It isn't. That's checking out. I'm not stopping because God told me to. I'm stopping because I ran out of gas. So Monday afternoon, Labor Day, I'm taking my dad's tailgate idea. One hour. No radio. I'll tell you how it went.
+WES: (beat) Sunday afternoons I'm in the recliner with a ballgame, and I'd have called that rest. It isn't. That's checking out. I'm not stopping because God told me to. I'm stopping because I ran out of gas. So Monday afternoon, Labor Day, I'm taking my dad's tailgate idea. One hour. No radio. I'll report back.
 [CAM: JON MS]
 JONATHON: And don't grade it. If you spend the first twenty minutes twitching, that's normal. You've been running for years. The engine doesn't stop when you turn the key. It ticks for a while.
 [CAM: WES CU]
@@ -234,7 +234,7 @@ WES: Produced with AI voice and video tools.
 |---|---|---|---|
 | 1 | The weld (from "Saturday, at the feed store, I asked my youngest" through "which in sixteen-year-old means thank you.") | "Everybody rushes the end." | about 90 s |
 | 2 | Even at harvest (from "Here's the verse I'd give him, and it's for a farmer." through "That's not lazy. That's trust.") | "The work's never going to tell you to stop." | about 60 s |
-| 3 | You're not owned anymore (from "Can I push on that a little?" through "one day out of seven.") | "The day off is how you can tell he's not a slave anymore." | about 60 s |
+| 3 | You're not owned anymore (from "Can I push back some?" through "one day out of seven.") | "The day off is how you can tell he's not a slave anymore." | about 60 s |
 
 ## YouTube description
 
@@ -246,10 +246,10 @@ Chapters
 00:13 Intro
 00:37 Check the box
 09:31 From the table
-14:52 Tool on the table
+14:53 Tool on the table
 20:10 What stuck
-23:17 Carry this
-23:23 Outro
+23:16 Carry this
+23:22 Outro
 
 Scripture: Exodus 34:21 (NIV)
 

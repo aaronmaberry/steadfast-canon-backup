@@ -95,7 +95,7 @@ JONATHON: And the friend? I know your wife's been carrying that one since the sc
 [CAM: WES MS]
 WES: Monday. It's treatable. That's the word they used. Long fall. Treatments on Tuesdays after Labor Day. My wife's going to drive her most weeks, and on the weeks she's at her sister's, I'm going to drive. She asked me. I didn't offer first. She asked.
 [CAM: WES CU]
-WES: And Monday night, after the call, my wife went out to the truck to get something, and she didn't come back in. I found her sitting in the passenger seat crying. Not hard. Just tired crying. I got in the driver's side and didn't say anything. About ten minutes. Then she said, "I need to make a casserole," and got out and made a casserole. That's my wife. She cries in the truck and feeds people.
+WES: And Monday night, after the call, my wife stepped out to the truck for something, and she didn't come back in. I found her sitting in the passenger seat crying. Not hard. Just tired crying. I got in the driver's side and didn't say anything. About ten minutes. Then she said, "I need to make a casserole," and got out and made a casserole. That's my wife. She cries in the truck and feeds people.
 [CAM: JON CU]
 JONATHON: That's a feed store too. You just sat in the other seat.
 [CAM: WES MS]
@@ -206,7 +206,7 @@ WES: And don't keep score on it. If you miss two days, you don't owe her four. Y
 [CAM: JON MS]
 JONATHON: Divorced guys, you've got a version too, with your kids. On your nights, fifteen minutes, phones away, and they go first. "And then what?" works on a ten-year-old better than it works on a wife. Single guys, you've got a version with your roommate, your brother, your buddy. Fifteen minutes, phones away, once in a while. My nephew just did it with tacos.
 [CAM: WES CU]
-WES: Widowers, you know what you'd give for one more of these. Tell a younger couple at church to do it. Better yet, tell them what the two of you used to talk about. A young husband needs to hear from a man who knows what fifteen minutes is worth.
+WES: Widowers, you know what you'd give for one more of these. Tell a younger couple at church to do it. Better yet, tell them what the two of you used to talk about. A young husband ought to hear it from somebody who knows what fifteen minutes is worth.
 [CAM: JON CU]
 JONATHON: And if it goes cold, if you sit down and she won't talk, or every time turns into a fight, that's bigger than a couch. Go see a counselor. Together if you can. If anyone in your house is in the kind of dark that scares you, call or text 988.
 [TEXT: The couch talk is the daily bread. It's not the surgery.]
@@ -248,7 +248,7 @@ Chapters
 00:00 Cold open
 00:16 Intro
 00:37 Check the box
-08:34 From the table
+08:33 From the table
 15:06 Tool on the table
 21:29 Carry this
 21:38 Outro

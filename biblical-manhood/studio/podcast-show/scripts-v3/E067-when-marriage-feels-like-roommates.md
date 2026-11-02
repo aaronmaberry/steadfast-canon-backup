@@ -119,7 +119,7 @@ WES: And one night in the truck after a ballgame, the youngest asleep in the bac
 [pause 1s]
 JONATHON: What did you do?
 [CAM: WES CU]
-WES: Something small, and I think it's one I got right. Every Saturday morning I go to the feed store. Twenty minutes each way, out the farm road. Always went by myself. And that next Saturday I said, "Ride with me." And she looked at me like I'd asked her to go to the moon. The feed store. She came. We didn't talk about anything big. We talked about her mother, and a house we passed that'd been painted a terrible color, and whether the creek would come up.
+WES: Something small, and I think it's one I got right. Every Saturday morning I go to the feed store. Twenty minutes each way, out the farm road. Always went by myself. And that next Saturday I said, "Ride with me." And you'd have thought I'd asked her to go to the moon. The feed store. She came. We didn't talk about anything big. We talked about her mother, and a house we passed that'd been painted a terrible color, and whether the creek would come up.
 [CAM: WES MS]
 WES: And on the way home she said, "We should do this again." And I said, "Next Saturday." And she's ridden with me most Saturdays since. Seven years.
 [CAM: JON MS]
@@ -162,7 +162,7 @@ WES: That's how I read it. It's short. So don't spend it on the whiteboard.
 [CAM: JON CU]
 JONATHON: What's "under the sun"? He keeps saying that.
 [CAM: WES MS]
-WES: That's his phrase for life down here. The ordinary stuff. The work and the weather and the bills. He's not saying enjoy your wife someday in heaven. He's saying, down here. Under the sun. In the heat. On a back step in August. And the next verse is about work. Whatever your hand finds to do, do it with everything you've got. He puts the wife before the work. I don't think that's an accident either.
+WES: That's his phrase for life down here. The ordinary stuff. The work and the weather and the bills. He's not saying enjoy your wife someday in heaven. He's saying, down here. Under the sun. In the heat. On a back step in August. And the next verse is about work. Whatever your hand finds to do, do it with everything you've got. He puts the wife before the work. I think he did that on purpose too.
 [CAM: JON MS]
 JONATHON: "All the days." That's the one that got me. Not the good days. Not the vacation days. All the days. Including the four-nights-a-week days in August. He doesn't say, enjoy your wife once the kids are grown. He says it like he knows how short the whole thing is.
 [CAM: WES CU]
@@ -216,9 +216,9 @@ JONATHON: And I noticed things. That's the part I didn't expect. I noticed she s
 
 [CHAPTER: Gravity]
 [CAM: WES MS]
-WES: I want to say something to the man who's listening and feeling guilty right now. Roommates isn't usually a sin. It's gravity. You don't decide to drift. You just stop deciding not to. Every marriage drifts that way if you leave it alone, the same way a pasture goes back to brush if you leave it alone. You don't have to do anything wrong. You just have to do nothing.
+WES: Here's a word for the man who's listening and feeling guilty right now. Roommates isn't usually a sin. It's gravity. You don't decide to drift. You just stop deciding not to. Every marriage drifts that way if you leave it alone, the same way a pasture goes back to brush if you leave it alone. You don't have to do anything wrong. You just have to do nothing.
 [CAM: JON CU]
-JONATHON: I've got to push on that one, because I don't buy it all the way. "It's gravity" lets me off the hook. Nobody made me pick up my phone on the couch every night. That was me. Every night for months I chose the phone over the four feet of couch between me and my wife. That's not weather. That's a decision I made two hundred times.
+JONATHON: Hold on, I'm not letting that one go by, because I don't buy it all the way. "It's gravity" lets me off the hook. Nobody made me pick up my phone on the couch every night. That was me. Every night for months I chose the phone over the four feet of couch between me and my wife. That's not weather. That's a decision I made two hundred times.
 [CAM: WES MS]
 WES: I'm not saying it's nobody's fault. I'm saying the man listening didn't wake up one morning and decide to stop loving his wife. Most men would fight you if you said they did.
 [CAM: JON MS]
@@ -230,7 +230,7 @@ JONATHON: So which is it?
 [CAM: WES MS]
 WES: Both, and I'll give you yours. The drift is gravity. Staying drifted, once you've seen it, is a choice. The day your seven-year-old asks if you like each other, it quits being gravity.
 [CAM: JON MS]
-JONATHON: I'll take that. I still think "gravity" is a little too comfortable for most of us. But the day Ruby asked, the excuse was gone. That's right.
+JONATHON: Fair enough. I'd still say "gravity" is a little too comfortable for most of us. But the day Ruby asked, the excuse was gone. That's right.
 [CAM: WES CU]
 WES: And here's the trap, either way. Men think the fix has to be big. A trip. A night away. A big talk. And so we wait until we can afford the trip, or find a sitter, or work up to the big talk. Meanwhile, gravity's still working. Every day. A pasture doesn't go back to brush because of one bad year. It goes back because of a lot of ordinary days when nobody cut anything.
 [CAM: WES MS]
@@ -274,7 +274,7 @@ WES: And you can learn it with your kids right now. Every other Saturday, whatev
 
 [CHAPTER: Getting the friend back]
 [CAM: 2S]
-WES: So let's say it's drift. You've named it. What do you actually do on a Tuesday? Because "be her friend again" is advice you give a man at a wedding reception, and then he goes home and doesn't know what it means.
+WES: So let's say it's drift. You've named it. What do you actually do on a Tuesday? Because "be her friend again" is what somebody tells a groom at the reception, and then he goes home and doesn't know what it means.
 [CAM: JON MS]
 JONATHON: I'll tell you what I don't do anymore. I used to think the fix was a grand gesture. Flowers on a random day. Which is nice. But Dani thanked me for the flowers like you'd thank a vendor for a fruit basket. It was a transaction with a bow on it.
 [CAM: WES CU]
@@ -323,7 +323,7 @@ WES: And "my parents were like this." I asked him about that, and he said they w
 [CAM: JON MS]
 JONATHON: So that's the model he's got. He's not asking for something unrealistic. He's asking for something he never saw.
 [CAM: WES CU]
-WES: That's what I told him. A lot of men with rough fathers know what they don't want. This is the quieter version. His dad wasn't rough. He was just in the other room. And this man's asking if he has to be in the other room too. He doesn't.
+WES: That's what I told him. Men who had hard dads usually know what they don't want. This is the quieter version. His dad wasn't rough. He was just in the other room. And this man's asking if he has to be in the other room too. He doesn't.
 [CAM: JON CU]
 JONATHON: Here's what I'd ask him back. "A coworker you like." What do you like about her? Not as a mom. Not as a teammate. Her. If he can't answer that, that's where to start. Not with a trip. With noticing.
 [CAM: WES MS]
@@ -425,7 +425,7 @@ WES: Produced with AI voice and video tools.
 | 2 | The account (from "I lost a big one at twenty-nine" through "I still don't.") | "Nothing happened. That was kind of the problem." | about 70 s |
 | 3 | "Do you just live here?" (from "Ruby noticed before I did." through "what's she learning a marriage is?") | "My seven-year-old asked if we like each other." | about 50 s |
 | 4 | The feed store (from "And one night in the truck after a ballgame" through "You apologize for missing a date.") | "Ride with me." | about 100 s |
-| 5 | Gravity or a choice (from "I've got to push on that one" through "it quits being gravity.") | "That's a decision I made two hundred times." | about 75 s |
+| 5 | Gravity or a choice (from "Hold on, I'm not letting that one go by" through "it quits being gravity.") | "That's a decision I made two hundred times." | about 75 s |
 
 ## YouTube description
 
@@ -439,16 +439,16 @@ Chapters
 01:50 Two schedules
 05:14 Going transactional
 07:22 The relay
-11:25 The Word
-17:48 The back step
-21:07 Gravity
-26:39 More than drift
-30:02 Getting the friend back
-35:18 Pushback
-43:19 What we're doing
-45:04 The challenge
-46:46 Carry this
-46:52 Outro
+11:24 The Word
+17:47 The back step
+21:06 Gravity
+26:38 More than drift
+30:01 Getting the friend back
+35:17 Pushback
+43:17 What we're doing
+45:02 The challenge
+46:44 Carry this
+46:50 Outro
 
 Scripture: Ecclesiastes 9:9 (NIV)
 

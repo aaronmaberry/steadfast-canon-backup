@@ -379,7 +379,7 @@ WES: Produced with AI voice and video tools.
 | 2 | "Are you guys at work?" (from "So, Saturday morning, about six." through "Two people in the same bed in two different places.") | "My four-year-old asked if we were at work." | about 55 s |
 | 3 | The invoice (from "I said he never said a word at our supper table." through "You're collecting on one.") | "You can tell her you miss her." | about 60 s |
 | 4 | The texts (from "I was thirty-four." through "He has a hard time lying about what he'd be embarrassed for his wife to watch.") | "My chest jumped before I looked." | about 75 s |
-| 5 | Two chairs (from "And here's my problem with that." through "It's a hiding place with a calendar on it.") | "You told them before you told me." | about 90 s |
+| 5 | Two chairs (from "And here's my problem with that." through "it's a hiding place with a calendar on it.") | "You told them before you told me." | about 90 s |
 
 ## YouTube description
 

@@ -74,7 +74,7 @@ JONATHON: And I drove home thinking, I've managed that man for four years. And s
 [CAM: WES MS]
 WES: Did you say anything to him?
 [CAM: JON CU]
-JONATHON: I said, "Thank you for not selling her a unit." And he looked at me like I was crazy. He said, "She didn't need one." That's his whole philosophy. Thirty-one years.
+JONATHON: I said, "Thank you for not selling her a unit." And he gave me a look like I'd lost my mind. He said, "She didn't need one." That's his whole philosophy. Thirty-one years.
 [CAM: JON MS]
 JONATHON: And on the drive back to the shop, I asked him how he's done it that long. Because I'd been in that attic ninety minutes and I was already thinking about a career change. He didn't give me a speech. He reached up in his visor and pulled down a piece of paper, folded about six times, and handed it to me. It was a list of names and addresses. Women, mostly. Every widow on his routes. He checks their units every spring before it gets hot, on his own time, and doesn't charge them. Forty-some names on that paper, in pencil, some of them crossed out with a date next to it.
 [CAM: WES CU]
@@ -168,7 +168,7 @@ JONATHON: Then why do so many of us work like we're trying to get in? I've done 
 [CAM: WES MS]
 WES: Because somebody told us early what we were worth, and it was a number. Years ago there was a man at the Thursday breakfast whose father told him, all through growing up, that he was lazy. Every Saturday. "Lazy." And this man was the hardest-working man I've ever known. Up at four. Two businesses. Never took a vacation in fifteen years. And one morning over eggs he said, "I'm fifty and I'm still trying to prove I'm not lazy to a man who's been dead eleven years." He wasn't working for God. He was working for a verdict.
 [CAM: JON CU]
-JONATHON: That's a lot of men with rough fathers. Either you work like that to prove him wrong, or you quit trying because you figure he was right. I've watched both in my sales office.
+JONATHON: That's half the men I know with a hard dad. Either you work like that to prove him wrong, or you quit trying because you figure he was right. I've watched both in my sales office.
 [CAM: WES CU]
 WES: And this verse speaks to both of them. The verdict's already in, and it isn't your father's. You're God's handiwork. You don't have to prove it. You get to live out of it. That man's still working hard, by the way. But he took a vacation two summers ago. Went to the coast for a week and sent us a picture of his feet in the sand. That was a big morning at the breakfast.
 [CAM: JON MS]
@@ -391,7 +391,7 @@ WES: Produced with AI voice and video tools.
 | # | Cut | Hook | Length |
 |---|---|---|---|
 | 1 | "Let a little leak" (SHORT 1 IN/OUT, Going first) | "I've kept it all at church for twenty years." | about 60 s |
-| 2 | The attic (from "Thursday I rode with our senior tech." through "'She didn't need one.' That's his whole philosophy.") | "He fixed it instead of selling it." | about 100 s |
+| 2 | The attic (from "Thursday I rode with our senior tech." through "That's his whole philosophy. Thirty-one years.") | "He fixed it instead of selling it." | about 100 s |
 | 3 | The chests (from "I'll tell you about my granddad's chests." through "It had been waiting on me.") | "He built mine before I had a bed it would fit." | about 80 s |
 | 4 | Hard versus wrong (from "So here's what I learned, the hard way." through "That one you've got to get out of, or change.") | "There are two kinds of hating your job." | about 50 s |
 | 5 | The sandwich (from "Can I say one thing about Labor Day?" through "it looked like a sandwich with my name on it.") | "I hated Labor Day." | about 70 s |
@@ -407,18 +407,18 @@ Chapters
 00:40 Pull up a chair
 01:44 The attic
 05:37 Does selling count
-08:57 The chests
+08:58 The chests
 12:14 They're watching you work
 14:37 The Word
-22:02 The one I'm not sure about
-26:36 Labor Day
-29:51 The job you hate
-33:45 When you can't work
-36:13 Pushback
-42:20 Going first
-44:41 The challenge
-46:11 Carry this
-46:20 Outro
+22:03 The one I'm not sure about
+26:38 Labor Day
+29:53 The job you hate
+33:46 When you can't work
+36:14 Pushback
+42:22 Going first
+44:43 The challenge
+46:13 Carry this
+46:22 Outro
 
 Scripture: Ephesians 2:10 (NIV)
 

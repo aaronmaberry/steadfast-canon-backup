@@ -62,14 +62,14 @@ WES: And we're starting right there. The work nobody sees. The practices you coa
 [CAM: JON CU]
 JONATHON: And he'll tell himself the whole time that it's for the family. I know that one from the inside. We'll get to it.
 [CAM: 2S]
-WES: The mark today is Work for God's Pay. Because if the clap's your pay, you're going to be underpaid your whole life. And if God's your pay, then nothing you do in the dark is wasted.
+WES: The mark today is Work for God's Pay. If the clap's your pay, you're going to be underpaid your whole life. And if God's your pay, then nothing you do in the dark is wasted.
 [TEXT: If the clap's your pay, you'll be underpaid your whole life.]
 
 [CHAPTER: The tacos]
 [CAM: WES MS]
 WES: And you've got a report. Friday you said you'd tell us whether you made a speech.
 [CAM: JON MS]
-JONATHON: So, the tacos. I said I'd bring breakfast to the shop Labor Day, because half our techs were on call, because nobody's air conditioner knows it's a holiday. Six o'clock. Two big pans. And I'd promised myself, no speech. I'd stand by the door and shake every man's hand and say his name. Which I did. I'd had to look up a few names.
+JONATHON: So, the tacos. I said I'd bring breakfast to the shop Labor Day, because half our techs were on call, and heat doesn't take holidays off. Six o'clock. Two big pans. And I'd promised myself, no speech. I'd plant myself at the door, shake every hand, and say every name. Which I did. I'd had to look up a few names.
 [CAM: JON CU]
 JONATHON: And I still got one wrong. A tech who's been with us four years. I said his name the way it's spelled, and it isn't said the way it's spelled. And he shook my hand anyway and said, "Close, boss." Four years. I've signed his checks for four years and I couldn't say his name at the door.
 [CAM: WES CU]
@@ -81,7 +81,7 @@ JONATHON: Because at the end, one of the younger guys, as a joke, started clappi
 [CAM: WES MS]
 WES: So you made a speech, and it was two words long.
 [CAM: JON MS]
-JONATHON: Two words and some clapping. And then I looked around that room. Those men had been in attics all summer. A hundred and thirty-eight degrees. Old ladies sitting in their cars. And in all my years at that company, I've never once seen anybody clap for one of them. Not a customer. Not me. Nobody claps for a capacitor. And the guy who drove to the taqueria got a round of applause. That's backwards.
+JONATHON: Two words and some clapping. And then I looked around that room. Those men had been in attics all summer, a hundred and thirty-some degrees up there. Old ladies sitting in their cars. And in all my years at that company, I've never once seen anybody clap for one of them. Not a customer. Not me. Nobody claps for a capacitor. And the guy who drove to the taqueria got a round of applause. That's backwards.
 [CAM: WES CU]
 WES: Where was your senior tech?
 [CAM: JON CU]
@@ -104,7 +104,7 @@ WES: And at five o'clock he said, "Is this a thing now?" And I said, "I think it
 [CAM: JON CU]
 JONATHON: And this morning's the first treatment for your wife's friend. You said you're driving. You're going straight from this table to her house?
 [CAM: WES MS]
-WES: Straight from here. Her first one's today. I'm the driver, and my wife's the one who sits with her. I'm going to sit in the waiting room with a magazine and not say anything wise. That's my whole job today.
+WES: Straight from here. Her first one's today. I'm the driver, and my wife's the one who sits with her. My plan is the waiting room, a magazine, and not saying anything wise. That's my whole job today.
 
 [CHAPTER: Who catches the baby]
 [CAM: JON MS]
@@ -122,7 +122,7 @@ JONATHON: Because that's who you're supposed to thank. And here's what got me, t
 [CAM: WES MS]
 WES: What are you going to do with that?
 [CAM: JON CU]
-JONATHON: Next Tuesday's a start. Three hours of the nurse part, by myself. And I'd like to stop walking in at the end and taking the picture. That's about as far as I've gotten, and I'm not going to pretend I've gotten further.
+JONATHON: Next Tuesday's a start. Three hours of the nurse part, by myself. And I'd like to stop walking in at the end and taking the picture. That's honestly as far as I've gotten.
 [CAM: WES CU]
 WES: My wife's been the nurse at our house since the first baby, and I've been the doctor at most of the big days. The first day of school, the first truck, the graduations. I show up for the twenty minutes with the camera. She was there for the ten hours before. Most wives are. And most of them don't get the card either.
 [TEXT: The doctor catches the baby. The nurse was there all night.]
@@ -197,7 +197,7 @@ WES: We might not. But we both land on Him watching the box.
 
 [PLUG: BOOK]
 [CAM: WES MS]
-WES: Chapter thirty-three of my book is this one, What You Are Building When Nobody Claps. It's got a part about what a man needs the day after the big moment, when the clapping's over. The book is Steadfast Men, and it's at walksteadfast.com.
+WES: Chapter thirty-three of my book covers this, and it's called What You Are Building When Nobody Claps. It's got a part about what a man needs the day after the big moment, when the clapping's over. You'll find Steadfast Men at walksteadfast.com.
 
 [SUB-MID]
 [LOWER THIRD: Subscribe · New episodes Tuesday and Friday]
@@ -206,9 +206,9 @@ WES: If you want to keep going down this road with us, subscribe. Nobody's going
 
 [CHAPTER: Three hundred mornings]
 [CAM: WES MS]
-WES: I want to tell you about a clap that came late, because it happens sometimes, and I think it's dangerous if you build for it.
+WES: Here's a clap that came late, because it happens sometimes, and I think it's dangerous if you build for it.
 [CAM: JON MS]
-JONATHON: A clap that came late. I didn't know that was a kind of clap. Go on.
+JONATHON: A clap that came late. Never heard of one of those. Go on.
 [CAM: WES CU]
 WES: When my oldest boy played high school football, August practice started at six in the morning, before the heat. Three summers. And two boys from down the road played too. Their dad worked nights at the plant and their mother didn't drive. So every morning at five-thirty, I'd pull up at their house and honk once, and they'd come out with their cleats in their hands and half asleep, and I'd drive the three of them to the field.
 [CAM: JON MS]
@@ -221,7 +221,7 @@ WES: And in July, at the feed store, a young man walks up to me. Big. Short hair
 [CAM: JON CU]
 JONATHON: And what does a man say back to that? Because I'd have gotten it wrong. I'd have made a speech about it.
 [CAM: WES MS]
-WES: I didn't know what to do with it. I mumbled something. I said, "Well, you were on the way." He wasn't on the way. And I drove home and sat in the truck in the driveway for a while.
+WES: I had no idea what to say back. I mumbled something. I said, "Well, you were on the way." He wasn't on the way. And I drove home and sat in the truck in the driveway for a while.
 [CAM: WES CU]
 WES: And I'll tell you what I thought about, sitting in that driveway. Every one of those mornings, my wife was up before me. She wrapped three sausage biscuits in foil and set them on the dash, so those boys would eat something before practice. Three Augusts. And the young man thanked me at the feed store. He didn't know about the biscuits. He just knew there was always breakfast in the truck.
 [CAM: JON MS]
@@ -281,7 +281,7 @@ WES: What did the board give you that the house didn't?
 [CAM: JON MS]
 JONATHON: A number every Friday that said I was good. A baby doesn't do that. A baby doesn't ever tell you you're winning. A tired wife at two in the morning doesn't hand you a plaque. So I kept going back to the room with the board, and I told myself it was for the family. Some of it was. A lot of it was the board.
 [CAM: WES CU]
-WES: There was a man at the Thursday breakfast years ago, before you came. A supervisor at the plant. Everybody at that plant said he was the best they had. Thirty-some years. They'd call him at night, on Sundays, on vacation, and he always answered. And at home he was the one who was never home. His kids called him by his first name for a while, as a joke, and it wasn't a joke.
+WES: Years ago, before you came, a plant supervisor sat at our Thursday breakfast. Everybody at that plant said he was the best they had. Thirty-some years. They'd call him at night, on Sundays, on vacation, and he always answered. And at home he was the one who was never home. His kids called him by his first name for a while, as a joke, and it wasn't a joke.
 [CAM: JON MS]
 JONATHON: I can feel where this one's going, and I don't love it. What happened when he retired?
 [CAM: WES MS]
@@ -302,7 +302,7 @@ WES: You know him. Maybe you are him. He does the dishes, but loud. He takes out
 [CAM: JON MS]
 JONATHON: I'm sitting here trying to remember whether I've mentioned the temperature at supper after mowing. I have. Every time. I give the number. Go on.
 [CAM: WES MS]
-WES: I was a dish sigher for years. I'd stand at that sink at nine o'clock and make sure she could hear every pan. And one night she came in, and she didn't say anything. She just took the towel off my shoulder and started drying. And I said, "You don't have to do that." And she said, "Then quit asking me to." I hadn't asked her anything. I'd been sighing. She'd heard every one of them as a question.
+WES: I was a dish sigher for years. I'd stand at that sink at nine o'clock and make sure she could hear every pan. And one night she came in, and she didn't say anything. She just took the towel off my shoulder and started drying. And I said, "You don't have to do that." And she said, "Then quit asking me to." I hadn't asked her anything. I'd been sighing. She'd taken each sigh as a question.
 [CAM: JON CU]
 JONATHON: How long ago was that? Because you tell it like it was last month, and I've never once heard you sigh at a sink.
 [CAM: WES CU]
@@ -446,20 +446,20 @@ Chapters
 00:00 Cold open
 00:11 Intro
 00:41 Pull up a chair
-02:39 The tacos
-08:12 Who catches the baby
-11:12 Mr. Abernathy's question
-14:54 The Word
-20:13 Three hundred mornings
-25:42 The gold star
-28:16 The room where somebody claps
-31:33 The loud sigh
-34:56 Giving the clap
-37:56 Pushback
-43:31 Going first
-44:44 The challenge
-46:14 Carry this
-46:23 Outro
+02:38 The tacos
+08:10 Who catches the baby
+11:07 Mr. Abernathy's question
+14:49 The Word
+20:08 Three hundred mornings
+25:33 The gold star
+28:07 The room where somebody claps
+31:23 The loud sigh
+34:45 Giving the clap
+37:44 Pushback
+43:19 Going first
+44:32 The challenge
+46:03 Carry this
+46:11 Outro
 
 Scripture: 1 Corinthians 15:58 (NIV)
 

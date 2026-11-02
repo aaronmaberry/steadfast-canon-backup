@@ -114,7 +114,7 @@ JONATHON: And for that young man, sending you a question at all is about the sam
 
 [CHAPTER: From the table]
 [CAM: WES MS]
-WES: From the table. This one's from the young man who works nights at the warehouse and just started singing lead for Merle. He texted me Thursday night, and he said I could read it here. No capital letters, as usual.
+WES: From the table. It's the young man who works nights at the warehouse and just started singing lead for Merle. He texted me Thursday night and gave me the go-ahead to read it here. No capital letters, as usual.
 [CAM: WES CU]
 WES: "saw you in the back. thanks for coming. question if you want it. how do you keep going when nobody notices. like nights. nobody at the warehouse knows my name except the forklift guy. grandma notices but she's 84 and she thinks i'm still in high school. not complaining. just asking."
 [pause 1s]
@@ -163,7 +163,7 @@ JONATHON: I'm going to need you to say that one again to me around Wednesday. Th
 [CHAPTER: Tool on the table]
 [CAM: WIDE]
 [TEXT: Tool on the table. The secret list.]
-JONATHON: Tool on the table. The secret list. And I'm going to tell you up front, this tool can go wrong, and we'll tell you how.
+JONATHON: Tool on the table. The secret list. I'll say this up front. This tool can go wrong, and we'll show you how.
 [CAM: JON MS]
 JONATHON: Here's what it is. A small notebook, or a note on your phone that nobody else ever opens. Every day, you write one line. One thing you did that day for somebody else that nobody saw. That's it. One line. "Made the coffee at work before anybody got there." "Picked up Theo's shoes." "Drove her friend."
 [CAM: WES MS]
@@ -172,8 +172,10 @@ WES: And then Sunday night, you read the week back. Not to yourself. To God. Out
 JONATHON: Why it helps. On the nights you feel invisible, you've got proof you weren't wasting your life. Not proof for anybody else. Proof for you, on a bad Tuesday, that the hours went somewhere. A man on nights starts thinking he's nothing. The list says otherwise.
 [CAM: WES MS]
 WES: I've kept names on the back of my index card for years. Men I pray for. This goes in a little notebook instead, but it's the other half of the same thing. Them on the card, me in the notebook, and all of it read to the same God. I started mine Tuesday night, and I didn't wait for Sunday. Thursday night I read three lines out loud to the ceiling and felt foolish. By the third one I didn't.
+[CAM: JON MS]
+JONATHON: And now tell them how it goes wrong, because I already found out the hard way, and I'm about to confess it.
 [CAM: WES CU]
-WES: And here's how it goes wrong. It turns into a ledger. You start writing things down so you can feel good about how much you do. Or worse, so you can pull it out in a fight. "Do you know how many times I've done the dishes this month?" If that ever happens, the list has stopped being an offering and started being a bill. Throw it away. Start a new one, or quit.
+WES: Here's how it goes wrong. It turns into a ledger. You start writing things down so you can feel good about how much you do. Or worse, so you can pull it out in a fight. "Do you know how many times I've done the dishes this month?" If that ever happens, the list has stopped being an offering and started being a bill. Throw it away. Start a new one, or quit.
 [CAM: JON CU]
 JONATHON: Rule one, nobody else ever sees it. Not your wife, not your buddy, not your small group. The second it's shown to anybody, it's not secret, and it's not for God anymore.
 [CAM: WES CU]
@@ -185,7 +187,7 @@ WES: There's a man at work who fixes the paper jam in the big copier every time,
 [CAM: JON MS]
 JONATHON: Rule three, keep it short. One line a day. If you're writing paragraphs, you're writing a speech.
 [CAM: JON CU]
-JONATHON: And I'll tell you how it went wrong for me in about a day. I started one Wednesday, after the custodian. First line, I wrote, "The sink." And then I sat there and realized I'd done the sink Tuesday night hoping Dani would walk in and see it. She didn't. So I'd written it down to get the credit somewhere. That's not a secret list. That's a receipt. I erased it. Thursday's line was better. I'm not telling you what it was.
+JONATHON: Mine went wrong in about a day. I started one Wednesday, after the custodian. First line, I wrote, "The sink." And then I sat there and realized I'd done the sink Tuesday night hoping Dani would walk in and see it. She didn't. So I'd written it down to get the credit somewhere. That's not a secret list. That's a receipt. I erased it. Thursday's line was better. I'm not telling you what it was.
 [CAM: WES MS]
 WES: Good.
 [CAM: JON MS]
@@ -199,7 +201,7 @@ WES: Divorced dads, the list is for the days you're not with your kids. The chil
 [CAM: JON MS]
 JONATHON: And married guys with little kids, I'll say this one to myself. Most of your list is going to be stuff that's gone by Thursday. The lunch got eaten. The shoes got lost again. The bath water went down the drain. That's what makes it feel like nothing. But Ruby's going to be twenty-five someday, and she won't remember one lunch. She'll remember that there was always a lunch. The list is how you see the always while you're still in the middle of it.
 [CAM: JON CU]
-JONATHON: And if the list keeps coming up empty, if you can't think of one thing all week, that's not proof you're worthless. It might be proof you're worn down to nothing, and that's worth telling somebody. If it's the kind of dark that scares you, call or text 988.
+JONATHON: And if the list keeps coming up empty, if a whole stretch of days goes by without one line, that's not proof you're worthless. It might be proof you're worn down to nothing, and that's worth telling somebody. If it's the kind of dark that scares you, call or text 988.
 [TEXT: An offering, not a bill.]
 
 [CHAPTER: Carry this]
@@ -243,8 +245,8 @@ Chapters
 00:38 Check the box
 08:42 From the table
 15:37 Tool on the table
-21:44 Carry this
-21:53 Outro
+21:49 Carry this
+21:57 Outro
 
 Scripture: Psalm 139:3 (NIV)
 
