@@ -1,3 +1,9 @@
+2026-10-29 ~7:10 AM CT — daily 3-target backup.
+- Local: /workspace/backups/steadfast-canon/2026-10-29; changed=8 removed=0 quarantined=0 training_files=66 audio_changed=0. Prune cutoff 2026-10-26, 0 items.
+- Origin: aaron-maberry/tmp-1571ddf978c2e3c0 main — cloud agent bc-84fa7ddb launched (extract full pack, no deletions). SHA: PENDING.
+- GitHub PRIVATE aaronmaberry/steadfast-canon-backup main SHA 50cf6fc656343873906b799f3eb8fbbb1515fa21 (8 files, one commit via gh git-data API, no clone). Prior 4a06b18c. Public aaronmaberry/steadfast untouched.
+- Drive: steadfast-canon-2026-10-29.tgz id 1_ZG7trGbDN8rw9VEEH1Gx2WCzFrUmq5D in Steadfast Men/Backups 1IO1LcXoeTK3PuuuGGOK4LgM560U9qMpM. Expired helper named none; nothing trashed. Live: 10-26, 10-27, 10-28, 10-29.
+
 2026-10-28 ~7:10 AM CT — daily 3-target backup.
 - Local: /workspace/backups/steadfast-canon/2026-10-28; changed=1 (this log) removed=0 quarantined=0 training_files=66 audio_changed=0. Prune cutoff 2026-10-25, 9 items, 0.02GB freed.
 - Origin: aaron-maberry/tmp-1571ddf978c2e3c0 main — cloud agent bc-8e13c3ed launched (extract full pack, no deletions; also covers 10-27 whose bc-9a09ea82 SHA was never stamped). SHA: PENDING.
@@ -122,3 +128,4 @@
 2026-10-01 08:55 CT — 3-target routine set up (see BACKUP.md "Daily routine"). Script tools/backup_daily.py|sh. Sanitized lean pack rebuilt (1720 files, 5.8MB; home address/account numbers redacted; .studio-env.sh excluded). Drive: steadfast-canon-2026-10-01.tgz id 15VMMyP_OHQrXxpKx6Y3-KDHTm1qQ6WbS in Steadfast Men/Backups 1IO1LcXoeTK3PuuuGGOK4LgM560U9qMpM. GitHub PRIVATE aaronmaberry/steadfast-canon-backup seeded (7e785d4 → 8f25b06 → c52ca6c, core docs only). Local prune cutoff 2026-09-28: 33 items, 11.7GB freed. steadfast-full/2026-09-21 held to 2026-10-04.
 
 2026-10-26 ~9:24 AM CT — re-run after fix. /workspace/training-ep01 was archived to Drive and removed 2026-10-23, so the 10-24 and 10-26 (09:07) builds silently had 0 training files (66 lean paths dropped). Restored the tree from the 10-23 snapshot to /workspace/artifacts/training/training-ep01-restored-2026-10-23 and repointed EXTRA_SRCS/EXTRA_FILES/AUDIO_SRCS (originals saved as tools/backup_daily.{sh,py}.pre-2026-10-26). Added a WARNING for missing extra sources. Build: 1810 files, lean 1316, training_files=66, quarantined=0. Drive: steadfast-canon-2026-10-26.tgz id 1aYx4tq7u_1PaOxEGhof01hYvtn_3KSG5 (sha verified, 66 training-ep01 entries). Nothing trashed on Drive. Origin/GitHub/Notion not pushed by this run.
+2026-10-29 Origin commit confirmed: cd59ffb669ff1b0655f496a83d326f2a583580bd on main of aaron-maberry/tmp-1571ddf978c2e3c0 (bc-84fa7ddb), 8 files.
