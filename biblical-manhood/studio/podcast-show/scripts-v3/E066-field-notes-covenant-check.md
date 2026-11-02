@@ -65,13 +65,13 @@ WES: And did you tell me everything?
 [CAM: JON CU]
 JONATHON: No. Not till Thursday. Tuesday night I went out to the truck to put the phone to bed, and I sat down in the driver's seat in the dark garage, and I stayed there about twenty minutes with the phone in my hand. Engine off. Door shut. I wasn't looking at anything I shouldn't. Scores. A boat-restoration video. The weather. But I was hiding. In my own garage. From my own wife, who was asleep forty feet away.
 [CAM: JON MS]
-JONATHON: And I knew that feeling. That's the feeling from when I was nineteen. Same garage feeling, different garage. The content was better. The posture was the same. A man in a dark place with a screen, and his ears listening for footsteps.
+JONATHON: And I knew that feeling. That's the feeling from when I was nineteen. Different garage. The content was better. The posture was the same. A man in a dark place with a screen, and his ears listening for footsteps.
 [CAM: WES CU]
 WES: When did you know?
 [CAM: JON MS]
 JONATHON: About minute fifteen. The dome light had gone off a long time before, and I realized I'd been sitting real still so the motion light wouldn't come on. I was hiding from a light bulb. That's when I got out.
 [CAM: JON CU]
-JONATHON: So Thursday morning I told Dani. Before work, at the counter, while she was eating cereal after a shift. I said, "I sat in the truck Tuesday night for twenty minutes so I could scroll where you couldn't see me." And she said, "Were you looking at anything?" I said, "No. That's not the point." And she said, "I know it's not the point. I'm asking anyway." Which is fair. And then I texted you.
+JONATHON: So Thursday morning I told Dani. Before work, at the counter, while she was eating cereal after a shift. I said, "I sat in the truck Tuesday night for twenty minutes so I could scroll where you couldn't see me." And she said, "Were you looking at anything?" I said, "No. That's not the point." And she said, "I know it's not the point. I'm asking anyway." And then I texted you.
 WES: Thursday, 7:20. "Truck Tuesday. 20 min. Nothing bad. Hiding though."
 [CAM: JON MS]
 JONATHON: That's the whole report. The phone slept in the truck. I sat with it once. I've told you both. It's not clean. It's whole. And whole is the only kind of report worth anything, because clean is usually a man leaving out Tuesday.
@@ -82,7 +82,7 @@ JONATHON: Thursday night, before she left for work. She had her bag on her shoul
 [TEXT: Not clean. Whole.]
 
 [CAM: JON MS]
-JONATHON: And one more, because I said I would. I asked Dani about the year after Theo. "Was there a night back then I should've done something different?" She didn't answer right away. She said, "Let me think." And I figured that meant never. And then Wednesday, while we were doing dishes, out of nowhere, she said, "You never once asked how I was. You asked how the baby was. You asked if I was sleeping. You never asked how I was." And she went on drying a pot.
+JONATHON: And one more, because I said I would. I asked Dani about the year after Theo. "Was there a night back then I should've done something different?" She said, "Let me think." And I figured that meant never. And then Wednesday, while we were doing dishes, out of nowhere, she said, "You never once asked how I was. You asked how the baby was. You asked if I was sleeping. You never asked how I was." And she went on drying a pot.
 [CAM: JON CU]
 JONATHON: And I stood there with my hands in the water, and I wanted to say, I was tired too. I was working. I did the bottles. All true. None of it the point. So I said, "How are you?" And she said, "Better than then." And she put the pot away. That's the one I'm carrying.
 [CAM: WES CU]
@@ -93,15 +93,15 @@ JONATHON: It's a generous answer. I'm going to keep asking it until it's a habit
 WES: Mine. I went to bed when she went to bed. Every night but Monday, and Monday she went at eight-thirty because she was worn out, and I came in at nine. I'll call that close.
 JONATHON: I'll allow it. And?
 [CAM: WES CU]
-WES: The first two nights she read, and I lay there. I didn't know what to do with myself. Years of falling asleep in a recliner, and I'd forgotten how to fall asleep lying next to somebody who's awake. I could hear her turn the pages. I counted the ceiling fan. And Wednesday she put the book down on her chest and talked. About her friend. About the scan. She said, "I keep thinking about her kids." Grown kids, and she still called them kids.
+WES: The first two nights she read, and I lay there. Years of falling asleep in a recliner, and I'd forgotten how to fall asleep lying next to somebody who's awake. I could hear her turn the pages. I counted the ceiling fan. And Wednesday she put the book down on her chest and talked. About her friend. About the scan. She said, "I keep thinking about her kids." Grown kids, and she still called them kids.
 [CAM: JON MS]
-JONATHON: Grown kids, and they're still the kids to her. What were you saying back while she talked?
+JONATHON: And what were you saying back to her the whole time she talked?
 [CAM: WES MS]
-WES: She talked about half an hour. I mostly said, "Yeah." And somewhere in there I realized she'd been saving that up. All of it. And in the recliner years, she'd have saved it up till she fell asleep, and then carried it into the next day, and I'd never have known it was there.
+WES: She talked about half an hour. I mostly said, "Yeah." And somewhere in there I realized she'd been saving that up. And in the recliner years, she'd have saved it up till she fell asleep, and then carried it into the next day, and I'd never have known it was there.
 [CAM: JON MS]
 JONATHON: That's the whole thing, right there. The bed isn't only about the bed.
 [CAM: WES CU]
-WES: It's where the day gets put down. And Thursday was the scan. I drove. She sat in the back with her friend. I went in this time. I didn't sit in the truck. Two and a half hours in those chairs that are bolted together in a row. Her friend's husband sat on the end and read the same page of a magazine the whole time. I didn't say much to him. I just sat close enough that he wasn't on the end by himself. They'll know Monday.
+WES: It's where the day gets put down. And Thursday was the scan. I drove. She sat in the back with her friend. I went in this time. I didn't sit in the truck. Two and a half hours in those bolted-together chairs. Her friend's husband sat on the end and read the same page of a magazine the whole time. I didn't say much to him. I just sat close enough that he wasn't on the end by himself. They'll know Monday.
 [CAM: JON CU]
 JONATHON: Any jokes to the nurses?
 WES: None. I made one to the man at the parking gate. He's not a nurse.
@@ -113,14 +113,14 @@ WES: "phone on the dresser now. across the room. alarm still works, i just have 
 [CAM: JON MS]
 JONATHON: That's the best single report we've had in months. "Neither of us knows what we're doing." That's every men's group in Texas.
 [CAM: WES CU]
-WES: I texted back, "That's how it starts." He sent a thumbs up. That's a long conversation for us. And for the man who just pulled in, Tuesday's challenge was to name how you've been treating the bed and keep it once like a covenant. If you did it, you know. If you didn't, there's no Friday deadline on keeping a promise. Jonathon, you asked Virgil.
+WES: I texted back, "That's how it starts." He sent a thumbs up. That's a long conversation for us. And if you didn't get to Tuesday's challenge, there's no Friday deadline on keeping a promise. Jonathon, you asked Virgil.
 [CAM: JON MS]
 JONATHON: I did. About Ruby and the screws. He said yes. The second Saturday of the month, with me there, and she holds the box and hands him what he asks for. Not the drill. The box. He was very clear about the drill. And tomorrow's the first one. She's already picked out her shoes. Work boots. Dani's old rain boots, actually, three sizes too big, that she's decided are work boots. I didn't argue.
 [TEXT: Close it. Come tell me.]
 
 [CHAPTER: From the table]
 [CAM: JON MS]
-JONATHON: From the table. This one's from Austin. You remember Austin. He's got a ten-year-old and a nine-year-old, and his wife moved out in March. He has the kids Saturdays. He heard Tuesday in the truck, and he texted me, and he said I could read it. All lowercase, like always.
+JONATHON: From the table. This one's from Austin. He's got a ten-year-old and a nine-year-old, and his wife moved out in March. He has the kids Saturdays. He heard Tuesday in the truck, and he texted me, and he said I could read it. All lowercase, like always.
 [CAM: JON CU]
 JONATHON: "my daughter is 10. her mom and i agree on about nothing right now. how do we talk about this with our kids someday. and who goes first. her or me. because if i wait for us to agree on it she'll be 30."
 [CAM: WES MS]
@@ -131,8 +131,6 @@ WES: First thing, Austin. "Someday" is earlier than you think. Your daughter's t
 JONATHON: And I want to say something to Austin I happen to know, because he told me over lunch once. His dad never said a word to him about any of it. Not one. He learned it from an older cousin with a magazine behind a barn when he was eleven. And that's how a lot of us learned it. Behind something. Which teaches you the first lesson. This is a thing you do behind the barn.
 [CAM: JON CU]
 JONATHON: Mine was a kid on the bus with a phone. My father wasn't around to say anything, so the bus said it. So if you're a man whose dad said nothing, you're not behind. You're just starting from scratch, and scratch is honest. You get to be the first man in your family line who says it in the kitchen instead of behind the barn.
-[CAM: WES MS]
-WES: That's a good word for him.
 [CAM: JON MS]
 JONATHON: Practically, start with the stuff that doesn't make you sweat. Ruby's seven. We started with three things. Your body belongs to you. Nobody gets to touch you where your swimsuit goes, and nobody gets to ask you to keep a secret about your body. Not a teacher, not a relative, not anybody. And if anybody ever does, you tell me or Mom, and you will never, ever be in trouble for telling. Everything else gets built on that.
 [CAM: WES CU]
@@ -142,14 +140,14 @@ JONATHON: You said that like a man who learned it the hard way.
 [CAM: WES MS]
 WES: We got it wrong with our oldest boy. He was about ten. Found something on the family computer. He came and told me, which took courage I didn't see at the time, and I got loud. Not at him, exactly. At the computer, at whoever made it, at the whole world. But he was a kid, and a kid hears loud as loud. And he didn't bring me anything after that for years. I didn't connect those two things till he was grown.
 [CAM: JON CU]
-JONATHON: How did you finally put those two things together? Because I'm not sure I would have.
+JONATHON: So how did you finally put those two things together, years later?
 [CAM: WES CU]
 WES: He told me. He was about nineteen, and he said it like a weather report, and I sat there in the truck feeling about ten years late.
 WES: With the youngest, I'd learned. He came into the kitchen at about nine and said, "I saw something bad." And I made myself put the coffee down slow. I said, "Thank you for telling me. Sit down." That's all. Then we talked about it, short and plain, and I thanked him again. He's sixteen now. He still tells me things. Some of them I'd rather not know about a truck's transmission, but he tells me.
 [CAM: JON MS]
 JONATHON: What about when Austin's girl is older? I've only got the one daughter, and that's the talk I'm dreading.
 [CAM: WES MS]
-WES: For Austin's daughter in particular. When she's a little older, thirteen or so, you can tell her that men fight for their eyes. No details. Never details. Just that it's a fight every man has, and you don't fight it alone, and you have a man you tell. A girl needs to hear that from her dad. It changes what she'll put up with from a boy later. She'll know a good man is one who fights it on purpose.
+WES: When she's a little older, thirteen or so, you can tell her that men fight for their eyes. No details. Never details. Just that it's a fight every man has, and you don't fight it alone, and you have a man you tell. A girl needs to hear that from her dad. It changes what she'll put up with from a boy later. She'll know a good man is one who fights it on purpose.
 [CAM: JON CU]
 JONATHON: And his son needs it too. A nine-year-old boy needs to hear his dad say, "I fight this too." Otherwise he thinks he's the only one, and that's the loneliest kid in the house.
 [CAM: JON CU]
@@ -169,7 +167,7 @@ JONATHON: Here's the verse I'd send him. It's a question with an answer in it.
 [CARD: Psalm 119:9]
 JONATHON: "How can a young person stay on the path of purity? By living according to your word."
 [CAM: JON MS]
-JONATHON: It's a question. That's how kids learn it. They ask, and somebody answers. And the answer isn't a rule list. It's, live by the Word. Which means somebody has to show them what that looks like on a Tuesday. Austin, that's you. In your house, on your Saturdays, in the truck on the way to soccer. You're the path she's watching.
+JONATHON: That's how kids learn it. They ask, and somebody answers. And the answer isn't a rule list. It's, live by the Word. Which means somebody has to show them what that looks like on a Tuesday. Austin, that's you. In your house, on your Saturdays, in the truck on the way to soccer. You're the path she's watching.
 [CAM: WES CU]
 WES: And notice who's asking in that psalm. It's a grown man, and he's talking to God. The whole long psalm is a man saying, "I want this, and I need help keeping it." He's not a kid getting scolded. He's a man who knows he can't keep himself. That's the posture you want your kids to see in you. Not a man who's got it handled. A man who's asking.
 [CAM: JON MS]
@@ -181,11 +179,11 @@ JONATHON: That's freeing for a dad. I don't have to be the finished product. I j
 [TEXT: Tool on the table. Accountability software, honestly reviewed.]
 WES: Tool on the table. Accountability software. And we're going to review it honestly, because a lot of men install it and think they're done, and a lot of men refuse it because they think it's for losers. Both of those men are wrong.
 [CAM: JON MS]
-JONATHON: I used it for about two years. I'll tell you what it is. It's an app that keeps track of what you look at on your phone or your computer and sends a report to somebody you pick. Some of them block things too. That's it. We're not naming brands. There are several. Pick one your pastor or a counselor trusts, and pick it in daylight, not at midnight after a bad night.
+JONATHON: I used it for about two years. I'll tell you what it is. It's an app that keeps track of what you look at on your phone or your computer and sends a report to somebody you pick. Some of them block things too. We're not naming brands. There are several. Pick one your pastor or a counselor trusts, and pick it in daylight, not at midnight after a bad night.
 [CAM: JON CU]
 JONATHON: What it does well. It makes the dark a little less dark. When you know somebody's going to see the report, there's a half second where you think, "Do I want to explain this on Thursday?" And for a lot of guys, that half second is the whole difference. It bought me time. Time to learn the other stuff. The man, the truth, the habits, the prayer that isn't a deal.
 [CAM: WES MS]
-WES: What it doesn't do. It doesn't change your heart. It can't. And it can be gotten around. Every man who's used one knows that. A sixteen-year-old can beat it before supper. If you're counting on a piece of software to keep you, you're going to lose. It's a fence. It's not the farmer.
+WES: What it doesn't do. It doesn't change your heart. It can't. And it can be gotten around. A sixteen-year-old can beat it before supper. If you're counting on a piece of software to keep you, you're going to lose. It's a fence. It's not the farmer.
 [CAM: JON MS]
 JONATHON: And who gets the report matters more than which app. My first one went to a guy from church who never opened it. Six months. Never opened it once. That's not accountability. That's a mailing list. Then it went to Wes, and Wes opened every single one.
 [CAM: WES CU]
@@ -210,13 +208,13 @@ JONATHON: Dani agreed with that, for what it's worth. She said, "I don't want to
 [CAM: WES MS]
 WES: And here's mine, honestly. I don't use one. My trouble was never that kind of thing. My trouble was a weather radar and a man in Ohio restoring a tractor. I don't think software was what I needed. I needed my wife to say, "You're doing the fog again."
 [CAM: JON CU]
-JONATHON: And I'm going to push on that a little, because you know I will. Every man who doesn't use one says his problem was never that kind of thing. I said it. For years. "My problem's not really that." You're probably telling the truth. But a man who's sure he doesn't need a fence is exactly the man who's never walked his own fence line at night.
+JONATHON: I'm going to push on that a little. Every man who doesn't use one says his problem was never that kind of thing. I said it. For years. "My problem's not really that." You're probably telling the truth. But a man who's sure he doesn't need a fence is exactly the man who's never walked his own fence line at night.
 [CAM: WES MS]
 WES: That's fair. And it's why I'd never tell a man he's fine without one. What I'd tell him is, be honest about what your dark actually is. Mine was the fog. My wife reads that report every night at supper, and she's never missed one. If your dark is a screen, and it's happened more than once, try it for a season, with a man who'll actually read it.
 [CAM: JON MS]
 JONATHON: I'll take that. "Be honest about what your dark actually is." I'm putting that on the whiteboard.
 [CAM: WES CU]
-WES: For your kids' devices, use the filters. Every phone and tablet has settings now. Turn them on. Ask somebody at church who knows how, if you don't. But don't think the settings are the talk. The settings buy you time to have the talk. Same as for us.
+WES: For your kids' devices, use the filters. Every phone and tablet has settings now. Turn them on. But don't think the settings are the talk. The settings buy you time to have the talk. Same as for us.
 [CAM: JON CU]
 JONATHON: Ruby's tablet has more locks on it than our front door, and she still asked me last month what a word meant that she heard at recess.
 [CAM: WES MS]
@@ -264,10 +262,10 @@ Chapters
 00:00 Cold open
 00:10 Intro
 00:33 Check the box
-08:53 From the table
-17:11 Tool on the table
-24:28 Carry this
-24:36 Outro
+08:30 From the table
+16:39 Tool on the table
+23:46 Carry this
+23:54 Outro
 
 Scripture: Psalm 119:9 (NIV)
 

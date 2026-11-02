@@ -49,3 +49,8 @@ SHOW-BIBLE "the single check" gives each Field Notes one text from a younger man
 - **E071, Jonathon's age.** v1 had "I'm thirty-seven." He is 36 until his February birthday (SHOW-BIBLE, the facts), so the line is now "thirty-six."
 - **Fact tics.** One recurring "twenty-seven years" count was cut, and a line that put Wes's father in his "seventies" now says "late" in life, so it can't contradict his age in the host file.
 - **Wes's index card.** Any mention of the card respects canon: the back already holds his prayer names and his heading. E072's new secret list is a separate small notebook kept beside the card.
+
+### Narrow fixes after the batch
+
+- **E066, length.** About 105 spoken words of filler cut to bring it from 25.1 to 24.4 minutes at 150 wpm (24:15 by `_build/timing.py`). Cuts are repeats and throwaway lines only: the second recap of Tuesday's challenge (the "no Friday deadline" line stays), "Same garage feeling," "Which is fair," Jonathon echoing "Grown kids," Wes's "That's a good word for him," "For Austin's daughter in particular," and similar. Chapter times regenerated.
+- **E070, Wes runs.** Two Jonathon lines added, "Read it how he wrote it. I'm ready." before the oldest son's text, and "Your dad had the fence. He's got the mailbox. What do you tell him?" after the fence story. No new facts. One Jonathon filler sentence cut ("I've been waiting since Tuesday to hear about it.") to keep his share under 50%. Longest Wes run 134 to 106. Chapter times regenerated.

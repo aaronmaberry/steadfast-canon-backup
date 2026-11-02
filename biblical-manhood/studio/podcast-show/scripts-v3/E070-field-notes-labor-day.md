@@ -56,7 +56,7 @@ WES: Field Notes. Labor Day.
 [CAM: WIDE]
 WES: Check the box. Tuesday was, name what your work is for, in a whole sentence. Not "a paycheck." Who's on the other end of it. Then do one piece of the job like they're standing there watching. And ask one man at work how he's doing, and ask twice.
 [CAM: JON MS]
-JONATHON: And you opened your mouth about a weld before the music even started, so you're going first. I've been waiting since Tuesday to hear about it.
+JONATHON: And you opened your mouth about a weld before the music even started, so you're going first.
 [CAM: WES MS]
 WES: Saturday, at the feed store, I asked my youngest to show me something he was proud of. He's been learning since July from the man who runs the back of the store. And he took me around behind, and there's a gate. A cattle gate, for the man's own place. And my son did the hinges. And he pointed at one bead, one line of weld, and said, "That one."
 [CAM: JON MS]
@@ -89,6 +89,8 @@ WES: And the attic. You said on Tuesday you'd tell us whether you fit in an atti
 JONATHON: I rode with the senior tech again Wednesday morning, first of September. I fit. Barely. It was only ninety-eight up there, which he called a cool morning. I held the flashlight and kept my mouth shut. I handed him the right wrench once, out of about nine tries. And tacos are Monday at six. I'll tell you if I made a speech.
 [CAM: WES MS]
 WES: Now the single check. Jonathon's nephew gets the time off. My oldest did it. He's twenty-one, the electrical apprentice, and he texted me Wednesday night. He said I could read it, and he said to read it the way he wrote it, so you're getting no punctuation and no capital letters.
+[CAM: JON MS]
+JONATHON: Read it how he wrote it. I'm ready.
 [CAM: WES CU]
 WES: "my work is for whoever flips the switch and doesnt think about it. thats the whole point of doing it right. nobody thinks about it. asked a guy on my crew twice. first time fine. second time he said his truck got repoed and hes been getting rides from his cousin who works nights so hes been sleeping at the shop some. told the journeyman. we're figuring out rides. i drove him home. 40 min the wrong way. dont tell mom how late."
 [CAM: JON MS]
@@ -119,6 +121,8 @@ JONATHON: From the table. And this one came out of the attic. The senior tech, s
 JONATHON: He said, "I've got Labor Day off for the first time in six years. My wife's happy about it. I'm not. I don't know how to sit down. Last time I had a day off, I rebuilt the mailbox. It wasn't broken. How do you rest without feeling lazy?"
 [CAM: WES MS]
 WES: I'd like to shake his hand. That's every man I grew up around. My dad didn't know how to sit down either. On a Sunday afternoon he'd sit in the chair for about ten minutes, and then you'd hear the screen door, and he'd be out checking a fence that didn't need checking.
+[CAM: JON MS]
+JONATHON: Your dad had the fence. He's got the mailbox. What do you tell him?
 [CAM: WES CU]
 WES: So here's the first thing. Rest isn't lazy. Lazy is not doing what you're supposed to do. And God told you to rest. So when you rest, you're doing what you're supposed to do. A man who works seven days a week isn't more faithful than the one who stops. In a way he's less. He's skipping one of the things God told him to do.
 [CAM: JON MS]
@@ -248,10 +252,10 @@ Chapters
 00:13 Intro
 00:37 Check the box
 09:31 From the table
-14:53 Tool on the table
-20:22 What stuck
-23:28 Carry this
-23:34 Outro
+14:58 Tool on the table
+20:27 What stuck
+23:34 Carry this
+23:40 Outro
 
 Scripture: Exodus 34:21 (NIV)
 
