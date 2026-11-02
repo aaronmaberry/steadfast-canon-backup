@@ -15,12 +15,12 @@ Walk Steadfast · Field Notes · script v3 (batch E097-E104). Internal. Season 9
 | Standing outro | Field Notes F4, reworded for the year's last episode. |
 | Wardrobe | Wes: heather-gray crewneck over a light-blue oxford collar. Jonathon: black crewneck over a gray tee collar. |
 | Props | Standard set, the white mug. One 3x5 card with two lines in Jonathon's handwriting (end insert). |
-| New continuity | **Jonathon's miss:** wrote the move Tuesday night, didn't show anybody till Thursday, because he wanted to do it Monday first and show results. **Dani, when he asked if she'd have picked the same move:** two lines (see production notes); she takes the back step in February. **Wes's card:** Thu Jan 13, three o'clock, the nursing home, with the youngest. **His wife's move for him:** "Call your daughter." **The youngest, in the truck after welding:** "Are there cookies?" "They're dry." "I'll come." **Wes's daughter** heard Tuesday's episode and texted, "Heard it. Call me, Dad." He called; they talked forty minutes; he didn't explain. **The man in the truck (Wed Dec 29):** "Leon. Took you long enough." **Wes's oldest, single check:** he's telling the foreman Monday he wants to sit for his license in the fall. **Wes's last text of the year,** typed on air to Jonathon, a full sentence. **Wes's wife reads the last page first** ("so I can quit worrying and enjoy the middle"). **What's open going into 2028:** the friend's scan, Doug's garage door, Virgil's hardware-store ride, Mr. Abernathy's eye doctor, the youngest's choice. **The first challenge of 2028:** before Tuesday, do the first ten minutes of the thing you already know is yours. |
+| New continuity | **Jonathon's miss:** wrote the move Tuesday night, didn't show anybody till Thursday, because he wanted to do it Monday first and show results. **Dani, when he asked if she'd have picked the same move:** two lines (see production notes); she takes the back step in February. **Wes's card:** Thu Jan 13, three o'clock, the nursing home, with the youngest. **His wife's move for him:** "Call your daughter." **The youngest, in the truck after welding:** "Are there cookies?" "They're dry." "I'll come." **Wes's daughter** heard Tuesday's episode and texted, "Heard it. Call me, Dad." He called; they talked forty minutes; he didn't explain. **The man in the truck (Wed Dec 29):** "Leon. You could've asked in July." **Wes's oldest, single check:** he's telling the foreman Monday he wants to sit for his license in the fall. **Wes's last text of the year,** typed on air to Jonathon, a full sentence. **Wes's wife reads the last page first** ("so I can quit worrying and enjoy the middle"). **What's open going into 2028:** the friend's scan, Doug's garage door, Virgil's hardware-store ride, Lyle's mailbox post, the youngest's choice. **The first challenge of 2028:** before Tuesday, do the first ten minutes of the thing you already know is yours. |
 
 ## Title options
 
 1. What Sentence Are You Carrying Into 2028? | Field Notes Ep. 104
-2. "Took You Long Enough."
+2. "You Could've Asked in July."
 3. The One-Line Plan
 
 ## Thumbnail
@@ -37,7 +37,7 @@ WES: I asked him his name.
 [CAM: JON MS]
 JONATHON: The man in the truck? After five months? What did he say?
 [CAM: WES CU]
-WES: "Leon." (beat) "Took you long enough."
+WES: "Leon." (beat) "You could've asked in July."
 [STING 3s]
 
 [CHAPTER: Intro]
@@ -56,7 +56,7 @@ WES: Field Notes. New Year's Eve.
 [CAM: WIDE]
 JONATHON: Before we do anything else, I need to hear about her and the books. You've never told me that, and you put it in the open like it was nothing.
 [CAM: WES MS]
-WES: Every book she's ever read. She opens it, reads the last page, then goes back to the start. Thirty years. I asked her once why she'd ruin it. She said, "So I can quit worrying and enjoy the middle." I'll come back to that. Check the box. Tuesday was, write the next move, one sentence with a day on it, on paper, and show it to one man before Friday. You go first. You've got a miss on your face.
+WES: Every book she's ever read. She opens it, reads the last page, then goes back to the start. As long as I've known her. I asked her once why she'd ruin it. She said, "So I can quit worrying and enjoy the middle." I'll come back to that. Check the box. Tuesday was, write the next move, one sentence with a day on it, on paper, and show it to one man before Friday. You go first. You've got a miss on your face.
 [CAM: JON MS]
 JONATHON: I've got a miss on my whole body. I wrote it Tuesday night at the kitchen table, right after we recorded. "Monday, January third, ten after six, one verse and one sentence at this table." On an index card. And then I didn't show it to anybody. Not Tuesday. Not Wednesday.
 [CAM: WES CU]
@@ -87,7 +87,7 @@ WES: I called her at lunch. I'd planned what I'd say. I didn't say it. She picke
 [CAM: JON MS]
 JONATHON: And your youngest? Did you ask him in the truck the way you said? Radio on, then shut up?
 [CAM: WES MS]
-WES: Wednesday, after welding. Radio on. I said the whole thing, the date and the hymns and that I wanted him there. Then I shut up. And he looked out the window for about a mile. And he said, "Are there cookies?" And I said, "They're dry." And he said, "I'll come."
+WES: Wednesday, after welding. Radio on. I said the whole thing, the date and the hymns and that I wanted him there. Then I shut up. And he didn't say a word till the next stoplight. And he said, "Are there cookies?" And I said, "They're dry." And he said, "I'll come."
 [CAM: JON CU]
 JONATHON: "They're dry" sold him. You told a sixteen-year-old the truth about the cookies and he signed up. That's the whole year in one truck.
 [TEXT: "Are there cookies?" "They're dry." "I'll come."]
@@ -95,12 +95,12 @@ JONATHON: "They're dry" sold him. You told a sixteen-year-old the truth about th
 [CAM: JON MS]
 JONATHON: And Leon. You buried Leon in the cold open. Tell the whole thing.
 [CAM: WES CU]
-WES: Wednesday. Same lot, same truck. I knocked, he rolled the window down, and before I lost my nerve I said it, close to how I'd planned. Five months and I'd never asked, I was sorry, I'm Wes. And he looked at me for a second, and he said, "Leon." And then, "Took you long enough." And he moved his lunchbox off the passenger seat.
+WES: Wednesday. Same lot, same truck. I knocked, he rolled the window down, and before I lost my nerve I said it, close to how I'd planned. Five months and I'd never asked, I was sorry, I'm Wes. And he looked at me for a second, and he said, "Leon." And then, "You could've asked in July." And he moved his lunchbox off the passenger seat.
 [CAM: JON MS]
 JONATHON: He moved the lunchbox. You've been eating on the outside of that truck window since July, and he moved the lunchbox.
 [CAM: WES MS]
 WES: First time I've sat in the truck. We ate in there with the heater on. He told me he drove a delivery route for thirty years. That's all he told me. I didn't ask the next thing. Next Wednesday I'm bringing the coffee.
-[TEXT: "Took you long enough."]
+[TEXT: "You could've asked in July."]
 
 [CAM: WES MS]
 WES: Single check. I sent Tuesday's challenge to my oldest. Twenty-one, the electrician's apprentice. And he texted back Thursday morning, early, before his crew left the yard.
@@ -118,11 +118,11 @@ WES: It's the last Field Notes of the year, so here's the short review. We did t
 [CAM: JON MS]
 JONATHON: What's open, for me. Doug's garage door, which neither of us understands, and a ladder I'll have to borrow. Virgil's ride to the hardware store, some morning in January when his truck's still in the shop. My dad. That one's open, and I'm going to leave it open, and that's all I'm going to say.
 [CAM: WES CU]
-WES: Mine. My wife's friend has her scan in January. We'll know when we know. Mr. Abernathy's eye doctor on the eighteenth. My youngest still has to pick, welding or college, and I'm for him either way. And Leon. I don't know what's open with Leon. I just know the lunchbox moved.
+WES: Mine. My wife's friend has her scan in January. We'll know when we know. Lyle's mailbox post, after New Year's, with my dad's posthole digger. My youngest still has to pick, welding or college, and I'm for him either way. And Leon. I don't know what's open with Leon. I just know the lunchbox moved.
 [CAM: JON MS]
 JONATHON: And one thing I keep. The receipt. "Win the room" with the line through it. It's going back on the fridge after today, under the pizza magnet, next to the whiteboard. I want my kids to grow up looking at a sentence their dad quit living.
 [CAM: WES MS]
-WES: I keep Mr. Abernathy's question. Not the receipt. The question. "If He answered you tomorrow, what would you do Saturday?" I've carried it since 2019. I'll carry it into next year. He's left it with me all these years and never checked. That's why it works.
+WES: I keep Mr. Abernathy's question. Not the receipt, and not the mug, though I'm keeping the mug. The question. "If He answered you tomorrow, what would you do Saturday?" I've carried it since 2019. I'll carry it into next year. He left it with me and never once checked. He's been gone a long time, and it still works.
 [CAM: JON CU]
 JONATHON: And for the season. We started Advent asking what we were waiting for. I'll say what I learned in one line. Waiting on God looked a lot more like driving somewhere than sitting still.
 [CAM: WES CU]
@@ -265,14 +265,14 @@ What's one sentence you're carrying into 2028? Jonathon's mom asked it at his ki
 Chapters
 00:00 Cold open
 00:13 Intro
-00:38 Check the box
-07:13 What's still open
-09:12 From the table
-15:04 Tool on the table
-17:36 Last text
-18:49 The first challenge
-20:05 Carry this
-20:13 Outro
+00:39 Check the box
+07:16 What's still open
+09:22 From the table
+15:13 Tool on the table
+17:46 Last text
+18:58 The first challenge
+20:14 Carry this
+20:23 Outro
 
 Scripture: Revelation 21:5 (NIV)
 
@@ -342,6 +342,6 @@ Scripture quotations taken from The Holy Bible, New International Version®, NIV
 - **One verse.** Revelation 21:5, read whole, with its inner quotes in single quotation marks. No colon in the verse.
 - **988.** Present, for the man alone on New Year's Eve.
 - **"Since January."** Used here and in E103 only.
-- **Running limits.** Deadpan payoff: one ("Took you long enough."). One-word "Okay.": none. Kid-catches-dad: none. Knee or age beat: none. "Brother" as address: none. Show about itself: one ("I didn't apologize for being a podcast."). No eleven or twelve.
+- **Running limits.** Deadpan payoff: one ("You could've asked in July."). One-word "Okay.": none. Kid-catches-dad: none. Knee or age beat: none. "Brother" as address: none. Show about itself: one ("I didn't apologize for being a podcast."). No eleven or twelve.
 - **Assumptions (batch report).** Leon's name and his delivery route; Wes's wife reading the last page first and her line about it (from the open's fact, expanded); the daughter's text and the forty-minute call; the youngest's "Are there cookies?"; the oldest's license move; Dani's back step in February; Jonathon's mother's question and permission; the sentences "Ask the name" and "Sit on the step."
 - **Hand-off to 2028.** The E105 Field Notes (Jan 7, 2028) checks the first ten minutes, misses first. Wes texts Jonathon first on Thu Jan 6.

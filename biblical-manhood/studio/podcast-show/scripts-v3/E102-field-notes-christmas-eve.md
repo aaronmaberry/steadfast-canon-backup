@@ -15,7 +15,7 @@ Walk Steadfast · Field Notes · script v3 (batch E097-E104). Internal. Season 9
 | Standing outro | Field Notes F3, reworded. |
 | Wardrobe | Wes: navy cable-knit sweater, sleeves pushed up. Jonathon: oatmeal crewneck with a small chest pocket. |
 | Props | Standard set. A Bible open to Luke 2 with a strip of red ribbon for a bookmark (end insert). |
-| New continuity | **Jonathon's miss:** walked to the neighbor's door Monday evening, heard a dog and a TV, walked home with the tin; Ruby: "Why do you still have the cookies?" **Wednesday he knocked.** The neighbor didn't remember the lunch at all; he had a game on; Jonathon stayed for the fourth quarter; his name is Doug ("Nothing about him starts with an R."); Doug asked if Jonathon knows anybody who can look at a garage door opener. **Wes at prayer meeting (Wed Dec 22, 6:30):** his mother took his arm at the door ("I don't need it. I want them to see."); about fifteen people, decaf, no cookies; Ola: "Well, look who it is." Wes: "Yes, ma'am." **Lyle** (eighty-four, a retired lineman): "Your mother's had you on that list a long time. Don't make her take you off." Then asked whether Wes still has his dad's posthole digger. **Dani's Christmas service (Sun Dec 19), in her words:** two lines (see production notes). **Pancake's first Christmas:** one line, the bottom row of candy canes. **Jonathon bought Dani's present** (Wed); not named on air. **The nephew** went back to the Tuesday pickup game at his old church gym. **Christmas morning:** Wes feeds cattle with his brother at six (their first Christmas feeding together since Dad died; the brother asked, "You coming Christmas?"), then the gloves. **Wes's first Christmas Eve as a dad:** a candle, a written speech, the baby screaming, the speech finished to the candle. |
+| New continuity | **Jonathon's miss:** walked to the neighbor's door Monday evening, heard a dog and a TV, walked home with the tin; Ruby: "Why do you still have the cookies?" **Wednesday he knocked.** The neighbor didn't remember the lunch at all; he had a game on; Jonathon stayed for the fourth quarter; his name is Doug ("Nothing about him starts with an R."); Doug asked if Jonathon knows anybody who can look at a garage door opener. **Wes at prayer meeting (Wed Dec 22, 6:30):** his mother took his arm at the door ("I don't need it. I want them to see."); about fifteen people, decaf, no cookies; Ola: "Well, look who it is." Wes: "Yes, ma'am." **Lyle** (eighty-four, a retired rural mail carrier): "Your mother's had you on that list a long time. Don't make her take you off." Then asked whether Wes still has his dad's posthole digger. **Dani's Christmas service (Sun Dec 19), in her words:** two lines (see production notes). **Pancake's first Christmas:** one line, the bottom row of candy canes. **Jonathon bought Dani's present** (Wed); not named on air. **The nephew** went back to the Tuesday pickup game at his old church gym. **Christmas morning:** Wes feeds cattle with his brother at six (their first Christmas feeding together since Dad died; the brother asked, "You coming Christmas?"), then the gloves. **Wes's first Christmas Eve as a dad:** a candle, a written speech, the baby screaming, the speech finished to the candle. |
 
 ## Title options
 
@@ -105,11 +105,11 @@ WES: That's not bad. About fifteen people. Folding tables. Decaf. No cookies, by
 [CAM: JON CU]
 JONATHON: I'd like to know more about the air conditioner, professionally. What did she say was wrong with it?
 [CAM: WES MS]
-WES: I'm not telling you. You'll go over there with a ladder. Here's the part I wanted to tell you. After, an old man came over to me with his cup. Lyle. Eighty-four, retired lineman, worked with my dad a little a long time ago. And he said, "Your mother's had you on that list a long time. Don't make her take you off."
+WES: I'm not telling you. You'll go over there with a ladder. Here's the part I wanted to tell you. After, an old man came over to me with his cup. Lyle. Eighty-four, a retired rural mail carrier who delivered to my dad's place for years. And he said, "Your mother's had you on that list a long time. Don't make her take you off."
 [CAM: JON MS]
 JONATHON: You were on the list. The whole time you were gone, your name was on the sheet, and they were praying down to it every Wednesday.
 [CAM: WES CU]
-WES: Every Wednesday. Since about 2010, as near as I can figure. Fifteen people I'd quit on were praying for me by name in a room with decaf. And then Lyle said, in the same breath, "You still got your daddy's posthole digger?" Because he wants to put in a fence post for a mailbox. I said yes. He said, "Bring it Saturday." So I'm taking Lyle a posthole digger.
+WES: Every Wednesday. Since about 2010, as near as I can figure. Fifteen people I'd quit on were praying for me by name in a room with decaf. And then Lyle said, in the same breath, "You still got your daddy's posthole digger?" Because he wants to put in a fence post for a mailbox. I said yes. He said, "Bring it after New Year's." So I'm taking Lyle a posthole digger.
 [CAM: JON CU]
 JONATHON: So we both got recruited for a Saturday project by an older man on the same night. That's the most predictable thing that's ever happened on this show.
 [TEXT: "I don't need it. I want them to see."]
@@ -243,10 +243,10 @@ Chapters
 00:00 Cold open
 00:11 Intro
 00:35 Check the box
-10:48 From the table
-15:56 Tool on the table
-20:21 Carry this
-20:45 Outro
+10:49 From the table
+15:57 Tool on the table
+20:22 Carry this
+20:46 Outro
 
 Scripture: Luke 2:11 (NIV)
 

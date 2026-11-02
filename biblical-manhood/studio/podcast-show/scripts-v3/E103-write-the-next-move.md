@@ -15,7 +15,7 @@ Walk Steadfast · main episode · script v3 (batch E097-E104). Internal. Season 
 | Standing outro | Variant A, reworded. |
 | Wardrobe | Wes: forest-green flannel, sleeves rolled once. Jonathon: cream waffle henley. |
 | Props | Standard set, the white mug. Jonathon's feed-store receipt from E003 ("Win the room"), soft from the fridge. Two blank 3x5 index cards and a pen (end insert). |
-| New continuity | **Christmas:** Wes fed cattle with his brother at six; the gloves, the same line from his wife. Jonathon gave Dani a pair of good headphones for the drive home from nights. **Jonathon's father called Christmas afternoon at about four** (one line, no more). **The receipts read back:** Wes's "Pay the bills and don't make trouble" (Mr. Abernathy's diner receipt, still in Wes's Bible), his wife's "I'll get to it"; Jonathon's "Win the room" (Wes's feed-store receipt, on Jonathon's fridge under the pizza magnet since March, where Dani put it without a word), Dani's "Make sure everybody's okay"; the nephew's "Don't be cringe" (one line). **What the receipts say now:** Wes, "I got to it, mostly." Jonathon, the same handwriting with the room crossed out. **Mr. Abernathy at the diner, Mon Dec 27:** plainly ordinary; the price of toast went up; he wants a ride to the eye doctor Jan 18. **The ledger by the four marks** (see production notes). **Jonathon's names:** he learned names this year; Virgil's notebook has his name in it under "rail." **Next moves with a day:** Wes, Thu Jan 13, three o'clock, the nursing home back row, with his youngest. Jonathon, Mon Jan 3, 6:10 AM, the small version of the morning ten minutes (one verse, one sentence) at the kitchen table; Wes will text him Thursdays, "Did you do it?" **At the fence, Christmas morning:** Wes told his brother it was the best part of his Christmas; the brother said "Okay." and got another bale, then drove Wes back to his truck. **The June headings read back:** Jonathon's whiteboard kept, the back step skipped; Wes's "Love God out loud" (praying out loud with his wife since November: "It started. It's not a habit."), "keep the people" passing, "finish" unreadable yet. **The youngest at the barn** in October was the brother's idea. **What didn't change:** Wes still calls his daughter (25) only when her mother tells him to; Jonathon still wants the room, quieter. **The man in the truck:** Wes doesn't know his name after five months; he'll ask Wednesday. |
+| New continuity | **Christmas:** Wes fed cattle with his brother at six; the gloves, the same line from his wife. Jonathon gave Dani a pair of good headphones for the drive home from nights. **Jonathon's father called Christmas afternoon at about four** (one line, no more). **The receipts read back:** Wes's "Pay the bills and don't make trouble" (Mr. Abernathy's diner receipt, still in Wes's Bible), his wife's "I'll get to it"; Jonathon's "Win the room" (Wes's feed-store receipt, on Jonathon's fridge under the pizza magnet since March, where Dani put it without a word), Dani's "Make sure everybody's okay"; the nephew's "Don't be cringe" (one line). **What the receipts say now:** Wes, "I got to it, mostly." Jonathon, the same handwriting with the room crossed out. **Mr. Abernathy (died at 88; the white mug is his), remembered:** their last breakfast was plainly ordinary, the price of toast and a ride to the eye doctor; he never asked again whether Wes answered his question. **The ledger by the four marks** (see production notes). **Jonathon's names:** he learned names this year; Virgil's notebook has his name in it under "rail." **Next moves with a day:** Wes, Thu Jan 13, three o'clock, the nursing home back row, with his youngest. Jonathon, Mon Jan 3, 6:10 AM, the small version of the morning ten minutes (one verse, one sentence) at the kitchen table; Wes will text him Thursdays, "Did you do it?" **At the fence, Christmas morning:** Wes told his brother it was the best part of his Christmas; the brother said "Okay." and got another bale, then drove Wes back to his truck. **The June headings read back:** Jonathon's whiteboard kept, the back step skipped; Wes's "Love God out loud" (praying out loud with his wife since November: "It started. It's not a habit."), "keep the people" passing, "finish" unreadable yet. **The youngest at the barn** in October was the brother's idea. **What didn't change:** Wes still calls his daughter (25) only when her mother tells him to; Jonathon still wants the room, quieter. **The man in the truck:** Wes doesn't know his name after five months; he'll ask Wednesday. |
 
 ## Title options
 
@@ -161,7 +161,7 @@ WES: That's a straight answer. I'll give you mine. "Love God out loud, keep the 
 [CAM: JON CU]
 JONATHON: You told me about that in November, and you said it like a man confessing to a crime. I've never seen you that embarrassed about something good.
 [CAM: WES MS]
-WES: I was. Thirty years married and I'd never prayed out loud with her, except over food. So here's where it is. It started. It's not a habit. We've missed more nights than we've done it. But it started, and in January it hadn't.
+WES: I was. Married since 2000 and I'd never prayed out loud with her, except over food. So here's where it is. It started. It's not a habit. We've missed more nights than we've done it. But it started, and in January it hadn't.
 [CAM: WES CU]
 WES: Keep the people He gave me. That's my mother, and my brother, and my kids, and her. That's the part of the heading I'd say moved the most. Tuesdays with Mom. The feed buckets. The printout I finally handed my wife in the truck. The boys. I'd give that line a passing grade, and I don't grade myself easy.
 [CAM: JON MS]
@@ -310,15 +310,15 @@ WES: You said that like you'd been thinking about it a while.
 [CAM: JON CU]
 JONATHON: I have. Because that's the very first thing you ever said on this show, back in January. A man gets made on Tuesday. The day nobody posts. I wrote that down in January and thought it was a nice line. It took me a whole year to find out it was just true. My whole year happened on Tuesdays.
 [CAM: WES MS]
-WES: Mr. Abernathy taught me that, years before the book. And I'll tell you about him, since we're reading back, because I know somebody's waiting for him to walk in here with the moral. He won't. I had breakfast with him yesterday. Monday. Our Thursday got moved for the holiday.
+WES: Mr. Abernathy taught me that, years before the book. (touches the white mug) This was his. And since we're reading back, I'll tell you about him, because I know somebody's waiting for a man like that to show up at the end of the year with the moral. He won't. He's been gone a while now.
 [CAM: JON MS]
-JONATHON: What did he say about the year? I'm guessing something I'll be quoting in March.
+JONATHON: I've watched you turn that mug a hundred times and I've never asked you what the last thing he said to you was. Was it something you still quote?
 [CAM: WES CU]
-WES: Nothing. Not one word about the year. He said the diner raised the price of toast. He said it twice. He said his eye doctor moved his appointment to the eighteenth of January and asked if I could drive him, because they dilate his eyes and he can't see to drive home. I said yes. He wrote it in the little pocket calendar he carries. That was breakfast.
+WES: Nothing anybody would quote. Our last breakfast, he didn't say one word about my life. He said the diner had raised the price of toast. He said it twice. Then he asked if I'd drive him to the eye doctor, because they'd dilate his eyes and he couldn't see to drive home. I said yes. He wrote it in the little pocket calendar he carried. That was breakfast.
 [CAM: JON CU]
-JONATHON: So the man who asked you the question about Saturday, the one you carried for years, spent the last breakfast of the year on toast and his eye doctor.
+JONATHON: So the man who asked you the question about Saturday, the one you carried for years, spent your last breakfast together on toast and his eye doctor.
 [CAM: WES MS]
-WES: That's who he is most days. Ordinary. He's eighty-something and he wants a ride and he wants the toast to be the old price. The question he asked me years ago, he's never asked again. He's never asked if I answered it. I think he figured I would or I wouldn't. That's his way. He asked it once and let it work.
+WES: That's who he was most days. Ordinary. He wanted a ride and he wanted the toast to be the old price. The question he asked me, he never asked again. Never asked if I'd answered it. I think he figured I would or I wouldn't. He asked it once and let it work. I drove him to the eye doctor. I'm still answering the question.
 [CAM: JON MS]
 JONATHON: Session one of the training is called A Quiet Tuesday. It's about the day nobody posts and why that's the day a man actually gets made. It's on video, for a group of men around a table or one man by himself, and it's at walksteadfast.com. If you're starting the year from zero, that's where I'd start.
 [TEXT: A man gets made on Tuesday.]
@@ -381,7 +381,7 @@ WES: One more, because I heard it at the diner from a man at the next table, and
 [CAM: JON CU]
 JONATHON: I want you to take that one. You've got more standing to say it than I do, and I'd just say something nice.
 [CAM: WES CU]
-WES: I'd say the next move is still yours, and it might be bigger than you think. Virgil's in his seventies and he's got a crew and a notebook. Merle's seventy-one and he went back to singing after forty years. Mr. Abernathy's eighty-something and he's got an eye appointment and an opinion about toast.
+WES: I'd say the next move is still yours, and it might be bigger than you think. Virgil's in his seventies and he's got a crew and a notebook. Merle's seventy-one and he went back to singing after forty years. Lyle at my mother's church is eighty-four and he wants a fence post set for his mailbox.
 [CAM: JON MS]
 JONATHON: None of those men would call themselves retired from anything that matters. Virgil would be offended by the word.
 [CAM: WES CU]
@@ -484,12 +484,12 @@ Chapters
 22:00 The names
 25:13 The ledger
 30:16 A quiet Tuesday
-32:35 What didn't change
-34:44 Questions from the table
-41:02 Going first
-43:29 The challenge
-45:41 Carry this
-45:53 Outro
+32:42 What didn't change
+34:51 Questions from the table
+41:10 Going first
+43:37 The challenge
+45:49 Carry this
+46:01 Outro
 
 Scripture: Proverbs 16:9 (NIV)
 
@@ -555,7 +555,7 @@ Scripture quotations taken from The Holy Bible, New International Version®, NIV
 
 - **Main payoff (SHOW-BIBLE section 15).** The E003 sentences read back (E003, E004) and the ledger by the four marks. "Since January" used here (allowed in E103 and E104 only).
 - **Small line.** Jonathon's father's Christmas call at about four, one line, no more. Wes doesn't ask.
-- **Mr. Abernathy** doesn't bring the moral. He's ordinary: the price of toast, a ride to the eye doctor on Jan 18. His question stays a question.
+- **Mr. Abernathy** doesn't bring the moral. He died at 88 (hosts/WES-HART-HOST.md) and is remembered over his mug: their last breakfast was the price of toast and a ride to the eye doctor. His question stays a question.
 - **Plugs (B+T, year-review exception).** Book, chapter thirty-four, after the Word (Wes). Training, session one, A Quiet Tuesday, at the end of "A quiet Tuesday" (Jonathon). The sub-mid sits between them with a full chapter of pushback on each side. Present tense, no dates, no prices.
 - **The ledger, one line per mark per man (stuck / didn't), as chosen for this script (batch report assumption).**
   - Stop Waiting. Wes: the gutter with a day on it (E007) / the feeling word once a day (E073). Jonathon: naming the man who'd know if he fell, and the Thursday text (E037) / the morning ten minutes (E008 tool).
@@ -567,5 +567,5 @@ Scripture quotations taken from The Holy Bible, New International Version®, NIV
 - **Questions from the table.** Labeled honestly as heard at tables, no names. 988 included (the man whose year was a disaster).
 - **Dani.** Not quoted. Next: E104.
 - **Running limits.** Kid-catches-dad: one (Theo, "Daddy says my name now," reported). Deadpan payoff: one ("The fan still clicks."). One-word "Okay.": one (Wes's brother at the fence, reported). Knee or age beat: none. "Brother" as address: none. Show about itself: one ("the very first thing you ever said on this show"). No eleven or twelve. No new Virgil quotable (Virgil only writes).
-- **Assumptions (batch report).** The tamales; the headphones; the line drawn through "the room" after Ruby's first coach-pitch game; Dani putting the receipt on the fridge in March; Wes keeping Mr. Abernathy's receipt in his Bible; the fan still clicking; the Monday breakfast and the eye doctor; the ledger choices above; Theo's "Daddy says my name now"; the next moves and their dates; the brother's "Okay." at the fence; the brother suggesting the youngest come in October; Wes's daughter calls; the sixty-eight-year-old at the diner; Wes not knowing the truck man's name.
+- **Assumptions (batch report).** The tamales; the headphones; the line drawn through "the room" after Ruby's first coach-pitch game; Dani putting the receipt on the fridge in March; Wes keeping Mr. Abernathy's receipt in his Bible; the fan still clicking; Mr. Abernathy's last breakfast (toast, the eye doctor ride); the ledger choices above; Theo's "Daddy says my name now"; the next moves and their dates; the brother's "Okay." at the fence; the brother suggesting the youngest come in October; Wes's daughter calls; the sixty-eight-year-old at the diner; Wes not knowing the truck man's name.
 - **Setups for E104 (Field Notes: New Year's Eve; From the Table, "What's one sentence you're carrying into 2028?"; tool, the one-line plan; outro F4).** Did each man write it down and show it? Wes asks his youngest about Jan 13. Wes's last text of the year, a full sentence. The first challenge of 2028.
