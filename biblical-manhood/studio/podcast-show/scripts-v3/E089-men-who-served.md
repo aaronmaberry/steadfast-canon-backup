@@ -15,7 +15,7 @@ Walk Steadfast · main episode · script v3 (batch E089-E096, new). Internal. Se
 | Standing outro | Variant D, reworded (the brother's answer, the message to a man in Corpus). |
 | Wardrobe | Wes: burgundy flannel. Jonathon: navy quarter-zip. (Holiday: no flag clothing.) |
 | Props | Standard set. A small black-and-white photo of a young sailor in whites, face down on the table until Wes turns it over (end insert). |
-| New continuity | See the continuity row at the end of scripts-v3/BATCH-REPORT-E089-E096.md. In short: **Wes's mother moved into the senior apartments behind the church in August** (assumption carried from the E037 signing; the move itself is new on air); **Wes's paternal granddad** (died 2014 at 91) **served in the Navy in the Pacific in the war**, enlisted at eighteen, home at twenty-two, and never talked about it; his discharge paper, a photo in whites and a small Navy-issue Bible with his name in pencil were in a cigar box in the hall closet; Mom, via Wes's late grandmother: **he slept with the lamp on for about a year** after he came home, then "he went to clearing cedar." The coach wrote back (a postcard). **Jonathon at twenty-five** asked a coworker's brother, a month home from Afghanistan, at a bar, whether he ever had to shoot anybody; the brother put a twenty on the bar and left; Jonathon told it as a funny story at work for years. **The oldest son's friend** (the Army friend from the Thursday headset group) is out after four years; came to car-care Saturday Nov 6 with Wes's oldest; the mechanic handed him bad coffee and a drop light and said "Good to have you back." **The senior tech** (60) did four years in the Marines out of high school; Jonathon learned it on a ride-along. **Ruby:** "Is Chris a veteran?" **Go-firsts:** Wes asks his older brother at the barn whether Granddad ever said anything about the war, and puts the photo in his hand; Jonathon messages the brother from the bar, no excuses. Jonathon disagrees with Wes about asking the mechanic anything (Wes won't). |
+| New continuity | See the continuity row at the end of scripts-v3/BATCH-REPORT-E089-E096.md. In short: **Wes's mother moved into the senior apartments behind the church in August** (assumption carried from the E037 signing; the move itself is new on air); **Wes's paternal granddad** (died 2014 at 91) **served in the Navy in the Pacific in the war**, enlisted at eighteen, home at twenty-two, and never talked about it; his discharge paper, a photo in whites and a small Navy-issue Bible with his name in pencil were in a cigar box in the hall closet; Mom, via Wes's late grandmother: **he slept with the lamp on for about a year** after he came home, then "he went to clearing cedar." The coach wrote back (a postcard). **Jonathon at twenty-five** asked a coworker's brother, a month home from Afghanistan, at a bar, whether he ever had to shoot anybody; the brother put a twenty on the bar and left; Jonathon told it as a funny story at work for years. **The oldest son's friend** (the Army friend from the Thursday headset group) is out after four years; came to car-care Saturday Nov 6 with Wes's oldest; the mechanic handed him bad coffee and a drop light and said "Good to have you back." **The senior tech** (60) did four years in the Marines out of high school; Jonathon learned it on a ride-along. **Ruby:** "Is Chris a veteran?" **Go-firsts:** Wes asks his older brother at the barn Thursday evening whether Granddad ever said anything about the war, and puts the photo in his hand; Jonathon messages the brother from the bar, no excuses. Jonathon disagrees with Wes about asking the mechanic anything (Wes won't). |
 
 ## Title options
 
@@ -247,7 +247,7 @@ WES: That's most of us. We live next to them and don't know it.
 [CAM: JON CU]
 JONATHON: Here's how much we don't know it. Thursday I had my ride-along, the senior tech, the one who's sixty and has been on a truck for thirty-one years. We've done this ride every month since August. I know his grandkids' names. I know his lunch order. And we're in an attic in a hundred and ten degrees in November, because it's Texas, and he says, "This is nothing. You should've seen the barracks at Lejeune." And I said, "What barracks?"
 [CAM: JON MS]
-JONATHON: Four years. Marines. Right out of high school, eighteen to twenty-two, same as Wes's granddad. He came home, his uncle got him on an AC truck, and he's been on one ever since. And I've been riding with this man since August, and in eight years at that company, and nobody at that company ever knew. Or if they did, nobody ever said it to me.
+JONATHON: Four years. Marines. Right out of high school, eighteen to twenty-two, same as Wes's granddad. He came home, his uncle got him on an AC truck, and he's been on one ever since. And I've been riding with this man since August, and in nine years at that company, and nobody at that company ever knew. Or if they did, nobody ever said it to me.
 [CAM: WES MS]
 WES: Did you ask him about it?
 [CAM: JON CU]
@@ -354,7 +354,7 @@ WES: He didn't have to. He was living in it. "Even there your hand will guide me
 [CAM: JON MS]
 JONATHON: That's a sentence, Wes. That's a whole letter. A nineteen-year-old wrote down where he was so somebody would find it.
 [CAM: WES MS]
-WES: So. Mine's my brother. He's fifty-eight. He grew up next door to my granddad the same as I did, and he stayed on the place, so he had thirty more years of Granddad than I had. And it hit me that I've never once asked him if Granddad ever said anything about the war. I just assumed nobody knew. Saturday at the barn, after we feed, I'm going to take that photo out of my shirt pocket and put it in his hand and ask him. He'll probably say "Well." That's fine. I'm still going to ask.
+WES: So. Mine's my brother. He's fifty-eight. He grew up next door to my granddad the same as I did, and he stayed on the place, so he had thirty more years of Granddad than I had. And it hit me that I've never once asked him if Granddad ever said anything about the war. I just assumed nobody knew. Thursday evening at the barn, when we feed, I'm going to take that photo out of my shirt pocket and put it in his hand and ask him. He'll probably say "Well." That's fine. I'm still going to ask.
 [SHORT 1 OUT]
 [CAM: JON MS]
 JONATHON: And the mechanic? You're at car care every month with a man who served, who knows exactly what that boy walked in with Saturday. Are you going to ask him anything?
@@ -387,11 +387,11 @@ JONATHON: That's the part I wanted to leave out. So yes. That's the part that's 
 [CHAPTER: The challenge]
 [CAM: WIDE]
 [TEXT: The challenge]
-WES: Here's the challenge, and it's one move. Pick up one thing for one veteran you actually know, or for the family of one who's gone. In person. By Sunday.
+WES: Here's the challenge, and it's one move. Pick up one thing for one veteran you actually know, or for the family of one who's gone. In person. By Thursday night.
 [CAM: JON MS]
 JONATHON: Not a post. Not a flag emoji. One practical thing with your hands or your wallet or your time. A neighbor who served, his gutters. A widow at church whose husband served, her yard. The guy at work, his lunch on Thursday, and you ask him about his life now. Not the war. His life now.
 [CAM: WES MS]
-WES: If you're single, take a buddy. Two men raking a widow's yard is a better morning than either one of you was going to have. If you're married and you've got kids, bring them, and tell them on the way who he is and what he did, and tell them one true thing. Divorced dads, if it's not your Saturday, do it anyway, and tell the kids about it next time you've got them.
+WES: If you're single, take a buddy. Two men raking a widow's yard is a better evening than either one of you was going to have. If you're married and you've got kids, bring them, and tell them on the way who he is and what he did, and tell them one true thing. Divorced dads, if it's not your night with them, do it anyway, and tell the kids about it next time you've got them.
 [CAM: JON CU]
 JONATHON: And if you're the one who served, the weight might be the one you brought home. Your move might be telling one person one true thing about coming back. A small one. The lamp, or the boring, or the Tuesday after. Your wife, your kid, a man at church. Just one.
 [CAM: WES MS]
@@ -453,7 +453,7 @@ Chapters
 
 Scripture: John 15:13, Deuteronomy 24:5, 1 Samuel 30:24, Psalm 139:9-10 (NIV)
 
-The challenge: pick up one practical thing for one veteran you actually know, or for the family of one who's gone, in person, by Sunday. If you served, your move might be telling one person one true thing about coming home. If coming home has gotten dark, call 988 and press 1 for the Veterans Crisis Line.
+The challenge: pick up one practical thing for one veteran you actually know, or for the family of one who's gone, in person, by Thursday night. If you served, your move might be telling one person one true thing about coming home. If coming home has gotten dark, call 988 and press 1 for the Veterans Crisis Line.
 
 New episodes every Tuesday, plus Field Notes every Friday.
 
@@ -473,7 +473,7 @@ Scripture quotations taken from The Holy Bible, New International Version®, NIV
 ## Pinned comment
 
 ```
-Who's one veteran you actually know by name? Pick up one practical thing for him, or for the family of one who's gone, in person, by Sunday. Then tell us here what you did, or what you didn't.
+Who's one veteran you actually know by name? Pick up one practical thing for him, or for the family of one who's gone, in person, by Thursday night. Then tell us here what you did, or what you didn't.
 
 walksteadfast.com · @steadfastwalk
 ```
@@ -496,7 +496,7 @@ The homecoming at the airport has a band and signs. The hard part is the Tuesday
 
 ## The challenge
 
-Pick up one practical thing for one veteran you actually know, or for the family of one who's gone, in person, by Sunday.
+Pick up one practical thing for one veteran you actually know, or for the family of one who's gone, in person, by Thursday night.
 
 ---
 **Watch or listen:** YouTube · Apple Podcasts · Spotify
@@ -520,4 +520,4 @@ Scripture quotations taken from The Holy Bible, New International Version®, NIV
 - **Canon.** Deuteronomy 24:5 is framed as a newly married man's case, said plainly to be a different case from a man home from war; it is used for what it shows about God's care for a home, not as a rule for veterans. 1 Samuel 30:24 is read in its setting (the two hundred too exhausted to cross the Besor ravine, verses 9-10 and 21-25). Psalm 139:9-10 is a show-fiction underline, Wes says "I'm guessing."
 - **Coach letter.** One line, as the payoff map asks.
 - **Safety.** 988, press 1, on mic in the challenge and in the description.
-- **Setups for E090 (Field Notes: Veterans Day; From the Table "How do I support a veteran in my life?"; tool "Ask, then listen"; outro F1).** The brother at the barn and the photo. The message to Corpus. The listener's one thing by Sunday (Friday reports what happened by Thursday night).
+- **Setups for E090 (Field Notes: Veterans Day; From the Table "How do I support a veteran in my life?"; tool "Ask, then listen"; outro F1).** The brother at the barn and the photo. The message to Corpus. The listener's one thing by Sunday (the challenge runs through Thursday night, Veterans Day, so Friday can report it).
