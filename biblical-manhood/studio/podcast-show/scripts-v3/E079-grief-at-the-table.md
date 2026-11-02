@@ -59,7 +59,7 @@ WES: And I want to say what I mean by grieving sideways, because I think it's th
 [CAM: JON MS]
 JONATHON: I'm going to stop you right there, because I live with the counterexample. Dani's the most at-it person I know about almost everything. She'll tell a stranger in the Kroger line how she feels about her mother. But when she loses one on her floor at the hospital, she comes home and cleans the oven. For an hour. That's not at it. That's the most sideways thing I've ever seen.
 [CAM: WES CU]
-WES: (laughing) That's fair. I'll take it back. It's not men and women. It's sideways and straight. And I'd still say most of the men I know only have the one way. Your wife's got both. She cleans the oven, and later she tells you about it.
+WES: (laughing) Okay. I'll take it back. It's not men and women. It's sideways and straight. And I'd still say most of the men I know only have the one way. Your wife's got both. She cleans the oven, and later she tells you about it.
 [CAM: JON CU]
 JONATHON: Later. Sometimes a lot later. I'll tell you about the oven, because it's how I learned anything I know about this. But I'll give you the men's version, because I'm it. We take long drives with the radio off. We're the loud guy at the cookout. And we'd tell you we're fine. We're not lying, exactly. We just haven't looked straight at it.
 [CAM: WES MS]
@@ -105,7 +105,7 @@ JONATHON: Of course you cleaned the gutters. Your whole family's love language i
 [CAM: JON CU]
 JONATHON: And I'll tell you, I've been the other boss, and I wasn't as good as yours. Two years ago one of my reps lost his wife. Sudden. No warning. The company gives you three days for a wife. Three. He came back on day four, and I was so relieved he was okay that I put him right back on the Monday numbers call. He wasn't okay. His numbers went off a cliff, and about three months in I had a conversation with him about performance.
 [CAM: JON MS]
-JONATHON: In my office. With a form. I had a performance talk with a man whose wife had been gone three months. And he sat there and nodded and said, "I hear you, boss." I'd give a lot to have that one back. I had the meeting, too, Wes. I just had it with him.
+JONATHON: In my office. With a form. I had a performance talk with a man whose wife had been gone three months. And he sat there and nodded and said, "I hear you, boss." I wish I could walk back into that office and tear up the form. I had the meeting, too, Wes. I just had it with him.
 [CAM: WES MS]
 WES: Did you ever tell him that?
 [CAM: JON CU]
@@ -167,7 +167,7 @@ WES: I've thought that. I've also thought if he'd driven out, I'd have handed hi
 [CAM: JON MS]
 JONATHON: Then he could've held the wire. That's what your wife did. She didn't make you talk. She didn't wait for you to want it enough. She just rode out and sat on the tailgate. "A man has to want it enough to ask" is a good rule for a man who's stuck. I don't think it's a good rule for a man whose dad died a few weeks ago.
 [CAM: WES CU]
-WES: (beat) That's fair. He was a good man, and he had a rule, and the rule was mostly right. That time, I think he was wrong. And I think he knew it, because the last Thursday before I came back, he left a message on my phone. Didn't ask me anything. Just said, "Booth's here." That was as close to driving out as he knew how to get.
+WES: (beat) That's fair. He was a wise man, and he had a rule, and the rule was mostly right. That time, I think he was wrong. And I think he knew it, because the last Thursday before I came back, he left a message on my phone. Didn't ask me anything. Just said, "Booth's here." That was as close to driving out as he knew how to get.
 [CAM: WES MS]
 WES: But you're right. If it's my turn, I'd rather be the man who drives out. Grief's the one place I'd break his rule. You don't wait for a grieving man to ask. You go sit on his tailgate.
 [CAM: JON CU]
@@ -432,18 +432,18 @@ Chapters
 00:00 Cold open
 00:17 Intro
 00:42 Pull up a chair
-03:17 Eighteen years
-06:29 Saturdays at the place
-13:06 Mr. Abernathy's question
-20:25 The Word
-24:02 Four o'clock
-27:58 The oven
-31:36 Will Grandma die?
-33:48 Pushback
-40:34 Going first
-44:44 The challenge
-46:07 Carry this
-46:15 Outro
+03:16 Eighteen years
+06:28 Saturdays at the place
+13:07 Mr. Abernathy's question
+20:26 The Word
+24:03 Four o'clock
+28:00 The oven
+31:37 Will Grandma die?
+33:50 Pushback
+40:35 Going first
+44:45 The challenge
+46:08 Carry this
+46:16 Outro
 
 Scripture: John 11:35 (NIV)
 

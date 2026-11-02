@@ -252,10 +252,10 @@ Chapters
 00:00 Cold open
 00:12 Intro
 00:37 Check the box
-11:06 From the table
-18:14 Tool on the table
-24:00 Carry this
-24:08 Outro
+11:08 From the table
+18:16 Tool on the table
+24:02 Carry this
+24:10 Outro
 
 Scripture: Philippians 4:12 (NIV)
 

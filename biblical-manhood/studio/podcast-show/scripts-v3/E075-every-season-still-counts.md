@@ -472,19 +472,19 @@ Chapters
 00:00 Cold open
 00:20 Intro
 00:45 Pull up a chair
-03:08 Hand me the three-eighths
-06:11 The finish line moves
-09:25 When Theo's in school
-13:54 The Word
-19:59 The long drive home
-24:39 Slow down at the end
-29:38 The cubicle wall
+03:07 Hand me the three-eighths
+06:10 The finish line moves
+09:24 When Theo's in school
+13:53 The Word
+19:58 The long drive home
+24:38 Slow down at the end
+29:37 The cubicle wall
 33:32 Thirty-seven
-35:27 Pushback
-43:32 Going first
-44:51 The challenge
+35:26 Pushback
+43:31 Going first
+44:50 The challenge
 46:18 Carry this
-46:26 Outro
+46:25 Outro
 
 Scripture: Proverbs 20:29 (NIV)
 

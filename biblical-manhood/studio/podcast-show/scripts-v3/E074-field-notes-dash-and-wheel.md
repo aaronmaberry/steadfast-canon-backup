@@ -274,10 +274,10 @@ Chapters
 00:33 Check the box
 07:30 Choir Night
 10:17 From the table
-16:28 In front of the kids
-19:56 Tool on the table
-23:26 Carry this
-23:34 Outro
+16:31 In front of the kids
+19:58 Tool on the table
+23:29 Carry this
+23:36 Outro
 
 Scripture: Genesis 45:2 (NIV)
 

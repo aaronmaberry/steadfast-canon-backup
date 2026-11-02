@@ -239,7 +239,7 @@ Chapters
 00:33 Check the box
 07:39 From the table
 15:25 Tool on the table
-22:05 Carry this
+22:04 Carry this
 22:14 Outro
 
 Scripture: 1 Thessalonians 4:13 (NIV)
