@@ -376,9 +376,9 @@ JONATHON: And you're doing it too. The challenge. Not just the prayer. Who's you
 [CAM: WES CU]
 WES: My older brother. He's fifty-eight. He stayed on the place, and for about ten years he's been the one who handles Mom. Every doctor's appointment. The phone calls at night. The pills sorted into the little box on Sundays. My little brother lives in Fort Worth, I'm forty minutes off, and he's the one who's right there. And last Thanksgiving we had words at Mom's table about her care, the three of us, and I left early. I drove home before the pie.
 [CAM: JON MS]
-JONATHON: You've never told me you left before the pie. That's a big deal in your family. Your family doesn't skip pie for anything.
+JONATHON: And your brother ate the pecan pie your mom made for you. You told us that one back in the winter. I still think about that pie.
 [CAM: WES MS]
-WES: I've never told anybody I left before the pie. And I've never once thanked him. I've argued with him about how he does it. I've had opinions from forty minutes away. I've never said, "You carried her for ten years and I didn't. Thank you." So I'm going to say that. At the barn, when we feed. Face to face. No pie involved.
+WES: He ate it, and I had it coming. I apologized to him for leaving, in a parking lot. But I've never once thanked him. I've argued with him about how he does it. I've had opinions from forty minutes away. I've never said, "You carried her for ten years and I didn't. Thank you." So I'm going to say that. At the barn, when we feed. Face to face. No pie involved.
 [CAM: JON CU]
 JONATHON: And he's going to say "Well."
 [CAM: WES CU]
@@ -435,10 +435,10 @@ Chapters
 28:44 How to say it
 31:41 Two chairs
 34:32 Pushback
-41:24 Going first
-43:49 The challenge
-46:52 Carry this
-47:02 Outro
+41:23 Going first
+43:48 The challenge
+46:57 Carry this
+47:07 Outro
 
 Scripture: 1 Thessalonians 5:18, Luke 17:15-17, Philippians 1:3 (NIV)
 
