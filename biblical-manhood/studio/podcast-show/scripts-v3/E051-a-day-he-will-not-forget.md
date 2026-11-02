@@ -119,7 +119,7 @@ WES: I want to stay on that, because I think a lot of men listening have one of 
 JONATHON: And you can't un-have it. That's what nobody tells you. You can't give it back. All you can do is get another one stacked on top.
 WES: That's right. You don't erase a bad day. You outweigh it. And a lot of men never had a good one stacked on top. So the bad one's still the heaviest thing in the room.
 [CAM: WES CU]
-WES: And I have to say the hard version of that, because I'm a dad, not just a son. I've probably given one of those. You know the steering wheel. Layoff rumors, my daughter seven in the back seat, and I laid on the horn for ten seconds at a man who'd done nothing. I've wondered for years if that's a morning she points back to.
+WES: And I have to say the hard version of that, because I'm somebody's dad too. I've probably given one of those. You know the steering wheel. Layoff rumors, my daughter seven in the back seat, and I laid on the horn for ten seconds at a man who'd done nothing. I've wondered for years if that's a morning she points back to.
 JONATHON: Did you ever find out? You told her, right? This spring, you said you finally told her about it.
 WES: I told her. And she'd been carrying her own version of it for about eighteen years, and it wasn't mine. That's the thing about the days you hand out by accident. You don't get to pick what the kid takes from them. So I'd rather hand out one on purpose and know what's in it.
 JONATHON: That's a terrifying thought for a guy with a four-year-old who's heard me in traffic on 1604. I'm going to be thinking about that on the drive home.
