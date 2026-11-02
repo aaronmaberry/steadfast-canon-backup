@@ -9,8 +9,7 @@ Rebuild or improve **Steadfast Men Lesson 1 ("A Quiet Tuesday")**, about 20:25 l
 - **Pace ~150 wpm.** v4 runs ~148 wpm.
 - **Loudness -26 LUFS integrated.**
 - **Never say or show the word "week"/"weeks".** Use the week-free audio in `05-audio-L01-v3-weekfree-USED-IN-V4/`.
-- **walksteadfast.com colors and fonts.** See `08-locked-intro-v12/source/v11-assets` and the SOP.
-- **The quality bar is the locked INTRO v12.** It is a release asset, `INTRO-FINAL-v12.mp4`. Build scripts are in `08-locked-intro-v12/source/build-scripts`.
+- **walksteadfast.com colors and fonts.** See the SOP.
 
 Read `06-script-docs/LESSON-VIDEO-SOP.md` first. Then read `02-v4-master-kit/V4-QC-REPORT.md`.
 
@@ -20,21 +19,19 @@ git clone --depth 1 --filter=blob:none --sparse https://github.com/aaronmaberry/
 cd steadfast-canon-backup
 git sparse-checkout set biblical-manhood/studio/training-video/wes-heygen-clips-L01
 cd biblical-manhood/studio/training-video/wes-heygen-clips-L01
-gh release download wes-heygen-clips-L01 -R aaronmaberry/steadfast-canon-backup -D release-assets   # ~3.2 GB, 86 files
+gh release download wes-heygen-clips-L01 -R aaronmaberry/steadfast-canon-backup -D release-assets   # ~3.1 GB, 85 files
 ```
 
 ## Folder map
 | folder | contents |
 |---|---|
 | 01-wide-segments-v4 | The 17 HeyGen full-frame Wes takes, `hg_w00`-`hg_w16`, 1080p, plus the audio-driver mp3 for each. Their video_ids are in `video_ids.json`. Each clip covers the audio range in its mp3 name, with 0.6 s handles. Together they fill all 21 WES_FULL shots. |
-| 02-v4-master-kit | The 720p v4 review copy, the EDL (csv and json), captions (SRT/VTT), the b-roll manifest, the wide-segment json, the QC report, the contact sheet, previews, and small QC tests. |
+| 02-v4-master-kit | The 720p v4 review copy, the EDL (csv and json), captions (SRT/VTT), the b-roll manifest, the wide-segment json, the QC report, the contact sheet, previews, and QC json/logs. |
 | 03-render-code | The v4 render code, `l01v4/build/render_v4.py` with helpers (stab, tmap, windows, kinetic, captions, gate, avsync), plus the shell drivers. `l01v3` holds the previous version. |
-| 04-avatar-iv-source-take | HeyGen test renders, a 540p review of the patched take, and `patch-meta`: the windows, accept json, patch wavs, and scripts. **The source take itself is a release asset**: `L01-P5-PATCHED-v2.mp4`, 1.3 GB. It feeds every bubble and split-panel shot. The 81 patch clips (`orig_P*`, `t1-t4_P*`, `v2_P*`) are release assets too. |
+| 04-avatar-iv-source-take | A 540p review of the patched take, and `patch-meta`: the windows, accept json, patch wavs, and scripts. **The source take itself is a release asset**: `L01-P5-PATCHED-v2.mp4`, 1.3 GB. It feeds every bubble and split-panel shot. The 81 patch clips (`orig_P*`, `t1-t4_P*`, `v2_P*`) are release assets too. |
 | 05-audio-L01-v3-weekfree-USED-IN-V4 | The v4 master audio (mp3, -26 LUFS) plus the cut scripts and json. The WAV is a release asset. |
 | 05b-audio-L01-v2-approved-source | The approved audio v2 mp3 that drove the Avatar IV take 4c7713cd, with word timings, line times, and the script. The WAV is a release asset. |
 | 06-script-docs | The spoken script v5, the production script and storyboard, the retimed storyboards, SPEND.md (every HeyGen job id and its credits), PROGRESS, and the SOP. |
-| 07-look-tests | The earlier HeyGen look, motion, mouth, and wide tests. |
-| 08-locked-intro-v12 | The locked intro's captions, raw HeyGen source render, audio, assets, and build scripts. The intro mp4 itself is a release asset. |
 
 ## How the files map to the timeline
 - `L01-P7-v4-EDL.csv` lists `id,kind,t0,t1` on the master timeline. The shot kinds are:
@@ -61,6 +58,7 @@ gh release download wes-heygen-clips-L01 -R aaronmaberry/steadfast-canon-backup 
 - About **306 HeyGen credits** are left. Do not resubmit any job that SPEND.md marks "Do NOT resubmit".
 
 ## NOT in this repo
+- **Intentionally not included:** the intro v12 (`INTRO-FINAL-v12.mp4`, its raw HeyGen source and build files) and all HeyGen look/motion/mouth-tone/A-B/wide-soft test sets and test renders. This kit is Lesson 1 HeyGen clips only.
 - The 1080p v4 master `L01-P7-ASSEMBLED-v4.mp4` (639 MB). It is going to Google Drive separately.
 - The older masters v1, v2, and v3, plus `L01-P5-PATCHED-v1`.
 - The stock b-roll source and mezzanine files (`/workspace/l01v3/broll`, about 2 GB).

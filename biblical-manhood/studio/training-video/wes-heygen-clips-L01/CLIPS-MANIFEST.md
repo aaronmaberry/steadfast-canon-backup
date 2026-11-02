@@ -2,6 +2,8 @@
 
 Generated 2026-11-02. Sizes in bytes. All times in seconds. v4 master timeline from 02-v4-master-kit/L01-P7-v4-EDL.csv.
 
+Trimmed 2026-11-02 to Lesson 1 HeyGen clips only. The intro v12 (INTRO-FINAL-v12.mp4 and its raw HeyGen source), the look/motion/mouth-tone/A-B/wide-soft test sets, and other HeyGen test renders are intentionally NOT included.
+
 ## A. Files in this git folder
 
 | path | bytes | duration | res | what it is |
@@ -64,8 +66,6 @@ Generated 2026-11-02. Sizes in bytes. All times in seconds. v4 master timeline f
 | 02-v4-master-kit/L01-P7-v4-broll-manifest.csv | 18613 |  |  | v4 b-roll manifest |
 | 02-v4-master-kit/L01-P7-v4-heygen-wide-segments.json | 5003 |  |  |  |
 | 02-v4-master-kit/V4-QC-REPORT.md | 3853 |  |  | v4 QC report |
-| 02-v4-master-kit/qc/TEST-bubble-stab-out75-95.mp4 | 6099778 | 20.00s | 1920x1080 |  |
-| 02-v4-master-kit/qc/TEST-heygen-wide-13s.mp4 | 7920552 | 13.00s | 1920x1080 | copy of HeyGen wide test 39792921 |
 | 02-v4-master-kit/qc/fix4179.jpg | 13587 |  |  |  |
 | 02-v4-master-kit/qc/gate_result.json | 10169 |  |  |  |
 | 02-v4-master-kit/qc/loud.txt | 418 |  |  |  |
@@ -132,11 +132,7 @@ Generated 2026-11-02. Sizes in bytes. All times in seconds. v4 master timeline f
 | 03-render-code/l01v4/trkB.json | 264309 |  |  |  |
 | 03-render-code/l01v4/windows.json | 4146 |  |  |  |
 | 03-render-code/l01v4/windows.py | 1832 |  |  |  |
-| 04-avatar-iv-source-take/L01-P5-TEST-burg_a-e1b2d055.mp4 | 8590798 | 13.80s | 1920x1080 | HeyGen test Avatar IV look b9d1bd88, video_id e1b2d055cbedc00ea19a5af55c318a07 |
-| 04-avatar-iv-source-take/L01-P5-TEST2-burg_a-avatarV-14d1ce86.mp4 | 20422686 | 13.80s | 1920x1080 | HeyGen test Avatar V, video_id 14d1ce860d59564e682e77957aa5c0dc |
-| 04-avatar-iv-source-take/L01-P5-TEST3-burg_a-avatarIV-motion-81783c8d.mp4 | 8408853 | 13.80s | 1920x1080 | HeyGen test Avatar IV low + steady-head, video_id 81783c8d10edd44a6ad8b85803de99be |
 | 04-avatar-iv-source-take/L01-PATCHED-v2-REVIEW-copy-540p.mp4 | 34937679 | 1234.09s | 960x540 |  |
-| 04-avatar-iv-source-take/intro_ref_14s.mp4 | 5405832 | 14.01s | 1920x1080 |  |
 | 04-avatar-iv-source-take/patch-meta/P00_46.92-58.08.wav | 1607084 | 11.16s | audio | patch window audio (lesson time in filename) |
 | 04-avatar-iv-source-take/patch-meta/P01_118.44-130.72.wav | 1768364 | 12.28s | audio | patch window audio (lesson time in filename) |
 | 04-avatar-iv-source-take/patch-meta/P02_158.72-163.88.wav | 743084 | 5.16s | audio | patch window audio (lesson time in filename) |
@@ -333,7 +329,6 @@ Generated 2026-11-02. Sizes in bytes. All times in seconds. v4 master timeline f
 | 05b-audio-L01-v2-approved-source/script.txt | 15634 |  |  |  |
 | 05b-audio-L01-v2-approved-source/sections.json | 753 |  |  |  |
 | 06-script-docs/FIX-PLAN-v2-2026-10-29.md | 19621 |  |  |  |
-| 06-script-docs/L01-LOOK-PLAN-SUMMARY.md | 1474 |  |  |  |
 | 06-script-docs/L01-PRODUCTION-SCRIPT-STORYBOARD.md | 36674 |  |  |  |
 | 06-script-docs/L01-PRODUCTION-SCRIPT-STORYBOARD.pre-R33.md | 34600 |  |  |  |
 | 06-script-docs/L01-SPOKEN-SCRIPT-v5-one-man.md | 22714 |  |  |  |
@@ -352,136 +347,6 @@ Generated 2026-11-02. Sizes in bytes. All times in seconds. v4 master timeline f
 | 06-script-docs/storyboard-retimed-L01-v1.json | 11168 |  |  |  |
 | 06-script-docs/storyboard-retimed-L01-v2.json | 11030 |  |  |  |
 | 06-script-docs/storyboard.json | 7900 |  |  |  |
-| 07-look-tests/heygen-ab-2026-10-26/A-low-lesson-1080p.mp4 | 3946412 | 11.32s | 1920x1080 | HeyGen look/motion test (heygen-ab-2026-10-26) |
-| 07-look-tests/heygen-ab-2026-10-26/A-low-lesson.mp4 | 2345019 | 11.32s | 1280x720 | HeyGen look/motion test (heygen-ab-2026-10-26) |
-| 07-look-tests/heygen-ab-2026-10-26/A-low-line4.mp4 | 1110724 | 5.00s | 1280x720 | HeyGen look/motion test (heygen-ab-2026-10-26) |
-| 07-look-tests/heygen-ab-2026-10-26/A-med-lesson.mp4 | 2339287 | 11.32s | 1280x720 | HeyGen look/motion test (heygen-ab-2026-10-26) |
-| 07-look-tests/heygen-ab-2026-10-26/A-med-line4.mp4 | 1110724 | 5.00s | 1280x720 | HeyGen look/motion test (heygen-ab-2026-10-26) |
-| 07-look-tests/heygen-ab-2026-10-26/PREFLIGHT.md | 2208 |  |  |  |
-| 07-look-tests/heygen-ab-2026-10-26/RESULTS.md | 8400 |  |  |  |
-| 07-look-tests/heygen-ab-2026-10-26/SIDE-BY-SIDE-A-vs-B-line4.mp4 | 4734012 | 5.00s | 2560x800 | HeyGen look/motion test (heygen-ab-2026-10-26) |
-| 07-look-tests/heygen-ab-2026-10-26/SIDE-BY-SIDE-A-vs-B.mp4 | 10214015 | 11.32s | 2560x800 | HeyGen look/motion test (heygen-ab-2026-10-26) |
-| 07-look-tests/heygen-ab-2026-10-26/eval/A-low-lesson-1080p-gates.json | 38594 |  |  |  |
-| 07-look-tests/heygen-ab-2026-10-26/eval/A-low-lesson-gates.json | 37789 |  |  |  |
-| 07-look-tests/heygen-ab-2026-10-26/eval/A-low-line4-gates.json | 16998 |  |  |  |
-| 07-look-tests/heygen-ab-2026-10-26/eval/A-med-lesson-gates.json | 37797 |  |  |  |
-| 07-look-tests/heygen-ab-2026-10-26/eval/A-med-line4-gates.json | 16998 |  |  |  |
-| 07-look-tests/heygen-ab-2026-10-26/eval/B-low-lesson-1080p-gates.json | 38360 |  |  |  |
-| 07-look-tests/heygen-ab-2026-10-26/eval/B-low-lesson-gates.json | 37915 |  |  |  |
-| 07-look-tests/heygen-ab-2026-10-26/eval/B-low-line4-gates.json | 17093 |  |  |  |
-| 07-look-tests/heygen-ab-2026-10-26/eval/B-med-lesson-gates.json | 37976 |  |  |  |
-| 07-look-tests/heygen-ab-2026-10-26/eval/B-med-line4-gates.json | 17082 |  |  |  |
-| 07-look-tests/heygen-ab-2026-10-26/eval/mouth-sync.json | 1343 |  |  |  |
-| 07-look-tests/heygen-intro-v3c-analysis-2026-10-26/eval/dotmask.json | 487 |  |  |  |
-| 07-look-tests/heygen-intro-v3c-analysis-2026-10-26/eval/perframe_every5.json | 198288 |  |  |  |
-| 07-look-tests/heygen-intro-v3c-analysis-2026-10-26/eval/redscan.json | 2 |  |  |  |
-| 07-look-tests/heygen-look-set-2026-10-27/LOOKS-PLAN.md | 15688 |  |  |  |
-| 07-look-tests/heygen-look-set-2026-10-27/SIDE-BY-SIDE-lookA-vs-G2-swap.mp4 | 2165527 | 6.95s | 1920x540 | HeyGen look/motion test (heygen-look-set-2026-10-27) |
-| 07-look-tests/heygen-look-set-2026-10-27/SIDE-BY-SIDE-lookA-vs-G3-L01-1726-swap.mp4 | 1792640 | 6.51s | 1920x540 | HeyGen look/motion test (heygen-look-set-2026-10-27) |
-| 07-look-tests/heygen-look-set-2026-10-27/SIDE-BY-SIDE-lookA-vs-L4-swap.mp4 | 2075637 | 6.95s | 1920x540 | HeyGen look/motion test (heygen-look-set-2026-10-27) |
-| 07-look-tests/heygen-look-set-2026-10-27/assets.json | 669 |  |  |  |
-| 07-look-tests/heygen-look-set-2026-10-27/built.json | 842 |  |  |  |
-| 07-look-tests/heygen-look-set-2026-10-27/clips/TEST-G2-34right-medium-982011f2.mp4 | 7474734 | 6.96s | 1920x1080 | HeyGen look/motion test (heygen-look-set-2026-10-27) |
-| 07-look-tests/heygen-look-set-2026-10-27/clips/TEST-G3-front-wide-hands-d283cd8e.mp4 | 3724819 | 6.44s | 1920x1080 | HeyGen look/motion test (heygen-look-set-2026-10-27) |
-| 07-look-tests/heygen-look-set-2026-10-27/clips/TEST-L1-front-medwide-8ad32a2f.mp4 | 3159678 | 6.44s | 1920x1080 | HeyGen look/motion test (heygen-look-set-2026-10-27) |
-| 07-look-tests/heygen-look-set-2026-10-27/clips/TEST-L4-front-right-MCU-5022449f.mp4 | 4396010 | 6.96s | 1920x1080 | HeyGen look/motion test (heygen-look-set-2026-10-27) |
-| 07-look-tests/heygen-look-set-2026-10-27/gen/gscore.json | 256 |  |  |  |
-| 07-look-tests/heygen-look-set-2026-10-27/local-fix/COMP-G2-34R-G002.mp4 | 12928639 | 9.40s | 1920x1080 | HeyGen look/motion test (heygen-look-set-2026-10-27) |
-| 07-look-tests/heygen-look-set-2026-10-27/local-fix/COMP-G3wide-G003.mp4 | 8168239 | 10.12s | 1920x1080 | HeyGen look/motion test (heygen-look-set-2026-10-27) |
-| 07-look-tests/heygen-look-set-2026-10-27/local-fix/G2-swap.mp4 | 9493982 | 6.95s | 1920x1080 | HeyGen look/motion test (heygen-look-set-2026-10-27) |
-| 07-look-tests/heygen-look-set-2026-10-27/local-fix/G3-swap-noring.mp4 | 5183540 | 6.42s | 1920x1080 | HeyGen look/motion test (heygen-look-set-2026-10-27) |
-| 07-look-tests/heygen-look-set-2026-10-27/local-fix/G3-swap.mp4 | 4941129 | 6.42s | 1920x1080 | HeyGen look/motion test (heygen-look-set-2026-10-27) |
-| 07-look-tests/heygen-look-set-2026-10-27/local-fix/L4-swap.mp4 | 6145640 | 6.95s | 1920x1080 | HeyGen look/motion test (heygen-look-set-2026-10-27) |
-| 07-look-tests/heygen-look-set-2026-10-27/paid-g3/G3-L01-1726-swap.mp4 | 5096982 | 6.52s | 1920x1080 | HeyGen look/motion test (heygen-look-set-2026-10-27) |
-| 07-look-tests/heygen-look-set-2026-10-27/paid-g3/PREFLIGHT.md | 842 |  |  |  |
-| 07-look-tests/heygen-look-set-2026-10-27/paid-g3/TEST-G3-wide-L01-1726-182d6e6f.mp4 | 3777290 | 6.52s | 1920x1080 | HeyGen look/motion test (heygen-look-set-2026-10-27) |
-| 07-look-tests/heygen-look-set-2026-10-27/qa/COMP-G2-34R-G002-perframe.json | 38257 |  |  |  |
-| 07-look-tests/heygen-look-set-2026-10-27/qa/COMP-G3wide-G003-perframe.json | 41112 |  |  |  |
-| 07-look-tests/heygen-look-set-2026-10-27/qa/G2-34right-medium-982011f2-perframe.json | 28327 |  |  |  |
-| 07-look-tests/heygen-look-set-2026-10-27/qa/G2-swap-perframe.json | 28103 |  |  |  |
-| 07-look-tests/heygen-look-set-2026-10-27/qa/G3-front-wide-hands-d283cd8e-perframe.json | 26153 |  |  |  |
-| 07-look-tests/heygen-look-set-2026-10-27/qa/G3-swap-perframe.json | 25973 |  |  |  |
-| 07-look-tests/heygen-look-set-2026-10-27/qa/L1-front-medwide-8ad32a2f-perframe.json | 26128 |  |  |  |
-| 07-look-tests/heygen-look-set-2026-10-27/qa/L4-front-right-MCU-5022449f-perframe.json | 28274 |  |  |  |
-| 07-look-tests/heygen-look-set-2026-10-27/qa/L4-swap-perframe.json | 28069 |  |  |  |
-| 07-look-tests/heygen-look-set-2026-10-27/qa/PAID-G3-perframe.json | 26488 |  |  |  |
-| 07-look-tests/heygen-look-set-2026-10-27/qa/PAID-G3-swap-perframe.json | 26431 |  |  |  |
-| 07-look-tests/heygen-look-set-2026-10-27/sleeves-up/RESULTS.md | 657 |  |  |  |
-| 07-look-tests/heygen-look-set-2026-10-27/sleeves-up/wide-v2/REPORT.md | 1447 |  |  |  |
-| 07-look-tests/heygen-look-set-2026-10-27/sleeves-up/wide-v2/render/REPORT.md | 2229 |  |  |  |
-| 07-look-tests/heygen-look-set-2026-10-27/sleeves-up/wide-v2/render/SIDE-BY-SIDE-lookA-vs-w4.mp4 | 1954717 | 6.52s | 1920x540 | HeyGen look/motion test (heygen-look-set-2026-10-27) |
-| 07-look-tests/heygen-look-set-2026-10-27/sleeves-up/wide-v2/render/TEST-w4-sleeves-wide-L01-1726-1cbbb658.mp4 | 4019579 | 6.52s | 1920x1080 | HeyGen look/motion test (heygen-look-set-2026-10-27) |
-| 07-look-tests/heygen-look-set-2026-10-27/sleeves-up/wide-v2/render/perframe.json | 10989 |  |  |  |
-| 07-look-tests/heygen-look-set-2026-10-27/sleeves-up/wide-v2/render/swap/SIDE-BY-SIDE-raw-vs-swapped.mp4 | 7078642 | 6.53s | 3840x1080 | HeyGen look/motion test (heygen-look-set-2026-10-27) |
-| 07-look-tests/heygen-look-set-2026-10-27/sleeves-up/wide-v2/render/swap/TEST-w4-swapped.mp4 | 5559056 | 6.52s | 1920x1080 | HeyGen look/motion test (heygen-look-set-2026-10-27) |
-| 07-look-tests/heygen-look-set-2026-10-27/sleeves-up/wide-v2/render/swap/qa2.json | 6825 |  |  |  |
-| 07-look-tests/heygen-mouth-tone-2026-10-26/PREFLIGHT.md | 1811 |  |  |  |
-| 07-look-tests/heygen-mouth-tone-2026-10-26/RESULTS.md | 5653 |  |  |  |
-| 07-look-tests/heygen-mouth-tone-2026-10-26/SIDE-BY-SIDE-baseline-vs-best.mp4 | 3193692 | 11.32s | 1920x620 | HeyGen look/motion test (heygen-mouth-tone-2026-10-26) |
-| 07-look-tests/heygen-mouth-tone-2026-10-26/V1-subtle-handsbelow-720p.mp4 | 2307739 | 11.32s | 1280x720 | HeyGen look/motion test (heygen-mouth-tone-2026-10-26) |
-| 07-look-tests/heygen-mouth-tone-2026-10-26/V2-subtle-nohands-720p.mp4 | 2297831 | 11.32s | 1280x720 | HeyGen look/motion test (heygen-mouth-tone-2026-10-26) |
-| 07-look-tests/heygen-mouth-tone-2026-10-26/V3-noprompt-low-1080p.mp4 | 3798022 | 11.32s | 1920x1080 | HeyGen look/motion test (heygen-mouth-tone-2026-10-26) |
-| 07-look-tests/heygen-mouth-tone-2026-10-26/V3-noprompt-low-720p.mp4 | 2254169 | 11.32s | 1280x720 | HeyGen look/motion test (heygen-mouth-tone-2026-10-26) |
-| 07-look-tests/heygen-mouth-tone-2026-10-26/V4-lipsbarely-720p.mp4 | 2285539 | 11.32s | 1280x720 | HeyGen look/motion test (heygen-mouth-tone-2026-10-26) |
-| 07-look-tests/heygen-mouth-tone-2026-10-26/baseline/BASE-1080p.mp4 | 3946412 | 11.32s | 1920x1080 | HeyGen look/motion test (heygen-mouth-tone-2026-10-26) |
-| 07-look-tests/heygen-mouth-tone-2026-10-26/baseline/BASE-720p.mp4 | 2345019 | 11.32s | 1280x720 | HeyGen look/motion test (heygen-mouth-tone-2026-10-26) |
-| 07-look-tests/heygen-mouth-tone-2026-10-26/eval/BASE-1080p-gates.json | 38624 |  |  |  |
-| 07-look-tests/heygen-mouth-tone-2026-10-26/eval/BASE-720p-gates.json | 37824 |  |  |  |
-| 07-look-tests/heygen-mouth-tone-2026-10-26/eval/V1-subtle-handsbelow-720p-gates.json | 37250 |  |  |  |
-| 07-look-tests/heygen-mouth-tone-2026-10-26/eval/V2-subtle-nohands-720p-gates.json | 37288 |  |  |  |
-| 07-look-tests/heygen-mouth-tone-2026-10-26/eval/V3-noprompt-low-1080p-gates.json | 38691 |  |  |  |
-| 07-look-tests/heygen-mouth-tone-2026-10-26/eval/V3-noprompt-low-720p-gates.json | 37461 |  |  |  |
-| 07-look-tests/heygen-mouth-tone-2026-10-26/eval/V4-lipsbarely-720p-gates.json | 37283 |  |  |  |
-| 07-look-tests/heygen-wide-soft-2026-10-26/34WAIST-line4-720p.mp4 | 1725178 | 5.00s | 1280x720 | HeyGen look/motion test (heygen-wide-soft-2026-10-26) |
-| 07-look-tests/heygen-wide-soft-2026-10-26/FRONTWAIST-lesson-1080p.mp4 | 4958159 | 11.32s | 1920x1080 | HeyGen look/motion test (heygen-wide-soft-2026-10-26) |
-| 07-look-tests/heygen-wide-soft-2026-10-26/FRONTWAIST-line4-720p.mp4 | 1204892 | 5.00s | 1280x720 | HeyGen look/motion test (heygen-wide-soft-2026-10-26) |
-| 07-look-tests/heygen-wide-soft-2026-10-26/PREFLIGHT.md | 2002 |  |  |  |
-| 07-look-tests/heygen-wide-soft-2026-10-26/RESULTS.md | 8779 |  |  |  |
-| 07-look-tests/heygen-wide-soft-2026-10-26/S1-soft-V3-720p.mp4 | 2327347 | 11.32s | 1280x720 | HeyGen look/motion test (heygen-wide-soft-2026-10-26) |
-| 07-look-tests/heygen-wide-soft-2026-10-26/S2-soft-slow94-V3-720p.mp4 | 2529647 | 12.01s | 1280x720 | HeyGen look/motion test (heygen-wide-soft-2026-10-26) |
-| 07-look-tests/heygen-wide-soft-2026-10-26/SIDE-BY-SIDE-V3-left-vs-S1-right.mp4 | 5075024 | 11.32s | 2560x720 | HeyGen look/motion test (heygen-wide-soft-2026-10-26) |
-| 07-look-tests/heygen-wide-soft-2026-10-26/SIDE-BY-SIDE-V3-left-vs-S2-right.mp4 | 5319619 | 12.01s | 2560x720 | HeyGen look/motion test (heygen-wide-soft-2026-10-26) |
-| 07-look-tests/heygen-wide-soft-2026-10-26/TIGHT-line4-720p.mp4 | 1861152 | 5.00s | 1280x720 | HeyGen look/motion test (heygen-wide-soft-2026-10-26) |
-| 07-look-tests/heygen-wide-soft-2026-10-26/eval/34WAIST-line4-720p-gates.json | 16817 |  |  |  |
-| 07-look-tests/heygen-wide-soft-2026-10-26/eval/FRONTWAIST-lesson-1080p-gates.json | 38892 |  |  |  |
-| 07-look-tests/heygen-wide-soft-2026-10-26/eval/FRONTWAIST-line4-720p-gates.json | 17169 |  |  |  |
-| 07-look-tests/heygen-wide-soft-2026-10-26/eval/S1-soft-V3-720p-gates.json | 38006 |  |  |  |
-| 07-look-tests/heygen-wide-soft-2026-10-26/eval/S2-soft-slow94-V3-720p-gates.json | 39885 |  |  |  |
-| 07-look-tests/heygen-wide-soft-2026-10-26/eval/TIGHT-line4-720p-gates.json | 17160 |  |  |  |
-| 07-look-tests/heygen-wide-soft-2026-10-26/eval/ref-V3-noprompt-low-720p-gates.json | 37461 |  |  |  |
-| 07-look-tests/heygen-wide-soft-2026-10-26/ref-V3-noprompt-low-720p.mp4 | 2254169 | 11.32s | 1280x720 | HeyGen look/motion test (heygen-wide-soft-2026-10-26) |
-| 08-locked-intro-v12/INTRO-FINAL-v12.srt | 3861 |  |  |  |
-| 08-locked-intro-v12/INTRO-FINAL-v12.vtt | 3773 |  |  |  |
-| 08-locked-intro-v12/LOCKED.md | 1344 |  |  |  |
-| 08-locked-intro-v12/SHA256SUMS | 416 |  |  |  |
-| 08-locked-intro-v12/podcast-v12.jpg | 193624 |  |  |  |
-| 08-locked-intro-v12/source/INTRO-v23-no-ticks-minus26-LUFS.mp3 | 8310764 | 207.74s | audio |  |
-| 08-locked-intro-v12/source/INTRO-v23-no-ticks-minus26-LUFS.wav | 29909940 | 207.71s | audio |  |
-| 08-locked-intro-v12/source/PODCAST-IMAGE-PROVENANCE.md | 858 |  |  |  |
-| 08-locked-intro-v12/source/README-SOURCE.md | 247 |  |  |  |
-| 08-locked-intro-v12/source/README-v12.md | 808 |  |  |  |
-| 08-locked-intro-v12/source/SOURCE-raw-heygen-c25a93f0-v9.mp4 | 78758308 | 207.70s | 1920x1080 | raw HeyGen render behind locked INTRO v12 (job c25a93f0) |
-| 08-locked-intro-v12/source/build-scripts/assemble_v3.sh | 1079 |  |  |  |
-| 08-locked-intro-v12/source/build-scripts/assemble_v4.sh | 591 |  |  |  |
-| 08-locked-intro-v12/source/build-scripts/bg_patch_v4.py | 1151 |  |  |  |
-| 08-locked-intro-v12/source/build-scripts/clean_look_a_bg.py | 1269 |  |  |  |
-| 08-locked-intro-v12/source/build-scripts/demask.py | 1269 |  |  |  |
-| 08-locked-intro-v12/source/build-scripts/env.sh | 239 |  |  |  |
-| 08-locked-intro-v12/source/build-scripts/mux_v4.sh | 619 |  |  |  |
-| 08-locked-intro-v12/source/build-scripts/plan_calm.py | 3738 |  |  |  |
-| 08-locked-intro-v12/source/build-scripts/render_v2.py | 24881 |  |  |  |
-| 08-locked-intro-v12/source/build-scripts/render_v3.py | 19934 |  |  |  |
-| 08-locked-intro-v12/source/build-scripts/render_v3_v11a.py | 19485 |  |  |  |
-| 08-locked-intro-v12/source/build-scripts/v9raw_median.png | 1188575 |  |  |  |
-| 08-locked-intro-v12/source/hero-table-LIVE-v11.jpg | 303108 |  |  |  |
-| 08-locked-intro-v12/source/patch_workbook.py | 1373 |  |  |  |
-| 08-locked-intro-v12/source/v11-assets/PODCAST-IMAGE-PROVENANCE.md | 858 |  |  |  |
-| 08-locked-intro-v12/source/v11-assets/hdr.txt | 724 |  |  |  |
-| 08-locked-intro-v12/source/v11-assets/hero-table-LIVE-v11.jpg | 303108 |  |  |  |
-| 08-locked-intro-v12/source/v11-assets/live-give@2.5x.png | 436529 |  |  |  |
-| 08-locked-intro-v12/source/v11-assets/live-home-nav@2.5x.png | 62770 |  |  |  |
-| 08-locked-intro-v12/source/v11-assets/live-home-stitched@2.5x.png | 9992925 |  |  |  |
-| 08-locked-intro-v12/source/v11-assets/podcast-hero-table-LIVE-crop-y58-1232.png | 1422333 |  |  |  |
 
 ## B. GitHub Release assets (tag wes-heygen-clips-L01) - files too big for git, plus the 81 patch take clips
 
@@ -574,4 +439,3 @@ Download: `gh release download wes-heygen-clips-L01 -R aaronmaberry/steadfast-ca
 | [L01-P5-FULL-burg_a-4c7713cd.mp4](https://github.com/aaronmaberry/steadfast-canon-backup/releases/download/wes-heygen-clips-L01/L01-P5-FULL-burg_a-4c7713cd.mp4) | 777733256 | 1234.08s | 1920x1080 | unpatched Avatar IV full take, video_id 4c7713cd0faf45fc7ae479dbc9ac2244, look burg_a, audio v2 |
 | [L01-A-Quiet-Tuesday-v2-minus26-LUFS.wav](https://github.com/aaronmaberry/steadfast-canon-backup/releases/download/wes-heygen-clips-L01/L01-A-Quiet-Tuesday-v2-minus26-LUFS.wav) | 177706994 | 1234.08s | audio | approved audio v2 WAV |
 | [L01-v3-weekfree.wav](https://github.com/aaronmaberry/steadfast-canon-backup/releases/download/wes-heygen-clips-L01/L01-v3-weekfree.wav) | 176420268 | 1225.14s | audio | week-free v3 audio WAV (pre-loudness) = v4 master audio source |
-| [INTRO-FINAL-v12.mp4](https://github.com/aaronmaberry/steadfast-canon-backup/releases/download/wes-heygen-clips-L01/INTRO-FINAL-v12.mp4) | 136703632 | 208.68s | 1920x1080 | LOCKED INTRO v12 = quality bar |
