@@ -83,6 +83,8 @@ WES: So Saturday the fourth, my son's under a little car with him, a widow's car
 JONATHON: What'd the mechanic say?
 [CAM: WES MS]
 WES: That's the thing. He's not a talker. He didn't say a word. He just held out his hand, flat, palm up, and said, "Hand me the three-eighths." And my son handed it to him. And they went back to work. And about forty-five minutes later, that widow drove off with brakes that worked, and she rolled her window down and said, "You boys are a blessing." He's eighty-one. She called him a boy. He didn't correct her.
+[CAM: JON MS]
+JONATHON: And you said?
 [CAM: WES CU]
 WES: And here's what I got right. I didn't say anything either. I had a whole speech about how his real life is right now, and I swallowed it. Because on the drive home, about halfway, my son said, "He's eighty-one and he's under a car." And I said, "Yep." And he looked out the window a while and said, "That lady's going to get to work Monday." And that was it. He got there on his own. Or partway there. I'm not sure he's all the way. I'm not sure I am.
 [CAM: JON CU]
@@ -143,6 +145,8 @@ WES: So the season wasn't the reason.
 JONATHON: The season was the excuse. The reason was I didn't want anybody seeing us not winning. That's a harder sentence than "the kids are little."
 [CAM: WES CU]
 WES: I had a version. Mine was "when we get the barn finished." About six years in my thirties. When the barn's finished we'll have the small group out. When the barn's finished I'll take the kids camping. And the barn got finished. And the phrase moved to the next thing. It was never about the barn. I just didn't want anybody to see me with the work half done.
+[CAM: JON CU]
+JONATHON: What'd it cost?
 [CAM: WES MS]
 WES: And here's what the barn cost. There was one family who kept asking to come out. Their boy was my oldest's best friend. By the time the barn was finished, they'd moved to Lubbock. I never had them out once. Not once. That's six years of "when" and a boy my son still asks about.
 [CAM: JON MS]
@@ -190,6 +194,8 @@ WES: He gets very good at bitter. I've sat across from a couple of them at the d
 JONATHON: That's one of the more frightening things you've said to me. Because I know what I practice. I practice checking my phone at red lights. At seventy I'm going to be the man at the red light on his phone with the grandkids yelling green.
 [CAM: WES MS]
 WES: Then practice something else at red lights. You've got about thirty years of them ahead of you. Pray for the man in the next lane. He looks like he needs it. They always do.
+[CAM: JON MS]
+JONATHON: (laughs) I'll try.
 [CAM: WES CU]
 WES: And here's what I think the verse is really saying, if you put those two halves at the same table. The young man's got the strength and not the wisdom. The old man's got the wisdom and not the strength. Which is exactly why they need to be under the same car on the same Saturday. My son had the back to get under there. The mechanic knew which wrench. Neither one of them could've done that brake job alone.
 [CAM: JON MS]
@@ -214,8 +220,12 @@ WES: Chapter thirty-two of the book is this one, Every Season Still Counts. It w
 WES: It's just two men at a table, Tuesdays and Fridays. There's an empty chair. Subscribe and it's yours.
 
 [CHAPTER: The long drive home]
+[CAM: JON CU]
+JONATHON: Okay. Yours.
 [CAM: WES MS]
 WES: All right. Mine. And I said it's not pretty. I've been at the same job almost thirty years. And somewhere in the last couple years, without ever saying it out loud, I started treating the rest of it like the long drive home. You know that last hour of a road trip, when you've stopped looking at anything out the window, and you're just counting mile markers? That's how I've been doing my fifties. Counting.
+[CAM: JON MS]
+JONATHON: Since when?
 [CAM: WES CU]
 WES: I figured it out last week, with the review coming up in October. They ask you to write out what you did this year. And I sat at the kitchen table with a legal pad, and I couldn't think of much. Not because I hadn't worked. I've worked. But I hadn't started anything. Hadn't learned anything new. Hadn't taken on a younger man. I'd just been keeping the truck between the lines till retirement.
 [CAM: JON MS]
@@ -263,6 +273,8 @@ WES: He looked at me like I'd asked him to teach me to fly. And then he said, "Y
 JONATHON: (laughing) He made you do practice. He made you do drills.
 [CAM: WES MS]
 WES: Drills. In my own shop. And my first bead looked like a caterpillar that gave up. And I kept lifting the hood to see how it was going, which you can't do, and he caught me twice. "Dad. Leave it down." And he stood behind me with his arms crossed, and he was the teacher. And he was good at it. Patient. Better than I was with him at that age.
+[CAM: JON CU]
+JONATHON: (laughs) Ouch.
 [CAM: WES CU]
 WES: And about the fourth bead he said, "Slow down at the end." Because I was rushing the finish to be done. And I stood there with the hood down, and I thought, I've heard that somewhere before. And I'm not sure he knows he said it to me.
 [CAM: JON MS]
@@ -273,6 +285,8 @@ WES: And it's the most he's talked to me in a month. Forty minutes. He talked ab
 JONATHON: You found the door. That's what that is. You spent sixteen years teaching that boy, and the door into him was letting him teach you. My dad was gone before I had anything to teach him. I think about that more than I'd like.
 [CAM: WES MS]
 WES: And I'll tell you who's been showing me how, and it's not a man. It's my mother. She's seventy-eight, bad hip, a widow, and once a month she cooks pot roast for the whole family at a table built for eight. And she prays for every one of them by name before we eat. Takes a while. The rolls get cold. Nobody minds.
+[CAM: JON MS]
+JONATHON: Rolls are overrated.
 [CAM: WES CU]
 WES: And at the last one, I was carrying plates in, and I asked her, sort of joking, "Mom, when are you going to let somebody else do this?" And she didn't laugh. She said, "When I can't." And took the plates out of my hands. She knows exactly what season she's in. She knows it's not going to last forever. And she's not wasting a Sunday of it.
 [CAM: JON MS]
@@ -355,6 +369,8 @@ JONATHON: Fifteen. Don't. I'm not ready for fifteen. I'm barely ready for Tuesda
 WES: Pushback. Five men, five seasons, and none of them is the same as the one before.
 [CAM: WES MS]
 WES: Twenty-five, single. "Honestly, I feel like my life starts when I get married. Right now I'm just working and waiting. Is that wrong?"
+[CAM: JON CU]
+JONATHON: I know that guy.
 [CAM: WES CU]
 WES: It's not wrong to want it. It's wrong to wait for it. You've got more hours that are yours right now than you'll have again for forty years. No wife to come home to, no kids to bathe. That's not a waiting room. That's the season where you get to build the man she's going to marry. Find an older man and learn something. Serve somewhere on a Saturday. Get your money straight. Then if she comes, she gets a man who was already living. And if she doesn't come for a while, you were still living.
 [CAM: JON CU]
@@ -375,6 +391,8 @@ WES: And about "my best years." I don't think you gave her your best years. I th
 JONATHON: And "half of everything" is real. I'm not going to pretend it isn't. Money's real. But I'd guess that's not the half you're grieving.
 [CAM: WES CU]
 WES: Fifty-six, married thirty-one years. "Last kid left for college in August. My wife and I sat at supper the first night and didn't know what to say. Is this just what it is now?"
+[CAM: JON MS]
+JONATHON: Oof. That first supper.
 [CAM: WES MS]
 WES: No. That's the first night of a new season, and the first night of anything is awkward. You've been talking about your kids for twenty years. Now you get to find out who she is again. She's changed. So have you. Ask her something you've never asked. What she'd do with a Saturday if nobody needed her. Where she'd go if you could go anywhere. And then take her there, even if it's the catfish place. Court her like you've got thirty more years. You might.
 [CAM: JON CU]
@@ -401,6 +419,8 @@ WES: And I'll be the one to say it from the other side, since I'm the one with g
 JONATHON: What happened to Saturday?
 [CAM: WES MS]
 WES: I gave Saturday away about four times before she quit asking. So here's what I'd tell the thirty-five-year-old. You're not going to slow down in five years. Nobody does. Slowing down isn't a date. It's a decision you make on a Tuesday. Pick the Tuesday.
+[CAM: JON CU]
+JONATHON: Pick the Tuesday. Okay.
 [TEXT: You don't get to pause your kids.]
 
 [CHAPTER: Going first]
@@ -473,18 +493,18 @@ Chapters
 00:20 Intro
 00:45 Pull up a chair
 03:07 Hand me the three-eighths
-06:10 The finish line moves
-09:24 When Theo's in school
-13:53 The Word
-19:58 The long drive home
-24:38 Slow down at the end
-29:37 The cubicle wall
-33:32 Thirty-seven
-35:26 Pushback
-43:31 Going first
-44:50 The challenge
-46:18 Carry this
-46:25 Outro
+06:12 The finish line moves
+09:26 When Theo's in school
+13:56 The Word
+20:02 The long drive home
+24:45 Slow down at the end
+29:46 The cubicle wall
+33:40 Thirty-seven
+35:35 Pushback
+43:46 Going first
+45:04 The challenge
+46:32 Carry this
+46:40 Outro
 
 Scripture: Proverbs 20:29 (NIV)
 

@@ -67,6 +67,8 @@ WES: That's what got me. She said, "You came home and dried dishes for three wee
 JONATHON: That's every wife I know, honestly. We think we're protecting them by not saying it. And they've been carrying a quieter version of it the whole time, plus the extra job of acting like they don't notice.
 [CAM: WES MS]
 WES: So it took about forty minutes, and at the end of it, I wasn't less worried about October. But I wasn't alone with it. And that's a different kind of worried. It's the kind you can sleep with.
+[CAM: JON MS]
+JONATHON: And the three?
 [CAM: WES CU]
 WES: And then I read her the three. "I am her husband. I am a man who keeps his word, most of the time. I am my kids' dad, and my mother's son." It took me three nights. And she listened, and she nodded, and she said, "You forgot one." And I said, "What?" And she said, "Stubborn." And then she said, "That one's going to get you through October." I'm counting that as a compliment, though I don't think she meant it as one.
 [CAM: JON CU]
@@ -147,6 +149,8 @@ WES: First, that's a good man. He's not asking for a promise. He's asking for a 
 JONATHON: And what I told him, honestly, was, I can't tell you you're safe. Nobody in any company can tell anybody that. I told him his numbers are good and I'd fight for him. And the next morning he stopped by and said he'd gone home and told his wife the whole conversation, even though nothing had happened. He said they sat on the couch after the baby went down and made a list together. What they'd cut, who they'd call. He said, "It's the first time I've felt like I was leading anything at home." Nothing happened to his job. He led anyway.
 [CAM: WES CU]
 WES: Here's the first thing I'd say to him. Your wife first. Alone. Before anybody else. Before your mother, before your buddy, before Facebook. If it happens, you drive home, and you sit down with her, and you tell her everything. Not the cleaned-up version. What happened, what you know, what you don't. And then you make the plan together. Leading your family through it doesn't mean you carry it alone and give orders. It means you go first into the conversation.
+[CAM: JON CU]
+JONATHON: Then what?
 [CAM: WES MS]
 WES: And I'd tell him, she may already have a plan. Mine did. For eight years. Half of leading is asking the woman who's been quietly carrying it what she's got.
 [CAM: WES CU]
@@ -163,8 +167,12 @@ JONATHON: Yeah. And she was doing her best with two jobs and nobody. I'm not mad
 WES: And a verse I'd give him for the long haul. Paul wrote this from prison, about money, of all things.
 [CARD: Philippians 4:12]
 WES: "I know what it is to be in need, and I know what it is to have plenty. I have learned the secret of being content in any and every situation, whether well fed or hungry, whether living in plenty or in want."
+[CAM: JON MS]
+JONATHON: From prison.
 [CAM: WES CU]
 WES: "I have learned." He didn't come out of the womb content. He learned it, in both directions. Plenty and want. And I think that's the gift a man can give his family in a layoff, if he lets it be. His kids get to watch their dad learn it. Watch him be the same man with less. Same jokes, same supper, same church. That's a lesson you can't teach in a good year.
+[CAM: JON CU]
+JONATHON: Like your dad's whistle?
 [CAM: WES MS]
 WES: My dad had a drought year when I was a boy. I didn't know how bad it was until I was grown. What I remember is that he whistled the same song feeding cattle that year as every other year. Tuesday I said maybe the whistle was how he kept the shape of the day. That year, I think it was both. He was keeping the shape, and he was content. I don't think those fight each other.
 [CAM: JON MS]
@@ -205,6 +213,8 @@ JONATHON: "We're going to get through this together, and God hasn't moved." That
 WES: Then that's the sentence. Get through it together, and God hasn't moved. Every time. And I'll quit promising things I don't own.
 [CAM: WES MS]
 WES: How it goes wrong. Too much detail. The kids don't need the numbers. Numbers are for you and your wife. Or the opposite, false cheer. "Everything's great, Daddy just has some days off." Kids can smell it, and then they don't trust the next thing you say. The installer's oldest already smelled it. Or it turns into a sermon. Five minutes. Then supper.
+[CAM: JON MS]
+JONATHON: Noted. Short sermon.
 [CAM: WES CU]
 WES: And one more way it goes wrong, and it's the one I'd have done. You have the first meeting and never have another. You did the hard part, you told them, and now you go quiet for three months, and the kids are back to guessing. The weekly part is the part that works. It's not the big talk. It's the next forty little ones.
 [CAM: JON CU]
@@ -252,10 +262,10 @@ Chapters
 00:00 Cold open
 00:12 Intro
 00:37 Check the box
-11:08 From the table
-18:16 Tool on the table
-24:02 Carry this
-24:10 Outro
+11:10 From the table
+18:22 Tool on the table
+24:09 Carry this
+24:17 Outro
 
 Scripture: Philippians 4:12 (NIV)
 

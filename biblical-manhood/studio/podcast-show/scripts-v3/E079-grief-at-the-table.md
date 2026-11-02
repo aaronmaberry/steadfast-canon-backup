@@ -54,6 +54,8 @@ JONATHON: Episode seventy-nine. Grief at the Table.
 [CHAPTER: Pull up a chair]
 [CAM: WIDE]
 WES: Pull up a chair. Today is grief. And I'll say up front, this one's personal for me, because October's my month. My dad died in October, nine years ago. And I didn't handle it the way you'd want to tell your sons about.
+[CAM: JON MS]
+JONATHON: Take your time with this one.
 [CAM: WES MS]
 WES: And I want to say what I mean by grieving sideways, because I think it's the thing most men do and don't know they're doing it. A woman, a lot of the time, grieves at it. She looks right at it. She cries, she talks, she calls her sister. A lot of men grieve sideways. We go at it from an angle. We work more. We fix things that aren't broken. We get mad at the lawnmower.
 [CAM: JON MS]
@@ -91,6 +93,8 @@ JONATHON: So you called a man to say sorry for one loss, and you found out about
 WES: That's how it usually goes. When men don't say the first thing, nobody ever hears the second one.
 [CAM: WES MS]
 WES: And after I hung up, I went inside and told my wife the whole thing, at the sink. Same sink as 2019. She dried her hands and said she remembered him from a Christmas party. She said his wife made a pecan pie that was better than hers, and she'd never admitted it to anybody. So now there are two of us carrying that woman's pie.
+[CAM: JON CU]
+JONATHON: (laughing) So now she's admitted it to everybody.
 [TEXT: "Took you long enough."]
 
 [CHAPTER: Saturdays at the place]
@@ -112,12 +116,16 @@ WES: Did you ever tell him that?
 JONATHON: About a year later. I took him to lunch and said, "I handled that wrong. I should've asked about her, not the numbers." He said, "You did fine." He was being kind. I didn't do fine. But he let me say it, and that was something.
 [CAM: WES CU]
 WES: And that's the policy as much as it's you. Three days gets a man through the funeral. Then the grief starts, and he's already back on the numbers call. A company gives you time for the funeral and calls it time for grief. Those aren't the same thing. My boss sent me home on a Wednesday, and I was grateful, and I was back the next Monday, and nobody asked me again for a year. Including me.
+[CAM: JON MS]
+JONATHON: So what'd you do with it?
 [CAM: WES CU]
 WES: And then for about a year, every Saturday, I drove out to the place my brother runs, my dad's place, and I fixed things. Fences that didn't need fixing. A gate that swung fine. I re-hung a barn door that had been hanging crooked since 1985, and my dad had liked it that way. My brother'd come out with his coffee, look at what I was doing, and say, "Well." And go back in.
 [CAM: JON CU]
 JONATHON: Did your wife know what you were doing out there, or did she think you just really liked fences?
 [CAM: WES MS]
 WES: She knew before I did. She let it go for about six months. And then one Saturday in the spring, she rode out with me, which she never did. And she sat on the tailgate while I restrung a fence my dad had strung in 1990, and after about an hour she said, "You know he's not going to come check your work." And I stood there with the fence pliers in my hand, and I couldn't move. And that's the first time I cried. Nearly six months after. Standing in my dad's pasture with a pair of fence pliers.
+[CAM: JON CU]
+JONATHON: Six months with the pliers. Man.
 [CAM: WES CU]
 WES: And I'm not telling you that so you'll feel sorry for me. I'm telling you because I think there are men listening right now who've been fixing fences for a year. Or working Saturdays. Or rebuilding an engine in the garage that runs fine. And they think they're keeping busy. They're grieving. Sideways. And at some point, somebody's going to have to sit on the tailgate and say the true thing.
 [CAM: JON CU]
@@ -143,6 +151,8 @@ WES: It is. And it's the one I needed later and didn't use.
 [CAM: INSERT mug]
 [CAM: WES MS]
 WES: (picks up the white mug, holds it) My granddad died in 2014. I was thirty-nine. The man I grew up next to, on his place, cedar on winter Saturdays, all of it. He was ninety-one, and it was his time, and everybody said so. And I went to the funeral, and the lunch after, and I went back to work, and I was fine. That's what I said. Fine.
+[CAM: JON MS]
+JONATHON: Fine. I know that word.
 [CAM: WES CU]
 WES: And that Thursday at breakfast, Mr. Abernathy asked how the funeral was. And I told him. The service was nice, the preacher was good, a lot of people came, the ham was dry. And he let me get all the way through it. And then he set his fork down and tapped the table twice.
 (Wes taps the table twice.)
@@ -152,8 +162,12 @@ WES: "Where'd you put it?"
 JONATHON: Put what?
 [CAM: WES CU]
 WES: That's what I said. "Put what?" And he said, "Your granddad. You haven't said one thing about him. You told me about the ham. Where'd you put him?" And I didn't have an answer. Because I'd put him somewhere. Somewhere in the truck, somewhere in the work week. I hadn't said his name since the graveside.
+[CAM: JON CU]
+JONATHON: That's a hard question at breakfast.
 [CAM: WES MS]
 WES: And then he said the thing I've thought about every October since. He said, "A man's going to put it somewhere. Better on a table than in a truck." And then he said, "Tell me one thing about him." And I told him about the cedar. Winter Saturdays at the place, my dad on the saw and me on the loppers, and my granddad standing at the fence line watching us. Never helped. Never left.
+[CAM: JON MS]
+JONATHON: Never helped. Never left. I love that.
 [CAM: WES CU]
 WES: And then I told him about being thirteen on Granddad's tractor, watching the disk instead of the tree, and the row wandering, and him saying, "Quit looking at what you did. Look at the tree." And then I told him another one, and another one. And we were there till ten, and the waitress quit refilling our coffee. That was my granddad's funeral. The real one. At a diner, with a lineman.
 [CAM: JON MS]
@@ -178,8 +192,12 @@ WES: It was at a little church out past the highway, and it was full. Linemen, m
 JONATHON: Did you talk to any of them? Thirty men with the same story in one room. That's a men's group waiting to happen.
 [CAM: WES MS]
 WES: One. In the parking lot after. A man about my age walked up and said, "Did he tap the table at you?" I said yes. He said, "Twice?" I said twice. And he laughed and cried at the same time and got in his truck and drove off. I never got his name. I think about him every October.
+[CAM: JON CU]
+JONATHON: Twice. Of course it was twice.
 [CAM: WES CU]
 WES: The diner owner came up to me afterward and handed me this mug. His mug. Said, "He'd want you to have it." And I took it home and put it in a cabinet, and I didn't go back to that diner for most of a year. Couldn't walk in. His booth was right there. That's sideways, too. I avoided a building because a man wasn't in it.
+[CAM: JON MS]
+JONATHON: How long till you went back?
 [CAM: WES MS]
 WES: And the day I finally went back, I sat in his booth, by myself, and ordered his breakfast. Two eggs over medium and dry wheat toast, which is a terrible breakfast. And the waitress, same one, brought it and set it down and said, "He'd be glad you came back." That was the first time I cried about Mr. Abernathy. Over dry toast.
 [CAM: JON CU]
@@ -200,6 +218,8 @@ JONATHON: Two words. And here's what gets me about it. He knew. He'd already tol
 JONATHON: And the word in there that I skipped over for years is "wept." Not a tear. Not misty. The crowd saw it. That's a grown man crying in public, at a funeral, in front of the whole town. And the Son of God didn't think that was beneath Him. I spent a lot of years thinking it was beneath me.
 [CAM: WES MS]
 WES: That's the part that undid me, the first time I really saw it. Because I used to think, if I really believed in the resurrection, I wouldn't need to grieve. My dad's with the Lord. Why am I sad? And here's Jesus, who's about to raise the man from the dead, standing at the tomb crying. So grief can't be a lack of faith. The most faithful man who ever lived wept at a grave He was about to empty.
+[CAM: JON CU]
+JONATHON: He knew how it ended and He still cried.
 [CAM: WES CU]
 WES: And He wept in front of people. Not sideways. Not in the barn. Mary and Martha were right there, and the crowd, and they said, "See how he loved him." His tears were how they knew. That's a strange thought for a man like me. My tears might be how my kids know how much I loved their granddad. And for a year, I didn't give them that.
 [CAM: JON MS]
@@ -246,6 +266,8 @@ JONATHON: (laughing) It's always the bowls. She puts the bowls on the top rack a
 JONATHON: I'm not saying this to get a casserole. I'm saying it because there are a lot of men listening whose dad isn't dead, and they're grieving anyway, and nobody's ever told them that's what it is. You're allowed to grieve a father who's still breathing. You're allowed to grieve a marriage when your ex-wife's still in the same town. You're allowed to grieve a son who doesn't call. It's still grief. You still have to put it somewhere.
 [CAM: WES MS]
 WES: And for a man in that spot, I'd say the hard part is there's no funeral. Nobody sends a card when your dad calls for four minutes and hangs up. So you don't get the day off, and you don't get the casserole, and you don't get to say it out loud, because there's no it. There's just a bad mood and a dishwasher.
+[CAM: JON MS]
+JONATHON: A bad mood and a dishwasher. That's a lot of my Octobers.
 [CAM: WES CU]
 WES: And it's not only the men. My mother lost her husband nine years ago this month. Fifty years of taking care of him. And every Tuesday at PT she sits in the corner and counts my reps out loud like it's the most important job in the county. "That's eight. You skipped one." I used to think she was just being my mother. I think some of it's grief. She needs somebody to take care of, and right now it's my knee.
 [TEXT: You can grieve a man who's still alive.]
@@ -333,6 +355,8 @@ JONATHON: And go see his family. I know it's hard. You probably think you'd remi
 JONATHON: Sixty-six, married. "This is going to sound stupid. Our dog died last month. Fourteen years. And it hit me harder than my own father's death. I'm embarrassed. What's wrong with me?"
 [CAM: WES CU]
 WES: Nothing's wrong with you, and it's not stupid. Fourteen years. That dog was there every morning, every night, and never once asked you to talk about your feelings. Of course it hit hard. And I'd gently say, maybe it hit harder because some of your daddy's grief came along with it. Grief does that. It waits for a door, and when one opens, it all comes through.
+[CAM: JON CU]
+JONATHON: So it's not really about the dog?
 [CAM: WES MS]
 WES: You might be grieving the dog and your father at the same time. Let both of them in. And for what it's worth, I'd want a man to grieve my dog like that. A good dog's fourteen years of somebody being glad you're home. That's worth some tears.
 [CAM: JON CU]
@@ -347,6 +371,8 @@ WES: Going first.
 [SHORT 1 IN]
 [CAM: WES MS]
 WES: Mine's the anniversary. My dad died nine years ago a week from Thursday. And for nine years I've spent that day at work, not saying anything. This year I'm taking the afternoon off. I'm going out to the place, and I'm going to sit on the tailgate with my brother, and I'm going to tell him one thing I miss about Dad. Out loud. He'll probably say "Well." That's fine. I'll say it anyway.
+[CAM: JON MS]
+JONATHON: (laughs) He will absolutely say "Well."
 [CAM: WES CU]
 WES: And I'm going to pick up my youngest after school and take him with me. He was six when his granddad died. He doesn't remember much. I want him to hear me say it, so he knows that's what men in our family do now.
 [SHORT 1 OUT]
@@ -432,18 +458,18 @@ Chapters
 00:00 Cold open
 00:17 Intro
 00:42 Pull up a chair
-03:16 Eighteen years
-06:28 Saturdays at the place
-13:07 Mr. Abernathy's question
-20:25 The Word
-24:02 Four o'clock
-27:59 The oven
-31:36 Will Grandma die?
-33:49 Pushback
-40:34 Going first
-44:45 The challenge
-46:07 Carry this
-46:15 Outro
+03:19 Eighteen years
+06:34 Saturdays at the place
+13:17 Mr. Abernathy's question
+20:49 The Word
+24:29 Four o'clock
+28:31 The oven
+32:08 Will Grandma die?
+34:21 Pushback
+41:09 Going first
+45:21 The challenge
+46:44 Carry this
+46:52 Outro
 
 Scripture: John 11:35 (NIV)
 

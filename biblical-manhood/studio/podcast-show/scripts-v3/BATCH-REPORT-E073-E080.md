@@ -8,18 +8,18 @@ All eight scripts are finished. Each passes `_build/lint.sh` with no FAIL and no
 
 | Episode | Format | Spoken words | Minutes (timing.py) | Wes / Jonathon words | Jonathon share | Jonathon lines under 12 words | Longest Wes turn | Lint |
 |---|---|---|---|---|---|---|---|---|
-| E073 Feelings Are the Dash, Not the Wheel | Main | 8,061 | 53:02 | 4,053 / 4,008 | 49.7% | 13.8% (12 of 87) | 113 | Pass, 0 FAIL, 0 WARN |
-| E074 Field Notes: Dash and Wheel | Field Notes | 3,609 | 23:56 | 1,814 / 1,795 | 49.7% | 12.8% | 101 | Pass, 0 FAIL, 0 WARN |
-| E075 Every Season Still Counts | Main | 7,108 | 46:55 | 3,574 / 3,534 | 49.7% | 16.5% | 97 | Pass, 0 FAIL, 0 WARN |
-| E076 Field Notes: Season Swap | Field Notes | 3,203 | 21:14 | 1,642 / 1,561 | 48.7% | 15.0% | 111 | Pass, 0 FAIL, 0 WARN |
-| E077 When the Job Goes Away | Main | 7,105 | 46:48 | 3,657 / 3,448 | 48.5% | 13.3% | 108 | Pass, 0 FAIL, 0 WARN |
-| E078 Field Notes: Between Jobs | Field Notes | 3,703 | 24:28 | 1,861 / 1,842 | 49.7% | 11.6% | 101 | Pass, 0 FAIL, 0 WARN |
-| E079 Grief at the Table | Main | 7,062 | 46:41 | 3,701 / 3,361 | 47.6% | 6.5% | 100 | Pass, 0 FAIL, 0 WARN |
-| E080 Field Notes: Grief Report | Field Notes | 3,399 | 22:30 | 1,730 / 1,669 | 49.1% | 17.9% | 95 | Pass, 0 FAIL, 0 WARN |
+| E073 Feelings Are the Dash, Not the Wheel | Main | 8,097 | 53:20 | 4,053 / 4,044 | 49.9% | 23.5% (23 of 98) | 104 | Pass, 0 FAIL, 0 WARN |
+| E074 Field Notes: Dash and Wheel | Field Notes | 3,624 | 24:03 | 1,814 / 1,810 | 49.9% | 21.2% (11 of 52) | 101 | Pass, 0 FAIL, 0 WARN |
+| E075 Every Season Still Counts | Main | 7,136 | 47:09 | 3,574 / 3,562 | 49.9% | 25.3% (24 of 95) | 106 | Pass, 0 FAIL, 0 WARN |
+| E076 Field Notes: Season Swap | Field Notes | 3,227 | 21:25 | 1,642 / 1,585 | 49.1% | 24.4% (11 of 45) | 106 | Pass, 0 FAIL, 0 WARN |
+| E077 When the Job Goes Away | Main | 7,198 | 47:27 | 3,660 / 3,538 | 49.2% | 27.0% (24 of 89) | 110 | Pass, 0 FAIL, 0 WARN |
+| E078 Field Notes: Between Jobs | Field Notes | 3,717 | 24:35 | 1,861 / 1,856 | 49.9% | 20.8% (10 of 48) | 103 | Pass, 0 FAIL, 0 WARN |
+| E079 Grief at the Table | Main | 7,150 | 47:18 | 3,701 / 3,449 | 48.2% | 18.9% (17 of 90) | 106 | Pass, 0 FAIL, 0 WARN |
+| E080 Field Notes: Grief Report | Field Notes | 3,433 | 22:45 | 1,730 / 1,703 | 49.6% | 30.4% (14 of 46) | 109 | Pass, 0 FAIL, 0 WARN |
 
-Word counts cover spoken lines only. Stage directions, bracketed cues and parentheticals are excluded. No Wes turn runs over 120 words in any episode. There are no em or en dashes and no mid-sentence colons in spoken lines, and no "this week" anywhere.
+Word counts cover spoken lines only. Stage directions, bracketed cues and parentheticals are excluded. Longest Wes turn counts consecutive Wes lines with no Jonathon line between them as one turn, even across a cue, card or chapter break. After the turn-length pass (CHANGELOG-V3.md), no Wes turn runs over 110 words in any episode. There are no em or en dashes and no mid-sentence colons in spoken lines, and no "this week" anywhere.
 
-**Mic share and chemistry.** In every episode Jonathon has between 47% and 50% of spoken words, and under 20% of his lines are short. In each main he pushes back for real at least once and tells at least two of his own stories:
+**Mic share and chemistry.** In every episode Jonathon has between 47% and 50% of spoken words, and he never goes over 50%. The turn-length pass added short Jonathon interjections, so 19% to 30% of his lines are now under 12 words. In each main he pushes back for real at least once and tells at least two of his own stories:
 
 | Episode | Jonathon's push-back | Jonathon's stories |
 |---|---|---|
