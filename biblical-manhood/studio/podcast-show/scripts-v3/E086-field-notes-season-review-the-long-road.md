@@ -55,6 +55,8 @@ WES: Field Notes. Season Review. The Long Road.
 [CHAPTER: Check the box]
 [CAM: WIDE]
 WES: Check the box. Tuesday's challenge was the index card. Write down the one thing you're still trying to pay God back for, read Ephesians two, eight and nine, out loud over it, and then write "Paid in full" across it and sign it. And if your hand stopped, tell one man.
+[CAM: JON MS]
+JONATHON: Tell one man. You first.
 [CAM: WES MS]
 WES: Mine first. I did mine Sunday, before we recorded, so the card's done. It's in my Bible, in the back, behind the maps. And my go-first was to tell my wife about the review again, the right way around. The good line first. Above expectations, the young man on my floor, the reviewer writing it down. And no "but" after it.
 [CAM: JON MS]
@@ -163,6 +165,8 @@ WES: That's the part I like. Because in January, a man opens an envelope and fin
 JONATHON: Did you write one? You're the one who brought the envelope.
 [CAM: WES MS]
 WES: I wrote mine last night. One page, at the kitchen table, with the good pen. And it was harder than I thought. The facts part took two minutes. The what didn't stick part took about twenty, because I kept wanting to explain it. Every line I wrote, I wanted to put a reason after it. And that's the "but" again, isn't it? It shows up everywhere.
+[CAM: JON MS]
+JONATHON: Twenty minutes, and every line wanted a reason. So then what?
 [CAM: WES CU]
 WES: Then I read it to my wife on the back porch. And when I got to the end she said that was the shortest I've ever been about myself. And then she took the envelope and wrote the date on it herself, in her handwriting, so I couldn't sneak it open in December.
 [CAM: JON CU]
@@ -196,6 +200,8 @@ WES: The supper word. In September I said I'd say one true word at supper every 
 JONATHON: So what's still open for you? Because I know there's a letter in a mailbox somewhere.
 [CAM: WES MS]
 WES: The coach letter. I mailed it in September, and there's been no answer, and that's not why I sent it, but it's open. And tomorrow. My youngest and I made a deal back in the summer, a Saturday in October after the first cold front, at the barn at six. And they're saying the front comes through tonight. So tomorrow at six, if the weatherman's right, we're out there. I'll tell you how it went next Friday.
+[CAM: JON MS]
+JONATHON: Okay. What do you keep?
 [CAM: WES CU]
 WES: And what I keep. "Known is a table." I said it in September and it's the truest thing I've said all fall. Most of what I did this season that mattered, I did at a table. The diner, the kitchen, the Thursday men. I'm keeping the table.
 [CAM: JON CU]
@@ -250,11 +256,11 @@ Chapters
 00:00 Cold open
 00:10 Intro
 00:35 Check the box
-05:45 From the table
-11:25 Tool on the table
-15:51 What stuck
-20:51 Carry this
-21:00 Outro
+05:47 From the table
+11:27 Tool on the table
+15:58 What stuck
+20:59 Carry this
+21:08 Outro
 
 Scripture: Psalm 90:12 (NIV)
 

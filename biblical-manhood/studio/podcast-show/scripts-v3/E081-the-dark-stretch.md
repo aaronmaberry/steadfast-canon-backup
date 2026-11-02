@@ -180,7 +180,11 @@ JONATHON: She went first. And she didn't go first with a speech, either. She did
 [TEXT: "Then we're going to find somebody who does."]
 [SHORT 1 IN]
 [CAM: WES MS]
-WES: I want to say something to the man who's got a son on the couch right now. Or a brother. Notice what she didn't do. She didn't wait for him to ask. She'd have waited forever. And she didn't make it a lecture about getting a job. She sat on the coffee table, close, and asked which it was. Sad or lazy. And she promised to help with either one. That's the part that gets me. She didn't make him earn her help by picking the right answer.
+WES: I want to say something to the man who's got a son on the couch right now. Or a brother. Notice what she didn't do. She didn't wait for him to ask. She'd have waited forever.
+[CAM: JON CU]
+JONATHON: Forever is right. That's not an exaggeration, either.
+[CAM: WES MS]
+WES: And she didn't make it a lecture about getting a job. She sat on the coffee table, close, and asked which it was. Sad or lazy. And she promised to help with either one. That's the part that gets me. She didn't make him earn her help by picking the right answer.
 [SHORT 1 OUT]
 
 [CHAPTER: The Word]
@@ -226,6 +230,8 @@ JONATHON: Which is the opposite of what I did. I pretended the second one away a
 WES: And there's one more line I want to read, because it's the line that goes straight at the brother who notices. Verse eight.
 [CARD: Psalm 88:8]
 WES: "You have taken from me my closest friends and have made me repulsive to them."
+[CAM: JON CU]
+JONATHON: Repulsive. That's a strong word to put in a prayer.
 [CAM: WES CU]
 WES: That's what dark does. It takes your friends. Not always because they leave. Sometimes because you push them away, and sometimes because you just disappear on them, and sometimes because they don't know what to say so they quit calling. And the man in the pit thinks it's because he's repulsive. That nobody wants to be around him. And that's the lie the dark tells. I believed it in the recliner. I thought I was doing everybody a favor by staying in my chair.
 [TEXT: One psalm ends in the dark. On purpose.]
@@ -483,15 +489,15 @@ Chapters
 03:07 The recliner year
 10:27 Fog is weather
 14:00 My mother's couch
-18:23 The Word
-24:24 Under the broom bush
-27:34 The Friday-noon call
-34:47 The man you call
-38:18 Pushback
-47:42 Going first
-50:17 The challenge
-51:50 Carry this
-51:59 Outro
+18:27 The Word
+24:31 Under the broom bush
+27:42 The Friday-noon call
+34:55 The man you call
+38:26 Pushback
+47:50 Going first
+50:25 The challenge
+51:58 Carry this
+52:07 Outro
 
 Scripture: Psalm 88:1-2 (NIV). Also Psalm 88:8, 88:13, 1 Kings 19:4-5.
 

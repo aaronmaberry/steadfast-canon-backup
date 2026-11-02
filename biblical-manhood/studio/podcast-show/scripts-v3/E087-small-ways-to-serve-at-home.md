@@ -87,6 +87,8 @@ WES: The banging lid. That's a sigh with a lid on it. And I'd love to tell you I
 JONATHON: A receipt. That's good, because it's not even a lie. You did take out the trash. You just want it signed for.
 [CAM: WES MS]
 WES: I want it signed for. And so I started thinking, getting ready for today, what are the jobs in my house that never came with a receipt? The ones somebody does first, every day, and never sighs about. And the first one I found made me feel about two feet tall.
+[CAM: JON CU]
+JONATHON: Two feet tall. Okay, now I have to know. What was it?
 [CAM: WES CU]
 WES: Birthday cards. Every birthday on my side of the family since the year two thousand. My mother, my brothers, my brothers' wives, every niece and nephew, a man I worked for twenty years ago who still sends us a ham. My wife has bought every one of those cards, signed my name in them, put a stamp on them and mailed them. Twenty-seven years.
 [CAM: JON CU]
@@ -205,6 +207,8 @@ WES: (picks up the white mug, holds it) The first thing Mr. Abernathy ever asked
 JONATHON: The same question, twice? I never heard that. What were you waiting on the second time?
 [CAM: WES CU]
 WES: I was about forty. Work was heavy. I was traveling some. And at our Thursday breakfast, I was telling him I knew I wasn't doing my part at home. My wife had three kids and a part-time job and the church library. And I said to him, real reasonable, like a man with a plan, "When work slows down, I'm going to pick up more around the house."
+[CAM: JON CU]
+JONATHON: When work slows down. Every man in the building just winced. Work never slows down.
 [CAM: WES MS]
 WES: And he didn't say anything. So I kept going. I said, "And I've told her, if she needs something, just ask. I'll do anything she asks." I was proud of that one. I thought that was a generous offer. And he set his fork down and tapped the table twice.
 (Wes taps the table twice.)
@@ -222,6 +226,8 @@ WES: And it sounds so helpful. That's the trick of it. "Just tell me what to do"
 JONATHON: And Mr. Abernathy didn't say any of that, did he? He just asked and went back to his eggs.
 [CAM: WES CU]
 WES: He never said any of that. That's me, twenty years later, working it out. That was always how he did it. He'd ask the question and let you sit in it, and you'd walk out to your truck and finish the sermon yourself. He never once preached at me. He made me do my own preaching, which was worse.
+[CAM: JON MS]
+JONATHON: Which is worse. I'd take the sermon over the silence any day.
 [CAM: WES MS]
 WES: (sets the mug down) So that's the question for any man listening who's said, "Just ask me." What are you waiting on? Because I promise you she's tired of asking. She's been asking for years and you've been hearing it as nagging. And the jobs she quit asking about, she's doing herself. First, at night, after you're asleep.
 [TEXT: "What are you waiting on?"]
@@ -447,16 +453,16 @@ Chapters
 00:13 Intro
 00:40 Pull up a chair
 03:23 The dish sigher
-09:24 The burnt pancake
-13:23 The Word
-18:28 Mr. Abernathy's question
-22:28 Ruby and the notebook
-27:46 Pushback
-34:14 Callers
-42:10 Going first
-44:47 The challenge
-46:29 Carry this
-46:40 Outro
+09:29 The burnt pancake
+13:27 The Word
+18:32 Mr. Abernathy's question
+22:43 Ruby and the notebook
+28:01 Pushback
+34:29 Callers
+42:25 Going first
+45:03 The challenge
+46:44 Carry this
+46:55 Outro
 
 Scripture: Mark 10:45 (NIV). Also Mark 10:43-44, John 13:14-15, Matthew 6:3-4, Philippians 2:4.
 
