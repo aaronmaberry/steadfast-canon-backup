@@ -232,7 +232,7 @@ WES: You drew a phone. A grown man drew a phone.
 JONATHON: I drew a phone. And then Theo added a dinosaur on top of the phone. So now it's a dinosaur on a phone. Dani says it's the most honest thing on the board.
 (both laugh)
 [CAM: WES MS]
-WES: I'll read you mine, so it's not just you on the hook. Right column. "His job." My son's name next to it. "Whether my brother forgives me for Thanksgiving." His name, and God's. "Whether the young guys at my Thursday table keep coming." God's name, by itself, because I can't make a man come to breakfast. And "my mom's walker." My mom's name. She gets to decide about her walker.
+WES: I'll read you mine, so you're not the only one on the hook. Right column. "His job." My son's name next to it. "Whether my brother forgives me for Thanksgiving." His name, and God's. "Whether the young guys at my Thursday table keep coming." God's name, by itself, because I can't make a man come to breakfast. And "my mom's walker." My mom's name. She gets to decide about her walker.
 JONATHON: Your mom gets a line on your not-mine list. That's going to come up at PT.
 WES: It's already come up. She counts reps louder when she's making a point.
 [CAM: WES MS]
@@ -298,7 +298,7 @@ Chapters
 12:31 From the table
 17:13 Tool on the table
 22:04 Carry this
-22:41 Outro
+22:42 Outro
 
 Scripture: 1 Peter 5:7 (NIV)
 

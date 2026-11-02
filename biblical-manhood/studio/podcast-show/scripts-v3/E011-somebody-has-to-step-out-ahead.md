@@ -376,7 +376,7 @@ WES: So for a long time, nothing happened in my family. Mom's health, Dad's esta
 JONATHON: So what changed? Because now you're the one calling the doctor's office.
 WES: I figured out going first isn't a rank. It's not about who's oldest, or who's the head of anything. It's whoever sees it and moves. My brother called me about the doctor, and that was him going first. That counts. He doesn't do it often, so I want to honor it when he does.
 [CAM: WES MS]
-WES: And I'd say that to the younger brother, the son-in-law, the guy at work who's not the boss. You don't need a title to go first. You need to see the snake.
+WES: And I'd say that to the younger brother, the son-in-law, the guy at work who's not the boss. You don't need a job title to move out ahead. You need to see the snake.
 JONATHON: That helps me at work, honestly. I've got a boss above me, and I've waited on him for things I could've just done. I've stood around for months waiting for permission nobody was going to give.
 WES: And I'd say, carefully, go first in a way that honors the man above you. Tell him what you're doing. Don't go around him. Out front isn't the same as out of line.
 JONATHON: Out front isn't out of line. Okay. That's going in my head for the next time I want to go around my boss, which is about every Tuesday.
@@ -537,11 +537,11 @@ Chapters
 30:46 When she throws it back
 33:31 The man at eighty-one
 35:56 Not the oldest
-38:11 Two chairs
-40:37 What I actually did
-45:19 The challenge
-48:13 Carry this
-48:25 Outro
+38:12 Two chairs
+40:38 What I actually did
+45:20 The challenge
+48:14 Carry this
+48:26 Outro
 
 Scripture: John 10:4 (NIV)
 
