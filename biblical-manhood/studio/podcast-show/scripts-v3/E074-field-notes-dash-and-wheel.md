@@ -63,6 +63,8 @@ WES: I'll give you the whole thing. One true word to my wife at supper, every ni
 JONATHON: The fork in the air. Dani does a version of that with a coffee mug. It's the most dangerous thing a wife can hold.
 [CAM: WES MS]
 WES: So I said, "No. Worried." And she put the fork down. Now, she knew about October. I'd told her "afraid" on the porch Sunday. But that was a big conversation, on purpose, with the sun going down. This was a Tuesday, with pork chops. She'd never once heard me hand her a feeling at supper without her digging for it. And I think that mattered more to her than the porch did.
+[CAM: JON MS]
+JONATHON: Pork chops beat porches.
 [CAM: WES CU]
 WES: And then I asked for hers, and she said, "Homesick." And I said, "For what?" And she thought about it and said, "For when the kids were little and loud." She leaves for her sister's next week, and the house is getting quiet, and she'd been carrying that by herself. Twenty-seven years, and I didn't know my wife was homesick in her own kitchen. I didn't fix it. I just said, "Me too, some." And we sat there with the plates.
 [CAM: JON MS]
@@ -73,8 +75,12 @@ WES: That door was sticking. (beat) I wanted to. I had a plan ready by the secon
 JONATHON: I'm in your head now. That's the best news I've had in a month.
 [CAM: WES MS]
 WES: Wednesday the word was "short." I'd been short with a man on the phone at work. I've worked with him about twelve years. And that's where the true-thing-anyway part came in. I didn't feel like calling him back. A man my age doesn't call another man back to say he was short. We just both act like it didn't happen, and it sits there for six months.
+[CAM: JON CU]
+JONATHON: Did you call?
 [CAM: WES MS]
 WES: I called him Thursday morning. I said, "I was short with you yesterday, and it wasn't about you." And there's a pause, and he said, "I figured you had something going on." Which, I did. October. And then he said, "Appreciate you calling." Forty seconds. Best forty seconds of my week.
+[CAM: JON MS]
+JONATHON: Forty seconds. That's it.
 [CAM: WES MS]
 WES: Thursday was "glad." And I'll tell you why, because it's small. My youngest, the one from the truck keys, had been quiet at supper for a week. Answering in one syllable. And Thursday the dog stole a roll off his plate, right off it, and he laughed. Out loud. First time since the night with the keys. And my wife looked at me, and I said "glad" before she could ask. I'm not going to pretend it got easy. Every night there's a half second where "good" is sitting right there on my tongue, and I have to step over it.
 [CAM: JON MS]
@@ -144,6 +150,8 @@ JONATHON: "is it unmanly to cry. asking for real. saturday my son struck out to 
 WES: Austin, no. And I want to answer the whole thing, because there are three things in there.
 [CAM: WES MS]
 WES: First, your son. You didn't say it. Your dad's sentence was right there in your mouth, the one that was said to you who knows how many times, and you didn't hand it down. You might be the first man in your line who didn't say it. Don't let that slide past you. And next time, if he cries, you don't have to say anything wise. You can just say, "That was a hard one." And keep driving.
+[CAM: JON CU]
+JONATHON: Good sentence.
 [CAM: WES CU]
 WES: I've driven a boy home from a strikeout. Nine years old, the last out, bases loaded. It's the longest drive in America. And what he needs from his dad isn't a lesson about the swing. It's to know his dad's not embarrassed of him. You can say that with nothing but a hand on the back of his neck at the stoplight.
 [CAM: JON CU]
@@ -162,6 +170,8 @@ JONATHON: So my only push for Austin is, next time it doesn't have to be alone. 
 JONATHON: And I'll tell you what I do with Theo, because he's four and he cries about once an hour. I used to say, "You're okay, you're okay," which is a nice way of saying stop. Now I try to say, "That hurt," or "That's sad," and just sit there. He stops faster. Every time. What a boy wants when he cries isn't for it to be over. It's for somebody to see it.
 [CAM: WES MS]
 WES: And third, "is it unmanly." Here's a verse I'd give him. It's about Joseph. Second most powerful man in Egypt. Ran the whole country's food supply through a famine. And his brothers, the ones who sold him, are standing in front of him, and they don't know who he is yet. And he sends everybody out of the room, and then this.
+[CAM: JON MS]
+JONATHON: Read it.
 [CARD: Genesis 45:2]
 WES: "And he wept so loudly that the Egyptians heard him, and Pharaoh's household heard about it."
 [CAM: WES CU]
@@ -272,12 +282,12 @@ Chapters
 00:00 Cold open
 00:12 Intro
 00:33 Check the box
-07:30 Choir Night
-10:17 From the table
-16:31 In front of the kids
-19:58 Tool on the table
-23:29 Carry this
-23:36 Outro
+07:35 Choir Night
+10:23 From the table
+16:38 In front of the kids
+20:06 Tool on the table
+23:36 Carry this
+23:44 Outro
 
 Scripture: Genesis 45:2 (NIV)
 

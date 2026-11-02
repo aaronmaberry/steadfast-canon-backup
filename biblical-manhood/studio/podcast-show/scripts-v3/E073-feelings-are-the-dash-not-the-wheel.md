@@ -59,9 +59,11 @@ JONATHON: I want it on the record that Wes picked this topic. The man who says "
 [CAM: WES MS]
 WES: It did go fine. Nobody fell down. The cake stood up.
 [CAM: JON CU]
-JONATHON: (laughing) That's my point. If Wes is doing feelings, I figure the rest of us are out of excuses. And I'll go ahead and tell you mine before we start, since we're doing this. Tonight's the first Tuesday that Dani's at choir rehearsal. So starting tonight, every Tuesday this fall, it's me and both kids from supper to lights out. And I have had a feeling about that in my chest for about five days, and I have been calling it the wrong name.
+JONATHON: (laughing) That's my point. If Wes is doing feelings, I figure the rest of us are out of excuses. And I'll tell you mine before we start, since we're doing this. Tonight's the first Tuesday that Dani's at choir rehearsal. So starting tonight, every Tuesday this fall, it's me and both kids from supper to lights out. And I have had a feeling about that in my chest for about five days, and I have been calling it the wrong name.
 [CAM: WES MS]
 WES: We'll get to the name. Hold it. Because that's actually the whole episode, and I want to set it up right. (sips coffee) Here's the picture. You've got a dash in your truck. Speed, fuel, temperature, the little lights. That dash tells you the truth about what's going on under the hood. A man who never looks at it is going to cook an engine on the side of 281 someday. But a man who stares at the dash and lets it steer is going in the ditch.
+[CAM: JON MS]
+JONATHON: So which one's the feeling?
 [CAM: WES CU]
 WES: You read the dash. You drive with the wheel. That's the whole thing. Your feelings are the dash. They're telling you something true about you. They are not supposed to be the one driving.
 [CAM: JON MS]
@@ -72,8 +74,12 @@ WES: And I've been both men. There were years I had the cardboard taped up so ti
 JONATHON: Which ditch is your favorite? Be honest.
 [CAM: WES CU]
 WES: Cardboard. Every time. I'm a Hill Country man. Where I grew up, if you asked a man how he was, he told you about the rain.
+[CAM: JON CU]
+JONATHON: (laughs) That tracks.
 [CAM: 2S]
 WES: So the mark today is Stop Waiting. Because I think a lot of men are sitting in the driveway with the engine off, waiting to feel like it. Waiting to feel like loving her again. Waiting to feel like going back to church, or making the call to his brother. And the feeling almost never comes first. You do the true thing, and sometimes, later, the feeling catches up. And sometimes it doesn't, and you still did the true thing. So here's the question for the next hour. What is your feeling actually telling you, and who's driving?
+[CAM: JON MS]
+JONATHON: Who's driving.
 [TEXT: Read the dash. Drive with the wheel.]
 
 [CHAPTER: You don't drive mad]
@@ -144,6 +150,8 @@ WES: And now about everybody.
 JONATHON: (laughs) And now everybody. Hi, Mom. Here's what I keep thinking since you told the truck story. Your son had a man standing between him and the hook. I had a kitchen and a mom who was as hurt as I was. Not because she didn't love me. Because she was out of hands. So I learned that when a feeling gets big, you go. Fast. And at thirty-seven I still go fast, I just do it in an email instead of a Corolla.
 [CAM: WES CU]
 WES: That's the man I want to talk to today, honestly. The man who never had anybody say, I'll drive. Because he doesn't know it's an option. He thinks there's two choices, you hold it all in or you floor it.
+[CAM: JON CU]
+JONATHON: That was me. Floor it.
 [CAM: WES MS]
 WES: And I'll be fair to my side of the fence, because I grew up the other way. Nobody in my house ever floored it. My dad never raised his voice in my life. He was at every ballgame, he fed cattle every morning, and he whistled the same song doing it. And I learned to read his day by that whistle. If he whistled, it was fine. If he didn't, you stayed out of the barn. That was the whole dash in our house. A song or no song.
 [CAM: JON CU]
@@ -172,7 +180,7 @@ JONATHON: No. And I'm not going to. Not tonight.
 [CAM: WES CU]
 WES: See, I'd push on that. Because if you sit on it, you just told me where it goes. It goes in the back seat and it drives from there.
 [CAM: JON CU]
-JONATHON: Okay, here's my problem with that. If I walk up to her tonight, on the first night of the thing she's waited ten years for, and I say, "Babe, I've been feeling a little left out," what did I just do? I made her first night about me. She's going to walk in the door glowing, and I'm going to hand her my feeling like a coat to hold. That's not reading the dash. That's the feeling driving with a really good excuse.
+JONATHON: Okay, here's my problem with that. If I walk up to her tonight, on the first night of the thing she's waited ten years for, and I say, "Babe, I've been feeling a little left out," what did I just do? I made her first night about me. She's going to walk in the door glowing, and I'm going to hand her my feeling like a coat to hold. That's not reading the dash. That's the feeling driving with a good excuse.
 [CAM: WES MS]
 WES: So you just carry it.
 [CAM: JON MS]
@@ -210,6 +218,8 @@ WES: A lot of men listening did that. Raised as the gauge reader for somebody el
 JONATHON: So "why, my soul" is a brand new sentence for a guy like me. And then the second half is where it turns.
 [CAM: WES MS]
 WES: "Put your hope in God." That's the wheel. He's not taking orders from his feelings. He's giving them some. And that's the part most men don't know they're allowed to do. You can talk back to your own insides. You can say, I hear you, I see the light on the dash, and we're still going this way.
+[CAM: JON MS]
+JONATHON: Talk back to it. Huh.
 [CAM: WES CU]
 WES: And look at the tense. "I will yet praise him." Not, I feel like praising him. He doesn't. Not today. He's on the far side of the country crying into his food. He's saying, I'm going to. I'll get there. The praise is coming and the feeling can catch up when it catches up. That's Stop Waiting in one line of Scripture. He doesn't wait to feel it before he says it.
 [CAM: JON CU]
@@ -241,7 +251,7 @@ JONATHON: My first real sales job, I was twenty-four. And the top guy on the boa
 [CAM: WES MS]
 WES: What happened to him?
 [CAM: JON MS]
-JONATHON: One Monday he didn't come in. And he never came back. No call, nothing. They cleaned out his desk on Thursday. And about six months later I heard from somebody that he'd left his family too. Same month. Just gone. And I think about him every time somebody says "do it anyway." Because that man did it anyway for years. He did it anyway right up until the day he couldn't. "Anyway," with no reading, is just cardboard with better manners.
+JONATHON: One Monday he didn't come in. And he never came back. No call, nothing. They cleaned out his desk on Thursday. And about six months later I heard from somebody that he'd left his family too. Same month. Just gone. And I think about him every time somebody says "do it anyway." Because that man did it anyway for years. He did it anyway right up until the day he couldn't. "Anyway," with no reading, is cardboard with better manners.
 [CAM: WES CU]
 WES: (long exhale) That's a fair hit.
 [CAM: JON CU]
@@ -287,6 +297,8 @@ WES: So for about three weeks I've been short. With my wife. With the dog. With 
 JONATHON: Because you'd been saying it.
 [CAM: WES MS]
 WES: Three times that week, and I didn't hear myself once. "After October." "Let's see how October goes." She heard it every time. So I sat on the porch and made myself say it, the way you made yourself look at yours in the truck. It wasn't tired. It was afraid.
+[CAM: JON CU]
+JONATHON: Afraid of what?
 [CAM: WES CU]
 WES: I'm fifty-two. I'm afraid a younger man is going to look at thirty years of me and decide I'm the old way of doing things. And I'm afraid he might be right about some of it. That's the honest reading. And the minute I said it out loud, to her, I wasn't short anymore. Not cured. But I quit snapping at the dog.
 [CAM: JON MS]
@@ -300,7 +312,11 @@ WES: Neither one is the true thing. The true thing is to go in there and do my j
 [CAM: JON MS]
 JONATHON: And for what it's worth, from the other side of the desk, if you walked in and said, "I'll be honest, I've been nervous about this one," I'd put my pen down. That's the best first sentence a man can say in a review. Nobody ever says it.
 [CAM: WES CU]
-WES: I believe you. I'm not sure I can do it. But I'll tell you what I can do. I can quit saying "after October" at my own supper table like October's a storm coming in off the hills. I told my wife the word on the porch, and then I told her the second thing, which was harder. I said, "If he's right about some of it, I want to be the kind of man who can hear that." She didn't say anything. She just put her hand on my arm and left it there. My wife doesn't leave her hand anywhere. She's always got somewhere to be. She stayed about ten minutes.
+WES: I believe you. I'm not sure I can do it. But I'll tell you what I can do. I can quit saying "after October" at my own supper table like October's a storm coming in off the hills.
+[CAM: JON MS]
+JONATHON: Good. Start there.
+[CAM: WES CU]
+WES: I told my wife the word on the porch, and then I told her the second thing, which was harder. I said, "If he's right about some of it, I want to be the kind of man who can hear that." She didn't say anything. She just put her hand on my arm and left it there. My wife doesn't leave her hand anywhere. She's always got somewhere to be. She stayed about ten minutes.
 [TEXT: It wasn't tired. It was afraid.]
 
 [CHAPTER: Ashamed had the keys]
@@ -371,18 +387,24 @@ WES: Pushback. We've got about fifteen minutes left, and five men with questions
 JONATHON: I want to say something about "going through the motions," because I think that phrase is doing a lot of damage. Going through the motions is, I'm doing the dishes so she'll leave me alone. Eyes open is, I'm doing the dishes, and I'm going to ask her one real question while I do them, and listen to the answer like it matters. Same dishes. The feeling usually comes back on the second one, not the first.
 [CAM: WES MS]
 WES: It's honest to admit it. To God, and to a man, and maybe, carefully, with a counselor in the room, to her. What it isn't is a direction. That feeling's real, and it's telling you something. Probably that the two of you have been running on fumes for a while. Kids, jobs, the calendar. It's not telling you to go. I've been married a long time, and there were seasons I didn't feel much. I'm not proud of it. But I'm glad I didn't steer by it.
+[CAM: JON CU]
+JONATHON: For how long, though?
 [CAM: WES CU]
 WES: And if it doesn't come back for a long time, that's the light that's been on for six months. Get help. A counselor, a pastor, a doctor. Don't sit in the driveway with it for another eight years.
 [CAM: JON MS]
 JONATHON: Twenty-eight, single. "My doctor says I'm depressed and wants me to try medication. A guy in my Bible study says I just need to pray more and trust God. Who's right?"
 [CAM: WES CU]
 WES: Your doctor's a way God answers prayer. Pray, absolutely. And take what your doctor prescribes, and keep the follow-up appointment, and tell him if it's not working, because the first one sometimes isn't the right one. Nobody in your Bible study would tell a man with a broken leg to pray instead of wearing the cast. Depression isn't weak faith. Sometimes the dash itself needs a repair, and that's what doctors are for.
+[CAM: JON MS]
+JONATHON: And the Bible study guy?
 [CAM: WES MS]
 WES: And I'd say, gently, to the man in your Bible study. Read Psalm 42 with him. The worship leader was downcast and disturbed and crying into his food, and the Bible doesn't call him faithless. It puts him in the songbook. Praying more and seeing a doctor aren't two teams.
 [CAM: JON CU]
 JONATHON: And if it's ever dark enough that you're thinking about ending it, call or text 988 tonight. Not Thursday at Bible study. Tonight. You're twenty-eight and single, and there may be nobody at your apartment to say, I'll drive. So you make the call yourself. That's you taking the keys.
 [CAM: WES MS]
 WES: Forty, divorced three years. "My ex remarried. I have my kids every other Friday through Sunday, and at supper they talk about their stepdad. He took them fishing. He's funny. And I go cold. I get quiet and short and they notice. I hate that I feel this. Am I a bad dad for being jealous?"
+[CAM: JON CU]
+JONATHON: Oof. Hard supper.
 [CAM: WES CU]
 WES: No. You're a dad who loves his kids and just watched another man stand where you used to stand. Of course the light's on. I'd be lit up like a Christmas tree. The feeling's not the problem. The cold is. Because your kids don't know it's jealousy. They think they said something wrong. They'll learn to quit telling you about the other house, and then you've lost the very thing you were scared of losing.
 [CAM: JON CU]
@@ -399,6 +421,8 @@ WES: I'm going to take that one myself. My wife's said a version of that to me. 
 JONATHON: (laughing) It is. I've seen it. I watched you win a raffle once and you looked like you'd been served papers.
 [CAM: WES MS]
 WES: It was a cooler. I didn't need a cooler. Last one. Seventy, widower. "My wife died two years ago. I go to church every Sunday, but I don't feel anything anymore. The songs don't do it. The sermon doesn't do it. Should I take a break until I feel something again?"
+[CAM: JON MS]
+JONATHON: (quietly) That's a real one.
 [CAM: WES CU]
 WES: Please don't take the break. I'll tell you why, as gently as I know how. If you wait to feel it before you go, you may wait a long time, and you'll be waiting alone in your living room. Church isn't a feeling you go get. It's a people you belong to. Go and sit in your pew and feel nothing, and let the songs be sung over you, even when you can't sing them. Some Sundays the man next to you is singing for you. That's what he's there for.
 [CAM: JON CU]
@@ -478,20 +502,20 @@ Chapters
 00:00 Cold open
 00:19 Intro
 00:44 Pull up a chair
-04:46 You don't drive mad
-11:15 Forty-five at midnight
-15:06 Left out
-19:02 The Word
-25:59 Here's my problem with anyway
-29:52 Mad and calling it tired
-34:48 Ashamed had the keys
-38:08 Seven o'clock
-40:30 Two words
-42:26 Pushback
-49:41 Going first
-50:50 The challenge
-52:22 Carry this
-52:32 Outro
+04:49 You don't drive mad
+11:18 Forty-five at midnight
+15:12 Left out
+19:08 The Word
+26:07 Here's my problem with anyway
+29:59 Mad and calling it tired
+34:58 Ashamed had the keys
+38:18 Seven o'clock
+40:41 Two words
+42:37 Pushback
+50:00 Going first
+51:08 The challenge
+52:40 Carry this
+52:50 Outro
 
 Scripture: Psalm 42:5 (NIV)
 

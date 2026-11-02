@@ -54,6 +54,8 @@ WES: Episode seventy-seven. When the Job Goes Away.
 [CHAPTER: Pull up a chair]
 [CAM: WIDE]
 WES: Pull up a chair. Today is the job going away. Laid off, let go, plant closed, title taken, retired before you were ready. If it hasn't happened to you, it's probably happened to the man you sit next to at church, and he hasn't told you.
+[CAM: JON MS]
+JONATHON: Or he's told you it's fine. Which is worse.
 [CAM: WES MS]
 WES: And for most men, that's not a money problem first. It's a name problem. Because when you meet a man, what's the second question? What do you do. And for thirty years he's had an answer. And then one Thursday he doesn't, and he feels like he's disappeared. Like he's a man-shaped hole where a job used to be. And the people who love him most usually don't see it that way at all. To them he's exactly the same size he was on Wednesday. He's the only one who thinks he shrank.
 [CAM: JON MS]
@@ -160,10 +162,16 @@ JONATHON: Here's the Word. Wes has it.
 WES: "Therefore do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own."
 [CAM: WES CU]
 WES: Now, I want to be careful with this one, because people throw it at men who just lost their job like it's a pat on the head. Don't worry about it, brother, God's got it. And the man wants to throw his coffee at them. That's not what Jesus is doing here.
+[CAM: JON CU]
+JONATHON: Then what is He doing?
 [CAM: WES MS]
 WES: Look at the "therefore." He just got done talking about birds and flowers. The birds don't plant or harvest or fill a barn, and the Father feeds them. The flowers in the field don't work or spin, and they're dressed better than Solomon. And He asks, can any of you add one hour to your life by worrying? And then He says, so don't live in tomorrow.
+[CAM: JON MS]
+JONATHON: So don't plan? Because I plan for a living.
 [CAM: WES CU]
 WES: Not, don't plan. Not, don't look for work. The birds still go get the food. Don't live in tomorrow. Because that's where a man without a job lives. Every minute of the day is spent in next month. The mortgage in December. Christmas. What if nobody hires a fifty-five-year-old.
+[CAM: JON CU]
+JONATHON: Mm. Next month's a loud place.
 [CAM: WES MS]
 WES: And look at the question in the middle of it. Can any of you add a single hour to your life by worrying? I used to lie awake doing that math. Two in the morning, figuring how many months we'd last. And it never once added an hour. It took about six hours of sleep a week off me and added nothing.
 [CAM: JON CU]
@@ -174,10 +182,14 @@ JONATHON: "Each day has enough trouble of its own." That's not a promise that th
 JONATHON: And I'd say that to the man who still has a job, too, because I'm him. I live in tomorrow in quarters. I've been living in Q4 since about March. I'm at Ruby's game, and I'm in December. I'm at supper, and I'm in a meeting that hasn't been scheduled yet. You can spend a whole year of good work living in a layoff that never comes.
 [CAM: WES MS]
 WES: I did exactly that once. 2009, layoff rumors at work, every week a new one. And I spent about three months in next year. What if it's me. What about the house. What about the kids' school. I'd lie awake doing math on the ceiling.
+[CAM: JON MS]
+JONATHON: And did it? The layoff?
 [CAM: WES CU]
 WES: And I didn't lose my job. They didn't cut me. But I lost that whole fall anyway. My daughter was seven. I couldn't tell you one thing she did that fall, because I wasn't there. I was in next year, worrying about a layoff that never came. That's what Jesus is protecting you from. Not the trouble. The losing of today to it.
+[CAM: JON CU]
+JONATHON: Wait. Is that the same fall?
 [CAM: WES MS]
-WES: And that's the fall I told you about with the horn. The man in the next lane cut me off, and I held the horn about ten seconds with my daughter in the back seat, and I said, "That man's a bad driver," like that explained it. It took four years and a man at a diner to ask me what it was really about. Mr. Abernathy tapped the table twice and said, "What's it guarding?"
+WES: Same fall. That's the fall I told you about with the horn. The man in the next lane cut me off, and I held the horn about ten seconds with my daughter in the back seat, and I said, "That man's a bad driver," like that explained it. It took four years and a man at a diner to ask me what it was really about. Mr. Abernathy tapped the table twice and said, "What's it guarding?"
 [CAM: JON CU]
 JONATHON: So I'll ask you the same thing he asked. What was the horn guarding?
 [CAM: WES CU]
@@ -218,6 +230,8 @@ WES: That's where it came from. People ask me what I do, and I've said that for 
 JONATHON: I'll be honest, I've always thought it was a little bit of a dodge. Seven years of Thursdays and I still don't fully know what you do.
 [CAM: WES CU]
 WES: That's the idea. You know what I'm like at two in the afternoon when something goes wrong. You know how I treat a waitress. That's the part of my work that's yours to know. And here's what I got right, eventually. After that, I started asking my kids things. Not because I'd read a book. Because I'd just found out the job wasn't who I was, so I had to go find out who I was, and the only place to look was home.
+[CAM: JON MS]
+JONATHON: Did they notice?
 [CAM: WES MS]
 WES: My daughter told me last year, "That was the year you started asking us stuff." So the worst thing that happened to me at work turned out to be one of the best things that happened at my house.
 [CAM: JON MS]
@@ -232,17 +246,23 @@ WES: I meant it, and I still mean it. It's not the money. My wife and I know the
 JONATHON: I'll tell you what I'd hear if my boss put that line on my form. I'd hear, we're done with you. And I'd probably be wrong. It usually means we trust you enough to want more of you. But I'd hear the first one, because I've been in management long enough to know nobody writes anything on a form by accident.
 [CAM: WES CU]
 WES: And that's the same lie the plant supervisor's hearing. The building closed, so I'm done. A form says train somebody, so I'm done. Neither one's true. They're just loud at two in the morning, and quiet by lunch.
+[CAM: JON CU]
+JONATHON: Loud at two, quiet by lunch. That's true.
 [TEXT: "Honey, I didn't even know what your title was."]
 
 [CHAPTER: His job. His.]
 [CAM: WES MS]
 WES: One more, and it's a good one. My oldest is twenty-one, an electrical apprentice, about a year and a half from topping out. And for most of this year he's been deciding whether to stay with his company or go somewhere else when he finishes. And I've had about a hundred opinions on it, and I've kept every one of them in my pocket. I told my wife back in the spring, "His job. His." And I meant it. It's been the hardest thing I've kept my mouth shut about in years.
+[CAM: JON MS]
+JONATHON: (laughing) You kept a hundred opinions in your pocket?
 [CAM: WES CU]
-WES: And I'll tell you why it matters to me so much. You've heard me tell about my dad's scholarship. A&M, agriculture, at eighteen. And his father said the place needed him. So he stayed and fed cattle every morning for the rest of his life. I found out at the graveside, from my uncle. Dad never mentioned it. Not once. I think about that scholarship every time one of my kids picks something.
+WES: I did. And I'll tell you why it matters to me so much. You've heard me tell about my dad's scholarship. A&M, agriculture, at eighteen. And his father said the place needed him. So he stayed and fed cattle every morning for the rest of his life. I found out at the graveside, from my uncle. Dad never mentioned it. Not once. I think about that scholarship every time one of my kids picks something.
 [CAM: JON MS]
 JONATHON: And he never brought it up. Not once, the whole time you were growing up, not even when you were the one applying places.
 [CAM: WES MS]
 WES: Never. And I still don't know if he was sorry. My brother doesn't either. Dad did that work every day without complaining. But somebody else chose his work for him. And I decided a long time ago that whatever my kids did, they'd be the ones who chose it. Even if I'd have chosen different.
+[CAM: JON CU]
+JONATHON: That's a good rule. Hard one, though.
 [CAM: WES CU]
 WES: And here's what I keep coming back to. He whistled. Every morning, feeding cattle, he whistled. I used to think that meant he loved it. Now I don't know. Maybe he did. Or maybe that was how he kept the shape of the day, same as your mom with the brown bag. A man can do work somebody else chose for him and still do it well. He did. I just wish he'd gotten to say yes to it himself.
 [CAM: JON MS]
@@ -296,12 +316,16 @@ WES: (long exhale) The son-in-law. He didn't mean anything by it, probably. That
 JONATHON: I've asked that question. I've asked it at a cookout to a man I didn't know was out of work. I watched it happen on his face and I didn't know what I'd done. So, to everybody listening who's ever asked it, me included, quit asking a man what he's doing with himself. Ask him what he's been thinking about. Ask him how his grandkids are. Ask him anything a man can answer without a job.
 [CAM: WES CU]
 WES: And I want to say something about the money, because we keep talking about the shame and the money's real too. He and his wife need to sit down with the actual numbers. Not him alone at midnight. Both of them, at the table, in daylight. How many months, what goes first, what doesn't. Most men carry the money in their head where it gets bigger every night. On paper, in front of her, it's a number. A hard one, maybe. But a number you can look at together.
+[CAM: JON MS]
+JONATHON: Did you do that? In 2009?
 [CAM: WES MS]
 WES: And I'll say it because I didn't do it. In 2009 I did that math alone on the ceiling for three months. Never once put it on paper in front of my wife. When we finally sat down with the numbers, years later, for a different reason, she told me she'd had a number in her head that whole fall too. Smaller than mine, but she'd been carrying it by herself. Two people lying awake doing the same math in the same bed, and neither one said a word.
 [CAM: JON CU]
 JONATHON: And I'll push on "too old to hire," because I hire people. I hired a fifty-nine-year-old last year. He'd been a warehouse manager for twenty-six years. He didn't get the job off an application. He got it because a contractor I trust called me and said, "You need to meet this man." Too old to hire off a resume, maybe. Not too old to hire off a phone call.
 [CAM: WES MS]
 WES: And the furniture feeling. His wife's picking up extra shifts, and he's home. I'd bet some of that furniture feeling is shame that she's carrying it. I'd tell her that. Out loud. "I feel like furniture, and I hate that you're working more because of me." She might already know. She might be waiting for you to say it.
+[CAM: JON CU]
+JONATHON: And then what? He says it, and then?
 [CAM: WES CU]
 WES: And then ask her what would actually help her. It might be supper on the table when she gets home. It might be you picking up her mother from the doctor. Those things aren't consolation prizes. That's a man pulling his weight in a different season. When she walks in from a twelve-hour shift and there's a plate warm in the oven, she's not married to furniture.
 [CAM: JON MS]
@@ -327,12 +351,16 @@ WES: Let her be. She earned it. And the identity part. You said you've known it 
 JONATHON: And one more thing for him, because he said he feels like furniture. Furniture doesn't call anybody. Furniture doesn't go to the library at eight. Furniture doesn't fix a widow's gutters. The minute he does one thing for somebody on Tuesday morning, he's not furniture. He's a man between jobs, which is a real thing a man can be. My mom was one for six weeks. The man I let go Thursday is one right now. It's not a category of failure. It's a stretch of road.
 [CAM: WES MS]
 WES: And to his wife, if she's listening. Thank you for the extra shifts. And when he comes in from the library, ask him who he met. Not whether anybody called back. Who he met. Let him come home with something to tell you that isn't a rejection.
+[CAM: JON MS]
+JONATHON: Who he met. I like that.
 [CAM: WES CU]
 WES: And the grandkids. You said two grandkids. They don't know what a shift supervisor is. They never saw the plant. They know Grandpa. And right now Grandpa's got something he hasn't had in thirty-one years, which is a weekday. Take one of them fishing on a Wednesday. Pick one up from school. I'm not saying that fixes the money or the shame. I'm saying it's a piece of today that's actually good, and you're allowed to have it. Today's trouble is real. So is today's grandkid.
 [CAM: JON MS]
 JONATHON: And if nine o'clock on a Tuesday morning ever gets dark, the kind of dark where you start thinking your family'd be better off with the life insurance than with you, that's a lie, and it's a common one for men right where you are.
 [CAM: WES CU]
 WES: Call or text 988 that morning. Then call your pastor. You're worth more to your wife than a check. She'd tell you that herself. She's working twelve-hour shifts to keep you, not the house.
+[CAM: JON CU]
+JONATHON: Not the house. Yeah.
 [TEXT: It's true. It's just not a schedule.]
 
 [CHAPTER: Going first]
@@ -410,17 +438,17 @@ Chapters
 00:00 Cold open
 00:14 Intro
 00:42 Pull up a chair
-02:36 Nine years
-08:15 Not his name
-10:40 The work clothes
-14:53 The Word
-20:02 The title
-25:31 His job. His.
-31:01 Pushback
-42:13 Going first
-44:46 The challenge
-46:15 Carry this
-46:23 Outro
+02:40 Nine years
+08:18 Not his name
+10:44 The work clothes
+14:57 The Word
+20:19 The title
+25:53 His job. His.
+31:30 Pushback
+42:52 Going first
+45:25 The challenge
+46:54 Carry this
+47:03 Outro
 
 Scripture: Matthew 6:34 (NIV)
 

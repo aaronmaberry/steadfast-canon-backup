@@ -43,6 +43,21 @@ The extra time comes from added chapters, deeper work on each passage, stories f
 - **"Sir"** appears once in the batch, from E077's caller.
 - **Rotations.** Dani is quoted in alternate episodes only (E076 and E079 quote her; E077 doesn't quote her; E078 and E080 report what she did without quoting her). Wes's deadpan "K" beat appears once (E073). The motive audit runs in E075 and E077 only. Wes's knee and age beat appears in E073 (the rain it keeps predicting), E075 and E079 (his mother counting his PT reps).
 
+### Turn-length pass (Wes monologues split)
+
+Counting consecutive Wes lines with no Jonathon line between them as one turn, every episode had Wes turns over 120 words, the longest 250 (E077's Matthew 6:34 passage). Each turn over 110 words was split with a short Jonathon interjection: a question, a reaction, a push-back or a bit of banter. No Wes content, scripture or story was cut, and no new facts about anyone were added. Wes's text changed in two places only, both in E077 ("Same fall." and "I did." answering Jonathon's new questions). To keep Jonathon at or under 50%, the new lines are short, and five filler words were trimmed from existing Jonathon lines in E073 ("go ahead and," "really," "just"; the last one makes "cardboard with better manners" match the canon wording). Chapter times were re-applied with `_build/apply_chapters.py`.
+
+| Episode | Longest Wes turn before | After | Jonathon lines added | Jonathon share | Minutes (timing.py) |
+|---|---|---|---|---|---|
+| E073 | 217 | 104 | 11 | 49.9% | 53:20 |
+| E074 | 219 | 101 | 5 | 49.9% | 24:03 |
+| E075 | 213 | 106 | 10 | 49.9% | 47:09 |
+| E076 | 151 | 106 | 5 | 49.1% | 21:25 |
+| E077 | 250 | 110 | 14 | 49.2% | 47:27 |
+| E078 | 214 | 103 | 5 | 49.9% | 24:35 |
+| E079 | 203 | 106 | 13 | 48.2% | 47:18 |
+| E080 | 199 | 109 | 7 | 49.6% | 22:45 |
+
 ### Note for whoever merges
 
 This file was created on this branch. The E025-E032 batch created its own scripts-v3/CHANGELOG-V3.md on podcast-v3-e025-e032, so the two branches will conflict on this file at merge. The fix is to keep both batch sections under the one title.

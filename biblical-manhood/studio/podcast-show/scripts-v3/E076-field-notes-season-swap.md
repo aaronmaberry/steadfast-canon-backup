@@ -63,6 +63,8 @@ WES: You'll get it in order. Sunday afternoon, the second welding lesson was sup
 JONATHON: (laughing) He held the hinge back. That's a negotiating move. I've lost deals to buyers who did that.
 [CAM: WES CU]
 WES: He's holding the hinge hostage. And then Wednesday night we went back out. My wife's at her sister's right now, so it's been me and the youngest, eating supper at the counter like two bachelors. Frozen pizza twice. We've had more conversation at that counter in five days than we had all summer, mostly about welding and one girl, which I'm not going to tell you about, because it's his.
+[CAM: JON MS]
+JONATHON: (laughing) One girl. Okay. I'll behave.
 [CAM: WES MS]
 WES: And Wednesday he made me run the same bead six times. Six. And on the sixth one he leaned over, flipped his hood up, looked at it a long time, and said, "That's not bad." Coming from a sixteen-year-old, that's the Medal of Honor. I wrote "That's not bad" on a sticky note and put it on the fridge. He rolled his eyes so hard I heard it.
 [CAM: JON MS]
@@ -76,6 +78,8 @@ WES: Then the building. Monday I did something embarrassing. I walked my whole f
 JONATHON: What'd you actually say? Word for word. Because the ask is the hard part.
 [CAM: WES MS]
 WES: I said, "Can I buy you lunch? I'd like to ask you something." And he said, "Am I in trouble?" And I said, "No. I'm the one who's been in trouble. I've worked forty feet from you for two years and didn't know your name." He laughed. That helped.
+[CAM: JON CU]
+JONATHON: Good line. Then what?
 [CAM: WES CU]
 WES: And I asked him what he was stuck on. Not the work, exactly. He's stuck on how to tell a man above him no without losing the man. And I've done that wrong about a hundred ways and right maybe twice, so I told him about the twice. He ate a whole burger and said, "Can we do this again?" So we're doing it again in October. And walking back to my desk, I realized that was the first time in maybe ten years somebody at work asked me for something that wasn't in my job. I'd forgotten what that feels like.
 [CAM: JON CU]
@@ -122,6 +126,8 @@ WES: "how do you connect with somebody way older. like sixty years. he doesn't t
 JONATHON: Black, one sugar is a start. That's more than I know about some of my reps.
 [CAM: WES MS]
 WES: It is. And here's the sentence. Saturday the fourth, my son asked him, under the car, "How'd you learn all this?" And the mechanic didn't answer for a long time. Long enough my son thought he hadn't heard. And then, still looking at the brake line, he said, "Same way you are. Somebody handed me wrenches." That's the whole sentence.
+[CAM: JON MS]
+JONATHON: Somebody handed me wrenches. Man.
 [CAM: WES CU]
 WES: I didn't hear it. I was at the coffee pot thirty feet away, and on Tuesday I told you the man didn't say a word, and as far as I knew, he hadn't. My son didn't tell me until Wednesday night, at the counter, over frozen pizza. He'd been chewing on it for almost three weeks and hadn't said anything to anybody. Which tells you he's more like that mechanic than he is like me.
 [CAM: JON MS]
@@ -138,6 +144,8 @@ JONATHON: Okay, now I have to know, because that's a very specific memory. How d
 WES: Last, and twice. Every time. Even when we were late.
 [CAM: WES MS]
 WES: And the second thing I'd tell my son. Bring the coffee. Black, one sugar. Without asking. Every month. A man who doesn't talk notices who notices him. I've been bringing that man his coffee for months, and it's the only reason he'll tolerate me.
+[CAM: JON CU]
+JONATHON: Okay. And the third?
 [CAM: WES CU]
 WES: And third, ask about the work, not about the man. Don't ask him, "So what was your life like?" He'll shut the hood on you. Ask him, "Where'd you learn brakes?" "What was the first car you ever fixed?" "What do young guys get wrong about this?" A man who won't tell you about himself will tell you about his work for an hour, and somewhere in the middle of that, he tells you about himself.
 [CAM: JON CU]
@@ -191,7 +199,11 @@ WES: (beat) I didn't know you typed it eleven times.
 [CAM: JON CU]
 JONATHON: Eleven. One version had an emoji in it. I deleted it, thank God.
 [CAM: WES CU]
-WES: Then I'll fix what I said. Whoever sees it first goes first. If you're the old man and you see him, go. If you're the young man and you see him, go. Don't wait to find out whose job it is. And I'll tell you, Mr. Abernathy did both. When I was thirty-six he sat down across from me at a men's breakfast and asked me a question I couldn't answer. He went first. And then he wrote his number on a gas receipt and left the next part to me. I carried that receipt nineteen days before I texted him. He'd decided I had to want it enough to ask.
+WES: Then I'll fix what I said. Whoever sees it first goes first. If you're the old man and you see him, go. If you're the young man and you see him, go. Don't wait to find out whose job it is. And I'll tell you, Mr. Abernathy did both. When I was thirty-six he sat down across from me at a men's breakfast and asked me a question I couldn't answer. He went first.
+[CAM: JON MS]
+JONATHON: Yeah, but he didn't call you.
+[CAM: WES CU]
+WES: And then he wrote his number on a gas receipt and left the next part to me. I carried that receipt nineteen days before I texted him. He'd decided I had to want it enough to ask.
 [CAM: JON MS]
 JONATHON: So he went first and then he made you go second. That's the whole thing. Whoever sees it first. I'll take that.
 [TEXT: Whoever sees it first goes first.]
@@ -233,10 +245,10 @@ Chapters
 00:00 Cold open
 00:10 Intro
 00:34 Check the box
-08:47 From the table
-15:48 Tool on the table
-20:48 Carry this
-20:55 Outro
+08:51 From the table
+15:56 Tool on the table
+20:59 Carry this
+21:07 Outro
 
 Scripture: 1 Kings 12:8 (NIV)
 

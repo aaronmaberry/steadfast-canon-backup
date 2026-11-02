@@ -55,6 +55,8 @@ WES: Field Notes. Grief Report.
 [CHAPTER: Check the box]
 [CAM: WIDE]
 WES: Check the box. Tuesday was, name one loss you've been carrying sideways, and name where you've been putting it. Then put it on a table. Tell one person one thing you miss. And if there's a hard date ahead, put it on the calendar and tell somebody.
+[CAM: JON MS]
+JONATHON: How'd yours go?
 [CAM: WES MS]
 WES: Mine first, and it's a partial, because my date's not till next Thursday. But I called my brother Sunday night. I told him I was taking the afternoon off on Dad's anniversary and I wanted to sit on the tailgate with him for a while. And there was a long quiet on the line. Long enough I checked to see if the call dropped. And then he said, "Well." And then he said, "I'll be at the barn by two." That's a yes, from my brother. That's about as big a yes as he's got.
 [CAM: JON CU]
@@ -73,6 +75,8 @@ WES: And then he said, "Do I have to talk?" And I said, "No." And he said, "Okay
 JONATHON: I still think your brother would talk more without a sixteen-year-old on the tailgate. But I think the boy needs to be on that tailgate more than your brother needs to talk.
 [CAM: WES MS]
 WES: I'll take that. And the one thing I miss. I told my wife Wednesday at supper. It was the way Dad said my name when he came in from the barn. Like a question. "Wes?" Every night, like he was checking I was still there. I hadn't thought about it in years.
+[CAM: JON CU]
+JONATHON: What'd she say?
 [CAM: WES CU]
 WES: And my wife put her fork down and told me one of hers. She said he always asked about her garden before he ever asked about me. Every visit. "How's the okra?" I never noticed. Nine years, and I learned something new about my dad at my own supper table, because I finally said one thing out loud.
 [CAM: WES MS]
@@ -116,6 +120,8 @@ JONATHON: He said, "It's been seven months. Everybody else is back to normal. My
 WES: First thing I'd tell him, there's no clock on it. I know he wants a number. Every man wants a number. Six months, a year, then you're done. And it's just not built that way. I'm nine years out and I've got a barn door that still gets me.
 [CAM: WES CU]
 WES: And second, seven months is nothing. He hasn't even gotten through the first year of firsts yet. First Thanksgiving without her. First Christmas. First Mother's Day. Her birthday. The day she died. Every one of those is a new grief, and he hasn't had all of them yet.
+[CAM: JON MS]
+JONATHON: So when does it get lighter?
 [CAM: WES MS]
 WES: What changes is the weight. Not whether it's there. The first year it's like carrying a feed sack up a hill every day. Later, it's in your pocket. It's still there. You can still put your hand on it. It just doesn't knock you down on the way to the truck. And then some Tuesday it's a feed sack again for an afternoon, and that's normal too.
 [CAM: JON MS]
@@ -132,6 +138,8 @@ WES: It's worth something. I just don't want him finding it out by himself in a 
 JONATHON: (beat) That's better. Take the exit with your sister. I'll tell him Monday. He's going to say his sister drives too slow.
 [CAM: WES MS]
 WES: Then he drives. And after, they go eat somewhere. Don't drive home straight from it. Sit across a table from your sister and tell each other one thing you miss. That's Tuesday's challenge, with supper.
+[CAM: JON CU]
+JONATHON: Supper. I'll tell him that too.
 [CAM: WES MS]
 WES: Here's the verse I'd give him. Paul wrote it to a church that was burying people and didn't know what to think.
 [CARD: 1 Thessalonians 4:13]
@@ -152,6 +160,8 @@ WES: And I'd add one for men our age and older. A lot of us won't go to a doctor
 JONATHON: And I'll be honest, I don't know how long it takes either. I've been grieving a man who's still alive for twenty-eight years and I'm still working on it. I just know I'm not going to be the one who tells another man he ought to be done by now.
 [CAM: WES MS]
 WES: Me either. I'm nine years into my dad, and Wednesday at supper I found something new about him. The okra. I don't think grief ends. I think it keeps finding things.
+[CAM: JON MS]
+JONATHON: It keeps finding things. Yeah.
 [TEXT: Grief doesn't keep a clock.]
 
 [CHAPTER: Tool on the table]
@@ -160,6 +170,8 @@ WES: Me either. I'm nine years into my dad, and Wednesday at supper I found some
 WES: Tool on the table. The anniversary calendar. Because grief doesn't keep a clock, but it does keep a calendar, and it'll ambush you on the dates if you don't get there first.
 [CAM: WES MS]
 WES: Step one. Write down the dates. The day they died. Their birthday. Your wedding anniversary, if it's a wife or a marriage you lost. The day of the diagnosis. The day the divorce was final. The holidays. Sit down with a pen and make the list. Most men have never once written it down, and then they wonder why they're mad at the lawnmower every March.
+[CAM: JON CU]
+JONATHON: (laughs) Every March. Did you make yours?
 [CAM: WES CU]
 WES: I made mine Wednesday night, after supper. It took ten minutes and it was five dates. My dad's day. His birthday. My granddad's day. Mr. Abernathy's. And my mother-in-law's, which I'd never thought of as mine, but my wife goes quiet every April and I've never once known why until I wrote it down and looked at it. Ten minutes. And I've been married to that woman a long time.
 [CAM: JON CU]
@@ -190,6 +202,8 @@ JONATHON: I put one on mine Wednesday night. The sixty-one-year-old's mother's b
 JONATHON: And one seat. If you lost a baby, you've got dates nobody else knows. The day it happened, and the due date. Put both of them on there. Tell your wife you know what day it is before she has to tell you. That might be the most important text you send all year.
 [CAM: WES CU]
 WES: How it goes wrong. You make it a performance. A big post every year, and you never actually tell anybody face to face. Or you only do it the first year. Year one, everybody's ready. Year five, you're on your own, and the date still lands. Or you do it for everybody else and never put your own dates on there.
+[CAM: JON MS]
+JONATHON: Which one would you do?
 [CAM: WES MS]
 WES: That's the one I'd do. For eight years I knew the date my dad died, and I never once put it on a calendar. I didn't need a reminder. I needed a plan, and I never made one. So every year it just landed on me at work, and I got through the meeting, and I came home short with everybody.
 [CAM: JON CU]
@@ -237,10 +251,10 @@ Chapters
 00:00 Cold open
 00:13 Intro
 00:33 Check the box
-07:39 From the table
-15:25 Tool on the table
-22:05 Carry this
-22:14 Outro
+07:42 From the table
+15:35 Tool on the table
+22:20 Carry this
+22:29 Outro
 
 Scripture: 1 Thessalonians 4:13 (NIV)
 
