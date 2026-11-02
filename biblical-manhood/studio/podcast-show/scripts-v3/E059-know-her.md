@@ -136,7 +136,7 @@ WES: And she kept living. That's the thing. She didn't freeze when I quit paying
 [CAM: JON CU]
 JONATHON: That's what scares me about the parking lot. If I can miss three weeks of my wife singing in a car in a house that small, what am I going to miss in twenty years?
 WES: Twenty-two summers of beach. That's what. If you don't ask.
-JONATHON: I'm not going to Rockport. I want that on the record. Dani's from Houston. She's seen enough Gulf.
+JONATHON: I'm not going to Rockport. Write that down somewhere. Dani's from Houston. She's seen enough Gulf.
 [CAM: WES MS]
 WES: And I want to say something about my dad here, because he complicates this, and I don't want anybody to hear "talk more" as the whole answer.
 JONATHON: Your dad, who said about nine words a year. I'm interested in where this goes.
@@ -160,7 +160,7 @@ WES: "The purposes of a person's heart are deep waters, but one who has insight 
 [CAM: JON MS]
 JONATHON: Deep waters. You've got a well story. I can tell from how you set the mug down.
 [CAM: WES CU]
-WES: My granddad's place had a hand-dug well behind the old house. Dad's daddy, the one with the land. Stone sides. A bucket and a rope and a crank. We had a pump by the time I came along, but he kept the well. And when I was little, he'd let me draw a bucket.
+WES: My granddad's place had a hand-dug well behind the old house. My dad's father, who had the land. Stone sides. A bucket and a rope and a crank. We had a pump by the time I came along, but he kept the well. And when I was little, he'd let me draw a bucket.
 JONATHON: I can see where this goes. You did it wrong. You did it the Wes way.
 [CAM: WES MS]
 WES: I did it the Wes way. First time, I threw that bucket down there as hard as I could. It hit the water flat and floated. Sat right on top. Came up empty. And he laughed at me and said, "You can't yell at a well."
@@ -442,14 +442,14 @@ Chapters
 05:07 The parking lot
 09:33 The files
 14:19 The Word
-23:07 The lid
-25:48 Letting it down slow
+23:06 The lid
+25:47 Letting it down slow
 29:21 Pushback
-37:54 Why we quit asking
+37:53 Why we quit asking
 42:51 Going first
 44:45 The challenge
-46:28 Carry this
-46:39 Outro
+46:27 Carry this
+46:38 Outro
 
 Scripture: Proverbs 20:5 (NIV)
 

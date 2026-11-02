@@ -259,7 +259,7 @@ JONATHON: And single guys hear that as, "Great, so I'm supposed to be a monk unt
 [CAM: WES CU]
 WES: That's how I'd have heard it. But read it as a married man and it's a different verse. He's saying, I've got hours you don't have anymore. I've got a wife who's rightly owed my evenings and three kids who've had my Saturdays for twenty-five years. A single man at twenty-four has a Thursday night with nobody's name on it. Paul's not calling that a consolation prize. He's calling it room.
 JONATHON: Room. I had so much room at twenty-four and I filled every inch of it with a bar tab and a TV.
-WES: I filled mine with a TV tray and a ballgame. Same room, different furniture.
+WES: I filled mine with a ballgame on a TV tray. Same room, different furniture.
 [CAM: JON MS]
 JONATHON: So what's the room for? Because "serve the Lord" is the kind of thing that's true and nobody knows what to do with on a Thursday.
 WES: It's for exactly what the young man's doing. A grandmother's nails on Thursday. A hymn in the back row. Helping a man move on his day off because nobody's waiting on him for supper. The single man can say yes to the thing on short notice. I can't. I have to check with the house.

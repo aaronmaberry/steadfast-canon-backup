@@ -91,7 +91,7 @@ WES: When our youngest started kindergarten, she told me she wanted to go back a
 [CAM: JON CU]
 JONATHON: Two words. And she built a decade around them.
 [CAM: WES CU]
-WES: And here's the part I want to be careful with. She didn't ask me to fix it. I asked, "Do you still want it?" And she said, "I don't know. I'm not asking you to do anything. I just wanted you to have heard it once." So I wrote it down. On the back. I didn't make a plan. I'm not enrolling her in anything. It's hers.
+WES: And I need to be careful with this next bit. She didn't ask me to fix it. I asked, "Do you still want it?" And she said, "I don't know. I'm not asking you to do anything. I just wanted you to have heard it once." So I wrote it down. On the back. I didn't make a plan. I'm not enrolling her in anything. It's hers.
 JONATHON: Did you at least ask what the degree was in? Because that's a follow-up, and you're the follow-up guy now.
 WES: Accounting. Which explains the dentist's office, and the church books, and why our taxes have never once been late.
 [CAM: WES MS]
@@ -109,7 +109,7 @@ WES: It was the best six minutes of my Thursday. And I'd been typing one letter 
 WES: Couple of short ones. The boot's on. The sound man showed me how, and it rained Tuesday, and the ceiling stayed dry. Oklahoma's still up there, but my wife says she's painting over it. And the truck. Nothing new. I still go.
 JONATHON: You still go. Okay. I'm not going to ask anything else about the truck, because I know that face.
 [CAM: JON MS]
-JONATHON: And the single check. My nephew. I texted him the single version Tuesday. Ask your mom, your sister, your grandmother something real, and listen all the way to the end. And Wednesday he wrote back. His mom's my sister, so I had a personal stake in this one.
+JONATHON: And the single check. My nephew. I texted him the single version Tuesday. Ask your mom, your sister, your grandmother something real, and don't stop her till she's done. And Wednesday he wrote back. His mom's my sister, so I had a personal stake in this one.
 WES: Read it.
 [CAM: JON CU]
 JONATHON: "asked my mom what she wanted to be at 20. flight attendant. she talked 40 min. i didnt fix anything. is that the thing"
@@ -119,7 +119,7 @@ JONATHON: I wrote back, "that's the thing." First time I've answered him since "
 
 [CHAPTER: From the table]
 [CAM: JON MS]
-JONATHON: From the table. And this came from a guy on my sales team. Thirty-one, married two years. He asked at lunch Wednesday, and said I could bring it here without his name. He'd heard me tell the parking lot story, and he went home and tried Wes's question on his wife. "What's something about you I'd get wrong?" And she said, "Why? What did you hear?"
+JONATHON: From the table. And this came from a guy on my sales team. Thirty-one, married two years. He asked at lunch Wednesday, and he's fine with it being here as long as his name isn't. He'd heard me tell the parking lot story, and he went home and tried Wes's question on his wife. "What's something about you I'd get wrong?" And she said, "Why? What did you hear?"
 WES: (laughs) "What did you hear." That's a woman who thinks somebody at church has been talking.
 [CAM: JON CU]
 JONATHON: So here's his question. "What questions do I ask my wife that aren't weird? Everything I try sounds like an interview."
@@ -140,9 +140,9 @@ WES: She might. And then you know something. A man who knows what his wife gave 
 [CAM: WES MS]
 WES: And start with what's already in front of her. Not "What are your dreams?" That's a job interview. "What was the hardest part of your shift?" "What did your sister say about the house?" "What are you reading?" Things she's already living. You go down the well where she's standing. And when she answers, ask one more about the same thing. That's how she knows you were listening and not running down a list.
 [CAM: JON CU]
-JONATHON: And here's the other thing that makes it weird. Where you're sitting. If he's asking across the kitchen table, looking right at her, that's an interview. That's how I talk to clients. Most men talk better side by side. In a truck. Fixing something. Dani told me the parking lot thing while she was peeling an orange and not looking at me. And I told her mine looking at a pan.
+JONATHON: And here's the other thing that makes it weird. Where you're sitting. If he's asking across the kitchen table, looking right at her, that's an interview. That's how I talk to clients. Most guys open up shoulder to shoulder. In a truck. Under a sink. Dani told me the parking lot thing while she was peeling an orange and not looking at me. And I told her mine looking at a pan.
 [CAM: JON MS]
-JONATHON: And one more for him, since he's two years in. Answer your own questions. If you ask her what was hard, tell her what was hard for you. Otherwise it's not a conversation. It's a deposition. She doesn't want to be studied like a client. She wants to be known by somebody who's letting himself be known back.
+JONATHON: And one more for him, since he's two years in. Answer your own questions. If you ask her what was hard, tell her what was hard for you. Otherwise it's not a conversation. It's a deposition. Dani doesn't want a file on her in my head. She wants a husband who's letting himself be read too.
 [CAM: JON CU]
 JONATHON: There's a verse for this. It's from the Song of Songs, and it's the husband talking. And it isn't a demand. Listen to how he asks.
 [CARD: Song of Songs 2:14]
@@ -190,11 +190,11 @@ WES: And two rules. You answer your own questions too. Every one. And you don't 
 [CAM: JON MS]
 JONATHON: And if she doesn't want to walk, that's not a test you failed. Some nights she's tired. Ask again in a few days. If walking's hard for her, the porch works. The truck works. A drive to get gas works. It's side by side that matters, not the steps.
 WES: And one more rule I'd add, because I've broken it. What she tells you on the walk never shows up in a fight. Ever. If she tells you on Tuesday she's always felt second to your mother, and on Friday you're arguing about the dishwasher and you say "Well, you told me you feel second," she's never walking with you again. And she shouldn't.
-JONATHON: That's the one that ends the whole tool. Use her answer against her one time, and the bucket's never coming back up.
+JONATHON: That rule's the load-bearing wall of the whole tool. Use her answer against her one time, and the bucket's never coming back up.
 [CAM: WES CU]
 WES: Never. You're holding something she handed you. You don't throw it at her.
 [CAM: WES MS]
-WES: And if your wife's been carrying something heavy, and the second question turns into tears, keep walking slow. You don't have to solve it by the mailbox. If it's darker than you know how to carry, help her find somebody who does. A pastor, a counselor, a doctor. And go with her.
+WES: And if your wife's been carrying something heavy, and the second question turns into tears, keep walking slow. You don't have to solve it by the mailbox. If it's darker than you know how to carry, help her find somebody who does. A pastor, a counselor, a doctor. And sit in the waiting room with her.
 [CAM: JON CU]
 JONATHON: Single guys, you can walk this with your mother or your grandmother, or your sister if she'll put up with you. Same three. My nephew did the want question with his mom without knowing it had a name. Divorced dads, the walk's with your kids. Glad and want work fine for a ten-year-old.
 WES: And widowers, you already know this walk. You'd give anything for one more. So give it to somebody. A daughter. A sister. A friend's wife at the hospital. Walk with somebody before next Friday.
@@ -238,9 +238,9 @@ Chapters
 00:06 Intro
 00:32 Check the box
 09:07 From the table
-16:37 Tool on the table
-21:19 Carry this
-21:25 Outro
+16:38 Tool on the table
+21:21 Carry this
+21:28 Outro
 
 Scripture: Song of Songs 2:14 (NIV)
 
