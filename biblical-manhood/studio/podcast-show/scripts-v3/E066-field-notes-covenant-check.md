@@ -94,6 +94,8 @@ WES: Mine. I went to bed when she went to bed. Every night but Monday, and Monda
 JONATHON: I'll allow it. And?
 [CAM: WES CU]
 WES: The first two nights she read, and I lay there. I didn't know what to do with myself. Years of falling asleep in a recliner, and I'd forgotten how to fall asleep lying next to somebody who's awake. I could hear her turn the pages. I counted the ceiling fan. And Wednesday she put the book down on her chest and talked. About her friend. About the scan. She said, "I keep thinking about her kids." Grown kids, and she still called them kids.
+[CAM: JON MS]
+JONATHON: Grown kids, and they're still the kids to her. What were you saying back while she talked?
 [CAM: WES MS]
 WES: She talked about half an hour. I mostly said, "Yeah." And somewhere in there I realized she'd been saving that up. All of it. And in the recliner years, she'd have saved it up till she fell asleep, and then carried it into the next day, and I'd never have known it was there.
 [CAM: JON MS]
@@ -154,8 +156,10 @@ JONATHON: And his son needs it too. A nine-year-old boy needs to hear his dad sa
 JONATHON: So, Austin asked who goes first. Her or him.
 [CAM: WES MS]
 WES: Austin, you go first in your house. If you and her mom can agree on the basics, that's a gift to your kids, so try. Send her one text. "I'm going to start talking to the kids about their bodies and screens. Here's what I'm going to say. Want to add anything?" If she says yes, great. If she adds something good, use it and tell the kids it came from Mom. If she says nothing, or she says no, you still own your house. You don't wait for agreement to do right in your own kitchen.
+[CAM: JON MS]
+JONATHON: And one more for Austin, and it's the one I'd get wrong if I were him.
 [CAM: WES CU]
-WES: And never use it as a weapon. Never say, "Your mom doesn't care about this, but I do." The kids are not a place to win. They're the reason you're having the talk.
+WES: And never use it as a weapon. Never say, "Your mom doesn't care about this, but I do." The kids are not a place to win. They're the reason you're having the talk. Kids can tell when they're being used to settle a score, even little ones, and they'll quit telling you things.
 [CAM: JON MS]
 JONATHON: And I'd add one thing for the divorced dad who only has Saturdays. You don't have time for a lecture. Good. Kids learn this in the truck, sideways, with the radio low. Austin drives those kids to soccer every Saturday at nine. That's twenty minutes, twice. That's his classroom.
 [CAM: WES MS]
@@ -260,10 +264,10 @@ Chapters
 00:00 Cold open
 00:10 Intro
 00:33 Check the box
-08:53 From the table
-17:03 Tool on the table
-24:20 Carry this
-24:28 Outro
+09:00 From the table
+17:24 Tool on the table
+24:40 Carry this
+24:48 Outro
 
 Scripture: Psalm 119:9 (NIV)
 

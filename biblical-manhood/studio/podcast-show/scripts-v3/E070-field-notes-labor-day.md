@@ -170,13 +170,15 @@ WES: (beat) Sunday afternoons I'm in the recliner with a ballgame, and I'd have 
 [CAM: JON MS]
 JONATHON: And don't grade it. If you spend the first twenty minutes twitching, that's normal. You've been running for years. The engine doesn't stop when you turn the key. It ticks for a while.
 [CAM: WES CU]
-WES: And if an hour goes well, try two. Then try an afternoon. A real Sabbath day is the goal. An hour's how you find out you won't die.
+WES: And if an hour goes well, try two. Then try an afternoon. A real Sabbath day is the goal. An hour's how you find out you won't die. My dad found that out on a tailgate, late. You can find it out sooner.
 [CAM: JON CU]
 JONATHON: Shift workers, nurses, the men on call, I live with one. You can't always have Sunday. Pick your day. Dani's Sabbath hour is Thursday, around two, after she wakes up and before she picks the kids up from camp. She sits in the backyard with coffee and doesn't fold anything. The day matters less than doing it on purpose.
 [CAM: JON MS]
 JONATHON: And married guys, one more. Some of you will take your hour and hand your wife both kids and the dishes to pay for it. That's not a Sabbath. That's a trade, and she's on the losing end of it. If you take an hour, she gets one. Ask her what hers is. Dani took a while to figure out hers was coffee and the backyard and folding nothing.
 [CAM: WES MS]
 WES: I asked mine in August. All these years married, and I'd never once asked. Hers is a bath with the door locked and a library book. Twenty minutes. I'd always heard the water running and figured she was just taking a bath. She was taking a Sabbath, and the kids knew not to knock long before I did.
+[CAM: JON MS]
+JONATHON: And for the men who go home to an empty house, the hour looks different.
 [CAM: WES CU]
 WES: Single guys, you're the most likely to work straight through Saturday and Sunday both, because nobody's waiting at home. Somebody is. God is. Take the hour. Divorced dads, if your Saturday's with the kids, make the hour with them. A park, no phone. Widowers, if you've been staying busy so you don't have to sit in the quiet, I understand. The hour might be hard. Do it anyway, and maybe not alone.
 [CAM: JON CU]
@@ -247,9 +249,9 @@ Chapters
 00:37 Check the box
 09:31 From the table
 14:53 Tool on the table
-20:10 What stuck
-23:16 Carry this
-23:22 Outro
+20:22 What stuck
+23:28 Carry this
+23:34 Outro
 
 Scripture: Exodus 34:21 (NIV)
 

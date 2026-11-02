@@ -139,7 +139,11 @@ WES: That's the most honest answer anybody's going to give on this whole subject
 [CAM: JON CU]
 JONATHON: She did. On nights, you find your two people. The ones who know how you take your coffee and know when you're not okay. She said days are a crowd, and nights are a crew. If you don't find your crew on nights, nights will eat you. So, young man, find your crew. The forklift guy's a start.
 [CAM: WES MS]
-WES: And then the part I really want him to hear. God knows his name at the warehouse. Not in a greeting-card way. He knows exactly where that young man is standing at three in the morning, and what he's lifting, and how tired he is. Here's a verse I'd text him back.
+WES: And then the part I really want him to hear. God knows his name at the warehouse. Not in a greeting-card way. He knows exactly where that young man is standing at three in the morning, and what he's lifting, and how tired he is.
+[CAM: JON MS]
+JONATHON: Then give him something he can carry into the warehouse with him. Something short.
+[CAM: WES MS]
+WES: Here's a verse I'd text him back.
 [CARD: Psalm 139:3]
 WES: "You discern my going out and my lying down; you are familiar with all my ways."
 [CAM: WES CU]
@@ -244,9 +248,9 @@ Chapters
 00:14 Intro
 00:38 Check the box
 08:42 From the table
-15:37 Tool on the table
-21:49 Carry this
-21:57 Outro
+15:42 Tool on the table
+21:55 Carry this
+22:03 Outro
 
 Scripture: Psalm 139:3 (NIV)
 

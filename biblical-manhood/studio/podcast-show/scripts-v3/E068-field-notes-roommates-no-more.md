@@ -84,6 +84,8 @@ WES: Mine. The feed store, Saturday. I asked her. "What are you looking forward 
 [CAM: WES CU]
 WES: And she didn't answer for about a mile. Long enough I thought she wasn't going to. And then she said, "I'd like to finish something." I said, "Like what?" And she said, "I'll tell you when I know." And that was it. We talked about the creek the rest of the way.
 [pause 1s]
+[CAM: JON MS]
+JONATHON: And you left it there? I'd have had four more questions out before the next mailbox.
 [CAM: WES MS]
 WES: And I'll be honest with you, I wanted to say more. You know what I've got folded up in my Bible. It would've been the easiest thing in the world to say, "Is it the degree?" And I'd have felt like a good husband for about a minute. But she said she'd tell me when she knows. If I say it first, it's my idea, and she'd be finishing something for me. So I'm going to let her know. That's hers. I drove the truck.
 [CAM: JON CU]
@@ -248,10 +250,10 @@ Chapters
 00:00 Cold open
 00:16 Intro
 00:37 Check the box
-08:33 From the table
-15:06 Tool on the table
-21:29 Carry this
-21:38 Outro
+08:39 From the table
+15:12 Tool on the table
+21:35 Carry this
+21:44 Outro
 
 Scripture: Amos 3:3 (NIV)
 

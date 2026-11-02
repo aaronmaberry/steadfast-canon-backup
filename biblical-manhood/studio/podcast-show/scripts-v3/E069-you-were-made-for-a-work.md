@@ -119,7 +119,13 @@ JONATHON: I'm not all the way there with you. I still think the man on the ladde
 
 [CHAPTER: The chests]
 [CAM: WES MS]
-WES: I'll tell you about my granddad's chests. He wasn't a carpenter by trade. He farmed. But in the winters, in the shed, he built cedar chests. One for every grandchild. And he didn't buy plans. He'd go into your house, and he'd measure the foot of your bed. Then he'd build a chest that fit right there. Exact. You could slide it under the footboard with a finger's width to spare. He'd work out there with a woodstove going and the radio on the farm report, and my grandmother would send one of us out with coffee, and he'd never stop to drink it till it was cold. Every board planed by hand. Every corner dovetailed. No nails anywhere in it. I've looked.
+WES: I'll tell you about my granddad's chests. He wasn't a carpenter by trade. He farmed. But in the winters, in the shed, he built cedar chests. One for every grandchild. And he didn't buy plans. He'd go into your house, and he'd measure the foot of your bed. Then he'd build a chest that fit right there. Exact. You could slide it under the footboard with a finger's width to spare.
+[CAM: JON MS]
+JONATHON: Measured to your bed. Not a size, your actual bed. That's a different thing than a present.
+[CAM: WES MS]
+WES: He'd work out there with a woodstove going and the radio on the farm report, and my grandmother would send one of us out with coffee, and he'd never stop to drink it till it was cold. Every board planed by hand. Every corner dovetailed. No nails anywhere in it. I've looked.
+[CAM: JON MS]
+JONATHON: And you were a kid when he built yours, so you couldn't have known what you were looking at.
 [CAM: WES CU]
 WES: And here's the part I didn't understand until I was grown. He built mine before I had a bed it would fit. I was in a crib. He measured the bed my parents said I'd be in when I was big enough, the one my older brother was about to move out of. And he built the chest for that bed. Two years early. And when I moved into that bed, the chest was already there. It had been waiting on me.
 [CAM: JON CU]
@@ -146,6 +152,8 @@ WES: What did it settle?
 JONATHON: I think it settled that the important people at my company are the guys in the trucks. Which, after Thursday, I'm not sure she's wrong about. But I didn't like how small I felt at my own supper table. I want my kids to know what I do and why. Not "Daddy goes to meetings." I want Ruby to know that her dad sat in a meeting and took some heat so a lady in a hot house got her air back with one part.
 [CAM: WES MS]
 WES: Tell her that. In those words. Kids learn what work is for by hearing why you do it. Most of us only ever tell them it's hard. My dad never told me a single thing about why he worked. I had to figure it out by watching him walk the fence line after every rain. I figured it out, but it took me till I was thirty.
+[CAM: JON MS]
+JONATHON: Thirty is a long time to wait to find out what your work is for. What about the kids who never hear it?
 [CAM: WES CU]
 WES: And sometimes they learn it from you whether you say it or not. My oldest is an electrical apprentice. A while back he wired a two-hundred-amp panel wrong, and he went to his foreman and told him before anybody else found it. Then he texted me, "they were bad though." I still don't fully know what that means. I think it means the foreman wasn't happy about it. But he told him. He didn't hide it.
 [CAM: JON MS]
@@ -177,6 +185,8 @@ JONATHON: And "good works, which God prepared in advance." So He measured the sp
 JONATHON: But here's the hard one, because I know men listening are asking it. What if I'm in the wrong job? What if I spent twenty years in the wrong career? Did I miss the works He prepared? Did I walk past my chest?
 [CAM: WES MS]
 WES: I don't think you can outrun Him like that. Look at Joseph. Sold by his brothers, thrown in a prison for something he didn't do. That's about as wrong a job as a man gets. And the Bible says the warden put him in charge of the whole prison, because the Lord was with him and he did the work well. He wasn't where he planned to be. He was where God had a work for him anyway.
+[CAM: JON MS]
+JONATHON: Joseph's the one with the best case for being in the wrong job, and he did a lot of it in a prison.
 [CAM: WES CU]
 WES: So the man who thinks he wasted twenty years in the wrong career, I'd ask him, who did you work beside? Who did you help in those twenty years without noticing? The good works were probably there the whole time, in the wrong-looking job. And if you've got years left and you want to change, change. But don't throw out twenty years like they were nothing. God doesn't waste them.
 [CAM: JON MS]
@@ -215,6 +225,8 @@ JONATHON: If you just heard yourself somewhere in that attic, that's what the su
 WES: Now I want to tell you something I'm honestly not sure about, because I don't want to sit here and make this sound tidy.
 [CAM: WES CU]
 WES: I've worked the same kind of job for almost thirty years. I don't talk about what it is, and I'm not going to start now. It pays the bills. It's honest. I'm decent at it. And for most of those years, if you'd asked me where my real work was, I'd have said, the tables. The Thursday breakfasts. The men. The job was what paid for the gas to get to the breakfast.
+[CAM: JON MS]
+JONATHON: So the breakfasts were the real work and the job was the gas money. That's how you saw it for years?
 [CAM: WES MS]
 WES: And this verse messes with that. Because if I was made for good works prepared in advance, then I've got to ask, were the forty hours a week part of it? Or did I spend thirty years of daylight on a toll road? And I don't know. I honestly don't know. Some days I think the job was where God kept me humble and kept me fed so I could do the other thing. Some days I think I sleepwalked through a place He put me, because I'd already decided it didn't count.
 [CAM: JON CU]
@@ -255,8 +267,14 @@ WES: How do you see her working those holidays now?
 JONATHON: Now? I think it was the best thing anybody ever did for me. She was making a life for a kid, by herself, with what she had. I was the good work. I just didn't know it, because it looked like a sandwich with my name on it.
 [CAM: WES CU]
 WES: At our place, Labor Day was hay. Every year. The holiday was for town people. My dad would have us in the field by seven, and my mother would bring dinner out at noon on the tailgate, and that was the picnic. I didn't know anybody took the day off until I was in high school. And I don't resent it. I remember the tailgate better than any lake.
+[CAM: JON MS]
+JONATHON: And I'm guessing there was a year it didn't go like that. There always is, on a farm.
 [CAM: WES MS]
-WES: And one year it went the other way. I was fifteen. My dad's back went out in August, bad, and he couldn't get on the tractor. We had hay down and rain coming, and he sat at the kitchen table and didn't say much, which was how you knew it was bad. And Labor Day morning, about seven, four trucks pulled in. Neighbors. Mr. Kubecka was one of them. Nobody called them. They just came, on their day off, and we had the whole field in the barn by three. My mother fed eleven men off that tailgate. And my dad sat in a lawn chair at the edge of the field the whole day because he couldn't stand to be in the house while other men did his work.
+WES: And one year it went the other way. I was fifteen. My dad's back went out in August, bad, and he couldn't get on the tractor. We had hay down and rain coming, and he sat at the kitchen table and didn't say much, which was how you knew it was bad.
+[CAM: JON MS]
+JONATHON: That's my least favorite kind of quiet. A man at the table not saying much. What happened to the hay?
+[CAM: WES MS]
+WES: And Labor Day morning, about seven, four trucks pulled in. Neighbors. Mr. Kubecka was one of them. Nobody called them. They just came, on their day off, and we had the whole field in the barn by three. My mother fed eleven men off that tailgate. And my dad sat in a lawn chair at the edge of the field the whole day because he couldn't stand to be in the house while other men did his work.
 [CAM: JON CU]
 JONATHON: Nobody ever pulled into our driveway on Labor Day. I'd have given a lot for one truck. But I guess my mom was the truck. She just pulled out of the driveway instead of in.
 [CAM: WES CU]
@@ -282,6 +300,8 @@ WES: How'd you get out?
 JONATHON: Badly. I quit in the middle of a Saturday. Walked out. No plan, no next job, no savings. I moved back in with my mother for four months, which, if you know my history with my mother, was its own kind of penance. Don't do what I did. If you've got to leave, leave like somebody's watching. Because somebody is. Tell your wife before you tell anybody. Talk to a man who'll tell you if you're running. Line something up. And don't burn the place down on your way out. You might need a reference, and you'll definitely need your dignity.
 [CAM: WES MS]
 WES: And for the first kind, the hard kind, I'd add one thing. Look at who's next to you. A lot of men who hate their job are working next to another man who's going under, and they're too busy hating it to notice. The guy in the next truck. The kid on his first job. You might be the only Christian he works beside. That's a good work prepared in advance, right there in the job you hate.
+[CAM: JON MS]
+JONATHON: And sometimes the work God has for you there isn't the work they're paying you to do.
 [CAM: WES CU]
 WES: The best man I ever worked beside hated the job we had. Said so every Monday. And every Monday he'd still be the first one to ask the new hire if he'd eaten. He brought an extra lunch for two years for a kid who never had one, and never said a word about it. He hated the job and did a good work in it every single day. I've never forgotten him. I don't remember a thing about the job.
 [TEXT: Hard isn't the same as wrong.]
@@ -308,6 +328,8 @@ WES: Pushback.
 JONATHON: Twenty-nine. "I got laid off three weeks ago. I haven't told my wife how bad it is. I keep telling her something's about to come through. I feel like I'm not a man right now."
 [CAM: WES CU]
 WES: Son, tell her tonight. Not how bad you feel. How bad it is. The number in the account, the calls that didn't come back. She's going to find out, and when she does, the job's going to be the smaller hurt. The hiding's the bigger one. And a layoff isn't something you did. It's something that happened to you. Companies cut men every day who did nothing wrong. And then tomorrow, call three men from church and tell them you're looking. Most jobs come through somebody who knows somebody. Pride keeps more men unemployed than the economy does.
+[CAM: JON MS]
+JONATHON: And the second thing, for the days after he tells her, because those days are long.
 [CAM: WES MS]
 WES: And keep a shape to your days. Get up when you used to get up. Shower. Put on real pants. Hunting for a job is a job, and a man who treats it like one gets back on his feet faster. The man who sleeps till ten in a T-shirt starts believing the company was right about him.
 [CAM: JON CU]
@@ -408,17 +430,17 @@ Chapters
 01:44 The attic
 05:37 Does selling count
 08:58 The chests
-12:14 They're watching you work
-14:37 The Word
-22:03 The one I'm not sure about
-26:38 Labor Day
-29:53 The job you hate
-33:46 When you can't work
-36:14 Pushback
-42:22 Going first
-44:43 The challenge
-46:13 Carry this
-46:22 Outro
+12:28 They're watching you work
+15:00 The Word
+22:34 The one I'm not sure about
+27:17 Labor Day
+30:46 The job you hate
+34:47 When you can't work
+37:14 Pushback
+43:28 Going first
+45:49 The challenge
+47:19 Carry this
+47:28 Outro
 
 Scripture: Ephesians 2:10 (NIV)
 

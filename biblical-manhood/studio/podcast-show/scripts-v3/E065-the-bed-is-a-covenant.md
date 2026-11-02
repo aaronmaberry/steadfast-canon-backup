@@ -196,7 +196,11 @@ WES: "Honored by all." Not married people. All. The single man, the divorced man
 [CAM: JON CU]
 JONATHON: That first one is me at twenty-four. I thought "honored by all" was for married people, and I wasn't one, so it wasn't for me. I treated my body like it was nobody's business, because there wasn't anybody yet. But there was going to be somebody. Dani was going to be somebody. And everything I did in my twenties, she married. I'm not saying that to beat myself up. She knows, and she's forgiven it, and so has God. I'm saying it to the single guy who thinks none of this applies yet. It's already applying. You're already building the bed you're going to bring to her.
 [CAM: WES MS]
-WES: "Kept pure." I used to hear "pure" and think it meant clean, like you scrub a pan. And it does. But I've come to hear "kept" in it too. Like you keep a promise. Like you keep a fence. You don't keep a fence once. You keep it every season, because something's always leaning. A pure marriage bed isn't a bed where nothing ever went wrong. It's a bed somebody keeps. And keeping is mostly boring work. My dad walked that fence line after every big rain. He didn't wait for a cow in the road. He went looking for the post that was thinking about going down. That's what I mean by kept. You notice the lean while it's still a lean. The late nights that are starting to be every night. The phone that's starting to come to bed. The joke at her expense that's starting to be the only way you talk about her.
+WES: "Kept pure." I used to hear "pure" and think it meant clean, like you scrub a pan. And it does. But I've come to hear "kept" in it too. Like you keep a promise. Like you keep a fence. You don't keep a fence once. You keep it every season, because something's always leaning. A pure marriage bed isn't a bed where nothing ever went wrong. It's a bed somebody keeps.
+[CAM: JON MS]
+JONATHON: Keep it how, though? Because most of us only think about the bed when something's already down.
+[CAM: WES MS]
+WES: And keeping is mostly boring work. My dad walked that fence line after every big rain. He didn't wait for a cow in the road. He went looking for the post that was thinking about going down. That's what I mean by kept. You notice the lean while it's still a lean. The late nights that are starting to be every night. The phone that's starting to come to bed. The joke at her expense that's starting to be the only way you talk about her.
 JONATHON: That's a relief, honestly. Because I'd have flunked clean. I can do kept.
 [CAM: WES CU]
 WES: And "God will judge." That's in there, and I'm not going to sand it off. God takes this seriously because He made it, and you don't get careless with something He made with His own hands. But I want every man listening who's failed here to hear the rest of the Bible too. There isn't a sin in this room He won't forgive when you bring it to Him. Judgment's for the man who hides it and keeps going. Mercy's for the man who puts it on the table.
@@ -214,6 +218,8 @@ JONATHON: Quick thing. If this table's been good for you, subscribe, so the next
 [CHAPTER: Seasons]
 [CAM: WES MS]
 WES: We're about halfway, and I want to talk about seasons. Because a marriage bed isn't one thing for forty years. And I'm going to tell you one where I honestly don't know how I did.
+[CAM: JON MS]
+JONATHON: Which kind of season? Because I can already name a few at our house, and we're not that far in.
 [CAM: WES CU]
 WES: About eight, nine years back, my wife had a couple of hard years in her body. Ordinary stuff for a woman that age, and nobody warns you about it. She didn't sleep. She'd be hot at two in the morning and freezing at six. She'd cry at a commercial and then be mad that she cried. And that room got quiet for a good while. I tried to be patient. I tried not to take it personal. I think I mostly managed. I'm honestly not sure. There were nights I lay there feeling sorry for myself, and I don't know how much of that she could feel through the mattress.
 [CAM: JON MS]
@@ -322,6 +328,8 @@ WES: Lonely men do things they wouldn't do otherwise. Don't be lonely by yoursel
 [CAM: 2S]
 WES: What I actually did. And I'll keep mine plain. Time check, we've got about ten minutes left.
 [SHORT 1 IN]
+[CAM: JON MS]
+JONATHON: Then go first. And keep it plain, like you said, because I know you're about to make it sound smaller than it is.
 [CAM: WES MS]
 WES: For years I've fallen asleep in the recliner. Ballgame on. My wife goes to bed by herself, and I wander in at midnight and she's asleep. That's most nights. Not a fight. Just habit, and a good chair. And starting tonight, when she goes to bed, I go to bed. Same time. TV off. I'm not promising anything else. Just that she doesn't walk down that hall by herself anymore.
 [SHORT 1 OUT]
@@ -329,7 +337,7 @@ WES: For years I've fallen asleep in the recliner. Ballgame on. My wife goes to 
 JONATHON: What happens when the Rangers are on the West Coast?
 WES: Then I find out how much I mean it. And I'll tell you why it's the recliner and not something bigger. Nothing's wrong in our room. That's the danger at my age. Nothing's wrong, so nothing gets kept. She told me once, years ago, that the sound she listens for at night is my keys hitting the dish by the door, because then she knows everybody's home. Everybody's been home by nine for a long time now, and I'm still out in the living room till midnight. She's been listening for a man who's already in the house. I'd like to go down that hall while she's still awake enough to tell me about her day.
 [CAM: JON MS]
-JONATHON: Mine's the truck. Every night, not just the nights it's easy. And I'm going to go one further, because I know what I'm like by Thursday. Wes, you've been my man on this for years. Ask me Friday if the phone slept in the truck every night. And ask me if I told you everything. Not "how'd it go." Those two questions.
+JONATHON: Mine's the truck. Every night, the hard ones included. And I'm going to go one further, because I know what I'm like by Thursday. Wes, you've been my man on this for years. Ask me Friday if the phone slept in the truck every night. And ask me if I told you everything. Not "how'd it go." Those two questions.
 WES: I'll ask both.
 [CAM: JON CU]
 JONATHON: I know you will. That's why I picked you. Seven years ago, at that breakfast, after the syrup, you asked me one question. "What do you want me to ask you, and how often?" Nobody had ever asked me that. Everybody before you had either acted shocked or acted like it didn't matter. You were the first person who acted like it mattered and like I'd live through it.
@@ -394,14 +402,14 @@ Chapters
 08:15 The fence line
 14:29 The texts
 21:09 The Word
-26:56 Seasons
-30:58 Shame lives in the dark
-33:23 Two chairs
-36:42 Pushback
-44:03 What I actually did
-46:29 The challenge
-47:46 Carry this
-47:56 Outro
+27:02 Seasons
+31:12 Shame lives in the dark
+33:37 Two chairs
+36:57 Pushback
+44:18 What I actually did
+46:51 The challenge
+48:08 Carry this
+48:19 Outro
 
 Scripture: Hebrews 13:4 (NIV)
 

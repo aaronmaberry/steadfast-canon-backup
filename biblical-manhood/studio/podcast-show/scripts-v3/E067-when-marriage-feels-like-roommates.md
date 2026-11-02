@@ -133,6 +133,8 @@ WES: She calls it "the feed store." But she's sorry when she misses it. That's h
 JONATHON: Did the relay end because of the feed store, or because the kids got older?
 [CAM: WES CU]
 WES: Honestly? I don't know. Both. The daughter left for school the next fall, and the house got quieter on its own. I'd like to tell you the feed store saved us. I can't prove that. What I can tell you is, when the house got quiet, we already had a place to talk. A lot of couples get to the quiet and don't have one. We had twenty minutes out the farm road, already worn in.
+[CAM: JON MS]
+JONATHON: And did she ever say anything about that year herself? Or is all of this your read on it?
 [CAM: WES MS]
 WES: And she said something about that year, a long time after, that I've kept. We were driving past the high school, and she said, "We were the best-run house on the road." And then she said, "I'd have traded some of it." That's all. She didn't say which part.
 [CAM: JON CU]
@@ -150,6 +152,8 @@ JONATHON: I'll be honest, that's not the book I'd have guessed has a marriage ve
 WES: It's the book a lot of men live in without knowing it. And in chapter nine, he's just said that death comes to everybody, the good man and the bad, and nobody knows the hour. Then he turns. Go eat your bread and enjoy it. Put on clean clothes. Don't walk around like a man at a funeral. And then this.
 [CARD: Ecclesiastes 9:9]
 WES: "Enjoy life with your wife, whom you love, all the days of this meaningless life that God has given you under the sun ..."
+[CAM: JON MS]
+JONATHON: A meaningless life, and he still says enjoy her. That's a strange place to find that line.
 [CAM: WES CU]
 WES: He keeps going, but that's the part. Here's a man who had everything and came out the other side saying none of it lasts. And the thing he tells you to hold on to, in a life that's mostly vapor, is your wife. Enjoy life with her. Not tolerate. Not manage. Enjoy.
 [CAM: JON CU]
@@ -233,12 +237,18 @@ WES: Both, and I'll give you yours. The drift is gravity. Staying drifted, once 
 JONATHON: Fair enough. I'd still say "gravity" is a little too comfortable for most of us. But the day Ruby asked, the excuse was gone. That's right.
 [CAM: WES CU]
 WES: And here's the trap, either way. Men think the fix has to be big. A trip. A night away. A big talk. And so we wait until we can afford the trip, or find a sitter, or work up to the big talk. Meanwhile, gravity's still working. Every day. A pasture doesn't go back to brush because of one bad year. It goes back because of a lot of ordinary days when nobody cut anything.
+[CAM: JON MS]
+JONATHON: So what does small look like, then? Give me a picture, because I think in pictures.
 [CAM: WES MS]
 WES: My granddad had a back forty he ran cows on for fifty years. Clean as a golf course. When he got too old, he sold the cows, and he didn't run anything on it. Nobody did anything wrong to that field. Nobody poisoned it. They just quit using it. And in about six years it was mesquite and prickly pear so thick you couldn't walk a dog through it.
 [CAM: JON CU]
 JONATHON: Six years. That's a kindergartner to a fifth grader.
 [CAM: WES CU]
-WES: My older brother bought it from the estate, and it took him three years with a dozer and a chainsaw to get it to where you could see the fence. Six years to lose it. Three years to get it back. And he still has to mow it. I helped him a few of those Saturdays. It wasn't dramatic. You'd cut one mesquite, drag it to the burn pile, and look up, and there were four hundred more. He told me the trick was to quit looking up. Clear what's in front of you, and come back next Saturday. By the second summer you could see the stock tank from the road again. By the third, the grass came back on its own, because the seed had been in the ground the whole time. It just needed light.
+WES: My older brother bought it from the estate, and it took him three years with a dozer and a chainsaw to get it to where you could see the fence. Six years to lose it. Three years to get it back. And he still has to mow it.
+[CAM: JON MS]
+JONATHON: Three years to get back six. That's a rough trade. How'd he keep at it that long without quitting?
+[CAM: WES MS]
+WES: I helped him a few of those Saturdays. It wasn't dramatic. You'd cut one mesquite, drag it to the burn pile, and look up, and there were four hundred more. He told me the trick was to quit looking up. Clear what's in front of you, and come back next Saturday. By the second summer you could see the stock tank from the road again. By the third, the grass came back on its own, because the seed had been in the ground the whole time. It just needed light.
 [CAM: JON MS]
 JONATHON: And that's hope, by the way, for the man who's already in the mesquite. It came back. It took three years and a dozer, but it came back. Nobody looked at that field and said, sell it, it's gone.
 [CAM: WES MS]
@@ -263,7 +273,11 @@ WES: Contempt. She rolls her eyes when you talk, or you do. One of you has check
 [CAM: JON CU]
 JONATHON: A job you hide in. That one's going to land on a lot of guys in my line of work, me included.
 [CAM: WES MS]
-WES: And if you're not sure which one you've got, ask her. Not at bedtime. Not in a fight. On a drive. "Are we drifting, or is something wrong?" She'll know. She's probably known longer than you have. And whatever she says, don't argue with it that night. Take it home and think about it. And if she says, "Something's wrong," thank her. Out loud. She just told you the truth when it would've been easier to say "We're fine." Then ask the next question. "Will you tell me what it is, when you're ready?" And then do the hard thing, which is wait. Don't chase her around the kitchen for an answer. A woman who's been lonely for a while needs to see that you can hold a hard answer without falling apart or getting mad. That's the first thing you're rebuilding. Not the romance. Her trust that you can take it.
+WES: And if you're not sure which one you've got, ask her. Not at bedtime. Not in a fight. On a drive. "Are we drifting, or is something wrong?" She'll know. She's probably known longer than you have. And whatever she says, don't argue with it that night. Take it home and think about it. And if she says, "Something's wrong," thank her. Out loud. She just told you the truth when it would've been easier to say "We're fine." Then ask the next question. "Will you tell me what it is, when you're ready?"
+[CAM: JON MS]
+JONATHON: And right there is where I'd want to fix it, on the drive, before we got home. What do you do instead?
+[CAM: WES MS]
+WES: And then do the hard thing, which is wait. Don't chase her around the kitchen for an answer. A woman who's been lonely for a while needs to see that you can hold a hard answer without falling apart or getting mad. That's the first thing you're rebuilding. Not the romance. Her trust that you can take it.
 [CAM: JON CU]
 JONATHON: And there's no failure in admitting it's the second one. Go see somebody. A counselor who believes in marriage. Your pastor, if he's good at this. Both of you if you can, you by yourself if she won't. If she seems depressed, don't diagnose her at supper. Go with her to the doctor. And if anybody in your house is afraid of anybody in your house, that's not a marriage problem. That's a safety problem first, and it comes before anything else we say today.
 [CAM: JON MS]
@@ -279,6 +293,8 @@ WES: So let's say it's drift. You've named it. What do you actually do on a Tues
 JONATHON: I'll tell you what I don't do anymore. I used to think the fix was a grand gesture. Flowers on a random day. Which is nice. But Dani thanked me for the flowers like you'd thank a vendor for a fruit basket. It was a transaction with a bow on it.
 [CAM: WES CU]
 WES: The first thing I'd tell a man is, invite her into something you already do. That's the feed store. You don't have to find new time in a week that hasn't got any. You've got errands. You've got a drive to your mother's. You've got a dog that needs walking. Say, "Come with me." Most men do those things alone because it's faster. Faster is the whole problem.
+[CAM: JON MS]
+JONATHON: That's the opposite of what I'd do. I'd plan something new and make a big deal out of it. What's second?
 [CAM: WES MS]
 WES: Second, ask her questions that don't have a job. Not "Did you call the plumber?" Something like, "What was the best part of your day?" Or, "What's been on your mind that you haven't said?" Or my wife's favorite, which I stole from her, "What's a song you can't get out of your head?" It sounds silly. It's not. A question with no job tells her you're there for her and not for the information.
 [CAM: JON CU]
@@ -289,6 +305,8 @@ WES: That's it exactly. And third, say what you notice. Out loud. Jonathon notic
 JONATHON: No. I told you. On a microphone. Which is a little backwards.
 [CAM: WES MS]
 WES: Tell her. "You still pull your feet up when you sit on a step." That's all. A woman who's been a coworker for a year hears that and thinks, he's looking at me. Not at the schedule. Noticing that stays in your head doesn't do her any good.
+[CAM: JON MS]
+JONATHON: Saying it out loud is the hard part for me. I'll think it a hundred times and never say it once.
 [CAM: WES CU]
 WES: There's an older couple at our church, married over sixty years. Every Sunday they sat in their car in the parking lot for about ten minutes before they came in. Engine running, both of them looking straight ahead. For years I figured they were arguing. One Sunday I walked out to the lot about the time they were getting out, and I asked him, kind of joking, what they talked about out there. And he said, "Nothing much. That's the only ten minutes nobody needs anything from us."
 [CAM: JON CU]
@@ -439,16 +457,16 @@ Chapters
 01:50 Two schedules
 05:14 Going transactional
 07:22 The relay
-11:24 The Word
-17:47 The back step
-21:06 Gravity
-26:38 More than drift
-30:01 Getting the friend back
-35:17 Pushback
-43:17 What we're doing
-45:02 The challenge
-46:44 Carry this
-46:50 Outro
+11:31 The Word
+18:01 The back step
+21:20 Gravity
+27:05 More than drift
+30:37 Getting the friend back
+36:09 Pushback
+44:09 What we're doing
+45:53 The challenge
+47:36 Carry this
+47:42 Outro
 
 Scripture: Ecclesiastes 9:9 (NIV)
 

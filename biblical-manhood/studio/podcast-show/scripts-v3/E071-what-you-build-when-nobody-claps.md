@@ -99,6 +99,8 @@ WES: And the daughter yelling at the ladder. Put that in the picture too. Somebo
 JONATHON: And you owe a report too. Friday you said you were taking your dad's tailgate on Labor Day. One hour, no radio. How'd it go?
 [CAM: WES MS]
 WES: Four o'clock Monday afternoon. I backed the truck out to the fence, let the tailgate down, and sat. The first ten minutes I counted fence posts that need replacing. There are eleven. Then I quit counting. And about twenty minutes in, my youngest came out of the house and sat on the other end of the tailgate. Didn't say a word. Didn't have his phone. We watched the cows.
+[CAM: JON MS]
+JONATHON: No phone, on a sixteen-year-old. That's close to a miracle. Did either one of you say anything?
 [CAM: WES CU]
 WES: And at five o'clock he said, "Is this a thing now?" And I said, "I think it is." And he went back inside. That was it. My dad sat on that same kind of tailgate, and I never once went out and sat with him. I wish I had. My boy did it without being asked.
 [CAM: JON CU]
@@ -215,6 +217,8 @@ WES: When my oldest boy played high school football, August practice started at 
 JONATHON: Every morning, for three Augusts. And I'm guessing that kept going once school started, because football doesn't stop in September.
 [CAM: WES MS]
 WES: The early lifts, Tuesdays and Thursdays, all fall. And nobody ever said a word about it. Their dad waved at me in the church parking lot once, I think. That's fine. I wasn't doing it for a wave.
+[CAM: JON MS]
+JONATHON: And then July, I'm guessing, because you've got the look of a man about to get to the good part.
 [CAM: WES CU]
 WES: And in July, at the feed store, a young man walks up to me. Big. Short hair. And I didn't know him. And he says, "Mr. Hart. You drove me to football." It was the younger one. He's twenty now, home on leave from the Army. And he said, "I did the math one time. You drove me something like three hundred mornings. My dad never once drove me. Not one." And he shook my hand. And then he said, "I just wanted you to know I knew."
 [pause 1s]
@@ -447,19 +451,19 @@ Chapters
 00:11 Intro
 00:41 Pull up a chair
 02:38 The tacos
-08:10 Who catches the baby
-11:07 Mr. Abernathy's question
-14:49 The Word
-20:08 Three hundred mornings
-25:33 The gold star
-28:07 The room where somebody claps
-31:23 The loud sigh
-34:45 Giving the clap
-37:44 Pushback
-43:19 Going first
-44:32 The challenge
-46:03 Carry this
-46:11 Outro
+08:16 Who catches the baby
+11:14 Mr. Abernathy's question
+14:55 The Word
+20:14 Three hundred mornings
+25:47 The gold star
+28:21 The room where somebody claps
+31:37 The loud sigh
+34:59 Giving the clap
+37:58 Pushback
+43:33 Going first
+44:46 The challenge
+46:17 Carry this
+46:25 Outro
 
 Scripture: 1 Corinthians 15:58 (NIV)
 
