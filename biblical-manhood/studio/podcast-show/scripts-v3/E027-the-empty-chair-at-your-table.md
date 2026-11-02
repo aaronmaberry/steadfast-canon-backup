@@ -534,7 +534,7 @@ walksteadfast.com · @steadfastwalk
 ## Reading narrative
 
 # The Empty Chair at Your Table
-### Walk Steadfast, Episode 27 · April 6, 2027
+### Walk Steadfast, Episode 27
 
 For twenty-eight years Jonathon has said, "My dad left. I remember the dent." For the first time, he told the whole Saturday in order. He was nine, dressed for his first start as a pitcher by eight in the morning. His father loaded the truck with a duffel, his cassettes, his fishing rods, and the living-room lamp his mother read under. "You don't take a lamp to the dump." In the hall his father said, "Be good for your mom." Jonathon watched the dented tailgate turn left at the stop sign. His mother drove him to the game late, wearing sunglasses on a cloudy day, and stayed in the car. He pitched four innings and doesn't remember a single pitch. She never bought another lamp.
 

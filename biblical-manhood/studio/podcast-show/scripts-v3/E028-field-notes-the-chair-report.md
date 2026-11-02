@@ -294,7 +294,7 @@ walksteadfast.com · @steadfastwalk
 ## Reading narrative
 
 # Field Notes: The Chair Report
-### Walk Steadfast, Episode 28 · April 9, 2027
+### Walk Steadfast, Episode 28
 
 Wes called his oldest son, who is twenty-one, and told him about the Saturday nights he spent handing his own father the shoe brush across the kitchen table while neither of them spoke. His son was quiet for a while. Then he said, "You polish yours on Saturday nights. I used to hand you the brush." Wes had no memory of it. "I thought the shoes were mine. They were my dad's, and then they were his." His son is coming over Saturday at seven, and this time Wes plans to talk. Wes also told him what was in his grandfather's glove box: a program from every one of his ball games. "I wish I'd known that at fourteen."
 

@@ -294,7 +294,7 @@ walksteadfast.com · @steadfastwalk
 ## Reading narrative
 
 # Field Notes: Easter Week Report
-### Walk Steadfast, Episode 26 · April 2, 2027
+### Walk Steadfast, Episode 26
 
 Before Wes called his older brother about their mother, his wife advised him to wait for the brother to raise it. She had reasons; she has watched him dig in before. "I think that's how we got two years of weather," Wes said, and he made the call. His brother answered on the first ring: "I've been waiting on you since the barn." The brother had been getting a downstairs room ready for their mother and had bought a recliner for it. Wes had pictured her staying in her own house with more help. After twenty minutes of "two men in their fifties being very reasonable at each other," Wes asked, "Did you ask her?" His brother asked, "Did you?" Neither had. They'll ask her together at the April pot roast and say nothing until she's finished. Afterward Wes's wife told him, "Okay. I was wrong about that one."
 

@@ -564,7 +564,7 @@ walksteadfast.com · @steadfastwalk
 ## Reading narrative
 
 # The Father Who Stays
-### Walk Steadfast, Episode 25 · March 30, 2027 · Easter week
+### Walk Steadfast, Episode 25
 
 On Easter, Jonathon's mother stood on his porch holding a ham and asked, "Is this okay?" Dani got to her first and hugged her. Later, while they did the dishes, the way they have since he was nine, Jonathon told his mother that his father had sent him a friend request. She kept washing. "He sent me one too. Two years ago. I said yes." Then she added, "He posts a lot of fish," and, "I'm not going to tell you what to do. He's your father."
 
