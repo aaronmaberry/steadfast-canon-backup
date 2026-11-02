@@ -159,6 +159,8 @@ WES: The VP shrugging is the VP's. Not asking the rep first, that's yours. The r
 WES: I did the pile, the year I came out of the fog. Swung all the way over. I told my wife one night I'd ruined our kids. All three. Ruined them. And she put her coffee down and said, "Wes, you were gone. You weren't a monster. Sort it." And she went to bed.
 JONATHON: "Sort it." That's the whole episode. Your wife did the whole episode in three words.
 WES: She does that. She did it in three words, and it took me about a year to sort it. Some of it was mine. A lot of it was mine. Some of it was just a hard decade for everybody in that house.
+[CAM: JON MS]
+JONATHON: I like that a hard decade gets its own pile. Not his, not hers, not yours. Just the years. Nobody ever told me that was allowed.
 [CAM: WES MS]
 WES: And there's one kind of man this hits hardest, and I want to talk to him straight. The one who grew up in a house where everything was his fault. Every bad mood, every fight, somehow the kid caused it. You hear "find your part," and your whole body says, I know, it's always my part. If that's you, you probably need the other half of Tuesday more than this half. What happened in that house was real. And your part is smaller than you think.
 [CAM: JON MS]
@@ -202,6 +204,8 @@ WES: Neither one's ever true. Find your part of the marriage. Name it to God. Le
 [CHAPTER: Tool on the table]
 [CAM: WIDE]
 WES: The tool is old. Centuries old. It's called the examen. The name's Latin, and Christians have been doing some form of it for about five hundred years. I'm going to give you the stripped-down version. Three questions, before you sleep.
+[CAM: JON CU]
+JONATHON: Five hundred years. So Christians back then had the two a.m. trial too. That's weirdly comforting.
 [CAM: WES MS]
 WES: First question. Where was God in today? Where did you see something good? Start there. Always start there. Especially if you're the man who blames himself for everything, because if you start with the bad, you'll never get to the end.
 JONATHON: Mine Tuesday was Ruby and the cereal. That was a good thing, even though it was about me yelling. She was honest with me, and she wasn't scared to be.
@@ -275,10 +279,10 @@ Chapters
 05:54 The pecan pie
 09:03 The single check
 10:09 From the table
-13:49 Search me
-17:52 Tool on the table
-21:57 Carry this
-22:09 Outro
+13:58 Search me
+18:02 Tool on the table
+22:12 Carry this
+22:25 Outro
 
 Scripture: Psalm 139:23-24 (NIV)
 

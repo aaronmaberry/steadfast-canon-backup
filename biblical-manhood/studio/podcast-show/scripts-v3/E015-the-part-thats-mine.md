@@ -139,6 +139,8 @@ JONATHON: And the thing is, the dropdown's always a little bit true. Price is al
 WES: That's every man's story about himself. A dropdown full of true things, and none of them are him.
 JONATHON: I'm going to add a field. "Me." Just a box that says "me." My reps are going to hate it.
 WES: They'll hate it for about a year. Then the good ones will start checking it, and they'll get better faster than everybody else. Because you can't get better at "price." You can get better at you.
+[CAM: JON CU]
+JONATHON: "You can't get better at price." That's going on the whiteboard in the sales room. They're going to hate that one too.
 [CAM: WES MS]
 WES: That's what I'd want a man to hear today, more than anything. The part that's yours is the only part you can actually work on. Your dad's done. Your ex is doing whatever she's doing. The economy's going to do what it does. If your whole story is the dropdown, you're stuck, because you can't change a single thing on it. The minute you check the box that says "me," you've got something to work with.
 JONATHON: So owning it is the hopeful part. That's backwards from how it feels.
@@ -162,6 +164,8 @@ WES: But my dad never told anybody he had a headache. My dad just didn't go. He 
 [pause 1s]
 [CAM: WIDE]
 (Room tone. Wes looks at his mug and doesn't turn it.)
+[CAM: JON MS]
+JONATHON: (quietly) So the chair, you got from him. The headache, you made up on your own. That's a hard sentence to say about yourself.
 [CAM: WES MS]
 WES: And I've got my own version of your sister. My older brother. Same dad, same chair, same supper table with nobody talking. And my brother has never once faked a headache in his life. He'd just tell you. "I don't want to go." He'd say it to the preacher. It's not that he's softer than me. He's not soft at all. He's just never needed to look like the one suffering. I did.
 JONATHON: So your brother's the nickel.
@@ -230,6 +234,7 @@ WES: Nobody asked him. I didn't. I thought about it more than once and lost my n
 [CAM: JON MS]
 JONATHON: Just like that? After a year of the long one?
 WES: Just like that. I don't know what happened in him. I didn't ask. But I noticed the stepfather was still in the story. He just wasn't the last sentence anymore.
+JONATHON: The last sentence was the new guy's kids. That's a better ending than a belt. I'd take that trade.
 [TEXT: Whoever's in the last sentence is the one you think is responsible.]
 
 [CHAPTER: The Word]
@@ -237,6 +242,8 @@ WES: Just like that. I don't know what happened in him. I didn't ask. But I noti
 WES: There's a verse that says what both of these stories are saying, better than we can. It's Paul. (puts on the reading glasses) And it's a man who did everything right on paper. Raised right. Best teachers. Kept every rule there was. If anybody had a clean upbringing to point to, it's him.
 [CARD: Romans 7:18]
 WES: "For I know that good itself does not dwell in me, that is, in my sinful nature. For I have the desire to do what is good, but I cannot carry it out."
+[CAM: JON MS]
+JONATHON: Wait. That's the rule-keeper? The guy with the best teachers? That sounds like a rep who knows the real answer and checks "timing" anyway.
 [CAM: 2S]
 WES: He's writing to the church in Rome. And in this whole section, he's describing a man who wants to do right and keeps not doing it. And notice where he puts the problem. He doesn't say "because of how I was raised." He doesn't say "because of the culture." He says, in me. That's where the trouble is.
 [CAM: JON MS]
@@ -255,6 +262,8 @@ JONATHON: She's still got the highlighter. She uses it on our tax returns now.
 JONATHON: But here's my problem with it. If the problem's in me, and I can't carry it out, then what's the point of saying it? Then I'm just stuck. It's in me, and I can't fix it. That sounds worse than blaming my dad.
 [CAM: WES MS]
 WES: That's the right question, and Paul asks it a few verses later. He basically says, what a wreck I am, who's going to get me out of this? And his very next breath is, thanks be to God. Jesus is. Through Jesus Christ our Lord.
+[CAM: JON CU]
+JONATHON: Okay, but that's the Sunday school answer. I believe it. I just don't know how it gets a guy unstuck on a Tuesday afternoon.
 [CAM: WES CU]
 WES: So it's not, "You're the problem, try harder." It's, "You're the problem, you can't fix it yourself, and somebody already came to." If it's all your dad, there's nothing to bring to God except a complaint about your dad. If part of it's yours, you can bring it to him, and he forgives it. You can't be forgiven for something your father did. You can only be forgiven for what you did.
 [CAM: JON CU]
@@ -331,6 +340,8 @@ WES: That's Paul again. Best upbringing in the room, and he still found it in hi
 JONATHON: And the opposite of the dropdown guy. The man who owns everything. He apologizes for the weather. He says sorry when you bump into him. If the team loses, it's his fault, and he's not even on the team.
 [CAM: WES MS]
 WES: I've sat across from that man a lot, and he's usually a good man who got yelled at a lot as a boy. And I'd tell him the same thing I'd tell the dropdown guy, from the other direction. Pick up the part with your name on it, and only that part. Remember the duffel and the couch. Your duffel is yours. Somebody else's couch isn't, no matter how sorry you feel about it.
+[CAM: JON MS]
+JONATHON: So the guy apologizing for the weather is trying to carry everybody's couch by himself, and his own duffel's still sitting by the door.
 [CAM: WES CU]
 WES: The man who owns everything has the same problem as the man who owns nothing. He can't find his own part, because it's buried under everybody else's. Owning the weather feels humble. It's actually a way of never having to own the one thing that's yours.
 JONATHON: That's my mom, a little. She apologizes to the furniture. I love her. She does.
@@ -407,6 +418,8 @@ JONATHON: I wanted a moment. I got a chip. A broken one, from the bottom of the 
 (both laugh)
 [CAM: WES MS]
 WES: But think about what "I know" means from his side. It means he's been carrying it for eight years. Every review, every time you talked fast in your office. He's been holding that by himself. When you said it, you didn't give him news. You took half of it off him. Now two men know it out loud instead of one man knowing it alone.
+[CAM: JON CU]
+JONATHON: Eight years. Every review. And I'm sitting across the desk thinking I'm the one protecting him.
 [CAM: WES CU]
 WES: Same with my wife. Sixteen years she held the game in the driveway and didn't say a word, because she'd decided not to make me pay. That's a heavy thing to hold for somebody. When I finally said it, she got to put it down. "Did they win?" is what a woman says when she finally gets to put something down.
 JONATHON: (quietly) I hadn't thought about it like that. I thought I was the only one getting something off me.
@@ -505,20 +518,20 @@ Chapters
 03:48 The district deal
 06:37 The nickel
 08:27 The loss report
-10:45 The headache
-14:41 The last sentence
-17:58 The because
-21:33 The Word
-23:52 Somebody to get me out
-25:59 Pushback
-30:34 Every kind of man
-33:06 The man who owns everything
-36:31 What I actually did
-40:18 They already knew
-43:04 The shepherd
-45:02 The challenge
-47:14 Carry this
-47:33 Outro
+10:54 The headache
+14:58 The last sentence
+18:15 The because
+21:57 The Word
+24:25 Somebody to get me out
+26:40 Pushback
+31:16 Every kind of man
+33:48 The man who owns everything
+37:22 What I actually did
+41:09 They already knew
+44:01 The shepherd
+45:58 The challenge
+48:10 Carry this
+48:30 Outro
 
 Scripture: Romans 7:18 (NIV)
 
