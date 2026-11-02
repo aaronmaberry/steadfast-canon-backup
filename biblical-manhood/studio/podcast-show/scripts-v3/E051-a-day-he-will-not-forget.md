@@ -345,7 +345,7 @@ JONATHON: And write one sentence you'd say to him. Just one. Something true abou
 [CAM: WES MS]
 WES: Married guys, on a calm night, tell your wife what you're thinking about. Say yours first. Let her hear the sentence before he does if she wants to. Don't argue about the details that night. Sit with it a day.
 [CAM: JON CU]
-JONATHON: Single guys, there's probably a boy in reach whose dad isn't going to do this. Ask his mom first. Offer to stand with them, in the light, with her blessing.
+JONATHON: Single guys, there's probably a boy in reach whose dad isn't going to do this. Ask his mom first. Offer to be in that circle, in the light, with her blessing.
 WES: Divorced dads, it can be a breakfast on your Saturday. Keep it small and kind. Small and kind is a day.
 [CAM: JON MS]
 JONATHON: And if the day your son's living through right now is the bad kind, a home that isn't safe, get him safe and get help. The National Domestic Violence Hotline is 1-800-799-7233.

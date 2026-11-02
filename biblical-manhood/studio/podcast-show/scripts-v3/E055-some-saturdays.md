@@ -322,11 +322,9 @@ JONATHON: Do you want me to guess the number now? Because I've got a guess, and 
 [CAM: WES CU]
 WES: Keep your guesses. You'll both be wrong in different directions. The point isn't the number. The point is I'm going to sit down on that porch on the nights I'd rather go to bed, and find out what God does with a man who shows up tired.
 JONATHON: And what are you going to say on the nights you've got nothing? Because there's going to be a night you sit down and there's nothing there.
-WES: Then I'll say that. I'll tell Him I'm tired and I've got nothing. He's heard worse from me. He heard the fire decade.
+WES: Then I'll say that. I'll tell Him I'm tired and I've got nothing. He's heard worse from me. He heard the fire decade. Your turn, and you don't get to use the Wednesday text twice.
 [CAM: JON MS]
-JONATHON: And I'm sending the Wednesday text. One guy. I know which one, and he knows he's been missing Thursdays.
-[CAM: JON MS]
-JONATHON: Mine's the crew sheet. There's a sign-up sheet in the church office for crew Saturdays through December. Last time I put my name on one Saturday. Sunday I'm putting it on every one I can make, through the end of the year. Including the ones that'll be a rotten deck board and a hundred and one degrees.
+JONATHON: Fine. Mine's the crew sheet. There's a sign-up sheet in the church office for crew Saturdays through December. Last time I put my name on one Saturday. Sunday I'm putting it on every one I can make, through the end of the year. Including the ones that'll be a rotten deck board and a hundred and one degrees.
 [CAM: JON CU]
 JONATHON: And I'm going to answer Ruby. Not with "some days." I'm going to tell her about Virgil. There's a man who's fixed widows' porches every Saturday since before she was born, and some Saturdays he likes it, and he goes on all of them, and that's what being on fire looks like when you're seventy-seven. And then I'm going to let her do the hand motions anyway, because she's seven, and the hand motions are great.
 WES: Let her teach you the hand motions. You'll look ridiculous. That's part of it.
