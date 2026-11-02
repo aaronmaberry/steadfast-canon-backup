@@ -147,6 +147,8 @@ WES: Three weeks. I went to the new desk and I came home and said "fine" at supp
 JONATHON: So what did you talk about at supper for three weeks, if the job was the only thing you brought to the table?
 WES: Weather. The truck. Whatever the kids brought up, and I'd answer it like a man answering emails. And I got short. Not loud. I want to be clear, I wasn't yelling. I was short. Sighing at things. Snapping at my youngest over homework. And one night my daughter, she was seventeen, put her fork down and said, "Are you mad at us?"
 [pause 1s]
+[CAM: JON CU]
+JONATHON: (quietly) Seventeen, fork down, in the middle of supper. What did you tell her?
 [CAM: WES CU]
 WES: And I said no, which was true. I wasn't mad at them. I'd lost my name and I was taking it out on the people who never called me by it. (beat) They called me Dad. That name was fine. I just didn't count it.
 [CAM: WES MS]
@@ -184,6 +186,7 @@ JONATHON: It's on the wall behind my monitor, so it shows up on every video call
 WES: The thing about a name made out of a job is that somebody else can take it. A man from out of town with a slide. A merger. A bad quarter. A younger rep. Your knees. And if they take it, you're standing there with nothing to say at supper.
 JONATHON: And the other name, the one you got for free? Because honestly, that one feels like it doesn't count. Anybody can be a dad.
 WES: Nobody can reorganize you out of being Dad. You can neglect it. You can do it badly. But a man from out of town can't take it off a slide.
+JONATHON: You can't get reorganized out of Dad. I'm writing that down for my next reorg.
 [CAM: WES CU]
 WES: And here's the part that took me years. Before Jesus did one miracle, before he preached one sermon, before anybody followed him anywhere, he came up out of the water at his baptism and his Father said he loved him and was pleased with him. He hadn't done anything yet. No title. No crowd. The name came first and the work came after. Most of us run it backwards. We work to earn a name. God hands his sons the name first and then sends them to work.
 [CAM: JON CU]
@@ -245,6 +248,7 @@ WES: Asking, and then letting the answer count. The contractor asked one questio
 WES: We're about twenty-five minutes in, and I want to open the Bible, because there's a verse that sits under all three of these. It's short and it isn't comfortable. (puts on the reading glasses)
 [CARD: Proverbs 14:12]
 WES: "There is a way that appears to be right, but in the end it leads to death."
+JONATHON: That's it? One line? I've had longer texts from my nephew, and he doesn't use capital letters.
 [CAM: 2S]
 WES: Proverbs is a book of sayings. Most of them are about plain life. Money, work, your mouth, your neighbors. And this one is about the road that looks fine. It's not about the road that looks evil. Nobody needs a proverb to tell him the evil road is bad. This is about the road that looks right.
 [CAM: JON MS]
@@ -265,6 +269,7 @@ JONATHON: Appears to the bleachers. Appears to the VP. Appears to the guys at ch
 WES: That's it. If you want to know which shape is yours, don't ask the bleachers. Ask the house.
 [CAM: WES MS]
 WES: And remember who's talking in Proverbs. Most of the book is written like a father talking to his son. "My son, listen." Over and over. So this verse is a dad telling his boy, I've watched men walk roads that looked fine, and here's where they came out. That's what a father is supposed to do. Tell his son where the road goes before he's been on it twenty years. A lot of us never got that talk. So God put it in the book. Twice.
+JONATHON: Twice. So even the dad in Proverbs repeats himself. That makes me feel a lot better about my house.
 [CAM: WES MS]
 WES: Then the back half. "In the end it leads to death." I don't think it usually means a man drops dead. I think it means something dies slow, and you don't notice because it's slow. A kid who quits bringing the glove. A daughter who asks if you're mad at her. A wife who's been on your crew for twenty years and one day sets down the towel.
 JONATHON: The glove is the one I can't shake. Because Theo still brings it. He's four. He'll bring it a hundred more times. But there's a number. There's a last time he brings it, and I won't know it's the last time.
@@ -423,6 +428,7 @@ JONATHON: You. You don't get to sit there with a mug and not report.
 [CAM: WES MS]
 WES: Sunday at church. There's a new man, maybe forty, first time there with his wife. After the service he's standing by himself by the coffee, and I go over, and he asks me the question. "So, Wes, what do you do?" The question every man asks every other man in the first minute. And I caught myself. I had the answer loaded. The job, the company, the years. And instead I said, "I've got three kids and a mother who counts my reps at physical therapy."
 (Jonathon laughs)
+JONATHON: That's your opener? For a man on his first Sunday?
 [CAM: WES CU]
 WES: And he laughed. And then he told me about his kids. Two boys. One of them's in a cast from a trampoline. We talked ten minutes. At the end he asked about the job again and I told him. Second. It came second.
 JONATHON: Did that feel weird? Because I'd feel naked. I don't know what I'd say after "I've got two kids."
@@ -451,6 +457,7 @@ WES: And if it's the job, next time somebody asks who you are, answer with somet
 [CAM: JON CU]
 JONATHON: Single guys, same three. Give your best twenty minutes to somebody who can't do a thing for your career. Your roommate, your mom on the phone, a kid at church who needs a ride. Bring the oranges.
 WES: Divorced dads, pick one boring thing that's for your kids on the days you don't have them. A call at the same time. Let it be boring. And if you're past sixty and the job's already gone, your contrary act is to pick the next name on purpose. Call a grandkid at the same time every night. Show up for something that doesn't pay. Ask your wife what roof she wants.
+JONATHON: Ask your wife what roof she wants. The contractor's going to hear that and pretend he's not proud of it.
 [CAM: WES MS]
 WES: And married men, if you want to ask your wife which shape she sees, that's a brave thing to do. Do it on a calm night. Say yours first. And whatever she says, don't swing back. Don't argue the point. Sit with it a day.
 JONATHON: And for the record, Friday I'm reporting whether I asked Dani. Which means I have to ask Dani. Which I'm now realizing I just signed up for on a microphone.

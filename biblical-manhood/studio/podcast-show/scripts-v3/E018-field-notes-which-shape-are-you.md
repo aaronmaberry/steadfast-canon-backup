@@ -218,6 +218,7 @@ JONATHON: So who are you asking next? You did your wife. Who's the person who kn
 WES: My older brother.
 JONATHON: Your brother is going to say "Well."
 WES: He's going to say "Well." And then he's going to tell me. It takes him about four minutes to get past "Well," but what comes after it is usually true. He was there for the years I don't remember right. He was home for a lot of years I was busy being somewhere else. I've got a feeling his answer's going to sound a lot like your sister's.
+JONATHON: I can't get four minutes out of a customer, and your brother spends four on one word.
 [CAM: WES MS]
 WES: And for older men. If you're sixty-five and the people who used to tell you the truth have moved away or gone quiet or died, ask your grown kid. They've been waiting their whole life for you to ask. Ask them which shape they grew up with. Then rule four. Thank you. Don't explain the nineties to them.
 JONATHON: And if you don't have a sister or a grown kid or anybody? Because some guys listening are going to hear "ask one person" and the honest answer is there isn't one.

@@ -81,6 +81,7 @@ WES: That's what my house was like, except I was the one who stopped talking. I 
 [CAM: JON CU]
 JONATHON: "Fine" is a whole language in your house. I've heard you say "fine" in about four different tones and only one of them means fine.
 WES: (sips coffee) One Saturday I've got my daughter in the back, she's seven, in her booster seat. We're going to the hardware store for something small. Furnace filters. And a man changes lanes in front of me. Not even bad. No blinker. That's all he did.
+JONATHON: No blinker? In Texas that's not even a driving mistake. That's a regional accent.
 [CAM: WES CU]
 WES: And I hit the wheel. With my fist, hard, right in the center. The horn went off. And I didn't let go. I held it there, leaning on it, at a man who was already a quarter mile up the road. Probably ten seconds. It felt like a minute.
 [pause 1s]
@@ -140,6 +141,7 @@ WES: "What's it guarding?"
 [pause 2s]
 [CAM: WES CU]
 WES: I said, "What?" And he said it again. "Your anger. It was standing in front of something. What's it guarding?"
+JONATHON: And I bet you had an answer loaded. You always have one loaded.
 [CAM: WES MS]
 WES: I said, "My job, I guess." And he said, "No. What about your job?" And I sat there. And it came out. My dad's sentence. The one he handed me without ever saying it out loud. "Pay the bills and don't make trouble." That was the whole job of being a man, the way I got it. And there were layoffs coming. And if I couldn't pay the bills, I wasn't anything. (beat) I wasn't angry at a man in a lane. I was scared I was about to fail at the one thing I was for.
 [CAM: JON CU]
@@ -323,6 +325,7 @@ WES: And that's every man over sixty listening. You still have a next move. His 
 [CAM: 2S]
 JONATHON: You said you had a divorced dad's story. A different guy than the one with the boys?
 WES: Different man, same table. I asked if I could tell it, and he said, "Tell it. Somebody needs it more than I need privacy."
+JONATHON: More than he needs privacy. That's a man who did some work before he ever sat down at your table.
 [CAM: WES MS]
 WES: Divorced six years. A boy and a girl. Every other Friday, he picks them up from his ex-wife and her husband in a fast-food parking lot halfway between their houses. And every other Friday for five years, he was angry. Not yelling. He'd sit in his truck with the engine running, and the kids would walk over with their bags, and he'd barely look at the other car. And the whole drive home he was short with them. The first hour of every one of his Fridays was ruined, and he did the ruining.
 [CAM: JON CU]
