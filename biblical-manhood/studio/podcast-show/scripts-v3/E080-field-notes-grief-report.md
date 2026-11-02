@@ -103,7 +103,7 @@ JONATHON: I did. I said, "You told a manager nine years ago that your dad did th
 [CAM: WES CU]
 WES: And the north side job?
 [CAM: JON CU]
-JONATHON: They're supposed to call today. We record before he'll know. So I'll tell you when I know, and I'm not going to pretend to know before then.
+JONATHON: They're supposed to call by Friday. We record before he'll know. So I'll tell you when I know, and I'm not going to pretend to know before then.
 [TEXT: Date night. In pen.]
 
 [CHAPTER: From the table]
@@ -239,7 +239,7 @@ Chapters
 00:33 Check the box
 07:39 From the table
 15:25 Tool on the table
-22:04 Carry this
+22:05 Carry this
 22:14 Outro
 
 Scripture: 1 Thessalonians 4:13 (NIV)
