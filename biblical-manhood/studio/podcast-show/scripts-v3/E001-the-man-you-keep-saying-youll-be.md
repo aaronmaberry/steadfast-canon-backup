@@ -133,7 +133,7 @@ JONATHON: Which is exactly what I did to you. So what did he do with that?
 [CAM: WES MS]
 WES: Same thing. He met me every other Thursday for six years. Same diner. I ordered the number two every single time and he never let me forget it. And every time, before the food came, he'd ask me the same thing. "What'd you do since last time?" Not what I thought. What I did.
 JONATHON: That's Friday. That's literally Field Notes. You stole the whole format from him too.
-WES: I did. I'm not ashamed of it. Some weeks the answer was "nothing," and he'd nod and say, "Well, that's honest. What are you going to do by next time?" He drank out of this mug, and when he died at eighty-eight, the woman who ran the place wrapped it in a paper towel and handed it to me at the funeral.
+WES: I did. I'm not ashamed of it. Some weeks the answer was "nothing," and he'd nod, take a sip, and say, "All right. What are you going to do by next time?" He drank out of this mug, and when he died at eighty-eight, the woman who ran the place wrapped it in a paper towel and handed it to me at the funeral.
 JONATHON: Seven years, and I just learned two things about that mug in one morning.
 WES: I don't tell it much. (turns the mug a quarter turn) So that's who I am. A man who wasted some years and got pulled out by an old lineman who kept asking the same question.
 JONATHON: So why a show? You could keep doing the tables. You don't like cameras, and you hate your own voice.
