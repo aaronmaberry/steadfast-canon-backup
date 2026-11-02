@@ -157,7 +157,7 @@ WES: God knows his name. That's the good thing about praying for a man you can't
 
 [CHAPTER: What stuck]
 [CAM: 2S]
-WES: End of the season. Fathers. Daughters, names, hills, a day. Each man for himself. What stuck and what didn't.
+JONATHON: End of the season. Fathers, daughters, names, hills, a day. Each man answers for himself, no helping. What stuck and what didn't. You first.
 [CAM: WES MS]
 WES: What stuck. "Proud." I've spent it on both boys now and I'm not out. And my daughter told her husband about the waiting, and whatever they're doing with it, they're doing it, and I stayed out of it. That's the biggest thing I did all season. I stayed out of it. If you know me, you know what that cost.
 JONATHON: I know what it cost. You called me twice about it and didn't call her once. I was very proud of the not-calling-her part.
@@ -216,8 +216,8 @@ Chapters
 05:46 From the table
 12:08 Tool on the table
 18:35 What stuck
-22:06 Carry this
-22:14 Outro
+22:07 Carry this
+22:15 Outro
 
 Scripture: Galatians 5:13 (NIV); Galatians 5:1 (NIV, in part)
 
