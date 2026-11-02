@@ -110,7 +110,7 @@ WES: He died nine years ago. And I want to be careful, because that's not a sad 
 JONATHON: And I've met a lot of men carrying the other one, where the dad wasn't good, and they'd trade for your version in a second. We'll get to that too.
 WES: We will. Both of those men get a chair here. Then my thirties. Decent job. I coached Little League. Third row at church every Sunday. And I was gone. In my own living room. My wife has a name for those years.
 JONATHON: The fog years. Learn that one now, you'll hear it again.
-WES: The fog years. She saw it before I did. I want that on the record early. She saw it first, and she was patient a lot longer than I deserved.
+WES: The fog years. She saw it before I did. I want to say that early. She saw it first, and she was patient a lot longer than I deserved.
 [CAM: WES CU]
 WES: And I know it doesn't end that way for every man. Some of you, she stopped asking, and then she left. I'm not going to act like my ending is the only one. You've got a chair here too.
 JONATHON: And then the man with the mug. I've watched him drink out of that thing every Thursday for seven years and never once seen it washed.
@@ -593,9 +593,9 @@ Chapters
 22:23 Why it never makes it to Tuesday
 30:15 The Word
 36:38 Pushback
-43:19 What I actually did
-46:19 This week's challenge
-48:42 The book, the training, the site
+43:20 What I actually did
+46:20 This week's challenge
+48:43 The book, the training, the site
 51:59 What you get here
 54:34 Carry this
 54:45 Outro

@@ -282,7 +282,7 @@ Chapters
 11:47 From the table
 20:22 Tool on the table
 23:07 Carry this
-23:33 Outro
+23:34 Outro
 
 New episodes every Tuesday, plus Field Notes every Friday.
 

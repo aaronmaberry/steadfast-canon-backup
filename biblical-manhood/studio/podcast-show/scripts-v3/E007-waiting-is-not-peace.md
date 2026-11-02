@@ -132,7 +132,7 @@ WES: And it does get worse. It just gets worse slowly, so you can't point to the
 JONATHON: And the other one's comfort, right? Doing the thing costs something today. Waiting costs something too, but it's later, and it's spread out over a bunch of days, so you never feel it all at once.
 WES: And it's mostly paid by other people.
 [CAM: WES MS]
-WES: I sat with a man a few years ago who'd opened a credit card his wife didn't know about. It started small. A truck repair he didn't want to talk about. And every month he told himself he'd tell her when he got it paid down. He was going to show up with good news. "I had a problem, and I already fixed it." That was the plan.
+WES: There was a man I sat with a while back who'd opened a credit card his wife didn't know about. It started small. A truck repair he didn't want to talk about. And every month he told himself he'd tell her when he got it paid down. He was going to show up with good news. "I had a problem, and I already fixed it." That was the plan.
 [CAM: JON MS]
 JONATHON: The "I already fixed it" plan. Oh, I know that plan. Every sales guy knows that plan. You don't tell your VP about the lost account until you've landed a new one.
 WES: He waited four years. By then it was eleven thousand dollars, and the hiding was worse than the money. When she found it, she said the debt was the second thing she was mad about. The first was four years of him sitting next to her in church with that in his pocket.
@@ -162,7 +162,7 @@ JONATHON: That's a cease-fire. In my own kitchen. And I'm the guy with the color
 WES: What would follow-up look like? At home. With no color code.
 JONATHON: Honestly? Saying, "Hey, we never finished that fight about my mom. Can we finish it before Easter? Not tonight. But can we pick a night?"
 WES: That's patience. That's picking a time.
-JONATHON: (laughing) I just did your next point for you, didn't I. I can see it on your face.
+JONATHON: (laughing) I just did your next point for you, didn't I. You're doing the eyebrows.
 WES: You did. I'm going to skip it now and you can have the credit.
 (both laugh)
 [CAM: WES MS]
@@ -309,7 +309,7 @@ WES: That's good. That's really good. You can't confess a personality. God doesn
 
 [CHAPTER: Pushback]
 [CAM: JON MS]
-JONATHON: Okay, so here's my problem with all of this. The Bible tells you to wait all the time. "Wait for the Lord." It's all over the Psalms. My mom has it cross-stitched. So which one is it? Is waiting a sin or is it faith?
+JONATHON: Okay, so here's where I get stuck. The Bible tells you to wait all the time. "Wait for the Lord." It's all over the Psalms. My mom has it cross-stitched. So which one is it? Is waiting a sin or is it faith?
 [CAM: WES MS]
 WES: That's a good one, and it's real. There's a kind of waiting that's faith. Psalm twenty-seven says to wait for the Lord, and be strong, and take heart. We'll give that one a whole Tuesday in December, when the church calendar is all about waiting. But here's the difference, and it's pretty simple. Waiting on the Lord means you're waiting on God to do something only he can do. Heal somebody. Open a door. Change a heart. That's faith.
 JONATHON: And the other kind? The kind James is talking about?
@@ -351,7 +351,7 @@ WES: That's a real promise. I'll take that over a big one.
 [CAM: JON MS]
 JONATHON: Okay, one more, and this is the one I think a lot of guys my age are going to have. Isn't "stop waiting" just hustle culture with a Bible verse on it? Because my whole feed is guys telling me to wake up at four and stop making excuses and take action. "Stop waiting" sounds exactly like them. It sounds like a guy in a cold plunge.
 [CAM: WES MS]
-WES: (laughs) I'm not getting in a cold plunge. I want that on the record too.
+WES: (laughs) I'm not getting in a cold plunge. Somebody write that down too.
 JONATHON: Nobody's asking you to. But I'm serious. How is this different?
 WES: It's a fair hit, and here's the difference. The hustle guy says do more. Everything, now, harder. Stop waiting says do the thing that's yours. Usually that's one thing, and it's usually small, and it's usually something you'd rather not do because it'll cost you a feeling. A phone call. A talk. A sentence. The hustle guy would never tell you to call your brother. There's no money in it.
 [CAM: JON CU]
@@ -527,14 +527,14 @@ Chapters
 03:22 The brothers
 07:58 Why we wait
 15:26 The longest wait
-20:13 Mr. Abernathy's question
-24:53 The Word
-29:06 Pushback
-37:02 What I actually did
-41:48 The rehearsal
-45:40 This week's challenge
-48:14 Carry this
-48:28 Outro
+20:12 Mr. Abernathy's question
+24:52 The Word
+29:05 Pushback
+37:00 What I actually did
+41:46 The rehearsal
+45:38 This week's challenge
+48:12 Carry this
+48:26 Outro
 
 Scripture: James 4:17 (NIV)
 

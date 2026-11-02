@@ -73,7 +73,7 @@ WES: That's you. And that's the question today. Why does a grown man not have a 
 JONATHON: Spoiler. He's not crazy. That's literally the name of the chapter. "You Are Not Crazy."
 WES: That's the chapter. And in two episodes we'll give you the sentence. Today's about why you don't have one, and what you've been using in its place.
 [CAM: JON MS]
-JONATHON: Can I finish the bath story? Because it gets worse, and I want to get the worse part on the record before I lose my nerve.
+JONATHON: Can I finish the bath story? Because it gets worse, and I want to get the worse part out before I lose my nerve.
 WES: (sips coffee) Please.
 
 [CHAPTER: The bath]
@@ -107,7 +107,7 @@ WES: I'd put money on both.
 
 [CHAPTER: The sentence you've been living]
 [CAM: WES MS]
-WES: Here's where I tell on myself. I didn't have a sentence for a long time either. Or I did, and it was a bad one.
+WES: Here's my confession. I didn't have a sentence for a long time either. Or I did, and it was a bad one.
 JONATHON: What was it? And I know this one, so don't soften it.
 WES: About a year into meeting with Mr. Abernathy, he slid a diner receipt across the table, flipped it over, and handed me a pen. He said, "Write down what you think a man is. Not what you'd say at church. What you've actually been doing."
 [CAM: JON MS]
@@ -487,18 +487,18 @@ Chapters
 00:00 Cold open
 00:18 Intro
 00:47 Pull up a chair
-03:06 The bath
+03:05 The bath
 06:01 The sentence you've been living
-11:18 Your turn
-14:57 Where we got them
-19:12 What a sentence does
-23:32 You are not crazy
-27:23 The Word
-34:49 Pushback
-42:30 What I actually did
-45:35 This week's challenge
-48:21 Carry this
-48:36 Outro
+11:16 Your turn
+14:55 Where we got them
+19:10 What a sentence does
+23:30 You are not crazy
+27:21 The Word
+34:47 Pushback
+42:28 What I actually did
+45:33 This week's challenge
+48:19 Carry this
+48:34 Outro
 
 Scripture: Genesis 1:27 (NIV)
 

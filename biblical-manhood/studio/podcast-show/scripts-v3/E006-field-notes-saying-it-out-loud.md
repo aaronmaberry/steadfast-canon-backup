@@ -177,7 +177,7 @@ WES: My strength was my recliner. A busier recliner. With tools.
 (both laugh)
 [CAM: JON MS]
 JONATHON: Okay, mine's go first. So my version would be, I go first on everything that's easy to go first on. The counselor. The scary text to you. Telling a customer the truth about a late order. And I use those to feel like a guy who goes first, so I never have to go first on my dad.
-WES: You said that, not me. I want that on the record.
+WES: You said that, not me. Let the tape show it was you.
 JONATHON: I'm saying a lot of things out loud this week. I'm worried about what's next.
 [CAM: 2S]
 JONATHON: Can I push back, though? I don't buy that it's always hiding. You drove your father-in-law to treatment for a year. That wasn't hiding. That was love. I don't want a guy thinking every good thing he does is secretly a dodge.

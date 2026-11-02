@@ -267,7 +267,7 @@ WES: Into the cost. The hard conversation costs you something. Praying out loud,
 [CAM: JON MS]
 JONATHON: I still think guys are going to misuse it. I'm telling you. Somebody's going to clip "goes first" and put it over a video of a guy yelling in a truck.
 WES: Some will. Men misuse everything God hands them. That's why we're taking a whole Tuesday on it next month.
-JONATHON: I'm bringing this up again next month. I want that on the record.
+JONATHON: I'm bringing this up again next month. Write that down somewhere.
 WES: I'm counting on it. Bring the guy in the truck.
 [CAM: 2S]
 JONATHON: Okay, and the wolf thing. I want to stay on it one more second. Because in my job, the front is where the credit is. In yours, the front is where the wolf is. Those are really different fronts.
@@ -431,7 +431,7 @@ WES: The towel goes everywhere now.
 
 [CHAPTER: Pushback]
 [CAM: JON MS]
-JONATHON: Okay, here's my real problem with all of this, and I've been sitting on it the whole time. It's a list. I've been to a lot of sales trainings. They all have a list. The five C's of closing. The four P's of something. The seven habits of somebody. And I've never once changed because of a list. Lists don't change people. I have the lanyard to prove it.
+JONATHON: Okay, here's what's been bugging me, and I've been sitting on it the whole time. It's a list. I've been to a lot of sales trainings. They all have a list. The five C's of closing. The four P's of something. The seven habits of somebody. And I've never once changed because of a list. Lists don't change people. I have the lanyard to prove it.
 [CAM: WES MS]
 WES: You're right.
 JONATHON: I'm right? Just like that? I had three more minutes of this.
@@ -475,7 +475,7 @@ WES: My turn. Sixty-five. Retired. Wife passed two years ago.
 [CAM: WES CU]
 WES: (turns his mug a quarter turn) That man's waiting looks like the recliner, and nobody'd blame him for it. Picking up the weight might be his grandkids, or the widow down the road who's alone too. Going first might be calling his grown son first, after years of the son always being the one to call. And God's pay is the one that matters most to him now, because the room's mostly gone. The people who used to clap aren't there. He's finding out who he was working for.
 JONATHON: That's heavy. That's the one that makes me want to go call somebody's grandpa.
-WES: It's not sad, though. He's not done. Most men his age I know are in the middle of something. I'm not going to tell a sixty-five-year-old what his season is. He'll tell me.
+WES: It's not sad, though. He's not done. Most men his age I know are in the middle of something. I'm not going to tell a sixty-five-year-old he's finished. He'll tell me.
 [CAM: JON MS]
 JONATHON: Divorced dad. Kids every other weekend. You take it, because I don't know that guy well enough.
 [CAM: WES MS]
@@ -606,14 +606,14 @@ Chapters
 13:30 Pick up the weight
 19:11 Go first
 24:45 Work for God's pay
-28:25 Which one is hardest
+28:24 Which one is hardest
 32:14 The fake versions
-37:47 The Word
-42:09 Pushback
-50:29 What I actually did
-55:33 This week's challenge
-57:18 Carry this
-57:31 Outro
+37:46 The Word
+42:08 Pushback
+50:27 What I actually did
+55:30 This week's challenge
+57:15 Carry this
+57:29 Outro
 
 Scripture: Philippians 2:5; James 4:13-14; Galatians 6:5; John 10:4; Colossians 3:23-24 (NIV)
 

@@ -123,7 +123,7 @@ WES: What did she say?
 JONATHON: I did it right, calm night, kids asleep, I said mine first. And she said, "Make sure everybody's okay."
 WES: (beat) Huh.
 [CAM: JON CU]
-JONATHON: And I pushed back. I said, that's the same thing. That's win the room with a nicer shirt on. And she said no. And I'm going to get this right, because I wrote it down after. She said, "No. It's not the same. Win the room is... for you. The other one's for us." And then she said, "I'm saying it wrong." And she thought about it, and she said, "You do both. I married the one who checks on everybody. I'd like less of the other one."
+JONATHON: And I pushed back. I said, that's the same thing. That's win the room with a nicer shirt on. And she said no. And I'm going to get this right, because I wrote it down after. She said, "No. It's not the same. Win the room is... for you. The other one's for us." And then she said, "I'm saying it wrong." And she took a second, and she said, "You do both. I married the one who checks on everybody. I'd like less of the other one."
 [pause 1s]
 WES: That's a woman who's been watching you closely and kindly for ten years.
 JONATHON: Closely and kindly. That's her. That's exactly her. And I'll tell you what got me. She didn't say the bad one. She knew it, I could tell she knew it. She led with the good one. And then she just asked for less of the other.

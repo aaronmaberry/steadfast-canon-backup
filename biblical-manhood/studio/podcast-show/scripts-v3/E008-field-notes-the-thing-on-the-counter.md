@@ -91,7 +91,7 @@ JONATHON: Which job? What is your job? Seven years and I'm still asking.
 WES: (deadpan) My job.
 (both laugh)
 [CAM: WES MS]
-WES: And I want to be honest about this, because I don't want anybody thinking you make one phone call and it's all fixed. It's not fixed. He was still a little cold. We talked twenty minutes, mostly about Mom's hip and his cattle and a fence that's down on the north side. It's not fixed. It's started.
+WES: And I want to be honest about this, because nobody should hear this and think you make one phone call and it's all fixed. It's not fixed. He was still a little cold. We talked twenty minutes, mostly about Mom's hip and his cattle and a fence that's down on the north side. It's not fixed. It's started.
 JONATHON: That's the gutter line. That's what you said about the gutter, before it turned out the board was rotten.
 WES: It's the only line I've got for most things. Most things in my life are started. My granddad used to say a fence you're mending is better than a fence you're admiring from the porch. He never finished a fence in his life. He was always mending one.
 JONATHON: Twenty minutes is a lot for a family that talks in "well."
@@ -155,7 +155,7 @@ JONATHON: I said yes. And he said, "Okay." And went back to the shark. That's tw
 WES: Until you're a greeting card.
 JONATHON: I'm going to be the whole card aisle at the Kroger on Kuykendahl.
 [CAM: JON MS]
-JONATHON: Okay. And I've got a miss, and I want to say it, because it's Friday. Tuesday you said put a date on deciding. About my dad, the friend request. I said I'd think about a date. I thought about it. I didn't pick one.
+JONATHON: Okay. And I've got a miss, and I'm saying it, because it's Friday. Tuesday you said put a date on deciding. About my dad, the friend request. I said I'd think about a date. I thought about it. I didn't pick one.
 WES: Okay.
 JONATHON: That's it? "Okay"? I was ready for the two taps on the table and the look.
 WES: You told the truth. That's what Friday's for. And I'm going to ask you again in a couple of weeks. That's the taps.
@@ -169,10 +169,10 @@ JONATHON: He made the appointment. He sent me a screenshot of the confirmation e
 
 [CHAPTER: From the table]
 [CAM: WIDE]
-WES: From the table. You asked this one on Tuesday, and I said it was Friday's, and it's also the question I heard most at a men's table this week. "How do I stop waiting when I'm genuinely tired?"
+WES: From the table. You asked this one on Tuesday, and I said it was Friday's, and it's also the one I keep hearing from the men I sit with. "How do I stop waiting when I'm genuinely tired?"
 JONATHON: That's me most nights. I've been up since four-forty.
 [CAM: WES MS]
-WES: It's every man with little kids, a night-shift wife, a long commute, a body that hurts. And I want to be careful, because I don't want to tell a tired man to just try harder. Tired is real. It's not a character flaw. God made a body that runs out.
+WES: It's every man with little kids, a night-shift wife, a long commute, a body that hurts. And I'll go slow here, because I don't want to tell a tired man to just try harder. Tired is real. It's not a character flaw. God made a body that runs out.
 JONATHON: Thank you. Somebody needed to say that on a Christian podcast. Usually it's all "rise and grind for Jesus."
 WES: So the first thing is, figure out which tired you are. There's the tired where your body actually needs to stop. And there's the tired where you're avoiding something and calling it tired. Those feel exactly the same at seven p.m.
 [CAM: JON CU]
@@ -185,7 +185,7 @@ WES: Then you're not that tired. You're avoiding. If you wouldn't get up for fre
 JONATHON: The brisket test. That's going to be the most-clipped thing you ever say.
 WES: The brisket test. It works in Texas. Other states, use what you've got.
 [CAM: JON MS]
-JONATHON: Okay, but I want to push on it a little, because I think it's too easy. I'd get up for brisket on my worst night. Brisket is fun. The thing I'm waiting on isn't fun. So the test kind of always says I'm avoiding.
+JONATHON: Okay, but I'm going to lean on it a little, because I think it's too easy. I'd get up for brisket on my worst night. Brisket is fun. The thing I'm waiting on isn't fun. So the test kind of always says I'm avoiding.
 WES: (laughs) That's a fair hit. All right, here's the grown-up version. Ask yourself if you'd get up for something you didn't want to do but had to. If your kid was sick, would you get up? If the answer's yes, there's something in the tank. It's not much. It might be ten minutes. But it's there.
 JONATHON: And if the answer's no? If I genuinely don't think I could get up for a sick kid?
 WES: Then you're running on empty, and you need sleep before you need a lecture, and maybe a doctor. That's not a man who needs to stop waiting. That's a man who needs somebody to take the night.
@@ -311,7 +311,7 @@ Chapters
 00:41 Check the box
 12:46 From the table
 19:14 Tool on the table
-23:28 Carry this
+23:27 Carry this
 23:55 Outro
 
 Scripture: Matthew 11:28 (NIV)
