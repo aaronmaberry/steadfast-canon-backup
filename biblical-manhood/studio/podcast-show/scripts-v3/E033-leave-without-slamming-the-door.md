@@ -465,7 +465,7 @@ Scripture quotations taken from The Holy Bible, New International Version®, NIV
 ## Pinned comment
 
 ```
-How did you leave home? For something, from something, or still in the doorway? One line. (Wes: "In installments. And my mom went inside so I could." Jonathon: "I commuted.")
+How did you leave home? For something, from something, or still in the doorway? One line. (Wes: "For. And my mom went inside so I could." Jonathon: "In installments.")
 
 walksteadfast.com · @steadfastwalk
 ```
