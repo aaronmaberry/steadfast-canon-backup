@@ -5,7 +5,7 @@ Walk Steadfast · main episode · script v3 (final, batch E049-E056). Internal. 
 | | |
 |---|---|
 | Release | Tue Jul 6, 2027, 5:00 AM CT |
-| Format | Main episode. About 50 min. Season premiere. The VP turns rest into a metric, the porch contest result, Wes's dad and the place, what Jonathon actually sells, Genesis 2:15 and a real argument about the word "placed," Mr. Abernathy's "What did you keep this week?", six listener pushbacks, and the man eating lunch in his truck. |
+| Format | Main episode. About 50 min. Season premiere. The VP turns rest into a metric, the porch contest result, Wes's dad and the place, what Jonathon actually sells, Genesis 2:15 and a real argument about the word "placed," Mr. Abernathy's "What did you keep?", six listener pushbacks, and the man eating lunch in his truck. |
 | Intro and slate | Per-episode open, Wes leads (SHOW-BIBLE section 5, open system v3, text in _build/intros_data.py). Slate: WES "Episode fifty-three. Before Anything Went Wrong." |
 | Source | Book chapter 18, Before the Fall, and training session W18 (`scripts/_opus55-scripts-2026-10-01/sessions/W18-Before-The-Fall.txt`). **Avoided on purpose.** Everything in the v1 row stands (see `scripts/E053-before-anything-went-wrong.md`): the seed packet and tomato row; the closing-day rooms and paint can; Odell's estate-sale pickup and build sheet; the potter's clay and the delivery-room breath; "never unpack, never hang a picture"; the dispatch-office marriage; the bath-time toddler; Abe's "Same job. Different garden."; "provider and protector were the same assignment"; naming the animals, ish/isha, "Where are you?", any Hebrew seminar, 1 Tim 2, Gen 3:16; previews of chapters 19 and 20. v3 adds nothing from the book or session. |
 | Focus mark | **Pick Up the Weight**, named in Pull up a chair ("the mark we're opening the season on") and again in Going first ("a sack of feed") |
@@ -13,7 +13,7 @@ Walk Steadfast · main episode · script v3 (final, batch E049-E056). Internal. 
 | Plugs | **Training (T, season premiere):** session eighteen, Before the Fall, after the Word, about five minutes after the sub-mid. Present tense, no date. |
 | Mid subscribe | Bank line 3 (Jonathon), reworded ("if you just heard yourself in 'Did you bill it as an emergency order'") |
 | Standing outro | Variant A, reworded ("whether Wes really told his wife about work") |
-| Mr. Abernathy segment | The monthly segment (E007, E019, E039 so far). White mug, two table taps, [pause 2s] after the question, the same gesture as before. The question: **"What did you keep this week?"** ("You told me everything you did. I asked what you kept.") The episode's one older-man quotable line (round 7). It is a quotation, so its "this week" stays. |
+| Mr. Abernathy segment | The monthly segment (E007, E019, E039 so far). White mug, two table taps, [pause 2s] after the question, the same gesture as before. The question: **"What did you keep?"** ("You told me everything you did. I asked what you kept.") The episode's one older-man quotable line (round 7). v1 ended the question with a banned calendar phrase; v3 drops it. |
 | Wardrobe | Wes: heather-gray henley. Jonathon: washed maroon tee. |
 | Props | Standard set, the white mug, Wes's thermos. Jonathon's phone (end insert: approved time off). |
 | New continuity | Everything in the v1 row stands (see `scripts/E053-before-anything-went-wrong.md`): the vacation-utilization column and the pilot region; "Great idea, Jonathon"; the "graded on the beach" text and the pregnant wife (private); nine unused days; the week of Theo's birthday in August, phone off, Pancake week; "Love it. Leading from the front."; the midnight compressor and "Did you bill it as an emergency order?"; "It keeps people alive"; Mom's work as curse, his as idol; the plaque wall; Theo's goggles and Ruby the sportscaster; Wes's wife asleep before the finale ("Best one yet"); the barn and "I don't know. He never said."; Wes left at eighteen; "He was placed"; Wes likes part of his job; Mr. Abernathy's work question; the man in the truck and the plan. **v3 adds:** the porch contest result (the Hendersons won with pool-noodle bunting; a card in Jonathon's storm door, "Thank you for participating. The committee noticed the brick."); Jonathon said "Thanks" on the planning call, unmuted; Wes's dad's hand on the corner post, Sunday afternoons, which Wes took for checking; Wes's first answer to Mr. Abernathy (a new man's wrong order, fixed together in the parking lot, no email); **Lorraine and the machine shop** (Jonathon at twenty-three oversold a small Pasadena shop; Lorraine read the order in the car, "He doesn't need that. Call him back."; Jonathon lost a chunk of the commission; "We'll sell him the next one."); a lady at his mom's church after his dad left: "God's got you right where He wants you" (Jonathon's pushback on "placed"); Wes concedes "placed" isn't "stuck," and that he may have been placed three hundred miles off; a farm kid (19) caller who wants to be an electrician. |
@@ -21,7 +21,7 @@ Walk Steadfast · main episode · script v3 (final, batch E049-E056). Internal. 
 ## Title options
 
 1. Before Anything Went Wrong | Walk Steadfast Ep. 53
-2. "What Did You Keep This Week?"
+2. "What did you keep?"
 3. My VP Made Rest a Leaderboard
 
 ## Thumbnail
@@ -231,7 +231,7 @@ WES: That's exactly what it was. And he sat through about four of them.
 [CAM: WES CU]
 WES: And one morning he let me go through the whole thing. And then he set his fork down and tapped the table twice.
 (Wes taps the table twice.)
-WES: "What did you keep this week?"
+WES: "What did you keep?"
 [pause 2s]
 [CAM: JON CU]
 JONATHON: Not "do." He changed one word on you and you've been carrying it ever since.
@@ -250,7 +250,7 @@ WES: He heard you. He heard everything. He just didn't spend words on things tha
 [CAM: 2S]
 WES: (sets the mug down) So I'll ask it the way he did. Once.
 (Wes taps the table twice.)
-WES: What did you keep this week?
+WES: What did you keep?
 [beat]
 [CAM: JON MS]
 JONATHON: I'll answer it, since it's sitting here on the table looking at me. The rep who texted "are we getting graded on the beach now." I called him after the meeting. Not about the dashboard. I told him I didn't want rest to be a grade either, and I was sorry it turned into one. And he said, "It's cool," and then he told me his wife's pregnant. Nobody at work knows. He's been scared to take time off because of the numbers.
@@ -396,7 +396,7 @@ WES: Produced with AI voice and video tools.
 | # | Cut | Hook | Length |
 |---|---|---|---|
 | 1 | The man in the truck, go-first (SHORT 1 IN/OUT, Going first) | "She knows where I go every morning. She doesn't know who's there." | about 40 s |
-| 2 | "What did you keep this week?" (from "Mr. Abernathy was a lineman" through the question asked to the camera) | "You told me everything you did. I asked what you kept." | about 150 s |
+| 2 | "What did you keep?" (from "Mr. Abernathy was a lineman" through the question asked to the camera) | "You told me everything you did. I asked what you kept." | about 150 s |
 | 3 | "Did you bill it as an emergency order?" (from "It keeps people alive, Wes" through "It's on the list of things I'm going to fix.") | "That was my first sentence." | about 90 s |
 | 4 | Placed or stuck (from "I'm going to push on 'placed'" through "never unpacked my boots.") | "God's got you right where He wants you." | about 110 s |
 | 5 | He made rest a leaderboard (cold open plus the planning-meeting story) | "And then he turned it into a metric." | about 60 s |
@@ -404,7 +404,7 @@ WES: Produced with AI voice and video tools.
 ## YouTube description
 
 ```
-Jonathon tried to put one thing in his work that wasn't a number: every rep takes all their vacation days. His VP loved it and turned it into a dashboard column. Wes asked his brother whether their dad, who gave up a scholarship to run the family place, ever liked the work. "I don't know. He never said." Genesis 2:15: God put the man in the garden "to work it and take care of it," before anything went wrong. The work came before the thorns. Jonathon pushes back on the word "placed," and Wes changes his mind. And Mr. Abernathy's question for a man who only reports what he got done: "What did you keep this week?"
+Jonathon tried to put one thing in his work that wasn't a number: every rep takes all their vacation days. His VP loved it and turned it into a dashboard column. Wes asked his brother whether their dad, who gave up a scholarship to run the family place, ever liked the work. "I don't know. He never said." Genesis 2:15: God put the man in the garden "to work it and take care of it," before anything went wrong. The work came before the thorns. Jonathon pushes back on the word "placed," and Wes changes his mind. And Mr. Abernathy's question for a man who only reports what he got done: "What did you keep?"
 
 Also: a compressor at midnight for a cooling center, Lorraine in the parking lot, a man eating lunch alone in his truck, and a fireworks finale nobody stayed awake for.
 
@@ -468,7 +468,7 @@ The work was there on the first good day. The thorns came later. There are two j
 
 ## What did you keep?
 
-Wes's old mentor, Mr. Abernathy, was a power-company lineman for forty years. A lineman doesn't make anything. He keeps the lights on, and when he does it right, nothing happens. One Thursday, after Wes ran through everything he'd gotten done, Mr. Abernathy tapped the table twice. "What did you keep this week?"
+Wes's old mentor, Mr. Abernathy, was a power-company lineman for forty years. A lineman doesn't make anything. He keeps the lights on, and when he does it right, nothing happens. One Thursday, after Wes ran through everything he'd gotten done, Mr. Abernathy tapped the table twice. "What did you keep?"
 
 Jonathon sells commercial air conditioning in San Antonio. Last August, when a library that's also a city cooling center lost its air conditioning, one of his reps drove the part across town at eleven at night. Jonathon's first question was about the margin. Years earlier, his first manager made him walk back into a machine shop and undo a sale the owner didn't need.
 
@@ -495,7 +495,7 @@ Scripture quotations taken from The Holy Bible, New International Version®, NIV
 - **The church lady's sentence** is new canon about Jonathon's childhood, at nine. It doesn't name her or the church.
 - **The corner post.** New, small, and left open ("I'm not going to make it into more than it was"). It doesn't answer "Did Dad like it?" and must not be resolved as if it did.
 - **The card's banned-material list.** None of the W18 or chapter 18 pictures are used. "The curse didn't invent it. It made it hurt" is the show's own wording, not the book's line.
-- **Mr. Abernathy segment.** The same gesture: white mug, two taps, [pause 2s]. His quoted question keeps "this week" because it's his sentence. The nod over eggs is not a second quotable.
+- **Mr. Abernathy segment.** The same gesture: white mug, two taps, [pause 2s]. His question is "What did you keep?" v1 ended it with a calendar phrase the v3 brief bans, so v3 drops it on mic, on the card and in the chapter title. The nod over eggs is not a second quotable.
 - **Round 8, the older brother.** At the barn, one plain line, then a trough.
 - **Round 8, kids.** No kid-catches-dad lines.
 - **One-word replies.** One "Okay" (Jonathon, to start the spreadsheet story). "Thanks" is quoted inside a story.
