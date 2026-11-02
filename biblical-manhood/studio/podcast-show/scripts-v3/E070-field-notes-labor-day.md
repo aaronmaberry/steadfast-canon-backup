@@ -176,7 +176,7 @@ JONATHON: Shift workers, nurses, the men on call, I live with one. You can't alw
 [CAM: JON MS]
 JONATHON: And married guys, one more. Some of you will take your hour and hand your wife both kids and the dishes to pay for it. That's not a Sabbath. That's a trade, and she's on the losing end of it. If you take an hour, she gets one. Ask her what hers is. Dani took a while to figure out hers was coffee and the backyard and folding nothing.
 [CAM: WES MS]
-WES: I asked mine in August. Twenty-seven years married, and I'd never asked. Hers is a bath with the door locked and a library book. Twenty minutes. I'd always heard the water running and figured she was just taking a bath. She was taking a Sabbath, and the kids knew not to knock long before I did.
+WES: I asked mine in August. All these years married, and I'd never once asked. Hers is a bath with the door locked and a library book. Twenty minutes. I'd always heard the water running and figured she was just taking a bath. She was taking a Sabbath, and the kids knew not to knock long before I did.
 [CAM: WES CU]
 WES: Single guys, you're the most likely to work straight through Saturday and Sunday both, because nobody's waiting at home. Somebody is. God is. Take the hour. Divorced dads, if your Saturday's with the kids, make the hour with them. A park, no phone. Widowers, if you've been staying busy so you don't have to sit in the quiet, I understand. The hour might be hard. Do it anyway, and maybe not alone.
 [CAM: JON CU]
@@ -312,7 +312,7 @@ Scripture quotations taken from The Holy Bible, New International Version®, NIV
 - **Round 10, Dani's audition (met, reported once).** Wes's prompt ("Dani said you could say something") leads to her own words, read exactly from the whiteboard, with "Don't make it a thing." Jonathon doesn't. Tuesdays become a practical thread from Tue Sep 14. No more audition reporting.
 - **Round 10, sales lens.** None (E069 had it). The rep comes up as a man asked twice. Jonathon's rushed sales calls are a confession, not the lens.
 - **Round 10, the show about itself.** One: the tech "heard I'd talked about him." The re-orienting clause is written as content.
-- **Round 10, Wes isn't a failure collector.** The weld and the coworker are things he did and how they landed. The recliner is current and small. "Twenty-seven years and I'd never asked" is paired with asking now.
+- **Round 10, Wes isn't a failure collector.** The weld and the coworker are things he did and how they landed. The recliner is current and small. "All these years married, and I'd never once asked" is paired with asking now.
 - **Limits.** No Virgil (E068 had him). No truck man. No "X out of Y." Jonathon's father: not mentioned. Kid-catches-dad: none. One-word replies: none. Older-man quotable: none (Wes's dad is described; the tech asks a question). Deadpan payoff: one, "Tres leches. She ate it in the car." Knee or age beat: none ("fifty-two years" is his age, not a body joke).
 - **Prayer-aloud crack.** "Lord, I'm stopping because You told me to" is the tool's opening line for any man, not Wes praying aloud with his wife. The crack holds.
 - **Setups for E071 (season 7 premiere, What You Build When Nobody Claps; chapter 33; book plug B; outro E; sub-mid 4).** Labor Day tacos (Mon Sep 6). Wes's tailgate hour (Mon Sep 6). The friend's first treatment Tue Sep 7. Dani's first rehearsal Tue Sep 14. The nursing-home Thursday Sep 9. Wes's wife to her sister's later in September.
