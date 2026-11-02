@@ -447,9 +447,9 @@ Chapters
 30:43 Two chairs
 33:31 Pushback
 41:35 Going first
-45:56 The challenge
-47:40 Carry this
-47:54 Outro
+45:57 The challenge
+47:42 Carry this
+47:56 Outro
 
 Scripture: John 15:13, Deuteronomy 24:5, 1 Samuel 30:24, Psalm 139:9-10 (NIV)
 
@@ -520,4 +520,4 @@ Scripture quotations taken from The Holy Bible, New International Version®, NIV
 - **Canon.** Deuteronomy 24:5 is framed as a newly married man's case, said plainly to be a different case from a man home from war; it is used for what it shows about God's care for a home, not as a rule for veterans. 1 Samuel 30:24 is read in its setting (the two hundred too exhausted to cross the Besor ravine, verses 9-10 and 21-25). Psalm 139:9-10 is a show-fiction underline, Wes says "I'm guessing."
 - **Coach letter.** One line, as the payoff map asks.
 - **Safety.** 988, press 1, on mic in the challenge and in the description.
-- **Setups for E090 (Field Notes: Veterans Day; From the Table "How do I support a veteran in my life?"; tool "Ask, then listen"; outro F1).** The brother at the barn and the photo. The message to Corpus. The listener's one thing by Sunday (the challenge runs through Thursday night, Veterans Day, so Friday can report it).
+- **Setups for E090 (Field Notes: Veterans Day; From the Table "How do I support a veteran in my life?"; tool "Ask, then listen"; outro F1).** The brother at the barn and the photo. The message to Corpus. The listener's one thing by Thursday night (the challenge runs through Thursday night, Veterans Day, so Friday can report it).
