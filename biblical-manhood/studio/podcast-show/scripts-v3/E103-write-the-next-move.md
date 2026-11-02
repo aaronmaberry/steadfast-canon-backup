@@ -266,7 +266,7 @@ WES: I'll tell you whose I didn't. The man in the truck. I've eaten lunch with h
 [CAM: JON MS]
 JONATHON: Five months of sandwiches and you don't know his name. Wes, that's worse than my R.
 [CAM: WES MS]
-WES: It's a lot worse than your R. I told myself I was respecting his space. Some of that's true. Some of it is I didn't want to be the man who asks a question and gets the window rolled up. So I'm going to ask. Wednesday. "I've never asked your name. I'm sorry about that. I'm Wes." And then I'll wait.
+WES: It's a lot worse than your R. I told myself I was respecting his space. Some of that's true. Some of it is I didn't want to be the man who asks a question and gets a no through the glass. So I'm going to ask. Wednesday. "I've never asked your name. I'm sorry about that. I'm Wes." And then I'll wait.
 [CAM: JON CU]
 JONATHON: That's not your next move for the challenge, I'm guessing. That's just a Wednesday. I like that it's just a Wednesday.
 [TEXT: Somebody learned mine.]
