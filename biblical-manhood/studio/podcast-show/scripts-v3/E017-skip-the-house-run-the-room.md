@@ -492,9 +492,9 @@ WES: Produced with AI voice and video tools.
 ## YouTube description
 
 ```
-Twelve seven-year-olds get the best of Jonathon on Saturday morning: every name, a lizard in a container, a kid talked down on a bucket. Then his four-year-old at home asks, "Why do you only do the coach voice at practice?" Wes tells about the year a reorganization took his title, and the three weeks he didn't tell his wife.
+Twelve seven-year-olds get the best of Jonathon on Saturday morning. Every name, a lizard in a container, a kid talked down on a bucket. Then his four-year-old at home asks, "Why do you only do the coach voice at practice?" Wes tells about the year a reorganization took his title, and the three weeks he didn't tell his wife.
 
-Three shapes a man's inside problem takes on an ordinary day: skip the house, run the room, and wear the job as your name. Every one of them looks right from the bleachers. Proverbs 14:12, a contractor whose wife said "I'm not on your crew," a divorced dad whose son asked to be boring with him, and one contrary act before Friday.
+Three shapes a man's inside problem takes on an ordinary day. Skip the house, run the room, and wear the job as your name. Every one of them looks right from the bleachers. Proverbs 14:12, a contractor whose wife said "I'm not on your crew," a divorced dad whose son asked to be boring with him, and one contrary act before Friday.
 
 Chapters
 00:00 Cold open
@@ -539,7 +539,7 @@ Scripture quotations taken from The Holy Bible, New International Version®, NIV
 ## Pinned comment
 
 ```
-Skip the house, run the room, or wear the job as your name. Which one did you live lately? (Jonathon: the first one, from four feet away. Wes: the third, for nine years.)
+Skip the house, run the room, or wear the job as your name. Which one did you live lately? (Jonathon, the first one, from four feet away. Wes, the third, for nine years.)
 
 walksteadfast.com · @steadfastwalk
 ```

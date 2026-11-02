@@ -55,7 +55,7 @@ JONATHON: Episode twenty-three. Two Gardens.
 
 [CHAPTER: Pull up a chair]
 [CAM: WIDE]
-WES: Pull up a chair. And before anything else, I have news, and I've waited a long time to say it. It rained.
+WES: Pull up a chair. I have news, and I've waited a long time to say it. It rained.
 JONATHON: It rained? At your house? On the gutter?
 WES: Sunday night. A real one, about an inch. I went out on the porch in my sock feet with a flashlight like a man waiting on a baby. And the water went the right way. Down the slope, out the spout, into the yard. A quarter inch every ten feet. It works.
 JONATHON: Sixteen months. Two Saturdays, a son-in-law, a level, a box of donuts, and a man in his socks with a flashlight. And it works.
@@ -94,7 +94,7 @@ WES: The first thing the first man ever did when he got caught was step behind h
 JONATHON: That's very efficient blaming. I've sold air conditioners my whole career, and I've never seen a cleaner deflection.
 WES: It's the most efficient blame in history. Two people with one sentence. And every man since has the move in him. I do. Something goes wrong, and before I even know I'm doing it, I'm looking for who to step behind.
 [CAM: JON CU]
-JONATHON: I want to stay on that for a second, because I think most guys hear Adam and think, well, I'd never blame my wife for my sin. I'm not that guy. But it doesn't always look like blame, does it?
+JONATHON: Stay there a minute. Most guys hear Adam and think, well, I'd never blame my wife for my sin. I'm not that guy. But it doesn't always look like blame, does it?
 [CAM: WES MS]
 WES: No. Most of the time it looks reasonable. "I was giving her space." "She's better at this part." "I didn't want to make it worse." Those are all trees. They're good-looking trees. You could put them on a postcard. But you're still standing behind them, and somebody else is out in the open taking what was coming for you.
 [CAM: JON CU]
@@ -191,7 +191,7 @@ JONATHON: It's Holy Week. Everybody's carrying something into Easter. That's kin
 [CAM: JON MS]
 JONATHON: And I'm not going to decide in front of a microphone in Holy Week. That's not fair to him or to me. But you told me once, put a date on deciding. And I finally did. Easter Sunday. Sunday night, after the kids are down. I decide. Yes or no. Out of the trees either way.
 WES: Does Dani know the date? Because a date nobody knows isn't much of a date.
-JONATHON: I told her Saturday night. She said, "Okay." And then she said, "Whatever you pick, I'm in." And then she said, "Please actually pick."
+JONATHON: I told her Saturday night. She said, "Okay." Then, "Whatever you pick, I'm in." Then, "Please actually pick."
 (both laugh, softly)
 WES: That's fair. That's a woman who's heard "not yet" enough times.
 [SUB-MID]
@@ -239,7 +239,7 @@ JONATHON: And we can't do what he did. Nobody at this table is dying for anybody
 WES: No. He did that part. Once. All of it. Our part is, we follow the man who walked out. We don't save anybody. We just stop stepping behind people. That's what following him looks like at a kitchen table, or in a meeting with a VP.
 [PLUG: TRAINING]
 [CAM: 2S]
-JONATHON: And if you want to go deeper with a group, session nineteen of the Steadfast video training is this story. Two Men, Two Ways. The two Adams, built for men around a table. It's at walksteadfast.com.
+JONATHON: And if you want to go deeper with a group, session nineteen of the Steadfast video training is this story. Two Men, Two Ways. The two Adams, built for men around a table. You'll find it at walksteadfast.com.
 WES: It's a good one for Holy Week. Watch it with somebody.
 
 [CHAPTER: Peter's sword]
@@ -247,7 +247,7 @@ WES: It's a good one for Holy Week. Watch it with somebody.
 JONATHON: Okay, I have to bring up Peter, because Peter's my guy. Same night, same garden. And Peter does go first. He pulls a sword and cuts a man's ear off. The servant of the high priest. That's going first. That's the most go-first thing anybody does in the whole story.
 [CAM: WES MS]
 WES: (laughs) He went first. Straight at the wrong man's ear.
-JONATHON: And Jesus tells him to put it away. Put your sword back. I'm going to drink this cup. So what's the difference? Because I think a lot of guys hear "go first" and they think it means Peter. Swing at somebody. Be the loud one.
+JONATHON: And Jesus tells him to put it away. Put your sword back. I'm going to drink this cup. So what's the difference? My guess is most men hear "go first" and picture Peter. Swing at somebody. Be the loud one.
 WES: That's the right question. Peter went first to keep it from happening. Jesus went first to take it. Peter's sword was about winning. And I've been Peter more times than I've been anybody else in that garden. The meeting where I came in hot. The phone call with the roofer where I was going to "handle it." That's going first with a sword. It's still about me.
 [CAM: JON CU]
 JONATHON: But here's my push. Isn't Peter more right than the guy who hides? At least he showed up. At least he did something. I'd rather have Peter on my Bluebonnets than a guy hiding behind the dugout.
@@ -293,7 +293,7 @@ JONATHON: And divorced men. That blame line. "The woman you put here." I think a
 [CAM: WES MS]
 WES: Some of them have every reason to. Sometimes she really did leave, and it really wasn't his fault. I'm not telling anybody to take blame that isn't his. I'm telling him to watch where he stands when he says it. Especially in front of his kids. If every story about the divorce puts her in front of him, his kids are learning the first garden. Tell them your part, short, and let the rest go.
 [CAM: JON CU]
-JONATHON: What about the guy whose wife is the one in the trees? He's ready to walk out. She won't talk about the money, or the kid, or her mom. She's the one hiding. What's going first look like for him?
+JONATHON: Flip it. His wife's the one in the trees. He's ready to walk out. She won't talk about the money, or the kid, or her mom. She's the one hiding. What's going first look like for him?
 [CAM: WES MS]
 WES: Then he goes first anyway, without the sword. He doesn't drag her out from behind the tree. He doesn't preach at her about Adam. That's Peter with a Bible. He says his own part plainly, in a calm moment. "I've been scared to talk about the money. I'm ready when you are." And then he waits, and he keeps showing up at the edge of the trees.
 JONATHON: That could take a long time. Some guys are going to hear that and think, so I just wait forever?
@@ -325,7 +325,7 @@ WES: You could. And then you'd be the first man again, and the date didn't save 
 [CAM: JON MS]
 JONATHON: I don't think we agree. I think some guys should skip the date and just do it. Today. Text the rep today. Call your daughter today. The date's for guys like me who need a runway, and the runway can turn into a parking lot.
 WES: And I think some things shouldn't happen today. My brother's right. Not at Easter. Some walks out need a calm day. But I'll give you this. If you've moved the date twice, it's not a date anymore. It's a tree with a calendar on it.
-JONATHON: I'll take that. Moved twice means it's a tree. I'm writing that one in the notes app, next to the other two we didn't settle.
+JONATHON: I'll take that. Moved twice means it's a tree. That's going on the list with the other two.
 WES: Three unsettled. We're building quite a list.
 [TEXT: Moved twice? It's a tree.]
 
@@ -346,13 +346,13 @@ JONATHON: It's a coach-pitch game. It's nothing. It was twelve steps.
 WES: It's not nothing to her. She's going to remember those twelve steps longer than the score.
 [SHORT 1 OUT]
 [CAM: JON MS]
-JONATHON: And here's the part I didn't expect. After the game, her dad came over to me in the parking lot. Big guy. Works for the power company. And he shook my hand and said, "Thanks for getting out there first. I froze."
+JONATHON: And then something happened I didn't see coming. After the game, her dad came over to me in the parking lot. Big guy. Works for the power company. And he shook my hand and said, "Thanks for getting out there first. I froze."
 WES: Huh. That's not a sentence most men say out loud in a parking lot.
 JONATHON: And I said the polite thing. "Oh, you'd have gotten there." And he looked at me and he said, "No, I wouldn't have. I was looking at the other parents." That's a grown man in a parking lot telling a guy he barely knows that he hid. At a seven-year-old's baseball game. I've been thinking about him ever since.
 [CAM: WES MS]
 WES: That's the bravest thing anybody did Saturday. Including you. Including the girl.
 JONATHON: Braver than me. I just walked. He told the truth about not walking.
-WES: And you said what? Because I know you, and you had to say something.
+WES: And you said what? You had to say something. You always do.
 JONATHON: I didn't have anything. I said, "See you Thursday at practice." And he said, "I'll be there early." So we'll see if he is. I hope he is. I'd like him to be the one playing catch with her.
 [CAM: WES CU]
 WES: Can I say something about him? Because I think he's the man in this episode a lot of guys listening actually are. Not the coach who walked out. The dad on the bleachers who froze because he was looking at the other parents. Most of us aren't hiding from God in a garden. We're hiding from what the other parents think. And that man named it out loud, to another man, the same afternoon. That's the first step out of the trees. Most men never take it.
@@ -433,18 +433,18 @@ Chapters
 00:00 Cold open
 00:12 Intro
 00:39 Pull up a chair
-04:12 The first garden
-07:59 Four o'clock
-12:02 The forecast I was given
-14:30 The fish
-18:30 The Word
-23:28 Peter's sword
-27:42 Pushback
-34:51 Hiding behind a calendar
-37:25 What I actually did
-43:09 The challenge
-44:59 Carry this
-45:17 Outro
+04:10 The first garden
+07:55 Four o'clock
+11:57 The forecast I was given
+14:25 The fish
+18:23 The Word
+23:22 Peter's sword
+27:35 Pushback
+34:43 Hiding behind a calendar
+37:14 What I actually did
+42:57 The challenge
+44:47 Carry this
+45:06 Outro
 
 Scripture: 1 Corinthians 15:45 (NIV); John 18:8 (NIV)
 
@@ -470,7 +470,7 @@ Scripture quotations taken from The Holy Bible, New International Version®, NIV
 ## Pinned comment
 
 ```
-What have you been hiding from? You don't have to say what. Just tell us the day you're walking out. (Jonathon: Sunday night. Wes: "Tuesday after.")
+What have you been hiding from? You don't have to say what. Just tell us the day you're walking out. (Jonathon, Sunday night. Wes, "Tuesday after.")
 
 walksteadfast.com · @steadfastwalk
 ```
@@ -484,7 +484,7 @@ The Bible opens with a man in a garden, and on the night before he died Jesus wa
 
 ## The first garden
 
-When God found Adam, the first man said, "The woman you put here with me, she gave it to me." The first thing he did when he got caught was step behind his wife. Most of the time the move looks reasonable: "I was giving her space."
+When God found Adam, the first man said, "The woman you put here with me, she gave it to me." The first thing he did when he got caught was step behind his wife. Most of the time the move looks reasonable. "I was giving her space."
 
 ## Four o'clock
 
@@ -496,7 +496,7 @@ In his first year as a manager, Jonathon told a regional VP, "The forecast I was
 
 ## The fish
 
-Jonathon's father left when he was nine and has called about twice a year since. On Christmas Day his father sent him a friend request, and it's still pending. The profile photo shows a sunburned man on a boat holding a redfish. Jonathon admits he's been hiding, partly waiting for Dani to decide for him. He has set a date: Easter Sunday night, yes or no. "Whatever you pick, I'm in," Dani said. "Please actually pick."
+Jonathon's father left when he was nine and has called about twice a year since. On Christmas Day his father sent him a friend request, and it's still pending. The profile photo shows a sunburned man on a boat holding a redfish. Jonathon admits he's been hiding, partly waiting for Dani to decide for him. He has set a date, Easter Sunday night, yes or no. "Whatever you pick, I'm in," Dani said. "Please actually pick."
 
 ## The Word
 
@@ -512,7 +512,7 @@ The last Adam, not the second one. There's no third. On the night of his arrest,
 
 ## What they did
 
-The Bluebonnets lost their first game by one run when a seven-year-old struck out with the bases loaded. Before any parent could reach her, Jonathon walked out to home plate, knelt, and said, "That was a brave swing." "I closed my eyes," she said. "I know. Still brave." Wes walked out to his brother's barn and named the conversation they've avoided for two years: their mother's house and will. "Not at Easter," his brother said. "Tuesday after," said Wes. The two men still disagree on whether a date to decide helps a man or hides him. They agree on this: if you've moved it twice, it's a tree.
+The Bluebonnets lost their first game by one run when a seven-year-old struck out with the bases loaded. Before any parent could reach her, Jonathon walked out to home plate, knelt, and said, "That was a brave swing." "I closed my eyes," she said. "I know. Still brave." Wes walked out to his brother's barn and named the conversation they've avoided for two years, their mother's house and will. "Not at Easter," his brother said. "Tuesday after," said Wes. The two men still disagree on whether a date to decide helps a man or hides him. They agree that if you've moved it twice, it's a tree.
 
 ---
 **Watch or listen:** YouTube · Apple Podcasts · Spotify

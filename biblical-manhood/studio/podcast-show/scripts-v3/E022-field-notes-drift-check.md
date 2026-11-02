@@ -99,7 +99,7 @@ WES: Like evidence. And my older brother brought rolls from the grocery store, i
 [CAM: WES CU]
 WES: And then everybody sits down. And there's that moment where somebody's supposed to pray. Everybody looks at me. Because I'm the one who prays. That's my thing at family tables. My son-in-law looked at me from the step stool like, you've got this one, right?
 JONATHON: The cheap prize. Sitting there on a plate. The thing everybody hands you because you're the church guy.
-WES: The cheap prize. Right there. And I said, "Mom, it's your table." She looked at me for a second. Then she folded her hands.
+WES: The cheap prize. Right there. And I said, "Mom, it's your table." She held my eyes a second. Then she folded her hands.
 [CAM: JON CU]
 JONATHON: What did she pray? Because I've met your mom, and I can't picture her praying long about anything.
 WES: She prayed for every person at that table by name. All eleven. One at a time. Something specific for each one. My son-in-law's job at the county. My daughter's second graders. My youngest son's "truck situation." She actually said "truck situation" to God.
@@ -112,10 +112,10 @@ WES: I always took it. And she'd been sitting on eleven names the whole time. (t
 [CAM: JON MS]
 JONATHON: Okay. Me. My twenty minutes turned into bath time. Theo's bath. Which, back in the 1604 years, was the thing I was skipping. Two kids, two baths a night, and I was paying a sitter on Dani's shift nights while I sat in traffic on purpose.
 WES: And now you're the one at bath. Five nights, you said in the text.
-JONATHON: Five nights out of seven. The other two you heard about. The client dinner and the driveway, and Dani did bath both nights, and she didn't say a word about it, which is worse.
+JONATHON: Five nights out of seven. The other two you heard about. The client dinner and the driveway, and Dani did bath both nights, and she never brought it up, which is worse.
 [CAM: JON CU]
 JONATHON: And the first night, Theo's in the tub with his boats, and he looks up at me, kind of suspicious, like a little customs officer, and he says, "Why are you at bath?"
-WES: Oof. That one lands. Four years old and he's already got the question.
+WES: Oof. That one lands. Four years old, and he's asking the real question.
 JONATHON: Because it's usually Dani, or it was the sitter, and I'm the guy who shows up for the towel part. And I said, "Because I want to be." And he thought about it, with a boat in each hand. And he said, "Can you be the shark?"
 WES: Were you the shark? Tell me you were the shark.
 JONATHON: I was the shark for twenty minutes. Every night. I'm a very committed shark. I have a fin. It's my hand, but it's a fin. And Ruby's too old for bath now, she's seven, so she sits on the hamper with a book and pretends she's not watching the shark. She's watching the shark.
@@ -141,7 +141,7 @@ JONATHON: That's fair. I'll take it. He'll slip again. He'll tell faster.
 
 [CHAPTER: From the table]
 [CAM: WIDE]
-WES: From the table. After Tuesday, this was the question, and men ask it every time we talk about screens. "How do I set up my phone so it doesn't own me?" And before we answer it, Jonathon made us both do something humiliating.
+WES: From the table. After Tuesday, this was the question, and men bring it up whenever screens come up. "How do I set up my phone so it doesn't own me?" And before we answer it, Jonathon made us both do something humiliating.
 JONATHON: Screen time. The weekly report. It's in your settings. It tells you your daily average, and it doesn't care about your feelings.
 [CAM: INSERT Wes's phone, a screen-time screen: "Daily average 3h 41m," everything else blurred]
 WES: Three hours, forty-one minutes. A day. I said it out loud to my wife before I said it here, and she didn't look surprised.
@@ -176,7 +176,7 @@ JONATHON: Moses would've read the report and thrown the tablet at somebody. He's
 
 [CHAPTER: Is the number fair]
 [CAM: JON CU]
-JONATHON: Okay, I want to push on our own math, though, because I don't think it's all fair. Some of my five-twelve is good. I call my mom on that phone. I FaceTime Dani from the parking garage on her shift nights so the kids can say goodnight. If a guy hears "fifty-six days" and feels like garbage, he might throw out the good with the bad.
+JONATHON: Hold on, I've got a problem with our own math, because I don't think it's all fair. Some of my five-twelve is good. I call my mom on that phone. I FaceTime Dani from the parking garage on her shift nights so the kids can say goodnight. If a guy hears "fifty-six days" and feels like garbage, he might throw out the good with the bad.
 [CAM: WES MS]
 WES: That's fair. The number isn't a verdict. It's a report. A doctor hands you your cholesterol, and he's not calling you a bad person. He's telling you where you are. What I'd ask a man is what he'd want those hours back for. If the answer is "nothing, they were good hours," fine. Most men have an answer. They just don't like it.
 JONATHON: But here's the thing. You and I are sending each other the number every Thursday now. And I already caught myself feeling smug Tuesday when I saw you'd gone up. That's not accountability. That's a scoreboard.
@@ -214,7 +214,7 @@ JONATHON: The whole point of the radar was the green. You were never checking th
 WES: It was the green. I didn't know that till it was gone. Somebody figured that out a long time before I did.
 [CAM: JON MS]
 JONATHON: Two. The charger goes outside the bedroom. Hallway, kitchen, wherever. Not the nightstand. And get a cheap alarm clock, because "I need it for my alarm" is the first excuse everybody makes. I made it. Then I bought this. (holds up a plastic alarm clock) Twelve dollars. It has one button. I love it.
-WES: How was the first morning? Because I know you, and I know your hand.
+WES: How was the first morning? Be honest about the hand.
 JONATHON: I woke up and reached for the nightstand four times. Four. Before I even opened my eyes. Like reaching for a light switch in a house you moved out of.
 [CAM: JON CU]
 JONATHON: And this one is for the itch, more than anything. The bedroom at night is where the itch lives for a lot of guys. Not the living room. The bed, the dark, the phone on your chest. Take the phone out of the room, and you take away the easiest door.
@@ -261,23 +261,23 @@ WES: Produced with AI voice and video tools.
 ## YouTube description
 
 ```
-Jonathon's nephew slipped Wednesday night and told him forty minutes later: "that was faster than last time." Jonathon checks Wes first, asking about the nights he skipped the porch: "Did you forget? Or did you drift?" Then Jonathon owes the same answer about forty minutes in his driveway. And Wes's mother prays for eleven people by name at her first pot roast Sunday.
+Jonathon's nephew slipped Wednesday night and told him forty minutes later. "that was faster than last time." Jonathon checks Wes first, asking about the nights he skipped the porch. "Did you forget? Or did you drift?" Then Jonathon owes the same answer about forty minutes in his driveway. And Wes's mother prays for eleven people by name at her first pot roast Sunday.
 
-Field Notes, the Friday check-in from Walk Steadfast. Also: bath time and one very committed shark, both men's daily screen time on screen (3h 41m and 5h 12m, which works out to about 56 days a year for Wes), Psalm 90:12, whether the number is even fair, and the question "How do I set up my phone so it doesn't own me?" One tool: four settings in ten minutes.
+Field Notes, the Friday check-in from Walk Steadfast. Also, bath time and one very committed shark, both men's daily screen time on screen (3h 41m and 5h 12m, which works out to about 56 days a year for Wes), Psalm 90:12, whether the number is even fair, and the question "How do I set up my phone so it doesn't own me?" One tool, four settings in ten minutes.
 
 Chapters
 00:00 Cold open
 00:09 Intro
 00:32 Check the box
-11:07 From the table
-14:33 Is the number fair
-18:17 Tool on the table
-22:21 Carry this
-22:35 Outro
+11:06 From the table
+14:31 Is the number fair
+18:15 Tool on the table
+22:17 Carry this
+22:32 Outro
 
 Scripture: Psalm 90:12 (NIV)
 
-Tool: four settings. 1) Grayscale (search "grayscale" in your phone's settings). 2) The charger goes outside the bedroom; get a cheap alarm clock. 3) Send your screen-time number to your Thursday-text man, and don't grade it. 4) Move the one app that eats you off your home screen, three swipes away.
+Tool: four settings. 1) Grayscale (search "grayscale" in your phone's settings). 2) The charger goes outside the bedroom. Get a cheap alarm clock. 3) Send your screen-time number to your Thursday-text man, and don't grade it. 4) Move the one app that eats you off your home screen, three swipes away.
 
 New episodes every Tuesday, plus Field Notes every Friday.
 
@@ -297,7 +297,7 @@ Scripture quotations taken from The Holy Bible, New International Version®, NIV
 ## Pinned comment
 
 ```
-Run your screen-time number and drop it here. No grading, just the number. Ours: 3h 41m (Wes) and 5h 12m (Jonathon, "1h 50 of it is work").
+Run your screen-time number and drop it here. No grading, just the number. Ours are 3h 41m (Wes) and 5h 12m (Jonathon, "1h 50 of it is work").
 
 walksteadfast.com · @steadfastwalk
 ```
@@ -307,20 +307,20 @@ walksteadfast.com · @steadfastwalk
 # Field Notes: Drift Check
 ### Walk Steadfast, Episode 22
 
-Jonathon checked Wes first. Wes managed his twenty minutes on the porch four nights out of seven. On Tuesday, "one" tractor video turned out to be three. On Wednesday his wife was at her sister's. On Sunday, he said, he forgot. Jonathon leaned in: "Did you forget? Or did you drift?" After a long pause Wes said, "I drifted. I told myself I forgot." Then Jonathon owned his own: a real late call, and forty minutes in the driveway afterward. "The call was real. The driveway wasn't."
+Jonathon checked Wes first. Wes managed his twenty minutes on the porch four nights out of seven. On Tuesday, "one" tractor video turned out to be three. On Wednesday his wife was at her sister's. On Sunday, he said, he forgot. Jonathon leaned in. "Did you forget? Or did you drift?" After a long pause Wes said, "I drifted. I told myself I forgot." Then Jonathon owned his own, a real late call and forty minutes in the driveway afterward. "The call was real. The driveway wasn't."
 
-On Sunday Wes's mother held her first monthly pot roast lunch: eleven people at a table for eight, with the leaf in for the first time since her husband died. When everyone looked at Wes to pray, he said, "Mom, it's your table." She prayed for all eleven by name, including her grandson's "truck situation," and then said, "Well, eat. It's getting cold."
+On Sunday Wes's mother held her first monthly pot roast lunch. Eleven people sat at a table for eight, with the leaf in for the first time since her husband died. When everyone looked at Wes to pray, he said, "Mom, it's your table." She prayed for all eleven by name, including her grandson's "truck situation," and then said, "Well, eat. It's getting cold."
 
 Jonathon's twenty minutes turned into bath time, the job he used to pay a sitter to cover. Theo asked, "Why are you at bath?" and then, "Can you be the shark?" Jonathon's nephew slipped on day six and told him forty minutes later. "That was faster than last time." He meant the telling.
 
 ## From the table: how do I set up my phone so it doesn't own me?
 
-Both men read their reports on air: 3 hours 41 minutes a day for Wes, and 5 hours 12 for Jonathon (1 hour 50 of it work).
+Both men read their reports on air. It was 3 hours 41 minutes a day for Wes, and 5 hours 12 for Jonathon (1 hour 50 of it work).
 
 > "Teach us to number our days, that we may gain a heart of wisdom."
 > Psalm 90:12 (NIV)
 
-Wes's average comes to about fifty-six days a year. "The phone already numbers them," Jonathon says. "It's just that nobody reads the report." He also pushes back: some screen time is good, and a number can turn into a scoreboard. They settle it for now. Send the number, don't grade it, and ask what you did with the time you took back.
+Wes's average comes to about fifty-six days a year. "The phone already numbers them," Jonathon says. "It's just that nobody reads the report." He also pushes back. Some screen time is good, and a number can turn into a scoreboard. They settle it for now. Send the number, don't grade it, and ask what you did with the time you took back.
 
 ## Tool on the table: four settings
 

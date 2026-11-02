@@ -66,12 +66,12 @@ WES: We don't know. It's the most faith I've ever had in a gutter.
 [CAM: JON MS]
 JONATHON: And the Bluebonnets have their first game Saturday. I have a lineup. A laminated lineup. Harper's batting leadoff because he's not scared of anything, including the ball, which is a problem in the field. And one of the twins asked if she could bat with her eyes closed, and I said that's how most of us bat.
 WES: Who's throwing? Tell me it isn't you.
-JONATHON: Harper's dad. I'm coaching first base. My shoulder sent him a thank-you card. And your mom's pot roast Sunday happened, and I'm not letting you tell it until Friday, because I want it to have its own day.
+JONATHON: Harper's dad. I'm coaching first base. My shoulder sent him a thank-you card. And your mom's pot roast Sunday happened, and that one waits for Friday. It deserves its own day.
 WES: (sips his coffee) It needs its own day. That's all I'll say. There were more people than chairs.
 [CAM: WES MS]
 WES: So. The last two times we sat down, it was anger. That's the loud way a man handles pain. It goes out. It honks. Today is the other two, and they're quieter. And I think, sitting at men's tables for twenty years, they're more common. The itch and the drift.
 [CAM: JON MS]
-JONATHON: Say what those are, plainly, because I think a lot of guys hear "the itch" and think we're talking about poison ivy.
+JONATHON: Say what those are, plainly, because some guys hear "the itch" and think we're talking about poison ivy.
 WES: The itch is when you go down into something to feel better. A screen. A bottle. A betting app. A shopping cart at midnight. For a lot of men, and we're going to be honest about it today, it's porn. The drift is when you go away. Your body's at the table, and you're gone. Nobody can point to anything you did. You just aren't there.
 [CAM: 2S]
 JONATHON: So the question for you. When it's a bad stretch, where do you go? Down into something, or away from everybody? And how long have you been planning to deal with it later?
@@ -85,7 +85,7 @@ JONATHON: He's braver than me at twenty-two. So. Last Thursday. 1:14 in the morn
 [CAM: INSERT phone, a text at 1:14 AM: "how do you stop"]
 JONATHON: "how do you stop." No question mark. No capital letters. Nothing before it and nothing after it.
 [CAM: JON CU]
-JONATHON: And I knew. You know how you know. I called him at 1:15. He picked up and didn't say anything for a while. And then he said, "Porn." Just the one word. And then it all came out, like he'd been holding a door shut with his back for years and finally stepped away from it.
+JONATHON: And I knew. You know how you know. I called him at 1:15. He picked up and was quiet for a long time. And then he said, "Porn." Just the one word. And then it all came out, like he'd been holding a door shut with his back for years and finally stepped away from it.
 WES: How long had it been going on?
 JONATHON: Since he was thirteen. Nine years. And he said it gets worse when he's lonely. And since the chili Sundays started at his place, it had been a lot better. Weeks better. Then he had a bad stretch. A girl he liked started seeing somebody else. His car broke down. And Wednesday night he was back in it till one in the morning, and he said, "I feel disgusting. I feel like I'm thirteen."
 [pause 1s]
@@ -109,7 +109,7 @@ WES: What did you say?
 JONATHON: I said, "No." And then I had to figure out the rest while I was talking, which is how I do most things. I said, "He's not disgusted by you. He's after you. He knew about every one of those nights before you did, and he sent his Son anyway. You're not going to surprise him." I don't know if that's how you'd say it.
 [CAM: WES CU]
 WES: (beat) That's how I'd say it. Maybe not as well. That's the gospel at 1:30 in the morning to a kid in an apartment. "You're not going to surprise him." I'm going to keep that one.
-JONATHON: He didn't say anything for a while. Then he said, "Okay." And I could hear he was crying a little. And I didn't say anything about it. I stayed on the phone.
+JONATHON: He went quiet again. Then he said, "Okay." And I could hear he was crying a little. And I didn't say anything about it. I stayed on the phone.
 
 [CHAPTER: Three screens and a couch]
 [CAM: JON MS]
@@ -124,13 +124,13 @@ WES: And how's he doing? Today, as of this morning?
 JONATHON: He's on day five. (beat) And I'll be honest. He'll probably slip. Most guys do. If he slips, he texts me, and we start over. That's the deal. Nobody's pretending day five is the finish line. Day five is day five.
 [CAM: WES MS]
 WES: And for a man listening who's on day zero, I want him to hear that. The plan isn't "never again." The plan is "never alone again." Those are different plans, and only one of them works.
-JONATHON: "Never alone again." I'm going to send that to him Thursday, and he's going to say "ok," and that'll mean he loved it.
+JONATHON: "Never alone again." I'm going to send that to him Thursday, and he's going to say "ok," and from a twenty-two-year-old, that's a standing ovation.
 [CAM: WES MS]
 WES: Can I ask how Friday went? The roommate. Because that's the moment I'd be most scared of, if I were twenty-two.
 [CAM: JON MS]
 JONATHON: He was terrified. He texted me at six, "still doing it?" and I said, "Still doing it." And at nine he knocks on the guy's door. And he told me he stood in the hall for a full minute first, rehearsing, and then forgot all of it and just said, "Hey, can we sit on the couch?"
 WES: The couch nobody sits on.
-JONATHON: First time anybody'd sat on it since August, probably. And he told him. The actual word. And the roommate didn't say anything for a while, and then he said, "Dude. Same." And my nephew said he almost laughed, because nine years he thought he was the only one, and the answer was twenty feet down the hall the whole time.
+JONATHON: First time anybody'd sat on it since August, probably. And he told him. The actual word. And the roommate sat there a minute, and then he said, "Dude. Same." And my nephew said he almost laughed, because nine years he thought he was the only one, and the answer was twenty feet down the hall the whole time.
 [CAM: WES CU]
 WES: (shakes his head slowly) I've heard that "same" at a lot of tables. Men in their sixties, at a church retreat, finally saying it out loud, and the man next to him says "same," and they've been in the same Sunday school class for thirty years. The secret always feels like it's yours alone. It almost never is. That's one of the enemy's best tricks. He tells every man in the building he's the only one.
 JONATHON: And now there's two of them on the couch. They watched a ball game out there Saturday. In the living room. With the door open. My nephew texted me a picture of the couch. Just the couch. No caption.
@@ -164,7 +164,7 @@ WES: It's a part-time job I took instead of my wife. And it doesn't look like an
 [CAM: JON MS]
 JONATHON: Okay, I'm going to push on this a little, because I think you're being hard on yourself and I think some guys need to hear the other side. You're allowed a hobby. A man can watch tractor videos. Dani watches baking shows with her eyes closed. Is every hobby the fog now?
 [CAM: WES MS]
-WES: No. And I'm glad you pushed. Here's the difference. A hobby you pick up. The fog picks you up. I'd sit down meaning to watch one video and look up two hours later. And the bigger tell is what she said. Three times. If the people in your house have to ask three times, it's not a hobby. It's a door you went through and closed.
+WES: No. And I'm glad you pushed. Here's the difference. A hobby you pick up. The fog picks you up. I'd sit down meaning to watch one video and look up two hours later. And the bigger tell is what she said. Three times. If your family has to ask three times, it's not a hobby. It's a door you went through and closed.
 JONATHON: So the test is the third ask. If you're getting asked things three times, you're gone.
 WES: That's one test. The other one's the question we kept asking about anger. What's it guarding?
 [CAM: JON CU]
@@ -195,7 +195,7 @@ WES: (beat) I hadn't put those together until you said it. Yes. The last years, 
 [CAM: JON CU]
 JONATHON: Well, here's the end of the golf story, because it isn't over. Last Christmas he asked Ruby to teach him a card game. Seventy-four years old. And they played for two hours. Some game she made up with rules that change every hand. Dani watched from the kitchen and didn't say anything. She just kept drying the same dish.
 WES: For two hours.
-JONATHON: Same dish. I don't think it's ever been drier. And that's what I want the older guy to hear. He was in the drift for thirty years and he got out of it with a seven-year-old and a deck of cards. It's not too late. It wasn't too late for him.
+JONATHON: Same dish. I don't think it's ever been drier. And that's what I want the older guy to hear. He was in the drift for thirty years and he got out of it with Ruby and a deck of cards. It's not too late. It wasn't too late for him.
 [SUB-MID]
 [LOWER THIRD: Subscribe · New episodes Tuesday and Friday]
 [CAM: JON MS]
@@ -210,7 +210,7 @@ WES: We spent two episodes asking what your anger is guarding. There's a verse t
 [CARD: Proverbs 4:23]
 WES: "Above all else, guard your heart, for everything you do flows from it."
 [CAM: 2S]
-WES: This is a father talking to his son. The whole chapter is a dad saying, listen to me, here's what matters. And out of everything, "above all else," it's this. Guard your heart. Not your reputation. Not your money. Not your title. Your heart. Because everything you do comes out of it.
+WES: This is a dad sitting his boy down. The whole chapter is a dad saying, listen to me, here's what matters. And out of everything, "above all else," it's this. Guard your heart. Not your reputation. Not your money. Not your title. Your heart. Because everything you do comes out of it.
 [CAM: JON MS]
 JONATHON: I'll confess what I actually guard above all else. My phone battery. If it's under twenty percent, I'm a different man. I will leave a restaurant. Dani has watched me hunt for an outlet at a funeral home.
 WES: (laughing) At a funeral home.
@@ -274,7 +274,7 @@ JONATHON: And the guy who's hurting so much the itch is the only thing that work
 WES: That's real. A lot of men started the itch as a boy trying to stop hurting. I'm not going to shame a boy for that. But you're not a boy anymore. And the thing that stopped the hurting at fourteen is making it worse at thirty-four. You deserve something that actually helps.
 [CAM: WES MS]
 WES: And I want to say this plainly, and slowly. If the drift has gone dark for you, if you're numb most days, or you've started thinking everybody would be better off without you, please don't wait on that one. Call or text 988. That's the Suicide and Crisis Lifeline. Any hour. And if the itch is a bottle or pills, there's a helpline for that in the description too.
-JONATHON: And you don't have to be sure it's that bad to call. You don't have to qualify. I think a lot of guys don't call because they figure somebody else has it worse.
+JONATHON: And you don't have to be sure it's that bad to call. You don't have to qualify. Plenty of men never call because they figure somebody else has it worse.
 WES: You don't have to be sure. That's what they're there for. Let them decide how bad it is.
 [TEXT: Call or text 988, any hour]
 
@@ -292,12 +292,12 @@ JONATHON: Okay, I'll give you that. A man ready. But I don't want guys hearing "
 WES: No. Days, not months. If the man you told is any good, he'll ask you on day three if you've told her yet. That's how you know you picked the right man.
 JONATHON: So we agree on the speed and the help. We disagree on the order.
 WES: We disagree on the order. And I think it depends on the marriage, which is why I'd want a counselor in it.
-JONATHON: I'm putting it in the notes app next to run the room versus skip the house. Two unsettled.
+JONATHON: That goes on my list with run the room versus skip the house. Two unsettled.
 [TEXT: Days, not months. Get help saying it right.]
 
 [CHAPTER: When it's your son]
 [CAM: JON MS]
-JONATHON: Okay, here's the one I'm scared of, and Ruby's seven, so I'm scared of it early. A dad finds it. On his son's tablet. Fourteen years old. What does he do in the first ten minutes? Because I know what I'd want to do, and it involves the pool.
+JONATHON: Okay, here's the one I'm scared of, and Ruby's seven, so I'm scared of it early. A dad finds it. On his son's tablet. Fourteen years old. What does he do in the first ten minutes? Because my first instinct involves the pool.
 [CAM: WES MS]
 WES: (laughs) The tablet in the pool. I've heard that one at the table more than once. There was a dad a few years back, good man, a welder, and he found it on his boy's tablet on a school night. And he did the pool. Well, the driveway. He broke it on the driveway in front of the boy. And then he didn't say a word about it for two years.
 JONATHON: Two years? Nobody said anything for two years?
@@ -311,7 +311,7 @@ JONATHON: See, I'd push on that. I think the "me too" is where most dads chicken
 WES: I agree with you. The "me too" is the door. I'd just keep it short with a fourteen-year-old. One sentence, like you did. Then the conversation is about him, not about Dad's history. And then it's daylight stuff. The tablet lives in the kitchen at night. Dad checks in, not like a cop. Like a man who's been there.
 JONATHON: And what about the welder? Is it too late for him? Two years of nothing.
 [CAM: WES CU]
-WES: It wasn't too late. That's why I know the story. He came to the table because his boy was seventeen and they couldn't talk about anything. And one night he drove him to get tacos and said, "I handled that tablet wrong. I was ashamed of me, and I took it out on you." And the boy said, "I'm still fighting it." First honest thing either of them had said in two years. In a taco parking lot.
+WES: It wasn't too late. That's why I know the story. He came to the table because his boy was seventeen and they couldn't talk about anything. And one night he drove him to get tacos and said, "I handled that tablet wrong. I was ashamed of me, and you paid for it." And the boy said, "I'm still fighting it." First honest thing either of them had said in two years. In a taco parking lot.
 JONATHON: The parking lot again. Every important conversation happens in a parking lot.
 WES: Men will say anything if they don't have to look at each other. Put them in a truck facing the same direction, and the truth comes out.
 [TEXT: "I found it. I'm not going anywhere."]
@@ -328,7 +328,7 @@ JONATHON: My tell is product reviews. I'll read forty reviews for an air fryer I
 WES: (laughing) Did the reviews comfort you?
 JONATHON: Four-point-six stars. Very comforting. And that's how I know I'm gone. When a stranger in Ohio's opinion about my air fryer is the most important thing in my evening.
 [CAM: WES MS]
-WES: And for the man living alone, divorced, widowed, never married, it's harder, and I won't pretend it isn't. The quiet house is where the drift lives. I sat with a widower at our table, seventy-seven, who told us the TV was the only voice in his house since his wife died. He ran it from breakfast to bed. He said, "It's company. It doesn't ask me anything." And that was the whole problem.
+WES: And for the man living alone, divorced, widowed, never married, it's harder, and I'm not going to dress that up. The quiet house is where the drift lives. I sat with a widower at our table, seventy-seven, who told us the TV was the only voice in his house since his wife died. He ran it from breakfast to bed. He said, "It's company. It doesn't ask me anything." And that was the whole problem.
 [CAM: JON CU]
 JONATHON: What changed for him? Because I don't want the older guy to hear that and just feel worse.
 WES: Two men from church started picking him up for breakfast. Every Tuesday, six-thirty, same booth. They didn't fix his grief. You don't fix that. But now somebody notices if he's quiet. They'll say, "You're somewhere else today, what's going on?" That's the gate. He had to let somebody stand at it.
@@ -345,7 +345,7 @@ JONATHON: Laundry. Forty minutes. We didn't talk about anything big. She told me
 [CAM: JON CU]
 JONATHON: And it wasn't some big moment. I was there, instead of four feet away. That's all it was. I'll take it.
 [CAM: JON MS]
-JONATHON: And I told her about the nephew. He said I could. And I thought she'd go straight to the practical stuff, because that's Dani. Instead she put down the towel and teared up a little. She said, "I keep seeing him at five in that Spider-Man costume he wore for a whole year." And then she went practical. "He should come to Sunday lunch. Every week, after church. He can bring the roommate."
+JONATHON: And the nephew came up while we folded. He'd said I could tell her. And I thought she'd go straight to the practical stuff, because that's Dani. Instead she put down the towel and teared up a little. She said, "I keep seeing him at five in that Spider-Man costume he wore for a whole year." And then she went practical. "He should come to Sunday lunch. Every week, after church. He can bring the roommate."
 WES: That's a good answer. That's a couch nobody sits on getting a table instead.
 JONATHON: She was right about Sunday lunch. She was wrong about the roommate. Not about inviting him. About the menu. The roommate's a vegan. Dani found that out Sunday. There was a lot of brisket.
 (both laugh)
@@ -417,27 +417,27 @@ WES: Produced with AI voice and video tools.
 ## YouTube description
 
 ```
-At 1:14 in the morning, Jonathon's twenty-two-year-old nephew texted three words: "how do you stop." And Wes's wife told him something she hadn't said in fifteen years: "You're doing the fog again."
+At 1:14 in the morning, Jonathon's twenty-two-year-old nephew texted three words. "how do you stop." And Wes's wife told him something she hadn't said in fifteen years. "You're doing the fog again."
 
-Anger is the loud way a man handles pain. The itch and the drift are the quiet ways: going down into something to feel better, or going away while your body stays at the table. Proverbs 4:23, why "never alone again" works better than "never again," Dani's dad and thirty years of golf with the sound low, and an honest disagreement about who a married man tells first.
+Anger is the loud way a man handles pain. The itch and the drift are the quiet ways, going down into something to feel better, or going away while your body stays at the table. Proverbs 4:23, why "never alone again" works better than "never again," Dani's dad and thirty years of golf with the sound low, and an honest disagreement about who a married man tells first.
 
 Chapters
 00:00 Cold open
 00:13 Intro
 00:39 Pull up a chair
-03:35 One-fourteen
-07:36 Three screens and a couch
-11:25 The fog again
-17:01 The golf with the sound low
-19:36 The Word
-24:53 Normal and harmless
-30:30 Who you tell first
-32:35 When it's your son
-36:03 Nobody to ask three times
-39:08 What I actually did
-42:46 The challenge
-44:45 Carry this
-45:10 Outro
+03:31 One-fourteen
+07:31 Three screens and a couch
+11:20 The fog again
+16:55 The golf with the sound low
+19:29 The Word
+24:47 Normal and harmless
+30:23 Who you tell first
+32:26 When it's your son
+35:52 Nobody to ask three times
+38:57 What I actually did
+42:36 The challenge
+44:35 Carry this
+45:00 Outro
 
 Scripture: Proverbs 4:23 (NIV)
 
@@ -465,7 +465,7 @@ Scripture quotations taken from The Holy Bible, New International Version®, NIV
 ## Pinned comment
 
 ```
-Itch or drift: which one is yours? You don't have to say it here. Say it to one man before Friday. (988 is in the description, any hour.)
+Itch or drift, which one is yours? You don't have to say it here. Say it to one man before Friday. (988 is in the description, any hour.)
 
 walksteadfast.com · @steadfastwalk
 ```
@@ -475,11 +475,11 @@ walksteadfast.com · @steadfastwalk
 # The Itch and the Drift
 ### Walk Steadfast, Episode 21
 
-Anger is the loud way a man handles pain. The itch and the drift are quieter. The itch is going down into something to feel better: a screen, a bottle, an app, and for many men, porn. The drift is going away while your body stays at the table.
+Anger is the loud way a man handles pain. The itch and the drift are quieter. The itch is going down into something to feel better, like a screen, a bottle, an app, and for many men, porn. The drift is going away while your body stays at the table.
 
 ## 1:14 AM
 
-Jonathon's nephew, twenty-two, texted him in the middle of the night: "how do you stop." Jonathon called and listened for an hour. He told him one thing about himself: "I've been there. Longer than you'd guess." When the nephew asked, "Does God hate me?" Jonathon said, "He's not disgusted by you. He's after you." The next day, in daylight, the nephew told his roommate the whole truth. The plan isn't "never again." It's "never alone again."
+Jonathon's nephew, twenty-two, texted him in the middle of the night. "how do you stop." Jonathon called and listened for an hour. He told him one thing about himself. "I've been there. Longer than you'd guess." When the nephew asked, "Does God hate me?" Jonathon said, "He's not disgusted by you. He's after you." The next day, in daylight, the nephew told his roommate the whole truth. The plan isn't "never again." It's "never alone again."
 
 ## The fog again
 

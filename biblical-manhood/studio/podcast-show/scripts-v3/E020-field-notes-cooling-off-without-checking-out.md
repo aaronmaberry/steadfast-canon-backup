@@ -15,7 +15,7 @@ Walk Steadfast · Field Notes · script v3 (podcast v3, batch E017-E024). Intern
 | Standing outro | Field Notes F2, reworded |
 | Wardrobe | Wes: brown-and-cream check shirt. Jonathon: white crewneck tee under an unbuttoned light-blue shirt. |
 | Props | Standard set. Jonathon's phone (one insert: three lines from his notes app). A kitchen timer (Wes's mother's, the wind-up kind). |
-| New continuity | **Car-care Saturday (Mar 6).** Eleven cars, nine single moms (two brought a sister). The 81-year-old mechanic did fourteen oil changes, counting two "for practice" on volunteers' trucks. Tools laid out on a towel, smallest to largest. A 12-year-old boy handed him wrenches all morning and got a socket set: "Next month. First Saturday." Every first Saturday from now on; Wes stays on coffee. One mom said the coffee was good and Wes "thought about it all afternoon." **Bald tires:** one mom's ex returned the car with four bald tires; Wes and the mechanic had four used tires on it by Wednesday (the right anger). **Jonathon's notes-app lines:** Monday night, Dani's "Did you see the electric bill went up?" (guarding: "I feel dumb about money," since his mom cried over bills at the kitchen table when he was nine); Wednesday, a customer's nasty email to one of his reps (guarding: "never let them see you hurt," again); Thursday, Theo's shoes (guarding: being late looks bad at work). He said the money one to Dani: "You're not dumb about money. You're dumb about the spreadsheet." Eleven colors going to four. He didn't send the email reply and called the rep instead. **Wes at PT (Tue Mar 9):** snapped "That's enough" at the therapist. Guarding: "I'm scared I'll end up like Dad. Never the same." Told his wife; she said, "Me too, a little," and held his hand till the show was over. Apologized Thursday ("It's my dad's knees"); therapist: "Tell me when it's too much, and I'll stop." Mom from the next table: "He's always been a baby about his knees." **Little brother's birthday (Mar 11):** card mailed on the 10th; first birthday call in about twenty years; "Is Mom okay?"; forty minutes on the Rangers and his kids. **Twenty-minute rule** from the year-three counselor; Dani followed him to the garage for about a year ("Garage arguments are the worst arguments. Echoey."). **The man who never gets angry** (Jonathon's push): passivity can hide behind calm. **Single check:** Wes's son, "foreman yelled. guarding: scared i'm not good at this." Wes texted back "You're good at this. Proud of you." Thumbs-up. |
+| New continuity | **Car-care Saturday (Mar 6).** Eleven cars, nine single moms (two brought a sister). The 81-year-old mechanic did fourteen oil changes, counting two "for practice" on volunteers' trucks. Tools laid out on a towel, smallest to largest. A 12-year-old boy handed him wrenches all morning and got a socket set: "Next month. First Saturday." Every first Saturday from now on; Wes stays on coffee. One mom said the coffee was good and Wes "thought about it all afternoon." **Bald tires:** one mom's ex returned the car with four bald tires; Wes and the mechanic had four used tires on it by Wednesday (the right anger). **Jonathon's notes-app lines:** Monday night, Dani's "Did you see the electric bill went up?" (guarding: "I feel dumb about money," since his mom cried over bills at the kitchen table when he was nine); Wednesday, a customer's nasty email to one of his reps (guarding: "never let them see you hurt," again); Thursday, Theo's shoes (guarding: being late looks bad at work). He said the money one to Dani: "You're not dumb about money. You're dumb about the spreadsheet." Eleven colors going to four. He didn't send the email reply and called the rep instead. **Wes at PT (Tue Mar 9):** snapped "That's enough" at the therapist. Guarding: "I'm scared I'll end up like Dad. Never the same." Told his wife; she said, "Me too, a little," and held his hand till the show was over. Apologized Thursday ("It's my dad's knees"); therapist: "Tell me when it's too much, and I'll stop." Mom from the next table: "He's always been a baby about his knees." **Little brother's birthday (Mar 11):** card mailed on the 10th; first birthday call in about twenty years; "Is Mom okay?"; forty minutes on the Rangers and his kids. **Twenty-minute rule** from the year-three counselor; Dani followed him to the garage for about a year ("Garage arguments are the worst arguments. Echoey."). **The man who never gets angry** (Jonathon's push): passivity can hide behind calm. **Single check:** Wes's son, "foreman yelled. guarding? scared i'm not good at this." Wes texted back "You're good at this. Proud of you." Thumbs-up. |
 
 ## Title options
 
@@ -54,7 +54,7 @@ JONATHON: Field Notes. Cooling Off Without Checking Out.
 
 [CHAPTER: Check the box]
 [CAM: WIDE]
-JONATHON: Pull up a chair. And before we do anything about anger, we owe everybody the car-care Saturday, because I made them wait, and I think the people deserve it.
+JONATHON: Pull up a chair. We owe everybody the car-care Saturday before we touch anger, because I made them wait, and I think the people deserve it.
 WES: We do owe them.
 [CAM: WES MS]
 WES: Saturday, the church parking lot, seven in the morning. Eleven cars. Nine of them single moms, and two of those brought a sister. And our friend, eighty-one, the retired Air Force mechanic who sits behind me at church, was there at six-fifteen with a floor jack and every tool laid out on a towel.
@@ -76,21 +76,21 @@ JONATHON: Okay, and I have to ask. Did anybody notice the coffee? Because you ad
 [CAM: WES MS]
 WES: (beat) One mom said it was good coffee. And I thought about it all afternoon.
 JONATHON: All afternoon. A grown man thinking about one coffee compliment all afternoon. I love that so much.
-WES: I'm not proud of it. I'm reporting it. He's eighty-one and he's got a calendar, and he wants to do it every first Saturday. He asked if I'd keep doing coffee. I said yes before he finished the sentence. I'm going to try to do it for nobody next time.
+WES: I'm not proud of it. I'm reporting it. He's eighty-one and he's got a calendar, and every first Saturday is on it now. He asked if I'd keep doing coffee. I said yes before he finished the sentence. I'm going to try to do it for nobody next time.
 [TEXT: First Saturday. Every month.]
 [CAM: JON MS]
 JONATHON: Okay. Tuesday's challenge. When you get angry, ask what it's guarding, write one line, and say the thing behind it out loud to one person. And I did the notes app. (holds up his phone) Three lines since Monday.
 [CAM: INSERT phone, a notes app with three short lines, partly blurred]
 WES: Read them. All three. You said Friday.
-JONATHON: I said maybe Friday. But I'll read them. Thursday, Theo's shoes, again. We were late, he wouldn't put them on, I went hot. Guarding: being late looks bad at work. Which, he's four. He doesn't have a work. Wednesday, a customer's email to one of my reps, really nasty. Guarding, and I want you to guess.
+JONATHON: I said maybe Friday. But I'll read them. Thursday, Theo's shoes, again. We were late, he wouldn't put them on, I went hot. Guarding? Being late looks bad at work. Which, he's four. He doesn't have a work. Wednesday, a customer's email to one of my reps, really nasty. Guarding, and I want you to guess.
 WES: "Never let them see you hurt."
 JONATHON: Again. It's always that one. He works a lot of shifts, that guard.
 [CAM: JON CU]
-JONATHON: And Monday, the one I told you I wasn't reading. Dani said something about the spreadsheet. Completely normal. "Did you see the electric bill went up?" And I got hot. Really hot, for no reason. And afterward I wrote it down. Guarding: I feel dumb about money.
+JONATHON: And Monday, the one I told you I wasn't reading. Dani said something about the spreadsheet. Completely normal. "Did you see the electric bill went up?" And I got hot. Really hot, for no reason. And afterward I wrote it down. Guarding? I feel dumb about money.
 [CAM: WES MS]
 WES: Did you say it out loud? That was the second half.
 [CAM: JON CU]
-JONATHON: Wednesday morning, when she got home from shift. I said, "When you talk about the spreadsheet, I get mad, and it's because I feel dumb about money. I've felt dumb about money since I was nine and my mom cried at the kitchen table with the bills." No because after that. Just that.
+JONATHON: Wednesday morning, right after her shift. I said, "When you talk about the spreadsheet, I get mad, and it's because I feel dumb about money. I've felt dumb about money since I was nine and my mom cried at the kitchen table with the bills." No because after that. Just that.
 WES: What did she say?
 JONATHON: She said, "You're not dumb about money. You're dumb about the spreadsheet. I made it too complicated." And then she pulled it up and showed me how she'd color-coded it, and she was right. It's insane. There are eleven colors.
 (both laugh)
@@ -125,10 +125,10 @@ JONATHON: The family rule. Nobody in your family calls unless somebody's in the 
 WES: That's the rule. And I said, "Mom's fine. Happy birthday." And there was a long pause, and he said, "Oh." And then we talked for forty minutes. About nothing. The Rangers. His kids. A guy at his work who brings a fish to the office microwave. He's funny. I forget he's funny. I've been forgetting for about twenty years.
 [CAM: JON MS]
 JONATHON: And the single check. I'm guessing it's your son, because you've had your phone face-up on the table all morning, and you never do that.
-WES: My oldest. Twenty-one, the apprentice electrician. He texted me Wednesday. I'll read it exactly. "foreman yelled. guarding: scared i'm not good at this."
+WES: My oldest. Twenty-one, the apprentice electrician. He texted me Wednesday. I'll read it exactly. "foreman yelled. guarding? scared i'm not good at this."
 [CAM: WES CU]
 WES: (beat) He hasn't said the word "scared" to me since he was about nine. I read it in the truck three times.
-JONATHON: What did you text back? Because I know you, and you wrote a paragraph first.
+JONATHON: What did you text back? I've watched you text. You wrote a paragraph first.
 WES: I wrote a paragraph and deleted it. Then I wrote, "You're good at this. Scared is normal. Proud of you." And then I deleted "Scared is normal," because it sounded like a poster in a dentist's office. "You're good at this. Proud of you." He sent back a thumbs-up.
 JONATHON: The thumbs-up. That's from you. You started that. You sent your first emoji last month, and now your son's sending it back to you.
 WES: That's the family's whole emotional vocabulary now. The thumbs-up and "Well."
@@ -256,23 +256,23 @@ WES: Produced with AI voice and video tools.
 ## YouTube description
 
 ```
-Car-care Saturday at church: eleven cars, nine single moms, fourteen oil changes from an eighty-one-year-old mechanic, a socket set for a twelve-year-old, and four bald tires that made Wes angry in the right way. Then the anger reports. Wes snapped at his physical therapist and found out what it was guarding. Jonathon read three lines from his notes app, including "I feel dumb about money."
+Car-care Saturday at church brought eleven cars, nine single moms, fourteen oil changes from an eighty-one-year-old mechanic, a socket set for a twelve-year-old, and four bald tires that made Wes angry in the right way. Then the anger reports. Wes snapped at his physical therapist and found out what it was guarding. Jonathon read three lines from his notes app, including "I feel dumb about money."
 
-Field Notes, the Friday check-in from Walk Steadfast. A question men ask: is it ever right to be angry? Mark 3:5, two questions to test your anger, why the man who never gets angry doesn't get a pass, and the twenty-minute rule from Jonathon and Dani's counselor: leave the temperature, not the conversation.
+Field Notes, the Friday check-in from Walk Steadfast. A question men ask. Is it ever right to be angry? Mark 3:5, two questions to test your anger, why the man who never gets angry doesn't get a pass, and the twenty-minute rule from Jonathon and Dani's counselor. Leave the temperature, not the conversation.
 
 Chapters
 00:00 Cold open
 00:15 Intro
 00:38 Check the box
-10:55 From the table
-15:53 The man who never gets angry
-17:59 Tool on the table
-22:48 Carry this
-23:05 Outro
+10:52 From the table
+15:51 The man who never gets angry
+17:56 Tool on the table
+22:45 Carry this
+23:03 Outro
 
 Scripture: Mark 3:5 (NIV)
 
-Tool: the twenty-minute rule. 1) Say when you're coming back ("I'll be back at 8:15"). 2) Do something with your body, not your phone. 3) Don't rehearse; ask what it's guarding. 4) Come back on time and start with the line.
+Tool: the twenty-minute rule. 1) Say when you're coming back ("I'll be back at 8:15"). 2) Do something with your body, not your phone. 3) Don't rehearse. Ask what it's guarding. 4) Come back on time and start with the line.
 
 New episodes every Tuesday, plus Field Notes every Friday.
 
@@ -292,7 +292,7 @@ Scripture quotations taken from The Holy Bible, New International Version®, NIV
 ## Pinned comment
 
 ```
-What did your anger turn out to be guarding? One line is enough. (Jonathon: "I feel dumb about money." Wes: "I'm scared I'll end up like Dad.")
+What did your anger turn out to be guarding? One line is enough. (Jonathon, "I feel dumb about money." Wes, "I'm scared I'll end up like Dad.")
 
 walksteadfast.com · @steadfastwalk
 ```
@@ -306,7 +306,7 @@ The first car-care Saturday at church drew eleven cars, nine of them driven by s
 
 ## The checks
 
-Jonathon wrote three anger lines in his notes app. The hardest: "I feel dumb about money." He told Dani. She said, "You're not dumb about money. You're dumb about the spreadsheet," and took it from eleven colors to four. Wes snapped at his physical therapist and found the guard underneath: "I'm scared I'll end up like Dad." His wife said, "Me too, a little." He called his little brother on his birthday for the first time in about twenty years. His brother's first words were "Is Mom okay?" Wes's oldest son texted: "foreman yelled. guarding: scared i'm not good at this."
+Jonathon wrote three anger lines in his notes app. The hardest was "I feel dumb about money." He told Dani. She said, "You're not dumb about money. You're dumb about the spreadsheet," and took it from eleven colors to four. Wes snapped at his physical therapist and found the guard underneath. "I'm scared I'll end up like Dad." His wife said, "Me too, a little." He called his little brother on his birthday for the first time in about twenty years. His brother's first words were "Is Mom okay?" Wes's oldest son texted. "foreman yelled. guarding? scared i'm not good at this."
 
 ## A question men ask
 

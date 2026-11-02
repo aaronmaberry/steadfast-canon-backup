@@ -191,7 +191,7 @@ JONATHON: That's the whole thing, though. Standing next to somebody so they're n
 [CAM: WIDE]
 JONATHON: Last thing, and it's the end of the season, so it's the review. Ten episodes of what we inherited, from my knees to your fish. The last time we did one of these, we each said what stuck for ourselves. This time I want to do it different. You say what you've seen change in me. I'll say what I've seen change in you. Then we each say one thing that didn't stick.
 WES: That's a little scary. I'd rather grade myself. I'm gentler.
-JONATHON: It's Good Friday. Everything's a little scary today. That's kind of the point of the day.
+JONATHON: It's Good Friday. Everything's a little scary today. The day's supposed to be.
 [CAM: JON MS]
 JONATHON: I'll go. In January, you told. Every episode. Here's the thing, here's what it means, here's what to do. You were good at it. You'd been doing it at tables for twenty years. And somewhere around your mom's doctor appointment, you started asking. "Mom, tell the doctor what you told me." "Mom, it's your table." You ask your wife what she wants. You ask your brother when. You don't hand anybody the answer first anymore.
 [CAM: WES CU]
@@ -264,7 +264,7 @@ WES: Produced with AI voice and video tools.
 ```
 Good Friday. Every year Wes's dad turned the radio off at noon and back on at three, and he never explained why. Wes's 21-year-old son called to ask whether that really happened, and he's doing it on his job site. Jonathon's family rehearsed reading the Passion out loud at supper, and his seven-year-old had the crowd's lines. Then she stopped reading and asked, "Why do I have to be the mean people?"
 
-Field Notes, the Friday check-in from Walk Steadfast, and the season 2 review. A question men ask: "What do I do with Good Friday as a dad?" One verse, John 19:30. One tool: read John 18-19 out loud at supper. Plus a 4:10 PM phone call about rolls, the twin's dad at practice, what each host has watched change in the other, what's still open, and the one question each man keeps.
+Field Notes, the Friday check-in from Walk Steadfast, and the season 2 review. A question men ask. "What do I do with Good Friday as a dad?" One verse, John 19:30. One tool, read John 18-19 out loud at supper. Plus a 4:10 PM phone call about rolls, the twin's dad at practice, what each host has watched change in the other, what's still open, and the one question each man keeps.
 
 Chapters
 00:00 Cold open
@@ -273,8 +273,8 @@ Chapters
 07:11 Tool on the table
 11:58 Check the box
 16:34 What stuck
-21:20 Carry this
-21:36 Outro
+21:19 Carry this
+21:35 Outro
 
 Scripture: John 19:30 (NIV)
 
@@ -308,7 +308,7 @@ walksteadfast.com · @steadfastwalk
 # Field Notes: Good Friday
 ### Walk Steadfast, Episode 24
 
-Every Good Friday, Wes's father turned the radio off at noon and back on at three, in the truck, the shop or the kitchen, without a word. Wes was about twelve when his mother explained: "Noon to three is when the sky went dark. Your daddy keeps it quiet." Wes drifted out of the practice during his fog years. On Wednesday his oldest son, now twenty-one, called to ask whether he'd remembered it right. He was doing it on his job site, and his foreman had told him, "Fine, but you're telling the crew." Wes is doing it too.
+Every Good Friday, Wes's father turned the radio off at noon and back on at three, in the truck, the shop or the kitchen, without a word. Wes was about twelve when his mother explained. "Noon to three is when the sky went dark. Your daddy keeps it quiet." Wes drifted out of the practice during his fog years. On Wednesday his oldest son, now twenty-one, called to ask whether he'd remembered it right. He was doing it on his job site, and his foreman had told him, "Fine, but you're telling the crew." Wes is doing it too.
 
 ## From the table: what do I do with Good Friday as a dad?
 
@@ -319,13 +319,13 @@ Every Good Friday, Wes's father turned the radio off at noon and back on at thre
 
 ## Tool on the table: read it out loud
 
-On Wednesday, Jonathon's family rehearsed John 18-19 at supper. Ruby made sticky tabs (NARATOR, one R). Theo lasted four minutes, then sat under the table holding his father's ankle. Ruby read the crowd's lines, and after one of them she stopped and asked, "Why do I have to be the mean people?" Three weeks earlier, Jonathon had handed Ruby's question about his father to Dani. This time he answered himself: "Because all of us are, a little. That's why he did it. He knew all of it, and he came anyway." "Even Mommy?" Ruby asked. "Especially Mommy," said Dani.
+On Wednesday, Jonathon's family rehearsed John 18-19 at supper. Ruby made sticky tabs (NARATOR, one R). Theo lasted four minutes, then sat under the table holding his father's ankle. Ruby read the crowd's lines, and after one of them she stopped and asked, "Why do I have to be the mean people?" Three weeks earlier, Jonathon had handed Ruby's question about his father to Dani. This time he answered himself. "Because all of us are, a little. That's why he did it. He knew all of it, and he came anyway." "Even Mommy?" Ruby asked. "Especially Mommy," said Dani.
 
 ## The check and the review
 
 At 4:10 on Wednesday afternoon, Wes's daughter called him during a meeting. He walked out and answered. She wanted Grandma's roll recipe. The father of the girl who struck out wasn't early to practice. He was ten minutes late, and he walked straight to his daughter with his own glove and played catch with her for an hour.
 
-For the season review, each man named what he'd seen change in the other. Jonathon said Wes asks now, where in January he told. Wes said Jonathon has stopped landing every story with a joke. Each named one thing that hasn't stuck: Jonathon's coach voice at home, and Wes praying out loud with his wife. Still open: Wes's daughter and his brother; Jonathon's father, Ruby's question and the rep. Wes keeps "What's it guarding?" Jonathon keeps "Forgot, or drifted?"
+For the season review, each man named what he'd seen change in the other. Jonathon said Wes asks now, where in January he told. Wes said Jonathon has stopped landing every story with a joke. Each named one thing that hasn't stuck. For Jonathon it's the coach voice at home. For Wes it's praying out loud with his wife. Wes still has his daughter and his brother ahead of him. Jonathon still has his father, Ruby's question and the rep. Wes keeps "What's it guarding?" Jonathon keeps "Forgot, or drifted?"
 
 ---
 **Watch or listen:** YouTube · Apple Podcasts · Spotify

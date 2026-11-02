@@ -55,7 +55,7 @@ WES: Episode nineteen. What Your Anger Is Guarding.
 
 [CHAPTER: Pull up a chair]
 [CAM: WIDE]
-JONATHON: Pull up a chair. And before we start, I want it on the record that car-care Saturday happened, and we're not telling you about it until Friday, because I want people to come back.
+JONATHON: Pull up a chair. First, for the record, that car-care Saturday happened, and we're not telling you about it until Friday, because I want people to come back.
 WES: I'll tell them one thing.
 JONATHON: You're going to tell them one thing and it's going to be about coffee.
 WES: An eighty-one-year-old man changed more oil than I did. I was on coffee.
@@ -258,7 +258,7 @@ WES: (beat) That's worth hearing from a seven-year-old. Kids know which one is w
 [CAM: JON MS]
 JONATHON: And I know exactly where I got it. After my dad left, my mom's anger was the cold kind. She'd stop talking for a day. You'd come home from school and the house would be quiet in a way you could feel in your teeth. And you'd spend the whole evening trying to figure out what you did, because she wasn't going to tell you.
 [CAM: WES MS]
-WES: That's real. A boy who grew up in that house, I'm not going to tell him it didn't shape him. It did. Your mom was carrying something too big for one person, and that's how it came out.
+WES: That's real. A boy who grew up in that house, I won't tell him it didn't shape him. It did. Your mom was carrying something too big for one person, and that's how it came out.
 JONATHON: I can hear a "but" coming. You've got the but face.
 WES: But you're thirty-seven, and you picked the juice box. Both things are true. She taught you the cold voice. You're the one using it on Ruby. And the good news is, if it was learned, it can be unlearned. You're not stuck with her voice.
 [CAM: JON CU]
@@ -287,11 +287,11 @@ JONATHON: There's a guy I keep thinking about, and he's harder than the controll
 [CAM: WES MS]
 WES: I've sat across from that man more than any other at a table. The first thing I'd tell him is that what happened to you was wrong. It wasn't discipline. It wasn't how things were back then. It was wrong. A boy who was hit learned that anger and fear live in the same house, and of course he's scared of his own.
 JONATHON: And after that? Because "it was wrong" is true, and it still doesn't help him on Saturday with his own kid.
-WES: Then this. You're not him, and you're not stuck with him. You've got something your dad didn't. You know what it felt like from the small end. Your son's face, when you yell, you've seen that face. You wore it. Use that. When you see it on him, that's your sign to set the horn down.
+WES: Then this. You're not him, and you're not stuck with him. You've got something your dad didn't. You know how it looks from the small end. Your son's face, when you yell, you've seen that face. You wore it. Use that. When you see it on him, that's your sign to set the horn down.
 [CAM: WES CU]
 WES: And get help with it. A man raised like that shouldn't be doing this alone with a notes app. A counselor who knows what they're doing, a pastor, an older man who's walked it. There's no prize for handling your father's anger by yourself. He handled his by himself, and you know how that went.
 [CAM: JON CU]
-JONATHON: Okay, now the one nobody wants to say. What about the guy whose wife is the angry one? Because I know some of those. She's the one who goes off. And he's listening to this thinking, great, more stuff for me to fix, and I'm the one getting yelled at.
+JONATHON: Okay, now the one nobody wants to say. What if his wife is the angry one? Because I know some of those. She's the one who goes off. And he's listening to this thinking, great, more stuff for me to fix, and I'm the one getting yelled at.
 [CAM: WES MS]
 WES: Then I'd say I'm sorry. That's hard, and it's more common than men admit at a table. The question still works, but you ask it for yourself first. When she goes off, what does your anger guard? Because most men in that house have a dog too. It just goes quiet. It goes to the garage. And if you're scared in your own house, the help line is for you too. A man can be the one who's unsafe at home. Nobody should be ashamed to call.
 JONATHON: I didn't expect you to say that last part. I've never heard that said at a men's breakfast.
@@ -346,7 +346,7 @@ JONATHON: So if you're that dad, and you think five minutes about the Astros doe
 
 [CHAPTER: What I actually did]
 [CAM: 2S]
-WES: So. What did you do? Since Saturday.
+WES: So. Saturday to now. What happened?
 [SHORT 1 IN]
 [CAM: JON MS]
 JONATHON: Two things. Sunday at church, Harper's dad was there. And I went up to him in the lobby and said, "I snapped at you Saturday. You offered to help and I was a jerk about it. My shoulder was killing me and I didn't want anybody to see." The whole thing. The hurt part too.
@@ -378,7 +378,7 @@ WES: She said, "I remember." Right away. No pause at all. And then she said, (be
 [CAM: WES MS]
 WES: I said, "No, baby. It wasn't you. I was scared about work, and I didn't tell anybody, and I took it out on a man in a car, and on you." And she was quiet. And then she said, "Okay." And then she said she had to go, she had papers to grade.
 JONATHON: That's the "it wasn't you" part. That's the piece we were arguing about. She'd been carrying it.
-WES: Eighteen years she thought she'd caused that. You were right. That's the one piece of the why that I owed her. I don't know what one phone call does with eighteen years. I'm not going to pretend I know.
+WES: Eighteen years she thought she'd caused that. You were right. That's the one piece of the why that I owed her. I don't know what one phone call does with eighteen years. I won't act like I know.
 [TEXT: "I thought it was because I was kicking your seat."]
 
 [CHAPTER: The challenge]
@@ -438,7 +438,7 @@ WES: Produced with AI voice and video tools.
 ## YouTube description
 
 ```
-In 2009 Wes held his truck's horn down for ten seconds with his seven-year-old in the back seat. Years later an old lineman tapped the table twice and asked one question: "What's it guarding?" On Saturday Jonathon told a kind dad "I've got it" with his shoulder on fire, then went cold on his daughter over a juice box.
+In 2009 Wes held his truck's horn down for ten seconds with his seven-year-old in the back seat. Years later an old lineman tapped the table twice and asked one question. "What's it guarding?" On Saturday Jonathon told a kind dad "I've got it" with his shoulder on fire, then went cold on his daughter over a juice box.
 
 Anger almost always stands in front of something. Ephesians 4:26-27, why "what's it guarding" can turn into a fancy excuse (and how to keep it from doing that), a contractor who calls it "hat weather," and a divorced dad who started talking Astros in a fast-food parking lot.
 
@@ -446,21 +446,21 @@ Chapters
 00:00 Cold open
 00:22 Intro
 00:51 Pull up a chair
-03:13 The steering wheel
-07:08 I've got it
-10:12 Mr. Abernathy's question
-12:36 What a gate dog is for
-16:46 Is that just a fancy because
-19:04 The Word
-25:32 That's just how I am
-28:57 Every kind of angry
-31:20 Angry fathers, angry wives
-35:10 Hat weather
-36:53 The parking lot
-40:34 What I actually did
-43:53 The challenge
-46:21 Carry this
-46:41 Outro
+03:11 The steering wheel
+07:05 I've got it
+10:09 Mr. Abernathy's question
+12:34 What a gate dog is for
+16:44 Is that just a fancy because
+19:02 The Word
+25:30 That's just how I am
+28:54 Every kind of angry
+31:17 Angry fathers, angry wives
+35:06 Hat weather
+36:49 The parking lot
+40:29 What I actually did
+43:48 The challenge
+46:16 Carry this
+46:36 Outro
 
 Scripture: Ephesians 4:26-27 (NIV)
 
@@ -496,7 +496,7 @@ walksteadfast.com · @steadfastwalk
 # What Your Anger Is Guarding
 ### Walk Steadfast, Episode 19
 
-Anger almost always stands in front of something, like a dog at a gate. Wes and Jonathon spend this episode on one question an old lineman used to ask: what's it guarding?
+Anger almost always stands in front of something, like a dog at a gate. Wes and Jonathon spend this episode on one question an old lineman used to ask. What's it guarding?
 
 ## The steering wheel
 

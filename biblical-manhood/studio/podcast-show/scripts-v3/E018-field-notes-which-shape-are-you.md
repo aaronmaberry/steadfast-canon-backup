@@ -259,9 +259,9 @@ WES: Produced with AI voice and video tools.
 ## YouTube description
 
 ```
-Wes asked his wife which of the three shapes she sees in him. He said his own first, the way we said to. Her answer: "Run the room. With your mother." Jonathon asked Dani, who sent him to "somebody who knew you before me," and his sister told him a part of his own story he'd never heard.
+Wes asked his wife which of the three shapes she sees in him. He said his own first, the way we said to. Her answer was "Run the room. With your mother." Jonathon asked Dani, who sent him to "somebody who knew you before me," and his sister told him a part of his own story he'd never heard.
 
-Field Notes, the Friday check-in from Walk Steadfast. Also: a back-porch gutter hung perfectly level (gutters aren't supposed to be level), a seven-year-old with the phone-jail basket at the truck window, and a 22-year-old whose roommates say he's "only fun when other people are around." Then a question men ask: my wife says I run the room, and I think she's wrong. Now what? One tool: ask one person.
+Field Notes, the Friday check-in from Walk Steadfast. Also, a back-porch gutter hung perfectly level (gutters aren't supposed to be level), a seven-year-old with the phone-jail basket at the truck window, and a 22-year-old whose roommates say he's "only fun when other people are around." Then a question men ask. My wife says I run the room, and I think she's wrong. Now what? One tool, ask one person.
 
 Chapters
 00:00 Cold open
@@ -297,7 +297,7 @@ Scripture quotations taken from The Holy Bible, New International Version®, NIV
 ## Pinned comment
 
 ```
-Who did you ask, and what did they say? Write it down exactly. (Wes: "Run the room. With your mother." Jonathon: "I was home with Mom.")
+Who did you ask, and what did they say? Write it down exactly. (Wes, "Run the room. With your mother." Jonathon, "I was home with Mom.")
 
 walksteadfast.com · @steadfastwalk
 ```
@@ -307,7 +307,7 @@ walksteadfast.com · @steadfastwalk
 # Field Notes: Which Shape Are You
 ### Walk Steadfast, Episode 18
 
-The gutter went up on Saturday. Wes's son-in-law worked the ladder, Wes stood on three rungs, and Wes's wife watched from a lawn chair. They hung it perfectly level. When it rained on Monday, the water ran out the wrong end onto the back step, because a gutter needs a slope. A second appointment is set. The rep from Jonathon's 2019 deal finally replied: "Just don't do it again. And the next big one's mine."
+The gutter went up on Saturday. Wes's son-in-law worked the ladder, Wes stood on three rungs, and Wes's wife watched from a lawn chair. They hung it perfectly level. When it rained on Monday, the water ran out the wrong end onto the back step, because a gutter needs a slope. A second appointment is set. The rep from Jonathon's 2019 deal finally replied. "Just don't do it again. And the next big one's mine."
 
 ## The checks
 
