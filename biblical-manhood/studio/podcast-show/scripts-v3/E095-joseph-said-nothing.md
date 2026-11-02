@@ -165,7 +165,7 @@ WES: But you got up. That's the part. You were slow, and then you got up.
 [CAM: JON MS]
 JONATHON: So the stop-waiting move isn't, "I was doing something bad and I stopped." It's, "I had a perfectly good plan, and God said different, and I didn't argue."
 [CAM: WES MS]
-WES: That's it. And here's what I'd say to the man who's got a good plan he's holding onto. A reasonable plan. "I'll get serious about church when the kids are older." "I'll tell her the truth about the money when things calm down." "I'll call my brother after the holidays." Those are all decent plans. They're careful. And sometimes God's word on it is, today.
+WES: That's it. And here's my word to the man who's got a good plan he's holding onto. A reasonable plan. "I'll get serious about church when the kids are older." "I'll tell her the truth about the money when things calm down." "I'll call my brother after the holidays." Those are all decent plans. They're careful. And sometimes God's word on it is, today.
 [CAM: JON CU]
 JONATHON: And then it keeps happening. That's what I found Sunday night. It's not one dream. Joseph's got four of them, in two chapters. And every time, same pattern. Angel talks. Joseph doesn't. Joseph moves.
 [CAM: WES CU]
@@ -357,7 +357,7 @@ JONATHON: I'm going to want to yell "Pedal!" so bad. I'll probably yell it once.
 [CAM: WES CU]
 WES: Mine. My wife has lit the Advent candles at our supper table for twenty-seven years. Every night, December. She lights the candle, she reads a verse, and sometimes she starts a hymn, and the kids, when they were little, would fight over who blew it out. And I've sat there for twenty-seven years. I've never once lit it. Not once. I've said "Amen" and passed the cornbread.
 [CAM: JON CU]
-JONATHON: Twenty-seven years. And you're the man who prays at church. You'll pray in front of two hundred people and you won't strike a match at your own table.
+JONATHON: Twenty-seven years. And you're the man who prays at church. You'll pray out loud for a full sanctuary and you won't strike a match at your own table.
 [CAM: WES MS]
 WES: That's the truth of it. It's been hers, and I've let it be hers, and I've called that respect. Wednesday at supper, I'm going to ask her first, in the kitchen, if I can. And then I'm going to light the candle and read the verse. One verse. And then I'm going to hand it right back to her. And I'm going to look up Lubbock, too. That one's not for Friday. That one's just for me.
 [SHORT 1 OUT]
@@ -374,7 +374,7 @@ WES: Here's the challenge, and it's one move. Do the one good thing you've been 
 [CAM: JON MS]
 JONATHON: And "the one good thing" means the one you already know. Not the one you're still figuring out. The thing God's already made plain, and you've been scheduling for "after the holidays." Call him. Tell her. Take the training wheels off. Pay it back. Show up.
 [CAM: WES MS]
-WES: If you're married, ask your wife what it is. She probably knows. If you're single, it might be the older man you keep meaning to ask to breakfast, or the church you keep meaning to try. If you're divorced, it might be a phone call to your kids that isn't about the schedule. Write the one thing on paper tonight, and do the first piece before you look at your phone tomorrow.
+WES: If you're married, ask your wife what it is. She probably knows. If you live alone, maybe it's the older man you keep meaning to ask to breakfast, or the church you keep meaning to try. If you're divorced, it might be a phone call to your kids that isn't about the schedule. Write the one thing on paper tonight, and do the first piece before you look at your phone tomorrow.
 [CAM: JON CU]
 JONATHON: And tell one man. Text a friend tonight, "I'm doing this by Thursday." Then let him ask you. If you don't have a man like that, tell us in the pinned comment. We'll ask.
 [TEXT: Do the one good thing you've been putting off, by Thursday night.]
@@ -422,13 +422,13 @@ Chapters
 03:02 Forty words
 06:46 Quiet that leaves
 10:54 The Word
-25:59 How to get up
-29:19 Quiet on purpose
+25:58 How to get up
+29:18 Quiet on purpose
 32:47 The carpenter's son
-36:10 Pushback
-42:18 Getting up
-45:03 The challenge
-46:11 Carry this
+36:09 Pushback
+42:17 Getting up
+45:02 The challenge
+46:10 Carry this
 46:20 Outro
 
 Scripture: Matthew 1:24, Matthew 2:14, James 4:17 (NIV)

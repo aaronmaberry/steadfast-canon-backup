@@ -64,7 +64,7 @@ JONATHON: And I said, "I'll hold the seat. I won't let go till you tell me." Whi
 [CAM: WES MS]
 WES: You told us you'd yell it once. You set the over-under at one.
 [CAM: JON CU]
-JONATHON: I set it at one and hit four. And on the fourth one, Ruby puts both feet down, right in the middle of the street, and turns around in her helmet, and says, "Daddy, you're making me nervous. Can you just hold it and not talk?"
+JONATHON: I set it at one and hit four. And on the fourth one, Ruby puts both feet down, out in the street, and turns around in her helmet, and says, "Daddy, you're making me nervous. Can you just hold it and not talk?"
 [CAM: WES CU]
 WES: (laughs) "Can you just hold it and not talk." Ruby wrote the whole sermon in eight words. Joseph's never been preached better.
 [CAM: JON MS]
@@ -72,7 +72,7 @@ JONATHON: She preached it in the street in a pink helmet. So I said, "Yes ma'am.
 [CAM: WES CU]
 WES: (beat) Half a block ago. And she didn't fall.
 [CAM: JON CU]
-JONATHON: She didn't fall. She rode back to me, wobbly, and she stopped, and she said, "I did it by myself." And I said, "Huh." That's all I said. "Huh." And she said, "Huh what?" And I said, "Huh, you did it by yourself." And she nodded, like we'd settled something. And Theo was in the driveway the whole time yelling, "MY TURN," even though he doesn't have a bike.
+JONATHON: She didn't fall. She rode back to me, wobbly, and she stopped, and she said, "I did it by myself." And I said, "Huh." That's all I said. "Huh." And she said, "Huh what?" And I said, "Huh, you did it by yourself." And she nodded, like we'd settled something. And Theo stood at the end of the driveway yelling, "MY TURN," even though he doesn't have a bike.
 [CAM: WES MS]
 WES: And what did Dani say? Because she's been on the other end of your narrating for ten years. She has to have had a reaction.
 [CAM: JON CU]
@@ -87,7 +87,7 @@ WES: That's how most of them are. The thing you've been putting off is almost al
 
 [CHAPTER: The kitchen matches]
 [CAM: JON MS]
-JONATHON: Your turn. And for the man just pulling up a chair, Tuesday's challenge was to do the one good thing you've been putting off. Wes has sat at his own supper table for twenty-seven Decembers and watched his wife light the Advent candle. He said Wednesday he'd light it.
+JONATHON: Your turn. For the man just pulling up a chair, Tuesday's challenge was to do the one good thing you've been putting off. Wes has sat at his own supper table for twenty-seven Decembers and watched his wife light the Advent candle. He said Wednesday he'd light it.
 [CAM: WES MS]
 WES: I asked her first, in the kitchen, before supper. I said, "I'd like to light the candle tonight, if that's all right." And she looked at me for a long time. Long enough that I thought I'd said something wrong. And then she opened the drawer by the stove, the one with the rubber bands and the batteries, and took out the long kitchen matches. And she handed me the box. Didn't say a word. Just handed it to me.
 [CAM: JON CU]
@@ -191,7 +191,7 @@ WES: How it goes wrong. You make it a production. Four candles, a printed bookle
 [CAM: JON CU]
 JONATHON: And the second way it goes wrong is you miss two nights and quit out of guilt. You just said it. The candle doesn't keep score. Light it the next night you're home. And the third way is the lecture. Me, explaining the historical context of Isaiah to a seven-year-old. Or you, apparently.
 [CAM: WES CU]
-WES: Me, apparently. And two seats in particular. If you live alone, light it anyway. A man by himself at a kitchen table with a candle and one verse is not sad. He's keeping watch. That's what the shepherds were doing. And if December's a dark month for you, darker than a candle can help, call or text 988. You don't have to wait for it to pass.
+WES: Me, apparently. And two seats in particular. If you live alone, light it anyway. A man by himself at a kitchen table with a candle and one verse is not sad. He's keeping watch. That's what the shepherds were doing. And if December's a dark month for you, darker than a candle can help, call or text 988. Nobody's asking you to sit and wait it out.
 [CAM: JON MS]
 JONATHON: And if you're divorced and you've got your kids half the time, do it on your nights. Same candle, same verse. And on the nights they're at their mom's, text them the verse at supper time. "Light wins. Love you." That's it. Don't make it a guilt trip about the nights you don't have them. Make it the thing you do together, even when you're not together.
 [TEXT: Light it. Read one verse. Ask one thing. Let a kid blow it out.]
@@ -235,12 +235,12 @@ Chapters
 00:00 Cold open
 00:14 Intro
 00:37 Check the box
-05:20 The kitchen matches
-08:31 The single check
-09:46 From the table
-15:29 Tool on the table
-21:28 Carry this
-21:40 Outro
+05:19 The kitchen matches
+08:29 The single check
+09:45 From the table
+15:28 Tool on the table
+21:27 Carry this
+21:39 Outro
 
 Scripture: John 1:5 (NIV)
 

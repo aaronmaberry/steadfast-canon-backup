@@ -90,7 +90,7 @@ WES: When she was sick, he went to the barn. That was his thank-you for a sick w
 [CAM: JON MS]
 JONATHON: And did she know that's what it meant? Because "This is good" could be a review. That's a Yelp rating. Three and a half stars, would eat again.
 [CAM: WES CU]
-WES: She knew. I asked her, in August, when we were packing the kitchen. I said, "Did Dad ever thank you for supper?" And she looked at me like I'd asked if the sun came up. She said, "Every night. He said it was good." And then she said, "I'd have liked to hear the other words once or twice." And she went back to wrapping glasses in newspaper.
+WES: She knew. I asked her, in August, when we were packing the kitchen. I said, "Did Dad ever thank you for supper?" And she gave me a look like I'd asked if the sun came up. She said, "Every night. He said it was good." And then she said, "I'd have liked to hear the other words once or twice." And she went back to wrapping glasses in newspaper.
 [CAM: JON CU]
 JONATHON: Oof. "Once or twice." Fifty years of wanting it, said while she wraps a glass.
 [CAM: WES MS]
@@ -292,7 +292,7 @@ WES: I'll give you that. For the gap a man can't walk yet. But for the people in
 [CAM: JON CU]
 JONATHON: Okay. So maybe it's both. The text if it's the only bridge you've got. The face if you can get there. And a text that says, "Can I buy you lunch, I want to tell you something," is a text that gets you to the face.
 [CAM: WES MS]
-WES: I can live with that. I'm still right about the coffee pot.
+WES: I'll take that. I'm still right about the coffee pot.
 [CAM: JON MS]
 JONATHON: You're right about the coffee pot. I'm right about everything else.
 [TEXT: Text if it's the only bridge. Face if you can get there.]
@@ -428,17 +428,17 @@ Chapters
 00:15 Intro
 00:41 Pull up a chair
 04:06 This is good
-10:04 The parking lot at twenty-nine
+10:05 The parking lot at twenty-nine
 13:34 The Word
 22:33 The watercolor gym
 25:02 The co-signer
 28:44 How to say it
-31:41 Two chairs
-34:32 Pushback
+31:42 Two chairs
+34:31 Pushback
 41:23 Going first
 43:48 The challenge
-46:57 Carry this
-47:07 Outro
+46:56 Carry this
+47:06 Outro
 
 Scripture: 1 Thessalonians 5:18, Luke 17:15-17, Philippians 1:3 (NIV)
 

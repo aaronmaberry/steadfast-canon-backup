@@ -110,7 +110,7 @@ WES: I stopped. And I said, "Hang on." And I started over in my own voice. "Lord
 [CAM: JON MS]
 JONATHON: (beat) "Good one." He's been saying the same line for a year and it finally landed. That's comedy, Wes. That's a long setup.
 [CAM: WES MS]
-WES: And here's the part I didn't see coming. At pie, Mom sets her fork down. Same as last year. And all three of us boys freeze. And she says, "I've decided something. I'm going to quit driving after dark. Days I'm keeping." And she picked her fork back up. Nobody asked her. She'd decided. And the three of us looked at each other across two card tables, and all three said, "Okay, Mom."
+WES: And then came the part I never saw coming. At pie, Mom sets her fork down. Same as last year. And all three of us boys freeze. And she says, "I've decided something. I'm going to quit driving after dark. Days I'm keeping." And she picked her fork back up. Nobody asked her. She'd decided. And the three of us looked at each other across two card tables, and all three said, "Okay, Mom."
 [CAM: JON CU]
 JONATHON: Last year's fight, settled in four sentences, by the person nobody asked.
 [CAM: WES CU]
@@ -119,7 +119,7 @@ WES: By the person nobody asked. And I stayed for both pies. Pecan and buttermil
 
 [CHAPTER: The single check]
 [CAM: WES MS]
-WES: And the single check. The twenty-four-year-old. He texted me last night, and I'm going to read it like he wrote it, which means no punctuation and no capital letters.
+WES: And the single check. The twenty-four-year-old. He sent me a text last night, and I'm going to read it like he wrote it, which means no punctuation and no capital letters.
 [CAM: WES CU]
 WES: (reads off his phone, flat) "went to my moms. her boyfriend was there. went first and shook his hand before we ate. he didnt know what to do. me neither. we stood there. then he asked about the nursing home and i told him about merle. good pie"
 [CAM: JON MS]
@@ -259,11 +259,11 @@ Chapters
 03:43 Your house
 05:41 Both pies
 08:57 The single check
-10:04 Season review
-12:52 From the table
-16:56 Tool on the table
-22:28 Carry this
-22:40 Outro
+10:05 Season review
+12:53 From the table
+16:57 Tool on the table
+22:30 Carry this
+22:42 Outro
 
 Scripture: Luke 2:19 (NIV)
 

@@ -74,7 +74,7 @@ JONATHON: I know she's right. I've watched four videos. One of them was a man in
 WES: And that's the question on the screen, and it's a real one for a lot of men this Thursday. Who prays at your Thanksgiving table? Because for most families, there's a man who's always done it, or a grandmother, or the uncle who went to Bible college for a semester. And a lot of us have spent our whole lives handing it off. And the mark today is Go First. You don't wait to be asked to lead your own table. You step out ahead, before the food, before the argument, before somebody else picks up the knife.
 [TEXT: Who prays at your Thanksgiving table?]
 [CAM: JON MS]
-JONATHON: And I'll say one more thing before Wes tells his story, because he's going to tell a hard one. I did one thing right this month. The contractor told me "Now go invite somebody." So I invited the installer I bought lunch for back in October. I said, "Second Saturday, men's breakfast, you ought to come." And he said, I swear this is true, "I've got a thing."
+JONATHON: And one more thing before Wes tells his story, because he's going to tell a hard one. I did one thing right this month. The contractor told me "Now go invite somebody." So I invited the installer I bought lunch for back in October. I said, "Second Saturday, men's breakfast, you ought to come." And he said, I swear this is true, "I've got a thing."
 [CAM: WES CU]
 WES: (laughs) Of course he does. Ask him two more times. That's the rate. It took you three.
 [CAM: JON CU]
@@ -446,16 +446,16 @@ Chapters
 00:00 Cold open
 00:22 Intro
 00:48 Pull up a chair
-04:25 I'm right here
+04:24 I'm right here
 09:48 The man of the house
-14:21 The Word
-24:36 All elbows
-29:11 The prayer you didn't outsource
-35:30 Your half
-39:54 Pushback
-46:25 Going first
+14:20 The Word
+24:35 All elbows
+29:10 The prayer you didn't outsource
+35:29 Your half
+39:53 Pushback
+46:24 Going first
 49:10 The challenge
-50:43 Carry this
+50:42 Carry this
 50:54 Outro
 
 Scripture: Romans 12:18, Matthew 5:9, Luke 24:30, Romans 12:21, Proverbs 15:1 (NIV)

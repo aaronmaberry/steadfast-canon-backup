@@ -154,7 +154,7 @@ WES: He was at every game. And I never thanked him either. That's the part I've 
 [CAM: JON CU]
 JONATHON: (quiet) So the good dad didn't get thanked either.
 [CAM: WES MS]
-WES: The good dad didn't get thanked either. So whatever you're thinking about weird, it's not only hard dads who miss out. Men don't thank fathers. Good ones, gone ones, all of them. We wait for a funeral. And then we say it to the room. Here's the verse, and it's an old one, and I want to be careful with it.
+WES: The good dad didn't get thanked either. So whatever you're thinking about weird, it's not only hard dads who miss out. Men don't thank fathers. Good ones, gone ones, all of them. We wait for a funeral. And then we say it to the room. Here's the verse, and it's an old one, and I'll handle it carefully.
 [CARD: Exodus 20:12]
 WES: "Honor your father and your mother, so that you may live long in the land the LORD your God is giving you."
 [CAM: JON MS]
@@ -271,9 +271,9 @@ Chapters
 05:05 The tailgate on the north side
 09:02 The single check
 09:53 From the table
-16:36 Tool on the table
-21:59 Carry this
-22:10 Outro
+16:35 Tool on the table
+21:57 Carry this
+22:09 Outro
 
 Scripture: Exodus 20:12 (NIV)
 
