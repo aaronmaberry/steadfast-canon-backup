@@ -82,7 +82,7 @@ JONATHON: Thursday night, before she left for work. She had her bag on her shoul
 [TEXT: Not clean. Whole.]
 
 [CAM: JON MS]
-JONATHON: And one more, because I said I would. I asked Dani about the year after Theo. I asked it the way you said to. "Was there a night back then I should've done something different?" She didn't answer right away. She said, "Let me think." And I figured that meant never. And then Wednesday, while we were doing dishes, out of nowhere, she said, "You never once asked how I was. You asked how the baby was. You asked if I was sleeping. You never asked how I was." And she went on drying a pot.
+JONATHON: And one more, because I said I would. I asked Dani about the year after Theo. "Was there a night back then I should've done something different?" She didn't answer right away. She said, "Let me think." And I figured that meant never. And then Wednesday, while we were doing dishes, out of nowhere, she said, "You never once asked how I was. You asked how the baby was. You asked if I was sleeping. You never asked how I was." And she went on drying a pot.
 [CAM: JON CU]
 JONATHON: And I stood there with my hands in the water, and I wanted to say, I was tired too. I was working. I did the bottles. All true. None of it the point. So I said, "How are you?" And she said, "Better than then." And she put the pot away. That's the one I'm carrying.
 [CAM: WES CU]
@@ -115,7 +115,7 @@ JONATHON: That's the best single report we've had in months. "Neither of us know
 [CAM: WES CU]
 WES: I texted back, "That's how it starts." He sent a thumbs up. That's a long conversation for us. And for the man who just pulled in, Tuesday's challenge was to name how you've been treating the bed and keep it once like a covenant. If you did it, you know. If you didn't, there's no Friday deadline on keeping a promise. Jonathon, you asked Virgil.
 [CAM: JON MS]
-JONATHON: I did. About Ruby and the screws. He said yes. The second Saturday of the month, with me there, and she holds the box and hands him what he asks for. Not the drill. The box. He was very clear about the drill. And tomorrow's the first one. She's already picked out her shoes. Work boots. Dani's old rain boots, actually, three sizes too big, that she's decided are work boots. I didn't argue. You don't argue with a seven-year-old about her work boots.
+JONATHON: I did. About Ruby and the screws. He said yes. The second Saturday of the month, with me there, and she holds the box and hands him what he asks for. Not the drill. The box. He was very clear about the drill. And tomorrow's the first one. She's already picked out her shoes. Work boots. Dani's old rain boots, actually, three sizes too big, that she's decided are work boots. I didn't argue.
 [TEXT: Close it. Come tell me.]
 
 [CHAPTER: From the table]
@@ -128,13 +128,13 @@ WES: That last line's the most honest part of it.
 [CAM: WES CU]
 WES: First thing, Austin. "Someday" is earlier than you think. Your daughter's ten. She's already heard things on a bus that you wouldn't say at a truck stop. The question isn't whether she learns about this. It's whether she learns it from you first, or from a phone at a sleepover. So it's not someday. It's now. And it isn't a talk. It's a hundred little ones.
 [CAM: JON MS]
-JONATHON: And I want to say something to Austin I happen to know, because he told me over lunch once. His dad never said a word to him about any of it. Not one. He learned it from an older cousin with a magazine behind a barn when he was eleven. And that's how a lot of us learned it. Behind something. Which teaches you the first lesson before anybody teaches you any other one. This is a thing you do behind the barn.
+JONATHON: And I want to say something to Austin I happen to know, because he told me over lunch once. His dad never said a word to him about any of it. Not one. He learned it from an older cousin with a magazine behind a barn when he was eleven. And that's how a lot of us learned it. Behind something. Which teaches you the first lesson. This is a thing you do behind the barn.
 [CAM: JON CU]
 JONATHON: Mine was a kid on the bus with a phone. My father wasn't around to say anything, so the bus said it. So if you're a man whose dad said nothing, you're not behind. You're just starting from scratch, and scratch is honest. You get to be the first man in your family line who says it in the kitchen instead of behind the barn.
 [CAM: WES MS]
 WES: That's a good word for him.
 [CAM: JON MS]
-JONATHON: Practically, start with the stuff that doesn't make you sweat. Ruby's seven. We started with three things. Your body belongs to you. Nobody gets to touch you where your swimsuit goes, and nobody gets to ask you to keep a secret about your body. Not a teacher, not a cousin, not a coach, not a friend's dad. And if anybody ever does, you tell me or Mom, and you will never, ever be in trouble for telling. That's the foundation. Everything else gets built on top of it.
+JONATHON: Practically, start with the stuff that doesn't make you sweat. Ruby's seven. We started with three things. Your body belongs to you. Nobody gets to touch you where your swimsuit goes, and nobody gets to ask you to keep a secret about your body. Not a teacher, not a relative, not anybody. And if anybody ever does, you tell me or Mom, and you will never, ever be in trouble for telling. Everything else gets built on that.
 [CAM: WES CU]
 WES: And the next one, and this is the one most dads miss. Tell her what to do when she sees something on a screen she wasn't supposed to see. Because she will. Not maybe. Will. What she needs to know ahead of time is, "Close it, come tell me, and I won't be mad at you." And then you have to not be mad. If she brings you something and you blow up, she'll never bring you anything again. You get one shot at being safe.
 [CAM: JON CU]
@@ -264,10 +264,10 @@ Chapters
 00:00 Cold open
 00:10 Intro
 00:33 Check the box
-09:00 From the table
-17:24 Tool on the table
-24:40 Carry this
-24:48 Outro
+08:53 From the table
+17:11 Tool on the table
+24:28 Carry this
+24:36 Outro
 
 Scripture: Psalm 119:9 (NIV)
 
