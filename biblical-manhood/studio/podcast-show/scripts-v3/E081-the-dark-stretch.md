@@ -527,7 +527,7 @@ walksteadfast.com · @steadfastwalk
 # The Dark Stretch
 ### Walk Steadfast, Episode 81 · October 12, 2027
 
-For most of a year in his late thirties, Wes ate supper in the recliner. One evening his nine-year-old daughter carried her plate in and sat on the carpet beside his chair, and he reached over and turned the TV up. He never saw a doctor that year. He thought it was a character problem, and he tried harder, and it didn't work.
+For most of a year in his mid-thirties, Wes ate supper in the recliner. One evening his nine-year-old daughter carried her plate in and sat on the carpet beside his chair, and he reached over and turned the TV up. He never saw a doctor that year. He thought it was a character problem, and he tried harder, and it didn't work.
 
 > "LORD, you are the God who saves me; day and night I cry out to you. May my prayer come before you; turn your ear to my cry."
 > Psalm 88:1-2 (NIV)

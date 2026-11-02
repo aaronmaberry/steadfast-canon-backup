@@ -109,7 +109,7 @@ WES: That's what I noticed on the drive home. The hard one I could take, because
 [CAM: JON MS]
 JONATHON: Two lunches. You were counting the lunches like a man counting hours on a time card, and two didn't add up to the line he wrote.
 [CAM: WES CU]
-WES: That's exactly how I was counting. And I told my wife that night, and she looked at me and said, "You argued with a compliment?" And I said yes. And she said, "That's the most you thing I've ever heard."
+WES: That's exactly how I was counting. And I told my wife that night, and she looked at me and said, "You argued with a compliment?" And I admitted it. And she said, "That's the most you thing I've ever heard."
 [CAM: JON MS]
 JONATHON: Did you tell the young man? The one on your floor? He's the one who went and said it.
 [CAM: WES MS]
@@ -181,7 +181,7 @@ JONATHON: And here's my sales lens, because it's my job. In sales, everything is
 
 [CHAPTER: The Word]
 [CAM: WIDE]
-WES: So let's go to the passage, because Paul wrote it to a church full of people who'd been trying to close the sale. Ephesians two. And it starts in a hard place. Paul says, you were dead. Not sick. Not behind on your payments. Dead in your sins. Dead men don't earn anything. They don't put in a full day. They don't get reviewed.
+WES: So let's open the Bible, because Paul wrote it to a church full of people who'd been trying to close the sale. Ephesians two. And it starts in a hard place. Paul says, you were dead. Not sick. Not behind on your payments. Dead in your sins. Dead men don't earn anything. They don't put in a full day. They don't get reviewed.
 [CAM: JON MS]
 JONATHON: That's a rough way to start a letter.
 [CAM: WES MS]
@@ -201,11 +201,11 @@ JONATHON: So no one can boast. Which means no plaque. No standing up and waving 
 [CAM: WES MS]
 WES: And nobody gets to argue it down, either. That's what I missed. "Not by works" cuts both ways. You can't earn it, and you can't un-earn it. It's not yours to grade. You're not the one holding the folder.
 [CAM: JON MS]
-JONATHON: Okay, here's what I want to read, because it's the verse that finally got through to me. Romans six, twenty-three. "For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord."
+JONATHON: Okay, here's the one I want to read, since it's the verse that finally got through to me. Romans six, twenty-three. "For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord."
 [CAM: JON CU]
 JONATHON: Wages and gift, in the same sentence. Paul puts them right next to each other so you can't miss it. There is a wage in this. There's a paycheck. And it's death. That's what I earned. That's what I close, on my own. The other thing in the sentence isn't a better wage. It's a gift. It's a different category.
 [CAM: WES CU]
-WES: And here's where the mark comes in. Work for God's pay. I think a lot of men hear that phrase and think God's pay is a wage. You work hard, God pays you in blessings.
+WES: And this is where the mark lands. Work for God's pay. I think most men hear that phrase and think God's pay is a wage. You work hard, God pays you in blessings.
 [CAM: JON MS]
 JONATHON: That's what I thought it meant for about five years. I figured if I did the challenges and showed up Thursdays, God would hit my number for me.
 [CAM: WES CU]
@@ -360,6 +360,10 @@ WES: That's how I read it. James would look at the man on probation, the one doi
 JONATHON: I'll tell my mother-in-law. She'll want a new dish towel.
 [CAM: WES MS]
 WES: Don't tell her that. Let her keep the towel. It's a good towel.
+[CAM: JON CU]
+JONATHON: Fine. The towel stays. But I'm telling her you said Paul and James are on the same side, because she's been waiting since before Ruby was born for somebody to settle that at Thanksgiving.
+[CAM: WES MS]
+WES: Tell her I said it, and tell her the towel's right. That's the one argument I don't want to be in come November.
 [TEXT: A practice, not a payment.]
 
 [CHAPTER: Callers]
@@ -368,7 +372,7 @@ WES: We asked on the site, what's the thing you're still trying to pay God back 
 [CAM: JON MS]
 JONATHON: First one. A man, forty-eight. He says, "Eleven years ago I had an affair. My wife forgave me. We went to counseling. We're good now, better than before. But I can't stop paying for it. I do everything around the house. I never say no to her. I feel like I'm on probation for the rest of my life."
 [CAM: WES MS]
-WES: I want to be careful with him, because what he did was real and it was serious, and the work he's done since is good work. I'm not going to tell him to quit doing the dishes. But I'd tell him, she forgave you. God forgave you. The only one keeping you on probation is you.
+WES: I want to go gently with him, because what he did was real and it was serious, and the work he's done since is good work. I'm not going to tell him to quit doing the dishes. But I'd tell him, she forgave you. God forgave you. The only one keeping you on probation is you.
 [CAM: JON MS]
 JONATHON: Probation's the right word, too. He wrote it himself. A man on probation checks in, does his hours, and waits for the officer to decide he's done.
 [CAM: WES CU]
@@ -382,7 +386,7 @@ WES: That one hurts, and I want to give him something new, because I think divor
 [CAM: JON MS]
 JONATHON: And nobody in Ephesians two was alive because of their record. Not one person in that chapter got in on a clean file.
 [CAM: WES CU]
-WES: And practically, go talk to your pastor. Not to argue about the deacon thing. To ask where you can serve that nobody's covering. In every church I've been in there's a job nobody's doing. The man who unlocks the building. The man who drives the widow to her appointments. You'd be first string there by Sunday.
+WES: And practically, go sit down with your pastor. Not to argue about the deacon thing. To ask where you can serve that nobody's covering. In every church I've been in there's a job nobody's doing. The man who unlocks the building. The man who drives the widow to her appointments. You'd be first string there by Sunday.
 [CAM: JON CU]
 JONATHON: And to every divorced guy listening, I'd say the divorce is a fact about your past. It's not your name. You don't introduce yourself as "divorced" in your head every time you walk in. You're a son. That's the name on the will.
 [CAM: JON MS]
@@ -420,7 +424,7 @@ WES: And I'd tell him to read Ephesians two out loud, every morning, for a while
 [CAM: JON MS]
 JONATHON: Okay. Going first. And Wes, I think you've got the harder one, because yours is about hearing something good, and you've already shown us you'd rather get a speeding ticket.
 [CAM: WES MS]
-WES: So here's mine. I told my wife about the review, but I told it backwards. I told her about the hard line first, the ghost line, and I told her the good one like a joke. "I argued with a compliment." So this time I'm going to sit her down and tell her the whole review again, the good line first, the above expectations, and I'm not going to put a "but" after it. I'm going to say it and stop.
+WES: So here's mine. I told my wife about the review, but I told it backwards. I told her about the hard line first, the ghost line, and I told her the good one like a joke. "I argued with a compliment." So this time I'm going to sit her down and tell her the whole review again, the good line first, the above expectations, and there won't be a "but" after it. I'm going to say it and stop.
 [CAM: JON MS]
 JONATHON: No "but."
 [CAM: WES CU]
@@ -483,7 +487,7 @@ WES: Produced with AI voice and video tools.
 | 1 | I argued with a compliment (from "This is where I argued." through "So I let him leave it.") | "I'm not paying you back for anything. I'm writing down what happened." | about 60 s |
 | 2 | Paid in full (from "Because of the truck. I've told this one, so I'll tell it short." through "I know it's still there.") | "Nothing's ever done with you. You keep moving it." | about 75 s |
 | 3 | Whose deal it was (from "It was a great stretch. And here's the part I've never said" through "I didn't say one word about whose deal it was.") | "I didn't build that deal." | about 75 s |
-| 4 | An inheritance (from "And here's where the mark comes in. We say on this show, work for God's pay." through "Now go work the land like it's yours, because it is.") | "God's pay isn't a wage." | about 75 s |
+| 4 | An inheritance (from "And this is where the mark lands. Work for God's pay." through "Now go work the land like it's yours, because it is.") | "God's pay isn't a wage." | about 75 s |
 | 5 | The cooler on the porch (from "That's what it was. And one night, about six months in" through "You can't get fired from a gift.") | "I think God's done." | about 90 s |
 
 ## YouTube description
@@ -499,16 +503,16 @@ Chapters
 08:20 The visor note
 11:06 The plaque
 14:51 The Word
-18:59 The church door
+18:58 The church door
 22:11 The sticker chart
-24:07 Working from the will
+24:06 Working from the will
 27:31 The cooler on the porch
-30:27 Pushback
-34:04 Callers
-41:27 Going first
-43:49 The challenge
-45:56 Carry this
-46:05 Outro
+30:26 Pushback
+34:26 Callers
+41:49 Going first
+44:11 The challenge
+46:17 Carry this
+46:26 Outro
 
 Scripture: Ephesians 2:8-9 (NIV). Also Romans 6:23, Colossians 3:24, Ephesians 2:10, Romans 1:17.
 

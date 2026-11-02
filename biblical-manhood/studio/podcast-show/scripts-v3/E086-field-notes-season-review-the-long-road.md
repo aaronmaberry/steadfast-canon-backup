@@ -89,7 +89,7 @@ JONATHON: He laughed. He said, "I don't want it. Hang it back up. Put my name on
 [CAM: WES CU]
 WES: That's the best plaque in Texas now.
 [CAM: JON MS]
-JONATHON: And he wants me to come down in the spring and fish the jetties with him. And I'm going. I told him about the hardhead catfish, and he laughed for about a minute and said he'd teach me how to hold one.
+JONATHON: And he wants me to come down in the spring and fish the jetties with him. And I'm going. I told him about the hardhead catfish, and he laughed for about a minute and said he'd show me the right way to grab one.
 [TEXT: "Took you long enough."]
 [CAM: JON CU]
 JONATHON: And the single check, my nephew. He texted Wednesday. I'll read it as written. "did the card thing. wrote paid in full. its in my hard hat." In his hard hat. He's an apprentice electrician. So every morning on the job site he puts on a hat with that card in it.
@@ -103,14 +103,14 @@ WES: Home by five. That's a raise.
 
 [CHAPTER: From the table]
 [CAM: WES MS]
-WES: From the table. This is the last Friday of the fall, the season we called The Long Road, and today's question is about the whole stretch of it. A man at our Thursday table asked it yesterday morning. He's the one who was let go in June. The new grandbaby in San Angelo. He said I could bring it here without his name.
+WES: From the table. This is the last Friday of the fall, the season we called The Long Road, and today's question is about the whole stretch of it. One of the Thursday men asked it yesterday morning. He's the one who lost his job in June. The new grandbaby in San Angelo. He gave me his blessing to bring it here, without his name.
 [CAM: WES CU]
 WES: He said, "You two have talked about work all fall. I haven't had any since June. What did fall teach you about work, and about the weight of it?"
 [pause 1s]
 [CAM: JON MS]
-JONATHON: That's a hard question to get from a man who's been on the other side of the whole season.
+JONATHON: That's a hard question to get from a man who sat out the whole season without a job.
 [CAM: WES MS]
-WES: It is. And I didn't have a good answer at the table. I said something about Tuesday's episode, and he nodded, and I could tell it wasn't the answer.
+WES: It is. And I fumbled it at the table. I said something about Tuesday's episode, and he nodded, and I could tell it wasn't the answer.
 [CAM: JON CU]
 JONATHON: I've done that exact thing. A man asks you a real question and you hand him the last thing you said into a microphone, because it's already loaded. What did you actually tell him?
 [CAM: WES MS]
@@ -118,7 +118,7 @@ WES: I told him the work isn't the man. Which is true. But I said it like a man 
 [CAM: JON MS]
 JONATHON: Then give him the long version. He's got the time, and I think he'd rather have it slow and true than fast and tidy.
 [CAM: WES CU]
-WES: Here's the first thing the fall taught me. The work isn't the man. I know that sounds like a slogan. But I spent most of this fall scared of a review, like a man waiting on a verdict, and then I sat across from a thirty-four-year-old with a folder, and I found out the folder wasn't my father. It was a folder. And I think this man at our table has been living for four months like the folder is his father, and nobody's handed him one.
+WES: Here's the first thing the fall taught me. The work isn't the man. I know that sounds like a slogan. But I spent most of this fall scared of a review, like a man waiting on a verdict, and then I sat across from a young reviewer with a manila folder, and I found out the folder wasn't my father. It was a folder. And I think this man at our table has been living for four months like the folder is his father, and nobody's handed him one.
 [CAM: JON MS]
 JONATHON: And here's what I'd add, because I watched it with my installer. The weight doesn't go away when the work does. It gets heavier. A man with a job carries the weight of the job. A man without one carries the weight of not having it, and he carries it at home, at two in the afternoon, with nowhere to put it down.
 [CAM: JON CU]
@@ -148,7 +148,7 @@ WES: Somebody always knows somebody. That's the one thing a table full of old me
 [TEXT: Tool on the table: The season letter]
 JONATHON: Tool on the table. The season letter. Because most men get to the end of a long stretch and keep driving, and never once look in the mirror at what they just came through.
 [CAM: JON MS]
-JONATHON: Step one. At the end of a season, sit down with a pen and one sheet of paper. By hand. Not your phone. Write it to yourself. "Dear me," if you want to be corny about it. One page. And start with what happened, in plain facts. Not how you feel about it. What happened. I got a new reviewer. My son took a job. We sold the boat.
+JONATHON: Step one. At the end of a season, take a pen and one sheet of paper. By hand. Not your phone. Write it to yourself. "Dear me," if you want to be corny about it. One page. And start with what happened, in plain facts. Not how you feel about it. What happened. I got a new reviewer. My son took a job. We sold the boat.
 [CAM: WES CU]
 WES: Step two. Write what stuck. The things you started that are still going. Even small ones. Especially small ones. A man always underrates the small ones. If you've gone in the kitchen door first every day since August, that stuck. Write it down.
 [CAM: JON CU]
@@ -199,7 +199,7 @@ WES: The coach letter. I mailed it in September, and there's been no answer, and
 [CAM: WES CU]
 WES: And what I keep. "Known is a table." I said it in September and it's the truest thing I've said all fall. Most of what I did this season that mattered, I did at a table. The diner, the kitchen, the Thursday men. I'm keeping the table.
 [CAM: JON CU]
-JONATHON: What stuck for me. Choir Night. Every Tuesday since the middle of September, Dani's at rehearsal, the kids and I have breakfast for supper, Ruby writes a menu on the whiteboard, Theo sings through the entire bath. I haven't missed one. That's the Tuesday nights in the open. They're mine. And calling the bottom three reps, not only the winners. That one's stuck since September too, and two of the three have called me back.
+JONATHON: What stuck for me. Choir Night. Every Tuesday since the middle of September, Dani's at rehearsal, the kids and I have breakfast for supper, Ruby writes a menu on the whiteboard, Theo sings the whole bath long. I haven't missed one. That's the Tuesday nights in the open. They're mine. And calling the bottom three reps, not only the winners. That one's stuck since September too, and two of the three have called me back.
 [CAM: JON MS]
 JONATHON: What didn't stick. My Thursday text to Wes. I'd said I'd send him one word every Thursday for how I was really doing. That fell off in early October. I don't even know when. One Thursday I didn't, and then I didn't again.
 [CAM: WES MS]
@@ -251,10 +251,10 @@ Chapters
 00:11 Intro
 00:35 Check the box
 05:45 From the table
-11:25 Tool on the table
+11:26 Tool on the table
 15:52 What stuck
-20:52 Carry this
-21:01 Outro
+20:51 Carry this
+21:00 Outro
 
 Scripture: Psalm 90:12 (NIV)
 

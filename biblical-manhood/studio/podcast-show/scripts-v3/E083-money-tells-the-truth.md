@@ -125,7 +125,7 @@ JONATHON: One night I came home from a friend's house and there was a pink notic
 [CAM: WES MS]
 WES: How long had you been home?
 [CAM: JON MS]
-JONATHON: About a minute. I was still holding my backpack. And I didn't know what to do, so I went to my room, and I had birthday money in a sock in my dresser. Twenty-three dollars. My grandma had sent twenty, and I'd found three in the couch. And I counted it twice, and I went back out to the kitchen, and I put it under her coffee cup and didn't say anything. And I went to bed.
+JONATHON: About a minute. I was still holding my backpack. And I had no idea what to do, so I went to my room, and I had birthday money in a sock in my dresser. Twenty-three dollars. My grandma had sent twenty, and I'd found three in the couch. And I counted it twice, and I went back out to the kitchen, and I put it under her coffee cup and didn't say anything. And I went to bed.
 [CAM: WES CU]
 WES: What did she do?
 [CAM: JON CU]
@@ -245,7 +245,7 @@ JONATHON: That's a great wife. And we paid the seven thousand off in about two y
 [CAM: WES CU]
 WES: The Proverbs have a line on that. "The borrower is slave to the lender." And I used to think that was about the bank owning you. And it is. But I think the worse slavery is the drawer. The debt you can't say out loud. Seven thousand dollars is a number. Seven thousand dollars under a takeout menu is a secret, and a secret owns more of you than a bank does.
 [CAM: JON CU]
-JONATHON: And here's what I want to say to the man who's got a drawer right now. The number is survivable. Dani didn't leave over the number. She didn't even get loud over the number. What hurt was that I'd made her a stranger to her own house. And the longer it sits in the drawer, the bigger the drawer gets.
+JONATHON: And here's what I want to say to any man with a drawer like that right now. The number is survivable. Dani didn't leave over the number. She didn't even get loud over the number. What hurt was that I'd made her a stranger to her own house. And the longer it sits in the drawer, the bigger the drawer gets.
 [TEXT: "I care that it was in a drawer."]
 
 [SUB-MID]
@@ -267,11 +267,11 @@ JONATHON: I remember you telling that fall. You said you can't remember your dau
 [CAM: WES CU]
 WES: I was a year ahead of myself, doing math. And one thing I did, early that fall, without saying a word to anybody, was I quit giving at church.
 [CAM: WES MS]
-WES: We'd always given. My whole married life. Every month, same amount, came out of the register like the electric. And that October I stopped it. I told myself it was temporary. I told myself I was building a cushion, and God would understand, and when the rumors settled I'd start back up. And I didn't tell my wife, because it was my register and my job and my worry.
+WES: We'd always given. My whole married life. Every month, same amount, came out of the register like the electric. And that October I stopped it. I told myself it was temporary. I told myself I was building a cushion, and God would understand, and when the rumors settled I'd start back up. And I kept it from my wife, because it was my register and my job and my worry.
 [CAM: JON MS]
 JONATHON: How long?
 [CAM: WES CU]
-WES: About nine months. And I kept sitting in that pew every Sunday and passing the offering plate down the row to the next man without putting anything in it, and nobody knew. That's the part that gets me now. Nobody in that church knew. I passed it on like a man passing the salt.
+WES: About nine months. And I kept sitting in that pew every Sunday and passing the offering plate down the row to the next man without putting anything in it, and nobody knew. That's what still bothers me. Nobody in that church knew. I passed it on like a man passing the salt.
 [CAM: JON CU]
 JONATHON: And your wife the bookkeeper.
 [CAM: WES MS]
@@ -284,9 +284,9 @@ WES: And I didn't. The rumors settled that summer, I kept my job, and I started 
 [CAM: JON CU]
 JONATHON: She never brought it up again?
 [CAM: WES MS]
-WES: Not once. Till today, I guess, because I'm telling it. And I want to be careful what lesson a man takes from this. The lesson isn't that I didn't give for nine months. I think God's big enough for a scared man's nine months. The lesson is where my heart went. I was scared, so the money went into a cushion, and my heart went right in after it. I was rich toward the cushion. And I put a wall between my wife and my fear, and she watched me do it through a statement.
+WES: Not once. Till today, I guess, because I'm telling it. And I want to watch what lesson a man takes from this. The lesson isn't that I didn't give for nine months. I think God's big enough for a scared man's nine months. The lesson is where my heart went. I was scared, so the money went into a cushion, and my heart went right in after it. I was rich toward the cushion. And I put a wall between my wife and my fear, and she watched me do it through a statement.
 [CAM: JON MS]
-JONATHON: Okay, I'm going to push on the giving thing, because I think a lot of men tune out right here. When a preacher says "giving," I reach for my keys. I've heard so many church money talks that sounded like a car lot. Ten percent, God'll bless you, here's the envelope. So when you say you quit giving, part of me hears a man feeling guilty about not paying his dues.
+JONATHON: Okay, I want to argue the giving thing, because I think a lot of men tune out right here. When a preacher says "giving," I reach for my keys. I've heard so many church money talks that sounded like a car lot. Ten percent, God'll bless you, here's the envelope. So when you say you quit giving, part of me hears a man feeling guilty about not paying his dues.
 [CAM: WES CU]
 WES: That's fair. And I've sat through those too. I'm not going to tell any man listening a percentage. I don't think the point is the number. I think the point is that what you give away is the clearest picture of what's actually got a hold of you. If you can't loosen your grip on any of it, something's holding you, and it isn't God.
 [CAM: JON CU]
@@ -385,11 +385,11 @@ WES: I've got a couple of small barns. And I'll say this. That's the point of ha
 [CAM: JON MS]
 JONATHON: Mine. I'm going to ask Dani to walk me through all four colors. At the kitchen table. On her night off. My phone in the other room. Because for ten years she's run that spreadsheet and I've nodded at it, and I know the mortgage comes out on the third, and that's about all I know.
 [CAM: JON CU]
-JONATHON: And I'm going to tell her about the twenty-three dollars. She's never heard it. I think if she hears that one first, she'll understand why I go stupid when she opens the laptop. And maybe I will too. I asked her about it last night, whether she'd do the colors with me, and she said, "Bring a pen. You're going to want to write things down."
+JONATHON: And she's going to hear about the twenty-three dollars. She's never heard it. I think if she hears that one first, she'll understand why I go stupid when she opens the laptop. And maybe I will too. I asked her about it last night, whether she'd do the colors with me, and she said, "Bring a pen. You're going to want to write things down."
 [CAM: WES CU]
 WES: She's going to make you take notes.
 [CAM: JON MS]
-JONATHON: She's going to make me take notes. I'm going to need my own color. And I'm going to tell her about the coffee, and the room with nobody in it. Because I think if I tell her I'm buying twenty quiet minutes, she might help me find them somewhere that's not a drive-through. She works nights. She knows something about needing a room with nobody in it.
+JONATHON: She's going to make me take notes. I'm going to need my own color. And I'll tell her about the coffee, and the room with nobody in it. Because I think if I tell her I'm buying twenty quiet minutes, she might help me find them somewhere that's not a drive-through. She works nights. She knows something about needing a room with nobody in it.
 [TEXT: Go get some trouble.]
 
 [CHAPTER: The challenge]
@@ -456,15 +456,15 @@ Chapters
 00:44 Pull up a chair
 03:07 Pay the bills
 09:09 Twenty-three dollars
-12:47 The Word
-18:43 The boring lines
-21:31 The card in the drawer
+12:48 The Word
+18:44 The boring lines
+21:32 The card in the drawer
 25:12 The year I quit giving
-30:06 Pushback
-41:00 Going first
-44:22 The challenge
-46:44 Carry this
-46:54 Outro
+30:05 Pushback
+40:59 Going first
+44:20 The challenge
+46:43 Carry this
+46:52 Outro
 
 Scripture: Luke 12:34 (NIV). Also Luke 12:15, 12:20-21, Proverbs 22:7.
 

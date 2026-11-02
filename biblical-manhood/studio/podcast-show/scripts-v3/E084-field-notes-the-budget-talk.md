@@ -56,7 +56,7 @@ WES: Field Notes. The Budget Talk.
 [CAM: WIDE]
 WES: Check the box. Tuesday's challenge was to pull up last month's statement, circle the one line you'd least like to explain, and show it to somebody. Your wife, on a calm night, going first. Or one man you trust, if you're single.
 [CAM: WES MS]
-WES: Mine first. Tuesday night, after supper, I got the register out of the left desk drawer, and I wrote the bank login on an index card, and I set both of them on the kitchen table in front of her. And I said, "What do you see?" That was the whole speech. I'd practiced a longer one and threw it out.
+WES: Mine first. Tuesday night, after supper, I pulled the register from the left desk drawer, and I wrote the bank login on an index card, and I set both of them on the kitchen table in front of her. And I said, "What do you see?" That was the whole speech. I'd practiced a longer one and threw it out.
 [CAM: JON MS]
 JONATHON: And she went and got the pencil.
 [CAM: WES CU]
@@ -64,7 +64,7 @@ WES: She went and got her reading glasses, which I didn't know she kept in the k
 [CAM: JON MS]
 JONATHON: You pretended to read the paper for two hours.
 [CAM: WES MS]
-WES: I read the same column about the school board about nine times. And here's my miss, and it came early. I'd promised I wouldn't explain anything for a full day. I lasted about an hour. She put her pencil on a line in March and said, "What's this, every March?" And I explained it. For about ten minutes. It's the deer lease. I've paid on it for six years.
+WES: I read the same column about the school board about nine times. And here's my miss, and it came early. I'd promised I wouldn't explain a single line for a whole day. I lasted about an hour. She put her pencil on a line in March and said, "What's this, every March?" And I explained it. For about ten minutes. It's the deer lease. I've paid on it for six years.
 [CAM: JON CU]
 JONATHON: So you broke the one rule you set for yourself, an hour in. I'm not going to grade it, because I broke mine too, but that's a miss.
 [CAM: WES CU]
@@ -77,7 +77,7 @@ WES: She listened to Tuesday's episode, in the car, on the way to her sister's. 
 [CAM: JON CU]
 JONATHON: I love that she had the vocabulary ready. You hand a bookkeeper a register and a sermon two days apart, and she's going to use both of them on you.
 [CAM: WES CU]
-WES: But the line I want to tell you about isn't the lease. It's what she said at the end. She closed the register, and she took her glasses off, and she said, "Nobody's ever asked me to look." And she wasn't mad when she said it. She said it like a woman reading off a fact. Twenty-seven years, a woman who kept books for a living, and nobody had ever asked her to look at her own.
+WES: But the line I want to tell you about isn't the lease. It's what she said at the end. She closed the register, and she took her glasses off, and she said, "Nobody's ever asked me to look." And she wasn't mad when she said it. She said it like a woman reading off a fact. Twenty-seven years, a woman who kept books for a living, and in all that time nobody had asked her to read her own.
 [pause 1s]
 [CAM: JON MS]
 JONATHON: That's the line, Wes. That's the one I'd put on the card. Not the barn.
@@ -108,7 +108,7 @@ WES: She kept the empty row.
 [CAM: JON MS]
 JONATHON: She kept the empty row. And my circled line was the coffee. A hundred and forty-one dollars in September. And I told her about the room with nobody in it, the twenty minutes in the truck between appointments. And she gave me Sunday afternoons. One hour, in the garage, door shut, nobody needs anything. She said I could have that for free.
 [CAM: JON CU]
-JONATHON: And somewhere in the middle of all this, Pancake, the dog that showed up in August, jumped up on the chair and ate a yellow sticky note right off the side of the laptop. So there's a bill coming that we can't identify. That's where we are.
+JONATHON: And partway through all this, Pancake, the dog that showed up in August, jumped up on the chair and ate a yellow sticky note right off the side of the laptop. So there's a bill coming that we can't identify. That's where we are.
 [CAM: WES MS]
 WES: That's a yellow line you'll find out about the hard way.
 [TEXT: The red row stays empty.]
@@ -122,7 +122,7 @@ WES: And then the second text. "showed the foreman. he laughed a long time then 
 
 [CHAPTER: From the table]
 [CAM: JON MS]
-JONATHON: From the table. Tuesday was money, where your treasure is, the statement that tells the truth on you. And today's question comes from the pickup line at Ruby's school. There's a dad I see there most afternoons. His daughter's in Ruby's class. And he'd heard Tuesday's episode, and Wednesday he walked over to my truck while we were waiting and leaned on the window and asked me something. He said I could bring it here as long as I didn't use his name.
+JONATHON: From the table. Tuesday was money, where your treasure is, the statement that tells the truth on you. And today's question comes from the pickup line at Ruby's school. There's a dad I see there most afternoons. His daughter's in Ruby's class. And he'd heard Tuesday's episode, and Wednesday he walked over to my truck while we were waiting and leaned on the window and asked me a question. He said it was fine to bring it here if I left his name off it.
 [CAM: JON CU]
 JONATHON: He's thirty-three. Married six years. His wife teaches fourth grade. And he said, "Every time I bring up money, we end up in a fight. Every single time. How do I bring up money without a fight?"
 [CAM: WES MS]
@@ -146,7 +146,7 @@ JONATHON: So the first thing is, quit bringing it up the night the bill comes. E
 [CAM: WES CU]
 WES: And the second thing I'd tell him is what we said Tuesday. Go first. If he's going to talk about the card, he starts with his own line. Not hers. He's got one. Everybody's got one. If he walks in leading with his own, he's not the prosecutor. He's a man at a table.
 [CAM: JON CU]
-JONATHON: Here's the verse I gave him, there in the pickup line, with about forty minivans idling around us.
+JONATHON: Here's what I gave him from the Bible, there in the pickup line, with about forty minivans idling around us.
 [CARD: Proverbs 15:22]
 JONATHON: "Plans fail for lack of counsel, but with many advisers they succeed."
 [CAM: JON MS]
@@ -240,9 +240,9 @@ Chapters
 00:15 Intro
 00:40 Check the box
 09:22 From the table
-14:39 Tool on the table
-20:38 Carry this
-20:47 Outro
+14:41 Tool on the table
+20:39 Carry this
+20:48 Outro
 
 Scripture: Proverbs 15:22 (NIV)
 

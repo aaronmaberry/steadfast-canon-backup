@@ -54,11 +54,11 @@ WES: Field Notes. Serving Report.
 
 [CHAPTER: Check the box]
 [CAM: WIDE]
-JONATHON: Check the box. Tuesday's challenge was one small job. The one somebody in your house does every day that you never saw. Do it before they get to it, every day, no sigh, no speech, and thank them for all the years they did it.
+JONATHON: Check the box. Tuesday's challenge was one small job. The one somebody in your house does every day that you never saw. Do it ahead of them, daily, no sigh, no speech, and thank them for all the years they did it.
 [CAM: JON MS]
 JONATHON: Wes, you go first, since that was the whole point. You had the back door and the stove.
 [CAM: WES MS]
-WES: I had the back door. Tuesday night, I stayed up past my bedtime, which for me is about nine-thirty, and I locked it. Turned off the porch light. Went to the stove and touched every knob, all six, the way she does. And I went to bed feeling pretty good. And about midnight I heard her get up. And I lay there and listened to her lock a locked door and touch six knobs that were already off.
+WES: I had the back door. Tuesday night, I stayed up past my bedtime, which for me is about nine-thirty, and I locked it. Turned off the porch light. Went to the stove and put two fingers on every knob, all six, the way she does. And I went to bed feeling pretty good. And about midnight I heard her get up. And I lay there and listened to her lock a locked door and touch six knobs that were already off.
 [CAM: JON CU]
 JONATHON: You know I called that. I told you Tuesday she'd check behind you, and you said you'd let her.
 [CAM: WES CU]
@@ -71,7 +71,7 @@ WES: Twenty-seven years and three nights. And Thursday at supper, she's passing 
 [CAM: JON CU]
 JONATHON: She sat on it two days. That's a woman who's been married to you a long time. And the cards? You said you'd name them.
 [CAM: WES CU]
-WES: The cards. Wednesday night on the porch I thanked her for twenty-seven years of birthday cards. I named them. My mother's, both my brothers', the man who sends us the ham. And she listened to the whole thing, and then she said, "Your mother knows. She's known since about 2003. She says my handwriting's better than yours."
+WES: The cards. Wednesday night on the porch I thanked her for every birthday card since two thousand. I named them. My mother's, both my brothers', the man who sends us the ham. And she listened to the whole thing, and then she said, "Your mother knows. She's known since about 2003. She says my handwriting's better than yours."
 [CAM: JON CU]
 JONATHON: Your mother knew the whole time and kept thanking you for the cards anyway?
 [CAM: WES MS]
@@ -91,7 +91,7 @@ WES: Did you trade?
 [CAM: JON CU]
 JONATHON: I did not trade. I said, "This one's mine now." And she thought about that for a while, and then she said, "Okay, but I get it on your birthday." So we've got a deal. I get the burnt one every time except my birthday, and she gets it on my birthday so I don't have to eat a burnt pancake on my birthday. I think that's the nicest thing anybody's ever negotiated with me.
 [CAM: JON MS]
-JONATHON: And then the parking spot. I can't do the Sunday part till Sunday. So I asked her Tuesday night, when she got home from choir. I said, "Would you let me drop you at the door and park out by the dumpster?" And she laughed at me. She said, "I like the walk. It's the only quiet I get all Sunday."
+JONATHON: And then the parking spot. I can't do the Sunday part till Sunday. So I asked her Tuesday night, when she got home from choir. I said, "Would you let me drop you off up front and take the far spot myself?" And she laughed at me. She said, "I like the walk. It's the only quiet I get all Sunday."
 [CAM: WES MS]
 WES: So the spot's hers.
 [CAM: JON CU]
@@ -109,7 +109,7 @@ JONATHON: So he did both halves. He went first and then he said thank you to the
 
 [CHAPTER: The barn at six]
 [CAM: WES MS]
-WES: And now the barn. Because I owe you this one, and I owe it to a boy who doesn't know I'm telling it. Back in June I said I'd put a day on the calendar for my youngest. A Saturday in October, after the first cold front, at the barn at six, after we feed. A few men saying one true thing to him, on purpose. And the front came through Friday night, the twenty-ninth, right like they said.
+WES: And now the barn. Because I owe you this one, and I owe it to a boy who has no idea I'm telling it. Back in June I said I'd put a day on the calendar for my youngest. A Saturday in October, after the first cold front, at the barn at six, after we feed. A few men saying one true thing to him, on purpose. And the cold rolled in Friday night, the twenty-ninth, right like they said.
 [CAM: JON CU]
 JONATHON: You told me Friday morning you'd been watching the radar like it was a ballgame.
 [CAM: WES CU]
@@ -130,33 +130,33 @@ WES: I think he'd been saving it for about forty years. Then my little brother. 
 [CAM: JON CU]
 JONATHON: And then it was you. You told me at breakfast Thursday you'd been practicing yours in the truck.
 [CAM: WES CU]
-WES: I'd practiced it. I wrote it out, four lines, back in the summer, and I'd been carrying it in my wallet. And Thursday night I read it to my wife at the kitchen table, because Tuesday's challenge back in June said to let her hear it first if she wanted to. And she listened, and she said, "Say it slower. You rush the end." And she was right. I do. I get to the part that matters and I run through it so I can get out of it.
+WES: I'd practiced it. I wrote it out, four lines, back in the summer, and I'd been carrying it in my wallet. And Thursday night I read it across the kitchen table to my wife, because Tuesday's challenge back in June said to let her hear it first if she wanted to. And she listened, and she said, "Say it slower. You rush the end." And she was right. I do. I get to the part that matters and I run through it so I can get out of it.
 [CAM: JON MS]
 JONATHON: So what did you say to him? Or is that one staying in the barn with the four of you?
 [CAM: WES MS]
 WES: I'm keeping it. It's his. I'll tell you I said it slower. All four lines. I looked at him the whole time, which was the hard part, and I got to the last line, and I wanted to run, and I didn't. I said it at the speed of a man who means it. And then nobody said anything, and the cows were making noise, and it was cold.
 [CAM: WES CU]
-WES: And my youngest stood there with my dad's loppers in his hands for a long time. Long enough I started to worry. And then he looked at me and he said, "You didn't rush the end."
+WES: And my youngest stood there with my dad's loppers in his hands for a long time. Long enough I started to worry. And then he turned to me and said, "You didn't rush the end."
 [pause 1s]
 [CAM: JON CU]
 JONATHON: That's the weld. That's what you told him about the weld on the gate hinge, back in the summer.
 [CAM: WES CU]
-WES: It's what I told him about the weld, and he told me it was the hard part. "Everybody rushes the end." He gave it back to me. In the barn. In front of my brothers. I didn't have anything to say to that, so I didn't say anything. I put my hand on his head like he was five, and he let me, which he hasn't since he was about twelve.
+WES: It's what I told him about the weld, and he told me it was the hard part. "Everybody rushes the end." He gave it back to me. In the barn. In front of my brothers. I had nothing to answer him with, so I kept quiet. I put my hand on his head like he was five, and he let me, which he hasn't since he was about twelve.
 [CAM: JON MS]
-JONATHON: And the loppers? Please tell me they didn't go back on the wall in the tack room.
+JONATHON: And the loppers? Please tell me they didn't end up hanging in the tack room again.
 [CAM: WES MS]
 WES: They're behind the seat of his truck. He says he's going to put up a nail in his room for them, but right now they ride with him. And when we were walking out to the trucks, I caught my older brother at his tailgate and said, "Thank you." It's November. That was on my list. And he said, "Well." And then he looked over at my boy and said, "Same time Saturday." And my boy nodded.
 [CAM: JON CU]
 JONATHON: That's a day. That's the thing you said it would be in June. A day with a sentence in it.
 [CAM: WES CU]
-WES: It had four sentences in it. And seven words from a man who doesn't talk. I'll be thinking about that barn for the rest of my life. I'm glad I didn't skip it because I was busy being afraid of October.
+WES: It had four sentences in it. And seven words from a man who doesn't talk. I'll be thinking about that barn when I'm eighty. I'm glad I didn't skip it because I was busy being afraid of October.
 [TEXT: "A man shows up when it's cold."]
 
 [CHAPTER: From the table]
 [CAM: JON MS]
 JONATHON: From the table. Tuesday we talked about small ways to serve at home, the jobs nobody claps for. And Wednesday evening, at the mailboxes, my neighbor across the street stopped me. He's forty-four. Married nineteen years. Three teenagers. He'd heard Tuesday's episode in his truck. He said I could bring this here without his name.
 [CAM: JON CU]
-JONATHON: He said, "What if serving at home feels like nobody notices?" And then he said, "I've been doing the dishes every night since my oldest was born. Nobody's ever said a word." And I'll be honest, I didn't have a good answer standing at the mailbox. I said something about Virgil, and he nodded, and he got his mail.
+JONATHON: He said, "What if serving at home feels like nobody notices?" And then he said, "I've been doing the dishes every night since my oldest was born. Nobody's ever said a word." And I'll be honest, I came up short standing at the mailbox. I said something about Virgil, and he nodded, and he got his mail.
 [CAM: WES MS]
 WES: That's a fair question, and I don't want to answer it too fast, because it sounds like a complaint, and I don't think it is. I think it's a tired man. Nineteen years of dishes is a long stretch to go without a word.
 [CAM: JON MS]
@@ -243,11 +243,11 @@ Chapters
 00:00 Cold open
 00:15 Intro
 00:38 Check the box
-07:51 The barn at six
-14:19 From the table
-18:16 Tool on the table
-21:05 Carry this
-21:14 Outro
+07:52 The barn at six
+14:18 From the table
+18:13 Tool on the table
+21:02 Carry this
+21:11 Outro
 
 Scripture: Galatians 6:9 (NIV)
 

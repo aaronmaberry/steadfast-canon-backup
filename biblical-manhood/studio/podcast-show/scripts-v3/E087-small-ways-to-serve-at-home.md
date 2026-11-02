@@ -107,7 +107,7 @@ JONATHON: That's a picture. You're the security guy and she's been doing the rou
 [CAM: WES CU]
 WES: She's been the night shift the whole time. And I only found out because one night in October I couldn't sleep. The review was hanging over me. I got up for a glass of water about ten-thirty, and I stood in the dark hallway, and I watched her do it. Back door, click. Porch light, off. Then she walked back to the stove and touched every knob with two fingers, like she was counting them. Six knobs. Then she turned off the kitchen light and came down the hall, and I was standing there in my socks, and she about jumped out of her skin.
 [CAM: JON CU]
-JONATHON: What did she say when she saw you standing there?
+JONATHON: And how did she take it, finding you standing in the hallway like that?
 [CAM: WES MS]
 WES: She said, "What are you doing up?" Like I was the one who'd done something strange. And I didn't tell her. I said I wanted water. I went back to bed and lay there and counted up the years. That's when I knew this was the first thing on my list for November.
 [CAM: JON MS]
@@ -148,7 +148,7 @@ JONATHON: That's what I asked her. Sunday night, in the dark. I said, "Do you li
 [CAM: WES CU]
 WES: The far spot, the cold side and the burnt one. And nobody claps for any of it.
 [CAM: JON MS]
-JONATHON: Nobody claps. And here's what bothers me, because I want to be honest about the sales manager part. If one of my reps did that for a customer, quietly, every day, for ten years, I'd notice inside a month. I'd put him up on the board. I'd tell the whole region. I notice service for a living when it makes a number move. I didn't notice it at my own breakfast table, because it didn't make anything move but my wife.
+JONATHON: Nobody claps. And here's what bothers me, because the sales manager part makes it worse. If one of my reps did that for a customer, quietly, every day, for ten years, I'd notice inside a month. I'd put him up on the board. I'd tell the whole region. I notice service for a living when it makes a number move. I didn't notice it at my own breakfast table, because it didn't make anything move but my wife.
 [TEXT: The far spot. The cold side. The burnt one.]
 
 [CHAPTER: The Word]
@@ -176,7 +176,7 @@ JONATHON: So go first isn't about getting out ahead of everybody. It's about get
 [CAM: WES CU]
 WES: So when I tell a man to go first at home, I'm not telling him to be the boss of the house. I'm telling him to go first the way Jesus did. First to the sink. First to the cold side. First to the locked door. Down, not up.
 [CAM: JON MS]
-JONATHON: And I want to be careful, because I think a man hears "slave of all" and something in him goes stiff. That's a hard word in Texas. I don't want anybody hearing that and thinking we're telling him to be a doormat.
+JONATHON: And I want to slow down here, because a man hears "slave of all" and something in him goes stiff. That's a hard word in Texas. I don't want anybody hearing that and thinking we're telling him to be a doormat.
 [CAM: WES MS]
 WES: I'm glad you said it. Because a doormat doesn't choose. A doormat gets stepped on because it can't move. Jesus chose. He says it himself, he came to serve. Nobody made him. Nobody tricked him into a basin of water. A man who serves his wife because he's scared of her isn't doing Mark ten. He's doing fear. A man who serves her because he's decided to be first at the bottom, that's Mark ten.
 [CAM: JON CU]
@@ -200,7 +200,7 @@ JONATHON: This is a Mr. Abernathy one, isn't it? You brought the mug up front.
 WES: It is. And it's the first question he ever asked me, but this is a different time he asked it.
 [CAM: INSERT mug]
 [CAM: WES MS]
-WES: (picks up the white mug, holds it) The first thing Mr. Abernathy ever asked me, I was thirty-six, at a men's breakfast. "What are you waiting on?" I didn't have an answer, and it changed my life. That's the one I always tell. What I've never told is that he asked it a second time, about four years later, and it was about my house.
+WES: (picks up the white mug, holds it) The first thing Mr. Abernathy ever asked me, I was thirty-six, at a men's breakfast. "What are you waiting on?" I had nothing to say back, and it changed my life. That's the one I always tell. What I've never told is that he asked it a second time, about four years later, and it was about my house.
 [CAM: JON CU]
 JONATHON: The same question, twice? I never heard that. What were you waiting on the second time?
 [CAM: WES CU]
@@ -213,7 +213,7 @@ WES: "What are you waiting on?"
 [CAM: JON CU]
 JONATHON: What did you tell him?
 [CAM: WES CU]
-WES: I said, "For her to ask." Out loud. To his face. And he looked at me, and he didn't say a word, and he picked his fork back up and finished his eggs. And I sat there and heard what I'd said. I was waiting for my wife to ask me to help raise our children. I'd made her the manager and me the contractor. She had to put in a work order before I'd show up.
+WES: I said, "For her to ask." Out loud. To his face. And he gave me a long look, and he didn't say a word, and he picked his fork back up and finished his eggs. And I sat there and heard what I'd said. I was waiting for my wife to ask me to help raise our children. I'd made her the manager and me the contractor. She had to put in a work order before I'd show up.
 [CAM: JON MS]
 JONATHON: That's a real thing in a lot of houses. "Just tell me what to do." I've said that exact sentence to Dani. I said it last spring about the garage.
 [CAM: WES MS]
@@ -236,7 +236,7 @@ JONATHON: Virgil's seventy-seven. He runs the Saturday repair crew at our church
 [CAM: WES MS]
 WES: She still wears the rain boots?
 [CAM: JON CU]
-JONATHON: She still wears the rain boots, rain or not. So the second Saturday in October, we did a widow's back steps on the east side. The old ones were soft enough you could push a screwdriver into them. And I want to tell you what I saw, because I was paying attention for once. We pulled up at seven. Virgil was already there. He'd swept the whole walk. He'd stacked the new boards by length on two sawhorses so nobody would have to dig through a pile.
+JONATHON: She still wears the rain boots, rain or not. So the second Saturday in October, we did a widow's back steps on the east side. The old ones were soft enough you could push a screwdriver into them. And here's what I saw, because I was paying attention for once. We pulled up at seven. Virgil was already there. He'd swept the whole walk. He'd stacked the new boards by length on two sawhorses so nobody would have to dig through a pile.
 [CAM: JON MS]
 JONATHON: Nobody asked him to. Nobody saw him do it. Ruby and I got out of the van and it was just done, like your back door.
 [CAM: WES CU]
@@ -279,7 +279,7 @@ WES: Go ahead. Push.
 [CAM: JON CU]
 JONATHON: Mark ten isn't about dishes. It's about the cross. Jesus says he came to give his life as a ransom for many. That's the biggest thing that ever happened. And we're standing it next to a burnt pancake and a porch light. I worry that cheapens it. I don't want to turn the cross into a chore chart.
 [CAM: WES CU]
-WES: That's a fair push, and I'm not going to wave it off. You're right that the ransom part is his alone. I can't give my life as a ransom for anybody. Nobody at this table can. That part we don't copy. We just thank him for it. But I'd say Jesus is the one who put the cross and the chores next to each other. Not me. You know where I'm going.
+WES: That's a fair push, and it deserves a real answer. You're right that the ransom part is his alone. I can't give my life as a ransom for anybody. Nobody at this table can. That part we don't copy. We just thank him for it. But I'd say Jesus is the one who put the cross and the chores next to each other. Not me. You know where I'm going.
 [CAM: JON MS]
 JONATHON: The feet. John thirteen.
 [CAM: WES MS]
@@ -301,7 +301,7 @@ JONATHON: You keep saying "unnoticed." Serve and don't say anything. No receipts
 [CAM: WES CU]
 WES: That's real. I won't argue with that year.
 [CAM: JON CU]
-JONATHON: So I think couples should talk about it. Out loud. Who does what. Sit down at the kitchen table and put it all on a list. I know that sounds like a spreadsheet, and I'm the spreadsheet guy, I know. But when we finally did that, Dani found out I'd been doing things she never saw, and I found out about forty things I never saw. It helped. A list helped us.
+JONATHON: So I think couples should talk about it. Out loud. Who does what. Sit down at the kitchen table and put it all on a list. That's the spreadsheet guy talking, I know. But when we finally did that, Dani found out I'd been doing things she never saw, and I found out about forty things I never saw. It helped. A list helped us.
 [CAM: WES MS]
 WES: Here's where I'd push back on your push. I think there's a verse for my side. Jesus says, when you give to the needy, don't let your left hand know what your right hand is doing. Matthew six. "so that your giving may be in secret. Then your Father, who sees what is done in secret, will reward you." I think there's a kind of serving that should stay in secret, or it turns into a ledger.
 [CAM: JON CU]
@@ -322,7 +322,7 @@ JONATHON: I'd say once a year, but I'll take once. We probably still disagree on
 
 [CHAPTER: Callers]
 [CAM: WIDE]
-WES: We asked on the site, what's a small job somebody does in your house that you've never thanked them for? And a lot of you answered with a different question. Let's take some.
+WES: We put a question up on the site, what's a small job somebody does in your house that you've never thanked them for? And a lot of you answered with a different question. Let's take some.
 [CAM: JON MS]
 JONATHON: First one. A man, thirty-four, married, two little ones. He says, "My wife does the night wake-ups, the lunches, the laundry and the doctor appointments. I work about sixty hours and I do the yard and the cars. Isn't that serving? Why do I feel like it doesn't count?"
 [CAM: WES MS]
@@ -352,7 +352,7 @@ WES: And let them serve too. Give them a job at your house. One small one that's
 [CAM: JON MS]
 JONATHON: Fourth. A man, sixty-seven. He says, "My wife has Parkinson's. She was diagnosed four years ago. I do almost everything in the house now. I don't mind. But I'm tired, and she apologizes to me every single day for being a burden. How do I serve her without making her feel like a burden?"
 [CAM: WES MS]
-WES: That one I want to be careful with, because he's doing it. He's living Mark ten every day, in the hardest version there is. So I don't have a lot to tell him about serving. He knows more than I do. But I'd tell him about the apology. I think she apologizes because she used to be the one who went first. For forty years she was probably the one locking the back door. And now she can't, and it grieves her.
+WES: That one I want to handle gently, because he's doing it. He's living Mark ten every day, in the hardest version there is. So I don't have a lot to tell him about serving. He knows more than I do. But I'd tell him about the apology. I think she apologizes because she used to be the one who went first. For forty years she was probably the one locking the back door. And now she can't, and it grieves her.
 [CAM: JON CU]
 JONATHON: So the apology isn't about him at all. It's her missing the job she used to have in that house.
 [CAM: WES CU]
@@ -395,9 +395,9 @@ WES: (half a laugh) You're right. I take it back. And one more thing, before the
 [TEXT: The challenge]
 WES: The challenge. One serving move. Find one small job somebody in your house does first, every day, that you've never noticed or never thanked them for. The door, the cards, the coffee, the trash, the dark pancake. Then do it. First, before they get to it, every day until Friday. No sigh. No speech. No receipt.
 [CAM: JON MS]
-JONATHON: And if you're married, here's how to find it if you can't see it, because I couldn't. On a calm night, not after a fight, ask your wife, "What's one thing you do first in this house that I've never noticed?" And say yours first. Tell her one you've already caught, so she knows you mean it.
+JONATHON: And if you're married, here's how to find it if you can't see it, because I couldn't. On a quiet night, when nobody's upset, ask your wife, "What's one thing you do first in this house that I've never noticed?" And say yours first. Tell her one you've already caught, so she knows you mean it.
 [CAM: WES CU]
-WES: And when she answers, don't swing back. Don't say, "Well, I do the gutters." She's not asking for your list. You asked for hers. Just say thank you. And then sit with it a day before you decide what to do about it.
+WES: And when she answers, don't swing back. Don't say, "Well, I do the gutters." She's not asking for your list. You asked for hers. Just say thank you. And then let it sit a day before you decide what to do about it.
 [CAM: JON CU]
 JONATHON: If you're single, the same thing, with whoever's near you. A roommate, your mom, the lady across the hall, the man who stacks the chairs after church. Find the job somebody's been doing first and get there before them.
 [CAM: WES MS]
@@ -435,7 +435,7 @@ WES: Produced with AI voice and video tools.
 | 2 | The burnt pancake (from "She has. So. Saturday mornings at our house are pancakes." through "Everybody at that table knew it except me.") | "I'll take the dark one. Mommy always gets it." | about 70 s |
 | 3 | What are you waiting on? (from "I was about forty. Work was heavy." through "I wanted the job to come with a request so it could come with a receipt.") | "What are you waiting on?" | about 90 s |
 | 4 | The trash cans (from "It was Saturday. Pickup's Monday." through "That's the thing I can't get out of my head.") | "He wrote down the trash cans." | about 50 s |
-| 5 | We copy the towel (from "That's a fair push, and I'm not going to wave it off." through "We copy the towel. And the towel only makes sense because of the ransom. That's the order.") | "Mark ten isn't about dishes." | about 90 s |
+| 5 | We copy the towel (from "That's a fair push, and it deserves a real answer." through "We copy the towel. And the towel only makes sense because of the ransom. That's the order.") | "Mark ten isn't about dishes." | about 90 s |
 
 ## YouTube description
 
@@ -447,16 +447,16 @@ Chapters
 00:13 Intro
 00:40 Pull up a chair
 03:23 The dish sigher
-09:23 The burnt pancake
-13:22 The Word
+09:24 The burnt pancake
+13:23 The Word
 18:28 Mr. Abernathy's question
-22:27 Ruby and the notebook
+22:28 Ruby and the notebook
 27:46 Pushback
-34:17 Callers
-42:13 Going first
-44:50 The challenge
-46:32 Carry this
-46:43 Outro
+34:14 Callers
+42:10 Going first
+44:47 The challenge
+46:29 Carry this
+46:40 Outro
 
 Scripture: Mark 10:45 (NIV). Also Mark 10:43-44, John 13:14-15, Matthew 6:3-4, Philippians 2:4.
 

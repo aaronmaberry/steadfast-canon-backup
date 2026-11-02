@@ -140,7 +140,7 @@ JONATHON: It's the biggest yes he's got. I'm putting it next to your brother's "
 
 [CHAPTER: From the table]
 [CAM: WES MS]
-WES: From the table. Tuesday we talked about the dark stretch, the long low seasons a man can get into and the friend who sees it before he does. And today's question came straight off the back of that. A man at our Thursday table caught me in the diner parking lot this morning, after everybody else had gone, and asked me something. He said I could bring it here as long as nobody's named.
+WES: From the table. Tuesday we talked about the dark stretch, the long low seasons a man can sink into, and the friend who spots it first. And today's question came straight off the back of that. A man at our Thursday table caught me in the diner parking lot this morning, after everybody else had gone, and asked me something. He said I could bring it here as long as nobody's named.
 [CAM: JON MS]
 JONATHON: And this is the man who drives out after the hail. You've talked about him before. He's the one who sits at the kitchen table when the crop's on the ground.
 [CAM: WES CU]
@@ -197,7 +197,7 @@ WES: Because the man in the dark thinks nobody's looking. That's half of what ma
 [CAM: JON CU]
 JONATHON: Step three. Ask it in plain words. "Are you thinking about killing yourself?" Those words. Not "You're not thinking about doing anything stupid, are you?" That's the hint question, and it's built for a no. It tells him what answer you want. The plain question tells him you can handle whatever the answer is.
 [CAM: JON MS]
-JONATHON: And I know every man listening just flinched, because it feels like you might put the idea in his head. You won't. Asking straight doesn't plant it. If it's there, it's already there, and most men who've been carrying it are relieved somebody finally said the word out loud.
+JONATHON: And I know every man listening just flinched, because it feels like you might plant it in his head. You won't. Asking straight doesn't plant it. If it's there, it's already there, and most men who've been carrying it are relieved somebody finally said the word out loud.
 [CAM: WES MS]
 WES: I'll admit I've never asked it. Not once in my life, not in those words. I've asked the hint question, and I've asked "You doing okay?" a hundred times. I'm fifty-two. That's a long time to go without asking the one question that matters.
 [CAM: JON MS]
@@ -262,10 +262,10 @@ Chapters
 00:00 Cold open
 00:13 Intro
 00:39 Check the box
-09:44 From the table
-16:23 Tool on the table
-21:56 Carry this
-22:07 Outro
+09:50 From the table
+16:27 Tool on the table
+22:00 Carry this
+22:11 Outro
 
 Scripture: Proverbs 27:23 (NIV)
 
