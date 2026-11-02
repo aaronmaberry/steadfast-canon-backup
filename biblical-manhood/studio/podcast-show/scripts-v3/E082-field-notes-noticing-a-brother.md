@@ -105,7 +105,7 @@ JONATHON: Half. I'll put it on the fridge. Okay, mine. And I have to confess som
 [CAM: WES MS]
 WES: He double dipped.
 [CAM: JON CU]
-JONATHON: My go-first was to call my nephew by voice on Thursday instead of sending the Thursday text. And the challenge was to call a man who's gone quiet. And my nephew hasn't really gone quiet. He answers every Thursday, usually inside a minute, usually with a picture of something he wired. So I used one phone call for two assignments, which is a thing I'd write a rep up for.
+JONATHON: My go-first was to call my nephew by voice on Thursday instead of sending the Thursday text. And the challenge was to call a man who's gone quiet. And my nephew hasn't really gone quiet. He answers every Thursday, usually inside a minute, usually with a picture of something he wired. So I used one phone call for two assignments, which is a thing I'd never let Ruby get away with on her chore chart.
 [CAM: WES MS]
 WES: I'm going to let you have the call. I'm not giving you the challenge.
 [CAM: JON MS]
@@ -327,5 +327,5 @@ Scripture quotations taken from The Holy Bible, New International Version®, NIV
 - **Single check by text, read aloud.** The nephew's reply ("thanks for calling. that was weird. call again tho").
 - **Wes's dad.** The anniversary told once, in one line ("My brother said 'Me too' one time"); Jonathon doesn't press. The youngest's question is reported, not quoted as a line.
 - **Glad thread.** The new grandson in San Angelo.
-- **Round 9 limits.** Dani: not quoted. Virgil: none. Sales lens: one passing line ("a thing I'd write a rep up for"). Austin: one line, named by role, a promised call. "Sir": none. "Brother" as address: none. Show about itself: one ("after what we said Tuesday"). Kid-catches-dad: one (Ruby, "You never talk on the phone."). One-word reply: one (Wes, "Fair."). Deadpan payoff: one (the cold open, "Who's in the hospital?"). Knee or age beat: one (Wes, "I'm fifty-two."). Jonathon's father: not mentioned. Prayer-aloud crack: not touched.
+- **Round 9 limits.** Dani: not quoted. Virgil: none. Sales lens: none (E081 had it, E083 has it). Austin: one line, named by role, a promised call. "Sir": none. "Brother" as address: none. Show about itself: one ("after what we said Tuesday"). Kid-catches-dad: one (Ruby, "You never talk on the phone."). One-word reply: one (Wes, "Fair."). Deadpan payoff: one (the cold open, "Who's in the hospital?"). Knee or age beat: one (Wes, "I'm fifty-two."). Jonathon's father: not mentioned. Prayer-aloud crack: not touched.
 - **Setups for E083 (Money Tells the Truth; Luke 12:34; no plug).** The nephew's December rent problem is money, and stays his. Jonathon's call to Austin by noon Friday. The installer lunch.
