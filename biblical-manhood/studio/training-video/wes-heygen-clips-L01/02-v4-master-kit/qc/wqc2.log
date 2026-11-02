@@ -1,0 +1,28 @@
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: Logging before InitGoogle() is written to STDERR
+W0000 00:00:1793638459.476264 1059163 inference_feedback_manager.cc:121] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1793638459.488580 1059163 inference_feedback_manager.cc:121] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1793638459.489840 1059165 face_landmarker_graph.cc:180] Sets FaceBlendshapesGraph acceleration to xnnpack by default.
+W0000 00:00:1793638459.494668 1059167 inference_feedback_manager.cc:121] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1793638459.506249 1059167 inference_feedback_manager.cc:121] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1793638459.567115 1059164 landmark_projection_calculator.cc:81] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+hg_w11.mp4 {'frames': 472, 'hand_any': 4, 'hand_visible_above1000': 4, 'skin_band_frames': 7, 'face_w': 334.26401138305664, 'jut150': 8}
+hg_w12.mp4 {'frames': 1045, 'hand_any': 12, 'hand_visible_above1000': 12, 'skin_band_frames': 16, 'face_w': 334.05235290527344, 'jut150': 44}
+hg_w13.mp4 {'frames': 314, 'hand_any': 8, 'hand_visible_above1000': 8, 'skin_band_frames': 9, 'face_w': 333.0608367919922, 'jut150': 6}
+hg_w14.mp4 {'frames': 542, 'hand_any': 0, 'hand_visible_above1000': 0, 'skin_band_frames': 0, 'face_w': 333.8281059265137, 'jut150': 10}
+hg_w15.mp4 {'frames': 424, 'hand_any': 0, 'hand_visible_above1000': 0, 'skin_band_frames': 0, 'face_w': 333.26891899108887, 'jut150': 6}
+hg_w16.mp4 {'frames': 262, 'hand_any': 0, 'hand_visible_above1000': 0, 'skin_band_frames': 0, 'face_w': 333.6214828491211, 'jut150': 2}
+Exception ignored in: <function HandLandmarker.__del__ at 0x7effeeed2200>
+Traceback (most recent call last):
+  File "/home/box/.local/lib/python3.13/site-packages/mediapipe/tasks/python/vision/hand_landmarker.py", line 612, in __del__
+  File "/home/box/.local/lib/python3.13/site-packages/mediapipe/tasks/python/vision/hand_landmarker.py", line 588, in close
+  File "/home/box/.local/lib/python3.13/site-packages/mediapipe/tasks/python/core/serial_dispatcher.py", line 74, in shutdown_aware_handler
+  File "/home/box/.local/lib/python3.13/site-packages/mediapipe/tasks/python/core/mediapipe_c_utils.py", line 126, in dispatcher_wrapper
+TypeError: 'NoneType' object is not callable
+Exception ignored in: <function FaceLandmarker.__del__ at 0x7effeeed0900>
+Traceback (most recent call last):
+  File "/home/box/.local/lib/python3.13/site-packages/mediapipe/tasks/python/vision/face_landmarker.py", line 3357, in __del__
+  File "/home/box/.local/lib/python3.13/site-packages/mediapipe/tasks/python/vision/face_landmarker.py", line 3332, in close
+  File "/home/box/.local/lib/python3.13/site-packages/mediapipe/tasks/python/core/serial_dispatcher.py", line 74, in shutdown_aware_handler
+  File "/home/box/.local/lib/python3.13/site-packages/mediapipe/tasks/python/core/mediapipe_c_utils.py", line 126, in dispatcher_wrapper
+TypeError: 'NoneType' object is not callable

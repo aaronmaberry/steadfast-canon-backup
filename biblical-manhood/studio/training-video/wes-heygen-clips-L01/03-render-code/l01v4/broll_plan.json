@@ -1,0 +1,322 @@
+[
+{
+"a": 55.0,
+"b": 58.6,
+"id": "1781",
+"why": "story: kids asleep, laptop open",
+"mezz": "/workspace/l01v2/broll/mezz/b00_1781.mp4",
+"src_dur": 12.01,
+"clip_in": 1.8,
+"out_len": 3.6
+},
+{
+"a": 59.1,
+"b": 62.7,
+"id": "72",
+"why": "story: truck on lunch break, phone on the wheel",
+"mezz": "/workspace/l01v2/broll/mezz/b01_72.mp4",
+"src_dur": 17.96,
+"clip_in": 2.69,
+"out_len": 3.6
+},
+{
+"a": 131.389,
+"b": 134.32,
+"id": "1724",
+"why": "cover smear 132.8 (WES_FULL 8)",
+"mezz": "/workspace/l01v2/broll/mezz/b02_1724.mp4",
+"src_dur": 12.71,
+"clip_in": 1.91,
+"out_len": 2.931
+},
+{
+"a": 161.937,
+"b": 165.177,
+"id": "99888",
+"why": "cover join P02 out (SPLIT 9)",
+"mezz": "/workspace/l01v2/broll/mezz/b03_99888.mp4",
+"src_dur": 12.93,
+"clip_in": 1.94,
+"out_len": 3.24
+},
+{
+"a": 212.404,
+"b": 215.225,
+"id": "42368",
+"why": "cover join P03 out (SPLIT 14) / truck",
+"mezz": "/workspace/l01v2/broll/mezz/b04_42368.mp4",
+"src_dur": 12.3,
+"clip_in": 1.85,
+"out_len": 2.821
+},
+{
+"a": 220.406,
+"b": 223.217,
+"id": "43247",
+"why": "cover smear 221.7 (SPLIT 14) / friend doing this with you",
+"mezz": "/workspace/l01v2/broll/mezz/b05_43247.mp4",
+"src_dur": 10.93,
+"clip_in": 1.64,
+"out_len": 2.811
+},
+{
+"a": 285.422,
+"b": 288.032,
+"id": "100207",
+"why": "cover P04 in + smear 286.7 (WES_FULL 18) / walked out of church",
+"mezz": "/workspace/l01v2/broll/mezz/b06_100207.mp4",
+"src_dur": 32.7,
+"clip_in": 4.9,
+"out_len": 2.61
+},
+{
+"a": 291.123,
+"b": 294.453,
+"id": "2041",
+"why": "cover join P04 out (WES_FULL 18) / next ordinary day",
+"mezz": "/workspace/l01v2/broll/mezz/b07_2041.mp4",
+"src_dur": 25.07,
+"clip_in": 3.76,
+"out_len": 3.33
+},
+{
+"a": 375.981,
+"b": 379.0,
+"id": "808",
+"why": "cover P06 in (WES_FULL 23) / the plain one",
+"mezz": "/workspace/l01v2/broll/mezz/b08_808.mp4",
+"src_dur": 10.75,
+"clip_in": 1.61,
+"out_len": 3.019
+},
+{
+"a": 379.0,
+"b": 382.82,
+"id": "18263",
+"why": "cover smear 381.5 (WES_FULL 23) / the very little",
+"mezz": "/workspace/l01v2/broll/mezz/b09_18263.mp4",
+"src_dur": 12.08,
+"clip_in": 1.81,
+"out_len": 3.82
+},
+{
+"a": 402.843,
+"b": 406.163,
+"id": "248",
+"why": "cover join P07 out + smear 404.6 (SPLIT 25) / phone, small yes",
+"mezz": "/workspace/l01v2/broll/mezz/b10_248.mp4",
+"src_dur": 24.32,
+"clip_in": 3.65,
+"out_len": 3.32
+},
+{
+"a": 453.1,
+"b": 457.0,
+"id": "191",
+"why": "story: daughter had a bike",
+"mezz": "/workspace/l01v2/broll/mezz/b11_191.mp4",
+"src_dur": 16.65,
+"clip_in": 2.5,
+"out_len": 3.9
+},
+{
+"a": 476.272,
+"b": 479.162,
+"id": "1808",
+"why": "cover join P08 in (SPLIT 30) / opened my laptop",
+"mezz": "/workspace/l01v2/broll/mezz/b12_1808.mp4",
+"src_dur": 14.21,
+"clip_in": 2.13,
+"out_len": 2.89
+},
+{
+"a": 480.913,
+"b": 484.07,
+"id": "99909",
+"why": "cover join P08 out + smear 482.3 (SPLIT 30) / one thing",
+"mezz": "/workspace/l01v2/broll/mezz/b13_99909.mp4",
+"src_dur": 10.3,
+"clip_in": 1.55,
+"out_len": 3.157
+},
+{
+"a": 498.501,
+"b": 501.0,
+"id": "50122",
+"why": "cover join P09 in + smear 499.8 (WES_FULL 31) / homework",
+"mezz": "/workspace/l01v2/broll/mezz/b14_50122.mp4",
+"src_dur": 8.63,
+"clip_in": 1.3,
+"out_len": 2.499
+},
+{
+"a": 501.0,
+"b": 505.312,
+"id": "40867",
+"why": "cover smear 503.6 (WES_FULL 31) / there is the bike",
+"mezz": "/workspace/l01v2/broll/mezz/b15_40867.mp4",
+"src_dur": 10.22,
+"clip_in": 1.53,
+"out_len": 4.312
+},
+{
+"a": 603.7,
+"b": 609.0,
+"id": "4809",
+"why": "cover join P11 in (bubble 36 -> WES_FULL 37 transition) + story: busy is an easy place to hide",
+"mezz": "/workspace/l01v2/broll/mezz/b16_4809.mp4",
+"src_dur": 37.4,
+"clip_in": 5.61,
+"out_len": 5.3
+},
+{
+"a": 644.6,
+"b": 648.9,
+"id": "42039",
+"why": "story: pulled into the driveway",
+"mezz": "/workspace/l01v2/broll/mezz/b17_42039.mp4",
+"src_dur": 17.02,
+"clip_in": 2.55,
+"out_len": 4.3
+},
+{
+"a": 661.063,
+"b": 663.884,
+"id": "4542",
+"why": "cover join P12 in (WES_FULL 40) / older man I trusted",
+"mezz": "/workspace/l01v2/broll/mezz/b18_4542.mp4",
+"src_dur": 8.83,
+"clip_in": 1.32,
+"out_len": 2.821
+},
+{
+"a": 674.373,
+"b": 677.353,
+"id": "39684",
+"why": "cover join P12 out (WES_FULL 40) / could not have hired out",
+"mezz": "/workspace/l01v2/broll/mezz/b19_39684.mp4",
+"src_dur": 8.09,
+"clip_in": 1.21,
+"out_len": 2.98
+},
+{
+"a": 811.0,
+"b": 815.0,
+"id": "50754",
+"why": "story: some morning I would wake up",
+"mezz": "/workspace/l01v2/broll/mezz/b20_50754.mp4",
+"src_dur": 12.76,
+"clip_in": 1.91,
+"out_len": 4.0
+},
+{
+"a": 863.019,
+"b": 866.049,
+"id": "50051",
+"why": "cover P14 in (WES_FULL 51) / birthday",
+"mezz": "/workspace/l01v2/broll/mezz/b21_50051.mp4",
+"src_dur": 8.3,
+"clip_in": 1.24,
+"out_len": 3.03
+},
+{
+"a": 871.19,
+"b": 873.961,
+"id": "4527",
+"why": "cover join P14 out (WES_FULL 51) / a man's yes",
+"mezz": "/workspace/l01v2/broll/mezz/b22_4527.mp4",
+"src_dur": 7.0,
+"clip_in": 1.05,
+"out_len": 2.771
+},
+{
+"a": 883.552,
+"b": 886.2,
+"id": "31417",
+"why": "cover smear 884.7 (WES_FULL 52) / a nap is allowed",
+"mezz": "/workspace/l01v2/broll/mezz/b23_31417.mp4",
+"src_dur": 13.18,
+"clip_in": 1.98,
+"out_len": 2.648
+},
+{
+"a": 886.2,
+"b": 889.103,
+"id": "100252",
+"why": "cover smear 887.6 (WES_FULL 52) / quiet evening",
+"mezz": "/workspace/l01v2/broll/mezz/b24_100252.mp4",
+"src_dur": 29.29,
+"clip_in": 4.39,
+"out_len": 2.903
+},
+{
+"a": 907.926,
+"b": 910.5,
+"id": "99890",
+"why": "cover join P16 out + smear 909.2 (SPLIT 54) / write it",
+"mezz": "/workspace/l01v2/broll/mezz/b25_99890.mp4",
+"src_dur": 8.17,
+"clip_in": 1.23,
+"out_len": 2.574
+},
+{
+"a": 916.307,
+"b": 919.201,
+"id": "51106",
+"why": "cover smear 917.8 (SPLIT 54) / mine to start",
+"mezz": "/workspace/l01v2/broll/mezz/b26_51106.mp4",
+"src_dur": 10.93,
+"clip_in": 1.64,
+"out_len": 2.894
+},
+{
+"a": 1042.976,
+"b": 1046.037,
+"id": "4720",
+"why": "cover join P20 in borderline (SPLIT 61) / kid without a dad",
+"mezz": "/workspace/l01v2/broll/mezz/b27_4720.mp4",
+"src_dur": 6.21,
+"clip_in": 0.93,
+"out_len": 3.061
+},
+{
+"a": 1049.078,
+"b": 1053.342,
+"id": "4851",
+"why": "cover smears 1050.3/1052.0 (SPLIT 61) / show up for it",
+"mezz": "/workspace/l01v2/broll/mezz/b28_4851.mp4",
+"src_dur": 15.77,
+"clip_in": 2.36,
+"out_len": 4.264
+},
+{
+"a": 1103.277,
+"b": 1106.638,
+"id": "42982",
+"why": "cover AUDIO CUT \"This week,\" (bubble 64) / one meal",
+"mezz": "/workspace/l01v2/broll/mezz/b29_42982.mp4",
+"src_dur": 12.39,
+"clip_in": 1.86,
+"out_len": 2.041
+},
+{
+"a": 1119.651,
+"b": 1122.612,
+"id": "144",
+"why": "cover join P23 in (SPLIT 65) / text one man",
+"mezz": "/workspace/l01v2/broll/mezz/b30_144.mp4",
+"src_dur": 16.31,
+"clip_in": 2.45,
+"out_len": 2.961
+},
+{
+"a": 1126.763,
+"b": 1130.22,
+"id": "4915",
+"why": "cover smear 1128.9 (SPLIT 65) / send it",
+"mezz": "/workspace/l01v2/broll/mezz/b31_4915.mp4",
+"src_dur": 15.0,
+"clip_in": 2.25,
+"out_len": 3.457
+}
+]

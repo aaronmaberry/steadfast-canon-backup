@@ -1,0 +1,376 @@
+{
+"cover": [
+{
+"a": 131.389,
+"b": 134.32,
+"why": [
+"smear r0.48"
+],
+"shot": "8",
+"kind": "WES_FULL"
+},
+{
+"a": 149.433,
+"b": 154.325,
+"why": [
+"AUDIO CUT Not all twenty-four in a weekend."
+],
+"shot": "9",
+"kind": "SPLIT"
+},
+{
+"a": 153.364,
+"b": 157.856,
+"why": [
+"AUDIO CUT Then you live it for a week."
+],
+"shot": "9",
+"kind": "SPLIT"
+},
+{
+"a": 161.937,
+"b": 165.177,
+"why": [
+"join P02 out r1.28"
+],
+"shot": "9",
+"kind": "SPLIT"
+},
+{
+"a": 212.404,
+"b": 215.225,
+"why": [
+"join P03 out r1.27"
+],
+"shot": "14",
+"kind": "SPLIT"
+},
+{
+"a": 220.406,
+"b": 223.217,
+"why": [
+"smear r0.46"
+],
+"shot": "14",
+"kind": "SPLIT"
+},
+{
+"a": 285.422,
+"b": 288.032,
+"why": [
+"join-borderline P04 in",
+"smear r0.37"
+],
+"shot": "18",
+"kind": "WES_FULL"
+},
+{
+"a": 291.123,
+"b": 294.453,
+"why": [
+"join P04 out r1.41"
+],
+"shot": "18",
+"kind": "WES_FULL"
+},
+{
+"a": 375.981,
+"b": 378.972,
+"why": [
+"join-borderline P06 in"
+],
+"shot": "23",
+"kind": "WES_FULL"
+},
+{
+"a": 380.102,
+"b": 382.82,
+"why": [
+"smear r0.49"
+],
+"shot": "23",
+"kind": "WES_FULL"
+},
+{
+"a": 402.843,
+"b": 406.163,
+"why": [
+"join P07 out r0.67",
+"smear r0.37"
+],
+"shot": "25",
+"kind": "SPLIT"
+},
+{
+"a": 476.272,
+"b": 479.162,
+"why": [
+"join P08 in r1.32"
+],
+"shot": "30",
+"kind": "SPLIT"
+},
+{
+"a": 480.913,
+"b": 484.07,
+"why": [
+"join P08 out r1.69",
+"smear r0.43"
+],
+"shot": "30",
+"kind": "SPLIT"
+},
+{
+"a": 498.501,
+"b": 505.312,
+"why": [
+"join P09 in r1.45",
+"smear r0.49",
+"smear r0.48"
+],
+"shot": "31",
+"kind": "WES_FULL"
+},
+{
+"a": 661.063,
+"b": 663.884,
+"why": [
+"join P12 in r0.77"
+],
+"shot": "40",
+"kind": "WES_FULL"
+},
+{
+"a": 674.373,
+"b": 677.353,
+"why": [
+"join P12 out r1.27"
+],
+"shot": "40",
+"kind": "WES_FULL"
+},
+{
+"a": 863.019,
+"b": 866.049,
+"why": [
+"join-borderline P14 in"
+],
+"shot": "51",
+"kind": "WES_FULL"
+},
+{
+"a": 871.19,
+"b": 873.961,
+"why": [
+"join P14 out r1.99"
+],
+"shot": "51",
+"kind": "WES_FULL"
+},
+{
+"a": 883.552,
+"b": 889.103,
+"why": [
+"smear r0.37",
+"smear r0.46"
+],
+"shot": "52",
+"kind": "WES_FULL"
+},
+{
+"a": 907.926,
+"b": 910.5,
+"why": [
+"join P16 out r0.74",
+"smear r0.49"
+],
+"shot": "54",
+"kind": "SPLIT"
+},
+{
+"a": 916.307,
+"b": 919.201,
+"why": [
+"smear r0.44"
+],
+"shot": "54",
+"kind": "SPLIT"
+},
+{
+"a": 1021.419,
+"b": 1024.44,
+"why": [
+"Aaron 17:02.7 warp"
+],
+"shot": "60",
+"kind": "SPLIT"
+},
+{
+"a": 1042.976,
+"b": 1046.037,
+"why": [
+"join-borderline P20 in r0.81"
+],
+"shot": "61",
+"kind": "SPLIT"
+},
+{
+"a": 1049.078,
+"b": 1053.342,
+"why": [
+"smear r0.50",
+"smear r0.46"
+],
+"shot": "61",
+"kind": "SPLIT"
+},
+{
+"a": 1103.277,
+"b": 1106.638,
+"why": [
+"AUDIO CUT This week,"
+],
+"shot": "64",
+"kind": "TYPE_BOARD_BUBBLE"
+},
+{
+"a": 1119.651,
+"b": 1122.612,
+"why": [
+"join P23 in r0.73"
+],
+"shot": "65",
+"kind": "SPLIT"
+},
+{
+"a": 1126.763,
+"b": 1130.22,
+"why": [
+"smear r0.46"
+],
+"shot": "65",
+"kind": "SPLIT"
+}
+],
+"hide": [
+{
+"a": 187.74,
+"b": 190.26,
+"why": [
+"smear r0.49",
+"smear r0.49"
+],
+"shot": "12",
+"kind": "TYPE_BOARD_BUBBLE"
+},
+{
+"a": 244.78,
+"b": 245.82,
+"why": [
+"smear r0.46"
+],
+"shot": "16",
+"kind": "TYPE_BOARD_BUBBLE"
+},
+{
+"a": 261.22,
+"b": 262.38,
+"why": [
+"smear r0.47"
+],
+"shot": "17",
+"kind": "BRANDED_STILL_BUBBLE"
+},
+{
+"a": 307.94,
+"b": 309.1,
+"why": [
+"smear r0.46"
+],
+"shot": "20",
+"kind": "SCRIPTURE_BUBBLE"
+},
+{
+"a": 554.94,
+"b": 556.06,
+"why": [
+"smear r0.49"
+],
+"shot": "33",
+"kind": "TYPE_BOARD_BUBBLE"
+},
+{
+"a": 602.48,
+"b": 604.78,
+"why": [
+"Aaron 10:03 smear",
+"join P11 in r0.77"
+],
+"shot": "36",
+"kind": "TYPE_BOARD_BUBBLE"
+},
+{
+"a": 733.7,
+"b": 735.0,
+"why": [
+"Aaron 12:14.3 soft"
+],
+"shot": "44",
+"kind": "TYPE_BOARD_BUBBLE"
+},
+{
+"a": 739.54,
+"b": 740.62,
+"why": [
+"smear r0.46"
+],
+"shot": "44",
+"kind": "TYPE_BOARD_BUBBLE"
+},
+{
+"a": 753.2,
+"b": 754.5,
+"why": [
+"Aaron 12:33.8 soft"
+],
+"shot": "45",
+"kind": "TYPE_BOARD_BUBBLE"
+},
+{
+"a": 795.02,
+"b": 796.06,
+"why": [
+"smear r0.48"
+],
+"shot": "47",
+"kind": "SCRIPTURE_BUBBLE"
+},
+{
+"a": 831.7,
+"b": 833.2,
+"why": [
+"Aaron 13:52.3 soft"
+],
+"shot": "49",
+"kind": "SCRIPTURE_BUBBLE"
+},
+{
+"a": 1158.82,
+"b": 1159.9,
+"why": [
+"smear r0.42"
+],
+"shot": "66",
+"kind": "TYPE_BOARD_BUBBLE"
+},
+{
+"a": 1177.02,
+"b": 1178.06,
+"why": [
+"smear r0.48"
+],
+"shot": "67",
+"kind": "TYPE_BOARD_BUBBLE"
+}
+]
+}

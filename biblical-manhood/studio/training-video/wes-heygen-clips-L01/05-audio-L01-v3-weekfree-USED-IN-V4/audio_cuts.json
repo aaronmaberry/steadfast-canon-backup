@@ -1,0 +1,86 @@
+{
+ "source": "/workspace/artifacts/training/lesson-plan-2026-10-26/L01-audio-2026-10-29/v2/delivery/L01-A-Quiet-Tuesday-v2-minus26-LUFS.mp3",
+ "skip_samples": 533,
+ "lame_delay": 4,
+ "lame_pad": 2414,
+ "frames_src": 51421,
+ "cuts": [
+  {
+   "text": "Not all twenty-four in a weekend.",
+   "removed_word_span": [
+    151.304,
+    153.044
+   ],
+   "prev_word_end": 150.704,
+   "next_word_start": 153.685,
+   "k1": 6299,
+   "k2": 6389,
+   "frames": 90,
+   "a": 151.164896,
+   "b": 153.324896,
+   "len": 2.16,
+   "mdb_k1": 492,
+   "mdb_k2": 486,
+   "handle_before": 0.461,
+   "handle_after": 0.36
+  },
+  {
+   "text": "Then you live it for a week.",
+   "removed_word_span": [
+    154.665,
+    156.545
+   ],
+   "prev_word_end": 153.985,
+   "next_word_start": 157.145,
+   "k1": 6437,
+   "k2": 6532,
+   "frames": 95,
+   "a": 154.476896,
+   "b": 156.756896,
+   "len": 2.28,
+   "mdb_k1": 490,
+   "mdb_k2": 486,
+   "handle_before": 0.492,
+   "handle_after": 0.388
+  },
+  {
+   "text": "This week,",
+   "removed_word_span": [
+    1104.658,
+    1105.278
+   ],
+   "prev_word_end": 1103.918,
+   "next_word_start": 1105.658,
+   "k1": 46008,
+   "k2": 46063,
+   "frames": 55,
+   "a": 1104.180896,
+   "b": 1105.500896,
+   "len": 1.32,
+   "mdb_k1": 506,
+   "mdb_k2": 504,
+   "handle_before": 0.263,
+   "handle_after": 0.157
+  }
+ ],
+ "keep": [
+  [
+   0,
+   6299
+  ],
+  [
+   6389,
+   6437
+  ],
+  [
+   6532,
+   46008
+  ],
+  [
+   46063,
+   51421
+  ]
+ ],
+ "tail_frames": 126,
+ "tail_s": 3.0
+}

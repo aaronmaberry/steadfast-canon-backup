@@ -1,0 +1,373 @@
+[
+{
+"a": 132.8,
+"b": 132.84,
+"why": "smear r0.48",
+"shot": "8",
+"kind": "WES_FULL"
+},
+{
+"a": 151.165,
+"b": 153.325,
+"why": "AUDIO CUT Not all twenty-four in a weekend.",
+"shot": "9",
+"kind": "SPLIT"
+},
+{
+"a": 154.477,
+"b": 156.757,
+"why": "AUDIO CUT Then you live it for a week.",
+"shot": "9",
+"kind": "SPLIT"
+},
+{
+"a": 163.52,
+"b": 163.84,
+"why": "join P02 out r1.28",
+"shot": "9",
+"kind": "SPLIT"
+},
+{
+"a": 188.24,
+"b": 188.32,
+"why": "smear r0.49",
+"shot": "12",
+"kind": "TYPE_BOARD_BUBBLE"
+},
+{
+"a": 189.72,
+"b": 189.76,
+"why": "smear r0.49",
+"shot": "13",
+"kind": "TYPE_BOARD_BUBBLE"
+},
+{
+"a": 213.8,
+"b": 214.12,
+"why": "join P03 out r1.27",
+"shot": "14",
+"kind": "SPLIT"
+},
+{
+"a": 221.72,
+"b": 221.8,
+"why": "smear r0.46",
+"shot": "14",
+"kind": "SPLIT"
+},
+{
+"a": 245.28,
+"b": 245.32,
+"why": "smear r0.46",
+"shot": "16",
+"kind": "TYPE_BOARD_BUBBLE"
+},
+{
+"a": 261.72,
+"b": 261.88,
+"why": "smear r0.47",
+"shot": "17",
+"kind": "BRANDED_STILL_BUBBLE"
+},
+{
+"a": 286.64,
+"b": 286.96,
+"why": "join-borderline P04 in",
+"shot": "18",
+"kind": "WES_FULL"
+},
+{
+"a": 286.72,
+"b": 286.84,
+"why": "smear r0.37",
+"shot": "18",
+"kind": "WES_FULL"
+},
+{
+"a": 292.32,
+"b": 292.64,
+"why": "join P04 out r1.41",
+"shot": "18",
+"kind": "WES_FULL"
+},
+{
+"a": 308.44,
+"b": 308.6,
+"why": "smear r0.46",
+"shot": "20",
+"kind": "SCRIPTURE_BUBBLE"
+},
+{
+"a": 377.32,
+"b": 377.64,
+"why": "join-borderline P06 in",
+"shot": "23",
+"kind": "WES_FULL"
+},
+{
+"a": 381.48,
+"b": 381.56,
+"why": "smear r0.49",
+"shot": "23",
+"kind": "WES_FULL"
+},
+{
+"a": 404.52,
+"b": 404.84,
+"why": "join P07 out r0.67",
+"shot": "25",
+"kind": "SPLIT"
+},
+{
+"a": 404.6,
+"b": 404.8,
+"why": "smear r0.37",
+"shot": "25",
+"kind": "SPLIT"
+},
+{
+"a": 477.68,
+"b": 478.0,
+"why": "join P08 in r1.32",
+"shot": "30",
+"kind": "SPLIT"
+},
+{
+"a": 482.2,
+"b": 482.52,
+"why": "join P08 out r1.69",
+"shot": "30",
+"kind": "SPLIT"
+},
+{
+"a": 482.28,
+"b": 482.36,
+"why": "smear r0.43",
+"shot": "30",
+"kind": "SPLIT"
+},
+{
+"a": 499.68,
+"b": 500.0,
+"why": "join P09 in r1.45",
+"shot": "31",
+"kind": "WES_FULL"
+},
+{
+"a": 499.8,
+"b": 499.88,
+"why": "smear r0.49",
+"shot": "31",
+"kind": "WES_FULL"
+},
+{
+"a": 503.6,
+"b": 503.8,
+"why": "smear r0.48",
+"shot": "31",
+"kind": "WES_FULL"
+},
+{
+"a": 555.44,
+"b": 555.56,
+"why": "smear r0.49",
+"shot": "33",
+"kind": "TYPE_BOARD_BUBBLE"
+},
+{
+"a": 602.98,
+"b": 603.3,
+"why": "Aaron 10:03 smear",
+"shot": "36",
+"kind": "TYPE_BOARD_BUBBLE"
+},
+{
+"a": 603.96,
+"b": 604.28,
+"why": "join P11 in r0.77",
+"shot": "36",
+"kind": "TYPE_BOARD_BUBBLE"
+},
+{
+"a": 662.52,
+"b": 662.84,
+"why": "join P12 in r0.77",
+"shot": "40",
+"kind": "WES_FULL"
+},
+{
+"a": 675.92,
+"b": 676.24,
+"why": "join P12 out r1.27",
+"shot": "40",
+"kind": "WES_FULL"
+},
+{
+"a": 734.2,
+"b": 734.5,
+"why": "Aaron 12:14.3 soft",
+"shot": "44",
+"kind": "TYPE_BOARD_BUBBLE"
+},
+{
+"a": 740.04,
+"b": 740.12,
+"why": "smear r0.46",
+"shot": "44",
+"kind": "TYPE_BOARD_BUBBLE"
+},
+{
+"a": 753.7,
+"b": 754.0,
+"why": "Aaron 12:33.8 soft",
+"shot": "45",
+"kind": "TYPE_BOARD_BUBBLE"
+},
+{
+"a": 795.52,
+"b": 795.56,
+"why": "smear r0.48",
+"shot": "47",
+"kind": "SCRIPTURE_BUBBLE"
+},
+{
+"a": 832.2,
+"b": 832.7,
+"why": "Aaron 13:52.3 soft",
+"shot": "49",
+"kind": "SCRIPTURE_BUBBLE"
+},
+{
+"a": 864.52,
+"b": 864.84,
+"why": "join-borderline P14 in",
+"shot": "51",
+"kind": "WES_FULL"
+},
+{
+"a": 872.32,
+"b": 872.64,
+"why": "join P14 out r1.99",
+"shot": "51",
+"kind": "WES_FULL"
+},
+{
+"a": 884.68,
+"b": 884.88,
+"why": "smear r0.37",
+"shot": "52",
+"kind": "WES_FULL"
+},
+{
+"a": 887.56,
+"b": 887.64,
+"why": "smear r0.46",
+"shot": "52",
+"kind": "WES_FULL"
+},
+{
+"a": 909.04,
+"b": 909.36,
+"why": "join P16 out r0.74",
+"shot": "54",
+"kind": "SPLIT"
+},
+{
+"a": 909.16,
+"b": 909.24,
+"why": "smear r0.49",
+"shot": "54",
+"kind": "SPLIT"
+},
+{
+"a": 917.76,
+"b": 917.88,
+"why": "smear r0.44",
+"shot": "54",
+"kind": "SPLIT"
+},
+{
+"a": 1022.7,
+"b": 1022.98,
+"why": "Aaron 17:02.7 warp",
+"shot": "60",
+"kind": "SPLIT"
+},
+{
+"a": 1050.28,
+"b": 1050.32,
+"why": "smear r0.50",
+"shot": "61",
+"kind": "SPLIT"
+},
+{
+"a": 1052.04,
+"b": 1052.12,
+"why": "smear r0.46",
+"shot": "61",
+"kind": "SPLIT"
+},
+{
+"a": 1104.181,
+"b": 1105.501,
+"why": "AUDIO CUT This week,",
+"shot": "64",
+"kind": "TYPE_BOARD_BUBBLE"
+},
+{
+"a": 1120.72,
+"b": 1121.04,
+"why": "join P23 in r0.73",
+"shot": "65",
+"kind": "SPLIT"
+},
+{
+"a": 1128.88,
+"b": 1128.96,
+"why": "smear r0.46",
+"shot": "65",
+"kind": "SPLIT"
+},
+{
+"a": 1159.32,
+"b": 1159.4,
+"why": "smear r0.42",
+"shot": "66",
+"kind": "TYPE_BOARD_BUBBLE"
+},
+{
+"a": 1177.52,
+"b": 1177.56,
+"why": "smear r0.48",
+"shot": "67",
+"kind": "TYPE_BOARD_BUBBLE"
+},
+{
+"a": 36.886,
+"b": 37.766,
+"why": "AUDIO CUT v3 this week.",
+"shot": "?",
+"kind": "?"
+},
+{
+"a": 197.745,
+"b": 198.385,
+"why": "AUDIO CUT v3 this week,",
+"shot": "?",
+"kind": "?"
+},
+{
+"a": 263.67,
+"b": 267.83,
+"why": "AUDIO CUT v3 That weekend retreat where you came home feeling like a new man.",
+"shot": "?",
+"kind": "?"
+},
+{
+"a": 626.945,
+"b": 627.945,
+"why": "AUDIO CUT v3 for a week,",
+"shot": "?",
+"kind": "?"
+}
+]

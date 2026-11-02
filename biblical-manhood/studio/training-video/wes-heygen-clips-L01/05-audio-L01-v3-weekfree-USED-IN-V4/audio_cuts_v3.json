@@ -1,0 +1,93 @@
+{
+ "base": "/workspace/l01v2/L01-v2-weekcut-minus26-LUFS.mp3",
+ "cuts_v3": [
+  {
+   "label": "A",
+   "text": "this week.",
+   "a_v2out": 36.946,
+   "b_v2out": 37.725,
+   "fade_ms": 6,
+   "fill_s": 0.019,
+   "removed_s": 0.76
+  },
+  {
+   "label": "B",
+   "text": "this week,",
+   "a_v2out": 193.365,
+   "b_v2out": 194.028,
+   "fade_ms": 25,
+   "fill_s": 0.143,
+   "removed_s": 0.52
+  },
+  {
+   "label": "C",
+   "text": "That weekend retreat where you came home feeling like a new man.",
+   "a_v2out": 259.29,
+   "b_v2out": 263.33,
+   "fade_ms": 0,
+   "fill_s": 0.0,
+   "removed_s": 4.04
+  },
+  {
+   "label": "D",
+   "text": "for a week,",
+   "a_v2out": 622.565,
+   "b_v2out": 623.623,
+   "fade_ms": 18,
+   "fill_s": 0.178,
+   "removed_s": 0.88
+  }
+ ],
+ "src_cuts": [
+  {
+   "a": 36.946,
+   "b": 37.706,
+   "L": 0.76,
+   "text": "this week.",
+   "v": "v3"
+  },
+  {
+   "a": 151.164896,
+   "b": 153.324896,
+   "L": 2.1599999999999966,
+   "text": "Not all twenty-four in a weekend.",
+   "v": "v2"
+  },
+  {
+   "a": 154.476896,
+   "b": 156.756896,
+   "L": 2.280000000000001,
+   "text": "Then you live it for a week.",
+   "v": "v2"
+  },
+  {
+   "a": 197.805,
+   "b": 198.325,
+   "L": 0.52,
+   "text": "this week,",
+   "v": "v3"
+  },
+  {
+   "a": 263.73,
+   "b": 267.77,
+   "L": 4.04,
+   "text": "That weekend retreat where you came home feeling like a new man.",
+   "v": "v3"
+  },
+  {
+   "a": 627.005,
+   "b": 627.885,
+   "L": 0.88,
+   "text": "for a week,",
+   "v": "v3"
+  },
+  {
+   "a": 1104.180896,
+   "b": 1105.500896,
+   "L": 1.3199999999999363,
+   "text": "This week,",
+   "v": "v2"
+  }
+ ],
+ "out_len": 1225.1400416666668
+}

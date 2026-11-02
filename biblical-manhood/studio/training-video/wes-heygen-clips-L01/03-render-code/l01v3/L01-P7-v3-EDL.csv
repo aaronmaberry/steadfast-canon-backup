@@ -1,0 +1,265 @@
+type,id,kind,out_start_s,out_end_s,note
+shot,1,TITLE_CARD,0.0,10.11,"{""kicker"": ""STEADFAST MEN"", ""kat"": [""k"", 1.741], ""lat"": [""Lesson 1"", 4.262], ""title"": [""A Quiet Tuesday"", 8.123]}"
+transition,1>2,xfade,9.683,10.183,
+shot,2,AGENDA,10.11,37.84,"{""kicker"": ""TODAY"", ""rows"": [[""What a Tuesday is, and the very little"", 12.784], [""Busy is not the same as there"", 20.086], [""The first mark: Stop Waiting"", 25.227], [""Your reasons for waiting, and on"
+bubble_hide,,,36.88,37.64,
+transition,2>3,push,37.14,37.64,
+shot,3,SPLIT,37.84,51.24,"{""lt"": [""Wes Hart"", 38.71], ""rows"": [[""Husband"", 41.13], [""Dad"", 42.351], [""A job, same as you"", 45.932], [""Your teacher for 24 lessons"", 49.993]], ""chips"": true}"
+overlay_board,K00,KINETIC,45.182,50.163,"{""words"": [[""same"", 45.932], [""as"", 46.172], [""you."", 46.312], [""And"", 47.132], [""for"", 47.252], [""the"", 47.372], [""next"", 47.492], [""twenty-four"", 47.772], [""lessons,"", 48.412], [""I'm"", 49.292], [""go"
+transition,3>4,morph,50.303,51.003,
+framing,4,CARD,50.653,53.144,
+shot,4,WES_FULL,51.24,70.35,{}
+broll,1781,mixkit,53.144,57.345,"story: kids asleep, laptop open"
+broll,72,mixkit,57.345,61.94,"story: truck on lunch break, phone on the wheel"
+framing,4,CARD,61.94,67.377,
+framing,4,CARD,67.377,70.237,
+transition,4>5,dip,69.997,70.478,
+shot,5,TYPE_BOARD_BUBBLE,70.35,86.28,"{""big_idx"": 1, ""rows"": [[""Only going to check this out."", 76.779], [""Just looking. No promises."", 78.779], [""I started out that way too."", 83.447]]}"
+transition,5>6,xfade,85.788,86.288,
+shot,6,TYPE_BOARD_BUBBLE,86.28,107.16,"{""kicker"": ""YOU'RE ON TIME"", ""rows"": [[""One thing from me."", 88.909], [""Young"", 94.11], [""You're on time."", 99.511], [""Married"", 101.612], [""You're on time."", 104.733]]}"
+transition,6>7,dip,106.533,107.293,
+shot,7,SPLIT,107.16,124.01,"{""rows"": [[""Divorced, still a dad"", 108.033], [""Figured it was for somebody younger"", 115.635], [""This is yours."", 122.337]]}"
+overlay_board,K01,KINETIC,114.885,125.828,"{""words"": [[""Maybe"", 115.635], [""you"", 115.935], [""figured"", 116.115], [""this"", 116.495], [""was"", 116.695], [""for"", 116.876], [""somebody"", 117.076], [""younger."", 117.596], [""You're"", 118.816], [""on"", "
+transition,7>8,morph,123.047,123.747,
+framing,8,CARD,123.397,129.889,
+shot,8,WES_FULL,124.01,142.97,"{""callouts"": [[""Something true \u00b7 where it shows up \u00b7 one thing to do"", 135.28, [135.28, 135.78, 136.94, 137.1, 137.401, 137.561, 137.761, 137.921, 138.321, 138.521]]]}"
+broll,1724,mixkit,129.889,133.56,cover smear 132.8 (WES_FULL 8)
+framing,8,CARD,133.56,139.851,
+framing,8,CARD,139.851,142.502,
+transition,8>9,morph,142.152,142.852,
+shot,9,SPLIT,142.97,158.86,"{""rows"": [[""You and I"", 146.523], [""24 lessons. One at a time."", 149.624]], ""big_idx"": 1}"
+overlay_board,9c,COVER_BOARD,148.673,153.556,"{""kicker"": ""HOW THIS WORKS"", ""counter"": [24, 149.624], ""rows"": [[""lessons"", 150.224], [""One. Then the next one."", 153.645]], ""full"": true}"
+broll,99888,mixkit,156.737,159.977,cover join P02 out (SPLIT 9)
+transition,9>10,push,158.437,158.937,
+shot,10,TYPE_BOARD_BUBBLE,158.86,202.05,"{""kicker"": ""HOW EACH LESSON WORKS"", ""rows"": [[""I teach"", 164.167], [""You stop and write"", 176.317], [""One move. Not a list."", 190.64]], ""chips"": true, ""inset"": [""workbook"", 167.72, 175.97], ""maxw"": 76"
+bubble_hide,,,182.54,185.06,
+bubble_hide,,,192.48,192.9,
+transition,10>14,xfade,201.603,202.103,
+shot,14,SPLIT,202.05,216.8,"{""rows"": [[""A list on Sunday."", 207.883], [""On the floor of the truck by Wednesday."", 210.464], [""One move you can actually do."", 214.965]]}"
+broll,42368,mixkit,206.684,209.505,cover join P03 out (SPLIT 14) / truck
+broll,px7841657,pexels,214.686,217.497,cover smear 221.7 (SPLIT 14) / a friend doing this with you (two men talking)
+transition,14>15,morph,216.306,217.006,
+shot,15,WES_FULL,216.8,233.85,"{""callouts"": [[""Show up."", 229.488, [229.488, 229.848]], [""Tell the truth."", 230.488, [230.488, 230.788, 230.948]], [""Do the move."", 231.768, [231.768, 232.028, 232.169]]]}"
+framing,15,CARD,217.497,224.568,
+framing,15,CARD,224.568,230.799,
+framing,15,CARD,230.799,233.004,
+transition,15>16,push,232.754,233.254,
+shot,16,TYPE_BOARD_BUBBLE,233.85,251.65,"{""kicker"": ""THE BIG IDEA"", ""big_idx"": 1, ""rows"": [[""If you only remember one sentence:"", 242.277], [""A man's life gets decided on the days nobody photographs."", 246.438]]}"
+bubble_hide,,,239.06,240.1,
+transition,16>17,dip,250.979,251.779,
+shot,17,BRANDED_STILL_BUBBLE,251.65,263.67,"{""kicker"": ""THE DAYS THAT GET PHOTOGRAPHED"", ""rows"": [[""Your wedding"", 260.519], [""A baby"", 261.599], [""A new job"", 262.66], [""A retreat"", 263.98]]}"
+bubble_hide,,,255.5,256.66,
+bubble_hide,,,257.9,258.24,
+transition,17>18,xfade,263.261,263.761,
+framing,18,CARD,263.511,271.121,
+shot,18,WES_FULL,263.67,286.13,{}
+overlay_board,K02,KINETIC,265.551,276.772,"{""words"": [[""Have"", 275.301], [""you"", 275.441], [""ever"", 275.661], [""had"", 275.941], [""one"", 276.301], [""of"", 276.421], [""those"", 276.501], [""days"", 276.801], [""you"", 277.201], [""were"", 277.321], [""su"
+framing,18,CARD,271.121,275.662,
+broll,px28339282,pexels,275.662,278.272,cover P04 in + smear 286.7 (WES_FULL 18) / walked out of church (white steeple church)
+framing,18,CARD,278.272,281.363,
+broll,2041,mixkit,281.363,284.693,cover join P04 out (WES_FULL 18) / next ordinary day
+framing,18,CARD,284.693,285.873,
+transition,18>19,morph,285.523,286.223,
+shot,19,SPLIT,286.13,298.53,"{""rows"": [[""A big day can mark you."", 296.003], [""It can't give you a habit."", 298.083], [""Most days are just Tuesday."", 305.744]]}"
+overlay_board,K03,KINETIC,295.994,300.115,"{""words"": [[""Most"", 305.744], [""of"", 306.064], [""them"", 306.144], [""are"", 306.364], [""just"", 306.504], [""Tuesday."", 307.064], [""Jesus"", 308.404], [""put"", 308.845], [""it"", 309.005], [""this"", 309.125], "
+transition,19>20,dip,298.044,298.544,
+bubble_hide,,,298.18,299.34,
+shot,20,SCRIPTURE_BUBBLE,298.53,315.43,"{""ref"": [""Luke 16:10 (NIV)"", 310.165], ""verse"": [[""Whoever can be trusted with very little can also be trusted with much,"", 313.672], [""and whoever is dishonest with very little will also be dishonest"
+transition,20>21,push,314.526,315.026,
+shot,21,SCRIPTURE_BUBBLE,315.43,336.11,"{""ref"": [""Luke 16:10 (NIV)"", 325.19], ""verse"": [[""Whoever can be trusted with very little can also be trusted with much,"", 325.19], [""and whoever is dishonest with very little will also be dishonest w"
+transition,21>22,xfade,335.682,336.182,
+shot,22,SCRIPTURE_BUBBLE,336.11,360.04,"{""ref"": [""Luke 16:10 (NIV)"", 345.87], ""verse"": [[""Whoever can be trusted with very little can also be trusted with much,"", 345.87], [""and whoever is dishonest with very little will also be dishonest w"
+transition,22>23,push,359.619,360.119,
+framing,23,CARD,359.869,366.221,
+shot,23,WES_FULL,360.04,373.63,"{""callouts"": [[""The very little."", 377.571, [377.571, 377.831, 378.312]]]}"
+overlay_board,K04,KINETIC,360.159,364.7,"{""words"": [[""So"", 369.909], [""let"", 370.049], [""me"", 370.169], [""ask"", 370.369], [""you."", 370.649], [""Where"", 371.349], [""does"", 371.55], [""God"", 371.83], [""build"", 372.23], [""a"", 372.53], [""man?"", 37"
+broll,808,mixkit,366.221,369.212,cover P06 in (WES_FULL 23) / the plain one
+broll,18263,mixkit,369.212,373.06,cover smear 381.5 (WES_FULL 23) / the very little
+transition,23>24,dip,372.327,373.227,
+shot,24,TYPE_BOARD_BUBBLE,373.63,391.35,"{""kicker"": ""POINT 1"", ""rows"": [[""What a Tuesday is"", 384.92], [""Nothing on it worth dressing up for"", 391.761], [""The loudest thing in the house is your phone"", 397.982]], ""big_first"": true}"
+transition,24>25,xfade,390.962,391.462,
+shot,25,SPLIT,391.35,407.47,"{""rows"": [[""A small yes."", 402.703], [""Say it. Or swallow it."", 406.443], [""The name doesn't matter. The day does."", 413.684]]}"
+broll,248,mixkit,393.083,396.403,"cover join P07 out + smear 404.6 (SPLIT 25) / phone, small yes"
+overlay_board,K05,KINETIC,405.814,410.135,"{""words"": [[""The"", 415.564], [""day"", 415.804], [""does."", 416.164], [""I'll"", 417.344], [""tell"", 417.444], [""you"", 417.664], [""how"", 417.804], [""I"", 418.265], [""dodge"", 418.385], [""my"", 418.745], [""Tues"
+transition,25>26,hard,407.24,407.24,
+shot,26,SPLIT,407.47,425.5,"{""rows"": [[""How I dodge my Tuesdays."", 417.804], [""\""God, make me a better man.\"""", 423.565], [""Leaf blowers. 30 minutes."", 431.246], [""Reviews. Decibel ratings."", 432.566]]}"
+transition,26>27,morph,425.027,425.727,
+framing,27,CARD,425.377,431.678,
+shot,27,WES_FULL,425.5,438.06,{}
+framing,27,CARD,431.678,437.6,
+transition,27>28,hard,437.6,437.6,
+framing,28,CARD,437.6,443.34,
+shot,28,WES_FULL,438.06,449.74,{}
+broll,191,mixkit,443.34,448.26,story: daughter had a bike
+framing,28,CARD,448.26,449.53,
+transition,28>29,morph,449.18,449.88,
+shot,29,SPLIT,449.74,465.54,"{""rows"": [[""\""Dad, can we fix it? Together?\"""", 462.51], [""\""After supper.\"""", 469.731]]}"
+overlay_board,K06,KINETIC,462.682,467.232,"{""words"": [[""Right"", 472.432], [""then,"", 472.712], [""I"", 473.532], [""was"", 473.592], [""a"", 473.772], [""good"", 473.992], [""dad."", 474.312], [""We"", 475.412], [""ate."", 475.672], [""Then"", 476.512]], ""page"
+transition,29>30,hard,465.36,465.36,
+shot,30,SPLIT,465.54,488.99,"{""rows"": [[""Then I opened my laptop."", 476.512], [""One thing."", 483.78], [""It turned into the next thing."", 487.58], [""She rolled the bike out and went back to her homework."", 493.761]]}"
+broll,1808,mixkit,466.512,469.402,cover join P08 in (SPLIT 30) / opened my laptop
+broll,99909,mixkit,471.153,474.31,cover join P08 out + smear 482.3 (SPLIT 30) / one thing
+overlay_board,K07,KINETIC,485.591,490.512,"{""words"": [[""edge"", 495.341], [""of"", 495.561], [""the"", 495.641], [""patio"", 495.761], [""and"", 496.581], [""went"", 496.741], [""back"", 496.961], [""to"", 497.241], [""her"", 497.381], [""homework."", 497.561], "
+transition,30>31,morph,488.391,489.091,
+broll,px4297124,pexels,488.741,490.752,cover join P09 in + smear 499.8 (WES_FULL 31) / went back to her homework (girl writing)
+shot,31,WES_FULL,488.99,509.21,{}
+broll,px3051693,pexels,490.752,495.552,"cover smear 503.6 (WES_FULL 31) / late that night, porch light on (lit house at night)"
+framing,31,CARD,495.552,501.183,
+framing,31,CARD,501.183,508.96,
+transition,31>32,hard,508.96,508.96,
+framing,32,CARD,508.96,515.754,
+shot,32,WES_FULL,509.21,530.74,{}
+overlay_board,K08,KINETIC,509.333,512.574,"{""words"": [[""And"", 519.083], [""I"", 519.284], [""felt"", 519.384], [""useful."", 519.924], [""That's"", 521.144], [""a"", 521.404], [""dangerous"", 521.644]], ""pages"": [[[""And"", 519.083], [""I"", 519.284], [""felt"""
+framing,32,CARD,515.754,523.015,
+overlay_board,K09,KINETIC,521.515,525.475,"{""words"": [[""That"", 531.265], [""was"", 531.445], [""all"", 531.625], [""she"", 531.845], [""said."", 532.065], [""She'd"", 533.085], [""already"", 533.345], [""stopped"", 533.745], [""waiting"", 534.225], [""on"", 534"
+framing,32,CARD,523.015,530.096,
+transition,32>33,dip,529.645,530.546,
+shot,33,TYPE_BOARD_BUBBLE,530.74,547.64,"{""kicker"": ""PAUSE AND THINK"", ""rows"": [[""Yesterday"", 542.966], [""One small yes. A person, not a task."", 546.646], [""Said it, or swallowed it?"", 553.567]]}"
+bubble_hide,,,545.18,546.3,
+transition,33>34,push,546.787,547.287,
+shot,34,BRANDED_STILL_BUBBLE,547.64,560.9,"{""still"": ""lesson01"", ""rows"": [[""One word for where you went instead:"", 560.148], [""Phone \u00b7 Work \u00b7 Later \u00b7 Tired"", 565.028]]}"
+transition,34>35,xfade,560.509,561.009,
+shot,35,TYPE_BOARD_BUBBLE,560.9,575.75,"{""kicker"": ""PAUSE AND WRITE"", ""rows"": [[""Nobody else has to see it."", 570.769], [""Be honest with the page."", 572.689], [""Pause this and write it."", 575.129]]}"
+transition,35>36,push,574.633,575.133,
+shot,36,TYPE_BOARD_BUBBLE,575.75,594.93,"{""kicker"": ""POINT 2"", ""rows"": [[""Busy is not the same as there"", 586.117], [""\""I was busy, so I must have been there.\"""", 592.799], [""I wasn't there."", 602.981]], ""big_first"": true}"
+bubble_hide,,,592.72,595.02,
+broll,4809,mixkit,592.831,599.862,cover join P11 in (bubble 36 -> WES_FULL 37 transition) + story: busy is an easy place to hide
+transition,36>37,dip,594.421,594.921,
+shot,37,WES_FULL,594.93,611.55,{}
+framing,37,CARD,599.862,606.924,
+overlay_board,K10,KINETIC,603.953,609.254,"{""words"": [[""nobody"", 613.703], [""asks"", 614.243], [""questions."", 614.643], [""Least"", 615.963], [""of"", 616.283], [""all"", 616.444], [""you."", 616.704], [""Here's"", 617.884], [""another"", 618.144], [""one."""
+framing,37,CARD,606.924,611.284,
+transition,37>38,morph,610.934,611.635,
+shot,38,SPLIT,611.55,628.74,"{""rows"": [[""One sentence."", 624.445], [""The true sentence."", 634.907], [""The one that would cost me something."", 636.908]]}"
+broll,px8060562,pexels,615.84,620.447,"cover AUDIO CUT D ""for a week,"" (SPLIT 38) / short with her"
+transition,38>39,morph,628.178,628.878,
+framing,39,CARD,628.528,632.959,
+shot,39,WES_FULL,628.74,651.68,{}
+broll,42039,mixkit,632.959,639.411,story: pulled into the driveway
+framing,39,CARD,639.411,647.022,
+framing,39,CARD,647.022,650.423,
+broll,px5534367,pexels,650.423,653.244,cover join P12 in (WES_FULL 40) / an older man I trusted (white-haired man)
+transition,39>40,hard,651.24,651.24,
+shot,40,WES_FULL,651.68,674.08,"{""callouts"": [[""\""What couldn't they have hired out?\"""", 671.202, [671.202, 671.402, 672.242, 672.402, 672.582, 672.742]]]}"
+framing,40,CARD,653.244,660.732,
+framing,40,CARD,660.732,663.733,
+broll,39684,mixkit,663.733,666.713,cover join P12 out (WES_FULL 40) / could not have hired out
+framing,40,CARD,666.713,673.905,
+transition,40>41,morph,673.555,674.255,
+shot,41,SPLIT,674.08,688.52,"{""rows"": [[""A list, like homework."", 684.825], [""\""I didn't ask what you finished.\"""", 693.808], [""\""I asked where you were.\"""", 696.108]]}"
+transition,41>42,hard,687.84,687.84,
+shot,42,SPLIT,688.52,701.9,"{""rows"": [[""The hero of your to-do list."", 702.35], [""A stranger in your own house."", 704.39]]}"
+overlay_board,K11,KINETIC,691.259,695.881,"{""words"": [[""You"", 701.889], [""can"", 702.03], [""be"", 702.21], [""the"", 702.35], [""hero"", 702.55], [""of"", 703.07], [""your"", 703.21], [""to-do"", 703.39], [""list"", 703.83], [""and"", 704.27], [""a"", 704.39], "
+transition,42>43,morph,701.222,701.922,
+framing,43,CARD,701.572,709.174,
+shot,43,WES_FULL,701.9,708.93,{}
+shot,43c,COVER_BOARD,708.93,713.58,"{""rows"": [[""Work is good."", 720.034], [""It's about where you are while you do it."", 721.694]], ""full"": true}"
+transition,43>43c,xfade,708.934,709.414,
+transition,43c>43b,dip,713.435,713.855,
+shot,43b,WES_FULL,713.58,717.23,{}
+framing,43b,CARD,713.645,716.576,
+transition,43b>44,push,716.326,716.826,
+shot,44,TYPE_BOARD_BUBBLE,717.23,743.0,"{""kicker"": ""SO FAR"", ""rows"": [[""Decided on the days nobody photographs"", 730.777], [""God builds you in the very little"", 736.138], [""Busy is not the same as there"", 740.019]], ""chips"": true}"
+bubble_hide,,,723.06,724.36,
+bubble_hide,,,728.9,729.98,
+transition,44>45,xfade,741.895,742.395,
+bubble_hide,,,742.56,743.86,
+shot,45,TYPE_BOARD_BUBBLE,743.0,755.5,"{""kicker"": ""THE FIRST MARK"", ""big_idx"": 1, ""rows"": [[""Four marks of a steadfast man. Today, the first."", 759.25], [""Stop Waiting."", 764.491]], ""rule"": true}"
+transition,45>46,push,755.102,755.602,
+shot,46,SCRIPTURE_BUBBLE,755.5,777.27,"{""ref"": [""James 4:17 (NIV)"", 768.172], ""verse"": [[""If anyone, then, knows the good they ought to do and doesn't do it, it is sin for them."", 771.373]], ""hi"": ""knows the good"", ""hi_at"": 784.796}"
+transition,46>47,dip,776.867,777.367,
+shot,47,SCRIPTURE_BUBBLE,777.27,792.83,"{""ref"": [""James 4:17 (NIV)"", 787.91], ""verse"": [[""If anyone, then, knows the good they ought to do and doesn't do it, it is sin for them."", 787.91]], ""hi"": ""knows the good"", ""side"": [[""A better season"
+bubble_hide,,,784.38,785.42,
+transition,47>48,xfade,792.39,792.89,
+framing,48,CARD,792.64,799.242,
+shot,48,WES_FULL,792.83,810.53,{}
+broll,50754,mixkit,799.242,804.903,story: some morning I would wake up
+framing,48,CARD,804.903,810.074,
+transition,48>49,dip,809.624,810.524,
+shot,49,SCRIPTURE_BUBBLE,810.53,827.11,"{""ref"": [""1 Corinthians 13:11 (NIV)"", 822.925], ""verse"": [[""When I was a child, I talked like a child, I thought like a child, I reasoned like a child."", 825.885], [""When I became a man, I put the way"
+bubble_hide,,,821.06,822.56,
+transition,49>50,push,826.202,826.702,
+shot,50,SPLIT,827.11,845.15,"{""rows"": [[""Talked \u00b7 Thought \u00b7 Reasoned"", 839.595], [""All three are on the inside."", 847.377], [""A mortgage, a title, a good name, and still thinking like a boy."", 849.997]]}"
+overlay_board,K12,KINETIC,835.086,839.107,"{""words"": [[""I"", 845.716], [""had"", 845.776], [""toys."", 846.036], [""All"", 847.377], [""three"", 847.637], [""of"", 847.937], [""those"", 848.037], [""are"", 848.337], [""on"", 848.477], [""the"", 848.577], [""insid"
+transition,50>51,morph,844.578,845.278,
+framing,51,CARD,844.928,852.379,
+shot,51,WES_FULL,845.15,866.77,{}
+broll,50051,mixkit,852.379,855.409,cover P14 in (WES_FULL 51) / birthday
+framing,51,CARD,855.409,860.55,
+broll,4527,mixkit,860.55,863.321,cover join P14 out (WES_FULL 51) / a man's yes
+overlay_board,K13,KINETIC,862.691,870.712,"{""words"": [[""A"", 873.321], [""man's"", 873.481], [""yes"", 873.961], [""is"", 874.421], [""still"", 874.641], [""standing"", 875.021], [""after"", 875.661], [""the"", 875.921], [""feeling's"", 876.061], [""gone."", 876"
+framing,51,CARD,863.321,866.64,
+transition,51>52,hard,866.64,866.64,
+framing,52,CARD,866.64,872.912,
+shot,52,WES_FULL,866.77,885.75,"{""callouts"": [[""Rest is good."", 882.782, [882.782, 883.322, 883.582]], [""Waiting is something else."", 888.503, [888.503, 889.143, 889.323, 889.743]]]}"
+broll,px4052821,pexels,872.912,875.203,cover smear 884.7 (WES_FULL 52) / a nap is allowed (man resting on sofa; replaces bed clip with headboard line art)
+broll,100252,mixkit,875.203,878.463,cover smear 887.6 (WES_FULL 52) / quiet evening
+framing,52,CARD,878.463,885.094,
+transition,52>53,xfade,884.844,885.344,
+shot,53,TYPE_BOARD_BUBBLE,885.75,894.92,"{""kicker"": ""PAUSE AND WRITE"", ""rows"": [[""What are you waiting on?"", 897.765], [""A better job? A wife? A clearer head?"", 900.065], [""Your dad to finally say it?"", 903.605]]}"
+overlay_board,K14,KINETIC,892.975,898.596,"{""words"": [[""Your"", 903.605], [""dad"", 903.805], [""to"", 904.126], [""finally"", 904.266], [""say"", 904.726], [""it?"", 904.966], [""Write"", 905.666], [""it"", 905.966], [""under"", 906.106], [""your"", 906.346], ["
+transition,53>54,push,894.506,895.006,
+shot,54,SPLIT,894.92,909.4,"{""rows"": [[""Write it under your word."", 905.666], [""Mine to wait on?"", 915.087], [""Or mine to start?"", 916.968]]}"
+broll,99890,mixkit,897.286,899.86,cover join P16 out + smear 909.2 (SPLIT 54) / write it
+broll,51106,mixkit,905.667,908.561,cover smear 917.8 (SPLIT 54) / mine to start
+transition,54>55,hard,908.56,908.56,
+shot,55,SPLIT,909.4,928.07,"{""kicker"": ""REASON 1"", ""rows"": [[""You might already be arguing with me."", 920.155], [""\""I'm just tired.\"""", 927.417], [""I believe you."", 930.198]]}"
+transition,55>56,morph,927.5,928.2,
+framing,56,CARD,927.85,935.092,
+shot,56,WES_FULL,928.07,939.44,{}
+overlay_board,K15,KINETIC,934.652,939.643,"{""words"": [[""going"", 945.282], [""to"", 945.562], [""sleep"", 945.762], [""is"", 946.242], [""the"", 946.402], [""faithful"", 946.602], [""thing."", 947.102], [""But"", 948.042], [""if"", 948.162], [""you're"", 948.282"
+framing,56,CARD,935.092,939.643,
+shot,56c,COVER_BOARD,939.44,947.63,"{""rows"": [[""Don't borrow the tired man's excuse."", 950.463], [""God knows which one you are."", 953.324], [""So do you."", 956.705]], ""full"": true}"
+transition,56>56c,dip,939.443,939.843,
+transition,56c>57,xfade,946.935,947.435,
+shot,57,TYPE_BOARD_BUBBLE,947.63,961.22,"{""kicker"": ""REASON 2"", ""rows"": [[""\""Nobody ever showed me how.\"""", 959.805], [""Here, this is what a man does."", 969.028]]}"
+transition,57>58,dip,960.778,961.278,
+shot,58,SPLIT,961.22,979.17,"{""rows"": [[""I'm not blaming you."", 971.968], [""I put the ways of childhood behind me."", 982.651], [""The door's open."", 985.532]]}"
+transition,58>59,morph,978.307,979.007,
+framing,59,CARD,978.657,985.542,
+shot,59,WES_FULL,979.17,999.64,"{""callouts"": [[""Reason 3 \u00b7 \""I'm too old.\"""", 991.34, [991.34, 991.501, 991.901, 992.881, 993.021]]]}"
+framing,59,CARD,985.542,992.234,
+framing,59,CARD,992.234,999.456,
+transition,59>60,morph,999.106,999.806,
+shot,60,SPLIT,999.64,1011.61,"{""rows"": [[""He went anyway."", 1010.386], [""\""The boy didn't get the memo.\"""", 1020.389]]}"
+transition,60>60c,push,1011.36,1011.86,
+shot,60c,COVER_BOARD,1011.61,1017.68,"{""rows"": [[""The job might be over."", 1022.71], [""Being a man didn't clock out with it."", 1024.73]], ""big_idx"": 1, ""full"": true}"
+transition,60c>61,xfade,1016.981,1017.481,
+shot,61,SPLIT,1017.68,1043.56,"{""kicker"": ""REASON 4"", ""rows"": [[""\""I live alone.\"""", 1030.972], [""A brother \u00b7 A friend \u00b7 A kid at church"", 1038.034], [""He's seen your Tuesday already."", 1047.817]]}"
+overlay_board,K16,KINETIC,1020.342,1025.724,"{""words"": [[""I"", 1030.972], [""live"", 1031.072], [""alone."", 1031.232], [""Who"", 1032.233], [""am"", 1032.433], [""I"", 1032.593], [""even"", 1032.693], [""showing"", 1033.013], [""up"", 1033.413], [""for?\"""", 1033"
+broll,4720,mixkit,1032.336,1035.397,cover join P20 in borderline (SPLIT 61) / kid without a dad
+broll,px5029481,pexels,1038.438,1042.702,cover smears 1050.3/1052.0 (SPLIT 61) / show up for it (man tying his shoe)
+transition,61>62,push,1042.452,1042.952,
+shot,62,TYPE_BOARD_BUBBLE,1043.56,1066.92,"{""kicker"": ""A REAL MONDAY"", ""rows"": [[""What does this look like on a real Monday?"", 1054.306], [""Wake up: Who's mine today?"", 1064.408], [""Breakfast: put the cup down"", 1073.11]]}"
+transition,62>63,dip,1066.451,1066.951,
+shot,63,SPLIT,1066.92,1089.33,"{""rows"": [[""The drive: send the text"", 1077.671], [""Work: do the job well"", 1083.793], [""Home: the true sentence first"", 1090.214], [""All of it counts."", 1097.416]]}"
+transition,63>64,xfade,1088.426,1088.926,
+shot,64,TYPE_BOARD_BUBBLE,1089.33,1108.91,"{""kicker"": ""THE MOVE"", ""big_idx"": 1, ""rows"": [[""Your one move:"", 1101.317], [""One meal. Phone in another room."", 1105.618], [""Not in your pocket. In another room."", 1108.999]]}"
+broll,42982,mixkit,1092.637,1094.678,"cover AUDIO CUT ""This week,"" (bubble 64) / one meal"
+broll,144,mixkit,1107.691,1110.652,cover join P23 in (SPLIT 65) / text one man
+transition,64>65,dip,1108.421,1108.921,
+shot,65,SPLIT,1108.91,1126.62,"{""rows"": [[""Text one man you trust:"", 1122.902], [""\""What did you do with your Tuesday?\"""", 1126.203], [""Send it before you turn this off."", 1130.184]]}"
+broll,4915,mixkit,1114.803,1118.26,cover smear 1128.9 (SPLIT 65) / send it
+transition,65>66,push,1125.905,1126.405,
+shot,66,TYPE_BOARD_BUBBLE,1126.62,1148.91,"{""kicker"": ""PAUSE AND WRITE"", ""rows"": [[""My next move on a Tuesday is ..."", 1142.927], [""Day: ______"", 1145.967], [""Meal: ______"", 1147.348], [""Name: ______"", 1148.928]]}"
+bubble_hide,,,1146.86,1147.94,
+transition,66>67,xfade,1148.207,1148.707,
+shot,67,TYPE_BOARD_BUBBLE,1148.91,1166.47,"{""kicker"": ""ONE MORE TIME"", ""rows"": [[""A man's life gets decided on the days nobody photographs."", 1163.338], [""God builds you in the very little."", 1168.119], [""Busy is not the same as there."", 1171."
+bubble_hide,,,1165.06,1166.1,
+transition,67>68,push,1166.091,1166.591,
+framing,68,CARD,1166.341,1173.853,
+shot,68,WES_FULL,1166.47,1182.25,{}
+framing,68,CARD,1173.853,1179.825,
+framing,68,CARD,1179.825,1182.115,
+transition,68>69,morph,1181.765,1182.465,
+shot,69,SPLIT,1182.25,1197.58,"{""rows"": [[""You belong to Him."", 1196.266], [""You're still welcome here."", 1201.927], [""Start with one honest day."", 1203.627]]}"
+overlay_board,K17,KINETIC,1189.977,1193.958,"{""words"": [[""you're"", 1201.927], [""still"", 1202.127], [""welcome"", 1202.427], [""here."", 1202.867], [""Start"", 1203.627], [""with"", 1204.047], [""one"", 1204.467], [""honest"", 1204.848], [""day."", 1205.348]],"
+transition,69>70,hard,1197.12,1197.12,
+shot,70,SPLIT,1197.58,1212.22,"{""rows"": [[""That's where your Tuesday goes missing."", 1212.009], [""Go show up for it."", 1214.47], [""Next lesson: why a good man keeps waiting."", 1216.81]]}"
+overlay_board,K18,KINETIC,1207.441,1211.94,"{""words"": [[""hard."", 1219.391], [""Why"", 1220.291], [""a"", 1220.551], [""good"", 1220.711], [""man"", 1221.011], [""keeps"", 1221.331], [""waiting,"", 1221.711], [""even"", 1222.431], [""when"", 1222.752], [""he"", 1"
+transition,70>71,morph,1211.732,1212.432,
+framing,71,CARD,1212.082,1219.293,
+shot,71,WES_FULL,1212.22,1221.51,"{""close"": [[""That was your first yes."", 1228.173], [""Don't waste it."", 1230.133]]}"
+framing,71,CARD,1219.293,1221.41,
+transition,71>72,dip,1221.16,1221.66,
+shot,72,LOGO_END,1221.51,1225.31,{}

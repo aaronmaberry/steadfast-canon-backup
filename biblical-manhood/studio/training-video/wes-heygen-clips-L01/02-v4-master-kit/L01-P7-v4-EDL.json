@@ -1,0 +1,6983 @@
+{
+ "fps": 25,
+ "end_src": 1237.27,
+ "shots": [
+  {
+   "id": "1",
+   "kind": "TITLE_CARD",
+   "t0": 0.0,
+   "t1": 10.11,
+   "spec": {
+    "kicker": "STEADFAST MEN",
+    "kat": [
+     "k",
+     1.741
+    ],
+    "lat": [
+     "Lesson 1",
+     4.262
+    ],
+    "title": [
+     "A Quiet Tuesday",
+     8.123
+    ]
+   },
+   "t1x": 9.933,
+   "t0x": 0
+  },
+  {
+   "id": "2",
+   "kind": "AGENDA",
+   "t0": 10.11,
+   "t1": 38.6,
+   "spec": {
+    "kicker": "TODAY",
+    "rows": [
+     [
+      "What a Tuesday is, and the very little",
+      12.784
+     ],
+     [
+      "Busy is not the same as there",
+      20.086
+     ],
+     [
+      "The first mark: Stop Waiting",
+      25.227
+     ],
+     [
+      "Your reasons for waiting, and one move",
+      31.908
+     ]
+    ],
+    "chips": true
+   },
+   "t0x": 9.933,
+   "t1x": 38.15
+  },
+  {
+   "id": "3",
+   "kind": "SPLIT",
+   "t0": 38.6,
+   "t1": 52.0,
+   "spec": {
+    "lt": [
+     "Wes Hart",
+     38.71
+    ],
+    "rows": [
+     [
+      "Husband",
+      41.13
+     ],
+     [
+      "Dad",
+      42.351
+     ],
+     [
+      "A job, same as you",
+      45.932
+     ],
+     [
+      "Your teacher for 24 lessons",
+      49.993
+     ]
+    ],
+    "chips": true
+   },
+   "t0x": 38.15,
+   "t1x": 51.413
+  },
+  {
+   "id": "4",
+   "kind": "WES_FULL",
+   "t0": 52.0,
+   "t1": 71.11,
+   "spec": {},
+   "t0x": 51.413,
+   "t1x": 70.9975
+  },
+  {
+   "id": "5",
+   "kind": "TYPE_BOARD_BUBBLE",
+   "t0": 71.11,
+   "t1": 87.04,
+   "spec": {
+    "big_idx": 1,
+    "rows": [
+     [
+      "Only going to check this out.",
+      76.779
+     ],
+     [
+      "Just looking. No promises.",
+      78.779
+     ],
+     [
+      "I started out that way too.",
+      83.447
+     ]
+    ]
+   },
+   "t0x": 70.9975,
+   "t1x": 86.798
+  },
+  {
+   "id": "6",
+   "kind": "TYPE_BOARD_BUBBLE",
+   "t0": 87.04,
+   "t1": 107.92,
+   "spec": {
+    "kicker": "YOU'RE ON TIME",
+    "rows": [
+     [
+      "One thing from me.",
+      88.909
+     ],
+     [
+      "Young",
+      94.11
+     ],
+     [
+      "You're on time.",
+      99.511
+     ],
+     [
+      "Married",
+      101.612
+     ],
+     [
+      "You're on time.",
+      104.733
+     ]
+    ]
+   },
+   "t0x": 86.798,
+   "t1x": 107.673
+  },
+  {
+   "id": "7",
+   "kind": "SPLIT",
+   "t0": 107.92,
+   "t1": 124.77,
+   "spec": {
+    "rows": [
+     [
+      "Divorced, still a dad",
+      108.033
+     ],
+     [
+      "Figured it was for somebody younger",
+      115.635
+     ],
+     [
+      "This is yours.",
+      122.337
+     ]
+    ]
+   },
+   "t0x": 107.673,
+   "t1x": 124.157
+  },
+  {
+   "id": "8",
+   "kind": "WES_FULL",
+   "t0": 124.77,
+   "t1": 143.73,
+   "spec": {
+    "callouts": [
+     [
+      "Something true \u00b7 where it shows up \u00b7 one thing to do",
+      135.28,
+      [
+       135.28,
+       135.78,
+       136.94,
+       137.1,
+       137.401,
+       137.561,
+       137.761,
+       137.921,
+       138.321,
+       138.521
+      ]
+     ]
+    ]
+   },
+   "t0x": 124.157,
+   "t1x": 143.262
+  },
+  {
+   "id": "9",
+   "kind": "SPLIT",
+   "t0": 143.73,
+   "t1": 164.06,
+   "spec": {
+    "rows": [
+     [
+      "You and I",
+      146.523
+     ],
+     [
+      "24 lessons. One at a time.",
+      149.624
+     ]
+    ],
+    "big_idx": 1
+   },
+   "t0x": 143.262,
+   "t1x": 163.887
+  },
+  {
+   "id": "10",
+   "kind": "TYPE_BOARD_BUBBLE",
+   "t0": 164.06,
+   "t1": 207.77,
+   "spec": {
+    "kicker": "HOW EACH LESSON WORKS",
+    "rows": [
+     [
+      "I teach",
+      164.167
+     ],
+     [
+      "You stop and write",
+      176.317
+     ],
+     [
+      "One move. Not a list.",
+      190.64
+     ]
+    ],
+    "chips": true,
+    "inset": [
+     "workbook",
+     167.72,
+     175.97
+    ],
+    "maxw": 760
+   },
+   "t0x": 163.887,
+   "t1x": 207.573
+  },
+  {
+   "id": "14",
+   "kind": "SPLIT",
+   "t0": 207.77,
+   "t1": 222.52,
+   "spec": {
+    "rows": [
+     [
+      "A list on Sunday.",
+      207.883
+     ],
+     [
+      "On the floor of the truck by Wednesday.",
+      210.464
+     ],
+     [
+      "One move you can actually do.",
+      214.965
+     ]
+    ]
+   },
+   "t0x": 207.573,
+   "t1x": 222.376
+  },
+  {
+   "id": "15",
+   "kind": "WES_FULL",
+   "t0": 222.52,
+   "t1": 239.57,
+   "spec": {
+    "callouts": [
+     [
+      "Show up.",
+      229.488,
+      [
+       229.488,
+       229.848
+      ]
+     ],
+     [
+      "Tell the truth.",
+      230.488,
+      [
+       230.488,
+       230.788,
+       230.948
+      ]
+     ],
+     [
+      "Do the move.",
+      231.768,
+      [
+       231.768,
+       232.028,
+       232.169
+      ]
+     ]
+    ]
+   },
+   "t0x": 222.376,
+   "t1x": 238.7235
+  },
+  {
+   "id": "16",
+   "kind": "TYPE_BOARD_BUBBLE",
+   "t0": 239.57,
+   "t1": 257.37,
+   "spec": {
+    "kicker": "THE BIG IDEA",
+    "big_idx": 1,
+    "rows": [
+     [
+      "If you only remember one sentence:",
+      242.277
+     ],
+     [
+      "A man's life gets decided on the days nobody photographs.",
+      246.438
+     ]
+    ]
+   },
+   "t0x": 238.7235,
+   "t1x": 257.099
+  },
+  {
+   "id": "17",
+   "kind": "BRANDED_STILL_BUBBLE",
+   "t0": 257.37,
+   "t1": 273.43,
+   "spec": {
+    "kicker": "THE DAYS THAT GET PHOTOGRAPHED",
+    "rows": [
+     [
+      "Your wedding",
+      260.519
+     ],
+     [
+      "A baby",
+      261.599
+     ],
+     [
+      "A new job",
+      262.66
+     ],
+     [
+      "A retreat",
+      263.98
+     ]
+    ]
+   },
+   "t0x": 257.099,
+   "t1x": 273.271
+  },
+  {
+   "id": "18",
+   "kind": "WES_FULL",
+   "t0": 273.43,
+   "t1": 295.89,
+   "spec": {},
+   "t0x": 273.271,
+   "t1x": 295.63300000000004
+  },
+  {
+   "id": "19",
+   "kind": "SPLIT",
+   "t0": 295.89,
+   "t1": 308.29,
+   "spec": {
+    "rows": [
+     [
+      "A big day can mark you.",
+      296.003
+     ],
+     [
+      "It can't give you a habit.",
+      298.083
+     ],
+     [
+      "Most days are just Tuesday.",
+      305.744
+     ]
+    ]
+   },
+   "t0x": 295.63300000000004,
+   "t1x": 308.054
+  },
+  {
+   "id": "20",
+   "kind": "SCRIPTURE_BUBBLE",
+   "t0": 308.29,
+   "t1": 325.19,
+   "spec": {
+    "ref": [
+     "Luke 16:10 (NIV)",
+     310.165
+    ],
+    "verse": [
+     [
+      "Whoever can be trusted with very little can also be trusted with much,",
+      313.672
+     ],
+     [
+      "and whoever is dishonest with very little will also be dishonest with much.",
+      318.994
+     ]
+    ],
+    "hi": "very little"
+   },
+   "t0x": 308.054,
+   "t1x": 324.5355
+  },
+  {
+   "id": "21",
+   "kind": "SCRIPTURE_BUBBLE",
+   "t0": 325.19,
+   "t1": 345.87,
+   "spec": {
+    "ref": [
+     "Luke 16:10 (NIV)",
+     325.19
+    ],
+    "verse": [
+     [
+      "Whoever can be trusted with very little can also be trusted with much,",
+      325.19
+     ],
+     [
+      "and whoever is dishonest with very little will also be dishonest with much.",
+      325.19
+     ]
+    ],
+    "hi": "very little",
+    "hi_at": 344.381
+   },
+   "t0x": 324.5355,
+   "t1x": 345.692
+  },
+  {
+   "id": "22",
+   "kind": "SCRIPTURE_BUBBLE",
+   "t0": 345.87,
+   "t1": 369.8,
+   "spec": {
+    "ref": [
+     "Luke 16:10 (NIV)",
+     345.87
+    ],
+    "verse": [
+     [
+      "Whoever can be trusted with very little can also be trusted with much,",
+      345.87
+     ],
+     [
+      "and whoever is dishonest with very little will also be dishonest with much.",
+      345.87
+     ]
+    ],
+    "hi": "very little",
+    "side": [
+     [
+      "Trusted in little, trusted in much.",
+      357.565
+     ],
+     [
+      "Dishonest in little, dishonest in much.",
+      360.766
+     ]
+    ]
+   },
+   "t0x": 345.692,
+   "t1x": 369.629
+  },
+  {
+   "id": "23",
+   "kind": "WES_FULL",
+   "t0": 369.8,
+   "t1": 383.39,
+   "spec": {
+    "callouts": [
+     [
+      "The very little.",
+      377.571,
+      [
+       377.571,
+       377.831,
+       378.312
+      ]
+     ]
+    ]
+   },
+   "t0x": 369.629,
+   "t1x": 382.53650000000005
+  },
+  {
+   "id": "24",
+   "kind": "TYPE_BOARD_BUBBLE",
+   "t0": 383.39,
+   "t1": 401.11,
+   "spec": {
+    "kicker": "POINT 1",
+    "rows": [
+     [
+      "What a Tuesday is",
+      384.92
+     ],
+     [
+      "Nothing on it worth dressing up for",
+      391.761
+     ],
+     [
+      "The loudest thing in the house is your phone",
+      397.982
+     ]
+    ],
+    "big_first": true
+   },
+   "t0x": 382.53650000000005,
+   "t1x": 400.972
+  },
+  {
+   "id": "25",
+   "kind": "SPLIT",
+   "t0": 401.11,
+   "t1": 417.23,
+   "spec": {
+    "rows": [
+     [
+      "A small yes.",
+      402.703
+     ],
+     [
+      "Say it. Or swallow it.",
+      406.443
+     ],
+     [
+      "The name doesn't matter. The day does.",
+      413.684
+     ]
+    ]
+   },
+   "t0x": 400.972,
+   "t1x": 417.0
+  },
+  {
+   "id": "26",
+   "kind": "SPLIT",
+   "t0": 417.23,
+   "t1": 435.26,
+   "spec": {
+    "rows": [
+     [
+      "How I dodge my Tuesdays.",
+      417.804
+     ],
+     [
+      "\"God, make me a better man.\"",
+      423.565
+     ],
+     [
+      "Leaf blowers. 30 minutes.",
+      431.246
+     ],
+     [
+      "Reviews. Decibel ratings.",
+      432.566
+     ]
+    ]
+   },
+   "t0x": 417.0,
+   "t1x": 435.137
+  },
+  {
+   "id": "27",
+   "kind": "WES_FULL",
+   "t0": 435.26,
+   "t1": 447.82,
+   "spec": {},
+   "t0x": 435.137,
+   "t1x": 447.36
+  },
+  {
+   "id": "28",
+   "kind": "WES_FULL",
+   "t0": 447.82,
+   "t1": 459.5,
+   "spec": {},
+   "t0x": 447.36,
+   "t1x": 459.28999999999996
+  },
+  {
+   "id": "29",
+   "kind": "SPLIT",
+   "t0": 459.5,
+   "t1": 475.3,
+   "spec": {
+    "rows": [
+     [
+      "\"Dad, can we fix it? Together?\"",
+      462.51
+     ],
+     [
+      "\"After supper.\"",
+      469.731
+     ]
+    ]
+   },
+   "t0x": 459.28999999999996,
+   "t1x": 475.12
+  },
+  {
+   "id": "30",
+   "kind": "SPLIT",
+   "t0": 475.3,
+   "t1": 498.75,
+   "spec": {
+    "rows": [
+     [
+      "Then I opened my laptop.",
+      476.512
+     ],
+     [
+      "One thing.",
+      483.78
+     ],
+     [
+      "It turned into the next thing.",
+      487.58
+     ],
+     [
+      "She rolled the bike out and went back to her homework.",
+      493.761
+     ]
+    ]
+   },
+   "t0x": 475.12,
+   "t1x": 498.50149999999996
+  },
+  {
+   "id": "31",
+   "kind": "WES_FULL",
+   "t0": 498.75,
+   "t1": 518.97,
+   "spec": {},
+   "t0x": 498.50149999999996,
+   "t1x": 518.72
+  },
+  {
+   "id": "32",
+   "kind": "WES_FULL",
+   "t0": 518.97,
+   "t1": 540.5,
+   "spec": {},
+   "t0x": 518.72,
+   "t1x": 539.8555
+  },
+  {
+   "id": "33",
+   "kind": "TYPE_BOARD_BUBBLE",
+   "t0": 540.5,
+   "t1": 557.4,
+   "spec": {
+    "kicker": "PAUSE AND THINK",
+    "rows": [
+     [
+      "Yesterday",
+      542.966
+     ],
+     [
+      "One small yes. A person, not a task.",
+      546.646
+     ],
+     [
+      "Said it, or swallowed it?",
+      553.567
+     ]
+    ]
+   },
+   "t0x": 539.8555,
+   "t1x": 556.797
+  },
+  {
+   "id": "34",
+   "kind": "BRANDED_STILL_BUBBLE",
+   "t0": 557.4,
+   "t1": 570.66,
+   "spec": {
+    "still": "lesson01",
+    "rows": [
+     [
+      "One word for where you went instead:",
+      560.148
+     ],
+     [
+      "Phone \u00b7 Work \u00b7 Later \u00b7 Tired",
+      565.028
+     ]
+    ]
+   },
+   "t0x": 556.797,
+   "t1x": 570.519
+  },
+  {
+   "id": "35",
+   "kind": "TYPE_BOARD_BUBBLE",
+   "t0": 570.66,
+   "t1": 585.51,
+   "spec": {
+    "kicker": "PAUSE AND WRITE",
+    "rows": [
+     [
+      "Nobody else has to see it.",
+      570.769
+     ],
+     [
+      "Be honest with the page.",
+      572.689
+     ],
+     [
+      "Pause this and write it.",
+      575.129
+     ]
+    ]
+   },
+   "t0x": 570.519,
+   "t1x": 584.6434999999999
+  },
+  {
+   "id": "36",
+   "kind": "TYPE_BOARD_BUBBLE",
+   "t0": 585.51,
+   "t1": 604.69,
+   "spec": {
+    "kicker": "POINT 2",
+    "rows": [
+     [
+      "Busy is not the same as there",
+      586.117
+     ],
+     [
+      "\"I was busy, so I must have been there.\"",
+      592.799
+     ],
+     [
+      "I wasn't there.",
+      602.981
+     ]
+    ],
+    "big_first": true
+   },
+   "t0x": 584.6434999999999,
+   "t1x": 604.431
+  },
+  {
+   "id": "37",
+   "kind": "WES_FULL",
+   "t0": 604.69,
+   "t1": 621.31,
+   "spec": {},
+   "t0x": 604.431,
+   "t1x": 621.0445
+  },
+  {
+   "id": "38",
+   "kind": "SPLIT",
+   "t0": 621.31,
+   "t1": 639.38,
+   "spec": {
+    "rows": [
+     [
+      "One sentence.",
+      624.445
+     ],
+     [
+      "The true sentence.",
+      634.907
+     ],
+     [
+      "The one that would cost me something.",
+      636.908
+     ]
+    ]
+   },
+   "t0x": 621.0445,
+   "t1x": 639.168
+  },
+  {
+   "id": "39",
+   "kind": "WES_FULL",
+   "t0": 639.38,
+   "t1": 662.32,
+   "spec": {},
+   "t0x": 639.168,
+   "t1x": 661.88
+  },
+  {
+   "id": "40",
+   "kind": "WES_FULL",
+   "t0": 662.32,
+   "t1": 684.72,
+   "spec": {
+    "callouts": [
+     [
+      "\"What couldn't they have hired out?\"",
+      671.202,
+      [
+       671.202,
+       671.402,
+       672.242,
+       672.402,
+       672.582,
+       672.742
+      ]
+     ]
+    ]
+   },
+   "t0x": 661.88,
+   "t1x": 684.5450000000001
+  },
+  {
+   "id": "41",
+   "kind": "SPLIT",
+   "t0": 684.72,
+   "t1": 699.16,
+   "spec": {
+    "rows": [
+     [
+      "A list, like homework.",
+      684.825
+     ],
+     [
+      "\"I didn't ask what you finished.\"",
+      693.808
+     ],
+     [
+      "\"I asked where you were.\"",
+      696.108
+     ]
+    ]
+   },
+   "t0x": 684.5450000000001,
+   "t1x": 698.48
+  },
+  {
+   "id": "42",
+   "kind": "SPLIT",
+   "t0": 699.16,
+   "t1": 712.54,
+   "spec": {
+    "rows": [
+     [
+      "The hero of your to-do list.",
+      702.35
+     ],
+     [
+      "A stranger in your own house.",
+      704.39
+     ]
+    ]
+   },
+   "t0x": 698.48,
+   "t1x": 712.212
+  },
+  {
+   "id": "43",
+   "kind": "WES_FULL",
+   "t0": 712.54,
+   "t1": 719.57,
+   "spec": {},
+   "t0x": 712.212,
+   "t1x": 719.8140000000001
+  },
+  {
+   "id": "43c",
+   "kind": "COVER_BOARD",
+   "t0": 719.57,
+   "t1": 724.22,
+   "spec": {
+    "rows": [
+     [
+      "Work is good.",
+      720.034
+     ],
+     [
+      "It's about where you are while you do it.",
+      721.694
+     ]
+    ],
+    "full": true
+   },
+   "t0x": 719.8140000000001,
+   "t1x": 724.2850000000001
+  },
+  {
+   "id": "43b",
+   "kind": "WES_FULL",
+   "t0": 724.22,
+   "t1": 727.87,
+   "spec": {},
+   "t0x": 724.2850000000001,
+   "t1x": 727.2155
+  },
+  {
+   "id": "44",
+   "kind": "TYPE_BOARD_BUBBLE",
+   "t0": 727.87,
+   "t1": 753.64,
+   "spec": {
+    "kicker": "SO FAR",
+    "rows": [
+     [
+      "Decided on the days nobody photographs",
+      730.777
+     ],
+     [
+      "God builds you in the very little",
+      736.138
+     ],
+     [
+      "Busy is not the same as there",
+      740.019
+     ]
+    ],
+    "chips": true
+   },
+   "t0x": 727.2155,
+   "t1x": 752.7855
+  },
+  {
+   "id": "45",
+   "kind": "TYPE_BOARD_BUBBLE",
+   "t0": 753.64,
+   "t1": 766.14,
+   "spec": {
+    "kicker": "THE FIRST MARK",
+    "big_idx": 1,
+    "rows": [
+     [
+      "Four marks of a steadfast man. Today, the first.",
+      759.25
+     ],
+     [
+      "Stop Waiting.",
+      764.491
+     ]
+    ],
+    "rule": true
+   },
+   "t0x": 752.7855,
+   "t1x": 765.992
+  },
+  {
+   "id": "46",
+   "kind": "SCRIPTURE_BUBBLE",
+   "t0": 766.14,
+   "t1": 787.91,
+   "spec": {
+    "ref": [
+     "James 4:17 (NIV)",
+     768.172
+    ],
+    "verse": [
+     [
+      "If anyone, then, knows the good they ought to do and doesn't do it, it is sin for them.",
+      771.373
+     ]
+    ],
+    "hi": "knows the good",
+    "hi_at": 784.796
+   },
+   "t0x": 765.992,
+   "t1x": 787.757
+  },
+  {
+   "id": "47",
+   "kind": "SCRIPTURE_BUBBLE",
+   "t0": 787.91,
+   "t1": 803.47,
+   "spec": {
+    "ref": [
+     "James 4:17 (NIV)",
+     787.91
+    ],
+    "verse": [
+     [
+      "If anyone, then, knows the good they ought to do and doesn't do it, it is sin for them.",
+      787.91
+     ]
+    ],
+    "hi": "knows the good",
+    "side": [
+     [
+      "A better season",
+      798.539
+     ],
+     [
+      "Feeling ready",
+      800.28
+     ],
+     [
+      "After supper",
+      801.96
+     ]
+    ]
+   },
+   "t0x": 787.757,
+   "t1x": 803.28
+  },
+  {
+   "id": "48",
+   "kind": "WES_FULL",
+   "t0": 803.47,
+   "t1": 821.17,
+   "spec": {},
+   "t0x": 803.28,
+   "t1x": 820.7139999999999
+  },
+  {
+   "id": "49",
+   "kind": "SCRIPTURE_BUBBLE",
+   "t0": 821.17,
+   "t1": 837.75,
+   "spec": {
+    "ref": [
+     "1 Corinthians 13:11 (NIV)",
+     822.925
+    ],
+    "verse": [
+     [
+      "When I was a child, I talked like a child, I thought like a child, I reasoned like a child.",
+      825.885
+     ],
+     [
+      "When I became a man, I put the ways of childhood behind me.",
+      832.467
+     ]
+    ]
+   },
+   "t0x": 820.7139999999999,
+   "t1x": 837.0915
+  },
+  {
+   "id": "50",
+   "kind": "SPLIT",
+   "t0": 837.75,
+   "t1": 855.79,
+   "spec": {
+    "rows": [
+     [
+      "Talked \u00b7 Thought \u00b7 Reasoned",
+      839.595
+     ],
+     [
+      "All three are on the inside.",
+      847.377
+     ],
+     [
+      "A mortgage, a title, a good name, and still thinking like a boy.",
+      849.997
+     ]
+    ]
+   },
+   "t0x": 837.0915,
+   "t1x": 855.568
+  },
+  {
+   "id": "51",
+   "kind": "WES_FULL",
+   "t0": 855.79,
+   "t1": 877.41,
+   "spec": {},
+   "t0x": 855.568,
+   "t1x": 877.28
+  },
+  {
+   "id": "52",
+   "kind": "WES_FULL",
+   "t0": 877.41,
+   "t1": 896.39,
+   "spec": {
+    "callouts": [
+     [
+      "Rest is good.",
+      882.782,
+      [
+       882.782,
+       883.322,
+       883.582
+      ]
+     ],
+     [
+      "Waiting is something else.",
+      888.503,
+      [
+       888.503,
+       889.143,
+       889.323,
+       889.743
+      ]
+     ]
+    ]
+   },
+   "t0x": 877.28,
+   "t1x": 895.7339999999999
+  },
+  {
+   "id": "53",
+   "kind": "TYPE_BOARD_BUBBLE",
+   "t0": 896.39,
+   "t1": 905.56,
+   "spec": {
+    "kicker": "PAUSE AND WRITE",
+    "rows": [
+     [
+      "What are you waiting on?",
+      897.765
+     ],
+     [
+      "A better job? A wife? A clearer head?",
+      900.065
+     ],
+     [
+      "Your dad to finally say it?",
+      903.605
+     ]
+    ]
+   },
+   "t0x": 895.7339999999999,
+   "t1x": 905.396
+  },
+  {
+   "id": "54",
+   "kind": "SPLIT",
+   "t0": 905.56,
+   "t1": 920.04,
+   "spec": {
+    "rows": [
+     [
+      "Write it under your word.",
+      905.666
+     ],
+     [
+      "Mine to wait on?",
+      915.087
+     ],
+     [
+      "Or mine to start?",
+      916.968
+     ]
+    ]
+   },
+   "t0x": 905.396,
+   "t1x": 919.2
+  },
+  {
+   "id": "55",
+   "kind": "SPLIT",
+   "t0": 920.04,
+   "t1": 938.71,
+   "spec": {
+    "kicker": "REASON 1",
+    "rows": [
+     [
+      "You might already be arguing with me.",
+      920.155
+     ],
+     [
+      "\"I'm just tired.\"",
+      927.417
+     ],
+     [
+      "I believe you.",
+      930.198
+     ]
+    ]
+   },
+   "t0x": 919.2,
+   "t1x": 938.49
+  },
+  {
+   "id": "56",
+   "kind": "WES_FULL",
+   "t0": 938.71,
+   "t1": 950.08,
+   "spec": {},
+   "t0x": 938.49,
+   "t1x": 950.2829999999999
+  },
+  {
+   "id": "56c",
+   "kind": "COVER_BOARD",
+   "t0": 950.08,
+   "t1": 958.27,
+   "spec": {
+    "rows": [
+     [
+      "Don't borrow the tired man's excuse.",
+      950.463
+     ],
+     [
+      "God knows which one you are.",
+      953.324
+     ],
+     [
+      "So do you.",
+      956.705
+     ]
+    ],
+    "full": true
+   },
+   "t0x": 950.2829999999999,
+   "t1x": 957.825
+  },
+  {
+   "id": "57",
+   "kind": "TYPE_BOARD_BUBBLE",
+   "t0": 958.27,
+   "t1": 971.86,
+   "spec": {
+    "kicker": "REASON 2",
+    "rows": [
+     [
+      "\"Nobody ever showed me how.\"",
+      959.805
+     ],
+     [
+      "Here, this is what a man does.",
+      969.028
+     ]
+    ]
+   },
+   "t0x": 957.825,
+   "t1x": 971.668
+  },
+  {
+   "id": "58",
+   "kind": "SPLIT",
+   "t0": 971.86,
+   "t1": 989.81,
+   "spec": {
+    "rows": [
+     [
+      "I'm not blaming you.",
+      971.968
+     ],
+     [
+      "I put the ways of childhood behind me.",
+      982.651
+     ],
+     [
+      "The door's open.",
+      985.532
+     ]
+    ]
+   },
+   "t0x": 971.668,
+   "t1x": 989.2965
+  },
+  {
+   "id": "59",
+   "kind": "WES_FULL",
+   "t0": 989.81,
+   "t1": 1010.28,
+   "spec": {
+    "callouts": [
+     [
+      "Reason 3 \u00b7 \"I'm too old.\"",
+      991.34,
+      [
+       991.34,
+       991.501,
+       991.901,
+       992.881,
+       993.021
+      ]
+     ]
+    ]
+   },
+   "t0x": 989.2965,
+   "t1x": 1010.096
+  },
+  {
+   "id": "60",
+   "kind": "SPLIT",
+   "t0": 1010.28,
+   "t1": 1022.25,
+   "spec": {
+    "rows": [
+     [
+      "He went anyway.",
+      1010.386
+     ],
+     [
+      "\"The boy didn't get the memo.\"",
+      1020.389
+     ]
+    ]
+   },
+   "t0x": 1010.096,
+   "t1x": 1022.2495
+  },
+  {
+   "id": "60c",
+   "kind": "COVER_BOARD",
+   "t0": 1022.25,
+   "t1": 1028.32,
+   "spec": {
+    "rows": [
+     [
+      "The job might be over.",
+      1022.71
+     ],
+     [
+      "Being a man didn't clock out with it.",
+      1024.73
+     ]
+    ],
+    "big_idx": 1,
+    "full": true
+   },
+   "t0x": 1022.2495,
+   "t1x": 1027.871
+  },
+  {
+   "id": "61",
+   "kind": "SPLIT",
+   "t0": 1028.32,
+   "t1": 1054.2,
+   "spec": {
+    "kicker": "REASON 4",
+    "rows": [
+     [
+      "\"I live alone.\"",
+      1030.972
+     ],
+     [
+      "A brother \u00b7 A friend \u00b7 A kid at church",
+      1038.034
+     ],
+     [
+      "He's seen your Tuesday already.",
+      1047.817
+     ]
+    ]
+   },
+   "t0x": 1027.871,
+   "t1x": 1053.3425
+  },
+  {
+   "id": "62",
+   "kind": "TYPE_BOARD_BUBBLE",
+   "t0": 1054.2,
+   "t1": 1077.56,
+   "spec": {
+    "kicker": "A REAL MONDAY",
+    "rows": [
+     [
+      "What does this look like on a real Monday?",
+      1054.306
+     ],
+     [
+      "Wake up: Who's mine today?",
+      1064.408
+     ],
+     [
+      "Breakfast: put the cup down",
+      1073.11
+     ]
+    ]
+   },
+   "t0x": 1053.3425,
+   "t1x": 1077.341
+  },
+  {
+   "id": "63",
+   "kind": "SPLIT",
+   "t0": 1077.56,
+   "t1": 1099.97,
+   "spec": {
+    "rows": [
+     [
+      "The drive: send the text",
+      1077.671
+     ],
+     [
+      "Work: do the job well",
+      1083.793
+     ],
+     [
+      "Home: the true sentence first",
+      1090.214
+     ],
+     [
+      "All of it counts.",
+      1097.416
+     ]
+    ]
+   },
+   "t0x": 1077.341,
+   "t1x": 1099.3165
+  },
+  {
+   "id": "64",
+   "kind": "TYPE_BOARD_BUBBLE",
+   "t0": 1099.97,
+   "t1": 1120.87,
+   "spec": {
+    "kicker": "THE MOVE",
+    "big_idx": 1,
+    "rows": [
+     [
+      "Your one move:",
+      1101.317
+     ],
+     [
+      "One meal. Phone in another room.",
+      1105.618
+     ],
+     [
+      "Not in your pocket. In another room.",
+      1108.999
+     ]
+    ]
+   },
+   "t0x": 1099.3165,
+   "t1x": 1120.6315
+  },
+  {
+   "id": "65",
+   "kind": "SPLIT",
+   "t0": 1120.87,
+   "t1": 1138.58,
+   "spec": {
+    "rows": [
+     [
+      "Text one man you trust:",
+      1122.902
+     ],
+     [
+      "\"What did you do with your Tuesday?\"",
+      1126.203
+     ],
+     [
+      "Send it before you turn this off.",
+      1130.184
+     ]
+    ]
+   },
+   "t0x": 1120.6315,
+   "t1x": 1138.1154999999999
+  },
+  {
+   "id": "66",
+   "kind": "TYPE_BOARD_BUBBLE",
+   "t0": 1138.58,
+   "t1": 1160.87,
+   "spec": {
+    "kicker": "PAUSE AND WRITE",
+    "rows": [
+     [
+      "My next move on a Tuesday is ...",
+      1142.927
+     ],
+     [
+      "Day: ______",
+      1145.967
+     ],
+     [
+      "Meal: ______",
+      1147.348
+     ],
+     [
+      "Name: ______",
+      1148.928
+     ]
+    ]
+   },
+   "t0x": 1138.1154999999999,
+   "t1x": 1160.4175
+  },
+  {
+   "id": "67",
+   "kind": "TYPE_BOARD_BUBBLE",
+   "t0": 1160.87,
+   "t1": 1178.43,
+   "spec": {
+    "kicker": "ONE MORE TIME",
+    "rows": [
+     [
+      "A man's life gets decided on the days nobody photographs.",
+      1163.338
+     ],
+     [
+      "God builds you in the very little.",
+      1168.119
+     ],
+     [
+      "Busy is not the same as there.",
+      1171.1
+     ],
+     [
+      "Mark 1: Stop Waiting.",
+      1174.221
+     ]
+    ]
+   },
+   "t0x": 1160.4175,
+   "t1x": 1178.3015
+  },
+  {
+   "id": "68",
+   "kind": "WES_FULL",
+   "t0": 1178.43,
+   "t1": 1194.21,
+   "spec": {},
+   "t0x": 1178.3015,
+   "t1x": 1194.0749999999998
+  },
+  {
+   "id": "69",
+   "kind": "SPLIT",
+   "t0": 1194.21,
+   "t1": 1209.54,
+   "spec": {
+    "rows": [
+     [
+      "You belong to Him.",
+      1196.266
+     ],
+     [
+      "You're still welcome here.",
+      1201.927
+     ],
+     [
+      "Start with one honest day.",
+      1203.627
+     ]
+    ]
+   },
+   "t0x": 1194.0749999999998,
+   "t1x": 1209.08
+  },
+  {
+   "id": "70",
+   "kind": "SPLIT",
+   "t0": 1209.54,
+   "t1": 1224.18,
+   "spec": {
+    "rows": [
+     [
+      "That's where your Tuesday goes missing.",
+      1212.009
+     ],
+     [
+      "Go show up for it.",
+      1214.47
+     ],
+     [
+      "Next lesson: why a good man keeps waiting.",
+      1216.81
+     ]
+    ]
+   },
+   "t0x": 1209.08,
+   "t1x": 1224.042
+  },
+  {
+   "id": "71",
+   "kind": "WES_FULL",
+   "t0": 1224.18,
+   "t1": 1233.47,
+   "spec": {
+    "close": [
+     [
+      "That was your first yes.",
+      1228.173
+     ],
+     [
+      "Don't waste it.",
+      1230.133
+     ]
+    ]
+   },
+   "t0x": 1224.042,
+   "t1x": 1233.3700000000001
+  },
+  {
+   "id": "72",
+   "kind": "LOGO_END",
+   "t0": 1233.47,
+   "t1": 1237.27,
+   "spec": {},
+   "t0x": 1233.3700000000001,
+   "t1x": 1247.27
+  }
+ ],
+ "cuts": [
+  {
+   "a": "1",
+   "b": "2",
+   "type": "xfade",
+   "s": 9.683,
+   "e": 10.183,
+   "cut": 9.933,
+   "gap": [
+    9.603,
+    10.263
+   ],
+   "in_speech": false
+  },
+  {
+   "a": "2",
+   "b": "3",
+   "type": "push",
+   "s": 37.9,
+   "e": 38.4,
+   "cut": 38.15,
+   "gap": [
+    37.55,
+    38.75
+   ],
+   "in_speech": false
+  },
+  {
+   "a": "3",
+   "b": "4",
+   "type": "dip",
+   "s": 51.113,
+   "e": 51.712999999999994,
+   "cut": 51.413,
+   "gap": [
+    50.673,
+    52.153
+   ],
+   "in_speech": false,
+   "out": [
+    51.113,
+    51.352999999999994
+   ],
+   "empty": [
+    51.352999999999994,
+    51.473
+   ],
+   "inn": [
+    51.473,
+    51.712999999999994
+   ]
+  },
+  {
+   "a": "4",
+   "b": "5",
+   "type": "dip",
+   "s": 70.75699999999999,
+   "e": 71.238,
+   "cut": 70.9975,
+   "gap": [
+    70.737,
+    71.258
+   ],
+   "in_speech": false,
+   "out": [
+    70.75699999999999,
+    70.9494
+   ],
+   "empty": [
+    70.9494,
+    71.0456
+   ],
+   "inn": [
+    71.0456,
+    71.238
+   ]
+  },
+  {
+   "a": "5",
+   "b": "6",
+   "type": "xfade",
+   "s": 86.548,
+   "e": 87.048,
+   "cut": 86.798,
+   "gap": [
+    86.408,
+    87.18799999999999
+   ],
+   "in_speech": false
+  },
+  {
+   "a": "6",
+   "b": "7",
+   "type": "dip",
+   "s": 107.293,
+   "e": 108.053,
+   "cut": 107.673,
+   "gap": [
+    107.273,
+    108.073
+   ],
+   "in_speech": false,
+   "out": [
+    107.293,
+    107.55900000000001
+   ],
+   "empty": [
+    107.55900000000001,
+    107.787
+   ],
+   "inn": [
+    107.787,
+    108.053
+   ],
+   "leak": true
+  },
+  {
+   "a": "7",
+   "b": "8",
+   "type": "dip",
+   "s": 123.857,
+   "e": 124.457,
+   "cut": 124.157,
+   "gap": [
+    123.39699999999999,
+    124.917
+   ],
+   "in_speech": false,
+   "out": [
+    123.857,
+    124.097
+   ],
+   "empty": [
+    124.097,
+    124.217
+   ],
+   "inn": [
+    124.217,
+    124.457
+   ]
+  },
+  {
+   "a": "8",
+   "b": "9",
+   "type": "dip",
+   "s": 142.962,
+   "e": 143.562,
+   "cut": 143.262,
+   "gap": [
+    142.642,
+    143.882
+   ],
+   "in_speech": false,
+   "out": [
+    142.962,
+    143.202
+   ],
+   "empty": [
+    143.202,
+    143.322
+   ],
+   "inn": [
+    143.322,
+    143.562
+   ]
+  },
+  {
+   "a": "9",
+   "b": "10",
+   "type": "push",
+   "s": 163.637,
+   "e": 164.137,
+   "cut": 163.887,
+   "gap": [
+    163.567,
+    164.207
+   ],
+   "in_speech": false
+  },
+  {
+   "a": "10",
+   "b": "14",
+   "type": "xfade",
+   "s": 207.323,
+   "e": 207.823,
+   "cut": 207.573,
+   "gap": [
+    207.223,
+    207.923
+   ],
+   "in_speech": false
+  },
+  {
+   "a": "14",
+   "b": "15",
+   "type": "dip",
+   "s": 222.116,
+   "e": 222.636,
+   "cut": 222.376,
+   "gap": [
+    222.086,
+    222.666
+   ],
+   "in_speech": false,
+   "out": [
+    222.116,
+    222.324
+   ],
+   "empty": [
+    222.324,
+    222.428
+   ],
+   "inn": [
+    222.428,
+    222.636
+   ]
+  },
+  {
+   "a": "15",
+   "b": "16",
+   "type": "push",
+   "s": 238.4735,
+   "e": 238.9735,
+   "cut": 238.7235,
+   "gap": [
+    237.73000000000002,
+    239.71699999999998
+   ],
+   "in_speech": false
+  },
+  {
+   "a": "16",
+   "b": "17",
+   "type": "dip",
+   "s": 256.69899999999996,
+   "e": 257.499,
+   "cut": 257.099,
+   "gap": [
+    256.679,
+    257.519
+   ],
+   "in_speech": false,
+   "out": [
+    256.69899999999996,
+    256.979
+   ],
+   "empty": [
+    256.979,
+    257.219
+   ],
+   "inn": [
+    257.219,
+    257.499
+   ],
+   "leak": true
+  },
+  {
+   "a": "17",
+   "b": "18",
+   "type": "xfade",
+   "s": 273.021,
+   "e": 273.521,
+   "cut": 273.271,
+   "gap": [
+    272.961,
+    273.581
+   ],
+   "in_speech": false
+  },
+  {
+   "a": "18",
+   "b": "19",
+   "type": "dip",
+   "s": 295.333,
+   "e": 295.93300000000005,
+   "cut": 295.63300000000004,
+   "gap": [
+    295.223,
+    296.043
+   ],
+   "in_speech": false,
+   "out": [
+    295.333,
+    295.57300000000004
+   ],
+   "empty": [
+    295.57300000000004,
+    295.69300000000004
+   ],
+   "inn": [
+    295.69300000000004,
+    295.93300000000005
+   ]
+  },
+  {
+   "a": "19",
+   "b": "20",
+   "type": "dip",
+   "s": 307.804,
+   "e": 308.304,
+   "cut": 308.054,
+   "gap": [
+    307.664,
+    308.44399999999996
+   ],
+   "in_speech": false,
+   "out": [
+    307.804,
+    308.00399999999996
+   ],
+   "empty": [
+    308.00399999999996,
+    308.104
+   ],
+   "inn": [
+    308.104,
+    308.304
+   ]
+  },
+  {
+   "a": "20",
+   "b": "21",
+   "type": "push",
+   "s": 324.2855,
+   "e": 324.7855,
+   "cut": 324.5355,
+   "gap": [
+    323.735,
+    325.336
+   ],
+   "in_speech": false
+  },
+  {
+   "a": "21",
+   "b": "22",
+   "type": "xfade",
+   "s": 345.442,
+   "e": 345.942,
+   "cut": 345.692,
+   "gap": [
+    345.362,
+    346.022
+   ],
+   "in_speech": false
+  },
+  {
+   "a": "22",
+   "b": "23",
+   "type": "push",
+   "s": 369.379,
+   "e": 369.879,
+   "cut": 369.629,
+   "gap": [
+    369.309,
+    369.949
+   ],
+   "in_speech": false
+  },
+  {
+   "a": "23",
+   "b": "24",
+   "type": "dip",
+   "s": 382.08650000000006,
+   "e": 382.98650000000004,
+   "cut": 382.53650000000005,
+   "gap": [
+    381.533,
+    383.54
+   ],
+   "in_speech": false,
+   "out": [
+    382.08650000000006,
+    382.40150000000006
+   ],
+   "empty": [
+    382.40150000000006,
+    382.67150000000004
+   ],
+   "inn": [
+    382.67150000000004,
+    382.98650000000004
+   ],
+   "leak": true
+  },
+  {
+   "a": "24",
+   "b": "25",
+   "type": "xfade",
+   "s": 400.722,
+   "e": 401.222,
+   "cut": 400.972,
+   "gap": [
+    400.682,
+    401.262
+   ],
+   "in_speech": false
+  },
+  {
+   "a": "25",
+   "b": "26",
+   "type": "hard",
+   "cut": 417.0,
+   "s": 417.0,
+   "e": 417.0,
+   "gap": [
+    416.604,
+    417.384
+   ]
+  },
+  {
+   "a": "26",
+   "b": "27",
+   "type": "dip",
+   "s": 434.897,
+   "e": 435.377,
+   "cut": 435.137,
+   "gap": [
+    434.867,
+    435.407
+   ],
+   "in_speech": false,
+   "out": [
+    434.897,
+    435.089
+   ],
+   "empty": [
+    435.089,
+    435.185
+   ],
+   "inn": [
+    435.185,
+    435.377
+   ]
+  },
+  {
+   "a": "27",
+   "b": "28",
+   "type": "hard",
+   "cut": 447.36,
+   "s": 447.36,
+   "e": 447.36,
+   "gap": [
+    446.76800000000003,
+    447.968
+   ]
+  },
+  {
+   "a": "28",
+   "b": "29",
+   "type": "dip",
+   "s": 458.98999999999995,
+   "e": 459.59,
+   "cut": 459.28999999999996,
+   "gap": [
+    458.93,
+    459.65
+   ],
+   "in_speech": false,
+   "out": [
+    458.98999999999995,
+    459.22999999999996
+   ],
+   "empty": [
+    459.22999999999996,
+    459.34999999999997
+   ],
+   "inn": [
+    459.34999999999997,
+    459.59
+   ]
+  },
+  {
+   "a": "29",
+   "b": "30",
+   "type": "hard",
+   "cut": 475.12,
+   "s": 475.12,
+   "e": 475.12,
+   "gap": [
+    474.772,
+    475.452
+   ]
+  },
+  {
+   "a": "30",
+   "b": "31",
+   "type": "dip",
+   "s": 498.20149999999995,
+   "e": 498.8015,
+   "cut": 498.50149999999996,
+   "gap": [
+    498.101,
+    498.902
+   ],
+   "in_speech": false,
+   "out": [
+    498.20149999999995,
+    498.44149999999996
+   ],
+   "empty": [
+    498.44149999999996,
+    498.56149999999997
+   ],
+   "inn": [
+    498.56149999999997,
+    498.8015
+   ]
+  },
+  {
+   "a": "31",
+   "b": "32",
+   "type": "hard",
+   "cut": 518.72,
+   "s": 518.72,
+   "e": 518.72,
+   "gap": [
+    518.343,
+    519.123
+   ]
+  },
+  {
+   "a": "32",
+   "b": "33",
+   "type": "dip",
+   "s": 539.4055,
+   "e": 540.3055,
+   "cut": 539.8555,
+   "gap": [
+    539.065,
+    540.646
+   ],
+   "in_speech": false,
+   "out": [
+    539.4055,
+    539.7205
+   ],
+   "empty": [
+    539.7205,
+    539.9905
+   ],
+   "inn": [
+    539.9905,
+    540.3055
+   ],
+   "leak": true
+  },
+  {
+   "a": "33",
+   "b": "34",
+   "type": "push",
+   "s": 556.547,
+   "e": 557.047,
+   "cut": 556.797,
+   "gap": [
+    556.047,
+    557.547
+   ],
+   "in_speech": false
+  },
+  {
+   "a": "34",
+   "b": "35",
+   "type": "xfade",
+   "s": 570.269,
+   "e": 570.769,
+   "cut": 570.519,
+   "gap": [
+    570.229,
+    570.809
+   ],
+   "in_speech": false
+  },
+  {
+   "a": "35",
+   "b": "36",
+   "type": "push",
+   "s": 584.3934999999999,
+   "e": 584.8934999999999,
+   "cut": 584.6434999999999,
+   "gap": [
+    583.63,
+    585.6569999999999
+   ],
+   "in_speech": false
+  },
+  {
+   "a": "36",
+   "b": "37",
+   "type": "dip",
+   "s": 604.181,
+   "e": 604.681,
+   "cut": 604.431,
+   "gap": [
+    604.021,
+    604.841
+   ],
+   "in_speech": false,
+   "out": [
+    604.181,
+    604.3810000000001
+   ],
+   "empty": [
+    604.3810000000001,
+    604.481
+   ],
+   "inn": [
+    604.481,
+    604.681
+   ]
+  },
+  {
+   "a": "37",
+   "b": "38",
+   "type": "dip",
+   "s": 620.7445,
+   "e": 621.3444999999999,
+   "cut": 621.0445,
+   "gap": [
+    620.6239999999999,
+    621.4649999999999
+   ],
+   "in_speech": false,
+   "out": [
+    620.7445,
+    620.9845
+   ],
+   "empty": [
+    620.9845,
+    621.1044999999999
+   ],
+   "inn": [
+    621.1044999999999,
+    621.3444999999999
+   ]
+  },
+  {
+   "a": "38",
+   "b": "39",
+   "type": "dip",
+   "s": 638.868,
+   "e": 639.468,
+   "cut": 639.168,
+   "gap": [
+    638.808,
+    639.528
+   ],
+   "in_speech": false,
+   "out": [
+    638.868,
+    639.1080000000001
+   ],
+   "empty": [
+    639.1080000000001,
+    639.228
+   ],
+   "inn": [
+    639.228,
+    639.468
+   ]
+  },
+  {
+   "a": "39",
+   "b": "40",
+   "type": "hard",
+   "cut": 661.88,
+   "s": 661.88,
+   "e": 661.88,
+   "gap": [
+    661.2529999999999,
+    662.473
+   ]
+  },
+  {
+   "a": "40",
+   "b": "41",
+   "type": "dip",
+   "s": 684.2550000000001,
+   "e": 684.835,
+   "cut": 684.5450000000001,
+   "gap": [
+    684.225,
+    684.865
+   ],
+   "in_speech": false,
+   "out": [
+    684.2550000000001,
+    684.4870000000001
+   ],
+   "empty": [
+    684.4870000000001,
+    684.6030000000001
+   ],
+   "inn": [
+    684.6030000000001,
+    684.835
+   ]
+  },
+  {
+   "a": "41",
+   "b": "42",
+   "type": "hard",
+   "cut": 698.48,
+   "s": 698.48,
+   "e": 698.48,
+   "gap": [
+    697.688,
+    699.309
+   ]
+  },
+  {
+   "a": "42",
+   "b": "43",
+   "type": "dip",
+   "s": 711.912,
+   "e": 712.512,
+   "cut": 712.212,
+   "gap": [
+    711.732,
+    712.692
+   ],
+   "in_speech": false,
+   "out": [
+    711.912,
+    712.152
+   ],
+   "empty": [
+    712.152,
+    712.2719999999999
+   ],
+   "inn": [
+    712.2719999999999,
+    712.512
+   ]
+  },
+  {
+   "a": "43",
+   "b": "43c",
+   "type": "xfade",
+   "s": 719.574,
+   "e": 720.0540000000001,
+   "cut": 719.8140000000001,
+   "gap": [
+    719.554,
+    720.0740000000001
+   ],
+   "in_speech": false
+  },
+  {
+   "a": "43c",
+   "b": "43b",
+   "type": "dip",
+   "s": 724.0750000000002,
+   "e": 724.4950000000001,
+   "cut": 724.2850000000001,
+   "gap": [
+    724.0550000000001,
+    724.515
+   ],
+   "in_speech": false,
+   "out": [
+    724.0750000000002,
+    724.2430000000002
+   ],
+   "empty": [
+    724.2430000000002,
+    724.3270000000001
+   ],
+   "inn": [
+    724.3270000000001,
+    724.4950000000001
+   ]
+  },
+  {
+   "a": "43b",
+   "b": "44",
+   "type": "push",
+   "s": 726.9655,
+   "e": 727.4655,
+   "cut": 727.2155,
+   "gap": [
+    726.415,
+    728.0160000000001
+   ],
+   "in_speech": false
+  },
+  {
+   "a": "44",
+   "b": "45",
+   "type": "xfade",
+   "s": 752.5355,
+   "e": 753.0355,
+   "cut": 752.7855,
+   "gap": [
+    751.782,
+    753.789
+   ],
+   "in_speech": false
+  },
+  {
+   "a": "45",
+   "b": "46",
+   "type": "push",
+   "s": 765.742,
+   "e": 766.242,
+   "cut": 765.992,
+   "gap": [
+    765.6919999999999,
+    766.2919999999999
+   ],
+   "in_speech": false
+  },
+  {
+   "a": "46",
+   "b": "47",
+   "type": "dip",
+   "s": 787.507,
+   "e": 788.007,
+   "cut": 787.757,
+   "gap": [
+    787.457,
+    788.0569999999999
+   ],
+   "in_speech": false,
+   "out": [
+    787.507,
+    787.707
+   ],
+   "empty": [
+    787.707,
+    787.8069999999999
+   ],
+   "inn": [
+    787.8069999999999,
+    788.007
+   ]
+  },
+  {
+   "a": "47",
+   "b": "48",
+   "type": "xfade",
+   "s": 803.03,
+   "e": 803.53,
+   "cut": 803.28,
+   "gap": [
+    802.9399999999999,
+    803.6199999999999
+   ],
+   "in_speech": false
+  },
+  {
+   "a": "48",
+   "b": "49",
+   "type": "dip",
+   "s": 820.2639999999999,
+   "e": 821.164,
+   "cut": 820.7139999999999,
+   "gap": [
+    820.1039999999999,
+    821.324
+   ],
+   "in_speech": false,
+   "out": [
+    820.2639999999999,
+    820.579
+   ],
+   "empty": [
+    820.579,
+    820.8489999999999
+   ],
+   "inn": [
+    820.8489999999999,
+    821.164
+   ],
+   "leak": true
+  },
+  {
+   "a": "49",
+   "b": "50",
+   "type": "push",
+   "s": 836.8415,
+   "e": 837.3415,
+   "cut": 837.0915,
+   "gap": [
+    836.2879999999999,
+    837.895
+   ],
+   "in_speech": false
+  },
+  {
+   "a": "50",
+   "b": "51",
+   "type": "dip",
+   "s": 855.268,
+   "e": 855.8679999999999,
+   "cut": 855.568,
+   "gap": [
+    855.198,
+    855.938
+   ],
+   "in_speech": false,
+   "out": [
+    855.268,
+    855.508
+   ],
+   "empty": [
+    855.508,
+    855.6279999999999
+   ],
+   "inn": [
+    855.6279999999999,
+    855.8679999999999
+   ]
+  },
+  {
+   "a": "51",
+   "b": "52",
+   "type": "hard",
+   "cut": 877.28,
+   "s": 877.28,
+   "e": 877.28,
+   "gap": [
+    876.961,
+    877.5609999999999
+   ]
+  },
+  {
+   "a": "52",
+   "b": "53",
+   "type": "xfade",
+   "s": 895.4839999999999,
+   "e": 895.9839999999999,
+   "cut": 895.7339999999999,
+   "gap": [
+    894.924,
+    896.544
+   ],
+   "in_speech": false
+  },
+  {
+   "a": "53",
+   "b": "54",
+   "type": "push",
+   "s": 905.146,
+   "e": 905.646,
+   "cut": 905.396,
+   "gap": [
+    905.086,
+    905.7059999999999
+   ],
+   "in_speech": false
+  },
+  {
+   "a": "54",
+   "b": "55",
+   "type": "hard",
+   "cut": 919.2,
+   "s": 919.2,
+   "e": 919.2,
+   "gap": [
+    918.208,
+    920.1949999999999
+   ]
+  },
+  {
+   "a": "55",
+   "b": "56",
+   "type": "dip",
+   "s": 938.19,
+   "e": 938.79,
+   "cut": 938.49,
+   "gap": [
+    938.12,
+    938.86
+   ],
+   "in_speech": false,
+   "out": [
+    938.19,
+    938.4300000000001
+   ],
+   "empty": [
+    938.4300000000001,
+    938.55
+   ],
+   "inn": [
+    938.55,
+    938.79
+   ]
+  },
+  {
+   "a": "56",
+   "b": "56c",
+   "type": "dip",
+   "s": 950.083,
+   "e": 950.483,
+   "cut": 950.2829999999999,
+   "gap": [
+    950.063,
+    950.5029999999999
+   ],
+   "in_speech": false,
+   "out": [
+    950.083,
+    950.2429999999999
+   ],
+   "empty": [
+    950.2429999999999,
+    950.323
+   ],
+   "inn": [
+    950.323,
+    950.483
+   ]
+  },
+  {
+   "a": "56c",
+   "b": "57",
+   "type": "xfade",
+   "s": 957.575,
+   "e": 958.075,
+   "cut": 957.825,
+   "gap": [
+    957.225,
+    958.425
+   ],
+   "in_speech": false
+  },
+  {
+   "a": "57",
+   "b": "58",
+   "type": "dip",
+   "s": 971.418,
+   "e": 971.918,
+   "cut": 971.668,
+   "gap": [
+    971.328,
+    972.008
+   ],
+   "in_speech": false,
+   "out": [
+    971.418,
+    971.618
+   ],
+   "empty": [
+    971.618,
+    971.718
+   ],
+   "inn": [
+    971.718,
+    971.918
+   ]
+  },
+  {
+   "a": "58",
+   "b": "59",
+   "type": "dip",
+   "s": 988.9965000000001,
+   "e": 989.5965,
+   "cut": 989.2965,
+   "gap": [
+    988.633,
+    989.96
+   ],
+   "in_speech": false,
+   "out": [
+    988.9965000000001,
+    989.2365000000001
+   ],
+   "empty": [
+    989.2365000000001,
+    989.3565
+   ],
+   "inn": [
+    989.3565,
+    989.5965
+   ]
+  },
+  {
+   "a": "59",
+   "b": "60",
+   "type": "dip",
+   "s": 1009.796,
+   "e": 1010.396,
+   "cut": 1010.096,
+   "gap": [
+    1009.7660000000001,
+    1010.426
+   ],
+   "in_speech": false,
+   "out": [
+    1009.796,
+    1010.0360000000001
+   ],
+   "empty": [
+    1010.0360000000001,
+    1010.156
+   ],
+   "inn": [
+    1010.156,
+    1010.396
+   ]
+  },
+  {
+   "a": "60",
+   "b": "60c",
+   "type": "push",
+   "s": 1021.9995,
+   "e": 1022.4995,
+   "cut": 1022.2495,
+   "gap": [
+    1021.749,
+    1022.75
+   ],
+   "in_speech": false
+  },
+  {
+   "a": "60c",
+   "b": "61",
+   "type": "xfade",
+   "s": 1027.621,
+   "e": 1028.121,
+   "cut": 1027.871,
+   "gap": [
+    1027.271,
+    1028.471
+   ],
+   "in_speech": false
+  },
+  {
+   "a": "61",
+   "b": "62",
+   "type": "push",
+   "s": 1053.0925,
+   "e": 1053.5925,
+   "cut": 1053.3425,
+   "gap": [
+    1052.339,
+    1054.346
+   ],
+   "in_speech": false
+  },
+  {
+   "a": "62",
+   "b": "63",
+   "type": "dip",
+   "s": 1077.091,
+   "e": 1077.591,
+   "cut": 1077.341,
+   "gap": [
+    1076.971,
+    1077.711
+   ],
+   "in_speech": false,
+   "out": [
+    1077.091,
+    1077.291
+   ],
+   "empty": [
+    1077.291,
+    1077.3909999999998
+   ],
+   "inn": [
+    1077.3909999999998,
+    1077.591
+   ]
+  },
+  {
+   "a": "63",
+   "b": "64",
+   "type": "xfade",
+   "s": 1099.0665,
+   "e": 1099.5665,
+   "cut": 1099.3165,
+   "gap": [
+    1098.5159999999998,
+    1100.117
+   ],
+   "in_speech": false
+  },
+  {
+   "a": "64",
+   "b": "65",
+   "type": "dip",
+   "s": 1120.3815,
+   "e": 1120.8815,
+   "cut": 1120.6315,
+   "gap": [
+    1120.241,
+    1121.022
+   ],
+   "in_speech": false,
+   "out": [
+    1120.3815,
+    1120.5815
+   ],
+   "empty": [
+    1120.5815,
+    1120.6815
+   ],
+   "inn": [
+    1120.6815,
+    1120.8815
+   ]
+  },
+  {
+   "a": "65",
+   "b": "66",
+   "type": "push",
+   "s": 1137.8654999999999,
+   "e": 1138.3654999999999,
+   "cut": 1138.1154999999999,
+   "gap": [
+    1137.5049999999999,
+    1138.7259999999999
+   ],
+   "in_speech": false
+  },
+  {
+   "a": "66",
+   "b": "67",
+   "type": "xfade",
+   "s": 1160.1675,
+   "e": 1160.6675,
+   "cut": 1160.4175,
+   "gap": [
+    1159.817,
+    1161.018
+   ],
+   "in_speech": false
+  },
+  {
+   "a": "67",
+   "b": "68",
+   "type": "push",
+   "s": 1178.0515,
+   "e": 1178.5515,
+   "cut": 1178.3015,
+   "gap": [
+    1178.021,
+    1178.5819999999999
+   ],
+   "in_speech": false
+  },
+  {
+   "a": "68",
+   "b": "69",
+   "type": "dip",
+   "s": 1193.8149999999998,
+   "e": 1194.3349999999998,
+   "cut": 1194.0749999999998,
+   "gap": [
+    1193.7849999999999,
+    1194.365
+   ],
+   "in_speech": false,
+   "out": [
+    1193.8149999999998,
+    1194.023
+   ],
+   "empty": [
+    1194.023,
+    1194.1269999999997
+   ],
+   "inn": [
+    1194.1269999999997,
+    1194.3349999999998
+   ]
+  },
+  {
+   "a": "69",
+   "b": "70",
+   "type": "hard",
+   "cut": 1209.08,
+   "s": 1209.08,
+   "e": 1209.08,
+   "gap": [
+    1208.488,
+    1209.6889999999999
+   ]
+  },
+  {
+   "a": "70",
+   "b": "71",
+   "type": "dip",
+   "s": 1223.782,
+   "e": 1224.302,
+   "cut": 1224.042,
+   "gap": [
+    1223.752,
+    1224.3319999999999
+   ],
+   "in_speech": false,
+   "out": [
+    1223.782,
+    1223.99
+   ],
+   "empty": [
+    1223.99,
+    1224.0939999999998
+   ],
+   "inn": [
+    1224.0939999999998,
+    1224.302
+   ]
+  },
+  {
+   "a": "71",
+   "b": "72",
+   "type": "dip",
+   "s": 1233.1200000000001,
+   "e": 1233.6200000000001,
+   "cut": 1233.3700000000001,
+   "gap": [
+    1232.8700000000001,
+    1233.8700000000001
+   ],
+   "in_speech": false,
+   "out": [
+    1233.1200000000001,
+    1233.3200000000002
+   ],
+   "empty": [
+    1233.3200000000002,
+    1233.42
+   ],
+   "inn": [
+    1233.42,
+    1233.6200000000001
+   ]
+  }
+ ],
+ "bubble_runs": [
+  [
+   "2",
+   "2"
+  ],
+  [
+   "5",
+   "6"
+  ],
+  [
+   "10",
+   "10"
+  ],
+  [
+   "16",
+   "17"
+  ],
+  [
+   "20",
+   "22"
+  ],
+  [
+   "24",
+   "24"
+  ],
+  [
+   "33",
+   "36"
+  ],
+  [
+   "44",
+   "47"
+  ],
+  [
+   "49",
+   "49"
+  ],
+  [
+   "53",
+   "53"
+  ],
+  [
+   "57",
+   "57"
+  ],
+  [
+   "62",
+   "62"
+  ],
+  [
+   "64",
+   "64"
+  ],
+  [
+   "66",
+   "67"
+  ]
+ ],
+ "overlay_boards": [
+  {
+   "id": "9c",
+   "kind": "COVER_BOARD",
+   "t0": 149.433,
+   "t1": 158.756,
+   "spec": {
+    "kicker": "HOW THIS WORKS",
+    "counter": [
+     24,
+     149.624
+    ],
+    "rows": [
+     [
+      "lessons",
+      150.224
+     ],
+     [
+      "One. Then the next one.",
+      153.645
+     ]
+    ],
+    "full": true
+   }
+  },
+  {
+   "id": "K00",
+   "kind": "KINETIC",
+   "t0": 45.942,
+   "t1": 50.923,
+   "spec": {
+    "words": [
+     [
+      "same",
+      45.932
+     ],
+     [
+      "as",
+      46.172
+     ],
+     [
+      "you.",
+      46.312
+     ],
+     [
+      "And",
+      47.132
+     ],
+     [
+      "for",
+      47.252
+     ],
+     [
+      "the",
+      47.372
+     ],
+     [
+      "next",
+      47.492
+     ],
+     [
+      "twenty-four",
+      47.772
+     ],
+     [
+      "lessons,",
+      48.412
+     ],
+     [
+      "I'm",
+      49.292
+     ],
+     [
+      "going",
+      49.472
+     ],
+     [
+      "to",
+      49.712
+     ],
+     [
+      "be",
+      49.813
+     ],
+     [
+      "your",
+      49.993
+     ],
+     [
+      "teacher.",
+      50.173
+     ]
+    ],
+    "pages": [
+     [
+      [
+       "same",
+       45.932
+      ],
+      [
+       "as",
+       46.172
+      ],
+      [
+       "you.",
+       46.312
+      ]
+     ],
+     [
+      [
+       "And",
+       47.132
+      ],
+      [
+       "for",
+       47.252
+      ],
+      [
+       "the",
+       47.372
+      ],
+      [
+       "next",
+       47.492
+      ],
+      [
+       "twenty-four",
+       47.772
+      ],
+      [
+       "lessons,",
+       48.412
+      ],
+      [
+       "I'm",
+       49.292
+      ],
+      [
+       "going",
+       49.472
+      ],
+      [
+       "to",
+       49.712
+      ],
+      [
+       "be",
+       49.813
+      ],
+      [
+       "your",
+       49.993
+      ],
+      [
+       "teacher.",
+       50.173
+      ]
+     ]
+    ]
+   },
+   "overlaps_broll": []
+  },
+  {
+   "id": "K01",
+   "kind": "KINETIC",
+   "t0": 115.645,
+   "t1": 126.588,
+   "spec": {
+    "words": [
+     [
+      "Maybe",
+      115.635
+     ],
+     [
+      "you",
+      115.935
+     ],
+     [
+      "figured",
+      116.115
+     ],
+     [
+      "this",
+      116.495
+     ],
+     [
+      "was",
+      116.695
+     ],
+     [
+      "for",
+      116.876
+     ],
+     [
+      "somebody",
+      117.076
+     ],
+     [
+      "younger.",
+      117.596
+     ],
+     [
+      "You're",
+      118.816
+     ],
+     [
+      "on",
+      119.136
+     ],
+     [
+      "time.",
+      119.416
+     ],
+     [
+      "You're",
+      120.656
+     ],
+     [
+      "not",
+      120.816
+     ],
+     [
+      "a",
+      121.017
+     ],
+     [
+      "guest",
+      121.157
+     ],
+     [
+      "here.",
+      121.597
+     ],
+     [
+      "This",
+      122.337
+     ],
+     [
+      "is",
+      122.557
+     ],
+     [
+      "yours.",
+      122.817
+     ],
+     [
+      "So",
+      124.877
+     ],
+     [
+      "here's",
+      125.058
+     ],
+     [
+      "what",
+      125.338
+     ],
+     [
+      "I'll",
+      125.558
+     ],
+     [
+      "promise",
+      125.658
+     ],
+     [
+      "you.",
+      126.158
+     ]
+    ],
+    "pages": [
+     [
+      [
+       "Maybe",
+       115.635
+      ],
+      [
+       "you",
+       115.935
+      ],
+      [
+       "figured",
+       116.115
+      ],
+      [
+       "this",
+       116.495
+      ],
+      [
+       "was",
+       116.695
+      ],
+      [
+       "for",
+       116.876
+      ],
+      [
+       "somebody",
+       117.076
+      ],
+      [
+       "younger.",
+       117.596
+      ]
+     ],
+     [
+      [
+       "You're",
+       118.816
+      ],
+      [
+       "on",
+       119.136
+      ],
+      [
+       "time.",
+       119.416
+      ]
+     ],
+     [
+      [
+       "You're",
+       120.656
+      ],
+      [
+       "not",
+       120.816
+      ],
+      [
+       "a",
+       121.017
+      ],
+      [
+       "guest",
+       121.157
+      ],
+      [
+       "here.",
+       121.597
+      ]
+     ],
+     [
+      [
+       "This",
+       122.337
+      ],
+      [
+       "is",
+       122.557
+      ],
+      [
+       "yours.",
+       122.817
+      ]
+     ],
+     [
+      [
+       "So",
+       124.877
+      ],
+      [
+       "here's",
+       125.058
+      ],
+      [
+       "what",
+       125.338
+      ],
+      [
+       "I'll",
+       125.558
+      ],
+      [
+       "promise",
+       125.658
+      ],
+      [
+       "you.",
+       126.158
+      ]
+     ]
+    ]
+   },
+   "overlaps_broll": []
+  },
+  {
+   "id": "K02",
+   "kind": "KINETIC",
+   "t0": 275.311,
+   "t1": 286.532,
+   "spec": {
+    "words": [
+     [
+      "Have",
+      275.301
+     ],
+     [
+      "you",
+      275.441
+     ],
+     [
+      "ever",
+      275.661
+     ],
+     [
+      "had",
+      275.941
+     ],
+     [
+      "one",
+      276.301
+     ],
+     [
+      "of",
+      276.421
+     ],
+     [
+      "those",
+      276.501
+     ],
+     [
+      "days",
+      276.801
+     ],
+     [
+      "you",
+      277.201
+     ],
+     [
+      "were",
+      277.321
+     ],
+     [
+      "sure",
+      277.681
+     ],
+     [
+      "would",
+      278.121
+     ],
+     [
+      "change",
+      278.381
+     ],
+     [
+      "you?",
+      278.781
+     ],
+     [
+      "A",
+      279.581
+     ],
+     [
+      "vow",
+      279.761
+     ],
+     [
+      "you",
+      280.161
+     ],
+     [
+      "meant.",
+      280.321
+     ],
+     [
+      "A",
+      281.082
+     ],
+     [
+      "night",
+      281.222
+     ],
+     [
+      "in",
+      281.562
+     ],
+     [
+      "a",
+      281.662
+     ],
+     [
+      "hospital",
+      281.762
+     ],
+     [
+      "hallway.",
+      282.322
+     ],
+     [
+      "A",
+      283.382
+     ],
+     [
+      "Sunday",
+      283.562
+     ],
+     [
+      "you",
+      284.042
+     ],
+     [
+      "walked",
+      284.242
+     ],
+     [
+      "out",
+      284.582
+     ],
+     [
+      "of",
+      284.702
+     ],
+     [
+      "church",
+      284.862
+     ],
+     [
+      "a",
+      285.282
+     ],
+     [
+      "different",
+      285.462
+     ],
+     [
+      "man.",
+      285.902
+     ]
+    ],
+    "pages": [
+     [
+      [
+       "Have",
+       275.301
+      ],
+      [
+       "you",
+       275.441
+      ],
+      [
+       "ever",
+       275.661
+      ],
+      [
+       "had",
+       275.941
+      ],
+      [
+       "one",
+       276.301
+      ],
+      [
+       "of",
+       276.421
+      ],
+      [
+       "those",
+       276.501
+      ],
+      [
+       "days",
+       276.801
+      ],
+      [
+       "you",
+       277.201
+      ],
+      [
+       "were",
+       277.321
+      ],
+      [
+       "sure",
+       277.681
+      ],
+      [
+       "would",
+       278.121
+      ],
+      [
+       "change",
+       278.381
+      ],
+      [
+       "you?",
+       278.781
+      ]
+     ],
+     [
+      [
+       "A",
+       279.581
+      ],
+      [
+       "vow",
+       279.761
+      ],
+      [
+       "you",
+       280.161
+      ],
+      [
+       "meant.",
+       280.321
+      ]
+     ],
+     [
+      [
+       "A",
+       281.082
+      ],
+      [
+       "night",
+       281.222
+      ],
+      [
+       "in",
+       281.562
+      ],
+      [
+       "a",
+       281.662
+      ],
+      [
+       "hospital",
+       281.762
+      ],
+      [
+       "hallway.",
+       282.322
+      ]
+     ],
+     [
+      [
+       "A",
+       283.382
+      ],
+      [
+       "Sunday",
+       283.562
+      ],
+      [
+       "you",
+       284.042
+      ],
+      [
+       "walked",
+       284.242
+      ],
+      [
+       "out",
+       284.582
+      ],
+      [
+       "of",
+       284.702
+      ],
+      [
+       "church",
+       284.862
+      ],
+      [
+       "a",
+       285.282
+      ],
+      [
+       "different",
+       285.462
+      ],
+      [
+       "man.",
+       285.902
+      ]
+     ]
+    ]
+   },
+   "overlaps_broll": [
+    "px28339282"
+   ]
+  },
+  {
+   "id": "K03",
+   "kind": "KINETIC",
+   "t0": 305.754,
+   "t1": 309.875,
+   "spec": {
+    "words": [
+     [
+      "Most",
+      305.744
+     ],
+     [
+      "of",
+      306.064
+     ],
+     [
+      "them",
+      306.144
+     ],
+     [
+      "are",
+      306.364
+     ],
+     [
+      "just",
+      306.504
+     ],
+     [
+      "Tuesday.",
+      307.064
+     ],
+     [
+      "Jesus",
+      308.404
+     ],
+     [
+      "put",
+      308.845
+     ],
+     [
+      "it",
+      309.005
+     ],
+     [
+      "this",
+      309.125
+     ],
+     [
+      "way.",
+      309.385
+     ]
+    ],
+    "pages": [
+     [
+      [
+       "Most",
+       305.744
+      ],
+      [
+       "of",
+       306.064
+      ],
+      [
+       "them",
+       306.144
+      ],
+      [
+       "are",
+       306.364
+      ],
+      [
+       "just",
+       306.504
+      ],
+      [
+       "Tuesday.",
+       307.064
+      ]
+     ],
+     [
+      [
+       "Jesus",
+       308.404
+      ],
+      [
+       "put",
+       308.845
+      ],
+      [
+       "it",
+       309.005
+      ],
+      [
+       "this",
+       309.125
+      ],
+      [
+       "way.",
+       309.385
+      ]
+     ]
+    ]
+   },
+   "overlaps_broll": []
+  },
+  {
+   "id": "K04",
+   "kind": "KINETIC",
+   "t0": 369.919,
+   "t1": 374.46,
+   "spec": {
+    "words": [
+     [
+      "So",
+      369.909
+     ],
+     [
+      "let",
+      370.049
+     ],
+     [
+      "me",
+      370.169
+     ],
+     [
+      "ask",
+      370.369
+     ],
+     [
+      "you.",
+      370.649
+     ],
+     [
+      "Where",
+      371.349
+     ],
+     [
+      "does",
+      371.55
+     ],
+     [
+      "God",
+      371.83
+     ],
+     [
+      "build",
+      372.23
+     ],
+     [
+      "a",
+      372.53
+     ],
+     [
+      "man?",
+      372.61
+     ],
+     [
+      "On",
+      373.43
+     ],
+     [
+      "the",
+      373.55
+     ],
+     [
+      "big",
+      373.69
+     ],
+     [
+      "day?",
+      373.93
+     ]
+    ],
+    "pages": [
+     [
+      [
+       "So",
+       369.909
+      ],
+      [
+       "let",
+       370.049
+      ],
+      [
+       "me",
+       370.169
+      ],
+      [
+       "ask",
+       370.369
+      ],
+      [
+       "you.",
+       370.649
+      ]
+     ],
+     [
+      [
+       "Where",
+       371.349
+      ],
+      [
+       "does",
+       371.55
+      ],
+      [
+       "God",
+       371.83
+      ],
+      [
+       "build",
+       372.23
+      ],
+      [
+       "a",
+       372.53
+      ],
+      [
+       "man?",
+       372.61
+      ]
+     ],
+     [
+      [
+       "On",
+       373.43
+      ],
+      [
+       "the",
+       373.55
+      ],
+      [
+       "big",
+       373.69
+      ],
+      [
+       "day?",
+       373.93
+      ]
+     ]
+    ]
+   },
+   "overlaps_broll": []
+  },
+  {
+   "id": "K05",
+   "kind": "KINETIC",
+   "t0": 415.574,
+   "t1": 419.895,
+   "spec": {
+    "words": [
+     [
+      "The",
+      415.564
+     ],
+     [
+      "day",
+      415.804
+     ],
+     [
+      "does.",
+      416.164
+     ],
+     [
+      "I'll",
+      417.344
+     ],
+     [
+      "tell",
+      417.444
+     ],
+     [
+      "you",
+      417.664
+     ],
+     [
+      "how",
+      417.804
+     ],
+     [
+      "I",
+      418.265
+     ],
+     [
+      "dodge",
+      418.385
+     ],
+     [
+      "my",
+      418.745
+     ],
+     [
+      "Tuesdays.",
+      418.945
+     ]
+    ],
+    "pages": [
+     [
+      [
+       "The",
+       415.564
+      ],
+      [
+       "day",
+       415.804
+      ],
+      [
+       "does.",
+       416.164
+      ]
+     ],
+     [
+      [
+       "I'll",
+       417.344
+      ],
+      [
+       "tell",
+       417.444
+      ],
+      [
+       "you",
+       417.664
+      ],
+      [
+       "how",
+       417.804
+      ],
+      [
+       "I",
+       418.265
+      ],
+      [
+       "dodge",
+       418.385
+      ],
+      [
+       "my",
+       418.745
+      ],
+      [
+       "Tuesdays.",
+       418.945
+      ]
+     ]
+    ]
+   },
+   "overlaps_broll": []
+  },
+  {
+   "id": "K06",
+   "kind": "KINETIC",
+   "t0": 472.442,
+   "t1": 476.992,
+   "spec": {
+    "words": [
+     [
+      "Right",
+      472.432
+     ],
+     [
+      "then,",
+      472.712
+     ],
+     [
+      "I",
+      473.532
+     ],
+     [
+      "was",
+      473.592
+     ],
+     [
+      "a",
+      473.772
+     ],
+     [
+      "good",
+      473.992
+     ],
+     [
+      "dad.",
+      474.312
+     ],
+     [
+      "We",
+      475.412
+     ],
+     [
+      "ate.",
+      475.672
+     ],
+     [
+      "Then",
+      476.512
+     ]
+    ],
+    "pages": [
+     [
+      [
+       "Right",
+       472.432
+      ],
+      [
+       "then,",
+       472.712
+      ],
+      [
+       "I",
+       473.532
+      ],
+      [
+       "was",
+       473.592
+      ],
+      [
+       "a",
+       473.772
+      ],
+      [
+       "good",
+       473.992
+      ],
+      [
+       "dad.",
+       474.312
+      ]
+     ],
+     [
+      [
+       "We",
+       475.412
+      ],
+      [
+       "ate.",
+       475.672
+      ]
+     ],
+     [
+      [
+       "Then",
+       476.512
+      ]
+     ]
+    ]
+   },
+   "overlaps_broll": [
+    "1808"
+   ]
+  },
+  {
+   "id": "K07",
+   "kind": "KINETIC",
+   "t0": 495.351,
+   "t1": 500.272,
+   "spec": {
+    "words": [
+     [
+      "edge",
+      495.341
+     ],
+     [
+      "of",
+      495.561
+     ],
+     [
+      "the",
+      495.641
+     ],
+     [
+      "patio",
+      495.761
+     ],
+     [
+      "and",
+      496.581
+     ],
+     [
+      "went",
+      496.741
+     ],
+     [
+      "back",
+      496.961
+     ],
+     [
+      "to",
+      497.241
+     ],
+     [
+      "her",
+      497.381
+     ],
+     [
+      "homework.",
+      497.561
+     ],
+     [
+      "I",
+      498.862
+     ],
+     [
+      "didn't",
+      498.902
+     ],
+     [
+      "see",
+      499.222
+     ],
+     [
+      "her",
+      499.402
+     ],
+     [
+      "do",
+      499.582
+     ],
+     [
+      "it.",
+      499.842
+     ]
+    ],
+    "pages": [
+     [
+      [
+       "edge",
+       495.341
+      ],
+      [
+       "of",
+       495.561
+      ],
+      [
+       "the",
+       495.641
+      ],
+      [
+       "patio",
+       495.761
+      ],
+      [
+       "and",
+       496.581
+      ],
+      [
+       "went",
+       496.741
+      ],
+      [
+       "back",
+       496.961
+      ],
+      [
+       "to",
+       497.241
+      ],
+      [
+       "her",
+       497.381
+      ],
+      [
+       "homework.",
+       497.561
+      ]
+     ],
+     [
+      [
+       "I",
+       498.862
+      ],
+      [
+       "didn't",
+       498.902
+      ],
+      [
+       "see",
+       499.222
+      ],
+      [
+       "her",
+       499.402
+      ],
+      [
+       "do",
+       499.582
+      ],
+      [
+       "it.",
+       499.842
+      ]
+     ]
+    ]
+   },
+   "overlaps_broll": [
+    "px4297124"
+   ]
+  },
+  {
+   "id": "K08",
+   "kind": "KINETIC",
+   "t0": 519.093,
+   "t1": 522.334,
+   "spec": {
+    "words": [
+     [
+      "And",
+      519.083
+     ],
+     [
+      "I",
+      519.284
+     ],
+     [
+      "felt",
+      519.384
+     ],
+     [
+      "useful.",
+      519.924
+     ],
+     [
+      "That's",
+      521.144
+     ],
+     [
+      "a",
+      521.404
+     ],
+     [
+      "dangerous",
+      521.644
+     ]
+    ],
+    "pages": [
+     [
+      [
+       "And",
+       519.083
+      ],
+      [
+       "I",
+       519.284
+      ],
+      [
+       "felt",
+       519.384
+      ],
+      [
+       "useful.",
+       519.924
+      ]
+     ],
+     [
+      [
+       "That's",
+       521.144
+      ],
+      [
+       "a",
+       521.404
+      ],
+      [
+       "dangerous",
+       521.644
+      ]
+     ]
+    ]
+   },
+   "overlaps_broll": []
+  },
+  {
+   "id": "K09",
+   "kind": "KINETIC",
+   "t0": 531.275,
+   "t1": 535.235,
+   "spec": {
+    "words": [
+     [
+      "That",
+      531.265
+     ],
+     [
+      "was",
+      531.445
+     ],
+     [
+      "all",
+      531.625
+     ],
+     [
+      "she",
+      531.845
+     ],
+     [
+      "said.",
+      532.065
+     ],
+     [
+      "She'd",
+      533.085
+     ],
+     [
+      "already",
+      533.345
+     ],
+     [
+      "stopped",
+      533.745
+     ],
+     [
+      "waiting",
+      534.225
+     ],
+     [
+      "on",
+      534.685
+     ],
+     [
+      "me.",
+      534.865
+     ]
+    ],
+    "pages": [
+     [
+      [
+       "That",
+       531.265
+      ],
+      [
+       "was",
+       531.445
+      ],
+      [
+       "all",
+       531.625
+      ],
+      [
+       "she",
+       531.845
+      ],
+      [
+       "said.",
+       532.065
+      ]
+     ],
+     [
+      [
+       "She'd",
+       533.085
+      ],
+      [
+       "already",
+       533.345
+      ],
+      [
+       "stopped",
+       533.745
+      ],
+      [
+       "waiting",
+       534.225
+      ],
+      [
+       "on",
+       534.685
+      ],
+      [
+       "me.",
+       534.865
+      ]
+     ]
+    ]
+   },
+   "overlaps_broll": []
+  },
+  {
+   "id": "K10",
+   "kind": "KINETIC",
+   "t0": 613.713,
+   "t1": 619.014,
+   "spec": {
+    "words": [
+     [
+      "nobody",
+      613.703
+     ],
+     [
+      "asks",
+      614.243
+     ],
+     [
+      "questions.",
+      614.643
+     ],
+     [
+      "Least",
+      615.963
+     ],
+     [
+      "of",
+      616.283
+     ],
+     [
+      "all",
+      616.444
+     ],
+     [
+      "you.",
+      616.704
+     ],
+     [
+      "Here's",
+      617.884
+     ],
+     [
+      "another",
+      618.144
+     ],
+     [
+      "one.",
+      618.564
+     ]
+    ],
+    "pages": [
+     [
+      [
+       "nobody",
+       613.703
+      ],
+      [
+       "asks",
+       614.243
+      ],
+      [
+       "questions.",
+       614.643
+      ]
+     ],
+     [
+      [
+       "Least",
+       615.963
+      ],
+      [
+       "of",
+       616.283
+      ],
+      [
+       "all",
+       616.444
+      ],
+      [
+       "you.",
+       616.704
+      ]
+     ],
+     [
+      [
+       "Here's",
+       617.884
+      ],
+      [
+       "another",
+       618.144
+      ],
+      [
+       "one.",
+       618.564
+      ]
+     ]
+    ]
+   },
+   "overlaps_broll": []
+  },
+  {
+   "id": "K11",
+   "kind": "KINETIC",
+   "t0": 701.899,
+   "t1": 706.521,
+   "spec": {
+    "words": [
+     [
+      "You",
+      701.889
+     ],
+     [
+      "can",
+      702.03
+     ],
+     [
+      "be",
+      702.21
+     ],
+     [
+      "the",
+      702.35
+     ],
+     [
+      "hero",
+      702.55
+     ],
+     [
+      "of",
+      703.07
+     ],
+     [
+      "your",
+      703.21
+     ],
+     [
+      "to-do",
+      703.39
+     ],
+     [
+      "list",
+      703.83
+     ],
+     [
+      "and",
+      704.27
+     ],
+     [
+      "a",
+      704.39
+     ],
+     [
+      "stranger",
+      704.55
+     ],
+     [
+      "in",
+      705.29
+     ],
+     [
+      "your",
+      705.39
+     ],
+     [
+      "own",
+      705.57
+     ],
+     [
+      "house.",
+      705.77
+     ]
+    ],
+    "pages": [
+     [
+      [
+       "You",
+       701.889
+      ],
+      [
+       "can",
+       702.03
+      ],
+      [
+       "be",
+       702.21
+      ],
+      [
+       "the",
+       702.35
+      ],
+      [
+       "hero",
+       702.55
+      ],
+      [
+       "of",
+       703.07
+      ],
+      [
+       "your",
+       703.21
+      ],
+      [
+       "to-do",
+       703.39
+      ],
+      [
+       "list",
+       703.83
+      ],
+      [
+       "and",
+       704.27
+      ],
+      [
+       "a",
+       704.39
+      ],
+      [
+       "stranger",
+       704.55
+      ],
+      [
+       "in",
+       705.29
+      ],
+      [
+       "your",
+       705.39
+      ]
+     ],
+     [
+      [
+       "own",
+       705.57
+      ],
+      [
+       "house.",
+       705.77
+      ]
+     ]
+    ]
+   },
+   "overlaps_broll": []
+  },
+  {
+   "id": "K12",
+   "kind": "KINETIC",
+   "t0": 845.726,
+   "t1": 849.747,
+   "spec": {
+    "words": [
+     [
+      "I",
+      845.716
+     ],
+     [
+      "had",
+      845.776
+     ],
+     [
+      "toys.",
+      846.036
+     ],
+     [
+      "All",
+      847.377
+     ],
+     [
+      "three",
+      847.637
+     ],
+     [
+      "of",
+      847.937
+     ],
+     [
+      "those",
+      848.037
+     ],
+     [
+      "are",
+      848.337
+     ],
+     [
+      "on",
+      848.477
+     ],
+     [
+      "the",
+      848.577
+     ],
+     [
+      "inside.",
+      848.797
+     ]
+    ],
+    "pages": [
+     [
+      [
+       "I",
+       845.716
+      ],
+      [
+       "had",
+       845.776
+      ],
+      [
+       "toys.",
+       846.036
+      ]
+     ],
+     [
+      [
+       "All",
+       847.377
+      ],
+      [
+       "three",
+       847.637
+      ],
+      [
+       "of",
+       847.937
+      ],
+      [
+       "those",
+       848.037
+      ],
+      [
+       "are",
+       848.337
+      ],
+      [
+       "on",
+       848.477
+      ],
+      [
+       "the",
+       848.577
+      ],
+      [
+       "inside.",
+       848.797
+      ]
+     ]
+    ]
+   },
+   "overlaps_broll": []
+  },
+  {
+   "id": "K13",
+   "kind": "KINETIC",
+   "t0": 873.331,
+   "t1": 881.352,
+   "spec": {
+    "words": [
+     [
+      "A",
+      873.321
+     ],
+     [
+      "man's",
+      873.481
+     ],
+     [
+      "yes",
+      873.961
+     ],
+     [
+      "is",
+      874.421
+     ],
+     [
+      "still",
+      874.641
+     ],
+     [
+      "standing",
+      875.021
+     ],
+     [
+      "after",
+      875.661
+     ],
+     [
+      "the",
+      875.921
+     ],
+     [
+      "feeling's",
+      876.061
+     ],
+     [
+      "gone.",
+      876.501
+     ],
+     [
+      "Now,",
+      877.521
+     ],
+     [
+      "stop",
+      878.221
+     ],
+     [
+      "waiting",
+      878.641
+     ],
+     [
+      "doesn't",
+      879.222
+     ],
+     [
+      "mean",
+      879.682
+     ],
+     [
+      "stop",
+      880.082
+     ],
+     [
+      "resting.",
+      880.562
+     ]
+    ],
+    "pages": [
+     [
+      [
+       "A",
+       873.321
+      ],
+      [
+       "man's",
+       873.481
+      ],
+      [
+       "yes",
+       873.961
+      ],
+      [
+       "is",
+       874.421
+      ],
+      [
+       "still",
+       874.641
+      ],
+      [
+       "standing",
+       875.021
+      ],
+      [
+       "after",
+       875.661
+      ],
+      [
+       "the",
+       875.921
+      ],
+      [
+       "feeling's",
+       876.061
+      ],
+      [
+       "gone.",
+       876.501
+      ]
+     ],
+     [
+      [
+       "Now,",
+       877.521
+      ],
+      [
+       "stop",
+       878.221
+      ],
+      [
+       "waiting",
+       878.641
+      ],
+      [
+       "doesn't",
+       879.222
+      ],
+      [
+       "mean",
+       879.682
+      ],
+      [
+       "stop",
+       880.082
+      ],
+      [
+       "resting.",
+       880.562
+      ]
+     ]
+    ]
+   },
+   "overlaps_broll": [
+    "4527"
+   ]
+  },
+  {
+   "id": "K14",
+   "kind": "KINETIC",
+   "t0": 903.615,
+   "t1": 909.236,
+   "spec": {
+    "words": [
+     [
+      "Your",
+      903.605
+     ],
+     [
+      "dad",
+      903.805
+     ],
+     [
+      "to",
+      904.126
+     ],
+     [
+      "finally",
+      904.266
+     ],
+     [
+      "say",
+      904.726
+     ],
+     [
+      "it?",
+      904.966
+     ],
+     [
+      "Write",
+      905.666
+     ],
+     [
+      "it",
+      905.966
+     ],
+     [
+      "under",
+      906.106
+     ],
+     [
+      "your",
+      906.346
+     ],
+     [
+      "word.",
+      906.566
+     ],
+     [
+      "Just",
+      907.386
+     ],
+     [
+      "the",
+      907.766
+     ],
+     [
+      "thing",
+      907.926
+     ],
+     [
+      "you're",
+      908.206
+     ],
+     [
+      "waiting",
+      908.386
+     ],
+     [
+      "on.",
+      908.766
+     ]
+    ],
+    "pages": [
+     [
+      [
+       "Your",
+       903.605
+      ],
+      [
+       "dad",
+       903.805
+      ],
+      [
+       "to",
+       904.126
+      ],
+      [
+       "finally",
+       904.266
+      ],
+      [
+       "say",
+       904.726
+      ],
+      [
+       "it?",
+       904.966
+      ]
+     ],
+     [
+      [
+       "Write",
+       905.666
+      ],
+      [
+       "it",
+       905.966
+      ],
+      [
+       "under",
+       906.106
+      ],
+      [
+       "your",
+       906.346
+      ],
+      [
+       "word.",
+       906.566
+      ]
+     ],
+     [
+      [
+       "Just",
+       907.386
+      ],
+      [
+       "the",
+       907.766
+      ],
+      [
+       "thing",
+       907.926
+      ],
+      [
+       "you're",
+       908.206
+      ],
+      [
+       "waiting",
+       908.386
+      ],
+      [
+       "on.",
+       908.766
+      ]
+     ]
+    ]
+   },
+   "overlaps_broll": [
+    "99890"
+   ]
+  },
+  {
+   "id": "K15",
+   "kind": "KINETIC",
+   "t0": 945.292,
+   "t1": 950.283,
+   "spec": {
+    "words": [
+     [
+      "going",
+      945.282
+     ],
+     [
+      "to",
+      945.562
+     ],
+     [
+      "sleep",
+      945.762
+     ],
+     [
+      "is",
+      946.242
+     ],
+     [
+      "the",
+      946.402
+     ],
+     [
+      "faithful",
+      946.602
+     ],
+     [
+      "thing.",
+      947.102
+     ],
+     [
+      "But",
+      948.042
+     ],
+     [
+      "if",
+      948.162
+     ],
+     [
+      "you're",
+      948.282
+     ],
+     [
+      "just",
+      948.442
+     ],
+     [
+      "comfortable",
+      948.682
+     ],
+     [
+      "being",
+      949.303
+     ],
+     [
+      "gone,",
+      949.623
+     ]
+    ],
+    "pages": [
+     [
+      [
+       "going",
+       945.282
+      ],
+      [
+       "to",
+       945.562
+      ],
+      [
+       "sleep",
+       945.762
+      ],
+      [
+       "is",
+       946.242
+      ],
+      [
+       "the",
+       946.402
+      ],
+      [
+       "faithful",
+       946.602
+      ],
+      [
+       "thing.",
+       947.102
+      ]
+     ],
+     [
+      [
+       "But",
+       948.042
+      ],
+      [
+       "if",
+       948.162
+      ],
+      [
+       "you're",
+       948.282
+      ],
+      [
+       "just",
+       948.442
+      ],
+      [
+       "comfortable",
+       948.682
+      ],
+      [
+       "being",
+       949.303
+      ],
+      [
+       "gone,",
+       949.623
+      ]
+     ]
+    ]
+   },
+   "overlaps_broll": []
+  },
+  {
+   "id": "K16",
+   "kind": "KINETIC",
+   "t0": 1030.982,
+   "t1": 1036.364,
+   "spec": {
+    "words": [
+     [
+      "I",
+      1030.972
+     ],
+     [
+      "live",
+      1031.072
+     ],
+     [
+      "alone.",
+      1031.232
+     ],
+     [
+      "Who",
+      1032.233
+     ],
+     [
+      "am",
+      1032.433
+     ],
+     [
+      "I",
+      1032.593
+     ],
+     [
+      "even",
+      1032.693
+     ],
+     [
+      "showing",
+      1033.013
+     ],
+     [
+      "up",
+      1033.413
+     ],
+     [
+      "for?\"",
+      1033.633
+     ],
+     [
+      "Somebody",
+      1034.833
+     ],
+     [
+      "you",
+      1035.394
+     ],
+     [
+      "can",
+      1035.554
+     ],
+     [
+      "reach",
+      1035.834
+     ]
+    ],
+    "pages": [
+     [
+      [
+       "I",
+       1030.972
+      ],
+      [
+       "live",
+       1031.072
+      ],
+      [
+       "alone.",
+       1031.232
+      ]
+     ],
+     [
+      [
+       "Who",
+       1032.233
+      ],
+      [
+       "am",
+       1032.433
+      ],
+      [
+       "I",
+       1032.593
+      ],
+      [
+       "even",
+       1032.693
+      ],
+      [
+       "showing",
+       1033.013
+      ],
+      [
+       "up",
+       1033.413
+      ],
+      [
+       "for?\"",
+       1033.633
+      ]
+     ],
+     [
+      [
+       "Somebody",
+       1034.833
+      ],
+      [
+       "you",
+       1035.394
+      ],
+      [
+       "can",
+       1035.554
+      ],
+      [
+       "reach",
+       1035.834
+      ]
+     ]
+    ]
+   },
+   "overlaps_broll": []
+  },
+  {
+   "id": "K17",
+   "kind": "KINETIC",
+   "t0": 1201.937,
+   "t1": 1205.918,
+   "spec": {
+    "words": [
+     [
+      "you're",
+      1201.927
+     ],
+     [
+      "still",
+      1202.127
+     ],
+     [
+      "welcome",
+      1202.427
+     ],
+     [
+      "here.",
+      1202.867
+     ],
+     [
+      "Start",
+      1203.627
+     ],
+     [
+      "with",
+      1204.047
+     ],
+     [
+      "one",
+      1204.467
+     ],
+     [
+      "honest",
+      1204.848
+     ],
+     [
+      "day.",
+      1205.348
+     ]
+    ],
+    "pages": [
+     [
+      [
+       "you're",
+       1201.927
+      ],
+      [
+       "still",
+       1202.127
+      ],
+      [
+       "welcome",
+       1202.427
+      ],
+      [
+       "here.",
+       1202.867
+      ]
+     ],
+     [
+      [
+       "Start",
+       1203.627
+      ],
+      [
+       "with",
+       1204.047
+      ],
+      [
+       "one",
+       1204.467
+      ],
+      [
+       "honest",
+       1204.848
+      ],
+      [
+       "day.",
+       1205.348
+      ]
+     ]
+    ]
+   },
+   "overlaps_broll": []
+  },
+  {
+   "id": "K18",
+   "kind": "KINETIC",
+   "t0": 1219.401,
+   "t1": 1223.9,
+   "spec": {
+    "words": [
+     [
+      "hard.",
+      1219.391
+     ],
+     [
+      "Why",
+      1220.291
+     ],
+     [
+      "a",
+      1220.551
+     ],
+     [
+      "good",
+      1220.711
+     ],
+     [
+      "man",
+      1221.011
+     ],
+     [
+      "keeps",
+      1221.331
+     ],
+     [
+      "waiting,",
+      1221.711
+     ],
+     [
+      "even",
+      1222.431
+     ],
+     [
+      "when",
+      1222.752
+     ],
+     [
+      "he",
+      1222.912
+     ],
+     [
+      "knows",
+      1223.012
+     ],
+     [
+      "better.",
+      1223.412
+     ]
+    ],
+    "pages": [
+     [
+      [
+       "hard.",
+       1219.391
+      ]
+     ],
+     [
+      [
+       "Why",
+       1220.291
+      ],
+      [
+       "a",
+       1220.551
+      ],
+      [
+       "good",
+       1220.711
+      ],
+      [
+       "man",
+       1221.011
+      ],
+      [
+       "keeps",
+       1221.331
+      ],
+      [
+       "waiting,",
+       1221.711
+      ],
+      [
+       "even",
+       1222.431
+      ],
+      [
+       "when",
+       1222.752
+      ],
+      [
+       "he",
+       1222.912
+      ],
+      [
+       "knows",
+       1223.012
+      ],
+      [
+       "better.",
+       1223.412
+      ]
+     ]
+    ]
+   },
+   "overlaps_broll": []
+  }
+ ],
+ "broll": [
+  {
+   "a": 53.904,
+   "b": 58.105,
+   "id": "1781",
+   "why": "story: kids asleep, laptop open",
+   "src": "mixkit",
+   "title": null,
+   "page": null,
+   "clip_in": 1.8,
+   "file": "/workspace/l01v3/broll/mx/1781.mp4",
+   "mezz": "/workspace/l01v3/broll/mezz/b00_1781.mp4",
+   "src_dur": 12.01,
+   "out_len": 4.201
+  },
+  {
+   "a": 58.105,
+   "b": 62.7,
+   "id": "72",
+   "why": "story: truck on lunch break, phone on the wheel",
+   "src": "mixkit",
+   "title": null,
+   "page": null,
+   "clip_in": 2.69,
+   "file": "/workspace/l01v3/broll/mx/72.mp4",
+   "mezz": "/workspace/l01v3/broll/mezz/b01_72.mp4",
+   "src_dur": 17.96,
+   "out_len": 4.595
+  },
+  {
+   "a": 130.649,
+   "b": 134.32,
+   "id": "1724",
+   "why": "cover smear 132.8 (WES_FULL 8)",
+   "src": "mixkit",
+   "title": null,
+   "page": null,
+   "clip_in": 1.91,
+   "file": "/workspace/l01v3/broll/mx/1724.mp4",
+   "mezz": "/workspace/l01v3/broll/mezz/b02_1724.mp4",
+   "src_dur": 12.71,
+   "out_len": 3.671
+  },
+  {
+   "a": 161.937,
+   "b": 165.177,
+   "id": "99888",
+   "why": "cover join P02 out (SPLIT 9)",
+   "src": "mixkit",
+   "title": null,
+   "page": null,
+   "clip_in": 1.94,
+   "file": "/workspace/l01v2/broll/src/99888.mp4",
+   "mezz": "/workspace/l01v2/broll/mezz/b03_99888.mp4",
+   "src_dur": 12.93,
+   "out_len": 3.24
+  },
+  {
+   "a": 212.404,
+   "b": 215.225,
+   "id": "42368",
+   "why": "cover join P03 out (SPLIT 14) / truck",
+   "src": "mixkit",
+   "title": null,
+   "page": null,
+   "clip_in": 1.85,
+   "file": "/workspace/l01v3/broll/mx/42368.mp4",
+   "mezz": "/workspace/l01v3/broll/mezz/b04_42368.mp4",
+   "src_dur": 12.3,
+   "out_len": 2.821
+  },
+  {
+   "a": 220.406,
+   "b": 223.217,
+   "id": "px7841657",
+   "why": "cover smear 221.7 (SPLIT 14) / a friend doing this with you (two men talking)",
+   "src": "pexels",
+   "title": "Men talking to each other",
+   "page": "https://www.pexels.com/video/men-talking-to-each-other-7841657/",
+   "clip_in": 1.0,
+   "file": "/workspace/l01v3/broll/src/px7841657.mp4",
+   "replaced": "43247",
+   "mezz": "/workspace/l01v3/broll/mezz/b05_px7841657.mp4",
+   "src_dur": 9.3,
+   "out_len": 2.811
+  },
+  {
+   "a": 285.422,
+   "b": 288.032,
+   "id": "px28339282",
+   "why": "cover P04 in + smear 286.7 (WES_FULL 18) / walked out of church (white steeple church)",
+   "src": "pexels",
+   "title": "The church is white with a tall steeple",
+   "page": "https://www.pexels.com/video/the-church-is-white-with-a-tall-steeple-28339282/",
+   "clip_in": 2.0,
+   "file": "/workspace/l01v3/broll/src/px28339282.mp4",
+   "replaced": "100207",
+   "mezz": "/workspace/l01v3/broll/mezz/b06_px28339282.mp4",
+   "src_dur": 19.27,
+   "out_len": 2.61
+  },
+  {
+   "a": 291.123,
+   "b": 294.453,
+   "id": "2041",
+   "why": "cover join P04 out (WES_FULL 18) / next ordinary day",
+   "src": "mixkit",
+   "title": null,
+   "page": null,
+   "clip_in": 3.76,
+   "file": "/workspace/l01v3/broll/mx/2041.mp4",
+   "mezz": "/workspace/l01v3/broll/mezz/b07_2041.mp4",
+   "src_dur": 25.07,
+   "out_len": 3.33
+  },
+  {
+   "a": 375.981,
+   "b": 378.972,
+   "id": "808",
+   "why": "cover P06 in (WES_FULL 23) / the plain one",
+   "src": "mixkit",
+   "title": null,
+   "page": null,
+   "clip_in": 1.61,
+   "file": "/workspace/l01v3/broll/mx/808.mp4",
+   "mezz": "/workspace/l01v3/broll/mezz/b08_808.mp4",
+   "src_dur": 10.75,
+   "out_len": 2.991
+  },
+  {
+   "a": 378.972,
+   "b": 382.82,
+   "id": "18263",
+   "why": "cover smear 381.5 (WES_FULL 23) / the very little",
+   "src": "mixkit",
+   "title": null,
+   "page": null,
+   "clip_in": 1.81,
+   "file": "/workspace/l01v3/broll/mx/18263.mp4",
+   "mezz": "/workspace/l01v3/broll/mezz/b09_18263.mp4",
+   "src_dur": 12.08,
+   "out_len": 3.848
+  },
+  {
+   "a": 402.843,
+   "b": 406.163,
+   "id": "248",
+   "why": "cover join P07 out + smear 404.6 (SPLIT 25) / phone, small yes",
+   "src": "mixkit",
+   "title": null,
+   "page": null,
+   "clip_in": 3.65,
+   "file": "/workspace/l01v3/broll/mx/248.mp4",
+   "mezz": "/workspace/l01v3/broll/mezz/b10_248.mp4",
+   "src_dur": 24.32,
+   "out_len": 3.32
+  },
+  {
+   "a": 453.1,
+   "b": 458.02,
+   "id": "191",
+   "why": "story: daughter had a bike",
+   "src": "mixkit",
+   "title": null,
+   "page": null,
+   "clip_in": 2.5,
+   "file": "/workspace/l01v3/broll/mx/191.mp4",
+   "mezz": "/workspace/l01v3/broll/mezz/b11_191.mp4",
+   "src_dur": 16.65,
+   "out_len": 4.92
+  },
+  {
+   "a": 476.272,
+   "b": 479.162,
+   "id": "1808",
+   "why": "cover join P08 in (SPLIT 30) / opened my laptop",
+   "src": "mixkit",
+   "title": null,
+   "page": null,
+   "clip_in": 2.13,
+   "file": "/workspace/l01v3/broll/mx/1808.mp4",
+   "mezz": "/workspace/l01v3/broll/mezz/b12_1808.mp4",
+   "src_dur": 14.21,
+   "out_len": 2.89
+  },
+  {
+   "a": 480.913,
+   "b": 484.07,
+   "id": "99909",
+   "why": "cover join P08 out + smear 482.3 (SPLIT 30) / one thing",
+   "src": "mixkit",
+   "title": null,
+   "page": null,
+   "clip_in": 1.55,
+   "file": "/workspace/l01v3/broll/mx/99909.mp4",
+   "mezz": "/workspace/l01v3/broll/mezz/b13_99909.mp4",
+   "src_dur": 10.3,
+   "out_len": 3.157
+  },
+  {
+   "a": 498.501,
+   "b": 500.512,
+   "id": "px4297124",
+   "why": "cover join P09 in + smear 499.8 (WES_FULL 31) / went back to her homework (girl writing)",
+   "src": "pexels",
+   "title": "A young girl writing at home",
+   "page": "https://www.pexels.com/video/girl-child-teenager-kid-4297124/",
+   "clip_in": 1.0,
+   "file": "/workspace/l01v3/broll/src/px4297124.mp4",
+   "replaced": "50122",
+   "mezz": "/workspace/l01v3/broll/mezz/b14_px4297124.mp4",
+   "src_dur": 8.24,
+   "out_len": 2.011
+  },
+  {
+   "a": 500.512,
+   "b": 505.312,
+   "id": "px3051693",
+   "why": "cover smear 503.6 (WES_FULL 31) / late that night, porch light on (lit house at night)",
+   "src": "pexels",
+   "title": "Lights from an isolated house at night",
+   "page": "https://www.pexels.com/video/lights-from-an-isolated-house-makes-it-visible-from-the-darkness-of-the-night-3051693/",
+   "clip_in": 3.0,
+   "file": "/workspace/l01v3/broll/src/px3051693.mp4",
+   "replaced": "40867",
+   "mezz": "/workspace/l01v3/broll/mezz/b15_px3051693.mp4",
+   "src_dur": 23.53,
+   "out_len": 4.8
+  },
+  {
+   "a": 602.591,
+   "b": 609.622,
+   "id": "4809",
+   "why": "cover join P11 in (bubble 36 -> WES_FULL 37 transition) + story: busy is an easy place to hide",
+   "src": "mixkit",
+   "title": null,
+   "page": null,
+   "clip_in": 5.61,
+   "file": "/workspace/l01v3/broll/mx/4809.mp4",
+   "mezz": "/workspace/l01v3/broll/mezz/b16_4809.mp4",
+   "src_dur": 37.4,
+   "out_len": 7.031
+  },
+  {
+   "a": 625.6,
+   "b": 631.087,
+   "id": "px8060562",
+   "src": "pexels",
+   "title": "A couple having a misunderstanding",
+   "page": "https://www.pexels.com/video/a-couple-having-a-misunderstanding-8060562/",
+   "why": "cover AUDIO CUT D \"for a week,\" (SPLIT 38) / short with her",
+   "clip_in": 11.0,
+   "file": "/workspace/l01v3/broll/src/px8060562.mp4",
+   "mezz": "/workspace/l01v3/broll/mezz/b17_px8060562.mp4",
+   "src_dur": 26.64,
+   "out_len": 4.607
+  },
+  {
+   "a": 643.599,
+   "b": 650.051,
+   "id": "42039",
+   "why": "story: pulled into the driveway",
+   "src": "mixkit",
+   "title": null,
+   "page": null,
+   "clip_in": 2.55,
+   "file": "/workspace/l01v3/broll/mx/42039.mp4",
+   "mezz": "/workspace/l01v3/broll/mezz/b18_42039.mp4",
+   "src_dur": 17.02,
+   "out_len": 6.452
+  },
+  {
+   "a": 661.063,
+   "b": 663.884,
+   "id": "px5534367",
+   "why": "cover join P12 in (WES_FULL 40) / an older man I trusted (white-haired man)",
+   "src": "pexels",
+   "title": "A man with white hair looking at the camera",
+   "page": "https://www.pexels.com/video/a-man-with-white-hair-looking-at-the-camera-5534367/",
+   "clip_in": 1.5,
+   "file": "/workspace/l01v3/broll/src/px5534367.mp4",
+   "replaced": "4542",
+   "mezz": "/workspace/l01v3/broll/mezz/b19_px5534367.mp4",
+   "src_dur": 12.78,
+   "out_len": 2.821
+  },
+  {
+   "a": 674.373,
+   "b": 677.353,
+   "id": "39684",
+   "why": "cover join P12 out (WES_FULL 40) / could not have hired out",
+   "src": "mixkit",
+   "title": null,
+   "page": null,
+   "clip_in": 1.21,
+   "file": "/workspace/l01v3/broll/mx/39684.mp4",
+   "mezz": "/workspace/l01v3/broll/mezz/b20_39684.mp4",
+   "src_dur": 8.09,
+   "out_len": 2.98
+  },
+  {
+   "a": 809.882,
+   "b": 815.543,
+   "id": "50754",
+   "why": "story: some morning I would wake up",
+   "src": "mixkit",
+   "title": null,
+   "page": null,
+   "clip_in": 1.91,
+   "file": "/workspace/l01v3/broll/mx/50754.mp4",
+   "mezz": "/workspace/l01v3/broll/mezz/b21_50754.mp4",
+   "src_dur": 12.76,
+   "out_len": 5.661
+  },
+  {
+   "a": 863.019,
+   "b": 866.049,
+   "id": "50051",
+   "why": "cover P14 in (WES_FULL 51) / birthday",
+   "src": "mixkit",
+   "title": null,
+   "page": null,
+   "clip_in": 1.24,
+   "file": "/workspace/l01v3/broll/mx/50051.mp4",
+   "mezz": "/workspace/l01v3/broll/mezz/b22_50051.mp4",
+   "src_dur": 8.3,
+   "out_len": 3.03
+  },
+  {
+   "a": 871.19,
+   "b": 873.961,
+   "id": "4527",
+   "why": "cover join P14 out (WES_FULL 51) / a man's yes",
+   "src": "mixkit",
+   "title": null,
+   "page": null,
+   "clip_in": 1.05,
+   "file": "/workspace/l01v3/broll/mx/4527.mp4",
+   "mezz": "/workspace/l01v3/broll/mezz/b23_4527.mp4",
+   "src_dur": 7.0,
+   "out_len": 2.771
+  },
+  {
+   "a": 883.552,
+   "b": 885.843,
+   "id": "px4052821",
+   "why": "cover smear 884.7 (WES_FULL 52) / a nap is allowed (man resting on sofa; replaces bed clip with headboard line art)",
+   "src": "pexels",
+   "title": "Man resting on sofa",
+   "page": "https://www.pexels.com/video/man-resting-on-sofa-and-heavily-breading-4052821/",
+   "clip_in": 0.5,
+   "file": "/workspace/l01v3/broll/src/px4052821.mp4",
+   "replaced": "31417",
+   "mezz": "/workspace/l01v3/broll/mezz/b24_px4052821.mp4",
+   "src_dur": 9.36,
+   "out_len": 2.291
+  },
+  {
+   "a": 885.843,
+   "b": 889.103,
+   "id": "100252",
+   "why": "cover smear 887.6 (WES_FULL 52) / quiet evening",
+   "src": "mixkit",
+   "title": null,
+   "page": null,
+   "clip_in": 4.39,
+   "file": "/workspace/l01v3/broll/mx/100252.mp4",
+   "mezz": "/workspace/l01v3/broll/mezz/b25_100252.mp4",
+   "src_dur": 29.29,
+   "out_len": 3.26
+  },
+  {
+   "a": 907.926,
+   "b": 910.5,
+   "id": "99890",
+   "why": "cover join P16 out + smear 909.2 (SPLIT 54) / write it",
+   "src": "mixkit",
+   "title": null,
+   "page": null,
+   "clip_in": 1.23,
+   "file": "/workspace/l01v2/broll/src/99890.mp4",
+   "mezz": "/workspace/l01v2/broll/mezz/b25_99890.mp4",
+   "src_dur": 8.17,
+   "out_len": 2.574
+  },
+  {
+   "a": 916.307,
+   "b": 919.201,
+   "id": "51106",
+   "why": "cover smear 917.8 (SPLIT 54) / mine to start",
+   "src": "mixkit",
+   "title": null,
+   "page": null,
+   "clip_in": 1.64,
+   "file": "/workspace/l01v3/broll/mx/51106.mp4",
+   "mezz": "/workspace/l01v3/broll/mezz/b27_51106.mp4",
+   "src_dur": 10.93,
+   "out_len": 2.894
+  },
+  {
+   "a": 1042.976,
+   "b": 1046.037,
+   "id": "4720",
+   "why": "cover join P20 in borderline (SPLIT 61) / kid without a dad",
+   "src": "mixkit",
+   "title": null,
+   "page": null,
+   "clip_in": 0.93,
+   "file": "/workspace/l01v3/broll/mx/4720.mp4",
+   "mezz": "/workspace/l01v3/broll/mezz/b28_4720.mp4",
+   "src_dur": 6.21,
+   "out_len": 3.061
+  },
+  {
+   "a": 1049.078,
+   "b": 1053.342,
+   "id": "px5029481",
+   "why": "cover smears 1050.3/1052.0 (SPLIT 61) / show up for it (man tying his shoe)",
+   "src": "pexels",
+   "title": "Person tying his shoelace",
+   "page": "https://www.pexels.com/video/person-tying-his-shoelace-5029481/",
+   "clip_in": 1.0,
+   "file": "/workspace/l01v3/broll/src/px5029481.mp4",
+   "replaced": "4851",
+   "mezz": "/workspace/l01v3/broll/mezz/b29_px5029481.mp4",
+   "src_dur": 10.04,
+   "out_len": 4.264
+  },
+  {
+   "a": 1103.277,
+   "b": 1106.638,
+   "id": "42982",
+   "why": "cover AUDIO CUT \"This week,\" (bubble 64) / one meal",
+   "src": "mixkit",
+   "title": null,
+   "page": null,
+   "clip_in": 1.86,
+   "file": "/workspace/l01v3/broll/mx/42982.mp4",
+   "mezz": "/workspace/l01v3/broll/mezz/b30_42982.mp4",
+   "src_dur": 12.39,
+   "out_len": 2.041
+  },
+  {
+   "a": 1119.651,
+   "b": 1122.612,
+   "id": "144",
+   "why": "cover join P23 in (SPLIT 65) / text one man",
+   "src": "mixkit",
+   "title": null,
+   "page": null,
+   "clip_in": 2.45,
+   "file": "/workspace/l01v3/broll/mx/144.mp4",
+   "mezz": "/workspace/l01v3/broll/mezz/b31_144.mp4",
+   "src_dur": 16.31,
+   "out_len": 2.961
+  },
+  {
+   "a": 1126.763,
+   "b": 1130.22,
+   "id": "4915",
+   "why": "cover smear 1128.9 (SPLIT 65) / send it",
+   "src": "mixkit",
+   "title": null,
+   "page": null,
+   "clip_in": 2.25,
+   "file": "/workspace/l01v3/broll/mx/4915.mp4",
+   "mezz": "/workspace/l01v3/broll/mezz/b32_4915.mp4",
+   "src_dur": 15.0,
+   "out_len": 3.457
+  }
+ ],
+ "hide": [
+  {
+   "a": 187.74,
+   "b": 190.26,
+   "why": [
+    "smear r0.49",
+    "smear r0.49"
+   ],
+   "shot": "12",
+   "kind": "TYPE_BOARD_BUBBLE"
+  },
+  {
+   "a": 244.78,
+   "b": 245.82,
+   "why": [
+    "smear r0.46"
+   ],
+   "shot": "16",
+   "kind": "TYPE_BOARD_BUBBLE"
+  },
+  {
+   "a": 261.22,
+   "b": 262.38,
+   "why": [
+    "smear r0.47"
+   ],
+   "shot": "17",
+   "kind": "BRANDED_STILL_BUBBLE"
+  },
+  {
+   "a": 307.94,
+   "b": 309.1,
+   "why": [
+    "smear r0.46"
+   ],
+   "shot": "20",
+   "kind": "SCRIPTURE_BUBBLE"
+  },
+  {
+   "a": 554.94,
+   "b": 556.06,
+   "why": [
+    "smear r0.49"
+   ],
+   "shot": "33",
+   "kind": "TYPE_BOARD_BUBBLE"
+  },
+  {
+   "a": 602.48,
+   "b": 604.78,
+   "why": [
+    "Aaron 10:03 smear",
+    "join P11 in r0.77"
+   ],
+   "shot": "36",
+   "kind": "TYPE_BOARD_BUBBLE"
+  },
+  {
+   "a": 733.7,
+   "b": 735.0,
+   "why": [
+    "Aaron 12:14.3 soft"
+   ],
+   "shot": "44",
+   "kind": "TYPE_BOARD_BUBBLE"
+  },
+  {
+   "a": 739.54,
+   "b": 740.62,
+   "why": [
+    "smear r0.46"
+   ],
+   "shot": "44",
+   "kind": "TYPE_BOARD_BUBBLE"
+  },
+  {
+   "a": 753.2,
+   "b": 754.5,
+   "why": [
+    "Aaron 12:33.8 soft"
+   ],
+   "shot": "45",
+   "kind": "TYPE_BOARD_BUBBLE"
+  },
+  {
+   "a": 795.02,
+   "b": 796.06,
+   "why": [
+    "smear r0.48"
+   ],
+   "shot": "47",
+   "kind": "SCRIPTURE_BUBBLE"
+  },
+  {
+   "a": 831.7,
+   "b": 833.2,
+   "why": [
+    "Aaron 13:52.3 soft"
+   ],
+   "shot": "49",
+   "kind": "SCRIPTURE_BUBBLE"
+  },
+  {
+   "a": 1158.82,
+   "b": 1159.9,
+   "why": [
+    "smear r0.42"
+   ],
+   "shot": "66",
+   "kind": "TYPE_BOARD_BUBBLE"
+  },
+  {
+   "a": 1177.02,
+   "b": 1178.06,
+   "why": [
+    "smear r0.48"
+   ],
+   "shot": "67",
+   "kind": "TYPE_BOARD_BUBBLE"
+  },
+  {
+   "a": 36.88,
+   "b": 38.4,
+   "why": [
+    "AUDIO CUT A this week."
+   ],
+   "shot": "2",
+   "kind": "AGENDA"
+  },
+  {
+   "a": 197.68,
+   "b": 198.62,
+   "why": [
+    "AUDIO CUT B this week,"
+   ],
+   "shot": "10",
+   "kind": "TYPE_BOARD_BUBBLE"
+  },
+  {
+   "a": 263.56,
+   "b": 268.0,
+   "why": [
+    "AUDIO CUT C weekend retreat sentence"
+   ],
+   "shot": "17",
+   "kind": "BRANDED_STILL_BUBBLE",
+   "ramp_in": 0.04
+  }
+ ],
+ "framing": [
+  {
+   "shot": "4",
+   "a": 51.413,
+   "b": 53.904,
+   "f": [
+    "CARD",
+    1.0,
+    0
+   ],
+   "hf": true
+  },
+  {
+   "shot": "4",
+   "a": 62.7,
+   "b": 68.137,
+   "f": [
+    "CARD",
+    1.0,
+    0
+   ],
+   "hf": false
+  },
+  {
+   "shot": "4",
+   "a": 68.137,
+   "b": 70.9975,
+   "f": [
+    "CARD",
+    1.0,
+    0
+   ],
+   "hf": false
+  },
+  {
+   "shot": "8",
+   "a": 124.157,
+   "b": 130.649,
+   "f": [
+    "CARD",
+    1.0,
+    0
+   ],
+   "hf": false
+  },
+  {
+   "shot": "8",
+   "a": 134.32,
+   "b": 140.611,
+   "f": [
+    "MED",
+    1.0,
+    0
+   ],
+   "hf": true
+  },
+  {
+   "shot": "8",
+   "a": 140.611,
+   "b": 143.262,
+   "f": [
+    "MED",
+    1.0,
+    0
+   ],
+   "hf": true
+  },
+  {
+   "shot": "15",
+   "a": 223.217,
+   "b": 230.288,
+   "f": [
+    "CARD",
+    1.0,
+    0
+   ],
+   "hf": false
+  },
+  {
+   "shot": "15",
+   "a": 230.288,
+   "b": 236.519,
+   "f": [
+    "CARD",
+    1.0,
+    0
+   ],
+   "hf": false
+  },
+  {
+   "shot": "15",
+   "a": 236.519,
+   "b": 238.7235,
+   "f": [
+    "CARD",
+    1.0,
+    0
+   ],
+   "hf": true
+  },
+  {
+   "shot": "18",
+   "a": 273.271,
+   "b": 280.88149999999996,
+   "f": [
+    "CARD",
+    1.0,
+    0
+   ],
+   "hf": false
+  },
+  {
+   "shot": "18",
+   "a": 280.88149999999996,
+   "b": 285.422,
+   "f": [
+    "CARD",
+    1.0,
+    0
+   ],
+   "hf": false
+  },
+  {
+   "shot": "18",
+   "a": 288.032,
+   "b": 291.123,
+   "f": [
+    "CARD",
+    1.0,
+    0
+   ],
+   "hf": true
+  },
+  {
+   "shot": "18",
+   "a": 294.453,
+   "b": 295.63300000000004,
+   "f": [
+    "CARD",
+    1.0,
+    0
+   ],
+   "hf": true
+  },
+  {
+   "shot": "23",
+   "a": 369.629,
+   "b": 375.981,
+   "f": [
+    "CARD",
+    1.0,
+    0
+   ],
+   "hf": false
+  },
+  {
+   "shot": "27",
+   "a": 435.137,
+   "b": 441.438,
+   "f": [
+    "CARD",
+    1.0,
+    0
+   ],
+   "hf": false
+  },
+  {
+   "shot": "27",
+   "a": 441.438,
+   "b": 447.36,
+   "f": [
+    "CARD",
+    1.0,
+    0
+   ],
+   "hf": false
+  },
+  {
+   "shot": "28",
+   "a": 447.36,
+   "b": 453.1,
+   "f": [
+    "MED",
+    1.0,
+    0
+   ],
+   "hf": true
+  },
+  {
+   "shot": "28",
+   "a": 458.02,
+   "b": 459.28999999999996,
+   "f": [
+    "CARD",
+    1.0,
+    0
+   ],
+   "hf": true
+  },
+  {
+   "shot": "31",
+   "a": 505.312,
+   "b": 510.943,
+   "f": [
+    "CARD",
+    1.0,
+    0
+   ],
+   "hf": false
+  },
+  {
+   "shot": "31",
+   "a": 510.943,
+   "b": 518.72,
+   "f": [
+    "CARD",
+    1.0,
+    0
+   ],
+   "hf": false
+  },
+  {
+   "shot": "32",
+   "a": 518.72,
+   "b": 525.514,
+   "f": [
+    "CARD",
+    1.0,
+    0
+   ],
+   "hf": false
+  },
+  {
+   "shot": "32",
+   "a": 525.514,
+   "b": 532.775,
+   "f": [
+    "CARD",
+    1.0,
+    0
+   ],
+   "hf": false
+  },
+  {
+   "shot": "32",
+   "a": 532.775,
+   "b": 539.8555,
+   "f": [
+    "CARD",
+    1.0,
+    0
+   ],
+   "hf": false
+  },
+  {
+   "shot": "37",
+   "a": 609.622,
+   "b": 616.684,
+   "f": [
+    "CARD",
+    1.0,
+    0
+   ],
+   "hf": false
+  },
+  {
+   "shot": "37",
+   "a": 616.684,
+   "b": 621.0445,
+   "f": [
+    "CARD",
+    1.0,
+    0
+   ],
+   "hf": false
+  },
+  {
+   "shot": "39",
+   "a": 639.168,
+   "b": 643.599,
+   "f": [
+    "CARD",
+    1.0,
+    0
+   ],
+   "hf": false
+  },
+  {
+   "shot": "39",
+   "a": 650.051,
+   "b": 657.6619999999999,
+   "f": [
+    "CARD",
+    1.0,
+    0
+   ],
+   "hf": false
+  },
+  {
+   "shot": "39",
+   "a": 657.6619999999999,
+   "b": 661.063,
+   "f": [
+    "CARD",
+    1.0,
+    0
+   ],
+   "hf": false
+  },
+  {
+   "shot": "40",
+   "a": 663.884,
+   "b": 671.3720000000001,
+   "f": [
+    "CARD",
+    1.0,
+    0
+   ],
+   "hf": false
+  },
+  {
+   "shot": "40",
+   "a": 671.3720000000001,
+   "b": 674.373,
+   "f": [
+    "CARD",
+    1.0,
+    0
+   ],
+   "hf": false
+  },
+  {
+   "shot": "40",
+   "a": 677.353,
+   "b": 684.5450000000001,
+   "f": [
+    "CARD",
+    1.0,
+    0
+   ],
+   "hf": false
+  },
+  {
+   "shot": "43",
+   "a": 712.212,
+   "b": 719.8140000000001,
+   "f": [
+    "CARD",
+    1.0,
+    0
+   ],
+   "hf": false
+  },
+  {
+   "shot": "43b",
+   "a": 724.2850000000001,
+   "b": 727.2155,
+   "f": [
+    "CARD",
+    1.0,
+    0
+   ],
+   "hf": true
+  },
+  {
+   "shot": "48",
+   "a": 803.28,
+   "b": 809.882,
+   "f": [
+    "CARD",
+    1.0,
+    0
+   ],
+   "hf": false
+  },
+  {
+   "shot": "48",
+   "a": 815.543,
+   "b": 820.7139999999999,
+   "f": [
+    "CARD",
+    1.0,
+    0
+   ],
+   "hf": false
+  },
+  {
+   "shot": "51",
+   "a": 855.568,
+   "b": 863.019,
+   "f": [
+    "CARD",
+    1.0,
+    0
+   ],
+   "hf": false
+  },
+  {
+   "shot": "51",
+   "a": 866.049,
+   "b": 871.19,
+   "f": [
+    "CARD",
+    1.0,
+    0
+   ],
+   "hf": false
+  },
+  {
+   "shot": "51",
+   "a": 873.961,
+   "b": 877.28,
+   "f": [
+    "CARD",
+    1.0,
+    0
+   ],
+   "hf": false
+  },
+  {
+   "shot": "52",
+   "a": 877.28,
+   "b": 883.552,
+   "f": [
+    "CARD",
+    1.0,
+    0
+   ],
+   "hf": false
+  },
+  {
+   "shot": "52",
+   "a": 889.103,
+   "b": 895.7339999999999,
+   "f": [
+    "CARD",
+    1.0,
+    0
+   ],
+   "hf": false
+  },
+  {
+   "shot": "56",
+   "a": 938.49,
+   "b": 945.732,
+   "f": [
+    "CARD",
+    1.0,
+    0
+   ],
+   "hf": false
+  },
+  {
+   "shot": "56",
+   "a": 945.732,
+   "b": 950.2829999999999,
+   "f": [
+    "CARD",
+    1.0,
+    0
+   ],
+   "hf": false
+  },
+  {
+   "shot": "59",
+   "a": 989.2965,
+   "b": 996.182,
+   "f": [
+    "CARD",
+    1.0,
+    0
+   ],
+   "hf": false
+  },
+  {
+   "shot": "59",
+   "a": 996.182,
+   "b": 1002.874,
+   "f": [
+    "MED",
+    1.0,
+    0
+   ],
+   "hf": true
+  },
+  {
+   "shot": "59",
+   "a": 1002.874,
+   "b": 1010.096,
+   "f": [
+    "CARD",
+    1.0,
+    0
+   ],
+   "hf": false
+  },
+  {
+   "shot": "68",
+   "a": 1178.3015,
+   "b": 1185.813,
+   "f": [
+    "MED",
+    1.0,
+    0
+   ],
+   "hf": true
+  },
+  {
+   "shot": "68",
+   "a": 1185.813,
+   "b": 1191.7849999999999,
+   "f": [
+    "CARD",
+    1.0,
+    0
+   ],
+   "hf": false
+  },
+  {
+   "shot": "68",
+   "a": 1191.7849999999999,
+   "b": 1194.0749999999998,
+   "f": [
+    "CARD",
+    1.0,
+    0
+   ],
+   "hf": false
+  },
+  {
+   "shot": "71",
+   "a": 1224.042,
+   "b": 1231.2534999999998,
+   "f": [
+    "CARD",
+    1.0,
+    0
+   ],
+   "hf": false
+  },
+  {
+   "shot": "71",
+   "a": 1231.2534999999998,
+   "b": 1233.3700000000001,
+   "f": [
+    "CARD",
+    1.0,
+    0
+   ],
+   "hf": true
+  }
+ ],
+ "bubble_crop": [
+  {
+   "run": [
+    "2",
+    "2"
+   ],
+   "t0": 9.933,
+   "t1": 38.15,
+   "crop": [
+    620,
+    -40,
+    680,
+    800
+   ],
+   "hand_narrow": 0.2,
+   "hand_wide": 1.6
+  },
+  {
+   "run": [
+    "5",
+    "6"
+   ],
+   "t0": 70.9975,
+   "t1": 107.673,
+   "crop": [
+    620,
+    -40,
+    680,
+    800
+   ],
+   "hand_narrow": 0.0,
+   "hand_wide": 1.8
+  },
+  {
+   "run": [
+    "10",
+    "10"
+   ],
+   "t0": 163.887,
+   "t1": 207.573,
+   "crop": [
+    660,
+    -10,
+    600,
+    706
+   ],
+   "hand_narrow": 0.4,
+   "hand_wide": 3.2
+  },
+  {
+   "run": [
+    "16",
+    "17"
+   ],
+   "t0": 238.7235,
+   "t1": 273.271,
+   "crop": [
+    620,
+    -40,
+    680,
+    800
+   ],
+   "hand_narrow": 0.6000000000000001,
+   "hand_wide": 2.2
+  },
+  {
+   "run": [
+    "20",
+    "22"
+   ],
+   "t0": 308.054,
+   "t1": 369.629,
+   "crop": [
+    620,
+    -40,
+    680,
+    800
+   ],
+   "hand_narrow": 0.2,
+   "hand_wide": 2.0
+  },
+  {
+   "run": [
+    "24",
+    "24"
+   ],
+   "t0": 382.53650000000005,
+   "t1": 400.972,
+   "crop": [
+    620,
+    -40,
+    680,
+    800
+   ],
+   "hand_narrow": 0.0,
+   "hand_wide": 0.6000000000000001
+  },
+  {
+   "run": [
+    "33",
+    "36"
+   ],
+   "t0": 539.8555,
+   "t1": 604.431,
+   "crop": [
+    620,
+    -40,
+    680,
+    800
+   ],
+   "hand_narrow": 0.4,
+   "hand_wide": 2.6
+  },
+  {
+   "run": [
+    "44",
+    "47"
+   ],
+   "t0": 727.2155,
+   "t1": 803.28,
+   "crop": [
+    660,
+    -10,
+    600,
+    706
+   ],
+   "hand_narrow": 2.2,
+   "hand_wide": 5.6000000000000005
+  },
+  {
+   "run": [
+    "49",
+    "49"
+   ],
+   "t0": 820.7139999999999,
+   "t1": 837.0915,
+   "crop": [
+    620,
+    -40,
+    680,
+    800
+   ],
+   "hand_narrow": 0.2,
+   "hand_wide": 0.8
+  },
+  {
+   "run": [
+    "53",
+    "53"
+   ],
+   "t0": 895.7339999999999,
+   "t1": 905.396,
+   "crop": [
+    620,
+    -40,
+    680,
+    800
+   ],
+   "hand_narrow": 0.0,
+   "hand_wide": 0.8
+  },
+  {
+   "run": [
+    "57",
+    "57"
+   ],
+   "t0": 957.825,
+   "t1": 971.668,
+   "crop": [
+    620,
+    -40,
+    680,
+    800
+   ],
+   "hand_narrow": 0.2,
+   "hand_wide": 0.4
+  },
+  {
+   "run": [
+    "62",
+    "62"
+   ],
+   "t0": 1053.3425,
+   "t1": 1077.341,
+   "crop": [
+    620,
+    -40,
+    680,
+    800
+   ],
+   "hand_narrow": 0.8,
+   "hand_wide": 1.4000000000000001
+  },
+  {
+   "run": [
+    "64",
+    "64"
+   ],
+   "t0": 1099.3165,
+   "t1": 1120.6315,
+   "crop": [
+    620,
+    -40,
+    680,
+    800
+   ],
+   "hand_narrow": 1.2000000000000002,
+   "hand_wide": 2.0
+  },
+  {
+   "run": [
+    "66",
+    "67"
+   ],
+   "t0": 1138.1154999999999,
+   "t1": 1178.3015,
+   "crop": [
+    620,
+    -40,
+    680,
+    800
+   ],
+   "hand_narrow": 0.6000000000000001,
+   "hand_wide": 2.6
+  }
+ ]
+}

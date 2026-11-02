@@ -1,0 +1,244 @@
+[
+ {
+  "i": 0,
+  "shots": [
+   "4"
+  ],
+  "a": 51.4,
+  "b": 71.72,
+  "file": "w00_51.40-71.72.mp3",
+  "size": 489068,
+  "asset_id": "a4ba3acc5c7946fa8d8c7f13ad2bf025",
+  "clip": "/workspace/l01v4/wide/hg_w00.mp4",
+  "video_id": "bd7b10162f487c62d16475b04a698ecc",
+  "clip_dur": 20.32
+ },
+ {
+  "i": 1,
+  "shots": [
+   "8"
+  ],
+  "a": 124.16,
+  "b": 144.32,
+  "file": "w01_124.16-144.32.mp3",
+  "size": 485036,
+  "asset_id": "a2523088c0f7474b890817f0e673960d",
+  "clip": "/workspace/l01v4/wide/hg_w01.mp4",
+  "video_id": "65144d330615ded4e29a916aba99a55f",
+  "clip_dur": 20.16
+ },
+ {
+  "i": 2,
+  "shots": [
+   "15"
+  ],
+  "a": 221.92,
+  "b": 240.16,
+  "file": "w02_221.92-240.16.mp3",
+  "size": 438956,
+  "asset_id": "e01e50f561fa470a9a51aa1e67fe1beb",
+  "clip": "/workspace/l01v4/wide/hg_w02.mp4",
+  "video_id": "7ef1bcbabdffc77f79a7056d2639a762",
+  "clip_dur": 18.24
+ },
+ {
+  "i": 3,
+  "shots": [
+   "18"
+  ],
+  "a": 272.84,
+  "b": 296.48,
+  "file": "w03_272.84-296.48.mp3",
+  "size": 568556,
+  "asset_id": "0531a5395de64ba597f9eacfdbf36a0d",
+  "clip": "/workspace/l01v4/wide/hg_w03.mp4",
+  "video_id": "63c3e269059468b5f6c781187832fc0c",
+  "clip_dur": 23.64
+ },
+ {
+  "i": 4,
+  "shots": [
+   "23"
+  ],
+  "a": 369.2,
+  "b": 384.0,
+  "file": "w04_369.20-384.00.mp3",
+  "size": 356588,
+  "asset_id": "ebacd519fdc045b1b527473ae1f33307",
+  "clip": "/workspace/l01v4/wide/hg_w04.mp4",
+  "video_id": "3cd297fdbfa5dc2df19ad2a6b4b4a4ec",
+  "clip_dur": 14.8
+ },
+ {
+  "i": 5,
+  "shots": [
+   "27",
+   "28"
+  ],
+  "a": 434.64,
+  "b": 460.08,
+  "file": "w05_434.64-460.08.mp3",
+  "size": 611756,
+  "asset_id": "22588a1072474b7d95e91ecef43d9425",
+  "clip": "/workspace/l01v4/wide/hg_w05.mp4",
+  "video_id": "e9aac27f9b412e6d2904d0bf5d809a90",
+  "clip_dur": 25.44
+ },
+ {
+  "i": 6,
+  "shots": [
+   "31",
+   "32"
+  ],
+  "a": 498.16,
+  "b": 541.12,
+  "file": "w06_498.16-541.12.mp3",
+  "size": 1032236,
+  "asset_id": "ed89ba8a3fbe4b249bc59c9be22e5142",
+  "clip": "/workspace/l01v4/wide/hg_w06.mp4",
+  "video_id": "830eb133684b1280df8ecb64be4ceef4",
+  "clip_dur": 42.96
+ },
+ {
+  "i": 7,
+  "shots": [
+   "37"
+  ],
+  "a": 604.08,
+  "b": 621.92,
+  "file": "w07_604.08-621.92.mp3",
+  "size": 429740,
+  "asset_id": "fb97b8f232df4401883f5b13086927ed",
+  "clip": "/workspace/l01v4/wide/hg_w07.mp4",
+  "video_id": "a8d631fbe59bca87491d840305a603e3",
+  "clip_dur": 17.84
+ },
+ {
+  "i": 8,
+  "shots": [
+   "39",
+   "40"
+  ],
+  "a": 638.8,
+  "b": 685.32,
+  "file": "w08_638.80-685.32.mp3",
+  "size": 1118060,
+  "asset_id": "fe6961ba1b924092b4473a36ab8f6aa8",
+  "clip": "/workspace/l01v4/wide/hg_w08.mp4",
+  "video_id": "beae85eaab05d2c0e175ce69c54d0825",
+  "clip_dur": 46.52
+ },
+ {
+  "i": 9,
+  "shots": [
+   "43"
+  ],
+  "a": 711.92,
+  "b": 720.16,
+  "file": "w09_711.92-720.16.mp3",
+  "size": 199340,
+  "asset_id": "59996f1f71064054b284373fd3a34d50",
+  "clip": "/workspace/l01v4/wide/hg_w09.mp4",
+  "video_id": "52222e3daf58ff6dc202fec58ef85210",
+  "clip_dur": 8.24
+ },
+ {
+  "i": 10,
+  "shots": [
+   "43b"
+  ],
+  "a": 723.6,
+  "b": 728.48,
+  "file": "w10_723.60-728.48.mp3",
+  "size": 118700,
+  "asset_id": "ca2010c764d342f0b18a3b23fb260462",
+  "clip": "/workspace/l01v4/wide/hg_w10.mp4",
+  "video_id": "f197b3ead4f24a76e1a879bdfd9f1e21",
+  "clip_dur": 4.88
+ },
+ {
+  "i": 11,
+  "shots": [
+   "48"
+  ],
+  "a": 802.88,
+  "b": 821.76,
+  "file": "w11_802.88-821.76.mp3",
+  "size": 454508,
+  "asset_id": "d690db9198234183891c270bb9ebe2af",
+  "clip": "/workspace/l01v4/wide/hg_w11.mp4",
+  "video_id": "646f0dfee67665310207a898496dffe1",
+  "clip_dur": 18.88
+ },
+ {
+  "i": 12,
+  "shots": [
+   "51",
+   "52"
+  ],
+  "a": 855.2,
+  "b": 897.0,
+  "file": "w12_855.20-897.00.mp3",
+  "size": 1004588,
+  "asset_id": "e7a9aea3fe6d4fa78a45d46b2a7a8e9c",
+  "clip": "/workspace/l01v4/wide/hg_w12.mp4",
+  "video_id": "6479af28de962ab8e88e5933204b0fee",
+  "clip_dur": 41.8
+ },
+ {
+  "i": 13,
+  "shots": [
+   "56"
+  ],
+  "a": 938.12,
+  "b": 950.68,
+  "file": "w13_938.12-950.68.mp3",
+  "size": 303020,
+  "asset_id": "99415861a9f44bc9ae28788b47a07d28",
+  "clip": "/workspace/l01v4/wide/hg_w13.mp4",
+  "video_id": "3886a5f390c2b36ac99cd1629bb73e6d",
+  "clip_dur": 12.56
+ },
+ {
+  "i": 14,
+  "shots": [
+   "59"
+  ],
+  "a": 989.2,
+  "b": 1010.88,
+  "file": "w14_989.20-1010.88.mp3",
+  "size": 521900,
+  "asset_id": "f5efca0943f349b4a76b083dede72044",
+  "clip": "/workspace/l01v4/wide/hg_w14.mp4",
+  "video_id": "449e7d11a5eb4f3e94e683971cc25fa1",
+  "clip_dur": 21.68
+ },
+ {
+  "i": 15,
+  "shots": [
+   "68"
+  ],
+  "a": 1177.84,
+  "b": 1194.8,
+  "file": "w15_1177.84-1194.80.mp3",
+  "size": 408428,
+  "asset_id": "55ec69eefbe14a29b0de510f3f97b96c",
+  "clip": "/workspace/l01v4/wide/hg_w15.mp4",
+  "video_id": "cc888021019abb949dcc8298e73d76c5",
+  "clip_dur": 16.96
+ },
+ {
+  "i": 16,
+  "shots": [
+   "71"
+  ],
+  "a": 1223.6,
+  "b": 1234.08,
+  "file": "w16_1223.60-1234.08.mp3",
+  "size": 252908,
+  "asset_id": "72a8d7a7f19e4d2c89d0107b59181988",
+  "clip": "/workspace/l01v4/wide/hg_w16.mp4",
+  "video_id": "0b1b3ee0fc6726de3696501c4b861f44",
+  "clip_dur": 10.48
+ }
+]

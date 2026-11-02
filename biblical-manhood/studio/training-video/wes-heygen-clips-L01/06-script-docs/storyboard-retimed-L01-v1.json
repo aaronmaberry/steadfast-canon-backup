@@ -1,0 +1,719 @@
+[
+ {
+  "shot": 1,
+  "first": 1,
+  "last": 3,
+  "kind": "TITLE_CARD",
+  "t_in": 0.0,
+  "t_out": 10.13,
+  "plan_in": 0,
+  "plan_out": 7.41
+ },
+ {
+  "shot": 2,
+  "first": 4,
+  "last": 8,
+  "kind": "AGENDA",
+  "t_in": 10.13,
+  "t_out": 38.37,
+  "plan_in": 7.41,
+  "plan_out": 30.9
+ },
+ {
+  "shot": 3,
+  "first": 9,
+  "last": 11,
+  "kind": "SPLIT",
+  "t_in": 38.37,
+  "t_out": 51.05,
+  "plan_in": 30.9,
+  "plan_out": 45.47
+ },
+ {
+  "shot": 4,
+  "first": 12,
+  "last": 15,
+  "kind": "WES_FULL",
+  "t_in": 51.05,
+  "t_out": 70.14,
+  "plan_in": 45.47,
+  "plan_out": 67.44
+ },
+ {
+  "shot": 5,
+  "first": 16,
+  "last": 18,
+  "kind": "TYPE_BOARD_BUBBLE",
+  "t_in": 70.14,
+  "t_out": 86.06,
+  "plan_in": 67.44,
+  "plan_out": 82.27
+ },
+ {
+  "shot": 6,
+  "first": 19,
+  "last": 22,
+  "kind": "TYPE_BOARD_BUBBLE",
+  "t_in": 86.06,
+  "t_out": 106.97,
+  "plan_in": 82.27,
+  "plan_out": 99.8
+ },
+ {
+  "shot": 7,
+  "first": 23,
+  "last": 25,
+  "kind": "SPLIT",
+  "t_in": 106.97,
+  "t_out": 122.97,
+  "plan_in": 99.8,
+  "plan_out": 113.98
+ },
+ {
+  "shot": 8,
+  "first": 26,
+  "last": 28,
+  "kind": "WES_FULL",
+  "t_in": 122.97,
+  "t_out": 141.55,
+  "plan_in": 113.98,
+  "plan_out": 135.08
+ },
+ {
+  "shot": 9,
+  "first": 29,
+  "last": 32,
+  "kind": "SPLIT",
+  "t_in": 141.55,
+  "t_out": 161.9,
+  "plan_in": 135.08,
+  "plan_out": 155.31
+ },
+ {
+  "shot": 10,
+  "first": 33,
+  "last": 33,
+  "kind": "TYPE_BOARD_BUBBLE",
+  "t_in": 161.9,
+  "t_out": 166.0,
+  "plan_in": 155.31,
+  "plan_out": 158.28
+ },
+ {
+  "shot": 11,
+  "first": 34,
+  "last": 35,
+  "kind": "BRANDED_STILL_BUBBLE",
+  "t_in": 166.0,
+  "t_out": 174.04,
+  "plan_in": 158.28,
+  "plan_out": 166.72
+ },
+ {
+  "shot": 12,
+  "first": 36,
+  "last": 37,
+  "kind": "TYPE_BOARD_BUBBLE",
+  "t_in": 174.04,
+  "t_out": 187.17,
+  "plan_in": 166.72,
+  "plan_out": 178.13
+ },
+ {
+  "shot": 13,
+  "first": 38,
+  "last": 40,
+  "kind": "TYPE_BOARD_BUBBLE",
+  "t_in": 187.17,
+  "t_out": 205.61,
+  "plan_in": 178.13,
+  "plan_out": 195.53
+ },
+ {
+  "shot": 14,
+  "first": 41,
+  "last": 42,
+  "kind": "SPLIT",
+  "t_in": 205.61,
+  "t_out": 220.37,
+  "plan_in": 195.53,
+  "plan_out": 210.89
+ },
+ {
+  "shot": 15,
+  "first": 43,
+  "last": 45,
+  "kind": "WES_FULL",
+  "t_in": 220.37,
+  "t_out": 236.72,
+  "plan_in": 210.89,
+  "plan_out": 229.74
+ },
+ {
+  "shot": 16,
+  "first": 46,
+  "last": 48,
+  "kind": "TYPE_BOARD_BUBBLE",
+  "t_in": 236.72,
+  "t_out": 253.56,
+  "plan_in": 229.74,
+  "plan_out": 244.47
+ },
+ {
+  "shot": 17,
+  "first": 49,
+  "last": 50,
+  "kind": "BRANDED_STILL_BUBBLE",
+  "t_in": 253.56,
+  "t_out": 269.61,
+  "plan_in": 244.47,
+  "plan_out": 261.02
+ },
+ {
+  "shot": 18,
+  "first": 51,
+  "last": 54,
+  "kind": "WES_FULL",
+  "t_in": 269.61,
+  "t_out": 291.35,
+  "plan_in": 261.02,
+  "plan_out": 285.59
+ },
+ {
+  "shot": 19,
+  "first": 55,
+  "last": 56,
+  "kind": "SPLIT",
+  "t_in": 291.35,
+  "t_out": 303.77,
+  "plan_in": 285.59,
+  "plan_out": 299.57
+ },
+ {
+  "shot": 20,
+  "first": 57,
+  "last": 59,
+  "kind": "SCRIPTURE_BUBBLE",
+  "t_in": 303.77,
+  "t_out": 319.96,
+  "plan_in": 299.57,
+  "plan_out": 313.45
+ },
+ {
+  "shot": 21,
+  "first": 60,
+  "last": 64,
+  "kind": "SCRIPTURE_BUBBLE",
+  "t_in": 319.96,
+  "t_out": 340.64,
+  "plan_in": 313.45,
+  "plan_out": 335.8
+ },
+ {
+  "shot": 22,
+  "first": 65,
+  "last": 67,
+  "kind": "SCRIPTURE_BUBBLE",
+  "t_in": 340.64,
+  "t_out": 364.57,
+  "plan_in": 335.8,
+  "plan_out": 358.21
+ },
+ {
+  "shot": 23,
+  "first": 68,
+  "last": 70,
+  "kind": "WES_FULL",
+  "t_in": 364.57,
+  "t_out": 377.52,
+  "plan_in": 358.21,
+  "plan_out": 373.82
+ },
+ {
+  "shot": 24,
+  "first": 71,
+  "last": 74,
+  "kind": "TYPE_BOARD_BUBBLE",
+  "t_in": 377.52,
+  "t_out": 395.26,
+  "plan_in": 373.82,
+  "plan_out": 392.14
+ },
+ {
+  "shot": 25,
+  "first": 75,
+  "last": 77,
+  "kind": "SPLIT",
+  "t_in": 395.26,
+  "t_out": 411.38,
+  "plan_in": 392.14,
+  "plan_out": 407.27
+ },
+ {
+  "shot": 26,
+  "first": 78,
+  "last": 80,
+  "kind": "SPLIT",
+  "t_in": 411.38,
+  "t_out": 429.41,
+  "plan_in": 407.27,
+  "plan_out": 423.62
+ },
+ {
+  "shot": 27,
+  "first": 81,
+  "last": 82,
+  "kind": "WES_FULL",
+  "t_in": 429.41,
+  "t_out": 441.45,
+  "plan_in": 423.62,
+  "plan_out": 437.2
+ },
+ {
+  "shot": 28,
+  "first": 83,
+  "last": 84,
+  "kind": "WES_FULL",
+  "t_in": 441.45,
+  "t_out": 453.07,
+  "plan_in": 437.2,
+  "plan_out": 450.43
+ },
+ {
+  "shot": 29,
+  "first": 85,
+  "last": 87,
+  "kind": "SPLIT",
+  "t_in": 453.07,
+  "t_out": 468.86,
+  "plan_in": 450.43,
+  "plan_out": 466.17
+ },
+ {
+  "shot": 30,
+  "first": 88,
+  "last": 90,
+  "kind": "SPLIT",
+  "t_in": 468.86,
+  "t_out": 492.29,
+  "plan_in": 466.17,
+  "plan_out": 488.89
+ },
+ {
+  "shot": 31,
+  "first": 91,
+  "last": 94,
+  "kind": "WES_FULL",
+  "t_in": 492.29,
+  "t_out": 512.53,
+  "plan_in": 488.89,
+  "plan_out": 509.43
+ },
+ {
+  "shot": 32,
+  "first": 95,
+  "last": 98,
+  "kind": "WES_FULL",
+  "t_in": 512.53,
+  "t_out": 533.13,
+  "plan_in": 509.43,
+  "plan_out": 529.7
+ },
+ {
+  "shot": 33,
+  "first": 99,
+  "last": 102,
+  "kind": "TYPE_BOARD_BUBBLE",
+  "t_in": 533.13,
+  "t_out": 549.29,
+  "plan_in": 529.7,
+  "plan_out": 546.33
+ },
+ {
+  "shot": 34,
+  "first": 103,
+  "last": 104,
+  "kind": "BRANDED_STILL_BUBBLE",
+  "t_in": 549.29,
+  "t_out": 562.53,
+  "plan_in": 546.33,
+  "plan_out": 556.96
+ },
+ {
+  "shot": 35,
+  "first": 105,
+  "last": 106,
+  "kind": "TYPE_BOARD_BUBBLE",
+  "t_in": 562.53,
+  "t_out": 574.62,
+  "plan_in": 556.96,
+  "plan_out": 572.82
+ },
+ {
+  "shot": 36,
+  "first": 107,
+  "last": 111,
+  "kind": "TYPE_BOARD_BUBBLE",
+  "t_in": 574.62,
+  "t_out": 593.78,
+  "plan_in": 572.82,
+  "plan_out": 589.97
+ },
+ {
+  "shot": 37,
+  "first": 112,
+  "last": 114,
+  "kind": "WES_FULL",
+  "t_in": 593.78,
+  "t_out": 610.41,
+  "plan_in": 589.97,
+  "plan_out": 604.66
+ },
+ {
+  "shot": 38,
+  "first": 115,
+  "last": 116,
+  "kind": "SPLIT",
+  "t_in": 610.41,
+  "t_out": 628.47,
+  "plan_in": 604.66,
+  "plan_out": 624.25
+ },
+ {
+  "shot": 39,
+  "first": 117,
+  "last": 121,
+  "kind": "WES_FULL",
+  "t_in": 628.47,
+  "t_out": 651.19,
+  "plan_in": 624.25,
+  "plan_out": 647.83
+ },
+ {
+  "shot": 40,
+  "first": 122,
+  "last": 124,
+  "kind": "WES_FULL",
+  "t_in": 651.19,
+  "t_out": 673.57,
+  "plan_in": 647.83,
+  "plan_out": 670.25
+ },
+ {
+  "shot": 41,
+  "first": 125,
+  "last": 127,
+  "kind": "SPLIT",
+  "t_in": 673.57,
+  "t_out": 687.43,
+  "plan_in": 670.25,
+  "plan_out": 684.07
+ },
+ {
+  "shot": 42,
+  "first": 128,
+  "last": 129,
+  "kind": "SPLIT",
+  "t_in": 687.43,
+  "t_out": 700.81,
+  "plan_in": 684.07,
+  "plan_out": 697.6
+ },
+ {
+  "shot": 43,
+  "first": 130,
+  "last": 132,
+  "kind": "WES_FULL",
+  "t_in": 700.81,
+  "t_out": 715.2,
+  "plan_in": 697.6,
+  "plan_out": 712.46
+ },
+ {
+  "shot": 44,
+  "first": 133,
+  "last": 138,
+  "kind": "TYPE_BOARD_BUBBLE",
+  "t_in": 715.2,
+  "t_out": 740.19,
+  "plan_in": 712.46,
+  "plan_out": 737.02
+ },
+ {
+  "shot": 45,
+  "first": 139,
+  "last": 141,
+  "kind": "TYPE_BOARD_BUBBLE",
+  "t_in": 740.19,
+  "t_out": 752.69,
+  "plan_in": 737.02,
+  "plan_out": 748.82
+ },
+ {
+  "shot": 46,
+  "first": 142,
+  "last": 144,
+  "kind": "SCRIPTURE_BUBBLE",
+  "t_in": 752.69,
+  "t_out": 773.6,
+  "plan_in": 748.82,
+  "plan_out": 768.55
+ },
+ {
+  "shot": 47,
+  "first": 145,
+  "last": 147,
+  "kind": "SCRIPTURE_BUBBLE",
+  "t_in": 773.6,
+  "t_out": 789.16,
+  "plan_in": 768.55,
+  "plan_out": 784.89
+ },
+ {
+  "shot": 48,
+  "first": 148,
+  "last": 150,
+  "kind": "WES_FULL",
+  "t_in": 789.16,
+  "t_out": 806.33,
+  "plan_in": 784.89,
+  "plan_out": 802.97
+ },
+ {
+  "shot": 49,
+  "first": 151,
+  "last": 153,
+  "kind": "SCRIPTURE_BUBBLE",
+  "t_in": 806.33,
+  "t_out": 822.62,
+  "plan_in": 802.97,
+  "plan_out": 818.47
+ },
+ {
+  "shot": 50,
+  "first": 154,
+  "last": 156,
+  "kind": "SPLIT",
+  "t_in": 822.62,
+  "t_out": 840.64,
+  "plan_in": 818.47,
+  "plan_out": 836.03
+ },
+ {
+  "shot": 51,
+  "first": 157,
+  "last": 160,
+  "kind": "WES_FULL",
+  "t_in": 840.64,
+  "t_out": 862.27,
+  "plan_in": 836.03,
+  "plan_out": 857.47
+ },
+ {
+  "shot": 52,
+  "first": 161,
+  "last": 163,
+  "kind": "WES_FULL",
+  "t_in": 862.27,
+  "t_out": 880.33,
+  "plan_in": 857.47,
+  "plan_out": 875.03
+ },
+ {
+  "shot": 53,
+  "first": 164,
+  "last": 165,
+  "kind": "TYPE_BOARD_BUBBLE",
+  "t_in": 880.33,
+  "t_out": 889.47,
+  "plan_in": 875.03,
+  "plan_out": 885.71
+ },
+ {
+  "shot": 54,
+  "first": 166,
+  "last": 167,
+  "kind": "SPLIT",
+  "t_in": 889.47,
+  "t_out": 901.46,
+  "plan_in": 885.71,
+  "plan_out": 901.28
+ },
+ {
+  "shot": 55,
+  "first": 168,
+  "last": 170,
+  "kind": "SPLIT",
+  "t_in": 901.46,
+  "t_out": 920.12,
+  "plan_in": 901.28,
+  "plan_out": 919.74
+ },
+ {
+  "shot": 56,
+  "first": 171,
+  "last": 172,
+  "kind": "WES_FULL",
+  "t_in": 920.12,
+  "t_out": 939.49,
+  "plan_in": 919.74,
+  "plan_out": 936.96
+ },
+ {
+  "shot": 57,
+  "first": 173,
+  "last": 174,
+  "kind": "TYPE_BOARD_BUBBLE",
+  "t_in": 939.49,
+  "t_out": 953.07,
+  "plan_in": 936.96,
+  "plan_out": 949.88
+ },
+ {
+  "shot": 58,
+  "first": 175,
+  "last": 176,
+  "kind": "SPLIT",
+  "t_in": 953.07,
+  "t_out": 971.03,
+  "plan_in": 949.88,
+  "plan_out": 967.1
+ },
+ {
+  "shot": 59,
+  "first": 177,
+  "last": 179,
+  "kind": "WES_FULL",
+  "t_in": 971.03,
+  "t_out": 991.49,
+  "plan_in": 967.1,
+  "plan_out": 985.71
+ },
+ {
+  "shot": 60,
+  "first": 180,
+  "last": 182,
+  "kind": "SPLIT",
+  "t_in": 991.49,
+  "t_out": 1009.24,
+  "plan_in": 985.71,
+  "plan_out": 1003.63
+ },
+ {
+  "shot": 61,
+  "first": 183,
+  "last": 185,
+  "kind": "SPLIT",
+  "t_in": 1009.24,
+  "t_out": 1034.43,
+  "plan_in": 1003.63,
+  "plan_out": 1029.45
+ },
+ {
+  "shot": 62,
+  "first": 186,
+  "last": 189,
+  "kind": "TYPE_BOARD_BUBBLE",
+  "t_in": 1034.43,
+  "t_out": 1057.82,
+  "plan_in": 1029.45,
+  "plan_out": 1052.21
+ },
+ {
+  "shot": 63,
+  "first": 190,
+  "last": 193,
+  "kind": "SPLIT",
+  "t_in": 1057.82,
+  "t_out": 1079.4,
+  "plan_in": 1052.21,
+  "plan_out": 1075.17
+ },
+ {
+  "shot": 64,
+  "first": 194,
+  "last": 197,
+  "kind": "TYPE_BOARD_BUBBLE",
+  "t_in": 1079.4,
+  "t_out": 1100.3,
+  "plan_in": 1075.17,
+  "plan_out": 1095.7
+ },
+ {
+  "shot": 65,
+  "first": 198,
+  "last": 200,
+  "kind": "SPLIT",
+  "t_in": 1100.3,
+  "t_out": 1117.58,
+  "plan_in": 1095.7,
+  "plan_out": 1113.62
+ },
+ {
+  "shot": 66,
+  "first": 201,
+  "last": 203,
+  "kind": "TYPE_BOARD_BUBBLE",
+  "t_in": 1117.58,
+  "t_out": 1138.29,
+  "plan_in": 1113.62,
+  "plan_out": 1136.81
+ },
+ {
+  "shot": 67,
+  "first": 204,
+  "last": 208,
+  "kind": "TYPE_BOARD_BUBBLE",
+  "t_in": 1138.29,
+  "t_out": 1155.86,
+  "plan_in": 1136.81,
+  "plan_out": 1152.31
+ },
+ {
+  "shot": 68,
+  "first": 209,
+  "last": 210,
+  "kind": "WES_FULL",
+  "t_in": 1155.86,
+  "t_out": 1170.46,
+  "plan_in": 1152.31,
+  "plan_out": 1167.56
+ },
+ {
+  "shot": 69,
+  "first": 211,
+  "last": 212,
+  "kind": "SPLIT",
+  "t_in": 1170.46,
+  "t_out": 1185.16,
+  "plan_in": 1167.56,
+  "plan_out": 1183.25
+ },
+ {
+  "shot": 70,
+  "first": 213,
+  "last": 214,
+  "kind": "SPLIT",
+  "t_in": 1185.16,
+  "t_out": 1199.29,
+  "plan_in": 1183.25,
+  "plan_out": 1198.95
+ },
+ {
+  "shot": 71,
+  "first": 215,
+  "last": 216,
+  "kind": "WES_FULL",
+  "t_in": 1199.29,
+  "t_out": 1208.56,
+  "plan_in": 1198.95,
+  "plan_out": 1211.2
+ },
+ {
+  "shot": 72,
+  "kind": "LOGO_END",
+  "t_in": 1208.56,
+  "t_out": 1212.36,
+  "note": "silent: 0.4 bg, 0.8 fade in, 1.6 hold, 0.8 fade out, 0.2 bg; room-tone bed appended in edit (audio master ends at 1209.18)"
+ }
+]
