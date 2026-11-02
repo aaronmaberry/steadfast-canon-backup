@@ -87,7 +87,7 @@ JONATHON: I know now. And then I prayed. I stood at the end of the table, and I 
 [CAM: WES MS]
 WES: (laughs) He got his in. He was going to get his in no matter who prayed.
 [CAM: JON CU]
-JONATHON: Rudy laughed so hard he had to set his fork down. First real laugh out of him at a table with me in a year. My four-year-old did more for that peace than I did.
+JONATHON: Rudy cracked up. Wheezing, one hand over his mouth. First real laugh out of him at a table with me in a year. My four-year-old did more for that peace than I did.
 [TEXT: "Your house."]
 
 [CHAPTER: Both pies]
@@ -180,7 +180,7 @@ WES: She's sitting still. And I think that's the answer to Dani's question, hone
 [CAM: JON MS]
 JONATHON: Empty squares. I'm going to go home and erase something. I don't know what yet. Probably the company party. Don't tell my VP.
 [CAM: WES MS]
-WES: I'd never tell your VP. Your VP doesn't listen to this. And here's the last piece, which is Tuesday's episode, so I won't steal it. The quietest man in the whole story is Joseph. He doesn't say one word. And he did everything right. We'll get there.
+WES: I'd never tell your VP. Your VP doesn't listen to this. And here's the last piece, which is Tuesday's episode, so I won't steal it. Joseph doesn't get a single line in the Christmas story. Not one. And he did everything right. We'll get there.
 [TEXT: Guard some empty squares.]
 
 [CHAPTER: Tool on the table]
@@ -257,13 +257,13 @@ Chapters
 00:17 Intro
 00:42 Check the box
 03:43 Your house
-05:42 Both pies
-08:58 The single check
+05:41 Both pies
+08:57 The single check
 10:04 Season review
-12:53 From the table
-16:58 Tool on the table
-22:30 Carry this
-22:42 Outro
+12:52 From the table
+16:56 Tool on the table
+22:28 Carry this
+22:40 Outro
 
 Scripture: Luke 2:19 (NIV)
 

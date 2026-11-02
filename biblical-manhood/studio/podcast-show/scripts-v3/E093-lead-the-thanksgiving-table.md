@@ -133,7 +133,7 @@ JONATHON: That's what I've always felt. Mixed-up. Because he was the one who put
 [CAM: WES MS]
 WES: Oh, no. I can see this coming from here.
 [CAM: JON CU]
-JONATHON: You can see it coming. And I'm a closer. I had it loaded before he finished the sentence. And I said, smiling, "About the time you got your second divorce, Uncle Rudy." And the table laughed. My brother-in-law laughed so hard he had to put his tea down. I won the room. I could feel it. It's the same feeling as walking out of a meeting with a signed contract.
+JONATHON: You can see it coming. And I'm a closer. I had it loaded before he finished the sentence. And I said, smiling, "About the time you got your second divorce, Uncle Rudy." And the table laughed. My brother-in-law snorted iced tea. I won the room. I could feel it. It's the same feeling as walking out of a meeting with a signed contract.
 [CAM: WES MS]
 WES: And Rudy?
 [CAM: JON MS]
@@ -241,7 +241,7 @@ JONATHON: So what do you do with it? Because I know a guy listening has the chai
 [CAM: WES MS]
 WES: I think you say the name. Once. That's what we never did. Nine years of praying over that chair, and I never once said "Dad" in the prayer. I'd say "those who aren't with us." The church voice again. Like he was a category. So Thursday I'm going to say his name, one time, in one sentence. "Thank You for Dad, and for the chair he left Mom to put her shoes on." Something like that. One line. No speech.
 [CAM: JON CU]
-JONATHON: And I'll tell you the other side of it, because Ruby asked me Sunday night. She's setting the table in her head already. She's seven, she plans everything. And she said, "Daddy, how many plates?" And I counted. Me, Dani, Ruby, Theo, Grandma, Uncle Rudy. Six. And she said, "What about Grandpa in Louisiana?" And she wasn't being sad. She was counting.
+JONATHON: Ruby's got her own version of the empty seat, and she raised it Sunday night. She's setting the table in her head already. She's seven, she plans everything. And she said, "Daddy, how many plates?" And I counted. Me, Dani, Ruby, Theo, Grandma, Uncle Rudy. Six. And she said, "What about Grandpa in Louisiana?" And she wasn't being sad. She was counting.
 [CAM: WES MS]
 WES: What'd you tell her?
 [CAM: JON MS]
@@ -258,7 +258,7 @@ JONATHON: I'll be honest, my first thought was, "Can Theo do it?" Because Theo's
 [CAM: WES CU]
 WES: And there are a lot of ways to hand it off. The cute kid. Grandma. The uncle who knows the King James. The man who prays at church, which in my family has been me. And there's nothing wrong with any of them praying, some years. But a man who's never once prayed at his own table, Jonathon, that man has outsourced something he was meant to carry. Pick Up the Weight, that's another mark, and it's sitting right there on the platter.
 [CAM: JON CU]
-JONATHON: So here's my real fear, and it goes straight back to the nine-year-old. I'm going to stand up, and everybody's going to look at me, my mom and Rudy and Dani and the kids. And I'm going to open my mouth and nothing's going to come out. I'm thirty-seven years old, I talk for a living, I've done a keynote in front of four hundred people in a hotel ballroom in Dallas. And I'm scared of three sentences in my own dining room.
+JONATHON: So here's my real fear, and it goes straight back to the nine-year-old. I'm going to stand up, and everybody's going to look at me, my mom and Rudy and Dani and the kids. And I'm going to open my mouth and nothing's going to come out. I'm thirty-seven. I've sold rooftop units to men who hated me. I've done a keynote in front of four hundred people in a hotel ballroom in Dallas. And I'm scared of three sentences in my own dining room.
 [CAM: WES MS]
 WES: Because the last time you were asked, it went wrong in front of Rudy.
 [CAM: JON MS]
@@ -448,15 +448,15 @@ Chapters
 00:48 Pull up a chair
 04:25 I'm right here
 09:48 The man of the house
-14:23 The Word
-24:39 All elbows
-29:13 The prayer you didn't outsource
-35:31 Your half
-39:56 Pushback
-46:26 Going first
-49:12 The challenge
-50:45 Carry this
-50:56 Outro
+14:21 The Word
+24:36 All elbows
+29:11 The prayer you didn't outsource
+35:30 Your half
+39:54 Pushback
+46:25 Going first
+49:10 The challenge
+50:43 Carry this
+50:54 Outro
 
 Scripture: Romans 12:18, Matthew 5:9, Luke 24:30, Romans 12:21, Proverbs 15:1 (NIV)
 

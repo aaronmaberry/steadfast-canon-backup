@@ -109,7 +109,7 @@ JONATHON: I've told it. And here's why it matters today. When guys talk about th
 [CAM: WES MS]
 WES: That's right, and I'm glad you said it before I did, because I'd have said it softer. Quiet isn't a virtue. Quiet's a temperament. Some men have it and some don't. It can go either way. My dad was quiet and he stayed for sixty years. Your dad was quiet and he left. The quiet wasn't the thing that made either one of them. What they did with their hands made them.
 [CAM: JON MS]
-JONATHON: And I'll give you the other side of it, because I'm not trying to make every quiet man a villain. My first sales manager. Beaumont, I was twenty-two. Same tie every Monday, I think he had one tie. And he almost never said anything. You'd hand him a deal and he'd look at it for a long time and hand it back. And if it was good, he'd say "Not bad, kid." That was the highest award in the building. Guys would chase "Not bad, kid" for a whole quarter.
+JONATHON: But I'm not trying to make every quiet man a villain, so here's the flip. My first sales manager. Beaumont, I was twenty-two. Same tie every Monday, I think he had one tie. And he almost never said anything. You'd hand him a deal and he'd look at it for a long time and hand it back. And if it was good, he'd say "Not bad, kid." That was the highest award in the building. Guys would chase "Not bad, kid" for a whole quarter.
 [CAM: WES CU]
 WES: I like him already. Tell me what he did. Not what he said.
 [CAM: JON CU]
@@ -181,7 +181,7 @@ JONATHON: And I bet he said something to Mary. I'm not saying he packed her up i
 [CAM: WES MS]
 WES: That's a good catch, and you're right. I'm sure they talked. Matthew just didn't think the talking was the story. The getting up was the story. And then two more dreams. Herod dies, angel says go back. He goes back. He hears Herod's son is ruling, he's afraid, he's warned in another dream, and he takes them up north to Nazareth, a nothing town. Four dreams, four moves. Not a word on the record.
 [CAM: JON CU]
-JONATHON: Okay, but here's where I'm going to push again, because I think a guy listening is already there. Fast obedience sounds great. But most of my worst decisions were fast. I signed a lease on a car I couldn't afford in about twenty minutes. I quit a good job at twenty-six in one afternoon because a guy yelled at me. Fast isn't holy. Sometimes fast is just dumb.
+JONATHON: Okay, but here's where I'm going to push again, because somebody in a truck right now is already there. Fast obedience sounds great. But most of my worst decisions were fast. I signed a lease on a car I couldn't afford in about twenty minutes. I quit a good job at twenty-six in one afternoon because a guy yelled at me. Fast isn't holy. Sometimes fast is just dumb.
 [CAM: WES CU]
 WES: That's true. And here's the line I'd draw. Joseph wasn't fast about everything. He was fast about what God had made clear. Look at the order. Before the dream, he's careful. He's thinking. He's deciding to do it quietly. Matthew says he had it in mind. He's a man taking his time on a hard thing. Then God speaks, plainly. And once it's plain, he doesn't take his time anymore.
 [CAM: JON MS]
@@ -193,7 +193,7 @@ JONATHON: And there's a verse for that, too, which I found by accident, and I do
 [CARD: James 4:17]
 JONATHON: "If anyone, then, knows the good they ought to do and doesn't do it, it is sin for them."
 [CAM: WES CU]
-WES: And that's the mark under all of it, Stop Waiting. James doesn't say if you do something bad. He says if you know the good, and you sit on it. That's the sin a decent man commits. Not the big one. The careful one. The good thing he knows about and keeps scheduling for later.
+WES: And that's our mark today, Stop Waiting, in one line. James doesn't say if you do something bad. He says if you know the good, and you sit on it. That's the sin a decent man commits. Not the big one. The careful one. The good thing he knows about and keeps scheduling for later.
 [CAM: JON MS]
 JONATHON: That's the scariest verse for a guy like me. Because I don't do a lot of bad stuff. I'm a pretty good guy. I just have a list, in my head, of really good stuff I'm going to do. In a while. When things calm down. And according to James, that list is a list of sins.
 [CAM: WES MS]
@@ -417,15 +417,15 @@ Chapters
 00:50 Pull up a chair
 03:02 Forty words
 06:46 Quiet that leaves
-10:55 The Word
-25:28 How to get up
-28:48 Quiet on purpose
-32:16 The carpenter's son
-35:39 Pushback
-41:47 Getting up
-44:32 The challenge
-45:40 Carry this
-45:50 Outro
+10:54 The Word
+25:26 How to get up
+28:46 Quiet on purpose
+32:15 The carpenter's son
+35:38 Pushback
+41:45 Getting up
+44:31 The challenge
+45:38 Carry this
+45:48 Outro
 
 Scripture: Matthew 1:24, Matthew 2:14, James 4:17 (NIV)
 
