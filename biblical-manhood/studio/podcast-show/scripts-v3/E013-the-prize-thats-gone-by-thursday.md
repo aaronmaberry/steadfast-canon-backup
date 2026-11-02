@@ -5,7 +5,7 @@ Walk Steadfast · main episode · script v3 (final, long form). Internal.
 | | |
 |---|---|
 | Release | Tue Feb 16, 2027, 5:00 AM CT |
-| Format | Main episode. About 48 min (v3 length, see scripts-v3/CHANGELOG-V3.md). |
+| Format | Main episode. About 49 min (v3 length, see scripts-v3/CHANGELOG-V3.md). |
 | Intro and slate | Per-episode open, Jonathon leads (SHOW-BIBLE section 5, open system v3, text in _build/intros_data.py). Slate: WES "Episode thirteen. The Prize That's Gone by Thursday." |
 | Source | Book chapter 7, Live for a Reward That Lasts. Training W07. Avoided on purpose: the drive home with a trophy riding shotgun, moths and vermin, the widower's pecan trees, the "list" of prizes as a lecture, the Moses/Egypt speech. W07's retirement cake and the freezer and plow stories, the boss in the doorway saying "good stuff," and the kids-don't-pay-rent picture of inheritance. "Gone by Thursday" is the title only, never a repeated slogan. |
 | Focus mark | **Work for God's Pay**, named in Pull up a chair and again in Carry this. Pay means the inheritance (Col 3:24), never wages for salvation (Eph 2:8-9, paraphrased on mic). |
@@ -15,7 +15,7 @@ Walk Steadfast · main episode · script v3 (final, long form). Internal.
 | Standing outro | Variant A, reworded (the season review tease) |
 | Wardrobe | Wes: navy cable-knit sweater, sleeves pushed up. Jonathon: navy hooded sweatshirt, hood down. |
 | Props | Standard set. Wes's Bible with an index card sticking out. Jonathon's phone (one insert: the Monday leaderboard email, blurred). |
-| New continuity | The Monday 8:00 AM regional leaderboard email: Jonathon has opened it before anything else on Mondays for eleven years, sitting in the truck in the driveway; it resets every Monday, and by Thursday the top spot has usually slid. He told Dani Saturday night: "I always wondered why Mondays were weird." He moved the email to arrive at 10:00 AM; first Monday he was #6 and felt bad for about four minutes. Fall 2023: #1 in the country three weeks running (plaque in his office), during the 1604 years; he can't remember that fall with his kids. Wes's cheap prize: being the man the church calls on to pray in public ("Wes is a rock"). He caught himself in aisle seven hoping someone would notice the coffee he's buying for the car-care Saturday; told the organizer it was donated. Mr. Abernathy's receipts: the back of each had the man's first name and a column of dates he prayed; Wes's went back nine years. Wes now keeps a short list of men's first names on the back of his index card. "Not telling." Wes declined to pray from the front Sunday and asked his son-in-law (27, county), his first time; Wes wanted a hand on the shoulder "a little. Less than last week." The contractor (60) on teaching welding: "I've made money for forty years. I'd like to do something for a while that nobody pays me much for." Theo had croup at 3 (spring 2026); Jonathon held him in the steamy bathroom an hour at 2 AM. Jonathon spent an hour Thursday helping the rep from his review with the call list ("Booked two."). Jonathon talks to a college buddy in commercial real estate every Friday at four. Valentine's dinner: "It was good. That's all you get." Wes's Valentine's steaks: gray, as forecast. Jonathon has never heard "well done" from a father; Wes doesn't fix it and holds it for Easter. Wes says "This is for you" out loud in the truck before he opens the door at work, most mornings; Jonathon thinks it sounds like a sales trick and warns he'd count it ("Don't count it"). Jonathon counts the stairs to his office (thirty-one). Early in his marriage Wes left a pan soaking as evidence; his wife: "You do the dishes like you're waiting for a parade." Jonathon stacks folded laundry on Dani's side of the bed; Dani: "Babe, I know you folded it. I have to move it to go to sleep." After his mother's follow-up appointment (nothing scary) Wes texted his brother "Took Mom to the doctor. She's fine." to score a point; brother: "Good." Wes ties it to unfixed stuff with his brother (pays off E016). Ruby threw up on Jonathon at two weeks old and recently after a bad corn dog. Two chairs (unsettled): whether telling your one man about hidden good work spoils it. |
+| New continuity | The Monday 8:00 AM regional leaderboard email: Jonathon has opened it before anything else on Mondays for eleven years, sitting in the truck in the driveway; it resets every Monday, and by Thursday the top spot has usually slid. He told Dani Saturday night: "I always wondered why Mondays were weird." He moved the email to arrive at 10:00 AM; first Monday he was #6 and felt bad for about four minutes. Fall 2023: #1 in the country three weeks running (plaque in his office), during the 1604 years; he can't remember that fall with his kids. Wes's cheap prize: being the man the church calls on to pray in public ("Wes is a rock"). He caught himself in aisle seven hoping someone would notice the coffee he's buying for the car-care Saturday; told the organizer it was donated. Mr. Abernathy's receipts: the back of each had the man's first name and a column of dates he prayed; Wes's went back nine years. Wes now keeps a short list of men's first names on the back of his index card. "Not telling." Wes declined to pray from the front Sunday and asked his son-in-law (27, county), his first time; Wes wanted a hand on the shoulder "a little. Less than last week." The contractor (60) on teaching welding: "I've made money for forty years. I'd like to do something for a while that nobody pays me much for." Theo had croup at 3 (spring 2026); Jonathon held him in the steamy bathroom an hour at 2 AM. Jonathon spent an hour Thursday helping the rep from his review with the call list ("Booked two."). Jonathon talks to a college buddy in commercial real estate every Friday at four. Valentine's dinner: "It was good. That's all you get." Wes's Valentine's steaks: gray, as forecast. Jonathon has never heard "well done" from a father; Wes doesn't fix it and holds it for Easter. Wes says "This is for you" out loud in the truck before he opens the door at work, most mornings; Jonathon thinks it sounds like a sales trick and warns he'd count it ("Don't count it"). Jonathon counts the stairs to his office (thirty-one). Early in his marriage Wes left a pan soaking as evidence; his wife: "You do the dishes like you're waiting for a parade." Jonathon stacks folded laundry on Dani's side of the bed; Dani: "Babe, I know you folded it. I have to move it to go to sleep." Saturday Feb 13 Wes installed the grab bar the doctor asked for (two hours, old wall), texted his brother before ("Putting the grab bar in Saturday.") and after ("Grab bar's in. She's already using it."); the second text was to score a point; brother: "Good." Wes ties it to unfixed stuff with his brother (pays off E016). Ruby threw up on Jonathon at two weeks old and recently after a bad corn dog. Two chairs (unsettled): whether telling your one man about hidden good work spoils it. |
 
 ## Title options
 
@@ -317,16 +317,16 @@ JONATHON: She had a number. Her number was the nights she'd been on her feet all
 [CHAPTER: The text to my brother]
 [CAM: WES MS]
 WES: Can I give you one more? It's fresh, and it's the one that bothered me most. My mother's doctor appointment. The one I mentioned at the top.
-JONATHON: Is it the walker? I thought the walker was settled. Tell me the walker's settled.
-WES: The walker's settled. This was a follow-up. Nothing scary. Ninety minutes in a waiting room with a cooking show on that nobody asked for. I drove her home, got her in the house, and sat in the truck in her driveway and texted my older brother. "Took Mom to the doctor. She's fine."
+JONATHON: The good plan. The doctor liked her plan. Tell me nothing went sideways.
+WES: Nothing went sideways. The doctor wanted a grab bar in her bathroom. So Saturday I went over and put it in. Took me two hours, because her wall is older than I am and it fought me. I texted my brother first, like I said I would. "Putting the grab bar in Saturday." Then I put it in. Then I sat in the truck in her driveway and texted him again. "Grab bar's in. She's already using it."
 JONATHON: That's a nice text. That's a good brother text. I'd be glad to get that text from my sister.
-WES: That's what I told myself. Except I knew why I sent it. I sent it so he'd know I went and he didn't. And he wrote back one word. "Good."
+WES: That's what I told myself. Except the first text was the one I owed him. The second one, I knew why I sent it. I sent it so he'd know I did it and he didn't. And he wrote back one word. "Good."
 JONATHON: (laughing) Of course he did. That's your brother. He's got a one-word plan, and he's sticking to it.
 [CAM: WES CU]
-WES: And I was annoyed. I sat in my mother's driveway, annoyed that my brother didn't thank me enough for taking our mother to the doctor. Which is my job. Which she did for me for eighteen years without sending one text to anybody.
+WES: And I was annoyed. I sat in my mother's driveway, annoyed that my brother didn't thank me enough for a grab bar in our mother's bathroom. Which is my job. Which she did for me for eighteen years without sending one text to anybody.
 [CAM: JON CU]
 JONATHON: That one's worse than the coffee. I'm sorry, but it is. The coffee's funny. That one isn't funny at all.
-WES: It isn't. That's me keeping score with my brother over our mom. That's the cheap prize at its cheapest. I wanted a man who barely talks to me to send me a gold star. And there's some other stuff between me and him I haven't fixed, and I think that text came out of it. I'm not ready to say more yet.
+WES: It isn't. That's me keeping score with my brother over our mom. That's the cheap prize at its cheapest. I wanted a man who speaks in single words to send me a gold star. And there's some other stuff between me and him I haven't fixed, and I think that text came out of it. I'm not ready to say more yet.
 JONATHON: You don't have to. I remember Thanksgiving. I'll hold onto it until you want it back.
 WES: Thank you. Hold onto it.
 
@@ -527,13 +527,13 @@ Chapters
 21:48 Pushback
 25:17 Keeping score at home
 29:59 The text to my brother
-32:06 The young man and the old man
-36:31 Mr. Abernathy's receipts
-38:48 Two chairs
-41:23 What I actually did
-45:33 The challenge
-47:33 Carry this
-47:56 Outro
+32:22 The young man and the old man
+36:47 Mr. Abernathy's receipts
+39:03 Two chairs
+41:38 What I actually did
+45:48 The challenge
+47:49 Carry this
+48:11 Outro
 
 Scripture: Colossians 3:23-24; Hebrews 12:2 (NIV)
 
@@ -598,7 +598,7 @@ Most mornings Wes says one sentence out loud in his truck before he walks into w
 
 ## Keeping score at home
 
-Early in his marriage Wes left a pan soaking in the sink so there'd be evidence he did the dishes. His wife: "You do the dishes like you're waiting for a parade." Jonathon folds the laundry and stacks it on his wife's side of the bed so she'll see it. "I just wanted you to see it." Thank each other often, Wes says. The trouble starts when the thanks doesn't come and a man starts a list. Wes's freshest one: a text to his brother after taking their mother to the doctor, sent so his brother would know who went.
+Early in his marriage Wes left a pan soaking in the sink so there'd be evidence he did the dishes. His wife: "You do the dishes like you're waiting for a parade." Jonathon folds the laundry and stacks it on his wife's side of the bed so she'll see it. "I just wanted you to see it." Thank each other often, Wes says. The trouble starts when the thanks doesn't come and a man starts a list. Wes's freshest one: a text to his brother after putting a grab bar in their mother's bathroom, sent so his brother would know who did it.
 
 ## The receipts
 
