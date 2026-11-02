@@ -96,7 +96,7 @@ JONATHON: That's good. I'm going to steal that for a sales meeting, and I'm goin
 [CAM: JON MS]
 JONATHON: Mine. I told the detail to a man, and it wasn't the man I planned. Thursday at practice, the twin's dad comes up while we're picking up balls. And he says, "Hey, I heard your show." My nephew sent it around the parent chat, apparently. He's in there because of the oranges. And he says, "Your dad took a lamp?"
 WES: Oh boy. So the whole parent chat knows about the lamp now.
-JONATHON: The whole parent chat knows about the lamp. So I told him the short version, with the lamp in it. And he picked up a ball and stood there with it a second. And he said, "Mine took the TV." (beat) And then he said, "We didn't have a TV for three years. My mom said we didn't need one." And then he threw the ball in the bucket and went to help his daughter with her glove.
+JONATHON: The whole parent chat knows about the lamp. So I told him the short version, with the lamp in it. He held a ball a second and said, "Mine took the TV." (beat) And then he said, "We didn't have a TV for three years. My mom said we didn't need one." And then he threw the ball in the bucket and went to help his daughter with her glove.
 [CAM: WES MS]
 WES: That's all?
 JONATHON: That's all. A lamp and a TV. The most I've ever talked about my dad with a man who isn't you, in forty seconds. And I think I know a little more now about why he froze at that first game in March.
@@ -183,7 +183,7 @@ JONATHON: And I found a verse for it. It's not about dads. It's about talking. (
 [CARD: Ephesians 4:29]
 JONATHON: "Do not let any unwholesome talk come out of your mouths, but only what is helpful for building others up according to their needs, that it may benefit those who listen."
 [CAM: JON CU]
-JONATHON: "According to their needs." That's the whole tool in three words. Not according to my need to explain. Not my need to get it off my chest. Hers. What does a seven-year-old need? She needed to know it was true, it wasn't scary, and I'm not leaving. That's what built her up.
+JONATHON: "According to their needs." That's the whole tool in three words. Not my need to explain or get it off my chest. Hers. A seven-year-old needed to know it was true, it wasn't scary, and I'm not leaving. That's what built her up.
 WES: And "building up" is a construction word. You build up with what's on the truck. You don't build with lumber you don't have. A man can only give his kid true pieces. If he tries to build with pretend boards, the house comes down around age twelve.
 [CAM: WES MS]
 WES: And "unwholesome." I'd say that's two things. The trash talk about your dad. Kids hear "your grandfather's a deadbeat," and they hear something about half of you. But there's the other unwholesome too. The fake-nice. "Grandpa's just very busy." That's not wholesome either. That's a lie in a nice shirt.
@@ -259,10 +259,10 @@ Chapters
 00:00 Cold open
 00:12 Intro
 00:38 Check the box
-07:42 Tool on the table
-16:57 From the table
-22:07 Carry this
-22:21 Outro
+07:39 Tool on the table
+16:54 From the table
+22:01 Carry this
+22:15 Outro
 
 Scripture: Ephesians 4:29 (NIV)
 

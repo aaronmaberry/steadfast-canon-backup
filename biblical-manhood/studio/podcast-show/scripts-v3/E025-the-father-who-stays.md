@@ -5,7 +5,7 @@ Walk Steadfast · main episode · script v3 (batch E025-E032). Internal.
 | | |
 |---|---|
 | Release | Tue Mar 30, 2027, 5:00 AM CT (Easter week) |
-| Format | Main episode. About 52 min (v3 length, see scripts-v3/CHANGELOG-V3.md). |
+| Format | Main episode. About 53 min (v3 length, see scripts-v3/CHANGELOG-V3.md). |
 | Intro and slate | Per-episode open, Wes leads (SHOW-BIBLE section 5, open system v3, text in _build/intros_data.py). Slate: WES "Episode twenty-five. The Father Who Stays." |
 | Source | Book chapter 10, The Father Who Does Not Leave (premiere plug). Training session 10. Avoided on purpose, as in v1: the school pickup line and its man; the prodigal and Luke 15:20; John 14:9 and 14:18; "copy" and "original"; the four-picture list of fathers; saying "Father" out loud seven mornings; being prayed over by a brother as the tool; "Abba." From session 10: the man who prays like a short red light, the church sign-up sheet, the man listening for the truck door, the rail yard, the beach breakfast, basic training and the tailgate sit, the porch light, the back of a newspaper, "a business card can't father you." The show's angle is Matthew 3:17's order. The Father spoke before the Son had done one public thing. The pay comes first, and the work comes from it. |
 | Focus mark | **Work for God's Pay**, named in Pull up a chair and in Carry this |
@@ -603,7 +603,7 @@ Scripture quotations taken from The Holy Bible, New International Version®, NIV
 
 ## Production notes
 
-- **v3 length.** About 52 minutes. The added depth is the "A heart is a heart" disagreement, Jonathon's Beaumont chapter, the Matthew 4 "If you are the Son of God" drill, Jonathon's own push-back on working "from" with a quarterly number, and the Tonight at seven chapter. All v1 canon events are kept as aired facts.
+- **v3 length.** About 53 minutes. The added depth is the "A heart is a heart" disagreement, Jonathon's Beaumont chapter, the Matthew 4 "If you are the Son of God" drill, Jonathon's own push-back on working "from" with a quarterly number, and the Tonight at seven chapter. All v1 canon events are kept as aired facts.
 - **The friend request is resolved as a door, not a reunion.** He accepted, and there's a heart, but no message from either side. **Do not** have the father write in E026.
 - **Real disagreement.** Wes wants the heart to mean something; Jonathon refuses to build a house on it. Wes concedes it's "my side of the table talking." Leave it unsettled; E029 and E030 carry it.
 - **E013 payoff.** "Nothing to compare it to except an email" is answered by the river, not by the father.

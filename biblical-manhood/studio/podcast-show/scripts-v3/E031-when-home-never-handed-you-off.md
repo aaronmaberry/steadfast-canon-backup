@@ -72,7 +72,7 @@ WES: And my mom's driveway, which is today. Because today's about whether home e
 JONATHON: And a lot of us got that from nobody. I'll raise my hand for that one right now.
 WES: A lot of us got it from nobody. And a lot of us got it from somebody we didn't expect. And some of us are still standing in the kitchen waiting for it, and we're forty-five.
 [CAM: WES CU]
-WES: Where I grew up, you could watch it happen at the feed store, if you knew where to look. An old man would let a boy load the truck by himself for the first time, and then he'd say, "Thank you, sir," to a fifteen-year-old. That was it. That was the whole ceremony. The boy would walk out a foot taller. I watched it happen to other boys. I kept waiting for somebody to call me sir in the feed store.
+WES: Where I grew up, you could watch it happen at the feed store, if you knew where to look. An old man would let a boy load the truck by himself for the first time, and then he'd say, "Thank you, sir," to a fifteen-year-old. That was the entire ceremony. The boy would walk out a foot taller. I watched it happen to other boys. I kept waiting for somebody to call me sir in the feed store.
 JONATHON: Did anybody ever call you sir in the feed store? Or did you just keep loading trucks?
 WES: Not at the feed store. I got mine in a driveway, and I didn't know it counted until I was forty.
 [CAM: JON MS]
@@ -94,7 +94,7 @@ WES: I thought it was cold too. For about ten years. Now I think it was the warm
 JONATHON: So did you? Come home every Friday?
 WES: Every Friday. The whole first semester. With my laundry.
 (both laugh)
-WES: And she did my laundry every single time. And she never once said a word about it. Never said, "I told you not to." She'd just take the bag at the door. And I didn't understand that until I had kids. She said the true thing once, in the driveway, and then she let me take my time growing into it. She didn't keep saying it. She didn't need me to prove it. She said it, and then she did my laundry.
+WES: And she did my laundry every single time. And she never brought it up. Not once. Never said, "I told you not to." She'd just take the bag at the door. And I didn't understand that until I had kids. She said the true thing once, in the driveway, and then she let me take my time growing into it. She didn't keep saying it. She didn't need me to prove it. She said it, and then she did my laundry.
 [CAM: JON MS]
 JONATHON: That's a good mom. I take back cold. That's a smart mom. She worked you like a closer works a room.
 WES: She's been working me like that for fifty-two years. And I'll tell you the part I never thought about until I sat down to get ready for today. She did my father's job. She saw it wasn't going to get done, and she didn't sit around being mad about it. She walked out to the driveway and did it. And then she went back in the house so I could leave.
@@ -282,7 +282,7 @@ WES: Then call her before she gets to this part.
 [CAM: JON CU]
 JONATHON: And this one's close to home for both of us. Fifty years old. "Nobody ever counted me in. Not my dad, not anybody. Now I've got a son who's nineteen. Can I give him something I never got?"
 [CAM: WES MS]
-WES: Yes. And you might be the only one who can. You know exactly what the silence felt like, so you know exactly what to put in it. Don't wait to feel like a man who's qualified. Nobody feels qualified. Pick one true thing about him, who he is, not what he did, and tell him. Then treat him like it's true. Ask his opinion on something that matters. Hand him the heavy end. You'll be giving it to yourself a little, too, every time. That's how it works.
+WES: Yes. And you might be the one man who can. You know exactly what the silence felt like, so you know exactly what to put in it. Don't wait to feel like a man who's qualified. Nobody feels qualified. Pick one true thing about him, who he is, not what he did, and tell him. Then treat him like it's true. Ask his opinion on something that matters. Hand him the heavy end. You'll be giving it to yourself a little, too, every time. That's how it works.
 JONATHON: That's what you're doing Saturday. With the truck.
 WES: That's what I'm trying to do Saturday. Ask me Friday how it's going.
 [CAM: JON MS]
@@ -305,7 +305,7 @@ JONATHON: I said, "He worked on the oil rigs, out in the ocean. And when he was 
 [CAM: WES CU]
 (Wes puts his hand flat on the table and looks down at it.)
 [CAM: JON CU]
-JONATHON: And I said, "Baby, I don't know how to fish." Because I don't. Nobody ever took me. And she lay back down, and she said, "You could learn." Like it was nothing. Like you just learn. And then she said, "Goodnight," and rolled over, and I sat on the floor in the dark for a while.
+JONATHON: And I said, "Baby, I don't know how to fish." Because I don't. Nobody ever took me. And she lay back down, and she said, "You could learn." Like it was nothing. Like you just learn. And then she said, "Goodnight," and rolled over, and I stayed down there by the bed in the dark for a while.
 [SHORT 1 OUT]
 [CAM: WES MS]
 WES: (long beat) My brother has a stock tank full of bass.
@@ -324,7 +324,7 @@ JONATHON: And the second thing, the AC. I called my mom Sunday afternoon, before
 (both laugh)
 JONATHON: And she laughed. And she said, "Okay." Which, I know my mom. "Okay" means she's hurt a little and she's going to try. Both at the same time. That's the Pasadena "okay."
 WES: My mom's version is "Well, all right." Same thing. Hurt and trying. When she says "Well, all right," I know I've done something right that she didn't like.
-WES: That's an honest "okay." That might be the most honest word in the whole episode.
+WES: That's an honest "okay." That's the truest word in the whole episode.
 JONATHON: It's the most honest word in my family. And I still don't know if you were right, back there. I just know I'd rather she be a little hurt and trying than relieved and handing the phone to a stranger.
 [CAM: WES CU]
 WES: Can I say one more thing, and then we'll go to the challenge, and you can be mad at me in the truck?
@@ -379,7 +379,7 @@ WES: Produced with AI voice and video tools.
 
 | # | Cut | Hook | Length |
 |---|---|---|---|
-| 1 | "Can we go fishing?" (from "I said, 'You know how you asked if I have a dad?'" through "I sat on the floor in the dark for a while.") | "She sat straight up in bed." | about 75 s |
+| 1 | "Can we go fishing?" (from "I said, 'You know how you asked if I have a dad?'" through "in the dark for a while.") | "She sat straight up in bed." | about 75 s |
 | 2 | The laundry basket (from "I was eighteen. August." through "She went inside so I'd have to leave.") | "Your daddy's not going to say this, so I'm going to." | about 100 s |
 | 3 | "Not bad, kid." (from "And then the big one. My first sales manager." through "I'd become the tie.") | "The best thing I ever got from a man called me kid." | about 90 s |
 | 4 | Her guy or her son (from "Saturday morning, before the game, my mom calls" through "You don't get to feel useful.") | "I don't know how to be her son. I only know how to be her guy." | about 120 s, or cut at "I only know how to be her guy." |

@@ -60,7 +60,7 @@ JONATHON: Mine first, because it's short, and because if I wait I'll get nervous
 WES: And then she called you.
 JONATHON: She called me at eleven. And she said, "He says it was the capacitor." And she said, "He explained it to me. I understood about half." Which is half more than me, and I'm in the industry. And then she said, "You can still come see me." Not "you should." "You can." (beat) So I'm driving to Pasadena Sunday. Three and a half hours. With nothing to fix. I don't know what we'll do. Eat, I guess.
 WES: Eat's a good start. Most of the best things I know started with eating.
-JONATHON: I'm a little scared of it, honestly. I don't know what I am in that house without a problem to solve. I might just sit on her couch and look at the thermostat.
+JONATHON: I'm a little scared of it, honestly. I don't know who I am on her couch without a problem to solve. I might just sit there and stare at the thermostat.
 [CAM: WES MS]
 WES: Mine went sideways. I told my older brother. About the driveway. My mom and the laundry basket, "You're a man now." I called him Wednesday because it was still in my head from Tuesday, and I figured he'd laugh, because that's my mom all over.
 JONATHON: He didn't laugh, did he. I can tell from your face that he didn't laugh.
@@ -112,7 +112,7 @@ JONATHON: He's reporting. I asked him, "What do you ask her?" And he thought abo
 WES: Sounds like reporting. And I don't think she's doing anything wrong. She loves him. She's probably lonely down in Corpus, and seven-fifteen is the best twenty minutes of her day. And he loves her, and he's giving her his whole day because it's what he's got. But a man who's never once carried a bad day by himself overnight has never found out he can. He's thirty-one. He's never had a hard thing he didn't hand to his mom by breakfast.
 JONATHON: I asked him what the girlfriend thinks. Because she's the one who's going to live with it.
 WES: Smart question. What did she say?
-JONATHON: He said she thinks it's sweet. And then he said, "She also said I sound different when I'm on with her. Younger." And then he looked at me like I was going to tell him that was fine.
+JONATHON: He said she thinks it's sweet. And then he said, "She also said I sound different when I'm on with her. Younger." And then he waited, like I was going to tell him that was fine.
 WES: There it is. And I'll say one more thing before I tell on myself. You told me Tuesday about "Not bad, kid." I think this man's getting his "not bad" every morning by seven-thirty-five. He reports the day, she says, "Oh, honey, you did so good," and he's signed off. He doesn't have to decide for himself whether the day was good. Somebody who loves him decides by breakfast.
 JONATHON: Oh. That's the same thing. That's my sticky note on a phone call. I didn't see that until you said it.
 WES: Same thing, kinder voice. And it's not her fault. She's giving him what he's asking for.

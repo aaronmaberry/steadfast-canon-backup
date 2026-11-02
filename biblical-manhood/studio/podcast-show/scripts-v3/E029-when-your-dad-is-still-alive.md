@@ -58,7 +58,7 @@ JONATHON: Six to five. And I know what you're about to ask, so I'll save you the
 WES: That's three.
 JONATHON: That's three games by a combined three runs. And I've started saying "a combined three runs" to the other parents in the parking lot like it's a stat that's going to get me a contract extension.
 WES: It is a stat. You could put it on a shirt.
-JONATHON: Dani said that exact thing, and she was being mean about it. (sips coffee) But I have to tell you the last inning, because it's the best thing that's happened to me all spring. Ruby's on second base. Two outs. The girl behind her hits a little roller to the shortstop, and Ruby doesn't run. She turns around on the bag and waves at Dani in the bleachers. A little wave, wrist only, like she's riding a parade float down Main Street.
+JONATHON: Dani said that exact thing, and she was being mean about it. (sips coffee) But I have to tell you the last inning, because it's the highlight of my whole spring. Ruby's on second base. Two outs. The girl behind her hits a little roller to the shortstop, and Ruby doesn't run. She turns around on the bag and waves at Dani in the bleachers. A little wave, wrist only, like she's riding a parade float down Main Street.
 (both laugh)
 WES: They tag her?
 JONATHON: The shortstop walked over and tagged her like she was handing her a receipt. Game over. And Ruby comes running into the dugout so happy. "Did you see me wave?" Baby, everybody saw you wave. The other team saw you wave. The umpire waved back.
@@ -212,7 +212,7 @@ WES: The verse says father and mother. And I don't get the father half anymore. 
 JONATHON: The ask. I've been waiting on this one since you told me about the barn.
 WES: Quick version for anybody new. My mom's seventy-eight. My older brother and I spent about two years talking about the weather instead of talking about her. A few weeks back we finally had it out on the phone, an hour and four minutes. And we each found out the other one had a plan for her. His plan was she moves into his downstairs room. He'd already bought a recliner for it.
 JONATHON: The recliner. I think about that recliner more than I think about my own furniture.
-WES: My plan was she stays in her house and we get somebody to come in and help. And we both realized, about the same second, that neither one of us had asked her. So Sunday, after the pot roast, the two of us were going to ask her together. And then both of us were going to shut up. We practiced shutting up on the phone. He failed the practice.
+WES: My plan was she stays in her house and we get somebody to come in and help. And we both realized, about the same second, that neither one of us had asked her. So Sunday, after the pot roast, the two of us were going to ask her together. And then both of us were going to shut up. We'd rehearsed the silence on the phone. He failed the rehearsal.
 [CAM: WES CU]
 WES: So we clear the table. My wife takes the kids out to look at the calves, which was her idea, and a good one, and I'll never be able to repay it. And it's my mom and my brother and me at her kitchen table. The oilcloth with the cherries on it. My brother looks at me, and I look at him, and I say it. "Mom, what do you want? When you need more help. Not what we want. What do you want?"
 JONATHON: And then you actually shut up. I want to hear that you shut up.
@@ -241,7 +241,7 @@ WES: Eleven seconds. Honestly, that's all I did. I asked her, and then I gave he
 JONATHON: That's the scary part. You'd have been proud of that plan.
 WES: I had a folder. I had brochures for the in-home help in a folder with a tab on it. My wife saw the folder Sunday night and just patted my arm.
 [CAM: WES MS]
-WES: And on the drive home she let me be quiet for about twenty miles. Then she said, "You counted, didn't you." And I said, "Eleven." And she said, "I could tell from the calf pen. I could see your lips moving through the kitchen window."
+WES: And on the drive home she let me be quiet for about twenty miles. Then she said, "You counted, didn't you." And I said, "Eleven." And she said, "I saw it from the calf pen. Your lips were moving through the kitchen window."
 JONATHON: You count with your lips? Like a kid doing hide-and-seek?
 WES: Apparently. Fifty-two years, and I learned that Sunday.
 
@@ -269,7 +269,7 @@ JONATHON: Okay, that's dark, Wes. That's dark for ten in the morning.
 WES: I sat at my dad's graveside. I'm allowed one dark sentence per episode. That was it. I'm out.
 [CAM: JON CU]
 JONATHON: Here's the part that gets me, though. I always told myself it was his job. He left. He goes first. He's the father, he does the hard call. And I believe that. I still believe that. And he's never going to make the hard call. He's going to call on my birthday and ask about the weather until one of us is dead. So I can be right about whose job it is, or I can have a different call. I don't think I get both.
-WES: I don't think you do either. And I'm sorry about that. It's not fair, and I'm not going to tell you it is.
+WES: I don't think you do either. And I'm sorry about that. It's not fair, and I won't pretend it is.
 JONATHON: You could tell me it is. I wouldn't believe you, but it'd be nice to hear.
 WES: It's not fair. Go first anyway.
 
@@ -277,7 +277,7 @@ WES: It's not fair. Go first anyway.
 [CAM: 2S]
 WES: Pushback. Who's already mad at us?
 [CAM: JON MS]
-JONATHON: The guy whose dad was dangerous. "You want me to honor a man who hit my mom? Give him weight? Call him up and ask about his childhood?"
+JONATHON: The man whose father was dangerous. "You want me to honor a man who hit my mom? Give him weight? Call him up and ask about his childhood?"
 [CAM: WES CU]
 WES: No phone call. Let me say that first and loud. If your father is still dangerous, to you or your kids or anybody, you don't call him because a podcast said so. Honor doesn't mean access. You can give a man his weight from a long way off. You take seriously what he did. You don't pretend it was nothing. You pray for him, even if the whole prayer is just his name. And you get a counselor in the room before you get your father in the room. Some men honor their father by keeping him away from their kids. That's not dishonor. That's taking him exactly as seriously as he's earned.
 [CAM: JON MS]
@@ -334,7 +334,7 @@ JONATHON: So here's what I'm going to do. I'm going to call him. Me. First time 
 WES: When?
 JONATHON: Wednesday night. Tomorrow. Seven-thirty, after the kids are down. I'm going to sit in the truck in the driveway, because I'm not doing the first one in the house where Ruby can hear it through the wall.
 WES: And what are you going to ask him?
-JONATHON: What his dad was like. That's it. That's the whole plan. I'm not going to bring up the lamp. I'm not going to make a speech. I've been writing a speech to that man in my head since I was nine years old, and it's a good speech. It's got a structure. I'm not going to give it. I'm going to ask him one question and then do what you did with your mom. I'm going to shut up and count.
+JONATHON: What his dad was like. That's it. That's the whole plan. I'm not going to bring up the lamp. I'm not giving a speech. I've been writing a speech to that man in my head since I was nine years old, and it's a good speech. It's got a structure. I'm not going to give it. I'm going to ask him one question and then do what you did with your mom. I'm going to shut up and count.
 [CAM: JON CU]
 JONATHON: And when he says, "I'll let you go," I'm going to say, "Not yet." And I honestly don't know what happens after that. He might hang up. He might talk about redfish for half an hour. He might cry. I've never heard him cry. I don't know what he sounds like when he's not talking about the weather.
 [CAM: WES MS]
