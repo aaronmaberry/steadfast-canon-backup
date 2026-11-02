@@ -83,6 +83,8 @@ WES: A little. I've paid every bill in our house, myself, since about the second
 JONATHON: To the penny. You balance a checkbook on Sundays. I didn't know people still owned checkbooks. I thought they were in museums with the rotary phones.
 [CAM: WES MS]
 WES: The bank still sends them. Somebody's got to use them. And for a long time I thought that was the whole job. A man pays the bills. He keeps the lights on. He doesn't make trouble. And if he does all that, he's done what a man does with money.
+[CAM: JON MS]
+JONATHON: That's the job description most of us got handed. Pay it, keep quiet, don't make trouble.
 [CAM: WES CU]
 WES: And here's what I never saw. In all those years I never once showed my wife that register. Not hiding anything. There was nothing in it to hide. I just never showed her. She didn't know what we had in savings. She didn't know what the house insurance cost. If she asked, I'd say, "We're fine," and that was the end of it.
 [CAM: JON CU]
@@ -161,6 +163,8 @@ JONATHON: I'll read it. Luke twelve, fifteen. "Watch out! Be on your guard again
 JONATHON: And I want to point out, he says all kinds. Not the one kind. There's the greed that wants more, and there's the greed that's scared of having less. And I think mine was the second kind. I wasn't hoarding. I was armoring.
 [CAM: WES MS]
 WES: And then he tells the story. A rich man has a good year. Bumper crop. And he doesn't have room to store it. So he says, I'll tear down my barns and build bigger ones, and I'll store it all, and then I'll say to myself, you've got plenty laid up for years, take it easy, eat, drink, and be merry.
+[CAM: JON MS]
+JONATHON: Honestly, that sounds like every retirement ad I've ever seen. Somebody on a boat, taking it easy.
 [CAM: WES CU]
 WES: And I want to be fair to this man, because I know men like him. I know farmers who'd hear that and say, what's wrong with that? He had a good year and he saved it. That's not wicked. That's responsible. That's what my granddad would've told me to do. Build the barn.
 [CAM: JON MS]
@@ -306,6 +310,8 @@ WES: We put the question out on the site and in the comments. What does your mon
 JONATHON: First one's a man, thirty-four, he says he and his wife have about forty thousand dollars in credit card debt. Two kids. He says, "She doesn't know the whole number. She thinks it's about fifteen. I've been paying the minimums on two cards she's never seen. How do I tell her without blowing up my marriage?"
 [CAM: WES MS]
 WES: Well, brother, I'll be straight with you, because you asked a straight question. You're already in the marriage you're afraid of blowing up. The number's already there. You can't make it smaller by keeping it quiet. Every month it sits in the drawer, the number gets bigger and the drawer gets bigger.
+[CAM: JON MS]
+JONATHON: So what does he actually do? Because he asked how, and he sounds scared.
 [CAM: WES CU]
 WES: Tell her the whole number. Not most of it. If you tell her twenty-five and she finds the other fifteen in a year, you'll have done it twice. Pick a calm night, not a fight night. Say it first, before she has to ask. And then don't explain for a while. Let her be mad. She's allowed to be mad. She just found out she's been married to a stranger about money.
 [CAM: JON CU]
@@ -332,6 +338,8 @@ WES: That's honest. And that's the twenty-three dollars under the coffee cup, a 
 JONATHON: It's exactly that. He's buying the round so nobody can see the pink notice. I know that man. I was that man, for different reasons. And I want to say to him first, the check at dinner isn't making you more of a man. It's making you a man with a secret about why he's paying.
 [CAM: WES CU]
 WES: And I'd say the paycheck was never the measure. Not in the Bible, and not in any marriage worth having. Abraham didn't lead his house because he out-earned Sarah. Joseph worked his whole life for somebody else's money, in Potiphar's house, then in a prison, then in Pharaoh's palace. Not one dollar of it was his. And God says the whole time that the Lord was with him.
+[CAM: JON MS]
+JONATHON: Not one dollar of it was his. I never noticed that. So what does this man actually do?
 [CAM: WES MS]
 WES: Here's what I'd tell him to do. Tell her. Not the dinner checks first. The feeling first. "Sometimes when the deposits hit I feel like half a man." That's going to be about the hardest sentence he's ever said, and I'd bet everything in my register that she'll handle it better than he thinks.
 [CAM: JON MS]
@@ -346,6 +354,8 @@ WES: So I'd ask this young man one question. Who's in the conversation about you
 JONATHON: And I'd tell him, the best time to learn to open your hand is when it's full. I didn't learn it at twenty-six. At twenty-six I was buying rounds for men I didn't like, to prove I could. Give something away this month that you'll actually feel. Not because you owe it. Because you want to find out whether you can.
 [CAM: WES MS]
 WES: Here's one I want to take, because I think a lot of men are in it and angry about it. A man, forty-five. He says, "My wife spends. There's an Amazon box on the porch every day. I work overtime to cover it, and I'm mad all the time. How do I get her to stop?"
+[CAM: JON MS]
+JONATHON: Every day. That's a lot of boxes. I'm already nervous for both of them.
 [CAM: WES CU]
 WES: I'll tell him what I'd tell myself. You can't start with her line. You've got to start with yours. If you walk in with her boxes, you'll get a fight, and you'll deserve about half of it. Go first. Show her the line on your side you'd least like to explain. Then ask her, once, gently, what the boxes are about.
 [CAM: JON MS]
@@ -359,6 +369,8 @@ JONATHON: Last one. A man, sixty-two, recently retired. He says, "My wife and I 
 [pause 1s]
 [CAM: WES CU]
 WES: That one's me in about ten years if I don't change something. So I'll talk to him like I'm talking to me. Your wife isn't scared of the numbers. She's scared of being left with a desk drawer she can't open. You're not protecting her by keeping it shut. You're protecting yourself from her opinions.
+[CAM: JON MS]
+JONATHON: That's a hard word for a man who thinks he's being kind.
 [CAM: WES MS]
 WES: Here's how I'd start. Not a big talk. Sit down with her and one folder. Say, "If something happens to me, this is where everything is." Show her the accounts, the pension, the insurance, who to call. Write the passwords down and put them where she can find them. And then do it again in six months, so it's a habit and not a funeral rehearsal.
 [CAM: JON CU]
@@ -455,16 +467,16 @@ Chapters
 00:18 Intro
 00:44 Pull up a chair
 03:07 Pay the bills
-09:09 Twenty-three dollars
-12:48 The Word
-18:44 The boring lines
-21:32 The card in the drawer
-25:12 The year I quit giving
-30:05 Pushback
-40:59 Going first
-44:20 The challenge
-46:43 Carry this
-46:52 Outro
+09:15 Twenty-three dollars
+12:54 The Word
+18:56 The boring lines
+21:44 The card in the drawer
+25:25 The year I quit giving
+30:18 Pushback
+41:34 Going first
+44:55 The challenge
+47:18 Carry this
+47:27 Outro
 
 Scripture: Luke 12:34 (NIV). Also Luke 12:15, 12:20-21, Proverbs 22:7.
 

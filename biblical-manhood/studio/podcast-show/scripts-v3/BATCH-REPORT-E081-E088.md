@@ -16,19 +16,18 @@ All eight scripts are finished. Each passes `_build/lint.sh` with no FAIL. Each 
 
 | Episode | Format | Spoken words | Minutes (timing.py) | Wes / Jonathon words | Jonathon share | Jonathon lines under 12 words | Longest Wes turn | Lint |
 |---|---|---|---|---|---|---|---|---|
-| E081 The Dark Stretch | Main | 7,943 | 52:21 | 4,032 / 3,911 | 49.2% | 9.7% (9 of 93) | 122 | Pass, 0 FAIL, 1 WARN (DRAFT open) |
+| E081 The Dark Stretch | Main | 7,961 | 52:29 | 4,032 / 3,929 | 49.4% | 11.6% (11 of 95) | 110 | Pass, 0 FAIL, 1 WARN (DRAFT open) |
 | E082 Field Notes: Noticing a Brother | Field Notes | 3,401 | 22:35 | 1,708 / 1,693 | 49.8% | 16.7% (8 of 48) | 110 | Pass, 0 FAIL, 1 WARN (DRAFT open) |
-| E083 Money Tells the Truth | Main | 7,131 | 47:21 | 3,852 / 3,279 | 46.0% | 16.5% (14 of 85) | 124 | Pass, 0 FAIL, 1 WARN (DRAFT open) |
+| E083 Money Tells the Truth | Main | 7,222 | 47:56 | 3,852 / 3,370 | 46.7% | 15.4% (14 of 91) | 110 | Pass, 0 FAIL, 1 WARN (DRAFT open) |
 | E084 Field Notes: The Budget Talk | Field Notes | 3,179 | 21:08 | 1,661 / 1,518 | 47.8% | 17.1% (7 of 41) | 119 | Pass, 0 FAIL, 1 WARN (DRAFT open) |
 | E085 Paid in Full | Main | 7,029 | 46:53 | 3,865 / 3,164 | 45.0% | 16.1% (15 of 93) | 119 | Pass, 0 FAIL, 1 WARN (DRAFT open) |
-| E086 Field Notes: Season Review: The Long Road | Field Notes | 3,208 | 21:18 | 1,621 / 1,587 | 49.5% | 16.3% (7 of 43) | 124 | Pass, 0 FAIL, 1 WARN (DRAFT open) |
-| E087 Small Ways to Serve at Home | Main | 7,114 | 47:06 | 3,727 / 3,387 | 47.6% | 15.3% (13 of 85) | 123 | Pass, 0 FAIL, 1 WARN (DRAFT open) |
+| E086 Field Notes: Season Review: The Long Road | Field Notes | 3,229 | 21:26 | 1,621 / 1,608 | 49.8% | 21.7% (10 of 46) | 106 | Pass, 0 FAIL, 1 WARN (DRAFT open) |
+| E087 Small Ways to Serve at Home | Main | 7,153 | 47:21 | 3,727 / 3,426 | 47.9% | 14.8% (13 of 88) | 110 | Pass, 0 FAIL, 1 WARN (DRAFT open) |
 | E088 Field Notes: Serving Report | Field Notes | 3,206 | 21:29 | 1,829 / 1,377 | 43.0% | 11.6% (5 of 43) | 104 | Pass, 0 FAIL, 1 WARN (DRAFT open) |
 
 Word counts cover spoken lines only. Stage directions, bracketed cues and parentheticals are excluded. A "Wes turn" means every Wes line in a row before Jonathon speaks.
 
-- No Wes turn is over 125 words.
-- Four turns run 122 to 124 words: E081, E083, E086 and E087 each have one.
+- No Wes turn is over 120 words. In E081, E083, E086 and E087, no Wes turn is over 110. Every turn over 110 in those four was split with a Jonathon line, and none of Wes's words were cut.
 - No host line has a dash, a semicolon (outside NIV quotes, which keep their own punctuation), a mid-sentence colon, a curly quote, "uh," "um," "sir," "week," "weeks" or "weekend." The one exception is the E085 open (warning 2).
 - The 988 line is in both mental-health episodes, E081 (the dark stretch) and E082 (the direct question), in a spoken line and in the description.
 
@@ -57,7 +56,7 @@ Each Field Notes carries a miss on the table by 3:30. E082: Wes's "I was working
    - **E088:** the barn day itself, including the brothers' and the oldest son's sentences. His mother has known since about 2003 that his wife writes the cards.
 4. **Wes's dad in E088.** The round 12 rule rests Wes's dad through E088. The E051 setup makes the barn day turn on his father's loppers, so E088 includes the older brother's one word, "Dad's," and nothing more. There's no memory and no grief beat. E082 carries the one plain anniversary report.
 5. **The training premiere session.** CALENDAR-104 marks E087 as "T (premiere)" but names no session. I chose Lay It Down, the session that matches Mark 10:45's laying down for others. It's named by title only.
-6. **Longest Wes turns of 122 to 124 words** in E081, E083, E086 and E087. All are under your 125 check but over the "about 120" guide.
+6. **Long Wes turns, cleared.** E081, E083, E086 and E087 each had one turn of 122 to 124 words. Every Wes turn over 110 in those four now has a Jonathon line in it, so none runs over 110. E084 and E085 each still have a 119-word turn, under the "about 120" guide.
 7. **CHANGELOG merge.** This branch creates `scripts-v3/CHANGELOG-V3.md`, and so do `podcast-v3-e025-e032` and `podcast-v3-e073-e080`. Keep every batch section when merging.
 
 ## Continuity assumptions
