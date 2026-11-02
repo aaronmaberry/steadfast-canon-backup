@@ -159,8 +159,10 @@ WES: I'd love to say from me. I think he learned it from his foreman, honestly, 
 WES: Here's the verse. Paul's just spent two verses saying you can't earn God. You're saved by grace, through faith, not by working. Not by anything you did. And then the very next thing he says is this.
 [CARD: Ephesians 2:10]
 WES: "For we are God's handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do."
+[CAM: JON CU]
+JONATHON: "Handiwork." That's not a word anybody uses at the shop. That's a word for a quilt at the county fair.
 [CAM: WES CU]
-WES: "Handiwork." Made by hand. You weren't stamped out. You weren't a rental. Somebody made you on purpose, with His hands. And He made you in Christ, which means you don't work to get in. You're already in. You work because of who made you. That order matters. Grace first, then work. Not the other way. A lot of men have it backward. They work so hard because somewhere down deep they think the work is what makes them worth something. To God, to their dad, to their wife. And they can never stop, because it's never enough. Ephesians says you're already His handiwork before you lift a finger.
+WES: That's close to it. Made by hand. You weren't stamped out. You weren't a rental. Somebody made you on purpose, with His hands. And He made you in Christ, which means you don't work to get in. You're already in. You work because of who made you. That order matters. Grace first, then work. Not the other way. A lot of men have it backward. They work so hard because somewhere down deep they think the work is what makes them worth something. To God, to their dad, to their wife. And they can never stop, because it's never enough. Ephesians says you're already His handiwork before you lift a finger.
 [CAM: JON CU]
 JONATHON: Then why do so many of us work like we're trying to get in? I've done it my whole career. Every quarter's an audition.
 [CAM: WES MS]
@@ -408,15 +410,15 @@ Chapters
 08:57 The chests
 12:14 They're watching you work
 14:37 The Word
-21:53 The one I'm not sure about
-26:28 Labor Day
-29:42 The job you hate
-33:36 When you can't work
-36:04 Pushback
-42:11 Going first
-44:32 The challenge
-46:03 Carry this
-46:12 Outro
+22:02 The one I'm not sure about
+26:36 Labor Day
+29:51 The job you hate
+33:45 When you can't work
+36:13 Pushback
+42:20 Going first
+44:41 The challenge
+46:11 Carry this
+46:20 Outro
 
 Scripture: Ephesians 2:10 (NIV)
 
