@@ -100,7 +100,7 @@ WES: It cost me a booth I'd kept to myself for sixteen years. That was the going
 
 [CHAPTER: Jonathon's report]
 [CAM: JON MS]
-JONATHON: Okay. Me. Thursday at seven, I called my mom. I sat in the truck in the driveway to do it, which I learned from you.
+JONATHON: Okay. Me. Thursday at seven, I called my mom. I made the call from the truck in the driveway, which I learned from you.
 WES: The two question marks. "Is everything ok."
 JONATHON: "Is everything ok??" So she was braced for a death. I said everything's fine. I said, "Mom, Dani and I want to host Easter lunch at our house, and we want you there." And then I waited, because I'd practiced for days for her to be hurt. I had answers ready for every kind of hurt.
 WES: And?
@@ -149,7 +149,7 @@ WES: That's going first. He made the plan, and now there's a table. That's how e
 JONATHON: He's buying bowls. He asked me what kind of bowls a man buys. I told him to ask Dani.
 WES: That's the right answer. That's growth.
 [CAM: WES MS]
-WES: I want to say something to the man who lives alone, though. The nephew's story is funny, but look at what happened. Five of those seven guys didn't get a text. They got told by a friend. That means five men were sitting at home on a Sunday, and the only thing missing was somebody to go first. There are more of those men than you'd think.
+WES: I want to say something to the man living by himself, though. The nephew's story is funny, but look at what happened. Five of those seven guys didn't get a text. They got told by a friend. That means five men were sitting at home on a Sunday, and the only thing missing was somebody to go first. There are more of those men than you'd think.
 JONATHON: That's what got me. Seven. He thought he was inviting two. He was inviting everybody who was waiting.
 [TEXT: Buy more bowls.]
 
@@ -280,8 +280,8 @@ Chapters
 06:18 Jonathon's report
 10:18 The single check
 11:43 From the table
-17:41 Tool on the table
-21:13 Carry this
+17:40 Tool on the table
+21:12 Carry this
 21:45 Outro
 
 Scripture: Proverbs 27:17 (NIV)

@@ -150,7 +150,7 @@ JONATHON: The dog's going to be fine. But she sounded different. Because I calle
 [TEXT: Box checked. Two of them, anyway.]
 [CAM: 2S]
 WES: And the bed? Don't think I forgot the bed.
-JONATHON: Three out of four days. Thursday she forgot, and I stood in the doorway, and I looked at it, and I did not make it.
+JONATHON: Three out of four days. Thursday she forgot, and I stood in the doorway, and I looked right at it, and I did not make it.
 WES: How did that feel?
 JONATHON: Like I was being a bad dad. Which is how I know it's working. Every good thing I've done as a parent has felt like I was being a bad dad.
 
@@ -295,9 +295,9 @@ Chapters
 00:39 Check the box
 05:56 Jonathon's report
 11:00 The single check
-12:31 From the table
+12:32 From the table
 17:13 Tool on the table
-22:04 Carry this
+22:05 Carry this
 22:42 Outro
 
 Scripture: 1 Peter 5:7 (NIV)

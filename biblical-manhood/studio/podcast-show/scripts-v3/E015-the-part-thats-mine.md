@@ -389,7 +389,7 @@ WES: I'm leaving it alone with my jaw.
 [CAM: JON MS]
 JONATHON: So. Thursday. One sentence, then stop. "The 2019 district deal should have been his, and I put my name on it." I'm not asking for anything. I'm not suggesting a fix. If they want to fix the record, they can. My part is saying it to the room I took it from. I'll tell you Friday. If I chicken out, I'll tell you that.
 [CAM: JON CU]
-JONATHON: And Monday night I told Dani about the lunch. And then I said, "Do you want me to take the Cancun picture off the fridge?"
+JONATHON: And Monday night I told Dani about the lunch. And then I said, "Should I take the Cancun picture off the fridge?"
 WES: What did she say?
 JONATHON: She'd been asleep. Night shift. And she came out to the kitchen in her socks, and she looked at me like I'd lost my mind, and she said, "No. We went to Cancun. It was our first trip without a baby. That's my picture too." And then she went back to bed.
 WES: She got up to defend a picture.
@@ -514,11 +514,11 @@ Chapters
 30:34 Every kind of man
 33:06 The man who owns everything
 36:31 What I actually did
-40:19 They already knew
-43:05 The shepherd
-45:03 The challenge
-47:15 Carry this
-47:34 Outro
+40:18 They already knew
+43:04 The shepherd
+45:02 The challenge
+47:14 Carry this
+47:33 Outro
 
 Scripture: Romans 7:18 (NIV)
 

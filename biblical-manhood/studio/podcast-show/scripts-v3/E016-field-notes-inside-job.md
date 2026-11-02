@@ -82,7 +82,7 @@ JONATHON: You did the jaw, though. On Tuesday. The jaw knew, and I talked right 
 WES: The jaw guesses. The jaw is wrong a lot. Ask my wife about the jaw.
 [CAM: JON MS]
 JONATHON: So I texted him back. "You're right. I should've asked you first. What do you want me to do?" And he hasn't answered. So I'm going to let him decide what's next. It's his deal. It was always his deal. I just keep forgetting that.
-WES: That's a messier ending than the lunch. I want to say that out loud so nobody thinks you're telling it wrong.
+WES: That's a messier ending than the lunch. I'm saying that plainly so nobody thinks you're telling it wrong.
 JONATHON: It's the real one. The lunch was a movie. This is a Thursday.
 [CAM: WES MS]
 WES: Can I ask what you'll do when he answers? Because he will. Maybe not soon.
@@ -162,7 +162,7 @@ WES: She does that. She did it in three words, and it took me about a year to so
 [CAM: WES MS]
 WES: And there's one kind of man this hits hardest, and I want to talk to him straight. The one who grew up in a house where everything was his fault. Every bad mood, every fight, somehow the kid caused it. You hear "find your part," and your whole body says, I know, it's always my part. If that's you, you probably need the other half of Tuesday more than this half. What happened in that house was real. And your part is smaller than you think.
 [CAM: JON MS]
-JONATHON: And if it tips over into "I'm worthless." I want to say this one, because I was closer to it Thursday night than I'd like.
+JONATHON: And if it tips over into "I'm worthless." This one I need to say, because I was closer to it Thursday night than I'd like.
 [CAM: JON CU]
 JONATHON: That's not God's voice. If what you're hearing is "you're garbage," that's not conviction, and you shouldn't sit alone with it. Tell somebody. A pastor, a counselor, your doctor. Today. And if it's gone darker than that, if you're having thoughts of ending your life, call or text 988. That's the Suicide and Crisis Lifeline, in the US, any hour.
 WES: Today. Not after the episode. We'll be here when you get back.
@@ -272,13 +272,13 @@ Chapters
 00:00 Cold open
 00:10 Intro
 00:32 Check the box
-05:55 The pecan pie
-09:05 The single check
-10:11 From the table
-13:50 Search me
-17:53 Tool on the table
-21:58 Carry this
-22:10 Outro
+05:54 The pecan pie
+09:03 The single check
+10:09 From the table
+13:49 Search me
+17:52 Tool on the table
+21:57 Carry this
+22:09 Outro
 
 Scripture: Psalm 139:23-24 (NIV)
 

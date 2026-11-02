@@ -327,7 +327,7 @@ WES: Everybody checks at seven thirty-one. Just don't make the coffee depend on 
 [CAM: JON MS]
 JONATHON: Okay, but here's the one that scares me. What about the man who goes first, and it doesn't work? He says the hard sentence, and she doesn't say "keep going." She says "too late." Or she uses it against him in the next fight.
 [CAM: WES MS]
-WES: That happens. I'm not going to tell you it doesn't. There's a man at my Thursday table, divorced about four years. Last spring he called his ex-wife and apologized. A real one. For the drinking, for the yelling, for the last two years of the marriage. No excuses, no "but you."
+WES: That happens. I won't pretend it doesn't. There's a man at my Thursday table, divorced about four years. Last spring he called his ex-wife and apologized. A real one. For the drinking, for the yelling, for the last two years of the marriage. No excuses, no "but you."
 JONATHON: And what did she say? Please tell me she said something nice.
 WES: She said, "You could've said that when it mattered." And she hung up.
 [CAM: JON CU]
@@ -535,13 +535,13 @@ Chapters
 23:59 Pushback
 27:34 The cold marriage
 30:46 When she throws it back
-33:31 The man at eighty-one
-35:56 Not the oldest
-38:12 Two chairs
-40:38 What I actually did
-45:20 The challenge
-48:14 Carry this
-48:26 Outro
+33:30 The man at eighty-one
+35:55 Not the oldest
+38:10 Two chairs
+40:37 What I actually did
+45:19 The challenge
+48:13 Carry this
+48:25 Outro
 
 Scripture: John 10:4 (NIV)
 
