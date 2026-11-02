@@ -94,12 +94,12 @@ WES: And I'll tell you what I'm scared of, since you asked. I'm scared she says 
 JONATHON: That's good. I'm going to steal that for a sales meeting, and I'm going to ruin it.
 [TEXT: Box checked. The paper's back on the fridge.]
 [CAM: JON MS]
-JONATHON: Mine. I told the detail to a man, and it wasn't the man I planned. Thursday at practice, the twin's dad comes up while we're picking up balls. And he says, "Hey, I heard your show." Somebody in the parent chat sent it around, apparently. Which means my nephew sent it around, because he's in the parent chat because of the oranges. And he says, "Your dad took a lamp?"
+JONATHON: Mine. I told the detail to a man, and it wasn't the man I planned. Thursday at practice, the twin's dad comes up while we're picking up balls. And he says, "Hey, I heard your show." My nephew sent it around the parent chat, apparently. He's in there because of the oranges. And he says, "Your dad took a lamp?"
 WES: Oh boy. So the whole parent chat knows about the lamp now.
 JONATHON: The whole parent chat knows about the lamp. So I told him the short version, with the lamp in it. And he picked up a ball and stood there with it a second. And he said, "Mine took the TV." (beat) And then he said, "We didn't have a TV for three years. My mom said we didn't need one." And then he threw the ball in the bucket and went to help his daughter with her glove.
 [CAM: WES MS]
 WES: That's all?
-JONATHON: That's all. Two guys on a coach-pitch field. A lamp and a TV. It's the most I've ever talked to a man about my dad who wasn't you. And it took about forty seconds. And I think about him freezing at that first game in March, when his daughter struck out. I think I know a little bit more about why now.
+JONATHON: That's all. A lamp and a TV. The most I've ever talked about my dad with a man who isn't you, in forty seconds. And I think I know a little more now about why he froze at that first game in March.
 WES: That's what the detail does. You tell yours, and it gives another man permission to tell his. He'd probably been carrying that TV around for thirty years.
 [TEXT: "Mine took the TV."]
 [CAM: JON MS]
@@ -259,10 +259,10 @@ Chapters
 00:00 Cold open
 00:12 Intro
 00:38 Check the box
-07:52 Tool on the table
-17:07 From the table
-22:18 Carry this
-22:31 Outro
+07:42 Tool on the table
+16:57 From the table
+22:07 Carry this
+22:21 Outro
 
 Scripture: Ephesians 4:29 (NIV)
 
