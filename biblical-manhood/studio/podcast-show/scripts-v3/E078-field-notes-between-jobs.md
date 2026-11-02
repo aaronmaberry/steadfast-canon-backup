@@ -42,7 +42,7 @@ WES: She said I forgot one. "Stubborn."
 
 [CHAPTER: Intro]
 [CAM: 2S]
-(Walk Steadfast open written for E078. Same beats every week, new words. SHOW-BIBLE section 5.)
+(Walk Steadfast open written for E078. Same beats each episode, new words. SHOW-BIBLE section 5.)
 JONATHON: This is Walk Steadfast. I'm Jonathon. My company just cut a man I hired.
 [LOWER THIRD: Jonathon]
 WES: I'm Wes Hart. My wife has had twenty-seven years to figure me out.
@@ -287,7 +287,7 @@ walksteadfast.com · @steadfastwalk
 ## Reading narrative
 
 # Between Jobs
-### Walk Steadfast, Field Notes, Episode 78 · October 1, 2027
+### Walk Steadfast, Field Notes, Episode 78
 
 Two installers had just been cut when a thirty-one-year-old rep shut his manager's door. He didn't ask whether he was next. He asked how a man leads his family through a layoff, before it happens. That night he told his wife the whole conversation, and they made a list on the couch after the baby went down.
 

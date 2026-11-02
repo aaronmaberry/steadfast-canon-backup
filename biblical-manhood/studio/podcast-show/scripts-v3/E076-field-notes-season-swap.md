@@ -42,7 +42,7 @@ WES: My son. It took four Saturdays.
 
 [CHAPTER: Intro]
 [CAM: 2S]
-(Walk Steadfast open written for E076. Same beats every week, new words. SHOW-BIBLE section 5.)
+(Walk Steadfast open written for E076. Same beats each episode, new words. SHOW-BIBLE section 5.)
 JONATHON: This is Walk Steadfast. I'm Jonathon. I asked an older rep what I do wrong.
 [LOWER THIRD: Jonathon]
 WES: I'm Wes Hart. I learned a young man's name.
@@ -268,7 +268,7 @@ walksteadfast.com · @steadfastwalk
 ## Reading narrative
 
 # Season Swap
-### Walk Steadfast, Field Notes, Episode 76 · September 24, 2027
+### Walk Steadfast, Field Notes, Episode 76
 
 Wes's twenty-one-year-old had spent four Saturdays under cars with an eighty-one-year-old mechanic who doesn't talk. One morning he asked, "How'd you learn all this?" A long silence. Then, still looking at the brake line: "Same way you are. Somebody handed me wrenches."
 

@@ -42,7 +42,7 @@ JONATHON: Full sentences. Punctuation. I almost called his wife.
 
 [CHAPTER: Intro]
 [CAM: 2S]
-(Walk Steadfast open written for E074. Same beats every week, new words. SHOW-BIBLE section 5.)
+(Walk Steadfast open written for E074. Same beats each episode, new words. SHOW-BIBLE section 5.)
 JONATHON: This is Walk Steadfast. I'm Jonathon, a sales manager.
 [LOWER THIRD: Jonathon]
 WES: I'm Wes Hart. I cried at my daughter's wedding.
@@ -309,7 +309,7 @@ walksteadfast.com · @steadfastwalk
 ## Reading narrative
 
 # Dash and Wheel
-### Walk Steadfast, Field Notes, Episode 74 · September 17, 2027
+### Walk Steadfast, Field Notes, Episode 74
 
 A divorced dad watched his nine-year-old strike out to end a game and cry in the truck. His own father's sentence was right there: quit crying or I'll give you something to cry about. He didn't say it. He just drove. Later, after dropping the kids at their mom's, he cried alone at a gas station for the first time since March. He asked: is that weak?
 

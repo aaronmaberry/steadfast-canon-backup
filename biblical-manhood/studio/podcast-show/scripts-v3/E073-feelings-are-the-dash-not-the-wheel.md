@@ -42,7 +42,7 @@ WES: He said, "Just driving." Nobody in the history of the world has ever been g
 
 [CHAPTER: Intro]
 [CAM: 2S]
-(Walk Steadfast open written for E073. Same beats every week, new words. SHOW-BIBLE section 5.)
+(Walk Steadfast open written for E073. Same beats each episode, new words. SHOW-BIBLE section 5.)
 WES: This is Walk Steadfast. I'm Wes Hart. I grew up where nobody said how they felt.
 [LOWER THIRD: Wes Hart]
 JONATHON: I'm Jonathon. Starting tonight, Tuesday nights are mine.
@@ -523,7 +523,7 @@ walksteadfast.com · @steadfastwalk
 ## Reading narrative
 
 # Feelings Are the Dash, Not the Wheel
-### Walk Steadfast, Episode 73 · September 14, 2027
+### Walk Steadfast, Episode 73
 
 On a Friday night Wes's sixteen-year-old came in the back door with a red face and went for the truck keys. "Just driving," he said. His girlfriend had broken up with him by text. Wes said, "You can be as mad as you want. You can be mad all night. You don't drive mad. I'll drive. You ride." His son set the keys on the table, not in his hand. They took the farm road the long way with the windows down. Twenty minutes in, his son said, "I really liked her."
 

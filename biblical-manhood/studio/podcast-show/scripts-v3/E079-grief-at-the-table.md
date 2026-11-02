@@ -42,7 +42,7 @@ WES: I had a meeting. I don't remember what it was about.
 
 [CHAPTER: Intro]
 [CAM: 2S]
-(Walk Steadfast open written for E079. Same beats every week, new words. SHOW-BIBLE section 5.)
+(Walk Steadfast open written for E079. Same beats each episode, new words. SHOW-BIBLE section 5.)
 JONATHON: This is Walk Steadfast. I'm Jonathon. I've sat across from Wes most Thursdays for years.
 [LOWER THIRD: Jonathon]
 WES: I'm Wes Hart. The mug in front of me was Mr. Abernathy's.
@@ -131,7 +131,7 @@ WES: I quit. I left the last one half done. My brother finished it about a month
 [CAM: JON CU]
 JONATHON: I think I understand your brother. He's grieving sideways too, just from the other side. You fixed everything on that place. He won't touch the one thing you fixed. Both of you are keeping your dad's place the only way you can stand it. That barn door's a conversation the two of you haven't had yet.
 [CAM: WES MS]
-WES: Maybe that's the one for the tailgate. And I'll tell you something I've never said out loud. Back in July, at the barn, I asked him if Dad liked the work. He said, "I don't know. He never said." And I've never once asked my brother if he likes it. Thirty years he's run that place. I asked about the dead man and skipped the live one.
+WES: Maybe that's the one for the tailgate. You know I asked him back in July, at the barn, if Dad liked the work. He said, "I don't know. He never said." What I haven't told you is that I've never once asked my brother if he likes it. Thirty years he's run that place. I asked about the dead man and skipped the live one.
 [CAM: JON CU]
 JONATHON: That's the whole episode in one barn. Everybody in your family asking about the man who isn't there, and nobody asking the man holding the feed bucket.
 [TEXT: "You know he's not going to come check your work."]
@@ -435,15 +435,15 @@ Chapters
 03:16 Eighteen years
 06:28 Saturdays at the place
 13:07 Mr. Abernathy's question
-20:26 The Word
-24:03 Four o'clock
-28:00 The oven
-31:37 Will Grandma die?
-33:50 Pushback
-40:35 Going first
+20:25 The Word
+24:02 Four o'clock
+27:59 The oven
+31:36 Will Grandma die?
+33:49 Pushback
+40:34 Going first
 44:45 The challenge
-46:08 Carry this
-46:16 Outro
+46:07 Carry this
+46:15 Outro
 
 Scripture: John 11:35 (NIV)
 
@@ -477,7 +477,7 @@ walksteadfast.com · @steadfastwalk
 ## Reading narrative
 
 # Grief at the Table
-### Walk Steadfast, Episode 79 · October 5, 2027
+### Walk Steadfast, Episode 79
 
 Wes's father died on a Sunday night. Monday morning Wes went to work. For about a year after, he drove out to his father's place every Saturday and fixed fences that didn't need fixing, until his wife sat on the tailgate and said, "You know he's not going to come check your work." That was the first time he cried.
 

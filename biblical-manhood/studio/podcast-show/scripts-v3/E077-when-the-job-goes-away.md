@@ -15,7 +15,7 @@ Walk Steadfast · main episode · script v3 (podcast v3, batch E073-E080). Inter
 | Standing outro | Variant C, reworded ("If you know a man between jobs, the best thing you can do is send him this one. And then call him."), unchanged from v1. |
 | Wardrobe | Wes: cream short-sleeve work shirt. Jonathon: sand-colored short-sleeve henley (production/WARDROBE.md; v1's header had other shirts). |
 | Props | Standard set. A scuffed hard hat with the name strip peeled off (end insert). |
-| New continuity (v3 additions to v1) | Everything in the v1 row stands. **Added:** **The installer's interview nine years ago:** asked why he wanted the job, he said, "My dad did this. I'd like to be better at it than him." Jonathon remembers voting yes on that sentence. **Why Jonathon drove out (motive audit, with the v1 relief/dread beat):** decency, and also he didn't want to be the bad guy in the man's story; "I wanted him to like me while I took his job." **Thursday night** Jonathon came home and took Theo on the wagon walk without his phone and didn't say a word for three blocks. **Jonathon's pushback on "the job was never your name":** for a man like the installer, the work carries his character; Wes: "The work can carry your character. It can't carry your name." **Jonathon at thirteen** noticed only that his mom started asking about his day before he could ask about hers, and that she ate lunch at home on the weekends out of a brown bag. **Jonathon lives in tomorrow** in quarters ("I've lived in Q4 since about March"). **2019:** for three weeks Wes came home and mowed the same yard twice in one week; told his wife at the kitchen sink on a Thursday; he knew the copier's toner schedule by heart. **Jonathon's second pushback:** did Wes make it easy for his son to ask? Wes: he never asked; Jonathon: "Did you make it easy?" Wes concedes partly; he'll tell the son the drawer's open if he ever wants it (the notepad still goes in the trash unread). **The caller's three parts:** the plant, the wife's extra shifts and the son-in-law at Sunday lunch ("So what are you doing with yourself?"), and the line about identity. **Wes's 2009 coworker:** a man two desks down, four years of lunches, was cut in 2009; Wes never called him; he moved to Amarillo that spring. **Jonathon at thirty-one** interviewed for his own job after a merger (a man from Dallas), bargained in prayer, kept the job. **Jonathon's mother on why she told no one:** "Everybody I knew needed something from me. Nobody needed to hear that." **2019, the breakfast:** Wes sat at the men's breakfast three times in those three weeks and said nothing ("too small to bring and too big to say"). **2009 money:** Wes did the math alone; years later his wife told him she'd carried her own number that fall too. **Wes's review fear:** not the money; the "train your replacement" line puts him back at the copier. **Wes's father** was offered an A&M agriculture scholarship at eighteen; his father said the place needed him; Wes learned it at the funeral from his uncle; the whistle maybe kept the shape of the day. **The horn** (fall 2009) was guarding his dad's sentence about providing and the fear of not paying the bills. **The caller's money talk** (both of them, at the table, in daylight). **Jonathon hired a fifty-nine-year-old** warehouse manager last year off a contractor's phone call. **The installer lunch:** Jonathon's afraid he'll talk too much; Wes: "Ask him one thing and eat your burger." **"Sir"** used once in the batch, here. |
+| New continuity (v3 additions to v1) | Everything in the v1 row stands. **Added:** **The installer's interview nine years ago:** asked why he wanted the job, he said, "My dad did this. I'd like to be better at it than him." Jonathon remembers voting yes on that sentence. **Why Jonathon drove out (motive audit, with the v1 relief/dread beat):** decency, and also he didn't want to be the bad guy in the man's story; "I wanted him to like me while I took his job." **Thursday night** Jonathon came home and took Theo on the wagon walk without his phone and didn't say a word for three blocks. **Jonathon's pushback on "the job was never your name":** for a man like the installer, the work carries his character; Wes: "The work can carry your character. It can't carry your name." **Jonathon at thirteen** noticed only that his mom started asking about his day before he could ask about hers, and that she ate lunch at home on the weekends out of a brown bag. **Jonathon lives in tomorrow** in quarters ("I've lived in Q4 since about March"). **2019:** for three weeks Wes came home and mowed the same yard twice in one week; told his wife at the kitchen sink on a Thursday; he knew the copier's toner schedule by heart. **Jonathon's second pushback:** did Wes make it easy for his son to ask? Wes: he never asked; Jonathon: "Did you make it easy?" Wes concedes partly; he'll tell the son the drawer's open if he ever wants it (the notepad still goes in the trash unread). **The caller's three parts:** the plant, the wife's extra shifts and the son-in-law at Sunday lunch ("So what are you doing with yourself?"), and the line about identity. **Wes's 2009 coworker:** a man two desks down, four years of lunches, was cut in 2009; Wes never called him; he moved to Amarillo that spring. **Jonathon at thirty-one** interviewed for his own job after a merger (a man from Dallas), bargained in prayer, kept the job. **Jonathon's mother on why she told no one:** "Everybody I knew needed something from me. Nobody needed to hear that." **2019, the breakfast:** Wes sat at the men's breakfast three times in those three weeks and said nothing ("too small to bring and too big to say"). **2009 money:** Wes did the math alone; years later his wife told him she'd carried her own number that fall too. **Wes's review fear:** not the money; the "train your replacement" line puts him back at the copier. **Wes's father's A&M scholarship** (canon, E029 and E053) is named as the reason the son's job is the son's; the whistle maybe kept the shape of the day. **The horn** (fall 2009) was guarding his dad's sentence about providing and the fear of not paying the bills. **The caller's money talk** (both of them, at the table, in daylight). **Jonathon hired a fifty-nine-year-old** warehouse manager last year off a contractor's phone call. **The installer lunch:** Jonathon's afraid he'll talk too much; Wes: "Ask him one thing and eat your burger." **"Sir"** used once in the batch, here. |
 
 ## Title options
 
@@ -42,7 +42,7 @@ JONATHON: Nine years. I'm the one who hired him.
 
 [CHAPTER: Intro]
 [CAM: 2S]
-(Walk Steadfast open written for E077. Same beats every week, new words. SHOW-BIBLE section 5.)
+(Walk Steadfast open written for E077. Same beats each episode, new words. SHOW-BIBLE section 5.)
 WES: This is Walk Steadfast. I'm Wes Hart. In 2019 I lost a title and hid it for three weeks.
 [LOWER THIRD: Wes Hart]
 JONATHON: I'm Jonathon. I manage people for a living.
@@ -238,11 +238,11 @@ WES: And that's the same lie the plant supervisor's hearing. The building closed
 [CAM: WES MS]
 WES: One more, and it's a good one. My oldest is twenty-one, an electrical apprentice, about a year and a half from topping out. And for most of this year he's been deciding whether to stay with his company or go somewhere else when he finishes. And I've had about a hundred opinions on it, and I've kept every one of them in my pocket. I told my wife back in the spring, "His job. His." And I meant it. It's been the hardest thing I've kept my mouth shut about in years.
 [CAM: WES CU]
-WES: And I'll tell you why it matters to me so much, because I haven't said this on here. My dad was offered a scholarship to A&M. Agriculture. When he was eighteen. And his father said the place needed him. So he stayed and fed cattle every morning for the rest of his life. I found out at his funeral, from his younger brother. Dad never mentioned it. Not once.
+WES: And I'll tell you why it matters to me so much. You've heard me tell about my dad's scholarship. A&M, agriculture, at eighteen. And his father said the place needed him. So he stayed and fed cattle every morning for the rest of his life. I found out at the graveside, from my uncle. Dad never mentioned it. Not once. I think about that scholarship every time one of my kids picks something.
 [CAM: JON MS]
-JONATHON: He never told you? Not once in your whole life, not even when you were the one applying places?
+JONATHON: And he never brought it up. Not once, the whole time you were growing up, not even when you were the one applying places.
 [CAM: WES MS]
-WES: Never. And I don't know if he was sorry. He was a good man, and he did that work every day without complaining. But somebody else chose his work for him. And I decided a long time ago that whatever my kids did, they'd be the ones who chose it. Even if I'd have chosen different.
+WES: Never. And I still don't know if he was sorry. My brother doesn't either. Dad did that work every day without complaining. But somebody else chose his work for him. And I decided a long time ago that whatever my kids did, they'd be the ones who chose it. Even if I'd have chosen different.
 [CAM: WES CU]
 WES: And here's what I keep coming back to. He whistled. Every morning, feeding cattle, he whistled. I used to think that meant he loved it. Now I don't know. Maybe he did. Or maybe that was how he kept the shape of the day, same as your mom with the brown bag. A man can do work somebody else chose for him and still do it well. He did. I just wish he'd gotten to say yes to it himself.
 [CAM: JON MS]
@@ -416,11 +416,11 @@ Chapters
 14:53 The Word
 20:02 The title
 25:31 His job. His.
-30:58 Pushback
-42:10 Going first
-44:43 The challenge
-46:12 Carry this
-46:20 Outro
+31:01 Pushback
+42:13 Going first
+44:46 The challenge
+46:15 Carry this
+46:23 Outro
 
 Scripture: Matthew 6:34 (NIV)
 
@@ -452,7 +452,7 @@ walksteadfast.com · @steadfastwalk
 ## Reading narrative
 
 # When the Job Goes Away
-### Walk Steadfast, Episode 77 · September 28, 2027
+### Walk Steadfast, Episode 77
 
 Jonathon drove out to a job site to tell an installer he'd hired nine years earlier that his position had been cut. The man asked two questions. "Did I do something wrong?" No. Then: "Can I finish the job I'm on?" He went back inside and finished the work, perfectly, as if it were his own house. The company hadn't made him that man, and it couldn't take that away. The work was his. The job was theirs.
 
@@ -488,7 +488,7 @@ Scripture quotations taken from The Holy Bible, New International Version®, NIV
 - **Round 11, Dani.** Not quoted (E076 had her one line). **Motive audit:** one, the batch's second, two beats in one place: why Jonathon drove out ("I wanted him to like me while I took his job.") and the relief/dread on the drive home. E076 had none; E078 must not. **The 24-year-old:** rested. **Illness:** none; the caller's wife works hospital shifts, which is a job.
 - **Round 10, Wes isn't a failure collector.** The son's decision is a got-right with an honest unsure, and Jonathon's pushback leaves Wes with an open question ("I don't know") and a plan. 2009 and 2019 are told for what they taught.
 - **Round 10, sales lens.** None (hiring and managing only). **Show about itself:** none.
-- **Round 9 limits.** No Virgil. No truck man. No "X out of Y." "Brother": one, inside a quoted throwaway line Wes criticizes. "Sir": one, the batch's only, to the long caller. Jonathon's father: "after my dad left" only, as background. Wes's father: the A&M scholarship (told for the first time on the show, learned at the funeral), the whistle, and the glove box line.
+- **Round 9 limits.** No Virgil. No truck man. No "X out of Y." "Brother": one, inside a quoted throwaway line Wes criticizes. "Sir": one, the batch's only, to the long caller. Jonathon's father: "after my dad left" only, as background. Wes's father: the A&M scholarship (canon, first told in E029 and E053; here as why the son's choice is his own), the whistle, and the glove box line.
 - **Kid-catches-dad:** none (the daughter's "Are you mad at us?" in 2019 is backstory from v1). **One-word replies:** none. **Older-man quotable:** none. **Deadpan payoff:** none ("That's not a lunch. That's a gift." is plain). **Knee or age beat:** none.
 - **Safety.** The life-insurance lie is named and answered with 988 the same morning and the pastor.
 - **Brief canon.** The oldest son's job decision was held for E077 per the Wes brief; it's resolved here, his way.

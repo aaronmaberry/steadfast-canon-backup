@@ -42,7 +42,7 @@ JONATHON: She wrote it on the kitchen calendar. In pen. In February.
 
 [CHAPTER: Intro]
 [CAM: 2S]
-(Walk Steadfast open written for E080. Same beats every week, new words. SHOW-BIBLE section 5.)
+(Walk Steadfast open written for E080. Same beats each episode, new words. SHOW-BIBLE section 5.)
 JONATHON: This is Walk Steadfast. I'm Jonathon. When something hurts, I get louder.
 [LOWER THIRD: Jonathon]
 WES: I'm Wes Hart. October's a hard month for me.
@@ -272,7 +272,7 @@ walksteadfast.com · @steadfastwalk
 ## Reading narrative
 
 # Grief Report
-### Walk Steadfast, Field Notes, Episode 80 · October 8, 2027
+### Walk Steadfast, Field Notes, Episode 80
 
 Seven months after his mother died, a sixty-one-year-old salesman still drives past the exit to her house and almost takes it. Everyone else seems back to normal. He wanted to know how long grief is supposed to take.
 

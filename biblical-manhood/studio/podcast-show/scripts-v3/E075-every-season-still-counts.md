@@ -42,7 +42,7 @@ WES: He tops out. Journeyman electrician. He said it under a stranger's car whil
 
 [CHAPTER: Intro]
 [CAM: 2S]
-(Walk Steadfast open written for E075. Same beats every week, new words. SHOW-BIBLE section 5.)
+(Walk Steadfast open written for E075. Same beats each episode, new words. SHOW-BIBLE section 5.)
 WES: This is Walk Steadfast. I'm Wes Hart, fifty-two.
 [LOWER THIRD: Wes Hart]
 JONATHON: I'm Jonathon. I've been saying "when Theo's in school" for about four years.
@@ -518,7 +518,7 @@ walksteadfast.com · @steadfastwalk
 ## Reading narrative
 
 # Every Season Still Counts
-### Walk Steadfast, Episode 75 · September 21, 2027
+### Walk Steadfast, Episode 75
 
 At car-care Saturday, under a widow's car, Wes's twenty-one-year-old said his real life starts when he finishes his apprenticeship. The eighty-one-year-old mechanic beside him didn't argue. He held out his hand: "Hand me the three-eighths." Forty-five minutes later the widow drove off with working brakes. On the way home the son said, "He's eighty-one and he's under a car."
 
