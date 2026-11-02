@@ -127,7 +127,7 @@ WES: You're faster than I was. You're about to hear how fast I was.
 [CHAPTER: The loss report]
 [CAM: JON MS]
 JONATHON: Can I give you the sales version of this? Because I think I've watched this exact thing a thousand times and never knew what I was looking at.
-WES: Please. This is your field. I'll sit back.
+WES: Please. You know this world better than I do.
 JONATHON: When a rep loses a deal, we make him fill out a loss report. Why did we lose it? There's a dropdown. Price. Timing. Competitor. Customer went another direction. Budget got cut. I've read about a thousand of those. Maybe more.
 [CAM: WES MS]
 WES: And what's not on the dropdown?
@@ -181,7 +181,7 @@ WES: Don't. It only works if you've been married long enough to earn it.
 
 [CHAPTER: The last sentence]
 [CAM: JON CU]
-JONATHON: Can I push on that, though? Because I hear "my dad did it too" and it sounds like an excuse, and then I hear "but I did it" and it sounds like you're beating yourself up. I can't tell where the line is. I've been on both sides of it in the same afternoon.
+JONATHON: Let me push back on that. Because I hear "my dad did it too" and it sounds like an excuse, and then I hear "but I did it" and it sounds like you're beating yourself up. I can't tell where the line is. I've been on both sides of it in the same afternoon.
 [CAM: WES MS]
 WES: I think the line is whether the story ends with you or with him. An excuse ends with him. "And that's why I am the way I am." Period. The other way, you tell the same true stuff about him, and then you keep going, and the last sentence is about you. "And then I lied to my wife so I could watch a game."
 JONATHON: The last sentence. So it's grammar. You're telling me it's grammar.
@@ -196,7 +196,7 @@ WES: I know that yell. I invented that yell.
 JONATHON: And Dani came in from the bedroom, half asleep, and I said, "I'm sorry, I'm just tired, you've been on nights, I've had them by myself since Thursday." Every word of it true. And I heard it. The whole dropdown, in one breath. Tired. Nights. Alone. And not one word about the man who yelled at a four-year-old over milk.
 [CAM: WES MS]
 WES: What did you do?
-JONATHON: I went back in the kitchen and got down at Theo's level and said, "I yelled at you about the milk. That was wrong. I'm sorry." No "because." It was the hardest sentence I said all day, and he's four.
+JONATHON: I went back in the kitchen and got down at Theo's level and said, "I yelled about the milk. That was wrong. I'm sorry." No "because." It was the hardest sentence I said all day, and he's four.
 WES: What did he say?
 JONATHON: He said, "Okay. Can I have more milk?" And I gave him more milk. In a cup with a lid this time. I'm sorry, but I'm not an idiot.
 (both laugh)
@@ -224,7 +224,7 @@ WES: Mine was longer. I used to tell the whole fog years in about forty-five min
 JONATHON: What was the answer, when it finally came? Because a week is a long time to hold a question.
 WES: I sat in a recliner for years while my wife raised three kids. That's a short story. It's the true one.
 [CAM: 2S]
-WES: There's a man at my Thursday table right now, about fifty, and for most of a year, every Thursday, he told us about his stepfather. The same stories. The belt, the yelling, the way the man talked to his mother. Every one of them true, and every one of them terrible. We listened. That's what you do.
+WES: One of the men at my Thursday table right now, about fifty, and for most of a year, every Thursday, he told us about his stepfather. The same stories. The belt, the yelling, the way the man talked to his mother. Every one of them true, and every one of them terrible. We listened. That's what you do.
 JONATHON: Did anybody ever ask him the question? Mr. Abernathy's question?
 WES: Nobody asked him. I didn't. I thought about it more than once and lost my nerve. And then one Thursday, a new man came, and somebody said, "Tell him your story." And he told it in three sentences. "My stepdad was hard on us. I was hard on my boys for a long time. I'm working on it with my youngest." And then he turned to the new man and asked how old his kids were.
 [CAM: JON MS]
@@ -240,12 +240,12 @@ WES: "For I know that good itself does not dwell in me, that is, in my sinful na
 [CAM: 2S]
 WES: He's writing to the church in Rome. And in this whole section, he's describing a man who wants to do right and keeps not doing it. And notice where he puts the problem. He doesn't say "because of how I was raised." He doesn't say "because of the culture." He says, in me. That's where the trouble is.
 [CAM: JON MS]
-JONATHON: "I have the desire to do what is good." That's the part that gets me. Because I wanted to be a good teammate to that kid. I really did. I bought him lunch. I gave him tips on his tie.
+JONATHON: "I have the desire to do what is good." That's the line I can't get past. Because I wanted to be a good teammate to that kid. I really did. I bought him lunch. I gave him tips on his tie.
 WES: I wanted to be at that program. Part of me did. That's the verse. Wanting it isn't the problem. Nobody's short on wanting.
 [CAM: JON MS]
 JONATHON: Can I tell you the first time I read this? The year I came to faith, I didn't have a Bible yet, so I was reading Dani's old one from high school. And Romans seven is underlined in pink. And in the margin, next to this verse, sixteen-year-old Dani wrote one word. "Me."
 WES: (smiles) Sixteen.
-JONATHON: Sixteen. And I remember thinking, what could a sixteen-year-old in a church youth group possibly have done? She sang alto. She was in bed by ten. Her worst crime was a library book. And now I think she just noticed it earlier than I did. I needed twenty-nine years and a stolen deal to write "me" next to it.
+JONATHON: Sixteen. And I remember thinking, what could a sixteen-year-old girl in youth group possibly have done? She sang alto. She was in bed by ten. Her worst crime was a library book. And now I think she just noticed it earlier than I did. I needed twenty-nine years and a stolen deal to write "me" next to it.
 [CAM: WES CU]
 WES: That's a good wife to have married. She had it figured out with a pink highlighter before you'd ever heard of Romans.
 JONATHON: She's still got the highlighter. She uses it on our tax returns now.
@@ -278,7 +278,7 @@ WES: I know what it says. I don't know where it is.
 [CAM: JON MS]
 JONATHON: Okay. Pushback. And I've got a real one, because I've been sitting with this for days. For six weeks I finally started understanding that my dad leaving did something to me. That took me most of my life. And now we're saying, actually, it's your fault? It feels like the church giving with one hand and taking with the other.
 [CAM: WES MS]
-WES: That's fair, and I want to be careful with it. Your dad leaving did something to you. That doesn't go away because of today. Both things are true at the same time. He left. You took the deal. You don't have to pick one.
+WES: Fair. I want to be careful with it. Your dad leaving did something to you. That doesn't go away because of today. Both things are true at the same time. He left. You took the deal. You don't have to pick one.
 JONATHON: It feels like I have to pick one. It feels like a scale, and if I put the deal on my side, his side goes up.
 WES: It feels like that because most of us have only ever heard one of them. Either nobody ever told you your dad did damage, or nobody ever told you that you did damage too. You need both. The first one without the second is an excuse that never expires. The second one without the first is just beating yourself up.
 [CAM: JON CU]
@@ -369,7 +369,7 @@ WES: Then what?
 JONATHON: Then he said, "You owe me Cancun."
 (both laugh)
 WES: He's right.
-JONATHON: He's completely right. And I don't know what to do with that one yet. I'm not buying a man a trip to Mexico. I don't think. Dani says I'm not.
+JONATHON: He's completely right. And I haven't figured that one out yet. I'm not buying a man a trip to Mexico. I don't think. Dani says I'm not.
 [CAM: JON MS]
 JONATHON: And Thursday I'm going to tell my regional VP. Because it's in the system with my name, and the system's still wrong. And I'm scared of that one in a way I wasn't scared of the lunch.
 [CAM: WES CU]
@@ -439,7 +439,7 @@ WES: He said, "Okay." And then he told me about a transformer at work for about 
 [SHORT 1 OUT]
 [TEXT: "Was I a good shepherd?"]
 [CAM: WES MS]
-WES: I don't know if it did anything for him. He doesn't remember. It might have been for me. But I'm not going to make it into a bow. I told him. He asked about the shepherd. I listened about the transformer. That's what happened.
+WES: I don't know if it did anything for him. He doesn't remember. It might have been for me. But I won't tie a bow on it. I told him. He asked about the shepherd. I listened about the transformer. That's what happened.
 JONATHON: That's enough. That's a whole thing, what you just said. You don't need to tie anything on it.
 
 [CHAPTER: The challenge]
@@ -453,7 +453,7 @@ JONATHON: If you're married, that might be your wife. One sentence, no explanati
 WES: If you're single, it's a friend, or a brother, or it's out loud to God in your truck. I mean out loud. Not in your head. Your head's where the "because" lives.
 [CAM: WES MS]
 WES: And if you're divorced, I want to say this carefully. Don't use this to reopen the divorce. This isn't a reason to call her and argue ten years back into the room. Say it to God first, and one man. If something's owed to her, a man you trust can help you figure out if, and when, and how.
-JONATHON: And if you live alone, and there's nobody to tell, tell God, and then tell the man you text on Thursdays. That's what he's for.
+JONATHON: And living alone, with nobody to tell? Then tell God, and then tell the man you text on Thursdays. That's what he's for.
 [CAM: JON CU]
 JONATHON: And one more for everybody. If the thing you'd say is the kind of thing that changes a marriage, an affair, money she doesn't know about, something like that, don't drop it on her on a Tuesday night because two men on a podcast told you to. Call a pastor or a good counselor first, and get help doing it right. It still needs to be said. Just not like that.
 WES: That's right. Get help with the big ones. And if what you're carrying is what somebody did to you, that's not the assignment. That one's theirs.
@@ -507,18 +507,18 @@ Chapters
 08:27 The loss report
 10:45 The headache
 14:41 The last sentence
-17:59 The because
+17:58 The because
 21:33 The Word
 23:52 Somebody to get me out
-25:58 Pushback
-30:35 Every kind of man
-33:07 The man who owns everything
-36:32 What I actually did
-40:21 They already knew
-43:07 The shepherd
-45:05 The challenge
-47:18 Carry this
-47:37 Outro
+25:59 Pushback
+30:34 Every kind of man
+33:06 The man who owns everything
+36:31 What I actually did
+40:19 They already knew
+43:05 The shepherd
+45:03 The challenge
+47:15 Carry this
+47:34 Outro
 
 Scripture: Romans 7:18 (NIV)
 

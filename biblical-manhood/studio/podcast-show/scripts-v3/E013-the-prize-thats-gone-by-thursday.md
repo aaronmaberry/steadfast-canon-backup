@@ -83,11 +83,11 @@ JONATHON: I don't look at it. I wait for it. I'm sitting in my truck in the driv
 WES: What's the feeling? Describe it like I've never had it.
 [CAM: JON CU]
 JONATHON: (sets his tumbler down) If I'm in the top five, I walk in the house like a king. I'm funny at breakfast. I'm patient with Theo's shoes. If I'm not, I'm short with everybody until about Wednesday, and nobody at my house knows why, because nobody at my house knows there's an email.
-WES: Does Dani know? Or is she finding out with everybody else?
+WES: Has Dani heard about this? Or is she finding out with everybody else?
 JONATHON: She knows now. I told her Saturday night, after dinner, because I figured if I was going to say it on here I should say it to her first. She said, "I always wondered why Mondays were weird." She'd noticed for years. She thought I didn't like Mondays. She thought it was a Garfield thing.
 (both laugh)
 [CAM: JON MS]
-JONATHON: And here's the part that got me, getting ready for today. The board resets every Monday. So say I'm number three on Monday. By Thursday, new numbers are coming in, somebody's had a big Tuesday, and I'm sliding. By Friday, it's gone. Whatever I felt Monday morning, it's not there by Thursday. And then I wait through Saturday and Sunday for the next one.
+JONATHON: And here's what hit me, getting ready for today. The board resets every Monday. So say I'm number three on Monday. By Thursday, new numbers are coming in, somebody's had a big Tuesday, and I'm sliding. By Friday, it's gone. Whatever I felt Monday morning, it's not there by Thursday. And then I wait through Saturday and Sunday for the next one.
 [CAM: WES CU]
 WES: So you're working for a feeling that lasts about three days.
 JONATHON: About three days. Every Monday. For eleven years straight. I did the math in the truck. That's about five hundred and seventy Monday mornings.
@@ -113,7 +113,7 @@ WES: Okay. Mine. And mine's more embarrassing, because it's at church.
 JONATHON: Oh, good. I love it when it's at church. It makes me feel so much better about the email.
 WES: At our church, when they need somebody to pray in front of everybody, at a funeral, at a dedication, the start of a big Sunday, they call me. Have for years. And people say nice things after. "Wes is a rock." I've heard that more times than I can count. "Wes is a rock."
 [CAM: JON CU]
-JONATHON: You are kind of a rock, though. I'm not saying that to be nice. You're the most rock-like man I know.
+JONATHON: You are kind of a rock, though. I mean it. You're the most rock-like man I know.
 WES: (turns his mug a quarter turn) And I love it. That's the problem. I love being the rock. I love the walk up to the microphone, and I love the hand on my shoulder after. I didn't think there was anything wrong with it, because what's wrong with praying at church?
 JONATHON: Nothing. On paper, nothing. You're praying. At church. That's the job.
 WES: Nothing, on the outside. Here's what I caught. You remember the car-care Saturday? The Air Force mechanic, the oil changes for single moms?
@@ -256,7 +256,7 @@ WES: If corporate sent you a bonus check with no name on it, no rank, nobody wat
 JONATHON: (beat) No. I'd cash it. Let me be clear, I'd cash it. But no.
 WES: So it was never the money. It was being seen and ranked. The cheap prize and the real one both have to do with being seen. The question is who's looking.
 [CAM: JON MS]
-JONATHON: Okay. Second one, and this is the real one. I need my paycheck. My boss signs it. My kids eat because of that email. I can't say, "I'm working for God, not the room." The room pays my mortgage. On the third. I know the date now.
+JONATHON: Okay. Second one. This is the real one. I need my paycheck. My boss signs it. My kids eat because of that email. I can't say, "I'm working for God, not the room." The room pays my mortgage. On the third. I know the date now.
 [CAM: WES MS]
 WES: Right. And Paul isn't saying blow off your boss. He says work at it with all your heart. If anything, the man working for God works harder for his boss, not less. Here's how you can tell the difference, though. What do you do when the boss isn't looking? When the email isn't coming?
 [CAM: WES CU]
@@ -318,7 +318,7 @@ JONATHON: She had a number. Her number was the nights she'd been on her feet all
 [CAM: WES MS]
 WES: Can I give you one more? It's fresh, and it's the one that bothered me most. My mother's doctor appointment. The one I mentioned at the top.
 JONATHON: The good plan. The doctor liked her plan. Tell me nothing went sideways.
-WES: Nothing went sideways. The doctor wanted a grab bar in her bathroom. So Saturday I went over and put it in. Took me two hours, because her wall is older than I am and it fought me. I texted my brother first, like I said I would. "Putting the grab bar in Saturday." Then I put it in. Then I sat in the truck in her driveway and texted him again. "Grab bar's in. She's already using it."
+WES: Nothing went sideways. The doctor wanted a grab bar in her bathroom. So Saturday I went over and put it in. Took me two hours, because her wall is older than I am and it fought me. I texted my brother first, like I said I would. "Putting the grab bar in Saturday." Then I put it in. Then I sat in my truck in her driveway and texted him again. "Grab bar's in. She's already using it."
 JONATHON: That's a nice text. That's a good brother text. I'd be glad to get that text from my sister.
 WES: That's what I told myself. Except the first text was the one I owed him. The second one, I knew why I sent it. I sent it so he'd know I did it and he didn't. And he wrote back one word. "Good."
 JONATHON: (laughing) Of course he did. That's your brother. He's got a one-word plan, and he's sticking to it.
@@ -409,7 +409,7 @@ WES: That's fair. Maybe I need to say less. Maybe the right answer to "I did a h
 JONATHON: And I still think some things should stay all the way hidden. Even from your one man. Mr. Abernathy didn't tell anybody. Not even his best friend. Not even his wife, probably.
 WES: And I think a young man who keeps everything hidden ends up with nobody who knows him. Mr. Abernathy was eighty-eight. He'd earned his secrets. Most men don't have nine years of praying to hide. They have nine years of not praying.
 [CAM: JON CU]
-JONATHON: So where are we? Because I don't think we're in the same place.
+JONATHON: So where does that leave us? I don't think we're in the same place.
 WES: I think you tell your one man what you're working on and where you're weak. And you keep at least one good thing nobody knows. Both.
 JONATHON: I think you keep more than one. I think a man needs a whole drawer of things nobody knows. I'm not moving.
 WES: Then we leave it there. Two chairs.
@@ -521,19 +521,19 @@ Chapters
 00:46 Pull up a chair
 02:54 The Monday email
 06:22 Wes and the microphone
-09:24 Why the cheap prize works
-11:32 The Word
-17:24 The truck door
-21:48 Pushback
-25:17 Keeping score at home
-29:59 The text to my brother
-32:22 The young man and the old man
-36:47 Mr. Abernathy's receipts
-39:03 Two chairs
-41:38 What I actually did
-45:48 The challenge
-47:49 Carry this
-48:11 Outro
+09:22 Why the cheap prize works
+11:31 The Word
+17:23 The truck door
+21:47 Pushback
+25:16 Keeping score at home
+29:58 The text to my brother
+32:20 The young man and the old man
+36:45 Mr. Abernathy's receipts
+39:02 Two chairs
+41:37 What I actually did
+45:47 The challenge
+47:47 Carry this
+48:10 Outro
 
 Scripture: Colossians 3:23-24; Hebrews 12:2 (NIV)
 

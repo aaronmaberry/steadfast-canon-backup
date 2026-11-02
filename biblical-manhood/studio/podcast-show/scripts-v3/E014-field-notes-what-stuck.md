@@ -116,7 +116,7 @@ JONATHON: It felt like the most grown-up thing I've ever done, followed right aw
 WES: That's the whole thing, though. Your kids are taken care of, and you got tacos. Neither one cancels the other out.
 [CAM: JON MS]
 JONATHON: And remember, Dani wanted to sign first and tell her parents after. I thought we should ask first. I said so on here. We did it her way.
-WES: I remember. I was with you, for what it's worth.
+WES: I remember. I'd have asked too.
 JONATHON: So, still in the truck, taco in one hand, she calls her parents on speaker. Tells them. And her mom starts crying and says yes before Dani's even finished the sentence. Yes, of course, yes.
 WES: So Dani was right.
 [CAM: JON CU]
@@ -167,7 +167,7 @@ JONATHON: You. And don't say the coffee, because you were already doing the coff
 [CAM: WES MS]
 WES: What stuck. Asking before I decide. That started with my mom, and it's spreading, which is a little annoying for everybody in my house. Saturday my youngest said, "Do you want me to drive?" And I almost said yes, the way I always do, so I'd be the one deciding. And I stopped and asked him if he wanted to. He did. I rode. He drives like his mother.
 JONATHON: Is that good or bad? Be careful how you answer, because she might be listening.
-WES: It's good. It's very good. It's just slower than I'd like. And the Tuesday therapy with Mom stuck. Both of us, same clinic, and she counts my reps out loud for the whole room. I'd keep going on Tuesdays if they cured my knees tomorrow. And what didn't stick, you already know.
+WES: It's good. It's very good. It's just slower than I'd like. And the Tuesday therapy with Mom stuck. Both of us, same clinic, and she counts every rep out loud for the whole room. I'd keep going on Tuesdays if they cured my knees tomorrow. And what didn't stick, you already know.
 [CAM: WES CU]
 WES: (turns his mug a quarter turn) The gutter.
 JONATHON: The back-porch gutter. I said it in my head before you said it.
@@ -250,7 +250,7 @@ WES: And if you're divorced, and you don't have your kids every week, start it o
 
 [CHAPTER: Carry this]
 [CAM: WES CU]
-WES: Carry this. You don't have to keep everything. Keep what stuck, pick one thing that didn't, and give it a date.
+WES: Carry this. Nobody keeps everything. Keep what stuck, pick one thing that didn't, and give it a date.
 [CAM: JON CU]
 JONATHON: And carry this. Find one man, and text him Thursday. Four words. Then leave him alone.
 [beat]
@@ -293,12 +293,12 @@ Chapters
 00:08 Intro
 00:33 Check the box
 05:04 The signing
-08:24 The single check
-09:38 From the table
-14:24 Not there yet
-19:09 Tool on the table
-22:18 Carry this
-22:56 Outro
+08:23 The single check
+09:36 From the table
+14:23 Not there yet
+19:08 Tool on the table
+22:17 Carry this
+22:53 Outro
 
 Scripture: Philippians 3:13-14 (NIV)
 
