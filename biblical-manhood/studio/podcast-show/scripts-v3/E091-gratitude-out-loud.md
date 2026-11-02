@@ -44,7 +44,7 @@ WES: I'm aware that's not what you asked.
 
 [CHAPTER: Intro]
 [CAM: 2S]
-(Walk Steadfast open written for E091 from its DRAFT entry in _build/intros_data.py, awaiting Aaron's sign-off. Facts re-checked against this script. Same beats every week, new words. SHOW-BIBLE section 5.)
+(Walk Steadfast open written for E091 from its DRAFT entry in _build/intros_data.py, awaiting Aaron's sign-off. Facts re-checked against this script. Same beats each episode, new words. SHOW-BIBLE section 5.)
 WES: This is Walk Steadfast. I'm Wes Hart. I pray out loud on the back porch, by myself.
 [LOWER THIRD: Wes Hart]
 JONATHON: I'm Jonathon. My mom teaches Ruby watercolor on Saturday mornings.
@@ -470,7 +470,7 @@ walksteadfast.com · @steadfastwalk
 ## Reading narrative
 
 # Gratitude Out Loud
-### Walk Steadfast, Episode 91 · November 16, 2027
+### Walk Steadfast, Episode 91
 
 Wes's dad said "This is good" about supper every night for fifty years. In August, wrapping glasses in newspaper, Wes's mother said she'd have liked to hear the other words once or twice. Most men are good at thanking strangers. The people who carry our lives hear the review.
 

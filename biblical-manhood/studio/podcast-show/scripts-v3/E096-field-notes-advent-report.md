@@ -42,7 +42,7 @@ JONATHON: By herself. And I'd like the record to show I yelled "Pedal!" four tim
 
 [CHAPTER: Intro]
 [CAM: 2S]
-(Walk Steadfast open written for E096 from its DRAFT entry in _build/intros_data.py, awaiting Aaron's sign-off. Facts re-checked against this script. Same beats every week, new words. SHOW-BIBLE section 5.)
+(Walk Steadfast open written for E096 from its DRAFT entry in _build/intros_data.py, awaiting Aaron's sign-off. Facts re-checked against this script. Same beats each episode, new words. SHOW-BIBLE section 5.)
 JONATHON: This is Walk Steadfast. I'm Jonathon. Ruby runs phone jail at supper with a labeled basket.
 [LOWER THIRD: Jonathon]
 WES: I'm Wes Hart. My wife knows every hymn by number.
@@ -272,7 +272,7 @@ walksteadfast.com · @steadfastwalk
 ## Reading narrative
 
 # Advent Report
-### Walk Steadfast, Field Notes, Episode 96 · December 3, 2027
+### Walk Steadfast, Field Notes, Episode 96
 
 Advent means coming. It's four Sundays of a family sitting in the dark on purpose, a little each night, lighting one more candle at a time so the kids feel the light getting closer. A man who's never done it doesn't need a system. He needs a match.
 

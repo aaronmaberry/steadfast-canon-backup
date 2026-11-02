@@ -42,7 +42,7 @@ JONATHON: (holds up his phone) "We're good, man. You still owe me change on that
 
 [CHAPTER: Intro]
 [CAM: 2S]
-(Walk Steadfast open written for E090 from its DRAFT entry in _build/intros_data.py, awaiting Aaron's sign-off. Facts re-checked against this script. Same beats every week, new words. SHOW-BIBLE section 5.)
+(Walk Steadfast open written for E090 from its DRAFT entry in _build/intros_data.py, awaiting Aaron's sign-off. Facts re-checked against this script. Same beats each episode, new words. SHOW-BIBLE section 5.)
 JONATHON: This is Walk Steadfast. I'm Jonathon. I grew up near the Battleship Texas.
 [LOWER THIRD: Jonathon]
 WES: I'm Wes Hart. I've finally read the back of my town's memorial.
@@ -305,7 +305,7 @@ walksteadfast.com · @steadfastwalk
 ## Reading narrative
 
 # Veterans Day
-### Walk Steadfast, Field Notes, Episode 90 · November 12, 2027
+### Walk Steadfast, Field Notes, Episode 90
 
 Wes's oldest son called on a Monday night about his best friend, home from the Army and back in his old room at his mother's. He wanted to help without being weird about it.
 

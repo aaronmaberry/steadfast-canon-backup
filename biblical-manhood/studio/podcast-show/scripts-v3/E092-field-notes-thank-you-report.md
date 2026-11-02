@@ -42,7 +42,7 @@ JONATHON: Out loud. He laughed so hard he had to set his coffee on the tailgate.
 
 [CHAPTER: Intro]
 [CAM: 2S]
-(Walk Steadfast open written for E092 from its DRAFT entry in _build/intros_data.py, awaiting Aaron's sign-off. Facts re-checked against this script. Same beats every week, new words. SHOW-BIBLE section 5.)
+(Walk Steadfast open written for E092 from its DRAFT entry in _build/intros_data.py, awaiting Aaron's sign-off. Facts re-checked against this script. Same beats each episode, new words. SHOW-BIBLE section 5.)
 JONATHON: This is Walk Steadfast. I'm Jonathon. Ruby's card for Grandpa in Louisiana is still half done.
 [LOWER THIRD: Jonathon]
 WES: I'm Wes Hart. I wrote my son's old coach a letter.
@@ -63,6 +63,8 @@ WES: Wednesday night after supper I took her hand and went first, one sentence, 
 JONATHON: (beat) Okay. That's yours. Thank you for telling me that much.
 [CAM: WES MS]
 WES: Now the challenge. Mine was my older brother. Ten years of handling Mom, and I'd never once thanked him. So Thursday evening at the barn, after we fed, I did it. I looked right at him, which took some doing. I said, "You carried Mom for ten years and I didn't. Thank you." And he said, "Well."
+[CAM: JON CU]
+JONATHON: "Well." Ten years of carrying your mother, and the man gets one syllable to answer with.
 [CAM: WES MS]
 WES: And I want to say why I'd never done it, because I think it's common. I've had opinions about how he does it from forty minutes away. Whether she should still be driving. Which doctor. How many pills in the box. And every opinion I gave him was a way of being involved without carrying anything. I'd call it helping. He'd call it Wes calling.
 [CAM: JON MS]
@@ -265,13 +267,13 @@ Chapters
 00:00 Cold open
 00:13 Intro
 00:38 Check the box
-03:42 Before the pie
-04:59 The tailgate on the north side
-08:56 The single check
-09:47 From the table
-16:30 Tool on the table
-21:53 Carry this
-22:04 Outro
+03:48 Before the pie
+05:05 The tailgate on the north side
+09:02 The single check
+09:53 From the table
+16:36 Tool on the table
+21:59 Carry this
+22:10 Outro
 
 Scripture: Exodus 20:12 (NIV)
 
@@ -303,7 +305,7 @@ walksteadfast.com · @steadfastwalk
 ## Reading narrative
 
 # Thank-You Report
-### Walk Steadfast, Field Notes, Episode 92 · November 19, 2027
+### Walk Steadfast, Field Notes, Episode 92
 
 Jonathon's father left when he was nine. The one good memory is small: steering his dad's truck in a church parking lot on Sunday afternoons, sitting in his lap, his dad on the pedals. Is it weird to thank a man for one afternoon?
 

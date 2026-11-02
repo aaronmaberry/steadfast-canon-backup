@@ -46,7 +46,7 @@ JONATHON: Not one word. And he's the dad.
 
 [CHAPTER: Intro]
 [CAM: 2S]
-(Walk Steadfast open written for E095 from its DRAFT entry in _build/intros_data.py, awaiting Aaron's sign-off. Facts re-checked against this script. Same beats every week, new words. SHOW-BIBLE section 5.)
+(Walk Steadfast open written for E095 from its DRAFT entry in _build/intros_data.py, awaiting Aaron's sign-off. Facts re-checked against this script. Same beats each episode, new words. SHOW-BIBLE section 5.)
 WES: This is Walk Steadfast. I'm Wes Hart. I once spent an hour with my oldest and said about forty words.
 [LOWER THIRD: Wes Hart]
 JONATHON: I'm Jonathon. I talk for a living.
@@ -463,7 +463,7 @@ walksteadfast.com · @steadfastwalk
 ## Reading narrative
 
 # Joseph Said Nothing
-### Walk Steadfast, Episode 95 · November 30, 2027
+### Walk Steadfast, Episode 95
 
 Joseph has no lines. Not in Matthew, not in Luke. The man who raised Jesus never says a word on the record. What he does is get up. He had a decent plan, a kind and lawful one, and he dropped it the night God said otherwise.
 

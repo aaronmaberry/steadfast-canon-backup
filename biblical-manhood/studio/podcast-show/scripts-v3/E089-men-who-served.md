@@ -42,7 +42,7 @@ JONATHON: Put a twenty on the bar and walked out. And I told it at work for year
 
 [CHAPTER: Intro]
 [CAM: 2S]
-(Walk Steadfast open written for E089 from its DRAFT entry in _build/intros_data.py, awaiting Aaron's sign-off. Facts re-checked against this script. Same beats every week, new words. SHOW-BIBLE section 5.)
+(Walk Steadfast open written for E089 from its DRAFT entry in _build/intros_data.py, awaiting Aaron's sign-off. Facts re-checked against this script. Same beats each episode, new words. SHOW-BIBLE section 5.)
 WES: This is Walk Steadfast. I'm Wes Hart. I took coffee to Fort Sam on Memorial Day.
 [LOWER THIRD: Wes Hart]
 JONATHON: I'm Jonathon. Ruby says goodnight to a sailor named Chris in her prayers.
@@ -481,7 +481,7 @@ walksteadfast.com · @steadfastwalk
 ## Reading narrative
 
 # Men Who Served
-### Walk Steadfast, Episode 89 · November 9, 2027
+### Walk Steadfast, Episode 89
 
 When Wes moved his mother into her new apartment in August, the last thing out of the hall closet was a cigar box. Inside was his granddad's Navy discharge paper, a photograph of a squinting boy in whites, and a small Navy Bible with his name in pencil. He'd gone in at eighteen and come home at twenty-two. He never talked about it. Wes's grandmother once said he slept with the lamp on for about a year, "and then one day he went to clearing cedar."
 

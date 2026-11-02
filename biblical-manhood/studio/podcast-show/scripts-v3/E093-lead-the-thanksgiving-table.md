@@ -44,7 +44,7 @@ WES: No, sir. I've watched you sell air conditioners for eight years. You can le
 
 [CHAPTER: Intro]
 [CAM: 2S]
-(Walk Steadfast open written for E093 from its DRAFT entry in _build/intros_data.py, awaiting Aaron's sign-off. Facts re-checked against this script. Same beats every week, new words. SHOW-BIBLE section 5.)
+(Walk Steadfast open written for E093 from its DRAFT entry in _build/intros_data.py, awaiting Aaron's sign-off. Facts re-checked against this script. Same beats each episode, new words. SHOW-BIBLE section 5.)
 WES: This is Walk Steadfast. I'm Wes Hart. I left Thanksgiving early last year.
 [LOWER THIRD: Wes Hart]
 JONATHON: I'm Jonathon. My mom brings deviled eggs nobody asks for.
@@ -490,7 +490,7 @@ walksteadfast.com · @steadfastwalk
 ## Reading narrative
 
 # Lead the Thanksgiving Table
-### Walk Steadfast, Episode 93 · November 23, 2027
+### Walk Steadfast, Episode 93
 
 Last Thanksgiving Wes prayed for peace at his mother's table, and forty minutes later he was arguing with his brothers about her car keys. She set her fork down and said, "I'm right here." He left before the pie. He'd prayed for peace and planned to do none of it himself.
 
