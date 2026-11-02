@@ -116,21 +116,21 @@ WES: "I'll get to it." She didn't even have to think.
 [CAM: JON CU]
 JONATHON: Four seconds. I timed it in my head when you told me. She'd had that one ready for years.
 [CAM: WES CU]
-WES: She had. And then she listed what I hadn't gotten to. The gutter over the back steps, loose for over a year. The fan in my youngest's room that clicks. The will we'd never signed. And a phone call to my brother. That was on her list. "You'll get to it." She knew.
+WES: She had. And then she listed what I hadn't gotten to. The gutter over the back steps, loose for over a year. The fan in my youngest's room that clicks. And a phone call to my brother. That was on her list. "You'll get to it." She knew.
 [CAM: JON MS]
 JONATHON: The brother was on the list. I'd forgotten that part. She had it in January, before you'd ever said it out loud on here.
 [CAM: WES MS]
-WES: She always has it first. So here's my reading back, and I'll do it plain. The gutter, fixed, a Saturday in March. Took me about two hours and one trip to the hardware store. Fourteen months of "I'll get to it" for two hours of work. The will, signed in February, at a lawyer's office, and then we went and had tacos in the middle of a workday like a couple of kids skipping school.
+WES: She always has it first. So here's my reading back, and I'll do it plain. The gutter, fixed, a Saturday in March. Took me about two hours and one trip to the hardware store. Over a year of "I'll get to it" for two hours of work. And I stood in the rain the next storm, watching it run where it was supposed to, like a man watching his kid in a ballgame.
 [CAM: JON CU]
-JONATHON: I remember the tacos. You told me about them like you'd won something. I think you'd forgotten what finishing a thing felt like.
+JONATHON: That's how I felt about our wills in February. Dani and I signed at the lawyer's office at church and had tacos in the truck before lunch. Finishing a dumb, overdue thing feels like winning something.
 [CAM: WES CU]
-WES: I had. And my brother. I didn't call. I drove out. It took me till summer, and you've heard it. Six in the morning, the feed buckets, him looking at his watch. And Christmas morning, he asked me to come. I didn't ask. So that one's done, and it's better than done. It's ongoing.
+WES: It does. I'd forgotten that feeling. And my brother. I didn't call. I drove out. It took me till summer, and you've heard it. Six in the morning, the feed buckets, him looking at his watch. And Christmas morning, he asked me to come. I didn't ask. So that one's done, and it's better than done. It's ongoing.
 [CAM: JON MS]
 JONATHON: And the fan?
 [CAM: WES CU]
 WES: The fan still clicks.
 [CAM: JON CU]
-JONATHON: Of course it does. Your youngest has slept under a clicking fan for a whole year while you fixed the relationship with your brother and wrote a will. That boy's going to tell a counselor about that fan someday.
+JONATHON: Of course it does. Your youngest has slept under a clicking fan for a whole year while you fixed the gutter and drove out to your brother's. That boy's going to tell a counselor about that fan someday.
 [CAM: WES MS]
 WES: He's sixteen. He says he likes it. He says it helps him sleep. So I'm leaving it, and I'm telling every man listening that a few of your "I'll get to its" are going to turn out to be load-bearing. You don't have to fix the fan.
 [CAM: WES CU]
@@ -167,7 +167,7 @@ WES: Keep the people He gave me. That's my mother, and my brother, and my kids, 
 [CAM: JON MS]
 JONATHON: And "finish"? That's the one I've wondered about since June. How does a man read back "finish" at fifty-two?
 [CAM: WES MS]
-WES: He can't. That's the honest answer. You don't get to read back "finish" until you're done. I put it in the heading because I'd watched men start well and drift at sixty. I don't want to drift. But I can't tell you I finished anything this year except a gutter and a will. Finish is the part I'm going to read back when I'm Mr. Abernathy's age, if I'm lucky. For now it just means don't quit.
+WES: He can't. That's the honest answer. You don't get to read back "finish" until you're done. I put it in the heading because I'd watched men start well and drift at sixty. I don't want to drift. But I can't tell you I finished anything this year except a gutter. Finish is the part I'm going to read back when I'm Mr. Abernathy's age, if I'm lucky. For now it just means don't quit.
 [CAM: JON CU]
 JONATHON: I like that you left it unreadable. Most guys would've written something they could check off. You wrote something you can't check off till you're dead.
 [CAM: WES CU]
@@ -478,18 +478,18 @@ Chapters
 00:15 Intro
 00:43 Pull up a chair
 03:57 Two receipts
-10:42 The headings
-14:21 The Word
-18:11 The plan I didn't make
-22:00 The names
-25:13 The ledger
-30:16 A quiet Tuesday
-32:42 What didn't change
-34:51 Questions from the table
-41:10 Going first
-43:37 The challenge
-45:49 Carry this
-46:01 Outro
+10:45 The headings
+14:22 The Word
+18:12 The plan I didn't make
+22:02 The names
+25:15 The ledger
+30:18 A quiet Tuesday
+32:43 What didn't change
+34:53 Questions from the table
+41:12 Going first
+43:39 The challenge
+45:51 Carry this
+46:03 Outro
 
 Scripture: Proverbs 16:9 (NIV)
 
