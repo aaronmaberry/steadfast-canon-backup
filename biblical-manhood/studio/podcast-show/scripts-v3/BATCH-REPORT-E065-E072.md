@@ -9,11 +9,11 @@ Words are spoken words. Minutes come from `_build/timing.py`. Share is the share
 | Episode | Air date | Type | Words | Minutes | Wes / Jonathon | Short | Longest Wes run | Lint | Outro |
 |---|---|---|---|---|---|---|---|---|---|
 | E065 The Bed Is a Covenant | Tue Aug 17 | Main | 7,407 | 48:48 | 50.5% / 49.5% | 18.1% | 117 | clean (0 fails, 0 warns) | B |
-| E066 Field Notes: Covenant Check | Fri Aug 20 | Field Notes | 3,761 | 24:57 | 50.8% / 49.2% | 17.0% | 102 | clean | F1 |
+| E066 Field Notes: Covenant Check | Fri Aug 20 | Field Notes | 3,656 | 24:15 | 50.2% / 49.8% | 17.0% | 102 | clean | F1 |
 | E067 When Marriage Feels Like Roommates | Tue Aug 24 | Main | 7,266 | 48:08 | 52.8% / 47.2% | 16.9% | 117 | clean | C |
 | E068 Field Notes: Roommates No More | Fri Aug 27 | Field Notes | 3,331 | 22:05 | 50.3% / 49.7% | 15.6% | 120 | clean | F2 |
 | E069 You Were Made for a Work | Tue Aug 31 | Main | 7,254 | 47:55 | 53.0% / 47.0% | 13.8% | 118 | clean | D |
-| E070 Field Notes: Labor Day | Fri Sep 3 | Field Notes | 3,630 | 23:59 | 50.3% / 49.7% | 11.4% | 134 (read-aloud text) | clean | F3 |
+| E070 Field Notes: Labor Day | Fri Sep 3 | Field Notes | 3,643 | 24:04 | 50.1% / 49.9% | 13.0% | 106 | clean | F3 |
 | E071 What You Build When Nobody Claps (season 7 premiere) | Tue Sep 7 | Main | 7,089 | 46:45 | 50.3% / 49.7% | 6.0% | 120 | clean | E |
 | E072 Field Notes: The Unseen Shift | Fri Sep 10 | Field Notes | 3,361 | 22:19 | 50.8% / 49.2% | 13.3% | 118 | clean | F4 |
 
@@ -21,9 +21,9 @@ Every main is inside 45-60 minutes and 7,000-9,000 words. Every Field Notes is i
 
 ## Warnings I could not clear
 
-1. **E070, one Wes run of 134 words.** It is Wes reading his oldest son's text aloud, word for word. Breaking a text message in the middle with a Jonathon line would sound staged, so it stays whole. It is the only run in the batch over 120 words.
+1. **E070, Wes runs (fixed).** The 134-word run (Wes's lead-in plus his oldest son's text) and a 119-word run (Wes's dad and the fence, then "Rest isn't lazy") are each split by one Jonathon line before the text and after the fence story. The text itself is read whole. E070's longest Wes run is now 106.
 2. **Runs right at the limit.** E068 and E071 each have one Wes run of exactly 120 words. They pass, but there's no margin if a line is added in the edit.
-3. **E066 is close to the ceiling.** It runs 24:57 against a 25:00 limit. Any addition in the edit needs a matching cut.
+3. **E066 length (fixed).** About 105 spoken words of filler were cut (repeated phrases, a second recap of Tuesday's challenge, two throwaway replies). No key idea was cut. It now runs 24:15 by `_build/timing.py` and 24.4 minutes at 150 wpm.
 4. **E072's open differs from `_build/intros_data.py`.** The script reads "on Wednesday" where intros_data has "this week" (banned by the brief). intros_data.py isn't edited, so the rendered open will still say "this week" until someone changes it there. Logged in the changelog.
 5. **One colon flagged by my own check, not by lint.** E066 has "Thursday, 7:20." inside a text read aloud. It's a clock time, not a mid-sentence colon.
 6. **CHANGELOG merge.** This branch creates `scripts-v3/CHANGELOG-V3.md`, and so do `podcast-v3-e057-e064` and `podcast-v3-e073-e080`. Merging the branches will conflict on that file. Keep every batch section.
@@ -72,4 +72,4 @@ Each row adds to the v1 facts, which still stand. The full kept-from-v1 list is 
 
 ## Unfinished
 
-Nothing. All eight episodes are written, lint clean, timed, and inside the v3 length and share rules. The open items above (E070's read-aloud run, the intros_data change for E072, Theo's birthday and Pancake, and E079's Pancake line) need Aaron's call, not more writing.
+Nothing. All eight episodes are written, lint clean, timed, and inside the v3 length and share rules. The open items above (the intros_data change for E072, Theo's birthday and Pancake, and E079's Pancake line) need Aaron's call, not more writing.
