@@ -10,14 +10,14 @@ The v3 brief sets mains at 45 to 60 minutes (about 7,000 to 9,000 spoken words) 
 
 | Episode | v1 length (header) | v3 length (timing.py) | Override |
 |---|---|---|---|
-| E025 The Father Who Stays | about 27 min | 53:32 | 4a and the section 5 main clock |
-| E026 Field Notes: Easter Week Report | about 15 min | 22:45 | 4b and the section 5 Field Notes clock |
-| E027 The Empty Chair at Your Table | about 27 min | 49:24 | 4a and the section 5 main clock |
-| E028 Field Notes: The Chair Report | about 15 min | 22:45 | 4b and the section 5 Field Notes clock |
-| E029 When Your Dad Is Still Alive | about 28 min | 50:11 | 4a and the section 5 main clock |
-| E030 Field Notes: Calling Him Back | about 14 min | 22:04 | 4b and the section 5 Field Notes clock |
-| E031 When Home Never Handed You Off | about 26 min | 47:37 | 4a and the section 5 main clock |
-| E032 Field Notes: Cutting the String | about 13 min | 22:10 | 4b and the section 5 Field Notes clock |
+| E025 The Father Who Stays | about 27 min | 53:49 | 4a and the section 5 main clock |
+| E026 Field Notes: Easter Week Report | about 15 min | 22:55 | 4b and the section 5 Field Notes clock |
+| E027 The Empty Chair at Your Table | about 27 min | 49:39 | 4a and the section 5 main clock |
+| E028 Field Notes: The Chair Report | about 15 min | 22:47 | 4b and the section 5 Field Notes clock |
+| E029 When Your Dad Is Still Alive | about 28 min | 50:33 | 4a and the section 5 main clock |
+| E030 Field Notes: Calling Him Back | about 14 min | 22:13 | 4b and the section 5 Field Notes clock |
+| E031 When Home Never Handed You Off | about 26 min | 48:02 | 4a and the section 5 main clock |
+| E032 Field Notes: Cutting the String | about 13 min | 22:22 | 4b and the section 5 Field Notes clock |
 
 The extra time comes from added chapters, deeper work on each passage, stories from both hosts, real push-back from Jonathon, hard cases, and banter. No chapter is padding. Each episode's production notes list what was added under "v3 length."
 
@@ -36,3 +36,18 @@ The extra time comes from added chapters, deeper work on each passage, stories f
 
 - **E032's open** (from _build/intros_data.py) says "Friday we report, two parts this week." Opens are locked, so it stays verbatim. Aaron decides whether to change it in intros_data.py.
 - **E029's open** says "Twice a week, following Jesus as a man." That's the show's schedule, not a training reference, and lint passes it.
+
+### Long Wes turns split
+
+A Wes turn is every Wes line until Jonathon next speaks. Twelve turns ran past 120 words (longest 167, in E032). Each one got a Jonathon line at a natural seam, usually a camera cut: a question, a reaction, a push or a joke that leads into Wes's next line. Wes's words are unchanged, so no content was cut and nothing new was said about Wes or his family. No split piece runs over 102 words. Open, slate and closing lines are untouched, and no "week" was added. Pre-existing turns of 111 to 120 words were left as they were.
+
+| Episode | Longest Wes turn before | After | Jonathon lines added |
+|---|---|---|---|
+| E025 | 141 | 113 | 2 |
+| E026 | 141 | 114 | 2 |
+| E027 | 140 | 119 | 2 |
+| E028 | 154 | 119 | 1 (four words, to hold Jonathon under 50%) |
+| E029 | 161 | 120 | 3 |
+| E030 | 131 | 107 | 1 |
+| E031 | 147 | 114 | 3 |
+| E032 | 167 | 116 | 2 |

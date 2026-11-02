@@ -91,6 +91,7 @@ WES: (beat) And he said, "Did you?"
 [pause 1s]
 [CAM: WIDE]
 (Room tone. Jonathon puts his hand over his mouth.)
+JONATHON: (through his hand) Had either of you? Asked her?
 [CAM: WES MS]
 WES: Neither one of us had. Same as the doctor's office in February. I asked her once what she wanted, and she had a whole plan, and I learned something. And two months later my brother and I are on the phone dividing up her life like a will. With her still in it.
 [CAM: JON MS]
@@ -149,6 +150,7 @@ WES: From the table. And this one came in after Tuesday more than anything else.
 [CAM: JON MS]
 JONATHON: That's me Wednesday. And you Thursday. We're both the guy who wrote in.
 WES: That's me most of my life, if I'm honest. (puts on the reading glasses) So there's a dad in Mark nine. His son's been sick since he was a little boy, the kind of sick where the boy falls into the fire. And this dad has tried everything. He even brought the boy to Jesus's disciples, and they couldn't do anything.
+JONATHON: Into the fire. I can't even let myself picture that as a dad. Okay. So he's tried everything. Then what?
 [CAM: WES MS]
 WES: And he finally gets to Jesus, and he says, "If you can do anything, help us." And Jesus says it right back to him. "If you can?" Everything's possible for one who believes. And the dad says this.
 [CARD: Mark 9:24]
@@ -259,10 +261,10 @@ Chapters
 00:00 Cold open
 00:15 Intro
 00:39 Check the box
-11:45 From the table
-18:11 Tool on the table
-22:05 Carry this
-22:18 Outro
+11:48 From the table
+18:21 Tool on the table
+22:15 Carry this
+22:28 Outro
 
 Scripture: Mark 9:24 (NIV)
 

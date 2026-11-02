@@ -213,6 +213,7 @@ JONATHON: The ask. I've been waiting on this one since you told me about the bar
 WES: Quick version for anybody new. My mom's seventy-eight. My older brother and I spent about two years talking about the weather instead of talking about her. A few weeks back we finally had it out on the phone, an hour and four minutes. And we each found out the other one had a plan for her. His plan was she moves into his downstairs room. He'd already bought a recliner for it.
 JONATHON: The recliner. I think about that recliner more than I think about my own furniture.
 WES: My plan was she stays in her house and we get somebody to come in and help. And we both realized, about the same second, that neither one of us had asked her. So Sunday, after the pot roast, the two of us were going to ask her together. And then both of us were going to shut up. We'd rehearsed the silence on the phone. He failed the rehearsal.
+JONATHON: How do you fail a silence? That's the one test you can't study for. Okay. Sunday. Go.
 [CAM: WES CU]
 WES: So we clear the table. My wife takes the kids out to look at the calves, which was her idea, and a good one, and I'll never be able to repay it. And it's my mom and my brother and me at her kitchen table. The oilcloth with the cherries on it. My brother looks at me, and I look at him, and I say it. "Mom, what do you want? When you need more help. Not what we want. What do you want?"
 JONATHON: And then you actually shut up. I want to hear that you shut up.
@@ -263,6 +264,7 @@ JONATHON: "Here's your mother." That's my dad's "I'll let you go." It's the same
 WES: Same handoff. And I resented it a little for thirty years. Then last fall my youngest called the house from a buddy's place, and I picked up, and he says, "Hey, Dad," and I hear myself say, "Hey. Here's your mother."
 JONATHON: You did not. Tell me you did not hand off your own kid on the phone.
 WES: Word for word. My wife took the phone out of my hand and looked at me like I'd tracked mud across her floor. Nobody teaches you that line. You just catch it, like a cold.
+JONATHON: Like a cold. Great. So whatever my dad had, I've probably got it in my pocket already. That's comforting, Wes.
 [CAM: WES MS]
 WES: Here's what I've seen with men at the Thursday table, and I've heard a lot of fathers and sons by now. The weather isn't the problem. The weather's fine. The problem is when the weather is the whole call, year after year, and both men are waiting for the other one to go past it. The father's waiting because he figures he gave up the right to ask anything real. The son's waiting because he figures it's the father's job. And they both die waiting on the porch with the porch light on.
 JONATHON: Okay, that's dark, Wes. That's dark for ten in the morning.
@@ -311,6 +313,7 @@ WES: Ask somebody who knew him. You might find out the ugly last sentence wasn't
 WES: I want to tell you a thing I didn't know until my dad's funeral. It goes right with the eleven seconds.
 JONATHON: Okay. I'm listening. You've got your graveside voice on, so I'm putting my coffee down.
 WES: My uncle, my dad's younger brother, comes up to me at the graveside. Folding chairs, the green tent, that fake grass they put down. And he says, "You know your daddy had a scholarship to A&M?" And I said, "No, sir." Agriculture. He'd been offered it his senior year. And my granddad said the place needed him. So he didn't go. He stayed and worked the place. And he never once said a word about it. Not to me. Not to anybody I know of.
+JONATHON: Hold on. Your dad. "Here's your mother." He had a scholarship on the table, and he never brought it up?
 [CAM: WES CU]
 WES: Forty-three years I had my dad. And I never once asked him what he'd wanted to be. It never crossed my mind that he'd wanted anything other than what he had. He was just Dad. He polished shoes and came to games. And I stood there at that grave, and I thought, maybe that's why he didn't talk. I don't know. But I thought, nobody ever asked him anything either. Not his dad. Not his son.
 [CAM: JON CU]
@@ -435,13 +438,13 @@ Chapters
 09:21 Twice a year
 15:41 The Word
 22:21 The pot roast
-28:43 Why the weather
-33:15 Pushback
-38:36 Ask him about his dad
-41:32 Going first
-47:40 The challenge
-49:32 Carry this
-49:44 Outro
+28:50 Why the weather
+33:29 Pushback
+38:50 Ask him about his dad
+41:54 Going first
+48:01 The challenge
+49:54 Carry this
+50:06 Outro
 
 Scripture: Exodus 20:12 (NIV)
 

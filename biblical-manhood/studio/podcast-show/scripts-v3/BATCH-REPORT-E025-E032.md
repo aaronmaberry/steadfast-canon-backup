@@ -8,16 +8,16 @@ All eight scripts are finished. Each passes `_build/lint.sh` with no FAIL and no
 
 | Episode | Format | Spoken words | Minutes (timing.py) | Wes / Jonathon words | Jonathon share | Jonathon lines under 12 words | Lint |
 |---|---|---|---|---|---|---|---|
-| E025 The Father Who Stays | Main | 8,001 | 53:32 | 4,070 / 3,931 | 49.1% | 16% (20 of 129) | Pass, 0 FAIL, 0 WARN |
-| E026 Field Notes: Easter Week Report | Field Notes | 3,384 | 22:45 | 1,754 / 1,630 | 48.2% | 7% (4 of 55) | Pass, 0 FAIL, 0 WARN |
-| E027 The Empty Chair at Your Table | Main | 7,359 | 49:24 | 3,934 / 3,425 | 46.5% | 13% (15 of 115) | Pass, 0 FAIL, 0 WARN |
-| E028 Field Notes: The Chair Report | Field Notes | 3,397 | 22:45 | 1,703 / 1,694 | 49.9% | 15% (9 of 59) | Pass, 0 FAIL, 0 WARN |
-| E029 When Your Dad Is Still Alive | Main | 7,516 | 50:11 | 3,879 / 3,637 | 48.4% | 13% (15 of 119) | Pass, 0 FAIL, 0 WARN |
-| E030 Field Notes: Calling Him Back | Field Notes | 3,297 | 22:04 | 1,729 / 1,568 | 47.6% | 17% (8 of 48) | Pass, 0 FAIL, 0 WARN |
-| E031 When Home Never Handed You Off | Main | 7,132 | 47:37 | 3,811 / 3,321 | 46.6% | 17% (17 of 99) | Pass, 0 FAIL, 0 WARN |
-| E032 Field Notes: Cutting the String | Field Notes | 3,322 | 22:10 | 1,694 / 1,628 | 49.0% | 12% (6 of 49) | Pass, 0 FAIL, 0 WARN |
+| E025 The Father Who Stays | Main | 8,046 | 53:49 | 4,070 / 3,976 | 49.4% | 15% (20 of 131) | Pass, 0 FAIL, 0 WARN |
+| E026 Field Notes: Easter Week Report | Field Notes | 3,410 | 22:55 | 1,754 / 1,656 | 48.6% | 9% (5 of 57) | Pass, 0 FAIL, 0 WARN |
+| E027 The Empty Chair at Your Table | Main | 7,400 | 49:39 | 3,934 / 3,466 | 46.8% | 13% (15 of 117) | Pass, 0 FAIL, 0 WARN |
+| E028 Field Notes: The Chair Report | Field Notes | 3,401 | 22:47 | 1,703 / 1,698 | 49.9% | 17% (10 of 60) | Pass, 0 FAIL, 0 WARN |
+| E029 When Your Dad Is Still Alive | Main | 7,573 | 50:33 | 3,879 / 3,694 | 48.8% | 12% (15 of 122) | Pass, 0 FAIL, 0 WARN |
+| E030 Field Notes: Calling Him Back | Field Notes | 3,320 | 22:13 | 1,729 / 1,591 | 47.9% | 16% (8 of 49) | Pass, 0 FAIL, 0 WARN |
+| E031 When Home Never Handed You Off | Main | 7,197 | 48:02 | 3,811 / 3,386 | 47.0% | 17% (17 of 102) | Pass, 0 FAIL, 0 WARN |
+| E032 Field Notes: Cutting the String | Field Notes | 3,355 | 22:22 | 1,694 / 1,661 | 49.5% | 12% (6 of 51) | Pass, 0 FAIL, 0 WARN |
 
-Word counts cover spoken lines only. Stage directions, bracketed cues and parentheticals are excluded. No Wes turn runs over 120 words in any episode.
+Word counts cover spoken lines only. Stage directions, bracketed cues and parentheticals are excluded. A Wes turn is every Wes line until Jonathon next speaks. The turns that ran past 120 words were split with Jonathon interjections (see the changelog), and no Wes turn now runs over 120 words in any episode.
 
 **Lint budgets.** Ellipses are 0 in every episode. Long pauses sit at the maximum of 3 in E025, E027 and E029. Beats sit at the maximum of 10 in E027 and E029. Every other count is under its cap.
 

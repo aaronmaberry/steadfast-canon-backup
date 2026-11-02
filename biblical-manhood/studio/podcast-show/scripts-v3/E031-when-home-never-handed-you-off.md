@@ -84,6 +84,7 @@ WES: So did mine. Nobody's mom is the bad guy in this one. If anybody's the bad 
 WES: I was eighteen. August. I was leaving for school, three hundred miles, and my car was packed. Everything I owned fit in a Buick. A box fan, a footlocker, a stereo I'd bought with hay money, and a Bible my grandmother gave me that I didn't open till October. And my dad had said goodbye at breakfast. He shook my hand at the table. "Drive careful." And he went out to the barn.
 JONATHON: That's very your dad. A handshake over the eggs.
 WES: That's completely my dad. And I'm standing in the driveway, and my mom comes out with the last load of my laundry in a basket, still warm, folded. And she puts it in the back seat, and she shuts the door, and she stands there with her hand on the roof of the car.
+JONATHON: Hand on the roof of the car. Oh, that's a mom about to say something. That's the speech stance.
 [CAM: WES CU]
 WES: And she says, "Your daddy's not going to say this, so I'm going to. You're a man now. You act like one." And then she said, "And don't come home every Friday."
 (Jonathon laughs quietly.)
@@ -195,6 +196,7 @@ JONATHON: He goes back to Nazareth with them, and it says he was obedient to the
 WES: That's the whole thing, right there. When a man knows whose he is, he can go home and be kind. He doesn't need his mother to make him a man, so he doesn't have to fight her about it. And he doesn't have to stay a boy for her either. The question's already settled somewhere else, so the kitchen isn't a battlefield anymore.
 JONATHON: And Mary didn't understand it. It says right there, they didn't understand what he was saying to them.
 WES: She didn't understand it. And she didn't fight it. She kept it. Treasured it. That's about the kindest picture of a mother I know. She searched for three days, she was scared to death, she didn't get it, and she held onto it anyway. A lot of our moms did exactly that. They didn't understand the man we turned into. They kept it anyway.
+JONATHON: Held onto it anyway. That's a good picture. Is there more? You've got that look like there's more.
 [CAM: WES CU]
 WES: And there's one more line right after, that I love. It says Jesus grew in wisdom and stature, and in favor with God and man. That's paraphrased, but that's the shape of it. Grew. Even him. He knew whose he was at twelve, and he still had eighteen years of growing to do in a carpenter's house in a little town. Knowing you're counted in doesn't make you finished. It makes you safe enough to grow without having to prove it every morning.
 JONATHON: That one gets me. Because I've spent my whole life acting finished. Like if I let anybody see me still growing, they'd take the "not bad" back.
@@ -231,6 +233,7 @@ JONATHON: Please. Gently. She listens to the show sometimes.
 WES: She did what she had to do. She was thirty-one, and the only other man in the house was nine, and she leaned on him. Of course she did. I'd have done the same. That's not a sin. That's a woman holding a house together with what she had. But that job had an end date, and nobody ever told either of you. So you both kept doing it. Her leaning and you holding. And now she's fifty-nine and capable, and you're thirty-seven with your own AC, and you're both still doing a job that ended twenty years ago.
 JONATHON: So what's the weight I pick up? Because "stop going" sounds like the opposite of picking something up.
 WES: The weight is being her son. That's heavier than being her guy. Her guy shows up for the capacitor. Her son sits at her table and asks how she's doing, and lets her handle her own capacitor, and stays anyway. Her guy is needed. Her son is loved. That's harder to carry. You don't get to feel useful.
+JONATHON: You don't get to feel useful. Wes, feeling useful is my whole personality. You're asking me to give up the one thing I'm good at in that house.
 [CAM: WES MS]
 WES: And I'll tell you, in my family it went the other way, and that's no better. My older brother was Mom's guy. He stayed on the place, he fixed things, he drove her to the doctor. I was the son who drove off in a Buick. I got to be loved from three hundred miles, and he got the capacitor. Thirty years of that. I'm only now seeing what it cost him, and I'm not proud of how long it took.
 JONATHON: So you were the son, and he was the guy. Same house, two different jobs.
@@ -397,15 +400,15 @@ Chapters
 00:20 Intro
 00:46 Pull up a chair
 04:35 The laundry basket
-09:50 Kid
-16:07 What it sounds like
-19:53 The Word
-25:39 The AC man
-33:32 Pushback
-39:14 The name
-44:57 The challenge
-46:50 Carry this
-47:10 Outro
+09:57 Kid
+16:14 What it sounds like
+20:01 The Word
+25:53 The AC man
+33:56 Pushback
+39:38 The name
+45:21 The challenge
+47:15 Carry this
+47:35 Outro
 
 Scripture: Luke 2:49 (NIV)
 

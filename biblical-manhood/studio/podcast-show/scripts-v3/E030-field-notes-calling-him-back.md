@@ -112,6 +112,7 @@ JONATHON: You called your oldest. Before Friday. Like you said you would.
 WES: Thursday, on his lunch. I picked lunch on purpose, because if I'd waited for supper I'd have found a reason. A ballgame, a noise in the yard, something. Lunch had a clock on it. Which turned out to be a mistake too, because he had twenty minutes and a sandwich. And I said, "Hey. Saturday you asked me if Grandpa ever said he was proud of me. I answered about Grandpa. I want to answer about you. I'm proud of you." And he chewed. I could hear him chewing. And he said, "For what?"
 JONATHON: Oh no. Oh, that's rough. That's the worst possible follow-up.
 WES: And I said, "Not for anything. Just am." And he said, "Okay. Thanks, Dad." And then he said, "The noise in my truck is back." And we talked about the noise in his truck for fifteen minutes. It's a wheel bearing, probably. I'd put money on the front passenger side.
+JONATHON: Fifteen minutes on a wheel bearing. That's the most Hart family phone call I've ever heard. So did it land? The proud part?
 [CAM: WES CU]
 WES: And I hung up, and I don't know if it landed. I honestly don't. He said "thanks." He didn't say anything else. He might have forgotten it by the time he finished the sandwich. And I've decided that's okay. I'm not saying it so I'll hear something back. I'm saying it because it's true, and nobody said it to me till a hospital bed. If it takes him ten more of those to believe it, I've got ten more in me.
 JONATHON: So you're not going to make him say something back. You're not going to fish for it.
@@ -230,10 +231,10 @@ Chapters
 00:00 Cold open
 00:18 Intro
 00:42 Check the box
-11:58 From the table
-16:49 Tool on the table
-21:23 Carry this
-21:36 Outro
+12:06 From the table
+16:58 Tool on the table
+21:31 Carry this
+21:45 Outro
 
 Scripture: Romans 12:18 (NIV)
 
