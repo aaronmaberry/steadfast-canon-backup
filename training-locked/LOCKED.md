@@ -5,7 +5,7 @@ Nothing in this folder changes without Aaron's OK. A new version gets a new file
 | Lesson | File | Length | Spec | Locked |
 |---|---|---|---|---|
 | Intro (L00) | `L00-intro/SM-L00-introduction-v13e-FINAL-1080p-ordinary-days.mp4` (29,103,727 bytes) | 3:44.08 | 1920x1080, 25 fps, H.264 + AAC, -20 LUFS | Final placed in Drive Nov 2, 2026 (Drive file id 129W80lA0AB0QRnbpGdv2iTgcrgZ59IrU) |
-| Lesson 1 — A Quiet Tuesday | `L01-a-quiet-tuesday/L01-A-Quiet-Tuesday-v6-FINAL-1080p.mp4` (260,772,587 bytes — on release `training-locked-L01-v6`, see DOWNLOAD.md) | 20:14.32 | 1920x1080, 25 fps, H.264 + AAC 192k, -20 LUFS | Nov 3, 2026, 1:59 PM CT — Aaron: "beautiful, lock it down" |
+| Lesson 1 — A Quiet Tuesday | `L01-a-quiet-tuesday/L01-A-Quiet-Tuesday-v6-FINAL-1080p.mp4` (260,772,587 bytes — stored as 3 pieces; DOWNLOAD.md has the one-line join) | 20:14.32 | 1920x1080, 25 fps, H.264 + AAC 192k, -20 LUFS | Nov 3, 2026, 1:59 PM CT — Aaron: "beautiful, lock it down" |
 
 Checksums: `SHA256SUMS` in each lesson folder. Captions (`-en.vtt`, `-en.srt`) sit beside each video.
 
