@@ -6,6 +6,7 @@ Nothing in this folder changes without Aaron's OK. A new version gets a new file
 |---|---|---|---|---|
 | Intro (L00) | `L00-intro/SM-L00-introduction-v13e-FINAL-1080p-ordinary-days.mp4` (29,103,727 bytes) | 3:44.08 | 1920x1080, 25 fps, H.264 + AAC, -20 LUFS | Final placed in Drive Nov 2, 2026 (Drive file id 129W80lA0AB0QRnbpGdv2iTgcrgZ59IrU) |
 | Lesson 1 — A Quiet Tuesday | `L01-a-quiet-tuesday/L01-A-Quiet-Tuesday-v6-FINAL-1080p.mp4` (260,772,587 bytes — stored as 3 pieces; DOWNLOAD.md has the one-line join) | 20:14.32 | 1920x1080, 25 fps, H.264 + AAC 192k, -20 LUFS | Nov 3, 2026, 1:59 PM CT — Aaron: "beautiful, lock it down" |
+| Lesson 2 — You Are Not Crazy | `L02-you-are-not-crazy/L02-You-Are-Not-Crazy-v7-FINAL-1080p.mp4` (393,868,754 bytes — stored as 5 pieces; DOWNLOAD.md has the one-line join) | 20:51.24 | 1920x1080, 25 fps, H.264 High@4.1 + AAC 160k, -20 LUFS | Nov 4, 2026, 2:05 PM CT — Aaron: "good, lock that in complete" |
 
 Checksums: `SHA256SUMS` in each lesson folder. Captions (`-en.vtt`, `-en.srt`) sit beside each video.
 
@@ -15,3 +16,9 @@ Checksums: `SHA256SUMS` in each lesson folder. Captions (`-en.vtt`, `-en.srt`) s
 - Framing: wide shots = full frame, faded into the field from y 660–840; card shots = crop 1120x800 at (400,0) in the 840x600 card. Hands kept out of view; two cuts moved to pauses for hand gestures (6:12 "You come home tired" → full-frame board; 10:27 "I got to feel like I'd shown up" → b-roll starts a sentence earlier).
 - Not used: the 17 "L01 burg wide" clips (crew-neck tee — shirt would not match).
 - Boards, b-roll (real stock, no AI imagery), layout and pacing unchanged from the approved v5 review. "Week" is never said or shown.
+
+## Lesson 2 v7 — what it is
+- Narration: the v2 20:42 read, HeyGen's own audio track from the master (highpass 70 Hz + level only). 4.0 s silent open, logo end card.
+- Wes: HeyGen video 315207b517f3d3cb4ea01383561b18d2 "L02 v2 FULL master olive level no prompt 1243.2s" (byte-identical to HeyGen's 1080p download, ETag checked) plus the 20 "L02 v2 wide" clips (all ETag-checked; w01/w06/w10 re-pulled). Waist-up / half-screen pieces cut at pauses; none at 1:50 (Aaron).
+- Encode: every Wes shot at CRF 16 slow/film, b-roll capped (qpmin 20), peaks under 12 Mb/s, level 4.1. No entry zoom (it wobbled the face in v5).
+- B-roll real stock (Mixkit), matched to the line; Ray section: home laundry room, Wes tells the wallet and truck lines. "Week" is never said or shown.
