@@ -1,4 +1,6 @@
 # STEADFAST MEN — LESSON VIDEO SOP (master, v1, 2026-10-28 ~10:05 PM CT)
+> **SUPERSEDED for production (Nov 5, 2026):** lessons are now made with the HeyGen master pipeline in `biblical-manhood/studio/training-video/lesson-pipeline/LESSON-VIDEO-SOP-v2.md` (the process behind locked L02–L04, with every Aaron correction as a rule). Keep this file as the L00–L01 history and decision log.
+
 **BEFORE EVERY STEP (R25): re-read this SOP and the HARD RULES (section 0), then log "SOP + rules re-checked: time, phase" in PROGRESS.md. No exceptions.**
 One repeatable process for L01–L24. The locked intro (`intro-final-2026-10-27/LOCKED-INTRO-v12/`, sha256 855e5ffb…2548, Drive id 1g13C_m4qFnWpMn-vGkPe8EXRkwIHyONS) is the design reference. **Do not change it.**
 Status: LIVE, updated 2026-10-29 ~7:00 AM CT with R31-R32 (self-made source, storyboard in P1, prose production scripts); earlier 2026-10-28 10:12 PM CT with R23-R26. DRAFT for Aaron review. Nothing in this doc spends credits.

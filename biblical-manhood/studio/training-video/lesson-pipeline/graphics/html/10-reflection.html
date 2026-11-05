@@ -1,0 +1,48 @@
+<!doctype html><html><head><meta charset="utf-8"><style>
+@font-face{font-family:'Geist';font-weight:300;src:url(../fonts/Geist-Light.woff2)}
+@font-face{font-family:'Geist';font-weight:400;src:url(../fonts/Geist-Regular.woff2)}
+@font-face{font-family:'Geist';font-weight:500;src:url(../fonts/Geist-Medium.woff2)}
+@font-face{font-family:'Geist';font-weight:600;src:url(../fonts/Geist-SemiBold.woff2)}
+@font-face{font-family:'Geist Mono';font-weight:400;src:url(../fonts/GeistMono-Regular.woff2)}
+@font-face{font-family:'Geist Mono';font-weight:500;src:url(../fonts/GeistMono-Medium.woff2)}
+:root{--bg:#07070A;--bg2:#0C0C10;--surface:#121218;--surface2:#18181F;--text:#F4F4F5;--muted:#A1A1AA;
+--faint:#71717A;--line:rgba(255,255,255,.08);--line2:rgba(255,255,255,.14);--accent:#8B9CFF;--accent2:#5B6EF5}
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{width:1920px;height:1080px;overflow:hidden;background:transparent}
+.frame{position:relative;width:1920px;height:1080px;overflow:hidden;color:var(--text);font-family:'Geist';
+ letter-spacing:-0.014em;-webkit-font-smoothing:antialiased;background:var(--bg)}
+.frame.field{background:linear-gradient(180deg,#0C0C10 0%,#07070A 62%)}
+.frame.alpha{background:transparent}
+.glow{position:absolute;border-radius:50%;filter:blur(40px);pointer-events:none}
+.grain{position:absolute;inset:0;background:url(../img/mesh.jpg);background-size:700px;mix-blend-mode:overlay;opacity:.05}
+.vig{position:absolute;inset:0;background:radial-gradient(ellipse 75% 70% at 50% 45%,rgba(0,0,0,0) 55%,rgba(0,0,0,.42) 100%)}
+.safe{position:absolute;left:128px;right:128px;top:112px;bottom:112px}
+.label{font-family:'Geist Mono';font-weight:500;font-size:24px;letter-spacing:.18em;text-transform:uppercase;color:var(--faint)}
+.label.a{color:var(--accent)}
+.mono{font-family:'Geist Mono';letter-spacing:.1em;text-transform:uppercase}
+.hl{background:rgba(139,156,255,.24);border-radius:6px;padding:0 .12em;-webkit-box-decoration-break:clone;box-decoration-break:clone}
+.ul{text-decoration:underline;text-decoration-color:var(--accent);text-decoration-thickness:4px;text-underline-offset:10px}
+.rule{height:1px;background:var(--line2)}
+.logo{background:url(../img/logo-alpha.png) center/contain no-repeat}
+.plate{position:absolute;inset:0;background-size:cover;background-position:center}
+.prog{display:flex;gap:28px}
+.prog .grp{display:flex;flex-direction:column;gap:12px}
+.prog .ticks{display:flex;gap:6px}
+.prog .t{width:40px;height:4px;border-radius:2px;background:rgba(255,255,255,.14)}
+.prog .t.done{background:var(--accent2)}
+.prog .t.now{background:var(--accent);box-shadow:0 0 12px rgba(139,156,255,.8)}
+.prog .gl{font-family:'Geist Mono';font-weight:400;font-size:20px;letter-spacing:.1em;color:var(--faint);text-transform:uppercase;white-space:nowrap}
+.prog .gl.on{color:var(--muted)}
+.panel{position:absolute;background:rgba(18,18,24,.94);border:1px solid var(--line2);border-radius:12px;
+ backdrop-filter:blur(8px)}
+.cap{position:absolute;left:50%;transform:translateX(-50%);bottom:92px;text-align:center;font-weight:500;font-size:52px;
+ line-height:1.25;letter-spacing:-0.005em;color:var(--text)}
+.cap span{background:rgba(7,7,10,.72);border-radius:10px;padding:4px 20px;-webkit-box-decoration-break:clone;box-decoration-break:clone}
+</style></head><body><div class="frame field"><div class="glow" style="left:980px;top:-260px;width:1300px;height:900px;background:radial-gradient(closest-side,rgba(91,110,245,.16),rgba(91,110,245,0))"></div>
+<div class="safe">
+ <div style="position:absolute;left:0;top:330px;width:1400px">
+  <div class="label a">Pause and reflect</div>
+  <div style="font-weight:400;font-size:76px;line-height:1.14;letter-spacing:-0.022em;margin-top:24px">Look honestly at what you were handed.</div>
+  <div class="label" style="margin-top:48px;font-size:20px">Sit with it for a moment</div>
+ </div>
+</div><div class=vig></div><div class=grain></div></div></body></html>
