@@ -16,7 +16,7 @@ need=set()
 for s in E['shots']:
     if s.get('wes') in ('CLOSE','MEDIUM') or s['kind'] in ('SPLIT','TYPE_BOARD_BUBBLE','SCRIPTURE_BUBBLE','BRANDED_STILL_BUBBLE','AGENDA'):
         a=int(s['t0x']*FPS); b=int(s['t1x']*FPS)+1
-        for n in range(a,b,2): need.add(n)  # every 2nd
+        for n in range(a,b,8): need.add(n)  # every 8th
 need=sorted(need)
 print('track frames', len(need), flush=True)
 ns=[]; xys=[]; last=[960.0,400.0]
