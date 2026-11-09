@@ -42,7 +42,8 @@ E['end']=E['shots'][-1]['t1x']
 E['fps']=25
 
 # ---- fix SCRIPTURE_BUBBLE specs from spoken words
-VERSE_RE=re.compile(r'(Ephesians|Eph\.?|Matthew|Matt\.?|Hebrews|Heb\.?|John|Romans|Prov(?:erbs)?)\s*(?:chapter\s*)?(\d+)[,:]?\s*(?:verse\s*)?(\d+(?:\s*-\s*\d+)?)', re.I)
+WORDS_NUM={'one':'1','two':'2','three':'3','four':'4','five':'5','six':'6','seven':'7','eight':'8','nine':'9','ten':'10','eleven':'11','twelve':'12'}
+VERSE_RE=re.compile(r'(Ephesians|Eph\.?|Matthew|Matt\.?|Hebrews|Heb\.?|John|Romans|Prov(?:erbs)?)\s*(?:chapter\s*)?(\d+|one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve)[,:]?\s*(?:verse\s*)?(\d+(?:\s*-\s*\d+)?|one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve)', re.I)
 NIV_Q=re.compile(r'[""]([^""]{20,400})[""]')
 for s in E['shots']:
     if s['kind']!='SCRIPTURE_BUBBLE': continue
@@ -65,7 +66,7 @@ for s in E['shots']:
              'hebrews':'HEBREWS','heb':'HEBREWS','john':'JOHN','romans':'ROMANS','proverbs':'PROVERBS','prov':'PROVERBS'}
     if m:
         bk=bookmap.get(m.group(1).lower().rstrip('.'), m.group(1).upper())
-        ref=f"{bk} {m.group(2)}:{m.group(3).replace(' ','')} (NIV)"
+        ch=WORDS_NUM.get(m.group(2).lower(), m.group(2)); vs=WORDS_NUM.get(m.group(3).lower().replace(' ',''), m.group(3).replace(' ','')); ref=f"{bk} {ch}:{vs} (NIV)"
         sp['ref']=[ref, find_phrase(m.group(0)[:40], s['t0'], s['t1'])]
     if q:
         verse=q.group(1).strip()
