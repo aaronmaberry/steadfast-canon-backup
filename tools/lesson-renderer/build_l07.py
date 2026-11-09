@@ -222,6 +222,39 @@ if fail(C):
     raise SystemExit(2)
 print('PASS L5')
 
+
+# ---- snap broll edges into word gaps (L08 v2 / L07 bar)
+def _gaps(minlen=0.28):
+    g=[]
+    if W:
+        if W[0]["start"]>=minlen: g.append((0.0,W[0]["start"]))
+        for i in range(len(W)-1):
+            a,b=W[i]["end"],W[i+1]["start"]
+            if b-a>=minlen: g.append((a,b))
+        if E["end"]-W[-1]["end"]>=minlen: g.append((W[-1]["end"],E["end"]))
+    return g
+def _snap_edge(t, side, gaps):
+    cands=[]
+    for g0,g1 in gaps:
+        for cand in ((g0,g1,(g0+g1)/2) if side=="end" else (g1,g0,(g0+g1)/2)):
+            if abs(cand-t)<3.0: cands.append((abs(cand-t), round(cand,2)))
+    return cands[0][1] if cands else round(t,2)
+def _in_word(t):
+    return any(w["start"]+0.02<t<w["end"]-0.02 for w in W)
+gaps=_gaps(); br=E.get("broll") or []; snapped=0
+for b in br:
+    t0,t1=b["t0"],b["t1"]
+    if _in_word(t0) or _in_word(t1):
+        nt0=_snap_edge(t0,"start",gaps); nt1=_snap_edge(t1,"end",gaps)
+        if nt1<=nt0+1.5:
+            # fall back: place whole clip inside nearest long gap
+            mid=(t0+t1)/2; best=min(gaps, key=lambda g: abs((g[0]+g[1])/2-mid))
+            nt0,nt1=round(best[0],2),round(best[1],2)
+        if nt1>nt0+0.4:
+            b["t0"],b["t1"]=nt0,nt1; snapped+=1
+E["broll"]=br
+if snapped: print("snapped broll edges", snapped)
+
 # ---- drop broll that cuts inside/near end awkwardly (keep simple)
 br=E.get('broll') or []
 kept=[]
