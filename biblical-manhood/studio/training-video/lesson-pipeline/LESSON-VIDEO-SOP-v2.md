@@ -40,7 +40,8 @@ Each rule shows where it came from. ✅ = checked by a script; 👁 = checked by
 | C3 | No zoom or "settle" on shot entries. It wobbles the face (L02 v5). Wide takes are cut to the nearest frame (`trim=start_frame`). | L02 |
 | C4 | ✅ Never show a hand rising into the frame, a chin jut/lean (face width > 1.14 × rolling median) or a soft face. `quality.py` masks these, and `layout.check_all` refuses shots on them. Wide takes are used only 0.5 s inside their ends. | L01–L03 |
 | C5 | 👁 Drop any wide take that looks warped. Cut a wide shot before the hands come back up at its end. L02 1:50 was removed ("deleting is the easy fix"), and L02 13:16 was ended 1–2 s earlier. | L02 |
-| C6 | ✅ Every master and wide clip is byte-identical to HeyGen's file. Check the S3 multipart ETag over 8 MiB parts of the *joined* file. | L02–L04 |
+| C6 | ✅ Every master and wide clip is byte-identical to HeyGen's file. `plan/verify_heygen.py` checks the S3 ETag over 8 MiB parts of the *joined* file (a small clip has a single-part ETag = plain MD5; the script handles both). | L02–L06 |
+| C7 | ✅ Wardrobe must not read as skin. After `scan.py`, the line `N with a hand-sized blob` must be a small fraction of frames. If it is near 100%, the shirt/coat is inside the skin colour range: sample coat vs face (YCrCb Cr, HSV hue) and set `SKIN_CR_MIN` / `SKIN_HUE_MAX` in `scan.py` **and** `widescan.py` (L06 tan chore coat: Cr 146, hue ≤ 12). Re-run scan → widescan → quality. | L06 |
 
 ### B-roll
 | # | Rule | From |
@@ -62,7 +63,7 @@ Each rule shows where it came from. ✅ = checked by a script; 👁 = checked by
 ### Encode
 | # | Rule | From |
 |---|---|---|
-| E1 | ✅ libx264 `-preset slow -tune film`, High@4.1, `ref=4:vbv-maxrate=12000:vbv-bufsize=24000`, b-roll `qpmin=20`, **one CRF (18) for every segment** (segments are stream-copied together, and the PPS depends on CRF). `postcheck.py` must show 1 SPS/PPS set and 0 decode errors. | L02, L03 |
+| E1 | ✅ libx264 `-preset slow -tune film`, High@4.1, `ref=4:vbv-maxrate=12000:vbv-bufsize=24000`, b-roll `qpmin=20`, **one CRF for every segment: 18 up to ~22:30 of picture, 19 above that** (L05 22:47 = 398 MiB at 18; L06 23:21 needed 19 to stay under A5) (segments are stream-copied together, and the PPS depends on CRF). `postcheck.py` must show 1 SPS/PPS set and 0 decode errors. | L02, L03 |
 
 ---
 ## 2. STEPS (one lesson, ~3–4 h of machine time)
@@ -80,8 +81,8 @@ Paths are relative to `/home/claude/lNN/`. Package = this folder (`lesson-pipeli
    - Chrome often saves blobs as random `.tmp` names. Map wides by their unique size, and master parts by mtime order (the last part is the short one).
    - Stage one file per call (big parallel stages time out).
    - Join the master parts in mtime order into `master/lNN_master.mp4`.
-   - **Gate C6:** the ETag over the joined file matches (`md5(concat(md5 of each 8 MiB))-N`).
-   - Move the wides to `wide/LNNW-<id>.mp4` (ETag each).
+   - Record every id's size + ETag first (HEAD request) into `in/etags.txt` (`key id size etag`).
+   - **Gate C6:** `python3 plan/verify_heygen.py` (moves matching wides into `wide/`) and `python3 plan/verify_heygen.py master master/lNN_master.mp4`.
 3. **Set up the lesson**
    - `bash <package>/new_lesson.sh NN "LNN-Title-Words"`.
    - Set `AUDIO_END` (edit/cues.py) and `TOTAL` (plan/quality.py) to the master duration from ffprobe.
@@ -91,7 +92,7 @@ Paths are relative to `/home/claude/lNN/`. Package = this folder (`lesson-pipeli
    - `python3 plan/words.py`.
    - **Gate:** 0 cues off by more than 0.4 s between `lines.json` and the SRT (the voice matches the captions).
 5. **Picture maps**
-   - `python3 plan/scan.py` (~10 min, background).
+   - `python3 plan/scan.py` (~10 min, background). **Gate C7:** hand-sized blobs must not be in nearly every frame.
    - `echo [] > master/warp_runs.json`.
    - `python3 plan/align_wides.py`. **Gate:** every wide correlation ≥ 0.99.
    - Write `wide/verified.json` ({master:{id,etag,match}, wide:{id:true}}).
@@ -147,6 +148,7 @@ Paths are relative to `/home/claude/lNN/`. Package = this folder (`lesson-pipeli
 - Chrome tab for HeyGen API calls: keep one light page open. Classifier or tool hiccups are transient; retry once and don't loop.
 
 ## 4. CORRECTION LOG (newest first; each one is already a rule above)
+- **Nov 9, 2026 — L05/L06 builds (my QC):** L06 chore coat read as skin → every frame flagged as a hand; fixed with per-lesson skin thresholds (C7). L06 at 23:21 would exceed 400 MiB at CRF 18 → CRF 19 (E1). HeyGen single-part ETag on a 3 MB wide → verify script handles it (C6). B-roll rejected for B2: holiday-feast dinner sets (twice), gloved/female hands for Wade's plate; L05 and L06 kept to Wes where no true clip existed.
 - **Nov 5, 2026, 8:00 AM CT — L03 v2, Aaron:** "text captions … around 6:24 … they muddle together … garbled … make sure they're nice, crisp, and clean." Cause: a new band faded in on top of the fully visible old one (0.3 s overlap), at 32 changes in L03 and 31 in L04. Fix: T1, T2, T3 (wide-take scrim added as well). L03/L04 v3 re-rendered; every change checked frame by frame. Locked 10:14 AM ("great lock in these 2 … make sure SOP … is updated on those corrections moving forward").
 - **Nov 4, 2026 — L04 build (my QC before Aaron saw it):** the workshop drill clip was replaced with a home clip (B2). The bright-footage scrim was added (T3). Seven unreadable bands were fixed and one 2 s Wes piece lengthened (T4, C2).
 - **Nov 4, 2026 — L03 build:** the CARD name clash (W3). Jut threshold 1.08 flagged normal laughs, so it was raised to 1.14 (C4). CRF 16 went over the send limit, so CRF 18 (A5). Vertical clips rejected (B3).

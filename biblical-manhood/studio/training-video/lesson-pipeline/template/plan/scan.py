@@ -1,5 +1,9 @@
 """Scan the L03 master every `step` frames at 640x360: face box (largest skin blob in the top 70%), face sharpness
 (Laplacian variance inside the face), and any other skin blob (a hand) with its box. Writes master/scan_olive.json."""
+# Skin test (SOP v2 step 5): wardrobe can read as skin. L06's tan chore coat sat at Cr 141-145 / hue 13-15 and flagged a 'hand'
+# in every frame; skin is Cr ~152 / hue 4-10. If scan.py reports a hand-sized blob in nearly every frame, raise SKIN_CR_MIN and set SKIN_HUE_MAX.
+SKIN_CR_MIN = 138
+SKIN_HUE_MAX = None   # OpenCV hue 0-180; None = off
 import json, subprocess, sys, numpy as np, cv2
 SRC = "/home/claude/l04/master/l04_master.mp4"
 STEP = 5
@@ -14,7 +18,10 @@ while True:
         break
     img = np.frombuffer(b, np.uint8).reshape(H, W, 3)
     ycc = cv2.cvtColor(img, cv2.COLOR_BGR2YCrCb)
-    sk = ((ycc[..., 1] > 138) & (ycc[..., 1] < 175) & (ycc[..., 2] > 85) & (ycc[..., 2] < 125) & (ycc[..., 0] > 45)).astype(np.uint8)
+    sk = ((ycc[..., 1] > SKIN_CR_MIN) & (ycc[..., 1] < 175) & (ycc[..., 2] > 85) & (ycc[..., 2] < 125) & (ycc[..., 0] > 45)).astype(np.uint8)
+    if SKIN_HUE_MAX is not None:
+        hh = cv2.cvtColor(img, cv2.COLOR_BGR2HSV)[..., 0]
+        sk &= ((hh <= SKIN_HUE_MAX) | (hh >= 170)).astype(np.uint8)
     sk = cv2.morphologyEx(sk, cv2.MORPH_OPEN, k5)
     n, lab, st, cen = cv2.connectedComponentsWithStats(sk, 8)
     face = None; hand = 0.0; hb = None

@@ -11,6 +11,7 @@ mkdir -p "$DST"/{audio,broll,deliver,edit,gfx/out,in,look,master,plan,wide}
 cp "$HERE"/template/edit/*.py "$DST/edit/"
 cp "$HERE"/template/plan/*.py "$DST/plan/"
 cp "$HERE"/template/gfx/boards_base.py "$HERE"/template/gfx/boards_main.py "$DST/gfx/"
+cp "$HERE"/graphics/img/RSCRIM.png "$HERE"/graphics/img/WWSCRIM.png "$DST/gfx/out/"   # caption scrims (SOP T3)
 cp "$HERE"/template/gfx/boards_l04.py "$DST/gfx/boards_l04_EXAMPLE.py"   # reference only; write gfx/boards_${L}.py fresh
 for f in "$DST"/edit/*.py "$DST"/plan/*.py "$DST"/gfx/boards_base.py "$DST"/gfx/boards_main.py; do
   sed -i -e "s#/home/claude/l04#${DST}#g" -e "s#l04_master#${L}_master#g" -e "s#l04_prog_m20#${L}_prog_m20#g" \
