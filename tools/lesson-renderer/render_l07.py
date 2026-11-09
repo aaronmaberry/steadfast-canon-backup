@@ -228,6 +228,7 @@ def bubble_state(t):
     return None
 
 def T(fr,im,x,y,at,t,a=1.0):
+    if at is None: at=t
     p=EO(pr(t,at-0.05,0.45))*a
     if p>0:paste(fr,im,x,y+14*(1-EO(pr(t,at-0.05,0.45))),p)
 def dimc(t,nxt,to=0.5):d=1-(1-to)*pr(t,nxt-0.05,0.3);return TX*d+BG*(1-d),d
@@ -236,7 +237,9 @@ def rows(fr,rr,t,x,y,maxw,size=50,gap=26,chips=False,big_first=False,dim=True,bi
     for i,item in enumerate(rr):
         if isinstance(item,(list,tuple)) and len(item)>=2: s_,at=item[0],item[1]
         else: s_,at=str(item),t
-        nxt=rr[i+1][1] if (dim and i+1<len(rr) and isinstance(rr[i+1],(list,tuple))) else 1e9
+        if at is None: at=t
+        nxt=rr[i+1][1] if (dim and i+1<len(rr) and isinstance(rr[i+1],(list,tuple)) and rr[i+1][1] is not None) else 1e9
+        if nxt is None: nxt=1e9
         col,d=dimc(t,nxt); sz=int(size*1.45) if i==big_idx else size; xx=x
         if chips:
             T(fr,text(f'{i+1:02d}',int(size*0.6),'GeistMono-Medium.ttf',AC*d+BG*(1-d)),x,y+size*0.22,at,t); xx=x+92
@@ -293,8 +296,8 @@ def render(sh,t):
         return render_kinetic(kk,t)
     if k=='WES_FULL':
         fr=wes_frame(t,'WIDE')
-        # bottom fade for hands zone
-        g=np.clip((np.linspace(0,1,HT,dtype=np.float32)-0.82)/0.18,0,1)[:,None,None]**1.2*0.55
+        # bottom fade for HG hand-smear zone (covers from y~820)
+        g=np.clip((np.linspace(0,1,HT,dtype=np.float32)-0.76)/0.20,0,1)[:,None,None]**1.1*0.92
         fr=fr*(1-g)+BG*g
         return fr
     if k=='LOGO_END':

@@ -41,6 +41,31 @@ E['audio_dur']=END
 E['end']=E['shots'][-1]['t1x']
 E['fps']=25
 
+# ---- fill empty AGENDA / board rows from spoken window
+for s in E['shots']:
+    sp=s.setdefault('spec',{})
+    if s['kind']=='AGENDA' and not sp.get('rows'):
+        # pull short cue phrases from words in shot
+        ww=[w for w in W if s['t0']<=w['start']<=s['t1']]
+        # split on sentence ends into up to 5 pills
+        text=' '.join(w['word'] for w in ww)
+        parts=[x.strip() for x in re.split(r'(?<=[.?!])\s+', text) if x.strip()]
+        rows=[]
+        for part in parts[:5]:
+            # cue at first word of part
+            at=find_phrase(part.split()[0] if part.split() else part, s['t0'], s['t1'])
+            short=' '.join(part.split()[:6])
+            if short: rows.append([short, at])
+        sp['rows']=rows
+        sp['style']=sp.get('style') or 'pills'
+    if s['kind'] in ('TYPE_BOARD_BUBBLE','SPLIT') and not sp.get('rows'):
+        ww=[w for w in W if s['t0']<=w['start']<=s['t1']]
+        if ww:
+            # one key line: first ~12 words
+            phrase=' '.join(w['word'] for w in ww[:12])
+            sp['rows']=[[phrase, round(ww[0]['start'],3)]]
+            sp.setdefault('style','rows'); sp.setdefault('paper', False)
+
 # ---- fix SCRIPTURE_BUBBLE specs from spoken words
 WORDS_NUM={'one':'1','two':'2','three':'3','four':'4','five':'5','six':'6','seven':'7','eight':'8','nine':'9','ten':'10','eleven':'11','twelve':'12'}
 VERSE_RE=re.compile(r'(Ephesians|Eph\.?|Matthew|Matt\.?|Hebrews|Heb\.?|John|Romans|Prov(?:erbs)?)\s*(?:chapter\s*)?(\d+|one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve)[,:]?\s*(?:verse\s*)?(\d+(?:\s*-\s*\d+)?|one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve)', re.I)
