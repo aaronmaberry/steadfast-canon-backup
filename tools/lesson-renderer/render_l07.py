@@ -17,11 +17,14 @@ else:
 
 LC=(INP or {}).get('lesson') or json.load(open(f'{WORK}/lesson.json'))
 WORK=LC.get('work', WORK).rstrip('/')
-E=json.load(open((INP or {}).get('edl') or f'{WORK}/p7/edl.json'))
+_edl=(INP or {}).get('edl') or f'{WORK}/p7/edl.json'
+if not os.path.isabs(_edl): _edl=os.path.join(WORK,_edl)
+E=json.load(open(_edl))
 CUTS=E['cuts']; SH=E['shots']; FPS=int(E.get('fps',25)); WD,HT=1920,1080; M=96
 MASTER=(INP or {}).get('wes_master',{}).get('path') or ''
 WIDE=(INP or {}).get('wes_wide') or []
 TRACK_P=(INP or {}).get('track') or f'{WORK}/p7/track.json'
+if not os.path.isabs(TRACK_P): TRACK_P=os.path.join(WORK,TRACK_P)
 FACE=(INP or {}).get('face') or [997.0, 400.0]
 CRF=int((INP or {}).get('crf') or 16)
 AC_HEX=LC.get('accent','#8b9cff'); AC2_HEX=LC.get('accent2', AC_HEX)
