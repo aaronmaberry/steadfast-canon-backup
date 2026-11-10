@@ -44,18 +44,34 @@ E['fps']=25
 # ---- fill empty AGENDA / board rows from spoken window
 for s in E['shots']:
     sp=s.setdefault('spec',{})
-    if s['kind']=='AGENDA' and not sp.get('rows'):
-        # pull short cue phrases from words in shot
+    def _agenda_rows_bad(rr):
+        if not rr: return True
+        for r in rr:
+            t=(r[0] if isinstance(r,(list,tuple)) and r else r)
+            ts=str(t or '').strip().lower()
+            if (not ts) or ts in ('item','todo','lorem','{') or 'item'==ts or ts.startswith('item'):
+                return True
+        return False
+    if s['kind']=='AGENDA' and _agenda_rows_bad(sp.get('rows')):
+        # L08 spoken agenda pills (never the storyboard "item" placeholder)
+        pills=[
+            "The chair that raised you",
+            "What Paul put in a father's place",
+            "What took the seat when the father was thin",
+            "Dean and a table hired by the mail",
+            "The chair explains you",
+        ]
         ww=[w for w in W if s['t0']<=w['start']<=s['t1']]
-        # split on sentence ends into up to 5 pills
         text=' '.join(w['word'] for w in ww)
-        parts=[x.strip() for x in re.split(r'(?<=[.?!])\s+', text) if x.strip()]
         rows=[]
-        for part in parts[:5]:
-            # cue at first word of part
-            at=find_phrase(part.split()[0] if part.split() else part, s['t0'], s['t1'])
-            short=' '.join(part.split()[:6])
-            if short: rows.append([short, at])
+        for part in pills:
+            if part.lower() not in text.lower() and not find_phrase(part, s['t0'], s['t1']):
+                pass
+            at=find_phrase(part, s['t0'], s['t1'])
+            rows.append([part, at])
+        if len(rows)<3:
+            parts=[x.strip() for x in re.split(r'(?<=[.?!])\s+', text) if x.strip() and not x.lower().startswith("here's how")]
+            rows=[[p, find_phrase(p, s['t0'], s['t1'])] for p in parts[:5]]
         sp['rows']=rows
         sp['style']=sp.get('style') or 'pills'
     if s['kind'] in ('TYPE_BOARD_BUBBLE','SPLIT') and not sp.get('rows'):

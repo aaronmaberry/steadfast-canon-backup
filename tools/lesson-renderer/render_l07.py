@@ -272,23 +272,52 @@ def shot_at(t):
         if s['t0x']<=t<s['t1x']: return s
     return SH[-1]
 def kin_at(t):
-    for k in E.get('kinetic') or []:
-        if k['t0']<=t<k['t1']: return k
-    return None
+    hits=[k for k in E.get('kinetic') or [] if k['t0']<=t<k['t1']]
+    if not hits: return None
+    for k in hits:
+        if k.get('cover') or k.get('style')=='lower_third':
+            return k
+    return hits[0]
+
+def draw_lower_third(fr,k,t):
+    """#12 lower-third over a live Wes frame. No blur."""
+    a=1.0
+    if t<k['t0']+0.25: a=EO(pr(t,k['t0'],0.25))
+    if t>k['t1']-0.25: a*=1-EI(pr(t,k['t1']-0.25,0.25))
+    bar_h=168; y0=HT-bar_h
+    overlay=fr.copy(); overlay[y0:]=overlay[y0:]*0.22+BG*0.78
+    fr=fr*(1-a)+overlay*a
+    paste(fr,card(220,4,AC2),M+60,y0+28,a)
+    line=(k.get('text') or '').strip()
+    if line:
+        im=text(line,44,'Geist-SemiBold.ttf',TX,1600)
+        paste(fr,im,M+60,y0+52,a)
+    return fr
 
 def render_kinetic(k,t):
+    if k.get('style')=='lower_third':
+        fr=wes_frame(t,'WIDE')
+        return draw_lower_third(fr,k,t)
     fr=BD.copy(); a=1.0
-    if t<k['t0']+0.35: a=EO(pr(t,k['t0'],0.35))
-    if t>k['t1']-0.35: a*=1-EI(pr(t,k['t1']-0.35,0.35))
-    # type-on words
-    y=HT//2-40; x=M+80
-    for i,(w,at) in enumerate(k.get('words') or []):
-        if t<at-0.05: break
-        im=text(w,56,'Geist-SemiBold.ttf',TX,1600); T(fr,im,x,y,at,t,a)
-        x+=im.shape[1]+18
-        if x>WD-M-200: x=M+80; y+=70
-    if not k.get('words'):
-        im=text(k.get('text',''),56,'Geist-SemiBold.ttf',TX,1600); paste(fr,im,M+80,HT//2-40,a)
+    if t<k['t0']+0.28: a=EO(pr(t,k['t0'],0.28))
+    if t>k['t1']-0.28: a*=1-EI(pr(t,k['t1']-0.28,0.28))
+    raw=(k.get('text') or ' '.join(w if isinstance(w,str) else w[0] for w in (k.get('words') or []))).strip()
+    # Short complete card: wrap with the same font metrics, never mid-word at the edge,
+    # and show every line as soon as the card is on (no delayed line that leaves a hanging clause).
+    size=56; maxw=1480
+    f=fnt('Geist-SemiBold.ttf',size); lines=wrap(raw,f,maxw) or [raw]
+    while len(lines)>3 and size>42:
+        size-=4
+        f=fnt('Geist-SemiBold.ttf',size)
+        lines=wrap(raw,f,maxw) or [raw]
+    ims=[text(line,size,'Geist-SemiBold.ttf',TX,maxw) for line in lines]
+    gap=18
+    total=sum(im.shape[0]+gap for im in ims)-gap
+    y=max(240, (HT-total)//2)
+    at=k['t0']+0.06
+    for im in ims:
+        T(fr,im,M+80,y,at,t,a)
+        y+=im.shape[0]+gap
     return fr
 
 def render(sh,t):
@@ -298,10 +327,11 @@ def render(sh,t):
     if kk and kk.get('cover') and kk['t0']+0.05<=t<kk['t1']-0.05:
         return render_kinetic(kk,t)
     if k=='WES_FULL':
+        # Show the wide take as rendered (natural arms). No bottom fade, blur, or hand mask.
         fr=wes_frame(t,'WIDE')
-        # bottom fade for HG hand-smear zone (covers from y~820)
-        g=np.clip((np.linspace(0,1,HT,dtype=np.float32)-0.76)/0.20,0,1)[:,None,None]**1.1*0.92
-        fr=fr*(1-g)+BG*g
+        lt=kin_at(t)
+        if lt and lt.get('style')=='lower_third' and lt['t0']<=t<lt['t1']:
+            fr=draw_lower_third(fr, lt, t)
         return fr
     if k=='LOGO_END':
         im,m=logo();fr=card(WD,HT,LBG[0]);t0=sh['t0x'];a=pr(t,t0+0.4,0.8)*(1-pr(t,t0+0.4+0.8+1.6,0.8))
@@ -322,22 +352,48 @@ def render(sh,t):
         L=int(560*EO(pr(t,tat+0.45,0.6)))
         if L>1: paste(fr,card(L,3,AC2),M+60,y+56+160,1.0)
         return fr
+    if k=='LOWER_THIRD':
+        fr=wes_frame(t,'WIDE')
+        return draw_lower_third(fr, {'t0':sh['t0x'],'t1':sh['t1x'],'text':(sp.get('line') or sp.get('text') or '')}, t)
     if k=='SPLIT':
         # board left, Wes panel right
         y=M+40; rr=sp.get('rows') or []
         rows(fr,rr,t,M+40,y,PX-M-80,48,26)
         panel_img=wes_frame(t,'MEDIUM')
         panel(fr, panel_img, PX, PY, 24)
+        lt=kin_at(t)
+        if lt and lt.get('style')=='lower_third' and lt['t0']<=t<lt['t1']:
+            fr=draw_lower_third(fr, lt, t)
         return fr
     if k=='AGENDA':
-        y=M+60
+        y=M+20
         kick=sp.get('kicker')
-        if isinstance(kick,(list,tuple)): T(fr,text(kick[0],26,'GeistMono-Medium.ttf',AC),M+60,y,kick[1],t); y+=70
+        if isinstance(kick,(list,tuple)): T(fr,text(kick[0],26,'GeistMono-Medium.ttf',AC),M+60,y,kick[1],t); y+=58
         rr=sp.get('rows') or []
-        if rr: rows(fr,rr,t,M+60,y,1180,50,26,chips=True)
+        # tighter chips so five pills sit above the Wes bubble
+        if rr: rows(fr,rr,t,M+60,y,1180,44,14,chips=True)
         else:
             # fallback: show kicker only; pills come from spoken later
             T(fr,text('Stay with the plan.',48,'Geist-Medium.ttf',TX),M+60,y+40,sh['t0x']+1.0,t)
+        return fr
+    if k=='SCRIPTURE_CARD':
+        # #8 / #16 full-screen scripture card (no bubble)
+        y=220
+        ref=sp.get('ref')
+        if isinstance(ref,(list,tuple)): rs,rat=ref[0],ref[1]
+        else: rs,rat=str(ref or ''), sh['t0x']+0.3
+        T(fr,text('SCRIPTURE',22,'GeistMono-Medium.ttf',AC),M+80,y,rat,t)
+        T(fr,text(rs,36,'GeistMono-Medium.ttf',AC),M+80,y+44,rat,t)
+        y+=130
+        verse=sp.get('verse') or ''
+        vat=sp.get('vat', sh['t0x']+1.0)
+        hi=sp.get('hi')
+        if verse:
+            f=fnt('Geist-Medium.ttf',52); lines=wrap(verse,f,1680)
+            for i,l in enumerate(lines):
+                at=vat+i*0.45
+                im=text(l,52,'Geist-Medium.ttf',TX,1680,1.28,hi=hi[0] if hi else None,hcol=AC)
+                T(fr,im,M+80,y,at,t); y+=im.shape[0]+16
         return fr
     if k=='SCRIPTURE_BUBBLE':
         y=M+60
@@ -358,8 +414,18 @@ def render(sh,t):
         return fr
     if k=='BRANDED_STILL_BUBBLE':
         p=sp.get('still') or STILL_ASSET
+        rr=sp.get('rows') or []
         if p and os.path.isfile(p):
-            im=still(p,1100); panel(fr,im,(WD-im.shape[1])//2,(HT-im.shape[0])//2,18)
+            im=still(p, 900 if rr else 1100)
+            if rr:
+                panel(fr,im,(WD-im.shape[1])//2, M+8, 18)
+                # captions sit to the right of the Wes bubble so they are not covered
+                y=M+8+im.shape[0]+16
+                rows(fr,rr,t, 420, y, 1400, 40, 14)
+            else:
+                panel(fr,im,(WD-im.shape[1])//2,(HT-im.shape[0])//2,18)
+        elif rr:
+            rows(fr,rr,t,420,M+60,1400,52,28)
         return fr
     if k=='TYPE_BOARD_BUBBLE':
         y=M+60; rr=sp.get('rows') or []
