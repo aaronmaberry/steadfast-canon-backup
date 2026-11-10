@@ -146,6 +146,9 @@ Paths are relative to `/home/claude/lNN/`. Package = this folder (`lesson-pipeli
 - Disk is a fixed allowance (~250 GB volume, low free space). Before a lesson, delete the previous lesson's staged `.tmp` downloads and superseded deliverables. A lesson needs ~3 GB of free space (master 1.7 GB, wides ~0.4 GB, segments ~0.7 GB, file 0.37 GB).
 - The board renderer and the HTML templates, fonts and logo live in `lesson-pipeline/graphics/`. `new_lesson.sh` points the lesson there.
 - Chrome tab for HeyGen API calls: keep one light page open. Classifier or tool hiccups are transient; retry once and don't loop.
+- L07 (Nov 10): staging from Aaron's PC slowed to ~200 KB/s and every 47 MB part hit the stage wall-clock timeout, while the Chrome tab froze mid-download. Fix: close the frozen tab, open a fresh light page, and re-fetch the remaining byte range in 15 MiB (15,728,640-byte) Range pieces (`L07N-NNN.bin`); 15 MiB stages fit the timeout. Chrome silently drops some blob downloads (3 of 98): list the folder, re-fetch the gaps under a new name, then join and run the ETag check (C6) — it caught nothing wrong, but it is the only proof the order is right.
+- L07: panel boards need their `_F` twins rendered too (render.py falls back to them). After adding boards, re-run the full `boards.py`, not a name list.
+- L07: watch for a one-word orphan on big full boards (CROSSSTAYED wrapped "it."). Drop the size until the line fits.
 
 ## 4. CORRECTION LOG (newest first; each one is already a rule above)
 - **Nov 9, 2026 — L05/L06 builds (my QC):** L06 chore coat read as skin → every frame flagged as a hand; fixed with per-lesson skin thresholds (C7). L06 at 23:21 would exceed 400 MiB at CRF 18 → CRF 19 (E1). HeyGen single-part ETag on a 3 MB wide → verify script handles it (C6). B-roll rejected for B2: holiday-feast dinner sets (twice), gloved/female hands for Wade's plate; L05 and L06 kept to Wes where no true clip existed.
