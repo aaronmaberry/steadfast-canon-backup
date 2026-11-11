@@ -155,6 +155,11 @@ Paths are relative to `/home/claude/lNN/`. Package = this folder (`lesson-pipeli
 - L08: after a container restart mid-render, delete the segment that was being written (it has no moov atom; postcheck shows 2 SPS/PPS sets), then re-run render.py; finished segments are reused.
 
 ## 4. CORRECTION LOG (newest first; each one is already a rule above)
+- **Nov 11, 2026 — L10 build (my QC):**
+  - **Brown corduroy shirt:** shirt Cr ~139, hue ~9, so it overlaps skin. At the default thresholds it never forms a hand-sized blob (face ~10k px, next ~3.5k). Raising `SKIN_CR_MIN` only shrinks the face blob, so I left the defaults. Test before changing them: grab 3 frames and print the largest blob sizes at each threshold.
+  - **Release audio matched the master:** cue starts from the two alignments were within 0.06 s, so the release-audio dry run works.
+  - **Mixkit clips with 6-digit ids (100xxx):** these often have no `-720/-1080.mp4` asset. If the fetch fails, drop the clip rather than going around it.
+  - **B-roll rejected:** a woman's hand on the rotary dial (it doesn't match Wes's line), and a father-and-teen desk scene for Wes's own "my boy asked" story.
 - **Nov 11, 2026 — L09 build (my QC):**
   - **Brick tee read as skin:** handled with the new upper Cr bound (C7).
   - **The computer link dropped mid-download:** the release's audio is on the master's clock (cue starts within 0.02 s), so I ran the aligner, srt2cues, words and layout on the release audio first. When the HeyGen files arrived, only the scans and the re-alignment on the master were left.
