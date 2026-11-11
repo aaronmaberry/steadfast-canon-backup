@@ -1,6 +1,6 @@
 # Steadfast Men · Lesson 10 · The Father Who Does Not Leave · SPOKEN SCRIPT v1 (one man, face to face) · 2026-11-11 CT
 Made from L10.txt (Lesson 10 transcript, Wes Hart). Wes talks to one man, face to face. Singular you only.
-**Kept:** the teaching, seven NIV lines as printed in the transcript (John 14:9, Matthew 3:17, John 14:18, Hebrews 13:5, Hebrews 12:7, Romans 8:15, 1 John 3:1), the four father-pictures, the bolt, the breakfast, the clinic walk, Calvin, Ben, the seven mornings, telling one brother or one man, and the locked lines (Here's how this goes / one lesson at a time / one move. One. / Next lesson we look at).
+**Kept:** the teaching, seven NIV lines (John 14:9, Matthew 3:17, John 14:18, Hebrews 13:5, Hebrews 12:7, Romans 8:15, 1 John 3:1; Hebrews 12:7 is the current NIV, and the other six are as printed in the transcript), the four father-pictures, the bolt, the breakfast, the clinic walk, Calvin, Ben, the seven mornings, telling one brother or one man, and the locked lines (Here's how this goes / one lesson at a time / one move. One. / Next lesson we look at).
 **Changed (R23, R44):** every line that spoke to a group is one man. The confession opener is gone. The thanks story starts at the plain line.
 **R33:** title and agenda open. The recap is Lesson 9, Anger, the Itch, and the Drift. The close names Lesson 11, When Home Never Handed You Off. The logo end is silent.
 **Numbers:** 3500 spoken words · 423 lines. At 150 wpm the audio runs **about 23.3 min (23:20)**.
@@ -306,7 +306,7 @@ L248 Hebrews thirteen, verse five. [pause 0.7]
 L249 "Never will I leave you; never will I forsake you." [pause 1.5]
 L250 If the season is hard, hear this before you decide the Father left. [pause 0.7]
 L251 Hebrews twelve, verse seven. [pause 0.7]
-L252 "Endure hardship as discipline; God is treating you as his sons." [pause 1.5]
+L252 "Endure hardship as discipline; God is treating you as his children." [pause 1.5]
 L253 Discipline and rage were never the same thing. [pause 0.7]
 L254 A hard stretch can mean the Father stayed. [pause 0.7]
 L255 The man who learned to flinch needs that said slow. [pause 0.7]

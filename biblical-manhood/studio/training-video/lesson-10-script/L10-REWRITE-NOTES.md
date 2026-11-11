@@ -52,7 +52,7 @@ The source body is 3,738 words. This script is 3,500. Filler, false starts, show
 | Group-address grep count | `grep -ciE "you guys\|\bguys\b\|\bbrothers\b\|gentlemen\|everyone\|everybody\|some of you\|all of you\|any of you\|each of you\|y'all\|you all\|\bfolks\b\|\bfellas\b\|men of"` | **0 / 0** |
 | tell-on-myself grep count | `grep -icE "tell(ing)? on my ?self"` | **0 / 0** |
 | "the room" or "this room" | `grep -ciE "\bthe room\b\|\bthis room\b"` | **0 / 0** |
-| Scripture references | Python substring test, whitespace collapsed, against L10.txt and both script files | John 14:9, Matthew 3:17, John 14:18, Hebrews 13:5, Hebrews 12:7, Romans 8:15, and 1 John 3:1 match the transcript's printing exactly, in both files. |
+| Scripture references | Python substring test, whitespace collapsed, against L10.txt and both script files | John 14:9, Matthew 3:17, John 14:18, Hebrews 13:5, Romans 8:15, and 1 John 3:1 match the transcript's printing exactly, in both files. Hebrews 12:7 is the current NIV: "God is treating you as his children." |
 | Overlap scan result | 5-word windows against the Lesson 8 spoken script and the Lesson 9 spoken script | **Title, agenda, and locked lines only.** The windows are `hey welcome back to steadfast`, `welcome back to steadfast men`, `back to steadfast men this`, `to steadfast men this is`, `steadfast men this is lesson`, `the father who does not`, `father who does not leave`, `a father who does not`, `anger the itch and the`, `the itch and the drift`, `one lesson at a time`, `so here's your one move`, `here's your one move one`, `next lesson we look at`. No other five-word window matches. |
 | TTS text is clean | `grep -cE "\[\|L[0-9]{3}\|#\|\*"` on the .txt | **0** (no markers, line numbers, headings, or markdown) |
 | Paragraph-opening pronouns | first word of each blank-line paragraph, after markers are stripped | **0** paragraphs open with he, she, it, or they. 49 paragraphs. |
@@ -69,11 +69,11 @@ The source body is 3,738 words. This script is 3,500. Filler, false starts, show
 | Matthew 3:17 (NIV) | "And a voice from heaven said, This is my Son, whom I love; with him I am well pleased." | L187 |
 | John 14:18 (NIV) | "I will not leave you as orphans; I will come to you." | L243 |
 | Hebrews 13:5 (NIV), the clause printed in the transcript | "Never will I leave you; never will I forsake you." | L249 |
-| Hebrews 12:7, as printed in the transcript | "Endure hardship as discipline; God is treating you as his sons." | L252 |
+| Hebrews 12:7 (current NIV) | "Endure hardship as discipline; God is treating you as his children." | L252 |
 | Romans 8:15 (NIV), the clauses printed in the transcript | "The Spirit you received brought about your adoption to sonship. And by him we cry, Abba, Father." | L315 |
 | 1 John 3:1 (NIV), the clauses printed in the transcript | "See what great love the Father has lavished on us, that we should be called children of God! And that is what we are!" | L415 |
 
-Each line is printed in L10.txt. The script follows that printing so the substring check passes. Spoken citations stay in the transcript's style: "John fourteen, verse nine," "Matthew three, verse seventeen," "First John three, verse one." No other verse is quoted. "I will come to you" is said again at L247 as the other half of the verse already quoted. "With him I am well pleased" is the same clause again at L196, in the unpacking, and at L381, set against a nod at work, which is the transcript's move.
+Six of the lines are printed in L10.txt, and the script follows that printing. Hebrews 12:7 in the transcript says "his sons." L252 uses the current NIV, "his children." "Read a sentence the Father has said about his sons" (L331) is not a quote, and it stays. Spoken citations stay in the transcript's style: "John fourteen, verse nine," "Matthew three, verse seventeen," "First John three, verse one." No other verse is quoted. "I will come to you" is said again at L247 as the other half of the verse already quoted. "With him I am well pleased" is the same clause again at L196, in the unpacking, and at L381, set against a nod at work, which is the transcript's move.
 
 ## Room and table
 "The room" and "this room" are 0. "Table" is 0. The word "room" occurs five times. None of them is the audience, a second chair, or a table the man is being sent to.
