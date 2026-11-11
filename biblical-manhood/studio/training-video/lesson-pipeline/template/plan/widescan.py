@@ -4,6 +4,7 @@ detail series (same glitch measure as the master). Writes wide/widescan.json."""
 # in every frame; skin is Cr ~152 / hue 4-10. If scan.py reports a hand-sized blob in nearly every frame, raise SKIN_CR_MIN and set SKIN_HUE_MAX.
 SKIN_CR_MIN = 138
 SKIN_HUE_MAX = None   # OpenCV hue 0-180; None = off
+SKIN_CR_MAX = 175     # upper Cr bound; lower it for red/brick wardrobe (L09 brick tee: shirt Cr ~165, face ~149 -> 161)
 import json, subprocess, numpy as np, cv2
 from scipy.ndimage import median_filter, uniform_filter1d
 W = json.load(open("/home/claude/l04/wide/wide.json"))
@@ -13,7 +14,7 @@ def face_box(f):
     img = cv2.imdecode(np.frombuffer(subprocess.check_output(["ffmpeg", "-v", "error", "-ss", "3", "-i", f, "-frames:v", "1",
                                                               "-f", "image2", "-c:v", "png", "-"]), np.uint8), cv2.IMREAD_COLOR)
     ycc = cv2.cvtColor(img, cv2.COLOR_BGR2YCrCb)
-    sk = ((ycc[..., 1] > SKIN_CR_MIN) & (ycc[..., 1] < 175) & (ycc[..., 2] > 85) & (ycc[..., 2] < 122) & (ycc[..., 0] > 55)).astype(np.uint8)
+    sk = ((ycc[..., 1] > SKIN_CR_MIN) & (ycc[..., 1] < SKIN_CR_MAX) & (ycc[..., 2] > 85) & (ycc[..., 2] < 122) & (ycc[..., 0] > 55)).astype(np.uint8)
     sk[int(img.shape[0] * 0.45):] = 0                     # face is in the top half of a waist-up frame
     if SKIN_HUE_MAX is not None:
         hh = cv2.cvtColor(img, cv2.COLOR_BGR2HSV)[..., 0]

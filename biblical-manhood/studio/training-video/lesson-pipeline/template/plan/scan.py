@@ -4,6 +4,7 @@
 # in every frame; skin is Cr ~152 / hue 4-10. If scan.py reports a hand-sized blob in nearly every frame, raise SKIN_CR_MIN and set SKIN_HUE_MAX.
 SKIN_CR_MIN = 138
 SKIN_HUE_MAX = None   # OpenCV hue 0-180; None = off
+SKIN_CR_MAX = 175     # upper Cr bound; lower it for red/brick wardrobe (L09 brick tee: shirt Cr ~165, face ~149 -> 161)
 import json, subprocess, sys, numpy as np, cv2
 SRC = "/home/claude/l04/master/l04_master.mp4"
 STEP = 5
@@ -18,7 +19,7 @@ while True:
         break
     img = np.frombuffer(b, np.uint8).reshape(H, W, 3)
     ycc = cv2.cvtColor(img, cv2.COLOR_BGR2YCrCb)
-    sk = ((ycc[..., 1] > SKIN_CR_MIN) & (ycc[..., 1] < 175) & (ycc[..., 2] > 85) & (ycc[..., 2] < 125) & (ycc[..., 0] > 45)).astype(np.uint8)
+    sk = ((ycc[..., 1] > SKIN_CR_MIN) & (ycc[..., 1] < SKIN_CR_MAX) & (ycc[..., 2] > 85) & (ycc[..., 2] < 125) & (ycc[..., 0] > 45)).astype(np.uint8)
     if SKIN_HUE_MAX is not None:
         hh = cv2.cvtColor(img, cv2.COLOR_BGR2HSV)[..., 0]
         sk &= ((hh <= SKIN_HUE_MAX) | (hh >= 170)).astype(np.uint8)

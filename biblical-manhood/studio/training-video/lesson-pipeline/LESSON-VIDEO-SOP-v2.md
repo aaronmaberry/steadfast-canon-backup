@@ -41,7 +41,7 @@ Each rule shows where it came from. ✅ = checked by a script; 👁 = checked by
 | C4 | ✅ Never show a hand rising into the frame, a chin jut/lean (face width > 1.14 × rolling median) or a soft face. `quality.py` masks these, and `layout.check_all` refuses shots on them. Wide takes are used only 0.5 s inside their ends. | L01–L03 |
 | C5 | 👁 Drop any wide take that looks warped. Cut a wide shot before the hands come back up at its end. L02 1:50 was removed ("deleting is the easy fix"), and L02 13:16 was ended 1–2 s earlier. | L02 |
 | C6 | ✅ Every master and wide clip is byte-identical to HeyGen's file. `plan/verify_heygen.py` checks the S3 ETag over 8 MiB parts of the *joined* file (a small clip has a single-part ETag = plain MD5; the script handles both). | L02–L06 |
-| C7 | ✅ Wardrobe must not read as skin. After `scan.py`, the line `N with a hand-sized blob` must be a small fraction of frames. If it is near 100%, the shirt/coat is inside the skin colour range: sample coat vs face (YCrCb Cr, HSV hue) and set `SKIN_CR_MIN` / `SKIN_HUE_MAX` in `scan.py` **and** `widescan.py` (L06 tan chore coat: Cr 146, hue ≤ 12). Re-run scan → widescan → quality. | L06 |
+| C7 | ✅ Wardrobe must not read as skin. After `scan.py`, the line `N with a hand-sized blob` must be a small fraction of frames. If it is near 100%, the shirt/coat is inside the skin colour range: sample coat vs face (YCrCb Cr, HSV hue) and set `SKIN_CR_MIN` / `SKIN_HUE_MAX` in `scan.py` **and** `widescan.py` (L06 tan chore coat: Cr 146, hue ≤ 12). A red or brick shirt sits *above* skin instead (L09 brick tee: shirt Cr ~165, hue 0–2; face Cr ~149, hue 2–9; hue does not separate them): lower `SKIN_CR_MAX` (L09: 161) and, because that trims hand blobs a little, drop the hand threshold in `quality.py` to 0.025. Re-run scan → widescan → quality. | L06, L09 |
 
 ### B-roll
 | # | Rule | From |
@@ -155,6 +155,13 @@ Paths are relative to `/home/claude/lNN/`. Package = this folder (`lesson-pipeli
 - L08: after a container restart mid-render, delete the segment that was being written (it has no moov atom; postcheck shows 2 SPS/PPS sets), then re-run render.py; finished segments are reused.
 
 ## 4. CORRECTION LOG (newest first; each one is already a rule above)
+- **Nov 11, 2026 — L09 build (my QC):**
+  - **Brick tee read as skin:** handled with the new upper Cr bound (C7).
+  - **The computer link dropped mid-download:** the release's audio is on the master's clock (cue starts within 0.02 s), so I ran the aligner, srt2cues, words and layout on the release audio first. When the HeyGen files arrived, only the scans and the re-alignment on the master were left.
+  - **Chrome dropped 3 of 213 pieces silently:** re-fetched by name (the existing gap check).
+  - **Kickers are Wes's words too:** I had written labels like "What each exit pays" and "My own driveway, engine off". Replaced them with plain labels ("The pay") or his exact clause.
+  - **B-roll from the review release is a candidate list, not a given:** I kept 4 of its 6 clips. I dropped the boxer for "Anger … looks like strength" (not literal) and the café laptop man for "Headphones through a whole evening" (commercial and not the line). Both lines stay on Wes.
+  - **A 0.4 s frame-difference spike in a gestured master is not a jump:** look at the 6 frames before covering it.
 - **Nov 9, 2026 — L05/L06 builds (my QC):** L06 chore coat read as skin → every frame flagged as a hand; fixed with per-lesson skin thresholds (C7). L06 at 23:21 would exceed 400 MiB at CRF 18 → CRF 19 (E1). HeyGen single-part ETag on a 3 MB wide → verify script handles it (C6). B-roll rejected for B2: holiday-feast dinner sets (twice), gloved/female hands for Wade's plate; L05 and L06 kept to Wes where no true clip existed.
 - **Nov 5, 2026, 8:00 AM CT — L03 v2, Aaron:** "text captions … around 6:24 … they muddle together … garbled … make sure they're nice, crisp, and clean." Cause: a new band faded in on top of the fully visible old one (0.3 s overlap), at 32 changes in L03 and 31 in L04. Fix: T1, T2, T3 (wide-take scrim added as well). L03/L04 v3 re-rendered; every change checked frame by frame. Locked 10:14 AM ("great lock in these 2 … make sure SOP … is updated on those corrections moving forward").
 - **Nov 4, 2026 — L04 build (my QC before Aaron saw it):** the workshop drill clip was replaced with a home clip (B2). The bright-footage scrim was added (T3). Seven unreadable bands were fixed and one 2 s Wes piece lengthened (T4, C2).
