@@ -156,6 +156,7 @@ Paths are relative to `/home/claude/lNN/`. Package = this folder (`lesson-pipeli
 
 ## 4. CORRECTION LOG (newest first; each one is already a rule above)
 - **Nov 12, 2026 — L11 build (my QC):**
+  - **The OPEN segment is cached by its timing, not by OPEN.png:** after a board-name collision, delete `render_1080/seg_OPEN_*` before re-rendering. Otherwise the bad open is reused.
   - **Reserved board names:** a band I named `OPEN` replaced the silent-open board, so the first 4 s showed a caption over black. Never name a board OPEN, LOGO or FIELD (prefix story bands, e.g. `DOOROPEN`).
   - **P shots over "P bad" master frames:** a P shot that runs over master frames quality.py marks "P bad" (hands in the card crop) can render with no Wes card at all. layout.py does not flag it. Look at every P shot in the contact sheet, and make that one an F board.
   - **B-roll ids:** the Mixkit id for "dirt road" downloaded a close-up of bloody scalpels. A thumbnail in a listing is not proof of what the download is. B1 (view a 6-frame strip of the downloaded file before it goes in the spec) caught it. Never skip B1.
