@@ -152,3 +152,10 @@
 
 2026-10-26 ~9:24 AM CT — re-run after fix. /workspace/training-ep01 was archived to Drive and removed 2026-10-23, so the 10-24 and 10-26 (09:07) builds silently had 0 training files (66 lean paths dropped). Restored the tree from the 10-23 snapshot to /workspace/artifacts/training/training-ep01-restored-2026-10-23 and repointed EXTRA_SRCS/EXTRA_FILES/AUDIO_SRCS (originals saved as tools/backup_daily.{sh,py}.pre-2026-10-26). Added a WARNING for missing extra sources. Build: 1810 files, lean 1316, training_files=66, quarantined=0. Drive: steadfast-canon-2026-10-26.tgz id 1aYx4tq7u_1PaOxEGhof01hYvtn_3KSG5 (sha verified, 66 training-ep01 entries). Nothing trashed on Drive. Origin/GitHub/Notion not pushed by this run.
 2026-10-29 Origin commit confirmed: cd59ffb669ff1b0655f496a83d326f2a583580bd on main of aaron-maberry/tmp-1571ddf978c2e3c0 (bc-84fa7ddb), 8 files.
+
+2026-11-09 ~7:05 AM CT — daily backup (exit 10; changed=3 removed=0): Origin + GitHub OK, Drive FAILED.
+- Origin: aaron-maberry/tmp-1571ddf978c2e3c0 main SHA 2a388fc49c93d454e5875deda1e8dacd02208347 (cloud agent bc-1e9d3ee2; 5 files, prior b6537da). 
+- GitHub PRIVATE aaronmaberry/steadfast-canon-backup main SHA 185f7b08c66266884508a3938f090e44b64600de (connector push_files 2b52b6a7 for 3 files, then gh contents API restore of full DAILY-BACKUP.md since push_files copy had older entries abbreviated). Public aaronmaberry/steadfast untouched.
+- Drive: steadfast-canon-2026-11-09.tgz NOT uploaded (Drive connector create_file caps base64 at 1,000,000 chars; tgz is 6.3MB). File id: none. Expired helper named 11-02, 11-03, 11-04 but NOT trashed so one off-box copy stays live until today's upload lands.
+
+2026-11-11 ~7:25 AM CT - daily backup (exit 10; changed=1 log file only): GitHub private push OK (OVERNIGHT-ROLLUP-2026-11-10.md). Origin and Drive NOT done (log-only change; Drive connector caps uploads at ~1MB, tgz is 6MB).
