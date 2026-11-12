@@ -155,6 +155,12 @@ Paths are relative to `/home/claude/lNN/`. Package = this folder (`lesson-pipeli
 - L08: after a container restart mid-render, delete the segment that was being written (it has no moov atom; postcheck shows 2 SPS/PPS sets), then re-run render.py; finished segments are reused.
 
 ## 4. CORRECTION LOG (newest first; each one is already a rule above)
+- **Nov 12, 2026 — L11 build (my QC):**
+  - **Reserved board names:** a band I named `OPEN` replaced the silent-open board, so the first 4 s showed a caption over black. Never name a board OPEN, LOGO or FIELD (prefix story bands, e.g. `DOOROPEN`).
+  - **P shots over "P bad" master frames:** a P shot that runs over master frames quality.py marks "P bad" (hands in the card crop) can render with no Wes card at all. layout.py does not flag it. Look at every P shot in the contact sheet, and make that one an F board.
+  - **B-roll ids:** the Mixkit id for "dirt road" downloaded a close-up of bloody scalpels. A thumbnail in a listing is not proof of what the download is. B1 (view a 6-frame strip of the downloaded file before it goes in the spec) caught it. Never skip B1.
+  - **Slow HeyGen downloads:** the computer's link dropped to about 0.2 MB/s for an hour, then recovered. Keep the queue running and build captions, boards and spec on the release audio meanwhile.
+  - **Hands in master W pieces:** two "wide not clean" W pieces were covered with P/F stacks (`NO_WIDE` does not help there, because the flag is about the master).
 - **Nov 11, 2026 — L10 build (my QC):**
   - **Brown corduroy shirt:** shirt Cr ~139, hue ~9, so it overlaps skin. At the default thresholds it never forms a hand-sized blob (face ~10k px, next ~3.5k). Raising `SKIN_CR_MIN` only shrinks the face blob, so I left the defaults. Test before changing them: grab 3 frames and print the largest blob sizes at each threshold.
   - **Release audio matched the master:** cue starts from the two alignments were within 0.06 s, so the release-audio dry run works.
