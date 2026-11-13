@@ -159,3 +159,14 @@
 - Drive: steadfast-canon-2026-11-09.tgz NOT uploaded (Drive connector create_file caps base64 at 1,000,000 chars; tgz is 6.3MB). File id: none. Expired helper named 11-02, 11-03, 11-04 but NOT trashed so one off-box copy stays live until today's upload lands.
 
 2026-11-11 ~7:25 AM CT - daily backup (exit 10; changed=1 log file only): GitHub private push OK (OVERNIGHT-ROLLUP-2026-11-10.md). Origin and Drive NOT done (log-only change; Drive connector caps uploads at ~1MB, tgz is 6MB).
+
+2026-11-12 ~7:20 AM CT - daily backup (exit 10; changed=2 log files only): GitHub private push OK (main commits 29b38a0, 1807e75). Origin and Drive NOT done (log-only change; Drive connector ~1MB cap, tgz 6MB).
+
+2026-11-12 ~7:50 AM CT — Drive catch-up (Aaron approved split-and-upload 7:45 AM CT). Whole-file cursor UploadFile worked (no split needed this run); each file verified by Drive size match plus re-download sha256.
+- Drive folder Steadfast Men/Backups 1IO1LcXoeTK3PuuuGGOK4LgM560U9qMpM:
+  - steadfast-canon-2026-11-09.tgz id 144Hk18FJZ7skK7QS_end4p_lXQDLHFN7 (6,346,674 B, sha256 86ff41f293c8af5fe53f40fc9cb51d9f8e02847eb98d7fccc1cf7c60b395146c). Replaced earlier wrong-size copy 1VYMK60aYhl7YsBSsrEMO09qcM6izBxFo (6,345,804 B), which was trashed (not deleted).
+  - steadfast-canon-2026-11-10.tgz id 1igxbfz4T3V-Lg8Mq1c7VZHI3NEmq2g0s (6,346,504 B, sha256 caa8925216cb646eb508c7e89ae2b38f1a218930f2317be5c704d3d031585590). Local archive existed; was not already on Drive.
+  - steadfast-canon-2026-11-11.tgz id 1hrSeIkRGhLcB8OOJjsjWefyn7auOYeJX (6,346,578 B, sha256 2fb4254b9ca82b689525f312ff464ed081eb08e94ab68ce30a56f127ad44df51).
+  - steadfast-canon-2026-11-12.tgz id 1np8RaG65QRvJ1hqCzDhOnwghshe40gJD (6,346,712 B, sha256 ad557df8edd5d6435cfa26d22a1b6b904931d061bd4fc2d0c1d40919f6a5cad8).
+- Trashed (not deleted) expired 11-02 (1FtyJHlrjpdiScKk8vAYVCfCp-yU2KyUq), 11-03 (1Z3JdqqlKiljUg2YXg3kFuw-UqbVP4faN), 11-04 (1-8aZatbXY_0FicwF_Ou7jvt80mTdzm0u) per expired helper (cutoff 2026-11-09). Live: 11-09, 11-10, 11-11, 11-12. Workbooks and disk-archive-2026-11-09 left untouched.
+- Script: added /workspace/scripts/jarvis/steadfast-daily-backup-drive-parts.py (and .sh wrapper). The daily gate now emits drive_parts / drive_sha256 / drive_split. BACKUP.md step 4: try whole-file UploadFile first; if that fails, upload drive_parts; restore with `cat steadfast-canon-<date>.tgz.part* > steadfast-canon-<date>.tgz && sha256sum -c steadfast-canon-<date>.tgz.sha256`.
