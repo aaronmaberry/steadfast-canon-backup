@@ -10,7 +10,7 @@ JOINS = []
 import spec
 
 FPS = 25
-QW = np.load("/home/claude/l04/plan/q_wide.npy"); QP = np.load("/home/claude/l04/plan/q_panel.npy")
+QW = np.load("/home/claude/l04/plan/q_wide.npy"); QPT = np.load("/home/claude/l04/plan/q_tight.npy"); QP = np.load("/home/claude/l04/plan/q_panel.npy")
 sys.path.insert(0, "/home/claude/l04/gfx")
 BROLL = pathlib.Path("/home/claude/l04/broll")
 
@@ -73,7 +73,7 @@ def check(sh, strict_broll=True):
                 probs.append(f"{tag}: wide not clean at {sorted(set(round((s['f0'] + b) / FPS, 1) for b in bad))[:8]}")
             s["seg"] = seg
         if s["kind"] == "P":
-            bad = np.where(QP[fr] != 0)[0]
+            bad = np.where((QPT if s.get("tight") else QP)[fr] != 0)[0]
             if len(bad):
                 probs.append(f"{tag}: panel not clean at {sorted(set(round((s['f0'] + b) / FPS, 1) for b in bad))[:8]}")
         if s["kind"] in ("WW", "WS"):

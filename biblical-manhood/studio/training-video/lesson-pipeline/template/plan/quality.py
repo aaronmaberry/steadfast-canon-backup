@@ -11,8 +11,8 @@ JOINS = []
 FPS = 25
 TOTAL = 1287.88
 N = int(round(TOTAL * FPS))
-TOP = {"W": 840 / 3, "P": 800 / 3}           # scan is 640x360 = 1080p / 3: W fades out by y=880, P crop ends at y=840
-XR = {"W": (0, 640), "P": (400 / 3, 1520 / 3)}  # P crop is x 372..1548
+TOP = {"W": 840 / 3, "P": 800 / 3, "T": 700 / 3}           # scan is 640x360 = 1080p / 3: W fades out by y=880, P crop ends at y=840
+XR = {"W": (0, 640), "P": (400 / 3, 1520 / 3), "T": (470 / 3, 1450 / 3)}   # T: tight card crop 980x700 at x 470 (L12)  # P crop is x 372..1548
 
 
 def roll_med(x, k):
@@ -27,10 +27,10 @@ fr = d["frames"]; step = d["step"]
 fw = np.array([f["face"][2] if f["face"] else np.nan for f in fr], float)
 sh = np.array([f.get("sharp", np.nan) if f["face"] else np.nan for f in fr], float)
 med_w = roll_med(fw, 25 // step * 2); med_s = roll_med(sh, 25 // step * 2)
-why = {"W": np.zeros(N, np.int8), "P": np.zeros(N, np.int8)}
+why = {"W": np.zeros(N, np.int8), "P": np.zeros(N, np.int8), "T": np.zeros(N, np.int8)}
 counts = {}
 for j, f in enumerate(fr):
-    for view in ("W", "P"):
+    for view in ("W", "P", "T"):
         r = []
         if not f["face"]:
             r.append("noface")
@@ -72,7 +72,15 @@ def clean(a, min_run=3, pad=5):
 for view in why:
     why[view] = clean(why[view])
 # v5 joins: the picture jumps there, but a shot may start or end on one (layout.check refuses shots that span one)
-np.save("/home/claude/l04/plan/q_wide.npy", why["W"]); np.save("/home/claude/l04/plan/q_panel.npy", why["P"])
+np.save("/home/claude/l04/plan/q_wide.npy", why["W"]); np.save("/home/claude/l04/plan/q_panel.npy", why["P"]); np.save("/home/claude/l04/plan/q_tight.npy", why["T"])
+# L12: frame-level hand maps (plan/dense_*.npy, every frame) on top of the 5-frame scan
+import os
+for nm, dn in (("q_wide", "dense_w"), ("q_panel", "dense_p"), ("q_tight", "dense_t")):
+    fp = f"/home/claude/l04/plan/{dn}.npy"
+    if os.path.exists(fp):
+        q = np.load(f"/home/claude/l04/plan/{nm}.npy"); d = np.load(fp).astype(int)[:N]
+        m = np.convolve(d, np.ones(11, int), "same") > 0; q[:len(m)][m & (q[:len(m)] == 0)] = 9
+        np.save(f"/home/claude/l04/plan/{nm}.npy", q); print(nm, "bad s", round((q != 0).sum() / FPS, 1))
 print({f"{v}:{x}": round(c * step / FPS, 1) for (v, x), c in counts.items()}, "seconds")
 for v in why:
     print(v, "bad", round(why[v].sum() / FPS, 1), "s of", round(N / FPS, 1))
@@ -87,7 +95,15 @@ USE_WARP = False
 for _a, _b, _m in (_runs if USE_WARP else []):
     for _v in ("W", "P"):
         why[_v][max(0, int(_a * FPS) - PADG):min(N, int(_b * FPS) + PADG)] = 1
-np.save("/home/claude/l04/plan/q_wide.npy", why["W"]); np.save("/home/claude/l04/plan/q_panel.npy", why["P"])
+np.save("/home/claude/l04/plan/q_wide.npy", why["W"]); np.save("/home/claude/l04/plan/q_panel.npy", why["P"]); np.save("/home/claude/l04/plan/q_tight.npy", why["T"])
+# L12: frame-level hand maps (plan/dense_*.npy, every frame) on top of the 5-frame scan
+import os
+for nm, dn in (("q_wide", "dense_w"), ("q_panel", "dense_p"), ("q_tight", "dense_t")):
+    fp = f"/home/claude/l04/plan/{dn}.npy"
+    if os.path.exists(fp):
+        q = np.load(f"/home/claude/l04/plan/{nm}.npy"); d = np.load(fp).astype(int)[:N]
+        m = np.convolve(d, np.ones(11, int), "same") > 0; q[:len(m)][m & (q[:len(m)] == 0)] = 9
+        np.save(f"/home/claude/l04/plan/{nm}.npy", q); print(nm, "bad s", round((q != 0).sum() / FPS, 1))
 _ws = _json.load(open("/home/claude/l04/wide/widescan.json"))
 qww = np.full(N, -1, np.int8); widx = np.full(N, -1, np.int16)
 for _k, _c in enumerate(_ws):

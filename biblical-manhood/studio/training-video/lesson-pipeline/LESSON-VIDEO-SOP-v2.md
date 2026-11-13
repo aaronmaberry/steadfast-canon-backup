@@ -38,7 +38,7 @@ Each rule shows where it came from. ✅ = checked by a script; 👁 = checked by
 | C1 | Talking head is the priority. Mix waist-up wides and half-screen (split card) shots. Cuts go in pauses (`k()` = cut in the pause before the cue). | L02 |
 | C2 | ✅ Every Wes piece (W/P/WW) is 3 s or longer. Full-frame name stings (one word, e.g. "Peace.") may be 2.4–3 s. | L02, L04 |
 | C3 | No zoom or "settle" on shot entries. It wobbles the face (L02 v5). Wide takes are cut to the nearest frame (`trim=start_frame`). | L02 |
-| C4 | ✅ Never show a hand rising into the frame, a chin jut/lean (face width > 1.14 × rolling median) or a soft face. `quality.py` masks these, and `layout.check_all` refuses shots on them. Wide takes are used only 0.5 s inside their ends. | L01–L03 |
+| C4 | ✅ Never show a hand rising into the frame, a chin jut/lean (face width > 1.14 × rolling median) or a soft face. `quality.py` masks these (with the frame-level `densehands.py` map, L12), `layout.check_all` refuses shots on them, and `angles.py` covers hand stretches with a P (normal or tight card) or the band as a full board. Wide takes are used only 0.5 s inside their ends. | L01–L03, L12 |
 | C5 | 👁 Drop any wide take that looks warped. Cut a wide shot before the hands come back up at its end. L02 1:50 was removed ("deleting is the easy fix"), and L02 13:16 was ended 1–2 s earlier. | L02 |
 | C6 | ✅ Every master and wide clip is byte-identical to HeyGen's file. `plan/verify_heygen.py` checks the S3 ETag over 8 MiB parts of the *joined* file (a small clip has a single-part ETag = plain MD5; the script handles both). | L02–L06 |
 | C7 | ✅ Wardrobe must not read as skin. After `scan.py`, the line `N with a hand-sized blob` must be a small fraction of frames. If it is near 100%, the shirt/coat is inside the skin colour range: sample coat vs face (YCrCb Cr, HSV hue) and set `SKIN_CR_MIN` / `SKIN_HUE_MAX` in `scan.py` **and** `widescan.py` (L06 tan chore coat: Cr 146, hue ≤ 12). A red or brick shirt sits *above* skin instead (L09 brick tee: shirt Cr ~165, hue 0–2; face Cr ~149, hue 2–9; hue does not separate them): lower `SKIN_CR_MAX` (L09: 161) and, because that trims hand blobs a little, drop the hand threshold in `quality.py` to 0.025. Re-run scan → widescan → quality. | L06, L09 |
@@ -96,7 +96,8 @@ Paths are relative to `/home/claude/lNN/`. Package = this folder (`lesson-pipeli
    - `echo [] > master/warp_runs.json`.
    - `python3 plan/align_wides.py`. **Gate:** every wide correlation ≥ 0.99.
    - Write `wide/verified.json` ({master:{id,etag,match}, wide:{id:true}}).
-   - `python3 plan/widescan.py`, then `python3 plan/quality.py`.
+   - `python3 plan/densehands.py` (~20 min, background; frame-level hand map — the 5-frame scan misses hands that are up for under 0.4 s). Check its skin bounds against the wardrobe first (C7).
+   - `python3 plan/widescan.py`, then `python3 plan/quality.py` (it ORs the dense maps into q_wide / q_panel / q_tight).
 6. **Boards**
    - Write `gfx/boards_lNN.py` from the script, using `boards_l04_EXAMPLE.py` as the model:
      - TITLE with `progress(NN)`
@@ -155,6 +156,13 @@ Paths are relative to `/home/claude/lNN/`. Package = this folder (`lesson-pipeli
 - L08: after a container restart mid-render, delete the segment that was being written (it has no moov atom; postcheck shows 2 SPS/PPS sets), then re-run render.py; finished segments are reused.
 
 ## 4. CORRECTION LOG (newest first; each one is already a rule above)
+- **Nov 13, 2026 — L12 build (my QC):**
+  - **Camel crewneck read as skin** (Cr ~147, hue 12–14; face hue 6–10): `SKIN_HUE_MAX = 11` in scan.py and widescan.py (C7). The sweater's shoulder highlights still sit at Cr 141–142, so `densehands.py` uses Cr > 146 below the face, and treats the crewneck patch (y 193–240 at 640×360) as collar.
+  - **The 5-frame scan missed hands:** QC found fingertips at the bottom of P cards (0:42, 12:24) and a hand in a W shot (17:27). Every frame is now checked (`densehands.py`). This master gestures a lot: ~210 s of W and ~220 s of P frames show hands.
+  - **Covers for hands, Wes kept on screen where possible** (`angles.py`, `W_COVER`): a W stretch with hands and no clean wide becomes (1) a P with the band text beside the normal card, (2) a P with a **tight card** (master crop 980×700 at x 470 instead of 1120×800 at 400; still a downscale, so no softening; hands must stay below y 700), or (3) a full-frame board of the band text (`<BAND>F`). P shots use the tight card before falling back to F. Every band now gets `<BAND>F` and `<BAND>P` boards automatically (`boards_base.band`).
+  - **Short pieces inside a split shot are merged** (C2): a Wes piece under 3 s takes a neighbour's camera when that camera is clean over it, otherwise it joins the cover; a cover under 2.4 s takes a neighbour's chunk or folds a neighbour run under 6 s.
+  - Result: L12 Wes on screen ~627 s of 1,406 (W 218, P 281 incl. tight cards, WW 112, WS 8); 0 layout problems; every card checked at 0.4 s and every W lower frame at 0.8 s by eye.
+  - **B-roll rejected:** a calendar clip with "MONEY" handwritten on the date (on-screen words must be Wes's own).
 - **Nov 12, 2026 — L11 build (my QC):**
   - **The OPEN segment is cached by its timing, not by OPEN.png:** after a board-name collision, delete `render_1080/seg_OPEN_*` before re-rendering. Otherwise the bad open is reused.
   - **Reserved board names:** a band I named `OPEN` replaced the silent-open board, so the first 4 s showed a caption over black. Never name a board OPEN, LOGO or FIELD (prefix story bands, e.g. `DOOROPEN`).

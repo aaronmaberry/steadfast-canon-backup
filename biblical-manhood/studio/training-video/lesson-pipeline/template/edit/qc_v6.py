@@ -40,7 +40,7 @@ if __name__ == "__main__":
         elif s["kind"] == "P":      # card: master crop 1120x800@400,0 scaled 0.75 to 840x600 at 1000,210 -> face box inside
             a = grab(OUT, PRE + t, n, "330:390:1255:240")
             b = subprocess.check_output(["ffmpeg", "-v", "error", "-ss", f"{t:.3f}", "-i", MASTER, "-frames:v", str(n), "-vf",
-                                         "crop=1120:800:400:0,scale=840:600,crop=330:390:255:30,format=gray", "-f", "rawvideo", "-"])
+                                         ("crop=980:700:470:0" if s.get("tight") else "crop=1120:800:400:0") + ",scale=840:600,crop=330:390:255:30,format=gray", "-f", "rawvideo", "-"])
             b = np.frombuffer(b, np.uint8).reshape(-1, 390, 330).astype(np.float32)
         else:
             c = WIDE[int(WIDX[s["f0"]])]; x, y, w, h = c["face"]; w, h = w // 2 * 2, h // 2 * 2

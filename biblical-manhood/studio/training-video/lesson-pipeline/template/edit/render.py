@@ -161,7 +161,7 @@ def shot_cmd(s, dip_in, dip_out, out):
         ss = t0
         cw, chh, cx = round(840 * SC), round(600 * SC), round(1000 * SC)
         inputs += ["-ss", f"{ss:.3f}", "-i", str(MASTER), "-loop", "1", "-framerate", str(FPS), "-t", f"{dur + 0.2:.3f}", "-i", MASK["card"]]
-        chain += [f"[1:v]fps={FPS},crop=1120:800:400:0,scale={cw}:{chh}{settle(s, cw, chh)},format=rgba,setpts=PTS-STARTPTS[pv]", "[2:v]format=gray[pm]",
+        chain += [f"[1:v]fps={FPS},crop={'980:700:470:0' if s.get('tight') else '1120:800:400:0'},scale={cw}:{chh}{settle(s, cw, chh)},format=rgba,setpts=PTS-STARTPTS[pv]", "[2:v]format=gray[pm]",
                   "[pv][pm]alphamerge[pa]", f"[{last}][pa]overlay={cx}:{round(210 * SC)}:eof_action=repeat[pb]"]
         last = "pb"; n_in = 3
         inputs += ["-loop", "1", "-framerate", str(FPS), "-t", f"{dur + 0.2:.3f}", "-i", png("CARD")]

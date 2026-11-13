@@ -66,6 +66,15 @@ def band(name, line1, line2="", text=None):
                     f'text-shadow:0 2px 18px rgba(0,0,0,.85)">{line1}</div>{l2}</div>',
                     cls="alpha", glow=False, grain=False, vig=False), True)
     KIND[name] = "BAND"; TEXT[name] = text or (line1 + " " + line2)
+    # the same words as a full-frame board, to cover a W stretch where Wes's hands are up and no clean wide exists (L12)
+    l2f = f'<div style="font-weight:300;font-size:58px;line-height:1.2;color:var(--muted);margin-top:30px;max-width:1500px">{line2}</div>' if line2 else ""
+    B[name + "F"] = (page(f'<div class="safe"><div style="position:absolute;left:0;top:{330 if line2 else 400}px;width:100%">'
+                          f'<div style="font-weight:500;font-size:84px;line-height:1.12;letter-spacing:-0.02em;max-width:1560px">{line1}</div>{l2f}</div></div>'), False)
+    KIND[name + "F"] = "FULL"; TEXT[name + "F"] = TEXT[name]
+    # and as split-layout text beside the Wes card, where the card crop is clean but the full frame shows hands (L12)
+    l2p = f'<div style="font-weight:300;font-size:44px;line-height:1.22;color:var(--muted);margin-top:24px">{line2}</div>' if line2 else ""
+    panel(name + "P", f'<div style="font-weight:500;font-size:62px;line-height:1.14;letter-spacing:-0.02em">{line1}</div>{l2p}',
+          TEXT[name], top=360 if line2 else 420)
 
 
 def kicker(s, a=True):
